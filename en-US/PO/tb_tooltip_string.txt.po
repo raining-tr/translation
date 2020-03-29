@@ -1,0 +1,1847 @@
+# Eisou <nanamiide@gmail.com>, 2020. #zanata
+# Raining <rainingdreams@protonmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-03-09 12:04-0400\n"
+"Last-Translator: Eisou <nanamiide@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "d2c2c8224f85574124791fad7c749e44"
+msgid "ID=15"
+msgstr "ID=15"
+
+msgctxt "2aaa8baf6fda708c672d792aebd036b5"
+msgid "스태미나 회복"
+msgstr "Stamina Recovery"
+
+msgctxt "9723bb4e39533eb6b10ee9ede54f8697"
+msgid "초당 회복되는 스태미나 양입니다"
+msgstr "The amount of stamina that is recovered per second"
+
+msgctxt "e248668dbdc7fdf60c3ad3145a73101d"
+msgid "ID=18"
+msgstr "ID=18"
+
+msgctxt "88fefcaa8e3a6e97f5bac6d1f120dba3"
+msgid "이동 속도"
+msgstr "Movement Speed"
+
+msgctxt "b01c036caee7d33f727138e686374173"
+msgid "플레이어의 이동 속도 배율입니다"
+msgstr "Increases the movement speed of the player"
+
+msgctxt "bf3c5f676ded809fa564eed630eed3ea"
+msgid "ID=19"
+msgstr "ID=19"
+
+msgctxt "536a23f30b0190840e9c24c8bf8f75d0"
+msgid "공격 속도"
+msgstr "Attack Speed"
+
+msgctxt "6b0f69a63d02a3e759d2fd25f4fab70d"
+msgid "플레이어의 공격 속도 배율입니다"
+msgstr "Increases the attack speed of the player"
+
+msgctxt "1accf3ae40cf7c74d372450509d2ecc7"
+msgid "ID=21"
+msgstr "ID=21"
+
+msgctxt "6cadd8cd8b4280a1b4f8521a5d0ff312"
+msgid "공격력"
+msgstr "Attack"
+
+msgctxt "dc3e0ab7dcf9ce6dbaf57b7521c21727"
+msgid "적을 공격 시 줄 수 있는 최소 및 최대 피해량입니다"
+msgstr "The minimum and maximum damage you can deal"
+
+msgctxt "a856a4514b29addc71116e0e302af0de"
+msgid "ID=24"
+msgstr "ID=24"
+
+msgctxt "f8e5ea495174e748294f98fe2fd2aa54"
+msgid "방어도"
+msgstr "Defense"
+
+msgctxt "1daa561fed6ac2ed8aacb9307cd7a138"
+msgid ""
+"적의 공격에 의한 피해를 방어율 만큼 감소 시킵니다.\\n방어율: 동일 레벨 기준 {0}% 감소\\n레벨 격차에 따라 방어율의 차이가 "
+"발생 합니다."
+msgstr ""
+"Reduce damage by a ratio dependent on the enemy's attack.\\nDamage reduction "
+"against the same level enemy: {0}%\\nReduction will vary based on the "
+"enemy's level."
+
+msgctxt "ff2187a8f49a17e087d2f97738cf4368"
+msgid "ID=26"
+msgstr "ID=26"
+
+msgctxt "01cd1574b568dc5999e3e628b9e1e517"
+msgid "적중도"
+msgstr "Accuracy"
+
+msgctxt "8c07354d981eb00598bb57835262b068"
+msgid "공격 시, 빗 맞힐 확률을 줄여줍니다"
+msgstr "Reduces the chances of your attack being evaded."
+
+msgctxt "245c002d0826ce0ae8de7a0a7b8e4c24"
+msgid "ID=28"
+msgstr "ID=28"
+
+msgctxt "045f26108753cd977d94c9a59b1c415c"
+msgid "빗맞음 시 피해"
+msgstr "Evaded Attack Damage"
+
+msgctxt "509f03bdc1ac2d59f9de71802bf36fc6"
+msgid "내 공격이 빗맞음 판정 시 적용되는 피해 비율입니다"
+msgstr "The damage applied to an evaded attack."
+
+msgctxt "87c09c6a274f436070673215e12f119c"
+msgid "ID=29"
+msgstr "ID=29"
+
+msgctxt "f76f0ed6595e88f8d327e1d66c4ca53f"
+msgid "치명타"
+msgstr "Critical Hit"
+
+msgctxt "584aa841e056315c77e0358814469feb"
+msgid "공격 시, 치명타 발생 확률 및 치명타 발생 시 추가되는 피해 수치입니다.(최대 피해량 기준)"
+msgstr ""
+"Critical attack chance and additional damage when a critical attack applies "
+"(based on maximum damage)"
+
+msgctxt "e0c30dbf517bde28262736aa95f4d9c0"
+msgid "ID=31"
+msgstr "ID=31"
+
+msgctxt "691bb72d882a210bc0099021d7162741"
+msgid "치명타 저항"
+msgstr "Critical Resistance"
+
+msgctxt "99eb6926721f8e84b9d10eeb3a79944d"
+msgid "치명타 피해를 받을 확률을 감소시킵니다"
+msgstr "Reduces the chance of receiving critical damage"
+
+msgctxt "387cad33f920a55b4a9171ec772f0f39"
+msgid "ID=35"
+msgstr "ID=35"
+
+msgctxt "8f066cecaba493a3117ed068f81dc230"
+msgid "치명타 피해"
+msgstr "Critical Damage"
+
+msgctxt "c0ad06c0a16e75bee655218e59faf49b"
+msgid " 치명타 발생시에 추가되는 피해입니다"
+msgstr "Additional Damage for a critical attack."
+
+msgctxt "0e0301009c1ec38310da63f2788f4b6e"
+msgid "ID=38"
+msgstr "ID=38"
+
+msgctxt "561badfcdd615be549d22ac546256895"
+msgid "피해 감소"
+msgstr "Damage Reduction"
+
+msgctxt "99bbc26d05accaae8e08a18631a11591"
+msgid "적의 공격에 의한 피해를 감소시킵니다"
+msgstr "Reduces damage from enemy attacks"
+
+msgctxt "6f5958d8943ee5c27a5b0d3b11684d6e"
+msgid "ID=43"
+msgstr "ID=43"
+
+msgctxt "e84828036266b7acedeb1d051a6caaff"
+msgid "회피도"
+msgstr "Evasion"
+
+msgctxt "73d986a1c137fd61652f4943e182333d"
+msgid "적에 공격에 빗맞을 확률을 증가시킵니다"
+msgstr "Increases the chance that an enemy's attack will miss"
+
+msgctxt "3fd368fc5f31428f7753a4d24ec96992"
+msgid "ID=47"
+msgstr "ID=47"
+
+msgctxt "76a0f90584389e26504890afd8d1861a"
+msgid "적 방어도 관통"
+msgstr "Penetration"
+
+msgctxt "bd5123a7b901c3c37c9987a1ad86e511"
+msgid "공격 시, 적의 방어도를 해당 값 만큼 무시합니다."
+msgstr "Ignores the enemy's armor by the given value"
+
+msgctxt "344420c46378dfa322d0cc89459c38ab"
+msgid "ID=49"
+msgstr "ID=49"
+
+msgctxt "347741d2e0104e09d1b8adb8a0ac52ca"
+msgid "저항 : 화상"
+msgstr "Resistance: Burn"
+
+msgctxt "7d031f2b8cb09b2d94abbca79cb62ec3"
+msgid "화상에 걸릴 확률을 낮춰줍니다"
+msgstr "Decreases the chance of getting the effect Burn"
+
+msgctxt "1bd3565f6152f50611733241c01a07da"
+msgid "ID=50"
+msgstr "ID=50"
+
+msgctxt "d787cdc03fd353043938b9b0b7573db4"
+msgid "저항 : 중독"
+msgstr "Resistance: Poison"
+
+msgctxt "f6cc8cdc7ed66659b8dc56f271269261"
+msgid "중독에 걸릴 확률을 낮춰줍니다"
+msgstr "Decreases the chance of getting the effect Poison"
+
+msgctxt "9ca59d89c72c8bdd402160258ee78cff"
+msgid "ID=51"
+msgstr "ID=51"
+
+msgctxt "9f9e867e2ae3817681377a994535d3fc"
+msgid "저항 : 감전"
+msgstr "Resistance: Shock"
+
+msgctxt "5568b3a381c21ea5fae35f1340b0dab7"
+msgid "감전에 걸릴 확률을 낮춰줍니다"
+msgstr "Decreases the chance of getting the effect Shock"
+
+msgctxt "898f4e53ec6d7761e85593a3b0223f0e"
+msgid "ID=52"
+msgstr "ID=52"
+
+msgctxt "c17ebdfa89a975c94c6252303729fe70"
+msgid "저항 : 출혈"
+msgstr "Resistance: Bleed"
+
+msgctxt "a1d9e909c25d51bd1892fdee8fd6568a"
+msgid "출혈에 걸릴 확률을 낮춰줍니다"
+msgstr "Decreases the chance of getting the effect Bleed"
+
+msgctxt "6dda0349a1fad22f5f9f4fe361e01663"
+msgid "ID=53"
+msgstr "ID=53"
+
+msgctxt "a1b381903dff20775c1c980cebbd44c0"
+msgid "저항 : 기절"
+msgstr "Resistance: Stun"
+
+msgctxt "62e4e220893b6857658d2fa5702c5d81"
+msgid "기절에 걸릴 확률을 낮춰줍니다"
+msgstr "Decreases the chance of getting the effect Stun"
+
+msgctxt "450cfd3fff1838e99140c95dfeebbc4e"
+msgid "ID=54"
+msgstr "ID=54"
+
+msgctxt "020d292ffaababe6b3b7dd393236f331"
+msgid "저항 : 마비"
+msgstr "Resistance: Paralyse"
+
+msgctxt "17f58a31bbb6ffbc7d45e9fa69340db8"
+msgid "마비에 걸릴 확률을 낮춰줍니다"
+msgstr "Decreases the chance of getting the effect Paralyse"
+
+msgctxt "df3db0b43ae58062cc8f1a54b4d90cb0"
+msgid "ID=11000"
+msgstr "ID=11000"
+
+msgctxt "abec5ddf8fa6679d8269642bbb85ad92"
+msgid "인사"
+msgstr "Greetings"
+
+msgctxt "4315e103b23c3fc6e2cbba8a8c2d3d65"
+msgid "인사 제스쳐를 취합니다"
+msgstr "Take a greeting gesture"
+
+msgctxt "8f39a05cbaeb3e0e85a23b39d0062df8"
+msgid "ID=11001"
+msgstr "ID=11001"
+
+msgctxt "26ece9d642c083012d09ce418f8210e9"
+msgid "웃기"
+msgstr "Laugh"
+
+msgctxt "f563a27a34df89433ad9c3e5d7ee8f0c"
+msgid "웃음 제스쳐를 취합니다"
+msgstr "Take a laughing gesture"
+
+msgctxt "b095f671d0907d1c3ae25569db209e97"
+msgid "ID=11002"
+msgstr "ID=11002"
+
+msgctxt "b71d3599b400e57615f493ee778ce8c2"
+msgid "슬픔"
+msgstr "Sad"
+
+msgctxt "5e67cf135e5a61453be44afd6c7569dd"
+msgid "슬픔 제스쳐를 취합니다"
+msgstr "Take a sad gesture"
+
+msgctxt "d9184093d816fc7d24997072f8c2ee56"
+msgid "ID=11003"
+msgstr "ID=11003"
+
+msgctxt "41c82dd8ae0068747ded2c2da1d174ed"
+msgid "응원"
+msgstr "Cheer"
+
+msgctxt "d87f20ec7081c3df61337a54b80c6523"
+msgid "응원 제스쳐를 취합니다"
+msgstr "Take a cheering gesture"
+
+msgctxt "daee27efb6c4c854d9f895365af400f4"
+msgid "ID=11004"
+msgstr "ID=11004"
+
+msgctxt "0214ab7971bd9c494e0a05af4263156f"
+msgid "앉기"
+msgstr "Sit"
+
+msgctxt "9ba5a5b4eec49c295676c66b7be4d4f2"
+msgid "앉기 제스쳐를 취합니다"
+msgstr "A gesture to sit"
+
+msgctxt "efb5b0932fa1e29dd819067740a75584"
+msgid "ID=11005"
+msgstr "ID=11005"
+
+msgctxt "e0dd6cfa626a751458552f79f48c6858"
+msgid "춤"
+msgstr "Dancing"
+
+msgctxt "5dd845361d5eea6d513d86804412993f"
+msgid "춤 제스쳐를 취합니다"
+msgstr "Take a dancing gesture"
+
+msgctxt "545759c6ff060d35b1f5f3601d567692"
+msgid "ID=11006"
+msgstr "ID=11006"
+
+msgctxt "fa49e91c004487fb4775418a2e9ddcd7"
+msgid "도발"
+msgstr "Taunt"
+
+msgctxt "c86dfdbc32861edadf04cbb2f5911fff"
+msgid "도발 제스쳐를 취합니다"
+msgstr "Take a taunting gesture"
+
+msgctxt "e2e74c785734820cfe73f4d36fd58924"
+msgid "ID=11007"
+msgstr "ID=11007"
+
+msgctxt "3a1a831944966827c6633edda1552dcb"
+msgid "자랑"
+msgstr "Boast"
+
+msgctxt "18843ac9fd71b4746c7565ab7a31e3e7"
+msgid "자랑 제스쳐를 취합니다"
+msgstr "Take a proud gesture"
+
+msgctxt "66d47a1a8f7c1d8dfa5a8847fde56955"
+msgid "ID=11008"
+msgstr "ID=11008"
+
+msgctxt "fecd4773b456f99617e4cd8993222a0a"
+msgid "아이돌"
+msgstr "Idol"
+
+msgctxt "8a261dd2828ceb7932871d4949052809"
+msgid "아이돌 제스쳐를 취합니다"
+msgstr "Take an idol gesture"
+
+msgctxt "0f8daab635d15649e1be248d730287a5"
+msgid "ID=11009"
+msgstr "ID=11009"
+
+msgctxt "4cabc40455e4356f3449d52b84875e39"
+msgid "메이드"
+msgstr "Maid"
+
+msgctxt "4ae8138ab37ca13cd4249dbad3163205"
+msgid "메이드 제스쳐를 취합니다"
+msgstr "Take a Maid gesture"
+
+msgctxt "8f6566ea4f846fdf41a1c44268ff684f"
+msgid "ID=11010"
+msgstr "ID=11010"
+
+msgctxt "606dd8f3cf16e4bf23642aae59eb5eb7"
+msgid "버틀러"
+msgstr "Butler"
+
+msgctxt "e9411f9df862ef70a02e978f8edafce8"
+msgid "버틀러 제스쳐를 취합니다"
+msgstr "Take a Butler gesture"
+
+msgctxt "84b860ed267e1999b83490122b599d38"
+msgid "ID=11011"
+msgstr "ID=11011"
+
+msgctxt "dc887c9f10554244a39e5639e15fbcf8"
+msgid "수영복"
+msgstr "Swimsuit"
+
+msgctxt "60140cc2ec6e11306f44578dca4439bf"
+msgid "수영복 제스쳐를 취합니다"
+msgstr "Take a swimsuit gesture"
+
+msgctxt "0e4b11f7d24ae44a38c3ec22a23528ad"
+msgid "ID=11012"
+msgstr "ID=11012"
+
+msgctxt "65fa7962c70c53e2ab5916601d0928fe"
+msgid "선베드"
+msgstr "Sunbed"
+
+msgctxt "e6ce056e2ea288ee7520d24859fb6b10"
+msgid "선베드 제스쳐를 취합니다"
+msgstr "Take a Sunbed gesture"
+
+msgctxt "a5beb304f4c6c7395d0a2fa5d08a0628"
+msgid "ID=11013"
+msgstr "ID=11013"
+
+msgctxt "6f53f31ce459110399f7e816866281f8"
+msgid "스쿨미즈"
+msgstr "School Swimsuit"
+
+msgctxt "cc0bf7ef8f6b1bdc00f74b175222f251"
+msgid "스쿨미즈 제스쳐를 취합니다"
+msgstr "Take a School Swimsuit gesture"
+
+msgctxt "73e5eb4253d15e1d21f77053882fdf06"
+msgid "ID=11014"
+msgstr "ID=11014"
+
+msgctxt "b68e6687a99cafbb13a80e900fc7795c"
+msgid "버니"
+msgstr "Bunny"
+
+msgctxt "060986fc927db4ea6a60ca271cc5b326"
+msgid "버니 제스쳐를 취합니다"
+msgstr "Take a Bunny gesture"
+
+msgctxt "b2d0884d96089ef122eba41355111cac"
+msgid "ID=11015"
+msgstr "ID=11015"
+
+msgctxt "2ce15d16e5171b8e5a0e3f296aff79b8"
+msgid "크리스마스"
+msgstr "Christmas"
+
+msgctxt "1eea6b924da0816d535ee1c96c0939b9"
+msgid "크리스마스 제스쳐를 취합니다"
+msgstr "Take a Christmas gesture"
+
+msgctxt "5445e538bf1fc0750ee0a4cb3bedcb6f"
+msgid "ID=11016"
+msgstr "ID=11016"
+
+msgctxt "7b712851bcbe1da0611af2544303a724"
+msgid "유카타"
+msgstr "Yukata"
+
+msgctxt "2b1945b501bf0ee2a31612aa5a60b9f7"
+msgid "축제 제스쳐를 취합니다"
+msgstr "Take a festive gesture"
+
+msgctxt "3c58e150db62c49275cacb206d401c5b"
+msgid "ID=11017"
+msgstr "ID=11017"
+
+msgctxt "4b980cbe3c41a4270d9e3e4b4c361389"
+msgid "한복"
+msgstr "Hanbok"
+
+msgctxt "4ab51ce843051ad46136dff46b0f0c94"
+msgid "한복 제스쳐를 취합니다"
+msgstr "Take a Hanbok gesture"
+
+msgctxt "9acd19b1f695f7db86f4905b531d7f65"
+msgid "ID=11018"
+msgstr "ID=11018"
+
+msgctxt "cc64466e73356050ed6a9992759e3ee8"
+msgid "파티쉐"
+msgstr "Patissier"
+
+msgctxt "a5e538f4ce20729c37e0b3d689ef84f5"
+msgid "파티쉐 제스쳐를 취합니다"
+msgstr "Take a Patissier gesture"
+
+msgctxt "33a1d36f0e8761fd22a5305ae94fc649"
+msgid "ID=11019"
+msgstr "ID=11019"
+
+msgctxt "db41ed4a9d38a6e5ece3f7874eec79a9"
+msgid "스파이럴1"
+msgstr "Spiral 1"
+
+msgctxt "5deb0c52b601f737b32a86cf0e1540ee"
+msgid "스파이럴1 제스쳐를 취합니다"
+msgstr "Take Spiral 1 gesture"
+
+msgctxt "8b0b9914e48a0278c9bd19d9a165f90d"
+msgid "ID=11020"
+msgstr "ID=11020"
+
+msgctxt "dafd9562058de03d1a3059b0c167975f"
+msgid "스파이럴2"
+msgstr "Spiral 2"
+
+msgctxt "4b2c62533c8a4cbb33a477c95a440275"
+msgid "스파이럴2 제스쳐를 취합니다"
+msgstr "Take Spiral 2 gesture"
+
+msgctxt "663af28e9e180691ca092412c3e8b802"
+msgid "ID=11021"
+msgstr "ID=11021"
+
+msgctxt "644b8c41dccf9ffb73d07583bbc10a21"
+msgid "화이트데이"
+msgstr "White Day"
+
+msgctxt "93c7138c2941c2b719206a133210be2f"
+msgid "화이트데이 제스쳐를 취합니다."
+msgstr "Take a White Day gesture"
+
+msgctxt "883238aa506506bfa01abf328fb11def"
+msgid "ID=11022"
+msgstr "ID=11022"
+
+msgctxt "65e31fb071e964ceca283f2ff0b6120e"
+msgid "스팀펑크"
+msgstr "Steampunk"
+
+msgctxt "9099e58320224edf3131cfd44c18d840"
+msgid "스팀펑크 제스쳐를 취합니다."
+msgstr "Take a Steampunk gesture"
+
+msgctxt "15c4f0ff833a0dfb1d6f4f47612b7751"
+msgid "ID=11023"
+msgstr "ID=11023"
+
+msgctxt "1062614a94b6c88871429fcce7397420"
+msgid "섹시메이드1"
+msgstr "Sexy Maid 1"
+
+msgctxt "1331afc780447b36a10ad45d9d687ce9"
+msgid "섹시메이드1 제스쳐를 취합니다"
+msgstr "Take a Sexy Maid 1 gesture"
+
+msgctxt "cab0cfe2f4a4f66c5bba8deb540ba385"
+msgid "ID=11024"
+msgstr "ID=11024"
+
+msgctxt "b8955a33e938d13b413f1914c54e08ff"
+msgid "섹시메이드2"
+msgstr "Sexy Maid 2"
+
+msgctxt "e5904c1de1eb91fc093748402a2b2c30"
+msgid "섹시메이드2 제스쳐를 취합니다"
+msgstr "Take a Sexy Maid 2 gesture"
+
+msgctxt "17837ecedc676a7eec34588f2389e676"
+msgid "ID=11025"
+msgstr "ID=11025"
+
+msgctxt "80633b7d6b488fcf370f1acf46792b5b"
+msgid "핫썸머"
+msgstr "Hot Summer"
+
+msgctxt "88f8ea2f2a9d11549c462ac178686170"
+msgid "핫썸머 수영복 제스쳐를 취합니다."
+msgstr "Take a Hot Summer gesture"
+
+msgctxt "3eff4315caf9c7863085f39378c0255c"
+msgid "ID=20000"
+msgstr "ID=20000"
+
+msgctxt "d91cec3160589b3e4c2385b8318a8e89"
+msgid "인벤토리"
+msgstr "Inventory"
+
+msgctxt "8b0fbc4e10ffb36eb9cf33a4464a9304"
+msgid "인벤토리창을 열거나 닫습니다.\\n보유한 아이템 목록을 확인하고 사용할 수 있습니다."
+msgstr ""
+"Open or close the inventory window\\nYou can see and use the list of items "
+"you have."
+
+msgctxt "ad8d8a8128277455cde34bfc2bd40a7a"
+msgid "ID=20001"
+msgstr "ID=20001"
+
+msgctxt "a54f10c23acfa62173c608fb1c6c140f"
+msgid "캐릭터 정보"
+msgstr "Character Information"
+
+msgctxt "0158db8078efe1cdb849f23d9195be41"
+msgid "캐릭터 정보창을 열거나 닫습니다.\\n캐릭터의 능력치를 확인하고 칭호 및 프로필, 장비 및 코스튬을 설정할 수 있습니다."
+msgstr ""
+"Open or close the character info window.\\nYou can check character stats, "
+"titles, profile, equipment and costumes."
+
+msgctxt "04f97d255393e38dfaf6833dd385dae2"
+msgid "ID=20003"
+msgstr "ID=20003"
+
+msgctxt "93c190c8c3b6658b17c5d576a031f2d4"
+msgid "스킬"
+msgstr "Skill"
+
+msgctxt "d42e801f00824bf7a0207b11aa66e3c8"
+msgid "스킬창을 열거나 닫습니다.\\n퀵슬롯에 스킬과 아카식레코드, 제스처 등을 등록할 수 있습니다."
+msgstr ""
+"Open or close the Skill window.\\nYou can register skills, Akashas and "
+"gestures in quick slots."
+
+msgctxt "c3d8ba2d9b6f0439f1642bf5224f632e"
+msgid "ID=20008"
+msgstr "ID=20008"
+
+msgctxt "0476b27c2c5fe2d97ec05017c4e36cd7"
+msgid "퀘스트"
+msgstr "Quest"
+
+msgctxt "12e07794ebd26ecf8566ee789418bbba"
+msgid "퀘스트 창을 열거나 닫습니다.\\n진행중인 퀘스트를 확인하거나, 지나간 이야기를 볼 수 있습니다."
+msgstr ""
+"Open or close the quest window.\\nYou can check the quests in progress or "
+"already finished quests."
+
+msgctxt "e8e56b691927434e894098abb55a0928"
+msgid "ID=20016"
+msgstr "ID=20016"
+
+msgctxt "959464979ce09109a7e5f96959945ce4"
+msgid "ID=20023"
+msgstr "ID=20023"
+
+msgctxt "8a54e8957667c6b7b31d1b916d8843d7"
+msgid "커뮤니티"
+msgstr "Community"
+
+msgctxt "65f8fe30a4171d300252b6b82dd71941"
+msgid "커뮤니티창을 열거나 닫습니다.\\n친구, 리그원, 차단 관련 정보를 확인할 수 있습니다."
+msgstr ""
+"Open or close the community window.\\nYou can see information about friends, "
+"guild, member and blocks."
+
+msgctxt "3a93e4ec627bc125e285a586f2e3909d"
+msgid "ID=20034"
+msgstr "ID=20034"
+
+msgctxt "d15739bebace59b5d29ea30a2ef87d99"
+msgid "메모리얼"
+msgstr "Memorial"
+
+msgctxt "a015d093153c16a4964933aee1857179"
+msgid "메모리얼창을 열거나 닫습니다.\\n보유한 메모리얼 정보와 수집한 메모리얼 아이템을 확인할 수 있습니다."
+msgstr ""
+"Open or close the memorial window.\\nYou can view the memorial information "
+"of items you collected."
+
+msgctxt "6dc87cc41f904b335fbf2e4e371d2e30"
+msgid "ID=20036"
+msgstr "ID=20036"
+
+msgctxt "cb5a8cd8ee63c9c5bc8a5c434c24c511"
+msgid "시스템 메뉴"
+msgstr "System Menu"
+
+msgctxt "8de4d3f85d6df69e6600b21c1735713d"
+msgid "시스템 메뉴를 표시합니다."
+msgstr "Display the System Menu."
+
+msgctxt "247615033a9bd6abe10862d5539af266"
+msgid "ID=20038"
+msgstr "ID=20038"
+
+msgctxt "8ffec14eb060a6a74ede4e1cba9f14a1"
+msgid "게임진행정보"
+msgstr "Progress Information"
+
+msgctxt "0794d12287c6b23da18ca7accaf393be"
+msgid "게임진행정보창을 열거나 닫습니다.\\n업적과 점유율 정보를 확인하거나 보상을 받을 수 있습니다."
+msgstr ""
+"Open or close the Progress Info window.\\nYou can view your achievements and "
+"Clearance information and as well your rewards."
+
+msgctxt "9bad27011cb0bd976ab11c0682460bbf"
+msgid "ID=20045"
+msgstr "ID=20045"
+
+msgctxt "98f39cb5dc41c9bf06ad75a1e66d3af6"
+msgid "파티/포스 찾기"
+msgstr "Find Party / Force"
+
+msgctxt "00835984b3d1be514c14bc3639d13749"
+msgid "파티/포스 찾기창을 열거나 닫습니다.\\n파티 또는 포스를 찾을 수 있습니다."
+msgstr ""
+"Open or close the Find Party/Force window.\\nYou can find a party or a force."
+""
+
+msgctxt "9ef56fbe4a04650a40299800f0a1b51e"
+msgid "ID=20053"
+msgstr "ID=20053"
+
+msgctxt "e5072a74daa4d26ea85b06122ff230b9"
+msgid "서포터"
+msgstr "Supporter"
+
+msgctxt "3a7949c9e4d722ea7f91cf15f8d47a34"
+msgid "서포터창을 열거나 닫습니다.\\n서포터의 장비를 설정하거나 소환/해제할 수 있습니다."
+msgstr ""
+"Open or close the Supporter window.\\nYou can enable/disable a supporter."
+
+msgctxt "fa3842228ac86437a3d4988ab581898e"
+msgid "ID=20055"
+msgstr "ID=20055"
+
+msgctxt "0d8abcd2d7bf4868fdcb011f3fa577cf"
+msgid "리그"
+msgstr "Guild"
+
+msgctxt "af92a64ac1eb81aa30005b4d1f3d678c"
+msgid "리그창을 열거나 닫습니다."
+msgstr "Open or close the Guild window."
+
+msgctxt "095505285c3bfee33dbebfc4f818f523"
+msgid "ID=20064"
+msgstr "ID=20064"
+
+msgctxt "274d54a43e5c496e7ea73cce0619bbc4"
+msgid "거래소"
+msgstr "Market"
+
+msgctxt "c65df3476828dbf4d83a522fcb646877"
+msgid "거래소창을 열거나 닫습니다."
+msgstr "Shows the Exchange Market window."
+
+msgctxt "14b03106eebdbe139b9c45dc3bd10eec"
+msgid "ID=20065"
+msgstr "ID=20065"
+
+msgctxt "b56ba4e72871cdb2dba59426b63a1d23"
+msgid "랭킹"
+msgstr "Ranking"
+
+msgctxt "9ca21292b7aaa28d2d2c9a28381303ae"
+msgid "랭킹창을 열거나 닫습니다."
+msgstr "Shows the Rankings window."
+
+msgctxt "1325496b8d7a56ecd562d7d7ea81a4b8"
+msgid "ID=20080"
+msgstr "ID=20080"
+
+msgctxt "be31bd0dc5786163293f46bb24dbabc9"
+msgid "탈 것"
+msgstr "Vehicle"
+
+msgctxt "3c6ebe1856bd375c6d6cb6002689f3f7"
+msgid "탈 것 창을 열거나 닫습니다."
+msgstr "Open or close the Vehicle window."
+
+msgctxt "3168654dc3d1679b5619927f6d91307f"
+msgid "ID=20100"
+msgstr "ID=20100"
+
+msgctxt "ee6ec499e09f32ba5727b11380466bf6"
+msgid "마이룸"
+msgstr "My Room"
+
+msgctxt "0d1c0c8a037220a4214a882ed2191b27"
+msgid "마이룸에 접속합니다."
+msgstr "Enter my room."
+
+msgctxt "49b791dfbaaedeb01f7ae81c835c37f3"
+msgid "ID=21000"
+msgstr "ID=21000"
+
+msgctxt "7bca693e64c1cb4325d17e439df1ae65"
+msgid "경험치"
+msgstr "Experience"
+
+msgctxt "e7dfffac636eb290a8afd699440bde61"
+msgid "{0} 경험치를 획득합니다"
+msgstr "You will receive {0} EXP."
+
+msgctxt "71ea42fadc2ce8faa0415d63fba16a27"
+msgid "ID=21001"
+msgstr "ID=21001"
+
+msgctxt "17782222614906683221863d506c3b28"
+msgid "제니"
+msgstr "Zenny"
+
+msgctxt "4123803c3f0bfa695a559ea907708a8c"
+msgid "{0} 제니를 획득합니다"
+msgstr "You will receive {0} Zenny."
+
+msgctxt "45e367f53b980f94fb23f0aeaa6302bb"
+msgid "ID=21002"
+msgstr "ID=21002"
+
+msgctxt "995d147198c93bfbc6681f4eaa101081"
+msgid "배틀포인트"
+msgstr "Battle Points"
+
+msgctxt "2c5d6f7824b43846985aeb7df4aa5d6e"
+msgid "{0} 배틀포인트를 획득합니다"
+msgstr "Obtained {0} Battle Points"
+
+msgctxt "2aba6b3ddbdad2917afce89a1cc66c06"
+msgid "ID=21003"
+msgstr "ID=21003"
+
+msgctxt "d09a28bbd41358c7991a959cda16d46b"
+msgid "에텔"
+msgstr "Ether"
+
+msgctxt "f85d37d7ad88ca06bff7155811f9dbe2"
+msgid "{0} 에텔을 획득합니다"
+msgstr "Earn {0} Ether."
+
+msgctxt "857dd5e5b6730e44b323ff071809fb62"
+msgid "ID=21004"
+msgstr "ID=21004"
+
+msgctxt "fef290e80cf2d9a7ff12d69ca6e943d1"
+msgid "칭호"
+msgstr "Title"
+
+msgctxt "15667771034c34193c0bd6c19ff5269e"
+msgid "[{0}] [{1}] 칭호을 획득합니다"
+msgstr "[{0}] obtained [{1}]."
+
+msgctxt "0011c6b87381b8f3ba46fa7e6203af2c"
+msgid "ID=30000"
+msgstr "ID=30000"
+
+msgctxt "9148c90f7da47dd70f357e4b2c25842d"
+msgid "물약 등록 및 사용"
+msgstr "Potion Registration"
+
+msgctxt "ed445f696a355d97ff00770dd5ba0030"
+msgid "일부 소비 아이템은 전용 퀵슬롯에 등록하여 사용할 수 있습니다."
+msgstr ""
+"A quick slot used for registering potions to instantly consume within combat."
+""
+
+msgctxt "a1ef4a055936e13c98c63bb88427d2b9"
+msgid "ID=30001"
+msgstr "ID=30001"
+
+msgctxt "f9efc238d8fdceae37e7502be93b3db3"
+msgid "미니맵 / 월드맵 사용법"
+msgstr "Minimap/World Map"
+
+msgctxt "4a34846dc2c1da559312dbbf0e489b47"
+msgid "미니맵이나 월드맵에서 퀘스트 등의 다양한 정보를 확인할 수 있습니다."
+msgstr ""
+"Identify key information such as Quest type and progress or NPC names with "
+"the maps."
+
+msgctxt "07eb27896799dcd4b59127fc752128e2"
+msgid "ID=30002"
+msgstr "ID=30002"
+
+msgctxt "ddde95ab4487ba0c29d2a775d0addcc0"
+msgid "퀘스트 UI관련"
+msgstr "Quest UI"
+
+msgctxt "d0bf00f4ce806ec82ecb2389c58a728d"
+msgid "퀘스트 저널에서 수행 중인 퀘스트의 세부 정보를 확인할 수 있습니다."
+msgstr "Recall the relevant quest information from your quest journal."
+
+msgctxt "e1e1034adceb0df92dec65aafa4a2c1a"
+msgid "ID=30003"
+msgstr "ID=30003"
+
+msgctxt "64e49f6004ade8b1902933f04ecdd37d"
+msgid "UI 모드 관련"
+msgstr "UI Mode Toggle"
+
+msgctxt "dc5ff350bde3ccac05649652b87896a0"
+msgid "[Alt] 키를 사용해 UI 모드로 변경하면 마우스로 각종 정보를 확인할 수 있습니다."
+msgstr ""
+"Use the [ALT] key to switch to UI mode, which allows you to check various "
+"information with the mouse."
+
+msgctxt "e22b37fdb83f4cb98a0705a550c17b48"
+msgid "ID=30004"
+msgstr "ID=30004"
+
+msgctxt "f64219486b892ed08d6e11d87d7664cf"
+msgid "에텔 습득 관련"
+msgstr "Ether Related"
+
+msgctxt "b8f680eabf9b1f8b54546d3ddb137c7f"
+msgid "몬스터 처치로 획득하는 에텔은 강화나 진화의 중요한 자원으로 사용됩니다."
+msgstr ""
+"Ether is a key resource that is found from defeating monsters. It is used "
+"for item enhancement and evolution."
+
+msgctxt "c09c3e296773cbc9c34c8a6a962c3b00"
+msgid "ID=30005"
+msgstr "ID=30005"
+
+msgctxt "8f23a3b0700ce552521677515be9162b"
+msgid "소울 베이퍼 습득 관련"
+msgstr "Soul Vapor related"
+
+msgctxt "b81c05740a90d76f89dc8b72420d970d"
+msgid "몬스터나 오브젝트에서 획득하는 소울베이퍼는 브레이크 스킬의 자원으로 활용됩니다. (퀘스트 완료 시 사용 가능)"
+msgstr ""
+"Recycled Soul Vapor is obtained from defeating monsters and destroying "
+"objects.\\n(Available on Quest Completion)"
+
+msgctxt "968c72f2ee9d2239ddf9525593b28d71"
+msgid "ID=30006"
+msgstr "ID=30006"
+
+msgctxt "f684754464a3c0ff51cc602d63cc7484"
+msgid "콤보 관련"
+msgstr "Combo Related"
+
+msgctxt "f459c7143fd3e0e734e08a7f7923a4d4"
+msgid "콤보를 이어가면 추가적인 혜택이나 효과를 얻을 수 있습니다."
+msgstr ""
+"By gaining combo length, additional bonuses and effects can be applied."
+
+msgctxt "ecc7591e415e058b4d4cd82270559015"
+msgid "ID=30007"
+msgstr "ID=30007"
+
+msgctxt "c941b471a5e26826a035dd596038ac61"
+msgid "아이템 습득"
+msgstr "Items Related"
+
+msgctxt "a4593d2b808acdb6f7f7f958d31fb0f8"
+msgid "큐브는 일반 큐브와 레어 이상 큐브가 존재하며, 하나의 큐브는 여러 개의 아이템을 가질 수 있습니다."
+msgstr ""
+"The cube can be a general cube and a rare cube that has better valuables."
+"\\nMany items can be earned from one cube."
+
+msgctxt "68a68cd71a9be5168cf9280f9b939446"
+msgid "ID=30008"
+msgstr "ID=30008"
+
+msgctxt "5560ffdc13b9091342ea932f7a1c0081"
+msgid "브레이크 스킬 관련"
+msgstr "Break Skill Related"
+
+msgctxt "19e37d50184c5be063e55ece91d3273e"
+msgid "소울베이퍼를 획득하여 브레이크 게이지를 채우면 브레이크 스킬을 사용할 수 있습니다."
+msgstr ""
+"Upon reaching a certain Soul Vapor threshold, you can use the Break Skill."
+
+msgctxt "3f54ec82204d8d1d1075c2e3759f11d3"
+msgid "ID=30009"
+msgstr "ID=30009"
+
+msgctxt "007f343d6c9ca54150b8ee051f11edf4"
+msgid "파티 맺기 / 파티 플레이"
+msgstr "Create Party/Party Play"
+
+msgctxt "c346d654646950fd7825e88a1e4d7937"
+msgid "파티를 맺고 메이즈에 입장하면 추가적인 혜택과 함께 전투를 빠르게 진행할 수 있습니다."
+msgstr ""
+"When entering a dungeon with a party, additional boosts will be applied and "
+"combat will be easier."
+
+msgctxt "11012044a03481ba612db4fb5374823b"
+msgid "ID=30010"
+msgstr "ID=30010"
+
+msgctxt "8c9861ee63fe8dcde34e16edfc778b7d"
+msgid "스킬 포인트 사용"
+msgstr "Skillpoints"
+
+msgctxt "bb0b58abd128ca0cf4880a3d62c2c82e"
+msgid "스킬 포인트를 이용하여, 스킬 마스터리를 올리거나 특성을 배울 수 있습니다."
+msgstr ""
+"By using Skillpoints, you can learn new skills or enhance their attributes "
+"and abilities."
+
+msgctxt "d55fec33a301f681a17493d4f64bc25e"
+msgid "ID=30011"
+msgstr "ID=30011"
+
+msgctxt "b79be3c4df6f34d78bba5963d0f2b5aa"
+msgid "상점 관련"
+msgstr "Shop"
+
+msgctxt "b33d5a7ce8f25d66b07d50f01b4eb481"
+msgid "상점에서는 아이템을 팔거나 판매 중인 아이템을 구매할 수 있습니다."
+msgstr "Items that can be purchased or sold within shops."
+
+msgctxt "94be678a9e0fc5df1176a8a076fb91de"
+msgid "ID=30012"
+msgstr "ID=30012"
+
+msgctxt "55d44fa87011785b573add75692f33fb"
+msgid "우편 관련"
+msgstr "Mail Related"
+
+msgctxt "54a2210940908a3eec17dc58e012fca1"
+msgid "친구에게 메시지를 전송하거나 아이템을 첨부하여 보낼 수 있습니다."
+msgstr "You can send a message to a friend or attach an item."
+
+msgctxt "338c5abfd64e48b708789032d02686bc"
+msgid "ID=30013"
+msgstr "ID=30013"
+
+msgctxt "f001c54aead38001a3d857bb7ea5b79c"
+msgid "은행 관련"
+msgstr "Bank Related"
+
+msgctxt "b39b0262eeaaab96b110e791c5eefccc"
+msgid "은행을 이용하면 자신의 가방 내 아이템들을 보관할 수 있습니다."
+msgstr "The Bank allows you to store items and Zenny."
+
+msgctxt "bc50cdbd478243ed8f7bc5b2425cd5d0"
+msgid "ID=30014"
+msgstr "ID=30014"
+
+msgctxt "11a23595df86e325a45e9b9a5e259002"
+msgid "제작 관련"
+msgstr "Crafting Related"
+
+msgctxt "05d1d20bfe41496ffa5a147ca78deb24"
+msgid "설계도와 재료를 모아 아이템을 제작할 수 있습니다."
+msgstr "Collect blueprints and prerequisite materials to craft usable items."
+
+msgctxt "1867c06471469d9dbf3193e7e9e015b8"
+msgid "ID=30015"
+msgstr "ID=30015"
+
+msgctxt "32ab7ca316cb9c2e463813431964e53c"
+msgid "강화 관련"
+msgstr "Enhance"
+
+msgctxt "54c585329bcf8adcf173379f68d2d556"
+msgid "강화 재료와 에텔을 이용하여, 장비를 업그레이드 시킬 수 있습니다."
+msgstr ""
+"You can upgrade your equipment with enhancement materials, Ether and Zenny."
+
+msgctxt "a058492b525dee83a00a24bd7e9914c4"
+msgid "ID=30016"
+msgstr "ID=30016"
+
+msgctxt "b9c5d8d4b036bfa4acf3220a72bc1632"
+msgid "분해 관련"
+msgstr "Dismantle"
+
+msgctxt "dc971e6721a7a34d12eb9d82383c6b76"
+msgid "필요 없는 아이템은 분해하여 재료로 만들 수 있습니다."
+msgstr "Unnecessary items can be dismantled into materials."
+
+msgctxt "d35f801c0f8bf0a2cc156ac39c1bcef4"
+msgid "ID=30017"
+msgstr "ID=30017"
+
+msgctxt "9cc70db5337a7d2f13e0c3a7fd105bbd"
+msgid "스폐셜 미션 관련"
+msgstr "Special Mission Related"
+
+msgctxt "dddd7d53426bd91ffc47c352c5a5815a"
+msgid "1일 단위로 발생하는 데일리 미션에서는 코인 상점에서 사용할 수 있는 코인을 획득할 수 있습니다."
+msgstr ""
+"In the daily mission, you can earn coins. You can use the coins at the coin "
+"shop or the vending machine."
+
+msgctxt "673d4f78c45d07c5ab34f983feb6bca2"
+msgid "ID=30018"
+msgstr "ID=30018"
+
+msgctxt "e7167bf44b811a38ff174c77ff51866a"
+msgid "히든 이벤트 관련"
+msgstr "Hidden Mission"
+
+msgctxt "b507011db29eb92d8d404218e888abc1"
+msgid "메이즈의 어떤 구간에서는 가끔 히든 이벤트가 발생합니다. 조건을 클리어 하면 메이즈 보상에서 추가 보상을 획득할 수 있습니다."
+msgstr ""
+"In some areas of the dungeon, sometimes a hidden event will start. If you "
+"finish the hidden event, you get additional rewards. "
+
+msgctxt "e235e82917bf505636172471388e1f7e"
+msgid "ID=30019"
+msgstr "ID=30019"
+
+msgctxt "19979ada8db8aed6a9f2419ef05640ab"
+msgid "업적 관련"
+msgstr "Achievement Related"
+
+msgctxt "b835a258cfb942bad4cded9582c18ba4"
+msgid "달성한 업적은 진행정보 창에서 보상을 획득할 수 있습니다."
+msgstr "Achievements can be claimed in the progress window."
+
+msgctxt "40f1b77163dc2e3484407e8475806ea7"
+msgid "ID=30020"
+msgstr "ID=30020"
+
+msgctxt "c8eeeb828b6a36a9978fe88c4e681210"
+msgid "메모리얼 관련"
+msgstr "Memorial Related"
+
+msgctxt "1f5e46e7a51fa0bbdddd700aab68ed25"
+msgid ""
+"어떤 메이즈들은 클리어 후 입장하면 메모리얼을 발견할 수 있습니다. 메모리얼 테마 수집 시 진행정보 창에서 보상을 획득할 수 있습니다."
+msgstr ""
+"Some Dungeons containing Memorials, you can check the progress info window "
+"if you missing some."
+
+msgctxt "fd6717c3cfbb19b0743048464cb52e17"
+msgid "ID=30021"
+msgstr "ID=30021"
+
+msgctxt "befdf885ffc1282a455ad875ace0f884"
+msgid "점유율 관련"
+msgstr "Clearance"
+
+msgctxt "728c9d53df6ea4ee60e3ba102173eed5"
+msgid "메이즈를 클리어 할때마다 점유율이 상승 됩니다. 디스트릭트 내의 메이즈들의 점유율은 디스트릭트 점유율에 영향을 줍니다."
+msgstr ""
+"The Clearance increases each time you clear a dungeon. This will also "
+"increase the associated town's Clearance. "
+
+msgctxt "17b381d9e54ff8666b7aec7845c32a10"
+msgid "ID=30022"
+msgstr "ID=30022"
+
+msgctxt "5409abc00d723f3d2bdf6275fe0838cf"
+msgid "칭호 관련"
+msgstr "Title"
+
+msgctxt "0c538877a395f9b55c3459960b928a67"
+msgid "칭호를 다양하게 조합하여 자신만의 개성을 나타낼 수 있습니다."
+msgstr "You can express your personality by compounding titles together."
+
+msgctxt "e269f909b0cdc6d88ab157749f5d8e48"
+msgid "ID=30023"
+msgstr "ID=30023"
+
+msgctxt "4f135b943beaa0d867ac630229c00fa4"
+msgid "행동력 관련"
+msgstr "Fatigue"
+
+msgctxt "f170282d33420630bb05deeac3bf338d"
+msgid "메이즈의 난이도 및 레벨에 따라 행동력이 차감되며, 행동력이 부족할 경우 메이즈를 입장할 수 없습니다."
+msgstr ""
+"Fatigue is consumed in proportion to the difficulty level and absolute level "
+"of the dungeon for each map; when none remains, you may not enter the "
+"dungeon."
+
+msgctxt "6760bf49b7da100e2521955af53991b7"
+msgid "ID=30024"
+msgstr "ID=30024"
+
+msgctxt "cdc49b911c544e26cbc77b6cb9f2392f"
+msgid "도움말 관련"
+msgstr "Help Related"
+
+msgctxt "78d13637c3d31cad6e32257d42b986a3"
+msgid "도움말 아이콘을 클릭하면, 진행상황에 따른 도움말이 표시됩니다."
+msgstr ""
+"Click the Help icon to display relevant information associated with the UI "
+"panel or window."
+
+msgctxt "f5d04aeb782ac029e64e8695d8914ae9"
+msgid "ID=30025"
+msgstr "ID=30025"
+
+msgctxt "563db713627389707ca944376efe4a1f"
+msgid "고객 등급 관련"
+msgstr "VIP Level"
+
+msgctxt "1002cc172c3b8cc9b7033c507f5a13f4"
+msgid "기능 NPC 들은 이용률에 따라 고객등급을 부여 해줍니다. 고객등급이 상승할 수록 다양한 혜택이 주어집니다."
+msgstr ""
+"A particular feature of NPCs. Increase their favor by using their services "
+"or making purchases. As it rises, additional benefits can be obtained."
+
+msgctxt "117ea28a871583e8e0ee595bfc5622ec"
+msgid "ID=30026"
+msgstr "ID=30026"
+
+msgctxt "88cd02143288264ef951b751a14eb143"
+msgid "서포터 관련"
+msgstr "Supporter Related"
+
+msgctxt "3468498419ce8e9f5956dbe9bc409aab"
+msgid "스토리를 진행함에 따라 다양한 동료를 얻을 수 있습니다. 동료들은 전투에 참가하여 유저를 돕습니다."
+msgstr ""
+"As you progress through the story, you'll gain a variety of supporters. "
+"Supporter enters the battle to help the user."
+
+msgctxt "fa198f229f2058d6dfc085f94a541c59"
+msgid "ID=30027"
+msgstr "ID=30027"
+
+msgctxt "6580b906961388cc55a0ba3039455dc8"
+msgid "마이룸 관련"
+msgstr "My Room"
+
+msgctxt "971806e302ca8a341aebd7cf0a2965d6"
+msgid "소울워커만의 숙소가 제공됩니다. 별도의 공간에서 다양한 커뮤니티를 즐길 수 있습니다."
+msgstr ""
+"A personal room for Soulworkers only, it is fully customizable. It is a "
+"hospitable place for guests and friends to enjoy."
+
+msgctxt "bdbda5af91922229ada60a583f4d210c"
+msgid "ID=30028"
+msgstr "ID=30028"
+
+msgctxt "e79e09b9a74f89019521ab5c618e427e"
+msgid "리그 관련"
+msgstr "Guild"
+
+msgctxt "bb7b829eac66d7f804d8ca8b7c1474a5"
+msgid "리그를 창설하여, 더욱 확장된 커뮤니티를 즐길 수 있습니다."
+msgstr ""
+"A guild can be used to extend contact, share info and increase the gaming "
+"experience."
+
+msgctxt "0d5b33786ae359858f5347244ded03ca"
+msgid "ID=30029"
+msgstr "ID=30029"
+
+msgctxt "3ea1c4e84f1fae6a417c3b45d06b645e"
+msgid "아이템 내구도 관련"
+msgstr "Item Durability"
+
+msgctxt "58d1f0baeebc35106f5fc9357ec56305"
+msgid "아이템에 내구도가 존재하며, 내구도가 떨어진 상태에서는 원래의 성능을 낼 수 없습니다."
+msgstr "As the item's durability decreases, so do its effectiveness."
+
+msgctxt "94cbba2e2dff2189d1c002f9cf93501c"
+msgid "ID=30030"
+msgstr "ID=30030"
+
+msgctxt "548e636c9d2a4d45381c940c8937545c"
+msgid "서브 웨폰 관련"
+msgstr "Sub Weapon"
+
+msgctxt "d7be95d411108bb2b7f4e7de3d59d081"
+msgid "서브웨폰을 장착하여 스테이터스 증가 및 액션을 추가할 수 있습니다."
+msgstr "You can equip a subweapon to increase status and add actions."
+
+msgctxt "50e7c6d10c981a851563561a1e67746d"
+msgid "ID=30031"
+msgstr "ID=30031"
+
+msgctxt "ffe668536fc305ef826c30de1f5b954a"
+msgid "아티팩트 관련"
+msgstr "Artifact"
+
+msgctxt "426efe8fb4c9b69b74739215ce1b75b8"
+msgid "다양한 아티팩트를 수집하고 착용하여, 캐릭터의 능력을 향상 시킬 수 있습니다."
+msgstr ""
+"By collecting and wearing various artifacts, you can improve your "
+"character's abilities."
+
+msgctxt "386b93579e09e9bc322c56ddc6dd90da"
+msgid "ID=30032"
+msgstr "ID=30032"
+
+msgctxt "f1dbc19a2bc7a1e4cacbc209bd89774b"
+msgid "패밀리어 관련"
+msgstr "Familiar"
+
+msgctxt "7fff433021cfeba517a17a270d450f5e"
+msgid "특별한 소울웨폰에는 간혹 소켓이 있을 수 있습니다. 패밀리어를 장착하면 효과를 증가 시킬 수 있습니다."
+msgstr ""
+"An item that is especially rate that can be socked into Soul Weapons to "
+"increase their effectiveness, the Familiar."
+
+msgctxt "49a01fa8e50b4bea2db631e454258b1a"
+msgid "ID=30033"
+msgstr "ID=30033"
+
+msgctxt "e456029b54e1c43440749f36e69752e7"
+msgid "아카식 아이템 각인/해방관련"
+msgstr "Akashas"
+
+msgctxt "42c8fe12bb58a3593cc91eb4693af410"
+msgid "빈카드와 아카식 키 아이템을 조합하여, 아카식 레코드를 얻거나 상위 등급으로 각인 시킬 수 있습니다."
+msgstr ""
+"By combining a blank card and an Akashic Key Item, you can get an Akasha or "
+"craft them to a higher rank."
+
+msgctxt "b3f3e4d2733ad82846c917c9ffd2a846"
+msgid "ID=30034"
+msgstr "ID=30034"
+
+msgctxt "9b9da52c5f6bb0d356cf8456a98bf7e5"
+msgid "아카식 습득 관련"
+msgstr "Obtaining Akashas"
+
+msgctxt "6b23cb6f1e68c12b54968965f6c56489"
+msgid "아카식 레코드를 사용하여 획득하면, 스킬 창에 등록됩니다. 한번 등록된 카드는 다시 되돌릴 수 없습니다."
+msgstr ""
+"When acquired using Akashic Records, it is listed in the Skill Window. Once "
+"a card is registered, it cannot be unregistered."
+
+msgctxt "bb9e8b171496a24485e8387513b070c4"
+msgid "ID=30035"
+msgstr "ID=30035"
+
+msgctxt "15575447ecf83527e7e209c83526e79f"
+msgid "아카식 등록 및 사용 관련"
+msgstr "Akasha Registration and Use"
+
+msgctxt "3f7f0cf4c1efae06724b3fe5d3dd2320"
+msgid "스킬 창에 등록된 아카식 레코드는 퀵슬롯에 배치하여, 전투에서 사용하거나 이로운 효과를 받을 수 있습니다."
+msgstr "Akashas can be used in comba or as a passive card."
+
+msgctxt "cdcf6792af015347d3db162fae006e71"
+msgid "ID=30036"
+msgstr "ID=30036"
+
+msgctxt "75e11e6b0085f966c0ed6ef3fe33d731"
+msgid "엔드컨텐츠"
+msgstr "End Content"
+
+msgctxt "dc383d0bb3bf5d609422e731184e99d7"
+msgid "마지막 컨텐츠"
+msgstr "The Remaining Content"
+
+msgctxt "c7bf12ec7496401cf1c5258cb44ee0f2"
+msgid "ID=30037"
+msgstr "ID=30037"
+
+msgctxt "b96256026556195ab2b7314a2ac20d89"
+msgid "아이템 업적"
+msgstr "Item Achievement"
+
+msgctxt "eb8694d334e9a0fb729ae1576572efc8"
+msgid "아이템 업적 달성률 : {0}%"
+msgstr "Item Achievements Completion Rate: {0}%"
+
+msgctxt "1d4b7e8647af624204bc3e614183663b"
+msgid "ID=30038"
+msgstr "ID=30038"
+
+msgctxt "e3170e3030cb333c6c4f968f1e8a965d"
+msgid "메이즈 업적"
+msgstr "Dungeon Achievement"
+
+msgctxt "e7de3116c2b47f6ad6faa441ea0e3dbe"
+msgid "메이즈 업적 달성률 : {0}%"
+msgstr "Dungeon Achievements Completion Rate: {0}%"
+
+msgctxt "34ed3d66ee60139591259230d7aa40b0"
+msgid "ID=30039"
+msgstr "ID=30039"
+
+msgctxt "724bf3c4c20c91083e78a8c50f4800e6"
+msgid "전투 업적"
+msgstr "Combat Achievement"
+
+msgctxt "d1c6d7937f01036b0671563fd45eff92"
+msgid "전투 업적 달성률 : {0}%"
+msgstr "Combat Achievements Completion Rate: {0}%"
+
+msgctxt "bdcb54dcf60652b95fd0885d4eca5e7e"
+msgid "ID=30040"
+msgstr "ID=30040"
+
+msgctxt "b5fd8b68c07041750eacb3b9321351a3"
+msgid "퀘스트 업적"
+msgstr "Quest Achievement"
+
+msgctxt "da1e1c553f34a89b5c3393a3eda30ab7"
+msgid "퀘스트 업적 달성률 : {0}%"
+msgstr "Quest Achievements Completion Rate: {0}%"
+
+msgctxt "5084cf4ceff3742f78bbde080b8293ac"
+msgid "ID=30041"
+msgstr "ID=30041"
+
+msgctxt "4b5fab7932135cbb390c8020b6f6e9f8"
+msgid "플레이 업적"
+msgstr "Play Achievement"
+
+msgctxt "637cf78eac432fa1f0bec50a3ed1bc3d"
+msgid "플레이 업적 달성률 : {0}%"
+msgstr "Play Achievements Completion Rate: {0}%"
+
+msgctxt "cc135c395cc427e60ef4e4b8f43f06d7"
+msgid "ID=30042"
+msgstr "ID=30042"
+
+msgctxt "29374a057f856d369c4f6af7c28c455f"
+msgid "커뮤니티 업적"
+msgstr "Community Achievement"
+
+msgctxt "a2d9b465b49b217478d7350e0f845369"
+msgid "커뮤니티 업적 달성률 : {0}%"
+msgstr "Community Achievements Completion Rate: {0}%"
+
+msgctxt "c83ab766bb9308711b242ee26f569fef"
+msgid "ID=30043"
+msgstr "ID=30043"
+
+msgctxt "a47a538856de870b9dd1fac1b17cdf69"
+msgid "서포터 사용 관련"
+msgstr "Supporter Usage"
+
+msgctxt "7c568b9f63642a1dd064266d03ec0d2b"
+msgid "서포터를 사용 하시려면 메이즈 내부에서 [F3] 키를 누르거나 [Y]키로 서포터창의 소환하기로 사용이 가능합니다."
+msgstr ""
+"Supporters can be used by pressing the [F3] key in a dungeon or by summoning "
+"them from supporter's window [Y]."
+
+msgctxt "405d646dd914bc379ef2313da0475843"
+msgid "ID=30044"
+msgstr "ID=30044"
+
+msgctxt "02e10f9be0699adc94b6ec34cc9992f8"
+msgid "레이드 업적"
+msgstr "Raid Achievement"
+
+msgctxt "2e38a36195be6d378fd0e292ae6686a4"
+msgid "레이드 업적 달성률 : {0}%"
+msgstr "Raid Achievements Completion Rate: {0}%"
+
+msgctxt "61cedc2bd6317a9bb648976492f93787"
+msgid "ID=21005"
+msgstr "ID=21005"
+
+msgctxt "e9f82b095e569c5d694646536b8b2129"
+msgid "인게임 내의 상점, 거래소에서 사용되는 재화입니다.\\n몬스터 처치 및 각종 보상에서 획득 할 수 있습니다."
+msgstr ""
+"Goods used in-game shops and exchanges.\\nCan be obtained from monster and "
+"Clearance rewards."
+
+msgctxt "dac432eff9686b4f73514bc914b11dee"
+msgid "ID=21006"
+msgstr "ID=21006"
+
+msgctxt "abf2654c5782b4e6db83ad88c973da20"
+msgid "아이템의 강화, 제련에 사용되는 재화입니다.\\n몬스터 처치 및 분해에서 획득 할 수 있습니다."
+msgstr ""
+"This item is used to enhance and refine items.\\nYou can obtain this item "
+"from monster, clearance and dismantling."
+
+msgctxt "bb15deea8e37ec3898b229562e9885d6"
+msgid "ID=21007"
+msgstr "ID=21007"
+
+msgctxt "062e6337d8436c76eba1b66f66fd0e5f"
+msgid "B.P"
+msgstr "B.P"
+
+msgctxt "c03598bc2b028457dfb0e5e250daf2bc"
+msgid "부커스T.V에서 고급 아이템을 살 수 있는 재화입니다.\\n강한 몬스터 처치 및 각종 보상에서 획득 할 수 있습니다."
+msgstr ""
+"This is the currency used in certain special shops.\\nIt can be obtained by "
+"killing powerful monsters or via various rewards."
+
+msgctxt "ce1471b61fa01e4182214a36213da132"
+msgid "ID=21008"
+msgstr "ID=21008"
+
+msgctxt "42f7b0b0876a8c2603fa2b9b39256550"
+msgid "소울 캐쉬"
+msgstr "Raining Coins"
+
+msgctxt "2cb1a66cad862c08fbdead78e4bf1e3c"
+msgid "캐시샵에서 캐쉬아이템을 구매할 수 있는 재화입니다.\\n캐쉬 충전을 통해 획득 할 수 있습니다."
+msgstr ""
+"This is the currency used to purchase items in the Item Mall.\\nIt can be "
+"obtained via the Website."
+
+msgctxt "e08b3dffcc54e5e436e76210ee8a45a5"
+msgid "ID=11026"
+msgstr "ID=11026"
+
+msgctxt "458f2e1471acf2791d7e789c9c456985"
+msgid "루돌프변신"
+msgstr "Reindeer Transforamtion"
+
+msgctxt "e57bbf18d5ccb89fb789905767761311"
+msgid "루돌프로 변신 시도를 합니다."
+msgstr "Transform into Rudolph."
+
+msgctxt "1dd7149595761063393d7c2016db75ba"
+msgid "ID=11027"
+msgstr "ID=11027"
+
+msgctxt "484e47750544e93003e357ad3a3429ac"
+msgid "한복B"
+msgstr "Hanbok B"
+
+msgctxt "f68d9835f3561d043b435d5c30aa2cce"
+msgid "한복B 제스쳐를 취합니다"
+msgstr "Take Hanbok B gesture"
+
+msgctxt "9c0dd858675e80b03041a450602ab626"
+msgid "ID=11028"
+msgstr "ID=11028"
+
+msgctxt "43f78c19b66797e3edf17f98261d61a0"
+msgid "피겨스케이팅"
+msgstr "Skating"
+
+msgctxt "16427798bdd6ca0b3d93f3c219341881"
+msgid "피겨스케이팅 제스쳐를 취합니다."
+msgstr "Take a figure skating gesture."
+
+msgctxt "192ff611f82e7f528952ba0d18d629b7"
+msgid "ID=11029"
+msgstr "ID=11029"
+
+msgctxt "dfc08d7ea0138e4c6ed247f11a0a45be"
+msgid "음양사"
+msgstr "Ying & Yang"
+
+msgctxt "39655b43df614e0c4f4de8b172640686"
+msgid "음양사 제스쳐를 취합니다."
+msgstr "Take a Yin & Yang gesture."
+
+msgctxt "6a30b04d6013056b4ff06812f39000a0"
+msgid "ID=11030"
+msgstr "ID=11030"
+
+msgctxt "e49e6e373b5b2c0831d6623b49d67775"
+msgid "유카타B"
+msgstr "Yukata B"
+
+msgctxt "a78d44dc739dc7fbc1044f20cc9a3404"
+msgid "유카타B 제스쳐를 취합니다."
+msgstr "Take a Yukata B gesture"
+
+msgctxt "2bffbf3670843d7c881362763b97eca7"
+msgid "ID=11031"
+msgstr "ID=11031"
+
+msgctxt "145344ce9b02664c4fa27176a9261496"
+msgid "그루그루 그루톤"
+msgstr "Glu-Glu-Gluton"
+
+msgctxt "eb4c20f030f849249a0bad2b3f78d495"
+msgid "그루그루 그루톤 제스쳐를 취합니다"
+msgstr "Take the Gluton gesture"
+
+msgctxt "b2a33f0e23d855da2e79979d0799681b"
+msgid "ID=11032"
+msgstr "ID=11032"
+
+msgctxt "cf47a8d6e7a7201bfc0980902cdf3bc5"
+msgid "인텔리 블랙"
+msgstr "Agent"
+
+msgctxt "cbe8403896ef0345409437ae2e2f7c5e"
+msgid "인텔리 블랙 정장 제스쳐를 취합니다."
+msgstr "Take the Agent gesture"
+
+msgctxt "007bce3c51875f9f99624b6f7ef1bbf6"
+msgid "ID=11033"
+msgstr "ID=11033"
+
+msgctxt "8460525f78b0504bcd900ff272870620"
+msgid "바다 내음1"
+msgstr "Sea Sounds 1"
+
+msgctxt "2c9a76650727ddceb54e90f83c3b475f"
+msgid "바다 내음1 제스쳐를 취합니다."
+msgstr "Take the Sea Sound 1 gesture"
+
+msgctxt "ed71f481cf7ef3dec6a45bc4f37214bd"
+msgid "ID=11034"
+msgstr "ID=11034"
+
+msgctxt "4584135477f6e2776c24fe09f50c453e"
+msgid "바다 내음2"
+msgstr "Sea Sound 2"
+
+msgctxt "3d2875c394b4646123291440b3fc125e"
+msgid "바다 내음2 제스쳐를 취합니다."
+msgstr "Take the Sea Sound 2 gesture"
+
+msgctxt "5b38d5eed3485b51ea6433baf6ccd559"
+msgid "ID=11035"
+msgstr "ID=11035"
+
+msgctxt "2a2b3a7cb7e18b922caa15d47f8b2000"
+msgid "동심가득"
+msgstr "Military Band"
+
+msgctxt "e85e8ea8b842bc20134bf5b739e3322e"
+msgid "동심가득 제스쳐를 취합니다."
+msgstr "Take the Military Band gesture"
+
+msgctxt "01d46a6f394392e7ca9debf98bf40413"
+msgid "ID=11036"
+msgstr "ID=11036"
+
+msgctxt "bd368292fa365f427838fd4711f1aabd"
+msgid "히어로"
+msgstr "Holy "
+
+msgctxt "86b2afeae998628562ddb934cfe55353"
+msgid "히어로 제스쳐를 취합니다."
+msgstr "Take the Holy gesture"
+
+msgctxt "9056e355acf9764e394ca3a02f300349"
+msgid "ID=11037"
+msgstr "ID=11037"
+
+msgctxt "ba5b1528678e9703855ab21113e274da"
+msgid "군악대"
+msgstr "Blooming Dress"
+
+msgctxt "86c951bf027744492a1f90ff4c4fafa0"
+msgid "군악대 제스쳐를 취합니다."
+msgstr "Take the Blooming Dress gesture."
+
+msgctxt "fb06cd271b1511361602d289792464cd"
+msgid "ID=11038"
+msgstr "ID=11038"
+
+msgctxt "99dda03b227b31a01b2bb1dc9c6902b0"
+msgid "성스러운 심판"
+msgstr "Holy Knight"
+
+msgctxt "ac0c31c2352381760181f17c0fbaecd6"
+msgid "성스러운 심판 제스쳐를 취합니다."
+msgstr "Take the Holy Knight gesture"
+
+msgctxt "a0a35af54af5ffb6b980d48304f1a053"
+msgid "ID=11039"
+msgstr "ID=11039"
+
+msgctxt "d6426aefee8917ad064db1ba6db2cc42"
+msgid "블루밍 드레스"
+msgstr "Blooming Dress"
+
+msgctxt "1939976f4bdcbdf833e5a7e2ae204939"
+msgid "블루밍 드레스 제스쳐를 취합니다."
+msgstr "Take the Blooming Dress gesture"
+
+msgctxt "ae9e692adbafbe4fbc6cc2f3330dd7f2"
+msgid "ID=11040"
+msgstr "ID=11040"
+
+msgctxt "5048358154a7cbc5a3580f5302eb1497"
+msgid "은빛 기사단"
+msgstr "Silver Knight"
+
+msgctxt "7b650ea70a7670e0d39e5d6cd91e2a0d"
+msgid "은빛 기사단 제스쳐를 취합니다."
+msgstr "Take the Silver Knight gesture"
+
+msgctxt "6c69a427509c2c5a8ee8770ba6694ca3"
+msgid "ID=11041"
+msgstr "ID=11041"
+
+msgctxt "1ff044b40bbb5d7f8d45cd940ddf8fc2"
+msgid "동물잠옷"
+msgstr "Animal Pajamas"
+
+msgctxt "29ac8d7d791e969def2a77b491ce47f3"
+msgid "동물잠옷 제스쳐를 취합니다."
+msgstr "Take the Animal Pajamas gesture"
+
+msgctxt "a7de82b746cb47a3ae07f0c72258875c"
+msgid "ID=11042"
+msgstr "ID=11042"
+
+msgctxt "4dea514c70f39624713cc7a695e88c2e"
+msgid "서번트 인 카페"
+msgstr "Servant"
+
+msgctxt "a769a8e3aba44889a93ca9f891229e89"
+msgid "서번트 인 카페 제스쳐를 취합니다."
+msgstr "Take the Servant gesture"
+
+msgctxt "6afd9db10a2c95c04b4141fed8875a4d"
+msgid "ID=11043"
+msgstr "ID=11043"
+
+msgctxt "a4e26d261cc9cb870b531f460e3c476f"
+msgid "세일러"
+msgstr "Sailor"
+
+msgctxt "9777ce7ce30279fdf5cf36cc9ef00272"
+msgid "세일러 제스쳐를 취합니다."
+msgstr "Take the Sailor gesture"
+
+msgctxt "b656f4a87b35f052638651d74f16fcf3"
+msgid "ID=1000"
+msgstr "ID=1000"
+
+msgctxt "027f0787b86c2b977bd6a07835c11048"
+msgid "레벨 경험치"
+msgstr "Level Experience"
+
+msgctxt "df3afe0c56bcdda606cf6e92e60d6261"
+msgid "{0} / {1} ({2}%)"
+msgstr "{0} / {1} ({2}%)"
+
+msgctxt "5485dba07364d6ac6cffd169da8672cb"
+msgid "ID=1001"
+msgstr "ID=1001"
+
+msgctxt "9da35978cbb73eec0e23a82c0bd4e3fa"
+msgid "계급 경험치(자신)"
+msgstr "Rank Experience (Yourself)"
+
+msgctxt "136167de40a0f0faadac14e7e49943ed"
+msgid "{0}\\n{1} / {2} ({3}%)"
+msgstr "{0}\\n{1} / {2} ({3}%)"
+
+msgctxt "86c5d9d1b434ff88a5f247e27bcc8119"
+msgid "ID=1002"
+msgstr "ID=1002"
+
+msgctxt "006e9e004896156fb275fa625c2620e4"
+msgid "계급 (타인)"
+msgstr "Rank (others)"
+
+msgctxt "b7ee2123a1bbeea9606c2afb57f0bc63"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "f723a41e990270bf57e1396242121563"
+msgid "ID=10"
+msgstr "ID=10"
+
+msgctxt "e6fc8ce107f2bdf0955f021a391514ce"
+msgid "HP"
+msgstr "HP"
+
+msgctxt "3de6eedbc7b8fb828093090b99603097"
+msgid "캐릭터의 전체 체력입니다. HP가 0이 되면 쓰러집니다."
+msgstr "The health of the character. DIes if the HP reaches zero."
+
+msgctxt "b2d53b674234fd637006f9aab77530e9"
+msgid "ID=14"
+msgstr "ID=14"
+
+msgctxt "2c39e0d89ecfb61dcf85a53196ca630e"
+msgid "스태미나"
+msgstr "Stamina"
+
+msgctxt "24a99d3b2fe33439df77c0e3b5c0680b"
+msgid "회피 및 스킬 등을 사용할 때 마다 소비되는 수치입니다."
+msgstr "This is the amount you spend each time you dodge or skill."
+
+msgctxt "c33f2abe4031e26e72898519c5ed7789"
+msgid "ID=103"
+msgstr "ID=103"
+
+msgctxt "73d36036a2f592f00cd3dc0545daf104"
+msgid "적 추가 피해 : 일반"
+msgstr "Enemy Additional Damage: Normal"
+
+msgctxt "b176c096f55fe12b5ce1aaa15f936d6b"
+msgid "일반 타입의 적에게 주는 추가 피해 비율입니다."
+msgstr "Percentage of the bonus damage that is dealt against the normal type."
+
+msgctxt "ea9a6c96c0a254fa4236cd6acf07c8e1"
+msgid "ID=104"
+msgstr "ID=104"
+
+msgctxt "f4a5f5b029e675827473276106ab3eec"
+msgid "적 추가 피해 : 보스/네임드"
+msgstr "Enemy Extra Damage: Boss / Named"
+
+msgctxt "7c02eeba4720b11d6ee1ad492530ffb2"
+msgid "보스 및 네임드 타입의 적에게 주는 추가 피해 비율입니다."
+msgstr "Percentage of the bonus damage that is dealt against the Boss type."
+
+msgctxt "a5f90a755bfe824e00d1da2d9bd63fc2"
+msgid "ID=100"
+msgstr "ID=100"
+
+msgctxt "e382a41329fb15f10a6cc9408efa5c04"
+msgid "재사용 대기시간 감소"
+msgstr "Cooldown Reduction"
+
+msgctxt "806d516f3699c9bcc3c21ff87a2048a8"
+msgid "스킬 사용 후 발생하는 스킬 재사용 대기시간의 감소 비율입니다."
+msgstr "Percentage of the amount that reduces the cooldown further."
+
+msgctxt "8666f211f4862cdbc3ca5f64e1917972"
+msgid "ID=11044"
+msgstr "ID=11044"
+
+msgctxt "fa96a4329847e191d2671a49ccfb5f04"
+msgid "데자이어 워커"
+msgstr "Desire Worker"
+
+msgctxt "bf85d309f20cf25a02c832c7316dc88c"
+msgid "데자이어 워커 제스쳐를 취합니다."
+msgstr "Take the Desire Workerr gesture."
+
+msgctxt "1bff6069d4c22217aa3e8c5d333b2e22"
+msgid "ID=11045"
+msgstr "ID=11045"
+
+msgctxt "c7d337f2f9d4e6f7215222447e510508"
+msgid "데자이어 각성"
+msgstr "Desire Awakening"
+
+msgctxt "ff83dea9a1b64462c9e4dfcac3f681b6"
+msgid "데자이어 각성 제스쳐를 취합니다."
+msgstr "Take the Desire Awake Gesture."
+
+msgctxt "eb1ec62ca518fff1e40a7b02427f1dd1"
+msgid "ID=11046"
+msgstr "ID=11046"
+
+msgctxt "445c0c5f530c73ce04ddd6d19205582e"
+msgid "에너미 페스타"
+msgstr "Enemy Festa"
+
+msgctxt "18fedeabce1f05e326f2179f3973c53a"
+msgid "에너미 페스타 제스쳐를 취합니다."
+msgstr "Enemy Festa takes a gesture."
+
+msgctxt "1538d2d51f6519301101c978a4b0a8ad"
+msgid "ID=11047"
+msgstr "ID=11047"
+
+msgctxt "15a5975498f4934a1c763499de9c5ff8"
+msgid "빅 캣"
+msgstr "Big Cat"
+
+msgctxt "3e3fbe7ac7f61b67b457c8e6bd7ef15e"
+msgid "빅 캣 제스쳐를 취합니다."
+msgstr "Take a big cat gesture."
+
+msgctxt "85341bbb86ec6fbfd74fb393c89cd730"
+msgid "ID=11048"
+msgstr "ID=11048"
+
+msgctxt "82fe1138532d4b6cbb376c74553bdbda"
+msgid "나이트메어"
+msgstr "Nightmare"
+
+msgctxt "74dcbd38c6244c076e2d43a0855952f8"
+msgid "나이트메어 제스쳐를 취합니다."
+msgstr "Take Nightmare Gestures."
+
+msgctxt "e629580ee8f664b5d3b725072df893b4"
+msgid "ID=21023"
+msgstr "ID=21023"
+
+msgctxt "c5baab28b4973de24b90e27ec9815696"
+msgid "마일리지 포인트"
+msgstr "Mileage Points"
+
+msgctxt "611068aa9f065473db4613d560895acc"
+msgid ""
+"캐시 아이템 구매 시, 제공되는 재화로 마일리지 샵에서 상품을 구매할 수 있습니다.\\n누적된 마일리지는 매월 1일 초기화 되며, 매월 "
+"말일 23시 59분까지 사용 가능합니다."
+msgstr "----"
+

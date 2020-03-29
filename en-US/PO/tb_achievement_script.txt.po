@@ -1,0 +1,6292 @@
+# Eisou <nanamiide@gmail.com>, 2020. #zanata
+# Emre <silentdix@hotmail.com>, 2020. #zanata
+# Raining <rainingdreams@protonmail.com>, 2020. #zanata
+# lava <alishaan999@gmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-02-18 03:07-0500\n"
+"Last-Translator: Raining <rainingdreams@protonmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "25df48cb5ab49c2349083b5a060c504d"
+msgid "ID=4000101"
+msgstr "ID=4000101"
+
+msgctxt "fb60a8cf6ce7eb9cdbfbbea9ad53d6ce"
+msgid "준비성이 뛰어나네요!"
+msgstr "Well prepared"
+
+msgctxt "83735aa33fddf76cf467e7aaf9fc2f4c"
+msgid "소비 아이템을 20회 사용"
+msgstr "Use 20 consumable items"
+
+msgctxt "a4d39ca76998e145e8e9c86b57a5fd62"
+msgid "ID=4000102"
+msgstr "ID=4000102"
+
+msgctxt "983f4535d925d5e7dff77a2bbd1e290f"
+msgid "대처 능력이 뛰어나네요!"
+msgstr "A good coping mechanism? "
+
+msgctxt "b3ea5a06222fa6c6567c2d2f54809ee9"
+msgid "소비 아이템을 50회 사용"
+msgstr "Use 50 consumable items"
+
+msgctxt "a6eb12c2a28b06462b9471e6a11f9474"
+msgid "ID=4000103"
+msgstr "ID=4000103"
+
+msgctxt "7f589d74847d669e11f4301ee9378b6f"
+msgid "대처…능력이 뛰어나시군요!"
+msgstr "Addicted to items!"
+
+msgctxt "65a9df0cae3e300c99daf88149527f2e"
+msgid "소비 아이템을 100회 사용"
+msgstr "Use 100 consumable items"
+
+msgctxt "0c3170b4564d064b54e2ea53ecc61c57"
+msgid "ID=4000104"
+msgstr "ID=4000104"
+
+msgctxt "89497f55ae31d2ed3012c921d584cfeb"
+msgid "위기… 대처인가요?"
+msgstr "Am I sane?"
+
+msgctxt "efb7a0d5f48eae35283a2ab90e48cd6d"
+msgid "소비 아이템을 200회 사용"
+msgstr "Use 200 consumable items"
+
+msgctxt "bf04ea09c833487ba2e883bc41f78efc"
+msgid "ID=4000105"
+msgstr "ID=4000105"
+
+msgctxt "3bf003c68bc62cfa2a823460c70ef76b"
+msgid "맛있어서 드시는 건 아니죠?"
+msgstr "Oooh... wait, how do I dodge again?"
+
+msgctxt "5a630622c0babfe8c38b15cd46bac6b9"
+msgid "소비 아이템을 400회 사용"
+msgstr "Use 400 consumable items"
+
+msgctxt "6969dfd00e87d2a0bdf4f290c14b3d14"
+msgid "ID=4000106"
+msgstr "ID=4000106"
+
+msgctxt "ec3dd948716384c5898e7e900938a07f"
+msgid "심심해서 드시는 건 아니죠?"
+msgstr "They are like drugs!"
+
+msgctxt "0e0b44458e04e25583dc1a436727d702"
+msgid "소비 아이템을 800회 사용"
+msgstr "Use 800 consumable items"
+
+msgctxt "9cc874e3e8fdee910951c9d7dd7585d9"
+msgid "ID=4000107"
+msgstr "ID=4000107"
+
+msgctxt "c1842cd7630614883248233d5f5a4f31"
+msgid "병원에 가보는건 어떨까요?"
+msgstr "I see rose elephants~"
+
+msgctxt "d96faf164ef64b3889628a7b91dd626f"
+msgid "소비 아이템을 1600회 사용"
+msgstr "Use 1600 consumable items"
+
+msgctxt "6b3973bc9bdf179f98dccb7628336b5a"
+msgid "ID=4000108"
+msgstr "ID=4000108"
+
+msgctxt "a80221aaa4f1af1a2ea539df5e254177"
+msgid "건강검진을 받아보는 건…?"
+msgstr "Hey.. psst.. want to buy some?"
+
+msgctxt "a0bf5c93ccaac363da2bc0e986f2050c"
+msgid "소비 아이템을 3200회 사용"
+msgstr "Use 3200 consumable items"
+
+msgctxt "9f4e718d76c132e15ee65434008bcf1e"
+msgid "ID=4000109"
+msgstr "ID=4000109"
+
+msgctxt "edbab7b60911d3662a043a1eeeffa9c8"
+msgid "민간 의료 신봉자"
+msgstr "How often did I press this one button?"
+
+msgctxt "900b11eb0b1736e0f6f2ce3653f72807"
+msgid "소비 아이템을 6400회 사용"
+msgstr "Use 6400 consumable items"
+
+msgctxt "7f135546a06377518a1249767b651fb7"
+msgid "ID=4000110"
+msgstr "ID=4000110"
+
+msgctxt "699799099125ddb693c175eb553d2250"
+msgid "소비하는 그대가 아름답다"
+msgstr "All my items belong to me!"
+
+msgctxt "e0511e9cd5fae95c69b86e97dae02780"
+msgid "소비 아이템을 12800회 사용"
+msgstr "Use 12800 consumable items"
+
+msgctxt "5d5b2d46eb149aa9fe767061ca4fbd85"
+msgid "ID=4000201"
+msgstr "ID=4000201"
+
+msgctxt "1bccd93a8e493b6752c12aa0643cec7f"
+msgid "앞으로도 많이 이용해 주세요~"
+msgstr "Look at that!"
+
+msgctxt "729d9caed0038602b007b4132146bfee"
+msgid "상점에서 아이템 5회 구매"
+msgstr "Buy 5 items at a store"
+
+msgctxt "786b0223b3b4b7381d05496e3e95d2b1"
+msgid "ID=4000202"
+msgstr "ID=4000202"
+
+msgctxt "a33d6c07d9ad5ae48b53a39cbfc1c11c"
+msgid "자주자주 이용해 주세요~"
+msgstr "This looks good as well~"
+
+msgctxt "ec740f100e6b4f27a75011ae9da491a3"
+msgid "상점에서 아이템 30회 구매"
+msgstr "Buy 30 items at a store"
+
+msgctxt "b8c6da19763f2a5a245d7b3794c2fd12"
+msgid "ID=4000203"
+msgstr "ID=4000203"
+
+msgctxt "b3d04d40bde3bcc2ac65b1a8c810cdb8"
+msgid "이제 제법 단골 같은데!"
+msgstr "It is so shiny!"
+
+msgctxt "a5dec2c7826c18ca26e58fca9480533a"
+msgid "상점에서 아이템 100회 구매"
+msgstr "Buy 100 items at a store"
+
+msgctxt "07d09f93220d8237acc5c59d13c87f82"
+msgid "ID=4000204"
+msgstr "ID=4000204"
+
+msgctxt "3cf14f4c831e9c57105d48620b2c705b"
+msgid "돈을 벌면 써야하는거야!"
+msgstr "That looks good!"
+
+msgctxt "c7ecc3d4cc1a71a42052aabcfc0f058d"
+msgid "상점에서 아이템 300회 구매"
+msgstr "Buy 300 items at a store"
+
+msgctxt "5c7c9ad3b873d3c2129e35963120e8a9"
+msgid "ID=4000205"
+msgstr "ID=4000205"
+
+msgctxt "423cad1f0d895f47ddf0088e26395c2b"
+msgid "과소비 문화"
+msgstr "My room is full of... things"
+
+msgctxt "89455e398280e2a9de28b9fa98162efd"
+msgid "상점에서 아이템 600회 구매"
+msgstr "Buy 600 items at a store"
+
+msgctxt "3d05d4f7851b1478d48657d8e846e28c"
+msgid "ID=4000206"
+msgstr "ID=4000206"
+
+msgctxt "d1b4645cf197efeac72b51bfa11ae159"
+msgid "단골 할인 없나요?"
+msgstr "I need more storage"
+
+msgctxt "421cbeeef633391340ea5e7faf66d6e8"
+msgid "상점에서 아이템 1000회 구매"
+msgstr "Buy 1000 items at a store"
+
+msgctxt "4d1ef0c99fe22e9fb02c0c7005313188"
+msgid "ID=4000207"
+msgstr "ID=4000207"
+
+msgctxt "6bfcc28baf2aff20551719fb1fe58b46"
+msgid "경제 활성화의 공헌자"
+msgstr "Collector"
+
+msgctxt "6cc17cdd1a942cc5d8f89ef017ecdf65"
+msgid "상점에서 아이템 2000회 구매"
+msgstr "Buy 2000 items at a store"
+
+msgctxt "a5635eabbd373591a8b5bb3503eb6f38"
+msgid "ID=4000208"
+msgstr "ID=4000208"
+
+msgctxt "d9b62720ea09d2c847ee8e6809402d73"
+msgid "여기 전부 다 내가 산 물건"
+msgstr "This store still has goods"
+
+msgctxt "5922ce0b576745364c561ce8a0a598c2"
+msgid "상점에서 아이템 5000회 구매"
+msgstr "Buy 5000 items at a store"
+
+msgctxt "6c67a5b53e2dd1aba89b231ea2ee1d6f"
+msgid "ID=4000209"
+msgstr "ID=4000209"
+
+msgctxt "0b247ee71247e3f2a73d1cd0377d9684"
+msgid "새로운 물건은 없나요?"
+msgstr "The store is still not empty?"
+
+msgctxt "235608eda8c50724ace358326bbe4f2d"
+msgid "상점에서 아이템 8000회 구매"
+msgstr "Buy 8000 items at a store"
+
+msgctxt "454a9ad38941cd6436d2a7640f7012b8"
+msgid "ID=4000210"
+msgstr "ID=4000210"
+
+msgctxt "01e54209a199d4825c0a18aef96d05b1"
+msgid "상인 연합 VVIP"
+msgstr "V-V-VIP"
+
+msgctxt "20056cc961e30f02902aadef4d4c1d2a"
+msgid "상점에서 아이템 10000회 구매"
+msgstr "Buy 10000 items at a store"
+
+msgctxt "88a3789d2cc95ea0d94a1fcf2ac2eb2b"
+msgid "ID=4000301"
+msgstr "ID=4000301"
+
+msgctxt "d734315d4c29e62612b69dbe10605ce3"
+msgid "미리미리 고쳐야 해"
+msgstr "I need to fix it in advance"
+
+msgctxt "f2eb1bd896008fd5c266f857065398ad"
+msgid "누적 수리비 30000제니 달성"
+msgstr "Spend 30.000 Zenny on repairs"
+
+msgctxt "cf942cd5b70e56d9e882997fdb05fb0d"
+msgid "ID=4000302"
+msgstr "ID=4000302"
+
+msgctxt "3dd595236eb62735856633c80eb6b598"
+msgid "아껴쓰고~ 다시쓰자!"
+msgstr "Save it ~ Let's rewrite it!"
+
+msgctxt "af987205883c4e6950c4376bdfb2a728"
+msgid "누적 수리비 50000제니 달성"
+msgstr "Spend 50.000 Zenny on repairs"
+
+msgctxt "5e20f1bf42cd87a70c6c94dfb30f25e9"
+msgid "ID=4000303"
+msgstr "ID=4000303"
+
+msgctxt "7b62c2bc69166fe1ac3f227d82851acc"
+msgid "부서질까 무섭다"
+msgstr "I'm afraid to break it"
+
+msgctxt "6a00261ff74993ebb8e8711e330083e0"
+msgid "누적 수리비 70000제니 달성"
+msgstr "Spend 70.000 Zenny on repairs"
+
+msgctxt "9941cbfca21bc87d51f36d2aadce51ef"
+msgid "ID=4000304"
+msgstr "ID=4000304"
+
+msgctxt "b2ae799da90bfe19fc800eac38c9ce2b"
+msgid "사라질까 두렵다"
+msgstr "Afraid to disappear"
+
+msgctxt "25fd4489b799676c9ebdbf5eef30e5f7"
+msgid "누적 수리비 90000제니 달성"
+msgstr "Spend 90.000 Zenny on repairs"
+
+msgctxt "27ba9105dc3fce5e54e076dac639055e"
+msgid "ID=4000305"
+msgstr "ID=4000305"
+
+msgctxt "4a95debc443f74bdee306271e8749477"
+msgid "돈이 없어!"
+msgstr "I don't have money!"
+
+msgctxt "2cb6b2184452e111db663a5a75bf4c1f"
+msgid "누적 수리비 110000제니 달성"
+msgstr "Spend 110.000 Zenny on repairs"
+
+msgctxt "645523d78851074ccc96efef9e409862"
+msgid "ID=4000306"
+msgstr "ID=4000306"
+
+msgctxt "a4527ce2ee934bbc4b10fe2216df9fce"
+msgid "돈이 정말로 없어!!"
+msgstr "I really don't have money!"
+
+msgctxt "40fbd77917a3d7f493f162ca1f2bb936"
+msgid "누적 수리비 130000제니 달성"
+msgstr "Spend 130.000 Zenny on repairs "
+
+msgctxt "d53d3b244991e6045a7129cdce54d0f0"
+msgid "ID=4000307"
+msgstr "ID=4000307"
+
+msgctxt "28a56bde985aa19cef69f9112c9a4642"
+msgid "수리비가 더 든것 같아"
+msgstr "I think it costs more to repair"
+
+msgctxt "81761926b6022791ea979d391c9d5380"
+msgid "누적 수리비 140000제니 달성"
+msgstr "Spend 140.000 Zenny on repairs "
+
+msgctxt "503b37adee0cf910c23eea752f3822de"
+msgid "ID=4000308"
+msgstr "ID=4000308"
+
+msgctxt "334fcd3cb9d8dd2d7bc3dfc734456373"
+msgid "오래 쓸수록 빛나는 내 무기"
+msgstr "The longer I use my shining weapon"
+
+msgctxt "40f4bcc30b9be2cda5d510eaa5f3f484"
+msgid "누적 수리비 160000제니 달성"
+msgstr "Spend 160.000 Zeanny on repairs "
+
+msgctxt "296401c8480dd6883668196199e3623c"
+msgid "ID=4000309"
+msgstr "ID=4000309"
+
+msgctxt "e0106180b3b18bdddb575d26d39a0b1d"
+msgid "스스로 고칠수 있을 것 같아"
+msgstr "I think I can fix it myself"
+
+msgctxt "40d7be7db40b310c593c1747db9533ae"
+msgid "누적 수리비 180000제니 달성"
+msgstr "Spend 180.000 Zeanny on repairs "
+
+msgctxt "42992a440c1925d36847326c823bdde1"
+msgid "ID=4000310"
+msgstr "ID=4000310"
+
+msgctxt "2cbe1c6896b2bd26b7c7569ce0d9d926"
+msgid "수리계의 큰손"
+msgstr "Big wallet"
+
+msgctxt "7697569006b35c940cb887b7ac852dde"
+msgid "누적 수리비 300000제니 달성"
+msgstr "Spend 300.000 Zeanny on repairs "
+
+msgctxt "c30a387f981448c472510d34a12afae8"
+msgid "ID=4000401"
+msgstr "ID=4000401"
+
+msgctxt "0527aad788d75e8da9ad737569f0c15d"
+msgid "아이템이 있으니까 괜찮아"
+msgstr "It's okay because there are items"
+
+msgctxt "1313afad3ac9dd2b8ad9ec5a9106c089"
+msgid "전투 불능 횟수 3회 달성"
+msgstr "Died 3 times"
+
+msgctxt "5a26f3149fb9bc66dc8ec51a697fcbc7"
+msgid "ID=4000402"
+msgstr "ID=4000402"
+
+msgctxt "a9ece3dd915b2b53e053c8d97d43eca5"
+msgid "실수 할 수도 있는거지!"
+msgstr "Everyone makes mistakes!"
+
+msgctxt "7e3198058aedf2b6bd44c9a102638ac8"
+msgid "전투 불능 횟수 10회 달성"
+msgstr "Died 10 times"
+
+msgctxt "dd384855b2a330484fee3a16ba2b5b48"
+msgid "ID=4000403"
+msgstr "ID=4000403"
+
+msgctxt "c0957ab75f5dc287ae3e0508dffec681"
+msgid "실수가 아닌거 같다"
+msgstr "It's not a mistake"
+
+msgctxt "8a309f1a7b8af0a0cbcd2af7df0578f4"
+msgid "전투 불능 횟수 50회 달성"
+msgstr "Died 50 times"
+
+msgctxt "90f0266ef323eb5184a8bad3907394fa"
+msgid "ID=4000404"
+msgstr "ID=4000404"
+
+msgctxt "820e48561259d71613107dc62efe5b64"
+msgid "바닥이 차다"
+msgstr "The floor is cold"
+
+msgctxt "3ae87852b00bc7a39f24a17ed0adfcbf"
+msgid "전투 불능 횟수 100회 달성"
+msgstr "Died 100 times"
+
+msgctxt "e57ec841bb61b64d2f8511875c1e7373"
+msgid "ID=4000405"
+msgstr "ID=4000405"
+
+msgctxt "21e6e288d7b27f1f76b4093ff71994c9"
+msgid "누울자리가 여기로구나"
+msgstr "This is my bed"
+
+msgctxt "8aedce1d11740c3d645050708fc199e0"
+msgid "전투 불능 횟수 200회 달성"
+msgstr "Died 200 times"
+
+msgctxt "6feeb2659727d8ef90a430b98ecfbddf"
+msgid "ID=4000406"
+msgstr "ID=4000406"
+
+msgctxt "bff11820236c2552dfbb33f6386d2e82"
+msgid "이젠 일어나기가 싫다"
+msgstr "I don't want to wake up"
+
+msgctxt "54f08432d743468fa26be1f85c1c3a57"
+msgid "전투 불능 횟수 400회 달성"
+msgstr "Died 400 times"
+
+msgctxt "f648ecaac8bca71cd1f05a88c4963d5e"
+msgid "ID=4000407"
+msgstr "ID=4000407"
+
+msgctxt "66568b43432ce772a72b3b6ffc4a810e"
+msgid "신문지 좀 덮어줄래"
+msgstr "Cover the news"
+
+msgctxt "84de1509f2612c08391c214f36e20871"
+msgid "전투 불능 횟수 800회 달성"
+msgstr "Died 800 times"
+
+msgctxt "fa658c608bf7d4b404a3ab3c4f39ac0d"
+msgid "ID=4000408"
+msgstr "ID=4000408"
+
+msgctxt "9f1cb79cb1f86e9e5c639c6f74d586e4"
+msgid "양지바른 곳에 묻어주오"
+msgstr "Burry me in a sunny place"
+
+msgctxt "050c5b7ab626e2b5488ce06f6637f254"
+msgid "전투 불능 횟수 1200회 달성"
+msgstr "Died 1.200 times "
+
+msgctxt "1abff96d0faf11921e033c5857bd98fd"
+msgid "ID=4000409"
+msgstr "ID=4000409"
+
+msgctxt "07a9cdc95354c0c2c5d89af3a658b123"
+msgid "이것도 요령이라네"
+msgstr "It's just a trick"
+
+msgctxt "9ec297a9e8e5dfe2b73060eb8e28c8d9"
+msgid "전투 불능 횟수 1600회 달성"
+msgstr "Died 1.600 times"
+
+msgctxt "112a0189c98fe7df70f8016e4ae4f614"
+msgid "ID=4000410"
+msgstr "ID=4000410"
+
+msgctxt "1cf5dc043e45574ccc3b780686620649"
+msgid "알고보면 불사신"
+msgstr "Did you know, immortality"
+
+msgctxt "93b37f2801acf5033c489dca21274d9a"
+msgid "전투 불능 횟수 2000회 달성"
+msgstr "Died 2.000 times"
+
+msgctxt "66c29bd44280c9d86fd79990c984b8f0"
+msgid "ID=4000501"
+msgstr "ID=4000501"
+
+msgctxt "c0c3eeb6cd4e7202d29401793678a34c"
+msgid "기초 다지기는 끝났다"
+msgstr "Laying the Foundations"
+
+msgctxt "8d2e02d2a915a295acb2c90489a18d31"
+msgid "적 처치 횟수 500회 달성"
+msgstr "Defeat 500 enemies"
+
+msgctxt "42c7201046e077f286395a5b27975b41"
+msgid "ID=4000502"
+msgstr "ID=4000502"
+
+msgctxt "6ebeed5b996deb22e783924477beb1b5"
+msgid "간 보기는 끝났다"
+msgstr "Spectator view is over"
+
+msgctxt "effcd6e8a4cd5274a2882127fd97b8e1"
+msgid "적 처치 횟수 1000회 달성"
+msgstr "Defeat 1.000 enemies"
+
+msgctxt "3c06de533585c2e6ec905671cb68f1bf"
+msgid "ID=4000503"
+msgstr "ID=4000503"
+
+msgctxt "f49508708c14b52880e27cc193930401"
+msgid "몸 풀기는 끝났다"
+msgstr "Enough Mr. Nice Guy"
+
+msgctxt "d95ae212610edeae8a3fffc62e78ae8c"
+msgid "적 처치 횟수 2000회 달성"
+msgstr "Defeat 2.000 enemies"
+
+msgctxt "1a48f61663ca18e1912a9ce0ab82132f"
+msgid "ID=4000504"
+msgstr "ID=4000504"
+
+msgctxt "38288e4dac8f1f4770475dc8f8138f0a"
+msgid "다 쓸어 버리겠다 "
+msgstr "I will wipe them all out"
+
+msgctxt "ecfd3e81bab2d4881c92fe3d9148f975"
+msgid "적 처치 횟수 5000회 달성"
+msgstr "Defeat 5.000 enemies"
+
+msgctxt "203bab8dac4bd961bc3adfe213f4898e"
+msgid "ID=4000505"
+msgstr "ID=4000505"
+
+msgctxt "026f9dc5eb30626f4270c5f7c2cc8370"
+msgid "싹 다 쓸어 버리겠다"
+msgstr "I will wipe out everything"
+
+msgctxt "65301d061dc046fe29766adaa1830531"
+msgid "적 처치 횟수 10000회 달성"
+msgstr "Defeat 10.000 enemies"
+
+msgctxt "b562e922b124cffbf7a5162fc44ed948"
+msgid "ID=4000506"
+msgstr "ID=4000506"
+
+msgctxt "6b1fe0469738ef2854d412239b9e932e"
+msgid "전부 섬멸해 버리겠다!"
+msgstr "I will wipe out everything!"
+
+msgctxt "1957ef244f38f1cd4bdb518115d51e83"
+msgid "적 처치 횟수 20000회 달성"
+msgstr "Defeat 20.000 enemies"
+
+msgctxt "15b7fdc8a3dc68314d214b00da75dfd3"
+msgid "ID=4000507"
+msgstr "ID=4000507"
+
+msgctxt "9ff1abcae6ceddfc8574c5d8db9a3d9e"
+msgid "씨를 말려 버리겠다!!"
+msgstr "I will dry the seeds!"
+
+msgctxt "25b1f154a327f3d0888e46573fe74e6b"
+msgid "적 처치 횟수 50000회 달성"
+msgstr "Defeat 50.000 enemies"
+
+msgctxt "8de9eef2fed453653a3e9812e27bf1c7"
+msgid "ID=4000508"
+msgstr "ID=4000508"
+
+msgctxt "0df0cb7f434b3e417aeed65e677f00be"
+msgid "적 처치 10만 돌파!"
+msgstr "Defeat 100000 enemies!"
+
+msgctxt "a3af647a782c7fb0575070f36ff7a63c"
+msgid "적 처치 횟수 100000회 달성"
+msgstr "Defeat 100.000 enemies"
+
+msgctxt "36b8f2aab44f7c4a0135dbe83dffcfbb"
+msgid "ID=4000509"
+msgstr "ID=4000509"
+
+msgctxt "8c60aa6dcfd4e5c590c9cd8daf780557"
+msgid "적 처치 20만 돌파!!"
+msgstr "Defeat 200000 enemies!"
+
+msgctxt "954132feafbe326e9bb720d1f1d21345"
+msgid "적 처치 횟수 200000회 달성"
+msgstr "Defeat 200.000 enemies"
+
+msgctxt "52339ead1dac547e6b4a50825f2a4ead"
+msgid "ID=4000510"
+msgstr "ID=4000510"
+
+msgctxt "9d16cc3f8fad90c1c3d26e5a997a5292"
+msgid "적에겐 내가 몬스터"
+msgstr "I am a monster"
+
+msgctxt "4abe96f747693df4eec554e5662d1e02"
+msgid "적 처치 횟수 500000회 달성"
+msgstr "Defeat 500.000 enemies"
+
+msgctxt "c08773a9172784459aea9e09f5db5391"
+msgid "ID=4000601"
+msgstr "ID=4000601"
+
+msgctxt "57914736ab1d7cb52d51ad160aa3d8e8"
+msgid "기초는 너로 다진다"
+msgstr "Learning the basics"
+
+msgctxt "edfd7c55866c9229e4e4ebedc3e7277d"
+msgid "가장 약해보이는 적을 130회 처치"
+msgstr "Defeat 130 small enemies"
+
+msgctxt "02306ff99178d3da63b2c633adc4a64e"
+msgid "ID=4000602"
+msgstr "ID=4000602"
+
+msgctxt "95d7cc1563e0e57473df1d5f5ad6287b"
+msgid "전투는 너로 배운다"
+msgstr "You learn with battles"
+
+msgctxt "d3e69574766e87c7968a6a553ec8f68f"
+msgid "가장 약해보이는 적을 1100회 처치"
+msgstr "Defeat 1.100 small enemies"
+
+msgctxt "f82053df2b4123b2b1325d50842cc636"
+msgid "ID=4000603"
+msgstr "ID=4000603"
+
+msgctxt "0ac1e1e58ac1d10c27320a0eb2bf6d7e"
+msgid "콤보는 너로 배운다"
+msgstr "Learning the Combos"
+
+msgctxt "1486895c09ecf4cafe3ecf0f57a94021"
+msgid "가장 약해보이는 적을 3000회 처치"
+msgstr "Defeat 3.000 small enemies"
+
+msgctxt "3642e5d80bf432b54aa736f5e7f70725"
+msgid "ID=4000604"
+msgstr "ID=4000604"
+
+msgctxt "62bd3e045d2200f178afdf420d09e9be"
+msgid "네덕분에 늘어난 전투실력"
+msgstr "More fighting skills"
+
+msgctxt "b5940b040fca8bfa33f76bf7de4a9f5e"
+msgid "가장 약해보이는 적을 5600회 처치"
+msgstr "Defeat 5.600 small enemies"
+
+msgctxt "e743c7f77a11bae9922a3a0c306c13c2"
+msgid "ID=4000605"
+msgstr "ID=4000605"
+
+msgctxt "459e614edb3d1f1bec1f88cfcd421103"
+msgid "의도하고 잡은건 아니야"
+msgstr "I didn't mean it"
+
+msgctxt "cd1f79a3c47a72a3d16067940b399f2d"
+msgid "가장 약해보이는 적을 9100회 처치"
+msgstr "Defeat 9.100 small enemies"
+
+msgctxt "5fd030648c33a5f2e4826409a6890f6b"
+msgid "ID=4000606"
+msgstr "ID=4000606"
+
+msgctxt "12e86ed0235e82868ae3cdc6792376f3"
+msgid "너만 골라 잡은건 아니야"
+msgstr "Nothing against you"
+
+msgctxt "fbbcdf6b092831013c305e765d19666e"
+msgid "가장 약해보이는 적을 13000회 처치"
+msgstr "Defeat 13.000 small enemies"
+
+msgctxt "187960ededfad1cb55c16a19de42be7a"
+msgid "ID=4000607"
+msgstr "ID=4000607"
+
+msgctxt "241691a6df264414311baf84404c2086"
+msgid "만만해서 잡는건 아니야"
+msgstr "It's not just catching"
+
+msgctxt "76c80baa2262e955e801b12cbd200930"
+msgid "가장 약해보이는 적을 18000회 처치"
+msgstr "Defeat 18.000 small enemies"
+
+msgctxt "dd72e0a739e605150da7cd3152d89b35"
+msgid "ID=4000608"
+msgstr "ID=4000608"
+
+msgctxt "e4ae5c0df85a74a64e00b654768f2b16"
+msgid "약해보여서 잡는건 아니야"
+msgstr "They don't look weak"
+
+msgctxt "c5c0dc4f7e38f1ff33464cfa7432d7e4"
+msgid "가장 약해보이는 적을 24000회 처치"
+msgstr "Defeat 24.000 small enemies"
+
+msgctxt "0d9406708a5796e7d24c1dbf9b6ca1f9"
+msgid "ID=4000609"
+msgstr "ID=4000609"
+
+msgctxt "434552be11409841752eb3fc28042a69"
+msgid "약한 이를 괴롭히다"
+msgstr "Torment the weak"
+
+msgctxt "9033f9c6a6da636339bc5dbf19e12bbe"
+msgid "가장 약해보이는 적을 32000회 처치"
+msgstr "Defeat 32.000 small enemies"
+
+msgctxt "639e249534893daee538d7a3ec9307c8"
+msgid "ID=4000610"
+msgstr "ID=4000610"
+
+msgctxt "c386be630d60fae0731f9520bbdbc1a5"
+msgid "위크니스 헌터"
+msgstr "Hunt the weaklings"
+
+msgctxt "50f1ecd39d01f472bfb6b9223f446b7d"
+msgid "가장 약해보이는 적을 41000회 처치"
+msgstr "Defeat 41.000 small enemies"
+
+msgctxt "540fdb566961dc7260583f033d788282"
+msgid "ID=4000701"
+msgstr "ID=4000701"
+
+msgctxt "2c3c00cda19a3360c54f022461b7ecee"
+msgid "너 정도는 무섭지 않아"
+msgstr "I'm not afraid of you"
+
+msgctxt "138c5fef55d93fe47938e753521515fa"
+msgid "평범해 보이는 적을 80회 처치"
+msgstr "Defeat 80 normal enemies"
+
+msgctxt "6a2876de2a0166bf90a8267f318b296d"
+msgid "ID=4000702"
+msgstr "ID=4000702"
+
+msgctxt "2e45ecf392178d6dd635a5b0f57eed42"
+msgid "징그럽게 생겼어도 무섭지 않아"
+msgstr "It looks ugly but it's not scary"
+
+msgctxt "eaaa9d2342b353abb5b5bc16c74ab82c"
+msgid "평범해 보이는 적을 700회 처치"
+msgstr "Defeat 700 normal enemies"
+
+msgctxt "0462a49d9f63dfea1c4255eddca8ce72"
+msgid "ID=4000703"
+msgstr "ID=4000703"
+
+msgctxt "1abaf2752686261fb8dfe8e551719b59"
+msgid "덩치가 커도 무섭지 않아"
+msgstr "Even if it's big, it's not scary"
+
+msgctxt "7ee191f34e955bc9350f645ca19ec635"
+msgid "평범해 보이는 적을 1800회 처치"
+msgstr "Defeat 1.800 normal enemies"
+
+msgctxt "1f5c54ae1ea24e67980b0b1344b4d5b1"
+msgid "ID=4000704"
+msgstr "ID=4000704"
+
+msgctxt "ac855411bae35466db1777587acdfe56"
+msgid "무기가 커도 무섭지 않아"
+msgstr "Even if your weapon is big, it's not scary"
+
+msgctxt "106f1062130b53154ec0a1434d4b00b0"
+msgid "평범해 보이는 적을 3500회 처치"
+msgstr "Defeat 3.500 normal enemies"
+
+msgctxt "ba9b0274191db2f4ea839347eb2d77b2"
+msgid "ID=4000705"
+msgstr "ID=4000705"
+
+msgctxt "094184813bf0f30583c6eef1dc25be15"
+msgid "몰려 다녀도 무섭지 않아"
+msgstr "Thinning the Hordes"
+
+msgctxt "da35c3f0bbca8b547e919c13e48714c0"
+msgid "평범해 보이는 적을 5700회 처치"
+msgstr "Defeat 5.700 normal enemies"
+
+msgctxt "35a12dc8f165123cffde13142f21d94c"
+msgid "ID=4000706"
+msgstr "ID=4000706"
+
+msgctxt "663751637b24963cd860c66f5b5adeb4"
+msgid "레벨이 높아도 무섭지 않아"
+msgstr "Even if the level is high, it's not scary"
+
+msgctxt "e5465bd6a625d3921e3dac25131abca1"
+msgid "평범해 보이는 적을 8300회 처치"
+msgstr "Defeat 8.300 normal enemies"
+
+msgctxt "0a16f1f5972ed26fffe214b59a1482b9"
+msgid "ID=4000707"
+msgstr "ID=4000707"
+
+msgctxt "e291189ba63b57808a16e143a27fc2ce"
+msgid "평범해 보이는 주제에 감히"
+msgstr "Dare to look ordinary"
+
+msgctxt "5290725c5bd70cdbb48027acca6b42c1"
+msgid "평범해 보이는 적을 11600회 처치"
+msgstr "Defeat 11.600 normal enemies"
+
+msgctxt "31dfd50d4ba8295b7e7c0e2cf243667c"
+msgid "ID=4000708"
+msgstr "ID=4000708"
+
+msgctxt "23554c86575118deb83530ccc10ba0d2"
+msgid "지나가다 만날 것 같은게 감히"
+msgstr "You seem familiar"
+
+msgctxt "8e2daafabe786c5346e702a7b7217257"
+msgid "평범해 보이는 적을 15400회 처치"
+msgstr "Defeat 15.400 normal enemies"
+
+msgctxt "7803e631fd3fb810b9da973d5c86ab95"
+msgid "ID=4000709"
+msgstr "ID=4000709"
+
+msgctxt "865b48343edd54acb1f23dcf8b772d8a"
+msgid "발치에 널린 주제에 건방지다!"
+msgstr "I'm addicted to this!"
+
+msgctxt "45a97459cfb75564ee97d02e8880c608"
+msgid "평범해 보이는 적을 20000회 처치"
+msgstr "Defeat 20.000 normal enemies"
+
+msgctxt "922293e567405e0fd331a6e2c7cdb208"
+msgid "ID=4000710"
+msgstr "ID=4000710"
+
+msgctxt "92056923c6a1a212ff1485ee4b595687"
+msgid "커먼 버스터"
+msgstr "A few more"
+
+msgctxt "440bdb620254361d973c92e6f59ea5c7"
+msgid "평범해 보이는 적을 25700회 처치"
+msgstr "Defeat 25.700 normal enemies"
+
+msgctxt "74fdbfc7db89949f25d402f52f571ca9"
+msgid "ID=4000801"
+msgstr "ID=4000801"
+
+msgctxt "6077502b9e0cb4cb893f9c9b9e52d416"
+msgid "이름부터 강해보여"
+msgstr "Your name looks strong"
+
+msgctxt "02ea3c7fbc1207128270eda32464737f"
+msgid "강해 보이는 적을 30회 처치"
+msgstr "Defeat 30 strong enemies"
+
+msgctxt "92315b4431703cd859c5734321ef800f"
+msgid "ID=4000802"
+msgstr "ID=4000802"
+
+msgctxt "e43e62393dbe1b01efd45ebfe89faa9e"
+msgid "생긴것도 강해보여"
+msgstr "It looks strong"
+
+msgctxt "9ba6451a042fc9bf455ad3bcbb2f69b8"
+msgid "강해 보이는 적을 280회 처치"
+msgstr "Defeat 280 strong enemies"
+
+msgctxt "3aa6cea4076bed006fea6506b980f76c"
+msgid "ID=4000803"
+msgstr "ID=4000803"
+
+msgctxt "f531feec0121bc862e835cc929d61cc2"
+msgid "몸집도 큰게 강해보여"
+msgstr "But not strong enough!"
+
+msgctxt "c724dd855e8d4bbe037097511dde8c85"
+msgid "강해 보이는 적을 750회 처치"
+msgstr "Defeat 750 strong enemies"
+
+msgctxt "de0af0f8111b282134fcc63746ff6930"
+msgid "ID=4000804"
+msgstr "ID=4000804"
+
+msgctxt "50ef8a465e7ef9a20dbe62e1f8717a72"
+msgid "강해보이지만 괜찮아"
+msgstr "I lost the count..."
+
+msgctxt "3ca9330f32b9d1224ef923d2fa858a5f"
+msgid "강해 보이는 적을 1400회 처치"
+msgstr "Defeat 1400 strong enemies"
+
+msgctxt "bedb4c77741495c46ee951b886f01836"
+msgid "ID=4000805"
+msgstr "ID=4000805"
+
+msgctxt "838407c842fdf3bb5c23a526b4f15691"
+msgid "숫자는 세고 있지 않아"
+msgstr "That must be a record? Right?"
+
+msgctxt "25e0fa5d9043645ad25162f2914508ea"
+msgid "강해 보이는 적을 2200회 처치"
+msgstr "Defeat 2200 strong enemies"
+
+msgctxt "62cc41cde3ffa96a86fa9276fb3b50d0"
+msgid "ID=4000806"
+msgstr "ID=4000806"
+
+msgctxt "cb02e007dd0e8533e2e64f07adeb3e8f"
+msgid "네가 3000번째래"
+msgstr "This is getting boring."
+
+msgctxt "793849082de0c8ee43b6bac8896eaf8f"
+msgid "강해 보이는 적을 3000회 처치"
+msgstr "Defeat 3000 strong enemies"
+
+msgctxt "6d1ca5706d57f29f4b6e5db5273194df"
+msgid "ID=4000807"
+msgstr "ID=4000807"
+
+msgctxt "c007f4567d2821f7564e2ec51876c552"
+msgid "네가 무려 5000번째래!"
+msgstr "Weak, Weak, Weak!"
+
+msgctxt "117e7d3ba2323c27d28fc8988bb2574c"
+msgid "강해 보이는 적을 5000회 처치"
+msgstr "Defeat 5000 strong enemies"
+
+msgctxt "1d47d25a7fea1b4ad811225eab33ff47"
+msgid "ID=4000808"
+msgstr "ID=4000808"
+
+msgctxt "0239692b2c4015cfa7667dcd6776265d"
+msgid "이젠 너만 잡는다"
+msgstr "Is it really a enemy or is it a punchingball?"
+
+msgctxt "4021ff88ebcd42b6ce392dc164cf4042"
+msgid "강해 보이는 적을 6100회 처치"
+msgstr "Defeat 6100 strong enemies"
+
+msgctxt "4a8cb7c693d7bbe8631244cbc34403bd"
+msgid "ID=4000809"
+msgstr "ID=4000809"
+
+msgctxt "79bad9008e9b22b5164f26e831739aa3"
+msgid "내가 제일 잘나가"
+msgstr "Half wake and half asleep... zzz"
+
+msgctxt "3dd07bc95ffae8eae085f793c9489a4d"
+msgid "강해 보이는 적을 8000회 처치"
+msgstr "Defeat 8000 strong enemies"
+
+msgctxt "f50ecb9dae475b4f58daa5c88238792e"
+msgid "ID=4000810"
+msgstr "ID=4000810"
+
+msgctxt "ba2d117d9b2c09bc96243e5977a74027"
+msgid "스트롱 체이서"
+msgstr "Seems I reach soon the god state"
+
+msgctxt "be8f2d304e29cd930e2e1d73c601517a"
+msgid "강해 보이는 적을 10200회 처치"
+msgstr "Defeat 10200 strong enemies"
+
+msgctxt "daa6c92075925ec6c95bce25e9417326"
+msgid "ID=4000901"
+msgstr "ID=4000901"
+
+msgctxt "2bac73084ecb43a7905c3e508d0dc03c"
+msgid "보스인듯 보스아닌 너"
+msgstr "You... are not the boss?"
+
+msgctxt "908cb8fb30b5abbaef5af7127fa2e34d"
+msgid "중간 보스급 적을 17회 처치"
+msgstr "Defeat 17 mini bosses"
+
+msgctxt "adce66a21a0b15a4fc225d23606aef44"
+msgid "ID=4000902"
+msgstr "ID=4000902"
+
+msgctxt "6211c63e38aee8443b2b07709b1449d0"
+msgid "생긴건 보스같은데…."
+msgstr "And you are...? Out of my way!"
+
+msgctxt "586a2fb08f85d639d99bcbb1749ee503"
+msgid "중간 보스급 적을 140회 처치"
+msgstr "Defeat 140 mini bosses"
+
+msgctxt "9b3482f4a3c6424c99f133544619d533"
+msgid "ID=4000903"
+msgstr "ID=4000903"
+
+msgctxt "87bc1fdbf449ab4c04b7f58d01f0ff8b"
+msgid "덩치는 보스같은데…."
+msgstr "Well, well... my dear test subjects!"
+
+msgctxt "333e11e31da363931a428e210c49b9e3"
+msgid "중간 보스급 적을 370회 처치"
+msgstr "Defeat 370 mini bosses"
+
+msgctxt "77f0eb6c9f32e61edf9fbeed086a0870"
+msgid "ID=4000904"
+msgstr "ID=4000904"
+
+msgctxt "cc8fa2f5e036098fb53af94052bf6fee"
+msgid "때리는 건 보스같은데…?"
+msgstr "Can you get out of my way?"
+
+msgctxt "2386d3bd14da8601ed3d6720b49e0585"
+msgid "중간 보스급 적을 700회 처치"
+msgstr "Defeat 700 mini bosses"
+
+msgctxt "f96c9b798908903476feb90096609dab"
+msgid "ID=4000905"
+msgstr "ID=4000905"
+
+msgctxt "323442e9d75683901d445887e2f363fd"
+msgid "부족한건 개성인가"
+msgstr "I am used to beat you"
+
+msgctxt "dd80f5d79135f59821a58e29a8464d6a"
+msgid "중간 보스급 적을 1100회 처치"
+msgstr "Defeat 1100 mini bosses"
+
+msgctxt "218306b09cab256d7d8dc6d122868b7c"
+msgid "ID=4000906"
+msgstr "ID=4000906"
+
+msgctxt "b7998190c10b0bf2d3f5eda52d93e75b"
+msgid "상대로 부족함이 없다"
+msgstr "There is no shortcut... huh?"
+
+msgctxt "c7a4e5efafb6991efbdcc4d814ea3e6e"
+msgid "중간 보스급 적을 1600회 처치"
+msgstr "Defeat 1600 mini bosses"
+
+msgctxt "900014125a00d25d88298a9edfd26180"
+msgid "ID=4000907"
+msgstr "ID=4000907"
+
+msgctxt "55826fdce7abdbcafc8bbce25a88c87b"
+msgid "보스전 준비에 안성맞춤"
+msgstr "Perrrrrrrfect! Now I am quite ready for the real boss"
+
+msgctxt "5f21b5242eb64bb26a2473c074563b0d"
+msgid "중간 보스급 적을 2300회 처치"
+msgstr "Defeat 2300 mini bosses"
+
+msgctxt "678f3ce33060a0bccc17cdcff756eb08"
+msgid "ID=4000908"
+msgstr "ID=4000908"
+
+msgctxt "bd8eee2a2cbc5fefc3673eeba45d5bec"
+msgid "2인자에게 도전하는 자"
+msgstr "You still want to fight?"
+
+msgctxt "0751b464bd036d7d16904298bf4a8d85"
+msgid "중간 보스급 적을 3000회 처치"
+msgstr "Defeat 3000 mini bosses"
+
+msgctxt "de8c85b7c1c24280aa040971ac39eba5"
+msgid "ID=4000909"
+msgstr "ID=4000909"
+
+msgctxt "8eeafa4e75f8f9a751da147022201e15"
+msgid "2인자를 탐내는 자"
+msgstr "I will defeat anything"
+
+msgctxt "2dea44bbab221874b5c66db7a295510d"
+msgid "중간 보스급 적을 4000회 처치"
+msgstr "Defeat 4000 mini bosses"
+
+msgctxt "47fb8caba0e8ed7383984a0413ca88e2"
+msgid "ID=4000910"
+msgstr "ID=4000910"
+
+msgctxt "f579fa29de97b18b1156d6a80eff744a"
+msgid "미들 보스 킬러"
+msgstr "Looks like out of order"
+
+msgctxt "9069c7989b8c6873ee113ba13b6e202b"
+msgid "중간 보스급 적을 5100회 처치"
+msgstr "Defeat 5100 mini bosses"
+
+msgctxt "2976f34cc4a1cd3d036dd23918d5f18f"
+msgid "ID=4001001"
+msgstr "ID=4001001"
+
+msgctxt "45b1b68685402a4589aaee12dde329ed"
+msgid "어쩌다보니 잡았을 뿐"
+msgstr "Oh no! My Coffee spilled everywhere!"
+
+msgctxt "4b85b102464085f3b196c737ed1ce6d7"
+msgid "보스 10회 처치"
+msgstr "Defeat 10 bosses"
+
+msgctxt "35ff3fd509b209df2646987b9d81197c"
+msgid "ID=4001002"
+msgstr "ID=4001002"
+
+msgctxt "53d9ae8a535f9db5b5c91e29024917f0"
+msgid "시키니까 잡았을 뿐"
+msgstr "Improvise"
+
+msgctxt "27cbfc3635c8fe31798f25032fe39578"
+msgid "보스 80회 처치"
+msgstr "Defeat 80 bosses"
+
+msgctxt "4edf17eed8e7484d72d2eab812273e35"
+msgid "ID=4001003"
+msgstr "ID=4001003"
+
+msgctxt "3750c92cf1ba8053f3d8e09663b48442"
+msgid "진행하다 잡았을 뿐"
+msgstr "Adapt"
+
+msgctxt "5f7629fcc6caa196bbc1f23b72fb5c32"
+msgid "보스 200회 처치"
+msgstr "Defeat 200 bosses"
+
+msgctxt "058a02d222539b860df16e7c54ad3097"
+msgid "ID=4001004"
+msgstr "ID=4001004"
+
+msgctxt "05dcdf2c92b9029a8bfb5db0bfd58fde"
+msgid "무의식적으로 잡았을 뿐"
+msgstr "Overcome"
+
+msgctxt "08e7be5d8297b114e06c3855c229dbe5"
+msgid "보스 400회 처치"
+msgstr "Defeat 400 bosses"
+
+msgctxt "01fc9ed2e42ae0de7a2cdb4e4c0d8661"
+msgid "ID=4001005"
+msgstr "ID=4001005"
+
+msgctxt "9f0f447450ea58b231a3ae1b494cb80a"
+msgid "의식적으로 잡았을 뿐"
+msgstr "Improve"
+
+msgctxt "ffe1cf2073a81679106f1b189643cb15"
+msgid "보스 600회 처치"
+msgstr "Defeat 600 bosses"
+
+msgctxt "e1dae426ad29eb4f52740bf4fd289bfd"
+msgid "ID=4001006"
+msgstr "ID=4001006"
+
+msgctxt "f443f47aad2c622743ed90aff1bc3e9f"
+msgid "골라서 잡고 있을 뿐"
+msgstr "They still trying it"
+
+msgctxt "5f2d94223400d7e972106c91ac85c22c"
+msgid "보스 1000회 처치"
+msgstr "Defeat 1000 bosses"
+
+msgctxt "0115b18e31748aba7422bb621dde8a6e"
+msgid "ID=4001007"
+msgstr "ID=4001007"
+
+msgctxt "fb8e388b04b86b608275dfc5f1b075d4"
+msgid "보스 헌터"
+msgstr "And again"
+
+msgctxt "bc8b709e58cc09205cd61692a7e31349"
+msgid "보스 1300회 처치"
+msgstr "Defeat 1300 bosses"
+
+msgctxt "2f1e7f5b7df08f165d55a6019cf3bb12"
+msgid "ID=4001008"
+msgstr "ID=4001008"
+
+msgctxt "e84be2d5c478a9ef7c79d72720ec8272"
+msgid "보스 버스터"
+msgstr "Maybe I should collect trophys?"
+
+msgctxt "ae77b4db113adf0a0c5891b2ef0a4401"
+msgid "보스 1800회 처치"
+msgstr "Defeat 1800 bosses"
+
+msgctxt "102d26f26d0acb4ddf5ce82f39f0ff43"
+msgid "ID=4001009"
+msgstr "ID=4001009"
+
+msgctxt "58302d825d781f0728fc967db2dc6c5c"
+msgid "보스 킬러"
+msgstr "One trophy, two trophys..."
+
+msgctxt "989f5dc19b08759c02d729614e9b2f5b"
+msgid "보스 2400회 처치"
+msgstr "Defeat 2400 bosses"
+
+msgctxt "d3ec8deea074f346829c39b4ed4feeb8"
+msgid "ID=4001010"
+msgstr "ID=4001010"
+
+msgctxt "7f4fc3fb2a4a05339b28f431da751e11"
+msgid "보스 슬레이어"
+msgstr "Now I am tired"
+
+msgctxt "ce2470feb4af335328132997ac3f1521"
+msgid "보스 3000회 처치"
+msgstr "Defeat 3000 bosses"
+
+msgctxt "0eacf4cd35f5678db8143ae2925210ed"
+msgid "ID=4001101"
+msgstr "ID=4001101"
+
+msgctxt "1dfdaf2622bca214b838d3bea18e97ef"
+msgid "레이드를 경험하다"
+msgstr "Different kind of boss..."
+
+msgctxt "65cf8f00e5ca45cbe88120b0754fb94c"
+msgid "레이드 보스 10회 처치"
+msgstr "Defeat 10 raid bosses"
+
+msgctxt "5dd26180fa11aaac0ebc9c9a016d65cc"
+msgid "ID=4001102"
+msgstr "ID=4001102"
+
+msgctxt "d6a40ce984761fd2a62e1d857289746e"
+msgid "적장! 물리쳤다!"
+msgstr "I did it!"
+
+msgctxt "61e81027b3ab53089d82a629427642d2"
+msgid "레이드 보스 80회 처치"
+msgstr "Defeat 80 raid bosses"
+
+msgctxt "a22dc450b76a2dd88c06ef6380d86e4c"
+msgid "ID=4001103"
+msgstr "ID=4001103"
+
+msgctxt "99f94de10a3f3d24bdc55e3eb453721d"
+msgid "200명의 적장과 전투했다!"
+msgstr "200 to go and many more will follow!"
+
+msgctxt "f5e99e9bad210918cd0f3467da9d1c47"
+msgid "레이드 보스 200회 처치"
+msgstr "Defeat 200 raid bosses"
+
+msgctxt "89301f6f042130d0676258e26bf32738"
+msgid "ID=4001104"
+msgstr "ID=4001104"
+
+msgctxt "ef4b29dfa8f53d68baaa99903cf82d81"
+msgid "400명의 적장을 잡았다!"
+msgstr "400! A cat jump!"
+
+msgctxt "75ca5bdde24af7d8429283bd347b132b"
+msgid "레이드 보스 400회 처치"
+msgstr "Defeat 400 raid bosses"
+
+msgctxt "cc494de6ecba14f426ab68a505aa6158"
+msgid "ID=4001105"
+msgstr "ID=4001105"
+
+msgctxt "f8d03f7e990dd8a364f9abfae85cc67c"
+msgid "600명의 적장을 물리쳤다!"
+msgstr "600! I am still counting"
+
+msgctxt "6620062a9880b49ebd8dfd188adc7f69"
+msgid "레이드 보스 600회 처치"
+msgstr "Defeat 600 raid bosses"
+
+msgctxt "114f70bbe143c19d678960ff7fe08d30"
+msgid "ID=4001106"
+msgstr "ID=4001106"
+
+msgctxt "08b20c7d2f3ee3df357283caec432e9b"
+msgid "1000명의 적장을 처치했다!"
+msgstr "1000! Have you ever seen that?"
+
+msgctxt "9ed02d27df6c8ac1e53d8abc7140f077"
+msgid "레이드 보스 1000회 처치"
+msgstr "Defeat 1000 raid bosses"
+
+msgctxt "2b722dd0b13b90a9a0ec39d4b6ab17cf"
+msgid "ID=4001107"
+msgstr "ID=4001107"
+
+msgctxt "b57b3dcc79aa687c312ef2fd9adf2050"
+msgid "1300명의 적장을 베었다!"
+msgstr "1300! I need to buy a new notebook"
+
+msgctxt "9e71a95c5a79228423adb729ccf1f89e"
+msgid "레이드 보스 1300회 처치"
+msgstr "Defeat 1300 raid bosses"
+
+msgctxt "dff177b9dc25da4330c27674edf2f91e"
+msgid "ID=4001108"
+msgstr "ID=4001108"
+
+msgctxt "9ed7f6b2c8c7fdaeed16100b452156cc"
+msgid "1800명의 적장을 베고 베어"
+msgstr "1800 and a new notebook"
+
+msgctxt "2efdd768a73447ce2e1a0557fbdab71a"
+msgid "레이드 보스 1800회 처치"
+msgstr "Defeat 1800 raid bosses"
+
+msgctxt "ed0870b5a5189c6d0abd90a0530e421c"
+msgid "ID=4001109"
+msgstr "ID=4001109"
+
+msgctxt "6bc721ebe8d9d9b11794c9c384c2aaba"
+msgid "전장의 선봉에 서겠노라!"
+msgstr "I lost my pencil..."
+
+msgctxt "804e66adfabd8f6881a8fdcefad09890"
+msgid "레이드 보스 2400회 처치"
+msgstr "Defeat 2400 raid bosses"
+
+msgctxt "5108385a458e3179c8df5655e46c2f13"
+msgid "ID=4001110"
+msgstr "ID=4001110"
+
+msgctxt "d5305b7d4df219e659ce880d997f0dc7"
+msgid "레이드 마스터"
+msgstr "I lost the count... noooooo!"
+
+msgctxt "f8bf9d9496d2f402de45ed3737f33ed1"
+msgid "레이드 보스 3000회 처치"
+msgstr "Defeat 3000 raid bosses"
+
+msgctxt "18946021b0d4aef1400b9ef7300c193a"
+msgid "ID=4001201"
+msgstr "ID=4001201"
+
+msgctxt "9cd7c117d6d23c7d5a81a6059b922472"
+msgid "손 씻고 싶다"
+msgstr "To the recycling bin"
+
+msgctxt "174470ccdfd6e5e43e6a25c08970a680"
+msgid "소울정크 세력의 적 100회 처치"
+msgstr "Defeat 100 Soul Junks"
+
+msgctxt "a2980254f12852afcd955a1ad4568602"
+msgid "ID=4001202"
+msgstr "ID=4001202"
+
+msgctxt "3dffc59a8cbca941c71c309305b99fd7"
+msgid "샤워 하고 싶다"
+msgstr "Garbage~"
+
+msgctxt "df098863f50c0e66e6cb80bd4d2570d0"
+msgid "소울정크 세력의 적 800회 처치"
+msgstr "Defeat 800 Soul Junks"
+
+msgctxt "32ef1d13b38fd14683d9dd7177985f6f"
+msgid "ID=4001203"
+msgstr "ID=4001203"
+
+msgctxt "d1cdf4958b1e42966f183e5fb2b269d1"
+msgid "옷을 빨고 싶다"
+msgstr "I will clean the entire country!"
+
+msgctxt "aaac983a52a9a71cc2e11ac2827dd17e"
+msgid "소울정크 세력의 적 2000회 처치"
+msgstr "Defeat 2000 Soul Junks"
+
+msgctxt "29a802a2ec973ac3458746c466607d7f"
+msgid "ID=4001204"
+msgstr "ID=4001204"
+
+msgctxt "ee830c02f5afdb914205630814ff5814"
+msgid "좀 씻겨 드릴까요?"
+msgstr "Where are you?"
+
+msgctxt "e224fee59654726d722d681bc52d8261"
+msgid "소울정크 세력의 적 4000회 처치"
+msgstr "Defeat 4000 Soul Junks"
+
+msgctxt "b5e866d8bf5a53cbb7285656e4701957"
+msgid "ID=4001205"
+msgstr "ID=4001205"
+
+msgctxt "7b99b3d12b3d45f71d26df6c66814b05"
+msgid "후각은 이미 마비되었다"
+msgstr "I wonder if it fits in a truck..."
+
+msgctxt "bcb10862b6979c9bea7551ae0a76b4fa"
+msgid "소울정크 세력의 적 6000회 처치"
+msgstr "Defeat 6000 Soul Junks"
+
+msgctxt "14bbb8fefa0975856305fc6e7f262a93"
+msgid "ID=4001206"
+msgstr "ID=4001206"
+
+msgctxt "20c2b647ec13d43794741de9c26c8a5a"
+msgid "촉각도 마비되었다"
+msgstr "Also can it be reused?"
+
+msgctxt "16e80221d9cf694557412461fe5d7db0"
+msgid "소울정크 세력의 적 9000회 처치"
+msgstr "Defeat 9000 Soul Junks"
+
+msgctxt "cae52228040f94903ae750cb036d57e6"
+msgid "ID=4001207"
+msgstr "ID=4001207"
+
+msgctxt "865ea5ae5277b9b8b8a78195c7196918"
+msgid "감각은 이제 느껴지지 않는다"
+msgstr "Maybe I should burn it"
+
+msgctxt "e50309ca7901a271fb13d10449ee71ca"
+msgid "소울정크 세력의 적 13000회 처치"
+msgstr "Defeat 13000 Soul Junks"
+
+msgctxt "b5a0ace4bd5b5b75fe3be97b9026f52e"
+msgid "ID=4001208"
+msgstr "ID=4001208"
+
+msgctxt "56982c79c33a81fecd8cbe159d67356c"
+msgid "이젠 하수구가 내집 같다"
+msgstr "For a cleaner city!"
+
+msgctxt "a14a502d24fed1272721d38444cf0896"
+msgid "소울정크 세력의 적 18000회 처치"
+msgstr "Defeat 18000 Soul Junks"
+
+msgctxt "d6947099a7ba22c46c2b5f0a33fb4669"
+msgid "ID=4001209"
+msgstr "ID=4001209"
+
+msgctxt "60accecdedb13d869afa46fdb6dc640e"
+msgid "소울 정크가 되어가는 느낌"
+msgstr "Maybe we can use it also as firewood?"
+
+msgctxt "47ef2872ee9507ab148df3583261bc2d"
+msgid "소울정크 세력의 적 23000회 처치"
+msgstr "Defeat 23000 Soul Junks"
+
+msgctxt "528d05e9e6fc57497d8d7d0325e15b62"
+msgid "ID=4001210"
+msgstr "ID=4001210"
+
+msgctxt "24d114282a1f2487ed01ea8349d5dc4d"
+msgid "정크 클리너"
+msgstr "That is a... big mountain"
+
+msgctxt "a26124856178bcc6d7dcf9132f7d0c44"
+msgid "소울정크 세력의 적 30000회 처치"
+msgstr "Defeat 30000 Soul Junks"
+
+msgctxt "4c251c3ba5dd46251ab62b32253994d0"
+msgid "ID=4001301"
+msgstr "ID=4001301"
+
+msgctxt "585bb4c502e316da323e437650111bb7"
+msgid "난 처키가 싫었어"
+msgstr "Puppets..."
+
+msgctxt "6a9200adbe463262cd6f3059a59e46eb"
+msgid "인형 세력의 적 110회 처치"
+msgstr "Defeat 110 Puppets"
+
+msgctxt "7f1e6f8ee8ed1f3c09de3c02713917f8"
+msgid "ID=4001302"
+msgstr "ID=4001302"
+
+msgctxt "18104c05506e76eb7eb6e5051fbcb3c5"
+msgid "너의 낄낄거리는 소리가 들려"
+msgstr "Do I need to?"
+
+msgctxt "862254dbbe0b54ad830ba1696f9cba3c"
+msgid "인형 세력의 적 900회 처치"
+msgstr "Defeat 900 Puppets"
+
+msgctxt "2ef287c6beaee4678a059fb8e0461575"
+msgid "ID=4001303"
+msgstr "ID=4001303"
+
+msgctxt "59823d821216cfe77ac102f2a8bf6275"
+msgid "제발 움직이지만 말아다오"
+msgstr "I want to skip! Argh"
+
+msgctxt "4a3b7f601db6f2f1447f0c11f84a4287"
+msgid "인형 세력의 적 2400회 처치"
+msgstr "Defeat 2400 Puppets"
+
+msgctxt "f8926b4da1f8e44c7a401fe7a7130317"
+msgid "ID=4001304"
+msgstr "ID=4001304"
+
+msgctxt "f6bfcb17e1ff3bee4f7c24554472ac4b"
+msgid "제발 웃지만 말아다오"
+msgstr "I can't see them anymore"
+
+msgctxt "ea9d4cd2944ceeb5fa6ba4090a3d1404"
+msgid "인형 세력의 적 4500회 처치"
+msgstr "Defeat 4500 Puppets"
+
+msgctxt "b8d8e812b9f8ba959db3c3c56c799e65"
+msgid "ID=4001305"
+msgstr "ID=4001305"
+
+msgctxt "2d6f14a4213e9b47d9c728f25a6adcad"
+msgid "하수구에서 날아오지 말아다오"
+msgstr "It moves from alone... creepy"
+
+msgctxt "40c5daca31073c77daa3aaa67642fdfd"
+msgid "인형 세력의 적 7200회 처치"
+msgstr "Defeat 7200 Puppets"
+
+msgctxt "2b5a50be24d1e0e86f81a539ba110ef5"
+msgid "ID=4001306"
+msgstr "ID=4001306"
+
+msgctxt "a9c4eb1622b9e1a6de1736848843f483"
+msgid "풍선에 숨어있지 말아다오"
+msgstr "Cursed..."
+
+msgctxt "847dfa56def9903ac6d3022ba2bc5b51"
+msgid "인형 세력의 적 10800회 처치"
+msgstr "Defeat 10800 Puppets"
+
+msgctxt "9010c9b92386d3048a1708a6a203518b"
+msgid "ID=4001307"
+msgstr "ID=4001307"
+
+msgctxt "66781093c21a23267e1991b720887c5e"
+msgid "선물상자에 숨어있지 말아다오"
+msgstr "Just missing some ghosts"
+
+msgctxt "a955d87a5ee10cdfb5d76c34852be57f"
+msgid "인형 세력의 적 15300회 처치"
+msgstr "Defeat 15300 Puppets"
+
+msgctxt "fce049440be6d79bb2261725f6d0f337"
+msgid "ID=4001308"
+msgstr "ID=4001308"
+
+msgctxt "28ae8397ed08f7424ed65176fc5bc672"
+msgid "문뒤에 숨어있지 말아다오"
+msgstr "Kyaaaaaaa!"
+
+msgctxt "1ae1970e3731812f05e7e687a7bd9fe6"
+msgid "인형 세력의 적 20200회 처치"
+msgstr "Defeat 20200 Puppets"
+
+msgctxt "671f659d35832f40b2847f5e513ea46a"
+msgid "ID=4001309"
+msgstr "ID=4001309"
+
+msgctxt "46a875e864dee6931262e21f24cf86e5"
+msgid "몰려다니지 좀 말아다오"
+msgstr "Phew... that was my imagination"
+
+msgctxt "f375f618156062f2232318478e340ca1"
+msgid "인형 세력의 적 26500회 처치"
+msgstr "Defeat 26500 Puppets"
+
+msgctxt "c930feaee73af00669b89af3cd25cd1e"
+msgid "ID=4001310"
+msgstr "ID=4001310"
+
+msgctxt "8642cf394c71e0578f524b1b855fee3d"
+msgid "인형의 구조를 이해하다"
+msgstr "King/Queen of Puppets"
+
+msgctxt "d4e3af5656925e1a5c29e085485b5c16"
+msgid "인형 세력의 적 34200회 처치"
+msgstr "Defeat 34200 Puppets"
+
+msgctxt "460b600abb835760052a956d8070277a"
+msgid "ID=4001401"
+msgstr "ID=4001401"
+
+msgctxt "47bbf951e18dfaf5b6c3250347c42f29"
+msgid "배신자를 용서하지 마라"
+msgstr "They have balls"
+
+msgctxt "c9e8fdcaac967ea2df5462335cc5df9f"
+msgid "네드 컴퍼니 세력의 적 110회 처치"
+msgstr "Defeat 110 NEDs Soldier"
+
+msgctxt "42263bcbb211e80ede1a92c1c21037d0"
+msgid "ID=4001402"
+msgstr "ID=4001402"
+
+msgctxt "a9c6f666e18b330a85137bd2f36c2e81"
+msgid "배신자에게 자비를 내리지 마라"
+msgstr "But I have medicine balls"
+
+msgctxt "341a7e38fe8489b3d7235b18ccbf9567"
+msgid "네드 컴퍼니 세력의 적 450회 처치"
+msgstr "Defeat 450 NEDs Soldier"
+
+msgctxt "b54d1c35e09bcb4479574342f1caaae3"
+msgid "ID=4001403"
+msgstr "ID=4001403"
+
+msgctxt "7e1cc35d8f2d320b4226ee5a20dcc3e7"
+msgid "배신자에게 이해를 구하지 마라"
+msgstr "Eye for an Eye"
+
+msgctxt "1945e63d5a21ec3dc828ce488591ebdf"
+msgid "네드 컴퍼니 세력의 적 1200회 처치"
+msgstr "Defeat 1200 NEDs Soldier"
+
+msgctxt "9a029206bd89d7362aed95d8c64b0546"
+msgid "ID=4001404"
+msgstr "ID=4001404"
+
+msgctxt "dbb28f2ab588633e492238a3aedf88b2"
+msgid "배신자를 어여삐 여기지 마라"
+msgstr "Tooth for a tooth"
+
+msgctxt "09ef75fb328c7b98a42bc6aabe0d45bc"
+msgid "네드 컴퍼니 세력의 적 2250회 처치"
+msgstr "Defeat 2250 NEDs Soldier"
+
+msgctxt "def0486959494745fbdea7990e5414b5"
+msgid "ID=4001405"
+msgstr "ID=4001405"
+
+msgctxt "f38e1dce6fa37d7a219634b4cb3606e0"
+msgid "배신자를 가엽게 생각지 마라"
+msgstr "Unlimited circle"
+
+msgctxt "2e9e896ba33a877b71ca7d95fd28f874"
+msgid "네드 컴퍼니 세력의 적 3600회 처치"
+msgstr "Defeat 3600 NEDs Soldier"
+
+msgctxt "3f5a6492894bfc324a2f1db7d014f452"
+msgid "ID=4001406"
+msgstr "ID=4001406"
+
+msgctxt "5e4a4622c62c1dd419c505c4079fd5cc"
+msgid "배신자에게 복수를 말하지 마라"
+msgstr "Is there an end...?"
+
+msgctxt "f469322ffbfd4f6e3651b714b4b6b14a"
+msgid "네드 컴퍼니 세력의 적 5400회 처치"
+msgstr "Defeat 5400 NEDs Soldier"
+
+msgctxt "5a5e28fc6e4cc9d216c94d6303144611"
+msgid "ID=4001407"
+msgstr "ID=4001407"
+
+msgctxt "0ddc3038d07612a9f412f9cf7030eb05"
+msgid "여정을 시작하는 복수자"
+msgstr "Hmmm. HMMMMMMMMMM?"
+
+msgctxt "fc98b9ecdd4ac1078b5bd78eb85e0e45"
+msgid "네드 컴퍼니 세력의 적 7650회 처치"
+msgstr "Defeat 7650 NEDs Soldier"
+
+msgctxt "5fe5da328f3feb9ee2b9768e30451bc2"
+msgid "ID=4001408"
+msgstr "ID=4001408"
+
+msgctxt "3f845a01273703e8048f35cf3fd21d8d"
+msgid "분노에 사로잡힌 복수자"
+msgstr "Army Slayer"
+
+msgctxt "e424c51db0cb2114ccad667f28bd09c5"
+msgid "네드 컴퍼니 세력의 적 10100회 처치"
+msgstr "Defeat 10100 NEDs Soldier"
+
+msgctxt "21561c63463c1f61212ba72eaa5e0610"
+msgid "ID=4001409"
+msgstr "ID=4001409"
+
+msgctxt "ef6e0a0d19d2728df92a3f4d549ac8af"
+msgid "이성을 되찾은 복수자"
+msgstr "Betrayal... and here is your reward"
+
+msgctxt "13d484a255422f66f8c04cfaace53fef"
+msgid "네드 컴퍼니 세력의 적 13250회 처치"
+msgstr "Defeat 13250 NEDs Soldier"
+
+msgctxt "508d41072157bdea3765908563b25226"
+msgid "ID=4001410"
+msgstr "ID=4001410"
+
+msgctxt "d7503ecf2a7e7753ca8e5e89125369d0"
+msgid "이상적 복수를 말하는 자"
+msgstr "At the end of the hell"
+
+msgctxt "57a16e5905cdf9f94a64977f12779f36"
+msgid "네드 컴퍼니 세력의 적 17100회 처치"
+msgstr "Defeat 17100 NEDs Soldier"
+
+msgctxt "bd11026f2b662ee14a82c11c03a5d186"
+msgid "ID=4001501"
+msgstr "ID=4001501"
+
+msgctxt "bcff0df6e25870d5715e74c0cfcca9e8"
+msgid "몸매들이 다들 좋구나"
+msgstr "Why is a firetruck not called watertruck?"
+
+msgctxt "3ccd679e6be07e2956cfc65d1cad5d3f"
+msgid "레피드 플레임 세력의 적 110회 처치"
+msgstr "Defeat 110 Rapid Flames"
+
+msgctxt "bb6656bccb15d3d4aebf942e825cbe93"
+msgid "ID=4001502"
+msgstr "ID=4001502"
+
+msgctxt "ca5f6a6dcdaad7fe575064d1ccd3d17d"
+msgid "단식 욕구 유발자"
+msgstr "Should I...?"
+
+msgctxt "b6a68388b0c6cc48495dbb313e53e984"
+msgid "레피드 플레임 세력의 적 900회 처치"
+msgstr "Defeat 900 Rapid Flames"
+
+msgctxt "b3488a045741776016c5dec78c9d8c75"
+msgid "ID=4001503"
+msgstr "ID=4001503"
+
+msgctxt "2dcb3abf33adffae8c59863b3940c2a8"
+msgid "운동 욕구 유발자"
+msgstr "There we go again"
+
+msgctxt "89c39ededc2d76c86d215dd82d0cc7b5"
+msgid "레피드 플레임 세력의 적 2400회 처치"
+msgstr "Defeat 2400 Rapid Flames"
+
+msgctxt "4b5fe4de9727fe1a840c930949ee9729"
+msgid "ID=4001504"
+msgstr "ID=4001504"
+
+msgctxt "2959005a49b5e69fd946ec1e31a27320"
+msgid "다이어트 욕구 유발자"
+msgstr "More power"
+
+msgctxt "a17f0ab745879dd1c8743051319f24f9"
+msgid "레피드 플레임 세력의 적 4500회 처치"
+msgstr "Defeat 4500 Rapid Flames"
+
+msgctxt "1efc87c8e940d24fbef94a3f1f488bcf"
+msgid "ID=4001505"
+msgstr "ID=4001505"
+
+msgctxt "bbda58f2793e5f0124f735d27cb7e7f5"
+msgid "헬스 욕구 유발자"
+msgstr "Non-Stop"
+
+msgctxt "9c5824b63e8b97daf918b0aa920d0eea"
+msgid "레피드 플레임 세력의 적 7200회 처치"
+msgstr "Defeat 7200 Rapid Flames"
+
+msgctxt "4fd93a83615988b54ed576fbb32bc888"
+msgid "ID=4001506"
+msgstr "ID=4001506"
+
+msgctxt "93f61f63c2ac3e5ef09879129286b371"
+msgid "왠지 체력이 늘어난 것 같아"
+msgstr "A lot and even more"
+
+msgctxt "5f572597a9987180e1e2165dc499477d"
+msgid "레피드 플레임 세력의 적 10800회 처치"
+msgstr "Defeat 10800 Rapid Flames"
+
+msgctxt "05c5607c7e5065b3e11702a1b63d6e19"
+msgid "ID=4001507"
+msgstr "ID=4001507"
+
+msgctxt "7e6ae5e57829611bfcbe3c668efd733d"
+msgid "왠지 근육이 늘어난 것 같아"
+msgstr "I assume they know what they doing"
+
+msgctxt "1e67d8b30b57d8b06bf662ae78fc8975"
+msgid "레피드 플레임 세력의 적 15300회 처치"
+msgstr "Defeat 15300 Rapid Flames"
+
+msgctxt "d5886b1fe0ef56b92b513dda6c9dbd75"
+msgid "ID=4001508"
+msgstr "ID=4001508"
+
+msgctxt "d302747985fafb57734ce4af1c14d955"
+msgid "왠지 몸매가 좋아진 것 같아"
+msgstr "Maybe... they can roast my steak?"
+
+msgctxt "29418c48efa5e662e0252e47dfb5e094"
+msgid "레피드 플레임 세력의 적 20200회 처치"
+msgstr "Defeat 20200 Rapid Flames"
+
+msgctxt "961020b603d51ff4c4ce4662d39f8de7"
+msgid "ID=4001509"
+msgstr "ID=4001509"
+
+msgctxt "3bfdb3be114d3b27203029eeb6e0b8f8"
+msgid "왠지 건강이 좋아진 것 같아"
+msgstr "Now I am hungry"
+
+msgctxt "e6e3806ca4ae10d3609c4be1d25fe891"
+msgid "레피드 플레임 세력의 적 26500회 처치"
+msgstr "Defeat 26500 Rapid Flames"
+
+msgctxt "8bf541dbe39ea915fce40b5b7772b6c9"
+msgid "ID=4001510"
+msgstr "ID=4001510"
+
+msgctxt "5497167214a6ce1c2000a03d6cbd10f5"
+msgid "근육박명"
+msgstr "Out of my way! I am hungry!"
+
+msgctxt "195e4acdb8a623ccbb701ee137904701"
+msgid "레피드 플레임 세력의 적 34200회 처치"
+msgstr "Defeat 34200 Rapid Flames"
+
+msgctxt "b6a2a96b1d3d26fb746e5ebd111c350b"
+msgid "ID=4001601"
+msgstr "ID=4001601"
+
+msgctxt "6a040d5acd5bfa6751313c2f7cb60059"
+msgid "인형에 이어서 로봇이라니"
+msgstr "That's quite hard"
+
+msgctxt "d743731cfbccb94d99487ae9ea51ffc8"
+msgid "아이언 포스 세력의 적 110회 처치"
+msgstr "Defeat 110 Iron Forces"
+
+msgctxt "17eedc4c92d756165da2060fc9e1410e"
+msgid "ID=4001602"
+msgstr "ID=4001602"
+
+msgctxt "fb3b95f606cb65902d849256722c5579"
+msgid "무의식적으로 파괴해 버렸다"
+msgstr "I come trough"
+
+msgctxt "0085cdc65249b817c5950fd18e5d3a1d"
+msgid "아이언 포스 세력의 적 900회 처치"
+msgstr "Defeat 900 Iron Forces"
+
+msgctxt "692175fc4e1fedf365f6fac28a1297f9"
+msgid "ID=4001603"
+msgstr "ID=4001603"
+
+msgctxt "d7923e630f77ebafbaeac47b0f733069"
+msgid "무…의식적으로 파괴했을까"
+msgstr "I... can do it"
+
+msgctxt "581588d0c4d4a4544274ca8d4bc1ee29"
+msgid "아이언 포스 세력의 적 2400회 처치"
+msgstr "Defeat 2400 Iron Forces"
+
+msgctxt "d68a3c18bcd3aba4ae104154dbbfab0b"
+msgid "ID=4001604"
+msgstr "ID=4001604"
+
+msgctxt "3129061bce5b844213d2364a467c6753"
+msgid "의식적 파괴를 시작하다"
+msgstr "I will smelt you"
+
+msgctxt "a671a3631f2dbe95f4b56bc82dfd5756"
+msgid "아이언 포스 세력의 적 4500회 처치"
+msgstr "Defeat 4500 Iron Forces"
+
+msgctxt "0294db56f95de46ac64778ba26c673a3"
+msgid "ID=4001605"
+msgstr "ID=4001605"
+
+msgctxt "14b4957a1db3ba316966485e6acaecff"
+msgid "파괴하는 재미를 맛보다"
+msgstr "Wait... what's that?"
+
+msgctxt "61d399579eff2a9a3cf2145d601dd2c1"
+msgid "아이언 포스 세력의 적 7200회 처치"
+msgstr "Defeat 7200 Iron Forces"
+
+msgctxt "867789edd5ebf3605ed7d738fe9493ea"
+msgid "ID=4001606"
+msgstr "ID=4001606"
+
+msgctxt "d839ca955866c98243cfdf3a0d20e68e"
+msgid "파괴하는 재미에 들리다"
+msgstr "Oooh! It was just an enemy"
+
+msgctxt "c8f9e561f8dc6c95a9f89ec3f8027a65"
+msgid "아이언 포스 세력의 적 10800회 처치"
+msgstr "Defeat 10800 Iron Forces"
+
+msgctxt "c72218d4ecfe46f7f4ab7c28021e4351"
+msgid "ID=4001607"
+msgstr "ID=4001607"
+
+msgctxt "f67d8286c6c30316fff2db3434da0115"
+msgid "프라모델도 적으로 보여"
+msgstr "Now they are easy"
+
+msgctxt "42069fa9ea1a21d9d0c3ed554ce7f76e"
+msgid "아이언 포스 세력의 적 15300회 처치"
+msgstr "Defeat 15300 Iron Forces"
+
+msgctxt "7e39a2ec2edf6211efce772ed1e3c4fb"
+msgid "ID=4001608"
+msgstr "ID=4001608"
+
+msgctxt "7ed6e3f3e4e3ea4acf5d370b38d35318"
+msgid "로봇은 부수는게 제맛이지!"
+msgstr "And also tiring"
+
+msgctxt "248a8eee6ee8640333309b0ef132fccd"
+msgid "아이언 포스 세력의 적 20200회 처치"
+msgstr "Defeat 20200 Iron Forces"
+
+msgctxt "ae9b3d84c84ff729904b27fef4105c24"
+msgid "ID=4001609"
+msgstr "ID=4001609"
+
+msgctxt "c310da5a1deadf60cb2cb34238e00612"
+msgid "로봇을 만들 수 있을것만 같아"
+msgstr "I can't stop yet!"
+
+msgctxt "72835963482fe2f91651d655a875f228"
+msgid "아이언 포스 세력의 적 26500회 처치"
+msgstr "Defeat 26500 Iron Forces"
+
+msgctxt "3fee487c7c770b44868d502fda0f5330"
+msgid "ID=4001610"
+msgstr "ID=4001610"
+
+msgctxt "d191a409550e45b23a1594a1ab6a3ded"
+msgid "로봇의 구조를 이해하다"
+msgstr "Until I reach my goal"
+
+msgctxt "08e469962c8f2a0516fd181174da4deb"
+msgid "아이언 포스 세력의 적 34200회 처치"
+msgstr "Defeat 34200 Iron Forces"
+
+msgctxt "27f81e6bb3cacf1073de4682159e530a"
+msgid "ID=4001701"
+msgstr "ID=4001701"
+
+msgctxt "7dbcb2796b5580dbd2ba9878a4ea4d2c"
+msgid "다시보니 반가운 얼굴"
+msgstr "That is a fake... right?"
+
+msgctxt "7a120d8c52ab07508b80d0d694ab6ed6"
+msgid "니어 소울워커 10회 처치"
+msgstr "Defeat 10 "
+
+msgctxt "a21aedc8990f186ea6edb5dab61c753a"
+msgid "ID=4001702"
+msgstr "ID=4001702"
+
+msgctxt "f93884cb1fd09f497c244db81e6f1e99"
+msgid "자주보니 친근하네"
+msgstr "Not the original"
+
+msgctxt "5356563d126ca5525db1e6cfd1876ae9"
+msgid "니어 소울워커 25회 처치"
+msgstr "Defeat 25 Blood SoulWorker"
+
+msgctxt "8eb56cb8ec03823152553abf587dde25"
+msgid "ID=4001703"
+msgstr "ID=4001703"
+
+msgctxt "f586d1f63cb7d65feccf768b9dd972ae"
+msgid "웃지마! 정들어~"
+msgstr "Not good enough~"
+
+msgctxt "bd2b99752a98899314eee3981faae5ac"
+msgid "니어 소울워커 50회 처치"
+msgstr "Defeat 50 Blood SoulWorker"
+
+msgctxt "4e04a832eca264a36edbff310cb4d408"
+msgid "ID=4001704"
+msgstr "ID=4001704"
+
+msgctxt "cdbc94c239abb73380143c0ee260b09b"
+msgid "100번째 결투를 신청했다"
+msgstr "I have hit them hard"
+
+msgctxt "26f7cd10af317085da07a8a23bb7c633"
+msgid "니어 소울워커 100회 처치"
+msgstr "Defeat 100 Blood SoulWorker"
+
+msgctxt "d77cf8f53c0ca094bd070ff9bf5826f3"
+msgid "ID=4001705"
+msgstr "ID=4001705"
+
+msgctxt "caa20110fccb8280fb7cd2f7cb2e06e1"
+msgid "싸우면서 친해진다"
+msgstr "Fight until the end"
+
+msgctxt "8875cb24f018cf74303181f4a4311e89"
+msgid "니어 소울워커 150회 처치"
+msgstr "Defeat 150 Blood SoulWorker"
+
+msgctxt "dd9fe15bb93698c91f34c39fcc56d1b1"
+msgid "ID=4001706"
+msgstr "ID=4001706"
+
+msgctxt "f5178ffc553f1fc52f40a7883a71947b"
+msgid "200번이나 만났다"
+msgstr "200 and more~"
+
+msgctxt "a71993992e4d459784b192f984b00b8f"
+msgid "니어 소울워커 200회 처치"
+msgstr "Defeat 200 Blood SoulWorker"
+
+msgctxt "dde31210febb066c9d708cc0edaaf2c0"
+msgid "ID=4001707"
+msgstr "ID=4001707"
+
+msgctxt "2768b4eb88243f8c8c495173906e139e"
+msgid "친구인듯 친구아닌 친구같은 너"
+msgstr "Never have enough"
+
+msgctxt "bea490d430c6c37a37c49c221ba5bd0e"
+msgid "니어 소울워커 250회 처치"
+msgstr "Defeat 250 Blood SoulWorker"
+
+msgctxt "da69431c83d61dd7b544172aa88bda31"
+msgid "ID=4001708"
+msgstr "ID=4001708"
+
+msgctxt "0713e7bfba63c5d2556a1a19400e8fb4"
+msgid "500번 싸운 그대"
+msgstr "Getting easier"
+
+msgctxt "1ec70a55effaaac33977daebe40bfae9"
+msgid "니어 소울워커 500회 처치"
+msgstr "Defeat 500 Blood SoulWorker"
+
+msgctxt "08097b3c3ef860a53cc898bfb88a9343"
+msgid "ID=4001709"
+msgstr "ID=4001709"
+
+msgctxt "3cfd809dab3afd06fbdbbe9a68702ae4"
+msgid "이제 그만 싸울까?"
+msgstr "Who are they?"
+
+msgctxt "ebf98c8bc0694f6681d6404c36ddb458"
+msgid "니어 소울워커 750회 처치"
+msgstr "Defeat 750 Blood SoulWorker"
+
+msgctxt "766d30eca06f55076a254cc76e62ba11"
+msgid "ID=4001710"
+msgstr "ID=4001710"
+
+msgctxt "7c095cba82a66bfd2b4b377a48061af9"
+msgid "1000번이나 너를 베었다"
+msgstr "Easy peasy~ Where is my lemonade?"
+
+msgctxt "bf353698a021f1d2d50eead0330e5ef1"
+msgid "니어 소울워커 1000회 처치"
+msgstr "Defeat 1000 Blood SoulWorker"
+
+msgctxt "99a90332bdb9a671ab6de895733f2070"
+msgid "ID=4001801"
+msgstr "ID=4001801"
+
+msgctxt "cb42493291d12f72d02bac59eea8cda6"
+msgid "그냥 한번 부숴봤어"
+msgstr "Break trough"
+
+msgctxt "d15d99a8e9c84f4da2254292bd67b999"
+msgid "아머 브레이커 사용 횟수 50회 달성"
+msgstr "Broke trough 50 armors"
+
+msgctxt "6a5420dbe3bfd2687a3cc2708d5e2ba2"
+msgid "ID=4001802"
+msgstr "ID=4001802"
+
+msgctxt "db187ef4d115dd29273ba74dffd117be"
+msgid "막으니까 부수는거야"
+msgstr "Like butter"
+
+msgctxt "d25b838137fadd471d0bc5cfad2be295"
+msgid "아머 브레이커 사용 횟수 100회 달성"
+msgstr "Broke trough 100 armors"
+
+msgctxt "88709b72c34b38c429c8d8f1b2a12657"
+msgid "ID=4001803"
+msgstr "ID=4001803"
+
+msgctxt "2cf773616cce89a0c0ee8d6ef6e34c39"
+msgid "부수다보니 부수는거야"
+msgstr "It's not fashion"
+
+msgctxt "ebcf3b9f3d4717a4eb7b2e1b6fec2ace"
+msgid "아머 브레이커 사용 횟수 200회 달성"
+msgstr "Broke trough 200 armors"
+
+msgctxt "62fe58f87e39153d3d2edd170e72cdd3"
+msgid "ID=4001804"
+msgstr "ID=4001804"
+
+msgctxt "068f709bc61536239c9e9cbb10d81899"
+msgid "부수는게 좋아"
+msgstr "And it is heavy"
+
+msgctxt "665562e763fa3d3b8fe91b4bbad2e8ce"
+msgid "아머 브레이커 사용 횟수 500회 달성"
+msgstr "Broke trough 500 armors"
+
+msgctxt "07f7d2dfa4e954ecbc7bf593cfc8d6c7"
+msgid "ID=4001805"
+msgstr "ID=4001805"
+
+msgctxt "a75c945a7e1593b6604af33f8d9d457b"
+msgid "부수는게 정말 좋아"
+msgstr "I want to destroy it"
+
+msgctxt "30425d2510270486c5413c655ee7599e"
+msgid "아머 브레이커 사용 횟수 1000회 달성"
+msgstr "Broke trough 1000 armors"
+
+msgctxt "459885827d32d8e59b6bce0d797089de"
+msgid "ID=4001806"
+msgstr "ID=4001806"
+
+msgctxt "c21ac392b096034c51310dfdfa883514"
+msgid "부수는게 정말 정말 좋아"
+msgstr "Now I know it!"
+
+msgctxt "630064860a87cf27b842d12339e748ad"
+msgid "아머 브레이커 사용 횟수 2000회 달성"
+msgstr "Broke trough 2000 armors"
+
+msgctxt "e9b896d21b96ff44bb644b098520bc7e"
+msgid "ID=4001807"
+msgstr "ID=4001807"
+
+msgctxt "a8a6b5950ae5fb83a167ead5451468fd"
+msgid "막기따윈 소용없어"
+msgstr "That's easy to break!"
+
+msgctxt "69c49ce723e393e61cf99bd477706e3a"
+msgid "아머 브레이커 사용 횟수 5000회 달성"
+msgstr "Broke trough 5000 armors"
+
+msgctxt "5e32afc1ae79fe9fe9e81b5f4675b78a"
+msgid "ID=4001808"
+msgstr "ID=4001808"
+
+msgctxt "e0f421d370c282f504532184a49ecf0c"
+msgid "금강불괴도 부숴주지"
+msgstr "Do I get paid for doing this?"
+
+msgctxt "24b994f385cf8c9346baab25854ad026"
+msgid "아머 브레이커 사용 횟수 10000회 달성"
+msgstr "Broke trough 10000 armors"
+
+msgctxt "b8cff66e0de30edebd1e5ec228aa47b4"
+msgid "ID=4001809"
+msgstr "ID=4001809"
+
+msgctxt "17f75fd52bec282e3d966693139390ea"
+msgid "악날하게 부숴주지"
+msgstr "Maybe I should teach?"
+
+msgctxt "cda2337aa896bf53bca773faec52d0b0"
+msgid "아머 브레이커 사용 횟수 20000회 달성"
+msgstr "Broke trough 20000 armors"
+
+msgctxt "c98fac796fce5a704ac698042d9cd814"
+msgid "ID=4001810"
+msgstr "ID=4001810"
+
+msgctxt "91471a7c00552b7aeb1432ebf571cc0b"
+msgid "아머 브레이커"
+msgstr "I am a master at breaking things"
+
+msgctxt "b36a253c5169908283b9eaf8fd0dd36f"
+msgid "아머 브레이커 사용 횟수 50000회 달성"
+msgstr "Broke trough 50000 armors"
+
+msgctxt "a249ed13a316b0a6543d63347d6f4b32"
+msgid "ID=4001901"
+msgstr "ID=4001901"
+
+msgctxt "c1264721065bd49f82e2ac3165461f9f"
+msgid "콤보 방법을 익히셨군요!"
+msgstr "C-c-combo!"
+
+msgctxt "c7d6b426d5ee90670d7efcb7b6b43cc7"
+msgid "최대 콤보 수 50회 달성"
+msgstr "Reached 50 combos"
+
+msgctxt "e800a6a41bb31bcaa20be3ba1da77fd4"
+msgid "ID=4001902"
+msgstr "ID=4001902"
+
+msgctxt "79d06dbeaebca2df1c044fe1536adc9d"
+msgid "111Hit! 콤보에 입문!"
+msgstr "111 Combos!"
+
+msgctxt "f2ffc56f36346bea9e2a2bf07d0c97c6"
+msgid "최대 콤보 수 111회 달성"
+msgstr "Reached 111 combos"
+
+msgctxt "f2688f3dbdf4a19e97362bb2b47a8494"
+msgid "ID=4001903"
+msgstr "ID=4001903"
+
+msgctxt "dbc8d9c8db545ff457447bb0f0893206"
+msgid "222Hit! 익숙해져가는 당신!"
+msgstr "222 combos!"
+
+msgctxt "51c7cb75b887e13230ea8828221d4d6b"
+msgid "최대 콤보 수 222회 달성"
+msgstr "Reached 222 combos"
+
+msgctxt "d3feb9e50f5d31d2d810c3a3d5a64329"
+msgid "ID=4001904"
+msgstr "ID=4001904"
+
+msgctxt "eba3568ad3a97f6c7857230ae000d9d9"
+msgid "333Hit! 요령을 깨우쳤군요!"
+msgstr "333 Combos"
+
+msgctxt "25bcdac21884ac2efef9e1e2286feef6"
+msgid "최대 콤보 수 333회 달성"
+msgstr "Reach 333 combos"
+
+msgctxt "adc2c4a72ec1580ccfe3a66ce2dcb6e4"
+msgid "ID=4001905"
+msgstr "ID=4001905"
+
+msgctxt "206318f0cc820cced79e4d257a7ae9fe"
+msgid "444Hit! 살살 때려줘요~"
+msgstr "444 Combos"
+
+msgctxt "a7782c5d3fb54801ab3b790d23f3d7b1"
+msgid "최대 콤보 수 444회 달성"
+msgstr "Reach 444 combos"
+
+msgctxt "41872dfee864d98742b26b07c9476a31"
+msgid "ID=4001906"
+msgstr "ID=4001906"
+
+msgctxt "dd1a003bcba2a58d4800a031ca6fe367"
+msgid "555Hit! Oh! Fantastic!"
+msgstr "555 Combos! Oh! Fantastic!"
+
+msgctxt "dd525b81c4b680c5b4d77f8d265720c1"
+msgid "최대 콤보 수 555회 달성"
+msgstr "Reach 555 combos"
+
+msgctxt "770bf633a1c0ceb43852ec5daa1919ad"
+msgid "ID=4001907"
+msgstr "ID=4001907"
+
+msgctxt "97118f972665a0f58c50716347628681"
+msgid "666Hit! 숫자는 이래도 업적"
+msgstr "The gate to hell has opened (666 Combos)"
+
+msgctxt "2e74a288cc1851b7260ee4f3201a6e94"
+msgid "최대 콤보 수 666회 달성"
+msgstr "Reach 666 combos"
+
+msgctxt "b879d610635b969fc7db675f6b98ea45"
+msgid "ID=4001908"
+msgstr "ID=4001908"
+
+msgctxt "5a6fefd20a8cc667e76536affb218237"
+msgid "777Hit! Lucky for you!"
+msgstr "777 combos, where is my prize?"
+
+msgctxt "aba1e299df344051de2df0e2abcb26ad"
+msgid "최대 콤보 수 777회 달성"
+msgstr "Reach 777 combos"
+
+msgctxt "fea68760688d5bafc67802a2f91e873d"
+msgid "ID=4001909"
+msgstr "ID=4001909"
+
+msgctxt "e85fe251ccd3a29cae1d2d4561be569d"
+msgid "888Hit! 팔이 아프진 않으신가요?"
+msgstr "888 Combos, can it go higher?"
+
+msgctxt "080c5cdf2cd2b8572f2e0615a19702bb"
+msgid "최대 콤보 수 888회 달성"
+msgstr "Reach 888 combos"
+
+msgctxt "43138af947c812663c92461adf53f56c"
+msgid "ID=4001910"
+msgstr "ID=4001910"
+
+msgctxt "ffaacf3514d307056570d4312e8f706a"
+msgid "999Hit! 전설의 콤보 999!"
+msgstr "999 combos, the end of the line"
+
+msgctxt "7d90d8910fe27969e945a4eae6d431f4"
+msgid "최대 콤보 수 999회 달성"
+msgstr "Reach 999 combos"
+
+msgctxt "6e7fa15b9c38f2e17beabb8f4ad1d18c"
+msgid "ID=4002001"
+msgstr "ID=4002001"
+
+msgctxt "84940f14f39042f9b92fc4c78b2f6cd4"
+msgid "부탁 한 번은 들어줄 수 있지"
+msgstr "The blue quests, huh?"
+
+msgctxt "0dbcc7505a71ebf4ec11aed5dabac801"
+msgid "서브퀘스트 완료 횟수 1회 달성"
+msgstr "Complete 1 Sub-Quest"
+
+msgctxt "a0d33dabb7cca9200c4d7a1a61fb6199"
+msgid "ID=4002002"
+msgstr "ID=4002002"
+
+msgctxt "ddab36c67bcdbb72e5282d9051d5a65d"
+msgid "오십번 정도는 들어줄 수 있지"
+msgstr "Blue Quests are everywhere"
+
+msgctxt "e0eb91081530c347f9210c254a637601"
+msgid "서브퀘스트 완료 횟수 50회 달성"
+msgstr "Complete 50 Sub-Quests"
+
+msgctxt "e995dfd6e02564ea6d4871e74acafe6c"
+msgid "ID=4002003"
+msgstr "ID=4002003"
+
+msgctxt "195ea502d814d2ee63fa0d6406116b6a"
+msgid "백…번은 들어줄 수 있을거야"
+msgstr "There we go"
+
+msgctxt "bf09fb1675f0be3a9f10ee895a0698a2"
+msgid "서브퀘스트 완료 횟수 100회 달성"
+msgstr "Complete 100 Sub-Quests"
+
+msgctxt "c5863f3941daf803d96a83c4df97f933"
+msgid "ID=4002004"
+msgstr "ID=4002004"
+
+msgctxt "f652d9700eac8458c5037893f231fcdd"
+msgid "…호구로 보이는 건 아니겠지"
+msgstr "Why are there so many?!"
+
+msgctxt "9b0dae24b7f99998239286b76099f4e8"
+msgid "서브퀘스트 완료 횟수 150회 달성"
+msgstr "Complete 150 Sub-Quests"
+
+msgctxt "d96bb84db6be47b2bbb75b7b4f96ccab"
+msgid "ID=4002005"
+msgstr "ID=4002005"
+
+msgctxt "a5ac86084d40d0ca75985c8077e8fc28"
+msgid "머리 위의 느낌표가 싫어"
+msgstr "I like it"
+
+msgctxt "8d3fe1a461a3c733c91ca721656690a1"
+msgid "서브퀘스트 완료 횟수 250회 달성"
+msgstr "Complete 250 Sub-Quests"
+
+msgctxt "0e50edb60b8b0c4e7086802a2ba3e238"
+msgid "ID=4002006"
+msgstr "ID=4002006"
+
+msgctxt "595181b09ab7f50226c1ad13df1aa4d7"
+msgid "파란 느낌표로 부르지 말아줘요"
+msgstr "Can't stop now"
+
+msgctxt "824399b31f05f1fa8b2c693346181bcd"
+msgid "서브퀘스트 완료 횟수 400회 달성"
+msgstr "Complete 400 Sub-Quests"
+
+msgctxt "4b6b011dc4b8e078bead506a6547ffee"
+msgid "ID=4002007"
+msgstr "ID=4002007"
+
+msgctxt "db6c1db73c12feedc9d59a0757e8ed83"
+msgid "파란 물음표로 유혹하지 말아줘요"
+msgstr "Never ever do the main quest"
+
+msgctxt "de38ac4cfbe6019180fccf5ab5553364"
+msgid "서브퀘스트 완료 횟수 550회 달성"
+msgstr "Complete 550 Sub-Quests"
+
+msgctxt "17445c87db8108446caeebe87330a807"
+msgid "ID=4002008"
+msgstr "ID=4002008"
+
+msgctxt "107560e20186e35d048b1c080e0e758a"
+msgid "모두가 의뢰인으로 보여"
+msgstr "Thanks for the information!"
+
+msgctxt "5ba9cfb502d433a6b6854dd4a7835cbc"
+msgid "서브퀘스트 완료 횟수 700회 달성"
+msgstr "Complete 700 Sub-Quests"
+
+msgctxt "3a69e080e7047bb24b533854b0abdd3d"
+msgid "ID=4002009"
+msgstr "ID=4002009"
+
+msgctxt "f29b500499e555fa5219dbcf990734b3"
+msgid "전생에 용병왕이었나봐요"
+msgstr "When do I get a main quest?"
+
+msgctxt "7b64af7ad52cddab05ee8567b1f795c0"
+msgid "서브퀘스트 완료 횟수 850회 달성"
+msgstr "Complete 850 Sub-Quests"
+
+msgctxt "d1acfe4717237fa0f1664d85ff5cb93d"
+msgid "ID=4002010"
+msgstr "ID=4002010"
+
+msgctxt "70ad9171acc3304921b15e01ad2430d5"
+msgid "당신이 이룬 1000개의 소원"
+msgstr "1000? Hm. Is this the end content?"
+
+msgctxt "7d079d0b29292d8f9b957fda5e06003c"
+msgid "서브퀘스트 완료 횟수 1000회 달성"
+msgstr "Complete 1000 Sub-Quests"
+
+msgctxt "58f6e173ba8fdc594827fabe14f78650"
+msgid "ID=4002101"
+msgstr "ID=4002101"
+
+msgctxt "94d2f9cb97f7ea14a7a66651e2a45b85"
+msgid "메이즈를 마주하다"
+msgstr "Sightseeing"
+
+msgctxt "c8048a5b005cc15e2317559fdb820dd8"
+msgid "메이즈 누적 클리어 횟수 1회 달성"
+msgstr "Clear 1 Dungeon"
+
+msgctxt "fab2891752bcbc9b95d1b160a8fd80db"
+msgid "ID=4002102"
+msgstr "ID=4002102"
+
+msgctxt "736154582d1f8eb72e3950118f73c5d4"
+msgid "50번째, 메이즈를 서성거리다"
+msgstr "I am like Indiana Jones"
+
+msgctxt "6186dcd6c404ef79f51caddacbc5b565"
+msgid "메이즈 누적 클리어 횟수 50회 달성"
+msgstr "Clear 50 Dungeons"
+
+msgctxt "9038812ed143d1f8f18df4273d9c6662"
+msgid "ID=4002103"
+msgstr "ID=4002103"
+
+msgctxt "053023445c430acae748f73101ad2ade"
+msgid "100번째, 메이즈를 바라보다"
+msgstr "Or Lara Croft?"
+
+msgctxt "f9642e00c390684dcc29aaacf7a3c611"
+msgid "메이즈 누적 클리어 횟수 100회 달성"
+msgstr "Clear 100 Dungeons"
+
+msgctxt "0e594ca4c8e4b45ca0c8b5efd4003261"
+msgid "ID=4002104"
+msgstr "ID=4002104"
+
+msgctxt "6012faa12a3e3d027155ecd8957f0425"
+msgid "200번, 메이즈를 걸어가다"
+msgstr "I will show you around"
+
+msgctxt "b8c1f1220a29357d13819ea87f67dffd"
+msgid "메이즈 누적 클리어 횟수 200회 달성"
+msgstr "Clear 200 Dungeons"
+
+msgctxt "c58051b6a80e1466666f56109b5fff5c"
+msgid "ID=4002105"
+msgstr "ID=4002105"
+
+msgctxt "e7a7bb932214a544655fa51f817456bd"
+msgid "400번째, 메이즈를 뛰어가다"
+msgstr "A treasure chest! No wait... it's only a achievement"
+
+msgctxt "a08191dbcabb9dd1ded6aa567c5e756b"
+msgid "메이즈 누적 클리어 횟수 400회 달성"
+msgstr "Clear 400 Dungeons"
+
+msgctxt "bd804d67768f9497aae3029ad8b8a2f1"
+msgid "ID=4002106"
+msgstr "ID=4002106"
+
+msgctxt "ca4d96403a3ddb0be451d830457aaa29"
+msgid "600번째 메이즈를 헤메다"
+msgstr "Feng-Shui~ this rock disturbs the flow"
+
+msgctxt "966da1e5bf72edeaa614c5a345e70bd7"
+msgid "메이즈 누적 클리어 횟수 600회 달성"
+msgstr "Clear 600 Dungeons"
+
+msgctxt "9e40186ca2759c9eb2666d1f6bdfbb7a"
+msgid "ID=4002107"
+msgstr "ID=4002107"
+
+msgctxt "c372579fe13279cfbd90de48e7440d3a"
+msgid "1000째 메이즈 방랑하다"
+msgstr "It is now my home"
+
+msgctxt "a7c872958fdc634f06ea73535f4430dc"
+msgid "메이즈 누적 클리어 횟수 1000회 달성"
+msgstr "Clear 1000 Dungeons"
+
+msgctxt "85bfe5b428c07936b2197c4d3ce43fc0"
+msgid "ID=4002108"
+msgstr "ID=4002108"
+
+msgctxt "5eb79654a2391976e91e768d719e970a"
+msgid "1500번째, 메이즈를 완주하다"
+msgstr "I can name every rock by now"
+
+msgctxt "41271c4c3955b196c5c30bfd9ef2af38"
+msgid "메이즈 누적 클리어 횟수 1500회 달성"
+msgstr "Clear 1500 Dungeons"
+
+msgctxt "3feffff38e2160c5fff9cab1aca1b41a"
+msgid "ID=4002109"
+msgstr "ID=4002109"
+
+msgctxt "62955e0176bfd071add05272025b4049"
+msgid "2500번째, 메이즈를 이해하다"
+msgstr "Do you hear that? The dungeon is calling me"
+
+msgctxt "4219f80a71bb76c6b697c6de79f7ede5"
+msgid "메이즈 누적 클리어 횟수 2500회 달성"
+msgstr "Clear 2500 Dungeons"
+
+msgctxt "0849e5d3cb79fd444911cc32f7a708f7"
+msgid "ID=4002110"
+msgstr "ID=4002110"
+
+msgctxt "ccb0867a70c64377ef1298c5d8064d14"
+msgid "메이즈 탐험가"
+msgstr "My property!"
+
+msgctxt "efa59d3af8f880c4a518cbeaebecb81f"
+msgid "메이즈 누적 클리어 횟수 5000회 달성"
+msgstr "Clear 5000 Dungeons"
+
+msgctxt "f81ece1452a23e61796b27d46bff7743"
+msgid "ID=4002201"
+msgstr "ID=4002201"
+
+msgctxt "cc7931e049036bf6e5a78ee8744d59b5"
+msgid "술이 식기전에 돌아 오겠소"
+msgstr "Fast"
+
+msgctxt "33fa153f256e1fdf6837e880b1362482"
+msgid "메이즈를 3분 이내에 1회 클리어"
+msgstr "Clear 1 Dungeon in lesser than 3 minutes"
+
+msgctxt "f526b97bb38dfac32e0eecac81c6af9a"
+msgid "ID=4002202"
+msgstr "ID=4002202"
+
+msgctxt "e2ee2a7766f7e81cc7586d66b8c4d06b"
+msgid "속전 속결"
+msgstr "Faster"
+
+msgctxt "d256318579ec028583f2dabe8ff13cfd"
+msgid "메이즈를 3분 이내에 25회 클리어"
+msgstr "Clear 25 Dungeons in lesser than 3 minutes"
+
+msgctxt "c16c074402a0fce27eb6c59b9abe9cd2"
+msgid "ID=4002203"
+msgstr "ID=4002203"
+
+msgctxt "596339187a9163dbac799f4e8214f8db"
+msgid "일사천리?"
+msgstr "Faster or faster?"
+
+msgctxt "6d5523052d37689762529b3a3e4f4287"
+msgid "메이즈를 3분 이내에 50회 클리어"
+msgstr "Clear 50 Dungeons in lesser than 3 minutes"
+
+msgctxt "83f3be729fb287af630f61738e1c59f0"
+msgid "ID=4002204"
+msgstr "ID=4002204"
+
+msgctxt "1dfd61dc9d1bd7933cdc12e660af7ce3"
+msgid "3분요리 좋아하시나요?"
+msgstr "Pfff, in under 3 minutes?"
+
+msgctxt "94216ee4d58e9f6097f56940be343a56"
+msgid "메이즈를 3분 이내에 100회 클리어"
+msgstr "Clear 100 Dungeons in lesser than 3 minutes"
+
+msgctxt "1a9cbee494072c1cf79af6e51a62d600"
+msgid "ID=4002205"
+msgstr "ID=4002205"
+
+msgctxt "27490d01af11b1606137cd226410db27"
+msgid "집에 두고 온 물건이 있나요?"
+msgstr "Out of my way, I am a doct... SoulWorker!!!"
+
+msgctxt "79399aa97e8d362657fb3a30fbd3b961"
+msgid "메이즈를 3분 이내에 150회 클리어"
+msgstr "Clear 150 Dungeons in lesser than 3 minutes"
+
+msgctxt "8d07cf9ce64945841402c85b5e308e27"
+msgid "ID=4002206"
+msgstr "ID=4002206"
+
+msgctxt "028812d461e62b2068496c4ab3457383"
+msgid "달리기를 잘하시네요"
+msgstr "Am I faster as light?"
+
+msgctxt "13caf8ab7551f958a124ab58e677c36d"
+msgid "메이즈를 3분 이내에 200회 클리어"
+msgstr "Clear 200 Dungeons in lesser than 3 minutes"
+
+msgctxt "18d8d9a0c8d0184e96d0b03973d95540"
+msgid "ID=4002207"
+msgstr "ID=4002207"
+
+msgctxt "1e19f2304b93d21b2cde7ae2dfc0fd1e"
+msgid "육상선수 인가요?"
+msgstr "A bike would be nice"
+
+msgctxt "c04d898cd0763d2b2ddf89ee148bf32d"
+msgid "메이즈를 3분 이내에 250회 클리어"
+msgstr "Clear 250 Dungeons in lesser than 3 minutes"
+
+msgctxt "07932ae95f904aa8ffd933837b8d18eb"
+msgid "ID=4002208"
+msgstr "ID=4002208"
+
+msgctxt "6b542befd88cc3851d74aca55cdc8ed7"
+msgid "축지법을 배우신건…."
+msgstr "Seems I have the talent"
+
+msgctxt "10ba32bbcf3e69d076e4fac96c15d11e"
+msgid "메이즈를 3분 이내에 500회 클리어"
+msgstr "Clear 500 Dungeons in lesser than 3 minutes"
+
+msgctxt "48d374ccf6203131c931e72ab8e57ff4"
+msgid "ID=4002209"
+msgstr "ID=4002209"
+
+msgctxt "97aa3caa1c213e3ca509004affba617c"
+msgid "중요한건? 스피드!"
+msgstr "Break? No way!"
+
+msgctxt "46037827b1a903d1660e1871379a5c9c"
+msgid "메이즈를 3분 이내에 750회 클리어"
+msgstr "Clear 750 Dungeons in lesser than 3 minutes"
+
+msgctxt "c8173d8fe82e63cfcbcc75889e4a39c6"
+msgid "ID=4002210"
+msgstr "ID=4002210"
+
+msgctxt "4a2110c2a18efd761cda2270abf050a8"
+msgid "You are Speed Racer~!"
+msgstr "You are a Speed Racer~!"
+
+msgctxt "8c0bba6af113f6d9d745f182403d4ec1"
+msgid "메이즈를 3분 이내에 1000회 클리어"
+msgstr "Clear 1000 Dungeons in lesser than 3 minutes"
+
+msgctxt "f64ad5f0f18a10e64657945233507024"
+msgid "ID=4002301"
+msgstr "ID=4002301"
+
+msgctxt "1df8b39d3a271cf1bbc7dbaf75ac04ad"
+msgid "처음 해본거 맞아요?"
+msgstr "Now we talking"
+
+msgctxt "bb1fcc7ddcb6faea795441a46c39a7c9"
+msgid "메이즈 클리어 랭크 SS를 1회 달성"
+msgstr "Clear 1 Dungeon with an SS rank"
+
+msgctxt "23dfe38749b8edc7d112994be82d2775"
+msgid "ID=4002302"
+msgstr "ID=4002302"
+
+msgctxt "a615ac627fe369737d4b165686ef0671"
+msgid "제법이군요~"
+msgstr "Easy~"
+
+msgctxt "f0f0325bb84f2528d66d39f702faabcf"
+msgid "메이즈 클리어 랭크 SS를 25회 달성"
+msgstr "Clear 25 Dungeons with an SS rank"
+
+msgctxt "3680dc7a105f86948e7ff6f293768469"
+msgid "ID=4002303"
+msgstr "ID=4002303"
+
+msgctxt "e952588c0321f836a58a78d81041d91c"
+msgid "참 잘했어요!"
+msgstr "Let's go!"
+
+msgctxt "b0dc1f007f81800c216ff99fdf924932"
+msgid "메이즈 클리어 랭크 SS를 50회 달성"
+msgstr "Clear 50 Dungeons with an SS rank"
+
+msgctxt "324d18f798cdc11f40027181bb881b31"
+msgid "ID=4002304"
+msgstr "ID=4002304"
+
+msgctxt "774868e112211eed3fc06d4b55c6f4ae"
+msgid "정말~ 정말! 잘했어요!"
+msgstr "Where is my +?"
+
+msgctxt "e94cee787f069a4dafda55ca5fe39766"
+msgid "메이즈 클리어 랭크 SS를 100회 달성"
+msgstr "Clear 100 Dungeons with an SS rank"
+
+msgctxt "c2d4845f211e31ac6d72a1ba23c4e65b"
+msgid "ID=4002305"
+msgstr "ID=4002305"
+
+msgctxt "b006077f90b5bf3a12bd69be29b9b503"
+msgid "150번째 SS!"
+msgstr "150!"
+
+msgctxt "24604822b3ed3564b876f230d4c4b473"
+msgid "메이즈 클리어 랭크 SS를 150회 달성"
+msgstr "Clear 150 Dungeons with an SS rank"
+
+msgctxt "7f0aeef4ea4cebb965cbc532ddaccbd2"
+msgid "ID=4002306"
+msgstr "ID=4002306"
+
+msgctxt "bdfedc8e64714625fbf5231344c09f97"
+msgid "탁월한 게임센스!"
+msgstr "It will never end!"
+
+msgctxt "1fcecbb99c5003589e07a244b5e4f2e2"
+msgid "메이즈 클리어 랭크 SS를 200회 달성"
+msgstr "Clear 200 Dungeons with an SS rank"
+
+msgctxt "4ad395fc6655844f2b2fd47676922614"
+msgid "ID=4002307"
+msgstr "ID=4002307"
+
+msgctxt "fc1fa5ffebfe22996c193ad24dddf3b4"
+msgid "프로선수 아닌가요?"
+msgstr "SS? Way to easy"
+
+msgctxt "253ec8b657c59757bb1bf339df99992e"
+msgid "메이즈 클리어 랭크 SS를 250회 달성"
+msgstr "Clear 250 Dungeons with an SS rank"
+
+msgctxt "62e50ace5d46a320457a73750a66bc81"
+msgid "ID=4002308"
+msgstr "ID=4002308"
+
+msgctxt "49e46f76f4a339a719e2f05b9adf1d20"
+msgid "500번째! SS!"
+msgstr "500?! "
+
+msgctxt "cd8b6e872ca6af7c1585f4e130bb82df"
+msgid "메이즈 클리어 랭크 SS를 500회 달성"
+msgstr "Clear 500 Dungeons with an SS rank"
+
+msgctxt "9a360f27b88fa66577dc49838512a6c1"
+msgid "ID=4002309"
+msgstr "ID=4002309"
+
+msgctxt "3e684fca5d29f47763bf30d5b672efc9"
+msgid "더 이상 오를 곳이 없다"
+msgstr "Now I am bored"
+
+msgctxt "0eec100ba34cdad6ca84b4b30ebc5594"
+msgid "메이즈 클리어 랭크 SS를 750회 달성"
+msgstr "Clear 750 Dungeons with an SS rank"
+
+msgctxt "21d2b822c334262fd851318bd42bd0ad"
+msgid "ID=4002310"
+msgstr "ID=4002310"
+
+msgctxt "f88b7cbe97b2cf176b09db989e6f66da"
+msgid "컨트롤이 신의 경지에 달하다"
+msgstr "But I still keep going"
+
+msgctxt "a8276a8f9f7acec46db6fa83c4179843"
+msgid "메이즈 클리어 랭크 SS를 1000회 달성"
+msgstr "Clear 1000 Dungeons with an SS rank"
+
+msgctxt "4b002a27dd1f0491ee8e71acf3e31445"
+msgid "ID=4002401"
+msgstr "ID=4002401"
+
+msgctxt "dd6a65d5d76b52c5239bbb7ffd4fb756"
+msgid "다음엔 잘 할 수 있을 거에요!"
+msgstr "Oh look, the floor!"
+
+msgctxt "12e823be646ecd9d463a80f578a5c908"
+msgid "메이즈 클리어 랭크 F를 1회 달성"
+msgstr "Clear 1 Dungeon with an F rank"
+
+msgctxt "7d08af268bd16d40ebfffaf4379b1ee1"
+msgid "ID=4002402"
+msgstr "ID=4002402"
+
+msgctxt "336d6dfdbaa5034a05e9316b28fe690c"
+msgid "다음엔…할 수 있을 거에요!"
+msgstr "Is everyone sleeping?"
+
+msgctxt "0e334791c4f778a3ea45602808511600"
+msgid "메이즈 클리어 랭크 F를 25회 달성"
+msgstr "Clear 25 Dungeons with an F rank"
+
+msgctxt "abe3b4635dddfd29e0b3b0879a903f9d"
+msgid "ID=4002403"
+msgstr "ID=4002403"
+
+msgctxt "3d81418c11df82152b9f7e8cefeb6fc9"
+msgid "…잘 할 수 있을 거에요."
+msgstr "That is fun!"
+
+msgctxt "f2271fe0532b2bd31ce98e18a1f0add1"
+msgid "메이즈 클리어 랭크 F를 50회 달성"
+msgstr "Clear 50 Dungeons with an F rank"
+
+msgctxt "ef47e4c680654341497e9d10f2931ec6"
+msgid "ID=4002404"
+msgstr "ID=4002404"
+
+msgctxt "b3ca34daa388899041ff351cc0ef2d56"
+msgid "무기를 바꿔보는건?"
+msgstr "F! F! F!"
+
+msgctxt "20d65411ed6ac74fa14fc32cc6c879c0"
+msgid "메이즈 클리어 랭크 F를 100회 달성"
+msgstr "Clear 100 Dungeons with an F rank"
+
+msgctxt "e6fe2597a806822354e5cbfb48c40994"
+msgid "ID=4002405"
+msgstr "ID=4002405"
+
+msgctxt "5c54466a93d51407d2894da458114ed8"
+msgid "방어구를 바꿔보는 건?"
+msgstr "Still AFK~"
+
+msgctxt "71f1982b823d5eebe1494242ae530c7d"
+msgid "메이즈 클리어 랭크 F를 150회 달성"
+msgstr "Clear 150 Dungeons with an F rank"
+
+msgctxt "b109260ee210e9b0dcbd65b369a6e551"
+msgid "ID=4002406"
+msgstr "ID=4002406"
+
+msgctxt "f13dac940e41ebd1b45bc7ebf68d4a12"
+msgid "강화나 제작을 해보시는 건?"
+msgstr "Can I get more Fs?"
+
+msgctxt "9b6484bd09ee4d531c3795ccbdb6649c"
+msgid "메이즈 클리어 랭크 F를 200회 달성"
+msgstr "Clear 200 Dungeons with an F rank"
+
+msgctxt "19d6a74d0395261655abcbc7c5bd26a0"
+msgid "ID=4002407"
+msgstr "ID=4002407"
+
+msgctxt "b551bb056b9b1a8615da82785d15c4d2"
+msgid "혹시 돈을 모으고 계신가요?"
+msgstr "250... more!!"
+
+msgctxt "f74bd80a5e22495123d88d87f5d9d1b0"
+msgid "메이즈 클리어 랭크 F를 250회 달성"
+msgstr "Clear 250 Dungeons with an F rank"
+
+msgctxt "f3cf23716d2cb1848853acbb13c0635a"
+msgid "ID=4002408"
+msgstr "ID=4002408"
+
+msgctxt "15c29e878a30786d79432a6f7718f99c"
+msgid "이것도 명예이겠죠?"
+msgstr "Now we are talking"
+
+msgctxt "05b0372fa3b12fbe8fdb04b50525ba09"
+msgid "메이즈 클리어 랭크 F를 500회 달성"
+msgstr "Clear 500 Dungeons with an F rank"
+
+msgctxt "fd3025732a30447b2ad818697aaafd8f"
+msgid "ID=4002409"
+msgstr "ID=4002409"
+
+msgctxt "162a56e25bb3c6137b3b83be08b63769"
+msgid "당신의 의지에 경의를!"
+msgstr "Fs are life, Fs are the world"
+
+msgctxt "fd83a6224d99054f5568b11009235c4c"
+msgid "메이즈 클리어 랭크 F를 750회 달성"
+msgstr "Clear 750 Dungeons with an F rank"
+
+msgctxt "6fdc8ea0c13a9e4da99c78375602fab6"
+msgid "ID=4002410"
+msgstr "ID=4002410"
+
+msgctxt "2c08a3cd9755ce6811e05d0709cab26f"
+msgid "의도적 실패로 판명났습니다~"
+msgstr "No end in sight"
+
+msgctxt "c178ebfbda3f189a891d8645eea99dd7"
+msgid "메이즈 클리어 랭크 F를 1000회 달성"
+msgstr "Clear 1000 Dungeons with an F rank"
+
+msgctxt "df8e7c70afad615bc31048930de1710b"
+msgid "ID=4002501"
+msgstr "ID=4002501"
+
+msgctxt "079117bba4a05c86060101d4f16961be"
+msgid "시력이 좋으시군요!"
+msgstr "It's shiny!"
+
+msgctxt "7a257fa8b5be681e13796f0173b3515b"
+msgid "드랍 제니 습득량 1400 달성"
+msgstr "Pick up 1,400 Zenny"
+
+msgctxt "beab7e03a9a97478b0e59eb81b204e35"
+msgid "ID=4002502"
+msgstr "ID=4002502"
+
+msgctxt "21963bfb27bbece229a056e03c60dab9"
+msgid "금전 수집가"
+msgstr "I am broke"
+
+msgctxt "2cf8cdade6a54248a89903a6c7de6821"
+msgid "드랍 제니 습득량 17000 달성"
+msgstr "Pick up 17000 Zenny"
+
+msgctxt "a3d687cad8ac1937e977fd81d9672322"
+msgid "ID=4002503"
+msgstr "ID=4002503"
+
+msgctxt "57ccca708f44bb332cb711cdb4587893"
+msgid "작은 돈도 소중히 하라"
+msgstr "That is... a low amount"
+
+msgctxt "a8f79960477cbf022a6f443e2bf5d5db"
+msgid "드랍 제니 습득량 35000 달성"
+msgstr "Pick up 35000 Zenny"
+
+msgctxt "9104b3d1f8f5835ba9453c55c11b9394"
+msgid "ID=4002504"
+msgstr "ID=4002504"
+
+msgctxt "0df8bf8ba75741cab23a05430b04452c"
+msgid "놀이터에 가면 땅부터 파지"
+msgstr "Can I have more?"
+
+msgctxt "28c07b2ca829a2da9164e60fc3ec55a0"
+msgid "드랍 제니 습득량 200000 달성"
+msgstr "Pick up 200000 Zenny"
+
+msgctxt "2724aaedab3eedd73c9e122fce68d44c"
+msgid "ID=4002505"
+msgstr "ID=4002505"
+
+msgctxt "c2e719e6d1502710b42542cb561379eb"
+msgid "철봉 밑 노다지를 파보았는가"
+msgstr "More! More! More!"
+
+msgctxt "7d6378a67480f9d37eb73549ce07a2d4"
+msgid "드랍 제니 습득량 730000 달성"
+msgstr "Pick up 730000 Zenny"
+
+msgctxt "da47850a89c9647c3e36c1a0ebd5fe97"
+msgid "ID=4002506"
+msgstr "ID=4002506"
+
+msgctxt "7dc90ef5a1292faa8ce7f1ff5b4f9912"
+msgid "돈이 떨어지는 소리가 들려"
+msgstr "Millonair!"
+
+msgctxt "ea0119fb184dc6ca97fe5e76354ac1c1"
+msgid "드랍 제니 습득량 1670000 달성"
+msgstr "Pick up 1670000 Zenny"
+
+msgctxt "c13990f0f48622c36ae39034b5d5870f"
+msgid "ID=4002507"
+msgstr "ID=4002507"
+
+msgctxt "c794a447e231cc52285f8ccf565f8127"
+msgid "작은 돈의 중요성"
+msgstr "I will buy an island"
+
+msgctxt "bc2e33d0d8095f26dcfa50b44c15905f"
+msgid "드랍 제니 습득량 3340000 달성"
+msgstr "Pick up 3340000 Zenny"
+
+msgctxt "2271e108089bb245f884010c337d8f6e"
+msgid "ID=4002508"
+msgstr "ID=4002508"
+
+msgctxt "061f3f8a2324311bc51a8a9566115fd2"
+msgid "저축의 중요성"
+msgstr "And a ship... a big ship!"
+
+msgctxt "87bf3e3798b5faa138e2b803b46a6149"
+msgid "드랍 제니 습득량 5010000 달성"
+msgstr "Pick up 5010000 Zenny"
+
+msgctxt "13c3fe2cea1f658c2b7cbd7c2088b5fb"
+msgid "ID=4002509"
+msgstr "ID=4002509"
+
+msgctxt "59e5b657503cf2a509be67f17362a12f"
+msgid "대부호를 꿈꾸는 자"
+msgstr "Not enough!"
+
+msgctxt "f7086f331c7fe31f7f4c7fc9be5993b5"
+msgid "드랍 제니 습득량 7520000 달성"
+msgstr "Pick up 7520000 Zenny"
+
+msgctxt "a35346e2d40f27560fb59d9c49b890c8"
+msgid "ID=4002510"
+msgstr "ID=4002510"
+
+msgctxt "540072d2238ff16b0e16fad4c7cf0806"
+msgid "티끌 모아 태산"
+msgstr " All that money... will probably drowned by an enchanter"
+
+msgctxt "d21c19105753a4ed28aa9ab6f1dee21b"
+msgid "드랍 제니 습득량 11270000 달성"
+msgstr "Pick up 11270000 Zenny"
+
+msgctxt "68ffcd77dbbc8f1f7cfc3777cb78745b"
+msgid "ID=4002601"
+msgstr "ID=4002601"
+
+msgctxt "a6a11ce21e7d918fb1ca1cd5551e738f"
+msgid "반짝 거리는 걸 좋아시는 군요!"
+msgstr "What's this?"
+
+msgctxt "9a9eba613c665cc584f117b5fe96f5ea"
+msgid "에텔 습득량 350 달성"
+msgstr "Gather 350 Ether"
+
+msgctxt "075f76400dda339a177efe9cca0ec7b0"
+msgid "ID=4002602"
+msgstr "ID=4002602"
+
+msgctxt "2c75d1da85dafd7469dc391d9d94a9e0"
+msgid "강화를 시험해 보세요~"
+msgstr "Need more"
+
+msgctxt "e1a97fb0125698a02144fb6cfc84eb3b"
+msgid "에텔 습득량 4250 달성"
+msgstr "Gather 4250 Ether"
+
+msgctxt "eab8217d5e3955a85747ee73aa6d656f"
+msgid "ID=4002603"
+msgstr "ID=4002603"
+
+msgctxt "ecd7d98d7b58138fa0b68a57282d6eff"
+msgid "강화는 안하시는 건가요?"
+msgstr "I want to eat it"
+
+msgctxt "d31701a0cf01bfc990535de0be060670"
+msgid "에텔 습득량 8750 달성"
+msgstr "Gather 8750 Ether"
+
+msgctxt "a9ce5dfd018d65cea24cff973290a7ff"
+msgid "ID=4002604"
+msgstr "ID=4002604"
+
+msgctxt "3b961e2decb88adb4e05cf0be57ce921"
+msgid "아직 강화할 생각이...?"
+msgstr "Thats not enough..."
+
+msgctxt "72ae6d15bb4d6727ca133cf18f5c929e"
+msgid "에텔 습득량 50000 달성"
+msgstr "Gather 50000 Ether"
+
+msgctxt "c25ccc0804a18f9463d6c2e1432f1c04"
+msgid "ID=4002605"
+msgstr "ID=4002605"
+
+msgctxt "72b062ab86f9a2ee2df9aa2b9a251b8b"
+msgid "정말 강화는 안하는…?"
+msgstr "Without limits"
+
+msgctxt "6474ccec3465e85427368dd1b019745a"
+msgid "에텔 습득량 182500 달성"
+msgstr "Gather 182500 Ether"
+
+msgctxt "d3995a173d9ea0b34a9dd3c858bcf8a8"
+msgid "ID=4002606"
+msgstr "ID=4002606"
+
+msgctxt "cec229dcb9c32abb41965c65a1b7e245"
+msgid "강화 좀 하세요! "
+msgstr "Tasty!"
+
+msgctxt "f96e2d0b1bb754f3f512a8da3f618cad"
+msgid "에텔 습득량 417500 달성"
+msgstr "Gather 417500 Ether"
+
+msgctxt "fb4c38afba5c8ebd45cf9f21f830ee16"
+msgid "ID=4002607"
+msgstr "ID=4002607"
+
+msgctxt "3d0a0f039a39e9d47505983ce9659617"
+msgid "무기 진화는 안하시겠죠?"
+msgstr "Can I also cook it?"
+
+msgctxt "59bbdb5fa49274e10bae97911ad8e308"
+msgid "에텔 습득량 835000 달성"
+msgstr "Gather 835000 Ether"
+
+msgctxt "2ec79f563e09e23803bffbcde67cfec8"
+msgid "ID=4002608"
+msgstr "ID=4002608"
+
+msgctxt "b0f0afbf7bb474ee77f8f81004a77e78"
+msgid "동그란게 좋아서 모으시는건…."
+msgstr "That is quite enjoyable"
+
+msgctxt "ec425fb444fbb34a709484185abe52fe"
+msgid "에텔 습득량 1252500 달성"
+msgstr "Gather 1252500 Ether"
+
+msgctxt "d14f67aee130fdfc5ad5e1077b36828f"
+msgid "ID=4002609"
+msgstr "ID=4002609"
+
+msgctxt "7639fe431e5fdfeff6249419a8e2e37e"
+msgid "구슬치기를 좋아하시나요?"
+msgstr "My desire is high"
+
+msgctxt "3d16eea46b1d0c1cc3c91bcbdf9137f1"
+msgid "에텔 습득량 1880000 달성"
+msgstr "Gather 1880000 Ether"
+
+msgctxt "d3bdf96c8e8ce1353fa13bcd2db801a7"
+msgid "ID=4002610"
+msgstr "ID=4002610"
+
+msgctxt "0832e4ca909d919aff4e6877dc1be1cc"
+msgid "에텔 수집가"
+msgstr "Enchantment, here I come!"
+
+msgctxt "6f254f8bbf6dadc2ee961c00fddd44e8"
+msgid "에텔 습득량 2817500 달성"
+msgstr "Gather 2817500 Ether"
+
+msgctxt "fb8f8a8f0b73b554340a77fc305eb0a6"
+msgid "ID=4002801"
+msgstr "ID=4002801"
+
+msgctxt "54d30f44b3005f86959e75b57001ebcd"
+msgid "전투의 새로운 경지를 맛보다"
+msgstr "A new currency?"
+
+msgctxt "66b3ae5d75b4b46a983e669b956fee19"
+msgid "BP 습득량 100 달성"
+msgstr "Gather 100 BP"
+
+msgctxt "f80f88692e3ae81a8de909a9e3450bdb"
+msgid "ID=4002802"
+msgstr "ID=4002802"
+
+msgctxt "e61f023a30183c62133cf886a4a4a434"
+msgid "조금 어렵지만 괜찮아"
+msgstr "I killed something or someone"
+
+msgctxt "d0ca22d96a73e54553d38dd613e33206"
+msgid "BP 습득량 1000 달성"
+msgstr "Gather 1000 BP"
+
+msgctxt "13bfb389e99e914ccf35426673646deb"
+msgid "ID=4002803"
+msgstr "ID=4002803"
+
+msgctxt "54b6c31f34700a536fb6236cfa375cfd"
+msgid "조금 힘들지만 괜찮아"
+msgstr "Am I a murder?"
+
+msgctxt "ab33857fbc5c092cdd68f2c8c78e2f1f"
+msgid "BP 습득량 3000 달성"
+msgstr "Gather 3000 BP"
+
+msgctxt "07c44aff3bc66084acd02f45b7f92641"
+msgid "ID=4002804"
+msgstr "ID=4002804"
+
+msgctxt "49f21f2052326549e5e22425f4656f1b"
+msgid "슬슬 익숙해지는데?"
+msgstr "Do I get used to it?"
+
+msgctxt "5cb9a0b06b89feac55594f6d8af5cbbf"
+msgid "BP 습득량 5000 달성"
+msgstr "Gather 5000 BP"
+
+msgctxt "e1175a5b2b1720fa6eb165bafff3fccb"
+msgid "ID=4002805"
+msgstr "ID=4002805"
+
+msgctxt "318771ee56b32e7eb423a0d73e8bfa76"
+msgid "슬슬 여유로워지는데?"
+msgstr "Victory!"
+
+msgctxt "d1bb47d81b112f0c56d8a67af9a0eb3e"
+msgid "BP 습득량 10000 달성"
+msgstr "Gather 10000 BP"
+
+msgctxt "2590d7adce6916f79fd90bc7a12a32d2"
+msgid "ID=4002806"
+msgstr "ID=4002806"
+
+msgctxt "5b7aaa14065002bbb06d71f4a82094b3"
+msgid "이젠 즐길 수 있을 거 같아"
+msgstr "My kingdom"
+
+msgctxt "a50c68502ac5e1a5385835df6c122570"
+msgid "BP 습득량 15000 달성"
+msgstr "Gather 15000 BP"
+
+msgctxt "2f0c8a557a249a5bb04c6494853a1aeb"
+msgid "ID=4002807"
+msgstr "ID=4002807"
+
+msgctxt "83bb3384d50903b115126fe8da73cf7c"
+msgid "이젠 적응된 것 같아"
+msgstr "I think i'm getting used to it."
+
+msgctxt "8c5438e5e2fe94776ba333c3d5a8396a"
+msgid "BP 습득량 30000 달성"
+msgstr "Gather 30000 BP"
+
+msgctxt "99856383490656bd7844c2115518abc5"
+msgid "ID=4002808"
+msgstr "ID=4002808"
+
+msgctxt "d7cf704d311e307a82fc4dae5c697148"
+msgid "이젠 노련해진 것 같아"
+msgstr "Show me a weakness"
+
+msgctxt "bc82faeb8fe4cbef9b26a2ff4495c8c6"
+msgid "BP 습득량 35000 달성"
+msgstr "Gather 35000 BP"
+
+msgctxt "8aa0637af2f202b22164057022d2226c"
+msgid "ID=4002809"
+msgstr "ID=4002809"
+
+msgctxt "3952169398b2d22439013c493a83a3b7"
+msgid "정말 능숙해진 것 같아"
+msgstr "For Glory!"
+
+msgctxt "e4b78b60b793a5adc9d27bfc85812c1b"
+msgid "BP 습득량 40000 달성"
+msgstr "Gather 40000 BP"
+
+msgctxt "454236c901dfc2111fa15d8b321976f3"
+msgid "ID=4002810"
+msgstr "ID=4002810"
+
+msgctxt "7cbee9137db22451c613b1122fe67264"
+msgid "능숙한 전투로 인정받다"
+msgstr "I killed so many"
+
+msgctxt "2248b206b12669af25e74cc1e0e5fd78"
+msgid "BP 습득량 50000 달성"
+msgstr "Gather 50000 BP"
+
+msgctxt "8c1c4fbfa081f69cb40bece1f419447f"
+msgid "ID=4002901"
+msgstr "ID=4002901"
+
+msgctxt "e4bda89e9bd2d753e5093559666ff6ce"
+msgid "태동하는 힘"
+msgstr "Level 10"
+
+msgctxt "79fbaebb138a3f41f4513d0f9be69909"
+msgid "레벨 10 달성"
+msgstr "Reach Level 10"
+
+msgctxt "e91f7260ebbbf0dee8fc691de7da2c61"
+msgid "ID=4002902"
+msgstr "ID=4002902"
+
+msgctxt "ae736ca57d1a8bc6a8b7ec3153cceb9c"
+msgid "발아하는 힘"
+msgstr "Level 20"
+
+msgctxt "b5d08a12565f801f048d23243f8c2c14"
+msgid "레벨 20 달성"
+msgstr "Reach Level 20"
+
+msgctxt "57913ec3ba124a9085f0d3d2048fa06d"
+msgid "ID=4002903"
+msgstr "ID=4002903"
+
+msgctxt "0196388efd3deb2e02d74e759b411762"
+msgid "자라나는 힘"
+msgstr "Level 30"
+
+msgctxt "6832ef68979d08f97a5bb14ac22d8d45"
+msgid "레벨 30 달성"
+msgstr "Reach Level 30"
+
+msgctxt "fa5d5ee5dc6aa4b679f047218edb9b30"
+msgid "ID=4002904"
+msgstr "ID=4002904"
+
+msgctxt "2f9f5982f3c2f140cf88613e1659e2d9"
+msgid "피어나는 힘"
+msgstr "Level 40"
+
+msgctxt "5df96520f2b0dd0d85eb88686a6bc271"
+msgid "레벨 40 달성"
+msgstr "Reach Level 40"
+
+msgctxt "7cc41932686fd1020d4f16ad721b574a"
+msgid "ID=4002905"
+msgstr "ID=4002905"
+
+msgctxt "d0fc3e0b33c6794e802566f3e3f6b756"
+msgid "만발하는 힘"
+msgstr "Level 50"
+
+msgctxt "71b7a5aef3a83e4db9d5f98ad4e2e034"
+msgid "레벨 50 달성"
+msgstr "Reach Level 50"
+
+msgctxt "88a34b03da8a287923e8ff422b3c160e"
+msgid "ID=4002907"
+msgstr "ID=4002907"
+
+msgctxt "b30af71bc686795a12e2f85674469277"
+msgid "하늘 높은 줄 모른다 (7)"
+msgstr "Level 70"
+
+msgctxt "85b3e3ac53386d8e4fd1b082631b87ba"
+msgid "레벨 70 달성"
+msgstr "Reach Level 70"
+
+msgctxt "fde61a94a1d3b07c607d5d084a746fe1"
+msgid "ID=4002908"
+msgstr "ID=4002908"
+
+msgctxt "e2892ad8998163f52fce42879f36d6a1"
+msgid "하늘 높은 줄 모른다 (8)"
+msgstr "Level 80"
+
+msgctxt "7978af77128c59450b8fc14b250bde57"
+msgid "레벨 80 달성"
+msgstr "Reach Level 80"
+
+msgctxt "789cac4f136114bcb5f2650cf0554613"
+msgid "ID=4002909"
+msgstr "ID=4002909"
+
+msgctxt "309f4619c13484cde323457194b4adbd"
+msgid "하늘 높은 줄 모른다 (9)"
+msgstr "Level 90"
+
+msgctxt "9d5077ac42098a7d5ae16ee818505dd4"
+msgid "레벨 90 달성"
+msgstr "Reach Level 90"
+
+msgctxt "94f0a948649df5b5e5553939df0d0afa"
+msgid "ID=4002910"
+msgstr "ID=4002910"
+
+msgctxt "2bb03510ed5eab5bc7dc191e2482e1a0"
+msgid "하늘 높은 줄 모른다 (10)"
+msgstr "Level 100"
+
+msgctxt "fae324c02ead22262e55f9044b5bf3fe"
+msgid "레벨 100 달성"
+msgstr "Reach Level 100"
+
+msgctxt "1582a8a6cb18968c8b1dc44aa63c6e5b"
+msgid "ID=4003001"
+msgstr "ID=4003001"
+
+msgctxt "4a84e58d143e7fb086ad98db93ca2175"
+msgid "잠시 먼곳을 바라봅니다"
+msgstr "Time is ticking"
+
+msgctxt "0729aef5668e4db976937a095f7feafe"
+msgid "누적 플레이타임 5시간 달성"
+msgstr "Play 5 hours"
+
+msgctxt "4f537a6ca8e774ff049dbace3bc295a0"
+msgid "ID=4003002"
+msgstr "ID=4003002"
+
+msgctxt "37b73ec9d530cb669700ac2e9d818733"
+msgid "잠시 손목을 가볍게 풀어줍니다"
+msgstr "There we go~~"
+
+msgctxt "ff04c7652e15fa9dfc4b9bd04b0ea3b7"
+msgid "누적 플레이타임 10시간 달성"
+msgstr "Play 10 hours"
+
+msgctxt "4ec74ea4e329890f08ff8c8552c54eb4"
+msgid "ID=4003003"
+msgstr "ID=4003003"
+
+msgctxt "acb0e7d6243b105546c151eb08388bbd"
+msgid "클라우드림에서 1일이 지났습니다"
+msgstr "Time flies"
+
+msgctxt "76e7e8af8bda3438af256ff0c3916eae"
+msgid "누적 플레이타임 24시간 달성"
+msgstr "Play 24 hours"
+
+msgctxt "d0f162242ab7756a72cb7127638740c3"
+msgid "ID=4003004"
+msgstr "ID=4003004"
+
+msgctxt "6de4a11a306424e60b8ab10f0c83005f"
+msgid "천천히 목을 돌려줍니다"
+msgstr "One more time, okay?"
+
+msgctxt "8e21d13c9ea017b303a928e59a984952"
+msgid "누적 플레이타임 50시간 달성"
+msgstr "Play 50 hours"
+
+msgctxt "57ab686dc43a281d8b2712facff396f7"
+msgid "ID=4003005"
+msgstr "ID=4003005"
+
+msgctxt "2b7e5fc7d8405f562b46a97c76ea491e"
+msgid "잠시 일어나 스트레칭을 해봅니다"
+msgstr "That is a good amount"
+
+msgctxt "3366b210f2be8473d2551414821ca022"
+msgid "누적 플레이타임 100시간 달성"
+msgstr "Play 100 hours"
+
+msgctxt "92698a30f0c86f09adf558ea70c413bd"
+msgid "ID=4003006"
+msgstr "ID=4003006"
+
+msgctxt "e7fdcdcd086d17f7715cda2d34ed1c4f"
+msgid "클라우드림에서 150시간 경과"
+msgstr "I can go further"
+
+msgctxt "4b4fb34742f3d87de30454ff05bc302b"
+msgid "누적 플레이타임 150시간 달성"
+msgstr "Play 150 hours"
+
+msgctxt "150d3c9730f7033923e3fc82d67ba755"
+msgid "ID=4003007"
+msgstr "ID=4003007"
+
+msgctxt "898cc5a03a8e5b18bafc517ac1c8c1a9"
+msgid "잠시 밥을 드셔도 좋습니다"
+msgstr "I doubled it!"
+
+msgctxt "7ecd02d41dfdb47240551d6b285a0b68"
+msgid "누적 플레이타임 300시간 달성"
+msgstr "Play 300 hours"
+
+msgctxt "7ab14464bfc9b348a9b21c0a119cb770"
+msgid "ID=4003008"
+msgstr "ID=4003008"
+
+msgctxt "0e230be9fe8c6c3f0fed5378580b156f"
+msgid "잠시 주무셔도 좋습니다"
+msgstr "I am not sleepy "
+
+msgctxt "073f23af96136d27295d948d454fe628"
+msgid "누적 플레이타임 600시간 달성"
+msgstr "Play 600 hours"
+
+msgctxt "d0a94fa5cb409f29b1e6010ad6fe4831"
+msgid "ID=4003009"
+msgstr "ID=4003009"
+
+msgctxt "717d0387f15d25e16498d4695eb5aab3"
+msgid "클라우드림에서 50일이 지났습니다"
+msgstr "Time capsule"
+
+msgctxt "711743dbb600db7b16370a2ce51c718d"
+msgid "누적 플레이타임 1200시간 달성"
+msgstr "Play 1200 hours"
+
+msgctxt "3705b3ec686171bb1fa27d850afa803e"
+msgid "ID=4003010"
+msgstr "ID=4003010"
+
+msgctxt "b4ee359bc5c9962385f99b71793e12a1"
+msgid "축! 100일!!"
+msgstr "Oops, what time is it?"
+
+msgctxt "0ec0679d68f72046dc5f4647515f2cbb"
+msgid "누적 플레이타임 2400시간 달성"
+msgstr "Play 2400 hours"
+
+msgctxt "b3c2107ff435336a017d70ea204f4675"
+msgid "ID=4003101"
+msgstr "ID=4003101"
+
+msgctxt "f4eee037bca480c4ca002f65f5ec2743"
+msgid "강화를 경험하다"
+msgstr "Enhance!"
+
+msgctxt "0ac5305677465e886d5d9ece5389754a"
+msgid "강화 1회 시도"
+msgstr "Enhance 1 time"
+
+msgctxt "ae7680ad333acd1f9f418873a508adeb"
+msgid "ID=4003102"
+msgstr "ID=4003102"
+
+msgctxt "e6d972399ccbf496ad41e94a31788c95"
+msgid "강화하니 든든하네"
+msgstr "It doesn't feel different"
+
+msgctxt "c0089aa0c422586b5b42f34728fcdb76"
+msgid "강화 10회 시도"
+msgstr "Enhance 10 times"
+
+msgctxt "1eb65cd06ed64936346f0cf4b24c476d"
+msgid "ID=4003103"
+msgstr "ID=4003103"
+
+msgctxt "00443ca85fdc249aeb1f561ed145e241"
+msgid "좀 강해진 것 같아"
+msgstr "Maybe... if I do this?"
+
+msgctxt "3d9a11de606830724a40eac2b5a1f83f"
+msgid "강화 20회 시도"
+msgstr "Enhance 20 times"
+
+msgctxt "c4be48a92cb65856f00e8c31947c3571"
+msgid "ID=4003104"
+msgstr "ID=4003104"
+
+msgctxt "888a71342281c96ea2d2986f3d88eec1"
+msgid "무기가 좀 튼튼해진 것 같아!"
+msgstr "That is now my hobby"
+
+msgctxt "6f3db62a2168619f5747404a488ed2b6"
+msgid "강화 30회 시도"
+msgstr "Enhance 30 times"
+
+msgctxt "1f437b1c2e880972da4dbaa6f8d92301"
+msgid "ID=4003105"
+msgstr "ID=4003105"
+
+msgctxt "dc55e39e623e6992516cbd9af7f8b08f"
+msgid "무기에서 빛이나네"
+msgstr "Look at that color!"
+
+msgctxt "763557b995a8dacb51aef612b4453b53"
+msgid "강화 50회 시도"
+msgstr "Enhance 50 times"
+
+msgctxt "411475df6af0f288166d508d92f96948"
+msgid "ID=4003106"
+msgstr "ID=4003106"
+
+msgctxt "bd0e1a002c61abbc72a3ba33379e5fdd"
+msgid "무기에서 후광이!"
+msgstr "Can I shine more?"
+
+msgctxt "64f60563d7b7c72a61b0666506d2708e"
+msgid "강화 70회 시도"
+msgstr "Enhance 70 times"
+
+msgctxt "772ea18765e7172b1207e53b761ec8c5"
+msgid "ID=4003107"
+msgstr "ID=4003107"
+
+msgctxt "9aa8a9b825dd74734126b5b8d9d03df0"
+msgid "강화 없인 못 살아"
+msgstr "Where is my ether?"
+
+msgctxt "33b98e4a7e2142496a3d9128fea59556"
+msgid "강화 100회 시도"
+msgstr "Enhance 100 times"
+
+msgctxt "1954f0969659398edd79f8c75be27cf4"
+msgid "ID=4003108"
+msgstr "ID=4003108"
+
+msgctxt "6569895fab03bcc4ad99e375281ce66f"
+msgid "강화의 끝을 보자!"
+msgstr "And where is my Zenny?"
+
+msgctxt "8d2733be3161f7187d0dc0ba73824ca4"
+msgid "강화 200회 시도"
+msgstr "Enhance 200 times"
+
+msgctxt "f0656eb95b44e2e7b8e54ef1a156fe7c"
+msgid "ID=4003109"
+msgstr "ID=4003109"
+
+msgctxt "84ce3eeeed7223c27ffa7d1c90ba9a02"
+msgid "강화 맹신자"
+msgstr "Still on my way"
+
+msgctxt "8df5f10fc7b63a7c491989504b3896ee"
+msgid "강화 300회 시도"
+msgstr "Enhance 300 times"
+
+msgctxt "95e15d7e7cf67297df4f2c766e50a124"
+msgid "ID=4003110"
+msgstr "ID=4003110"
+
+msgctxt "51062cf5be37fe38e432a09cdd1c1bbd"
+msgid "골든 해커"
+msgstr "There we go~"
+
+msgctxt "59d8c51a8a4d304d228edd96691f92d1"
+msgid "강화 500회 시도"
+msgstr "Enhance 500 times"
+
+msgctxt "acfca8776eb37dad0c65673898306776"
+msgid "ID=4003201"
+msgstr "ID=4003201"
+
+msgctxt "850961e6ecd1afcbf7d2a2ccf8ba0b01"
+msgid "다음 기회에"
+msgstr "What?! Fooking Raining, BUFF RATES "
+
+msgctxt "44e471a596f7a039eab57ca2037dffd6"
+msgid "강화 1회 실패"
+msgstr "Fail enhancing 1 time"
+
+msgctxt "2792eff38c585b9f3b6552fcad81d41d"
+msgid "ID=4003202"
+msgstr "ID=4003202"
+
+msgctxt "5e540c2623d128390f86cef44e696246"
+msgid "괜찮아 다시 도전하면 되지"
+msgstr "Let me try again"
+
+msgctxt "3d5d8b5bfc4ed82f2f51f2984f6a4594"
+msgid "강화 10회 실패"
+msgstr "Fail enhancing 10 times"
+
+msgctxt "df402fecf8b4ea51e4de5ac35910b4d9"
+msgid "ID=4003203"
+msgstr "ID=4003203"
+
+msgctxt "696667a24a972868f3143a1e603d2a16"
+msgid "다시 도전하면 될까?"
+msgstr "That is not true, is it?"
+
+msgctxt "d2c4bed5ce2fe6feb9bf70e07a03e583"
+msgid "강화 20회 실패"
+msgstr "Fail enhancing 20 times"
+
+msgctxt "20541b87131f4fbbbed76e5c03618960"
+msgid "ID=4003204"
+msgstr "ID=4003204"
+
+msgctxt "87cbbafda951168cb7a8aded5e7dcd34"
+msgid "내가 잃은 돈은 얼마인가"
+msgstr "How to lose Zenny I"
+
+msgctxt "5d66c2806ebf76e825b9f95460cf7aaa"
+msgid "강화 30회 실패"
+msgstr "Fail enhancing 30 times"
+
+msgctxt "165188de68cc0f2279b2eb92561ea636"
+msgid "ID=4003205"
+msgstr "ID=4003205"
+
+msgctxt "6a50e117ce90ea4d030043475dc7a868"
+msgid "내가 잃은 재료는 얼마인가"
+msgstr "How to lose Zenny II"
+
+msgctxt "3a0ea365bcab433f430c98f88f20e6a1"
+msgid "강화 50회 실패"
+msgstr "Fail enhancing 50 times"
+
+msgctxt "703f4161e877652af966656ae19a7e6c"
+msgid "ID=4003206"
+msgstr "ID=4003206"
+
+msgctxt "dacaae6afa3d7c4d8ce38c573eefd5f3"
+msgid "이것이 꽝인가"
+msgstr "Aaaaaaaaaaah!"
+
+msgctxt "1fc637a1a5385b4685b0ca423c2af246"
+msgid "강화 70회 실패"
+msgstr "Fail enhancing 70 times"
+
+msgctxt "c5435199b4d89038ae43304ec17d055a"
+msgid "ID=4003207"
+msgstr "ID=4003207"
+
+msgctxt "039a8cd991632f329c9e720fae558d1e"
+msgid "악운은 어디까지 인가"
+msgstr "Can I press Alt+F4?!"
+
+msgctxt "1b42b5d81462ef17811af0846258e711"
+msgid "강화 100회 실패"
+msgstr "Fail enhancing 100 times"
+
+msgctxt "de8721d71fd0a9c069c4a105e783e177"
+msgid "ID=4003208"
+msgstr "ID=4003208"
+
+msgctxt "168a33beccc9756263f6948b90704c9c"
+msgid "강화가 아니라 약화"
+msgstr "I am cursed"
+
+msgctxt "50e27956d02bc637e7f3ec395eb2732c"
+msgid "강화 150회 실패"
+msgstr "Fail enhancing 150 times"
+
+msgctxt "148c230e6ddd68f6cbe03f95f852ec78"
+msgid "ID=4003209"
+msgstr "ID=4003209"
+
+msgctxt "3340638330cb8744154e626009198636"
+msgid "망금술을 시전했다"
+msgstr "How to lose Ether and Zenny I"
+
+msgctxt "fdbff33b6c7f94572043c3b12d388ccc"
+msgid "강화 200회 실패"
+msgstr "Fail enhancing 200 times"
+
+msgctxt "d6848d3fe255aed4b519952239da6aba"
+msgid "ID=4003210"
+msgstr "ID=4003210"
+
+msgctxt "0f9ef032d7cabe1ccbe55c22b7d3ac1c"
+msgid "레전드 오브 망금술사"
+msgstr "How to lose Ether and Zenny II"
+
+msgctxt "318ad24c689201fa9926e5a059347896"
+msgid "강화 300회 실패"
+msgstr "Fail enhancing 300 times"
+
+msgctxt "12bfd7048c0bda3b2edc25defa4691c5"
+msgid "ID=4003301"
+msgstr "ID=4003301"
+
+msgctxt "02ec26b47643bfe189e72282ef3ba5b9"
+msgid "제작을 경험하다"
+msgstr "A blacksmith!"
+
+msgctxt "09473c0a1b477f1a71c7c8e6471856e4"
+msgid "제작 1회 시도"
+msgstr "Craft 1 time"
+
+msgctxt "e32581db15b55cae72436d00edefe854"
+msgid "ID=4003302"
+msgstr "ID=4003302"
+
+msgctxt "6c40f9897eb500a63145a2535d4f89b2"
+msgid "좋은 물건 부탁해요"
+msgstr "I like it, when it is done"
+
+msgctxt "d620d9af444aed8c6f19e44ebd4c22f1"
+msgid "제작 10회 시도"
+msgstr "Craft 10 times"
+
+msgctxt "3071757a9042a355562007123cbfc739"
+msgid "ID=4003303"
+msgstr "ID=4003303"
+
+msgctxt "facd7b42396731b2dec50114c2b80b0a"
+msgid "나도 한번 배워볼까"
+msgstr "I shouldn't stop here"
+
+msgctxt "042fa8920bb8abf34a0bf3b5e45f7abd"
+msgid "제작 20회 시도"
+msgstr "Craft 20 times"
+
+msgctxt "1cc1877d6cef13c89ec668ecfce14718"
+msgid "ID=4003304"
+msgstr "ID=4003304"
+
+msgctxt "4932939afbb8ce8796d1a500c4ecacf4"
+msgid "재료 구해오는 것도 힘이 든다"
+msgstr "All my life"
+
+msgctxt "219f7bbc933da8ab7dad572485ded2ee"
+msgid "제작 30회 시도"
+msgstr "Craft 30 times"
+
+msgctxt "4b4897996ebd4b6b695736e068626fb9"
+msgid "ID=4003305"
+msgstr "ID=4003305"
+
+msgctxt "b0f8cba2ed21a08554dfca3e3fd4eb96"
+msgid "돈을 마련하는 것도 힘이 든다"
+msgstr "I was born for this"
+
+msgctxt "e3f1664f768ddea90b6439681612e8f8"
+msgid "제작 50회 시도"
+msgstr "Craft 50 times"
+
+msgctxt "78d2d6882ff3f0270537113d30d6785a"
+msgid "ID=4003306"
+msgstr "ID=4003306"
+
+msgctxt "4e4644e48d5af3e62eae96dcc8515729"
+msgid "제작 후원자"
+msgstr "Need more data"
+
+msgctxt "6684197b426cc0b88315331b491a3c2a"
+msgid "제작 70회 시도"
+msgstr "Craft 70 times"
+
+msgctxt "c6f7bcb1c99440ddd295177f0402b507"
+msgid "ID=4003307"
+msgstr "ID=4003307"
+
+msgctxt "1e46fffbcf43ab1cbc26a71d6246ee12"
+msgid "연금술에 반하다"
+msgstr "Should be good"
+
+msgctxt "c70ad930ef0146fee84814dd309bae91"
+msgid "제작 100회 시도"
+msgstr "Craft 100 times"
+
+msgctxt "2f40913cb54bf2c1d87cadc93231bc29"
+msgid "ID=4003308"
+msgstr "ID=4003308"
+
+msgctxt "f1875d4e10df8ed322276a345d2f22a5"
+msgid "연금술에 빠지다"
+msgstr "Let him work to death"
+
+msgctxt "778a68612bd77b35e71810ae2638cc3e"
+msgid "제작 200회 시도"
+msgstr "Craft 200 times"
+
+msgctxt "06994ef37b9a0377885de219e879fbb5"
+msgid "ID=4003309"
+msgstr "ID=4003309"
+
+msgctxt "bd51f6d14cb8ab4bf48b40854d027e89"
+msgid "이젠 나도 연금술사"
+msgstr "Master of the Blacksmiths"
+
+msgctxt "a62933ed289436fe6f192d16ffb29954"
+msgid "제작 300회 시도"
+msgstr "Can craft mostly anything"
+
+msgctxt "ddfc000dfc4ba9d9b77acb55ed57a050"
+msgid "ID=4003310"
+msgstr "ID=4003310"
+
+msgctxt "f95425bdd4e0f1e02e1c6af070f23524"
+msgid "황금의 연금술사"
+msgstr "Master of the Blacksmiths"
+
+msgctxt "7f27bcffb3c8720cbdd18b5bbc97e38f"
+msgid "제작 500회 시도"
+msgstr "Craft 500 times"
+
+msgctxt "d86831e5670f2d94873251a43e2f1350"
+msgid "ID=4003401"
+msgstr "ID=4003401"
+
+msgctxt "8c39c23d5b5215c35f98358c5d01c517"
+msgid "이게 분해된 거 맞죠?"
+msgstr "I broke it"
+
+msgctxt "bd52e80ff28e3db35ed432c26c0a03f1"
+msgid "분해 1회 시도"
+msgstr "Dismantle 1 time"
+
+msgctxt "91ff9d16a13b4ceb86d745a1410f34ef"
+msgid "ID=4003402"
+msgstr "ID=4003402"
+
+msgctxt "c95e9a46c1111a143564afed04b567d0"
+msgid "분해 하는 거 참 쉽죠?"
+msgstr "Can I do it more then once?"
+
+msgctxt "3d499f2b267b83034d402cf2486a90fa"
+msgid "분해 10회 시도"
+msgstr "Dismantle 10 times"
+
+msgctxt "1387622ea0fdf442f9f26616af8672a3"
+msgid "ID=4003403"
+msgstr "ID=4003403"
+
+msgctxt "c5a181166d5d960704314e2aa2d833c3"
+msgid "분해하는 재미를 느끼다"
+msgstr "What do I get?"
+
+msgctxt "166b09b1d44ba0f48a448d8957552626"
+msgid "분해 20회 시도"
+msgstr "Dismantle 20 times"
+
+msgctxt "d1212fef37731cb1797ac3064d002860"
+msgid "ID=4003404"
+msgstr "ID=4003404"
+
+msgctxt "be20a15729722d075de9a7f371b008b7"
+msgid "신비하고 아름다운 분해의 세계"
+msgstr "There is no end"
+
+msgctxt "885f23e9737283e4bdc012d093fe2600"
+msgid "분해 50회 시도"
+msgstr "Dismantle 50 times"
+
+msgctxt "01c6ab62a8b10228199b9de2f02791ec"
+msgid "ID=4003405"
+msgstr "ID=4003405"
+
+msgctxt "fcb03bc0287a80b79942de98e89e66dc"
+msgid "해체하는 거 아니에요"
+msgstr "It is not only dismantling..."
+
+msgctxt "bef52913ca17aaf013de858ed43fa24b"
+msgid "분해 70회 시도"
+msgstr "Dismantle 70 times"
+
+msgctxt "86f8f7aea9f3f1938537185580a2752e"
+msgid "ID=4003406"
+msgstr "ID=4003406"
+
+msgctxt "8f16dec5d9f8fa3d6895ea1d76b9fa57"
+msgid "되돌리는 건 불가능"
+msgstr "...it is also art"
+
+msgctxt "8878cc14a53949ebeb3f814fa9949861"
+msgid "분해 100회 시도"
+msgstr "Dismantle 100 times"
+
+msgctxt "b982f031cd845e1da37404fdda2029c9"
+msgid "ID=4003407"
+msgstr "ID=4003407"
+
+msgctxt "1853650b9fdcbdc19229343515c48269"
+msgid "제작보다 분해가 좋아"
+msgstr "Addicted"
+
+msgctxt "10282df47c8c1f2f83510a071bf6c537"
+msgid "분해 250회 시도"
+msgstr "Dismantle 250 times"
+
+msgctxt "e0ca31cc9efe1dacfab460c8cb1da0d0"
+msgid "ID=4003408"
+msgstr "ID=4003408"
+
+msgctxt "c832e2ca36a9cc3560fff5471099d828"
+msgid "분해는 나의 힘"
+msgstr "Can't stop anymore"
+
+msgctxt "4463c2a05dd13eba2c896b0a6dda242b"
+msgid "분해 500회 시도"
+msgstr "Dismantle 500 times"
+
+msgctxt "6c5ef8db2cdd5f1c993fdfec94c25a8d"
+msgid "ID=4003409"
+msgstr "ID=4003409"
+
+msgctxt "efd78dc68a00ea1379be53fbee72a818"
+msgid "이제 손만 대면 분해될 거 같아"
+msgstr "A lot of stuff"
+
+msgctxt "858a8ef46a640773b973cd28d769ceb8"
+msgid "분해 750회 시도"
+msgstr "Dismantle 750 times"
+
+msgctxt "1e9ab9d55195f8484fbafb22ad0467a5"
+msgid "ID=4003410"
+msgstr "ID=4003410"
+
+msgctxt "043e6b1ac1b639fa9637d6c341fad9ca"
+msgid "마이너스의 손"
+msgstr "Everything broke and now?"
+
+msgctxt "881b280c36b268ef7096e9254dfa961f"
+msgid "분해 1000회 시도"
+msgstr "Dismantle 1000 times"
+
+msgctxt "29edfcce4d3e99fd8260916dbc6f1b0f"
+msgid "ID=4003501"
+msgstr "ID=4003501"
+
+msgctxt "3ae48dbcf2f26cce16eab261eafe6117"
+msgid "거래소 이용에 감사드립니다"
+msgstr "Market"
+
+msgctxt "54390982f8b1945cc9d9152a2614ace8"
+msgid "거래소에서 1회 구매 성공"
+msgstr "Buy 1 Item at the market"
+
+msgctxt "b6476c531e770a60d3d2da93635abd77"
+msgid "ID=4003502"
+msgstr "ID=4003502"
+
+msgctxt "da30a8c0a612b50a018b0916ed57e327"
+msgid "싸게 산 거 맞겠지?"
+msgstr "Can I buy more?"
+
+msgctxt "afa90d55d5ca7180e04566d9c37987c8"
+msgid "거래소에서 10회 구매 성공"
+msgstr "Buy 10 Items at the market"
+
+msgctxt "f91b82009be05fb65a432025d10085b7"
+msgid "ID=4003503"
+msgstr "ID=4003503"
+
+msgctxt "757b944dc566e3ee0d7227e716524055"
+msgid "가격 비교는 해보셨나요?"
+msgstr "I have a lot of money"
+
+msgctxt "e1d013098782dc5ae56518b0dbbf1822"
+msgid "거래소에서 30회 구매 성공"
+msgstr "Buy 30 Items at the market"
+
+msgctxt "978d7ea35b9d93444261c3223d64f796"
+msgid "ID=4003504"
+msgstr "ID=4003504"
+
+msgctxt "861c59900611862c46269d4b9aabf88d"
+msgid "구매하신 물건은 마음에 드시나요?"
+msgstr "That is my style"
+
+msgctxt "d07b84674641cdc03fdff45e4f852b16"
+msgid "거래소에서 50회 구매 성공"
+msgstr "Buy 50 Items at the market"
+
+msgctxt "1394102e9bfec21b4fb9d80203225d75"
+msgid "ID=4003505"
+msgstr "ID=4003505"
+
+msgctxt "fd7359646f56887872690f2e4e47f57e"
+msgid "거래의 맛을 알다"
+msgstr "Bags are full"
+
+msgctxt "306039533dd36a5c719774bd44539f76"
+msgid "거래소에서 70회 구매 성공"
+msgstr "Buy 70 Items at the market"
+
+msgctxt "4b67e0781358d1a7210632447e9c8c49"
+msgid "ID=4003506"
+msgstr "ID=4003506"
+
+msgctxt "b0dc0882d8ed848633a55944f67f6682"
+msgid "능숙한 거래자"
+msgstr "I still buy more"
+
+msgctxt "08b88fc134bf4b1972f6dc332f517dd9"
+msgid "거래소에서 100회 구매 성공"
+msgstr "Buy 100 Items at the market"
+
+msgctxt "f7803ba58d356638cd46200daf1f6f07"
+msgid "ID=4003507"
+msgstr "ID=4003507"
+
+msgctxt "b01ff370bf4858062d4ea31c13dfeb3d"
+msgid "누구보다 싸게 살 수 있을 것 같다"
+msgstr "Second bag~"
+
+msgctxt "201728e37cdb5edee8c1670e457375c5"
+msgid "거래소에서 300회 구매 성공"
+msgstr "Buy 300 Items at the market"
+
+msgctxt "3019b794f2eca9675d6991b5288cf7d4"
+msgid "ID=4003508"
+msgstr "ID=4003508"
+
+msgctxt "c8b247f6c17fc59846fa51b63011c82e"
+msgid "돈의 흐름을 느끼다"
+msgstr "Can't have enough "
+
+msgctxt "9a3cae04fdd12da4752409800c22b4ea"
+msgid "거래소에서 500회 구매 성공"
+msgstr "Buy 500 Items at the market"
+
+msgctxt "b6d4a2df04cd91bd416c21159490d64f"
+msgid "ID=4003509"
+msgstr "ID=4003509"
+
+msgctxt "baf72ed8b025630175036b015221a4b1"
+msgid "본능으로 쇼핑하다"
+msgstr "Not even at the end"
+
+msgctxt "8ae5d1dbba0c4d365d218ca6c5912437"
+msgid "거래소에서 700회 구매 성공"
+msgstr "Buy 700 Items at the market"
+
+msgctxt "1af29e76006f37e2e99beb82ae3da4e6"
+msgid "ID=4003510"
+msgstr "ID=4003510"
+
+msgctxt "f991bb2eef436d68a7b89af101a86d21"
+msgid "쇼핑의 제왕"
+msgstr "Shopping Queen"
+
+msgctxt "9960d80132198d575c01772af8e4666a"
+msgid "거래소에서 1000회 구매 성공"
+msgstr "Buy 1000 Items at the market"
+
+msgctxt "1b236f9581eb34d5bc8e3b84605e2dac"
+msgid "ID=4003601"
+msgstr "ID=4003601"
+
+msgctxt "4b50d058e24e271edec41ae120d5bf8c"
+msgid "백광의 수호자"
+msgstr "Guardian"
+
+msgctxt "81fa22fefa9487b4bcce0bd101c345cd"
+msgid "서포터 [미리엄] 획득"
+msgstr "Recruit Supporter [Miriam]"
+
+msgctxt "4dd47b2033946dcd13d0a00d67b4316f"
+msgid "ID=4003701"
+msgstr "ID=4003701"
+
+msgctxt "29e2297ce3942b75b5c1847a86bed54b"
+msgid "대지의 지휘관"
+msgstr "Commander of the Land"
+
+msgctxt "3b220f76d8d5000d44518395a5253e39"
+msgid "서포터 [류] 획득"
+msgstr "Recruit Supporter [Ryu]"
+
+msgctxt "1e030955a7ad0c45c5039b2adac9717f"
+msgid "ID=4003801"
+msgstr "ID=4003801"
+
+msgctxt "ca7685f0e0dd86f07e82cbd8aa3a11dc"
+msgid "돈과 신념 사이의 용병"
+msgstr "Money gatherer"
+
+msgctxt "95531ff231c0fe7a865ec623ca46ff74"
+msgid "서포터 [랄프] 획득"
+msgstr "Recruit Supporter [Ralph]"
+
+msgctxt "801f3172fa2091e94bf7dae62f36be02"
+msgid "ID=4003901"
+msgstr "ID=4003901"
+
+msgctxt "6f3bc93d16e9c38a748e66578272dcc3"
+msgid "하이테크 쓰레기통"
+msgstr "High Tech"
+
+msgctxt "7f780b4f5ad51da3238945c5277690e5"
+msgid "서포터 [하이딩거] 획득"
+msgstr "Recruit Supporter [Haidinger]"
+
+msgctxt "e846fa1d5c354f874da7af4666d53f6b"
+msgid "ID=4004001"
+msgstr "ID=4004001"
+
+msgctxt "80b75b675761ed1664b876992ea3bc31"
+msgid "추억을 그리는 충견"
+msgstr "Best Friend"
+
+msgctxt "06f0151a7ded9fadf0016c34152b672b"
+msgid "서포터 [굿보이] 획득"
+msgstr "Recruit [Good Boy]"
+
+msgctxt "93d69e5b818f2bff41f6d6e468a3b4f0"
+msgid "ID=4004101"
+msgstr "ID=4004101"
+
+msgctxt "b0c1c57cb7fb13fae337900a7aef4c00"
+msgid "적안의 맹수"
+msgstr "The Beast"
+
+msgctxt "4db8b8230e8815b6b4d8ad18dd43e242"
+msgid "서포터 [케인바렐] 획득"
+msgstr "Recruit [Kainbarrel]"
+
+msgctxt "d4af9b22047f72761a3cb96918b9bc68"
+msgid "ID=4004201"
+msgstr "ID=4004201"
+
+msgctxt "859842ec162e6f946f6e187e180e21d6"
+msgid "황혼의 연금술사"
+msgstr "Alchemist"
+
+msgctxt "938c6641429ef701e21d3401ca98a72d"
+msgid "서포터 [퍼니셔 : 제니스 커스텀] 획득"
+msgstr "Recruit Supporter [Punisher: Zenith [Custom]]"
+
+msgctxt "6d6885bcd03303fba9089e18365934a3"
+msgid "ID=4004301"
+msgstr "ID=4004301"
+
+msgctxt "6c8d3970b78216a23a77ee1a201317b2"
+msgid "강철 요새의 파수꾼"
+msgstr "AI"
+
+msgctxt "b428641dad63fe1a18181cb91cbf4c9d"
+msgid "서포터 [루시] 획득"
+msgstr "Recruit Supporter [Lucy]"
+
+msgctxt "bebb70f1273feb4a2a06476844d3ce88"
+msgid "ID=4004401"
+msgstr "ID=4004401"
+
+msgctxt "866e4c983fd2aeda37623fa96dc1f199"
+msgid "잡았다 요놈!"
+msgstr "Gotcha!"
+
+msgctxt "a3c7a7ef4c104b2d00d66b4a9bbd9fc4"
+msgid "그루톤 1회 처치"
+msgstr "Defeat 1 Glutton"
+
+msgctxt "67aa123f4602d95899d881fb52e7e5ee"
+msgid "ID=4004402"
+msgstr "ID=4004402"
+
+msgctxt "26047c80d0dd50b790347c8d2e54af07"
+msgid "때리는 재미가 있구나!"
+msgstr "Racoons....?"
+
+msgctxt "d334446ee54b50bf49c3bc60beba5b97"
+msgid "그루톤 50회 처치"
+msgstr "Defeat 50 Gluttons"
+
+msgctxt "8c702ec823d57f4944d18c8247c6eb07"
+msgid "ID=4004403"
+msgstr "ID=4004403"
+
+msgctxt "b6497a9dcef3895a819b3eefca7b060b"
+msgid "뛰어봤자 너구리지"
+msgstr "They drop nice things"
+
+msgctxt "3de407b3debb3ed7c801730d50d60e64"
+msgid "그루톤 100회 처치"
+msgstr "Defeat 100 Gluttons"
+
+msgctxt "83751f14f338a0ad89844163f056a7fb"
+msgid "ID=4004404"
+msgstr "ID=4004404"
+
+msgctxt "2f089673dda81931d5b5fc7bb12d167f"
+msgid "뛰는 놈 위에 나는 놈"
+msgstr "Kill them all!"
+
+msgctxt "614bbbe9b2cbf211dd938cfa36e46b6f"
+msgid "그루톤 250회 처치"
+msgstr "Defeat 250 Gluttons"
+
+msgctxt "584f15ea6872e7136bfd508f3b6f87c0"
+msgid "ID=4004405"
+msgstr "ID=4004405"
+
+msgctxt "4dc523277b294cda6b193051827be222"
+msgid "그루톤의 천적"
+msgstr "Good treasure!"
+
+msgctxt "269804be08445db097445b491aab0088"
+msgid "그루톤 500회 처치"
+msgstr "Defeat 500 Gluttons"
+
+msgctxt "16a07a9c5636805b34b8f4d08868aa5e"
+msgid "ID=4004501"
+msgstr "ID=4004501"
+
+msgctxt "03c81ab26266d17399d2650f2d749682"
+msgid "데일리 미션을 경험하다"
+msgstr "Daily Mission"
+
+msgctxt "8625ae2e47bd1d926e9e50908a06c726"
+msgid "데일리 미션 1회 클리어"
+msgstr "Clear 1 Daily Mission"
+
+msgctxt "8fdf098daa03fd792cfffb1adddb3cfa"
+msgid "ID=4004502"
+msgstr "ID=4004502"
+
+msgctxt "eb6e975ade2b72ebd9d2a8f5c326b5b8"
+msgid "기간 한정에 끌려"
+msgstr "Next 100 days"
+
+msgctxt "d138444aba4068401f5bd4b05e2f4b75"
+msgid "데일리 미션 100회 클리어"
+msgstr "Clear 100 Daily Missions"
+
+msgctxt "147ff10a01fc31f85f6646030abb55ba"
+msgid "ID=4004503"
+msgstr "ID=4004503"
+
+msgctxt "fd907f33ab3438c1dd6647aa2568b1e5"
+msgid "오늘만 할 수 있을 것 같아"
+msgstr "Every Day"
+
+msgctxt "7ebf80503dfbddd297b9f7af511ecda8"
+msgid "데일리 미션 500회 클리어"
+msgstr "Clear 500 Daily Missions"
+
+msgctxt "132c1ddf708d9cbf01456f9cd1887b15"
+msgid "ID=4004504"
+msgstr "ID=4004504"
+
+msgctxt "4d1124b5b73eb2c95cd9ca2d91e9b438"
+msgid "내일로 미루면 안 될 것 같아"
+msgstr "Every day is a new day... or?"
+
+msgctxt "591a8f989f82a38c9263b8973690b78f"
+msgid "데일리 미션 1000회 클리어"
+msgstr "Clear 1000 Daily Missions"
+
+msgctxt "dbafa1845f81472f3f3ba4fce683cb8a"
+msgid "ID=4004505"
+msgstr "ID=4004505"
+
+msgctxt "25761c522055a69e711e3481b9b870ce"
+msgid "부지런히 일하는 자"
+msgstr "A lot of dailys"
+
+msgctxt "3296760825834c8bd4e15cfbc4109719"
+msgid "데일리 미션 1500회 클리어"
+msgstr "Clear 1500 Daily Missions"
+
+msgctxt "d039f7c9ab7b7648a73532f6932fe45f"
+msgid "ID=4004601"
+msgstr "ID=4004601"
+
+msgctxt "3244641711463491a0c498cad49a1941"
+msgid "히든 이벤트를 경험하다"
+msgstr "Hidden"
+
+msgctxt "d42472a686abba7c9b8d3d94ecc5ee5d"
+msgid "히든 이벤트 1회 클리어"
+msgstr "Clear 1 Hidden Event"
+
+msgctxt "18e27bc8741bfdceea60d17c2bde5697"
+msgid "ID=4004602"
+msgstr "ID=4004602"
+
+msgctxt "e6077e8806f7a8e6d23a4fffcd5d9789"
+msgid "반사적으로 하게 돼"
+msgstr "Hidden?! I found them"
+
+msgctxt "9fe1acdfa2fcea9afd5b443609fdbb2b"
+msgid "히든 이벤트 100회 클리어"
+msgstr "Clear 100 Hidden Events"
+
+msgctxt "0bee7870a3decfaf9ca5e6ac03643330"
+msgid "ID=4004603"
+msgstr "ID=4004603"
+
+msgctxt "ea329a8f2254357bcacb76f95612ecc0"
+msgid "무의식적으로 하게 돼"
+msgstr "There you are"
+
+msgctxt "11280984756def0fbe4a7d217f4bdf0f"
+msgid "히든 이벤트 500회 클리어"
+msgstr "Clear 500 Hidden Events"
+
+msgctxt "e1e2f868f8c34016c8700b3f31a3f0c7"
+msgid "ID=4004604"
+msgstr "ID=4004604"
+
+msgctxt "5f0b2f906667b9601d6296778dfba261"
+msgid "글자만 보이면 하게 돼"
+msgstr "Somehow... it is not well hidden"
+
+msgctxt "e35f53fa7b740765f2178db5d8801b34"
+msgid "히든 이벤트 1000회 클리어"
+msgstr "Clear 1000 Hidden Events"
+
+msgctxt "9e277a1a66061bde8985a6b54099edd2"
+msgid "ID=4004605"
+msgstr "ID=4004605"
+
+msgctxt "8c14a34c16323b40f5c9d6012b879060"
+msgid "히든 프론티어"
+msgstr "Everywhere"
+
+msgctxt "de11bb12c9f22c10c870caa5e5dc59db"
+msgid "히든 이벤트 1500회 클리어"
+msgstr "Clear 1500 Hidden Events"
+
+msgctxt "4e4ba70c89cd3ee3ef8ea5382958dbb8"
+msgid "ID=4004701"
+msgstr "ID=4004701"
+
+msgctxt "1702a5f6ee33657fbe45efe06cfc5ce2"
+msgid "스틸 그레이브에 입문하다"
+msgstr "Steel Grave"
+
+msgctxt "5af243b6504494136bd0d4c33169a1e1"
+msgid "스틸 그레이브 1회 도전"
+msgstr "Clear 1 time Steel Grave"
+
+msgctxt "95738ea85bf76cd5f29c4a05e91f0291"
+msgid "ID=4004702"
+msgstr "ID=4004702"
+
+msgctxt "6a7d26e2381af48af6ffe8d3c876f8b9"
+msgid "이거 훈련하는 거 맞죠?"
+msgstr "It's training?"
+
+msgctxt "03121c1907427a63402a5b3e8e962473"
+msgid "스틸 그레이브 10회 도전"
+msgstr "Clear 10 times Steel Grave"
+
+msgctxt "1e2511dbd2ef8412aa50853ca82e667c"
+msgid "ID=4004703"
+msgstr "ID=4004703"
+
+msgctxt "5407fb45a8062f9ba8b634a9ebeb6fae"
+msgid "이것들 데이터인 거 맞죠?"
+msgstr "Once again"
+
+msgctxt "2f1910c6beac0113bc2c3c659407aa4e"
+msgid "스틸 그레이브 50회 도전"
+msgstr "Clear 50 times Steel Grave"
+
+msgctxt "4b7f1438140395fef7693ed3c46cf31d"
+msgid "ID=4004704"
+msgstr "ID=4004704"
+
+msgctxt "d93d8a1f2acf2061705b363c2caded1b"
+msgid "이거하다 죽는 거 아니죠?"
+msgstr "Where do they all come from?"
+
+msgctxt "656a6dd19fa79699450331fdabb93de9"
+msgid "스틸 그레이브 100회 도전"
+msgstr "Clear 100 times Steel Grave"
+
+msgctxt "768c3e0e94c280fce5c20a66dad05b5a"
+msgid "ID=4004705"
+msgstr "ID=4004705"
+
+msgctxt "642a6c77d5ae1b608dbe0794b09f8eb2"
+msgid "가상세계의 훈련자"
+msgstr "That hurts!"
+
+msgctxt "a06bd0807be638991dda7c60813fe9f8"
+msgid "스틸 그레이브 200회 도전"
+msgstr "Clear 200 times Steel Grave"
+
+msgctxt "f8a5a86d94947b6b03396e3f6bc09a9c"
+msgid "ID=4004801"
+msgstr "ID=4004801"
+
+msgctxt "4cbdd36a962a6b8863b27a8fc217e667"
+msgid "이것이 헬기인가!"
+msgstr "It can fly"
+
+msgctxt "53b5b8a07105f2ee80ab2cae8e77a993"
+msgid "스카이 크래프트 1회 이용"
+msgstr "Use the helicopter 1 time"
+
+msgctxt "511e56c31b06d628cca819f0b4b13048"
+msgid "ID=4004802"
+msgstr "ID=4004802"
+
+msgctxt "ea8396ba34bbae9c746c3a17d186678f"
+msgid "하늘을 날았어!"
+msgstr "H-h-h-helicopter"
+
+msgctxt "82e304ec679ff42e17e180dc1117b58f"
+msgid "스카이 크래프트 10회 이용"
+msgstr "Use the helicopter 10 times"
+
+msgctxt "211399a127f88e4f6352cb38388288ba"
+msgid "ID=4004803"
+msgstr "ID=4004803"
+
+msgctxt "20a8c890a268b1a72625f06d29feec2e"
+msgid "승차감이 좋네"
+msgstr "Do I can buy it?"
+
+msgctxt "78835a2a4a0dfd8e49784b11aa889152"
+msgid "스카이 크래프트 20회 이용"
+msgstr "Use the helicopter 20 times"
+
+msgctxt "4580f726ae45c37e87d0365e47f8ee43"
+msgid "ID=4004804"
+msgstr "ID=4004804"
+
+msgctxt "258d7c0b613a61129bdd39c9eae30978"
+msgid "뛰어라. 신민들이어!"
+msgstr "I want to control the helicopter"
+
+msgctxt "0eab54f2e8666cfaa5597085a00fb16e"
+msgid "스카이 크래프트 50회 이용"
+msgstr "Use the helicopter 50 times"
+
+msgctxt "3df192bd86025e2a580252f14aa4cd66"
+msgid "ID=4004805"
+msgstr "ID=4004805"
+
+msgctxt "1a59fbf14765c2fc471d6fe7b258e329"
+msgid "이게 돈을 쓰는 맛인가!"
+msgstr "My new apartment"
+
+msgctxt "0941deb68c4af772ea5c993dbfd687c5"
+msgid "스카이 크래프트 100회 이용"
+msgstr "Use the helicopter 100 times"
+
+msgctxt "7910e1ec014e7051eba9227bd23fd12c"
+msgid "ID=4004901"
+msgstr "ID=4004901"
+
+msgctxt "901864118dde580dff3250651eb2a89f"
+msgid "어서 오십시오! 천천히 둘러보십시오!"
+msgstr "Choose your ware"
+
+msgctxt "2f72810619f14a6ce490e85158b49371"
+msgid "자이트와 최초 거래 성공"
+msgstr "Buy 1 time anything from Zaito"
+
+msgctxt "a4b4a2c29bbca8619c1b729b666672cd"
+msgid "ID=4004902"
+msgstr "ID=4004902"
+
+msgctxt "11e1828c8b1e1cc42df0896fe2fd3af1"
+msgid "앞으로도 많이 이용해 주십쇼!"
+msgstr "Loyality"
+
+msgctxt "1716d0f6ae70b62dced0ad4bb86f91b7"
+msgid "자이트의 고객등급 2단계 달성"
+msgstr "Reach VIP 2"
+
+msgctxt "f903d6305fc9c6a9b584000b275fbc1f"
+msgid "ID=4004903"
+msgstr "ID=4004903"
+
+msgctxt "c62a77ada9b58fd3351dcdd95ae71989"
+msgid "더 좋은 물건으로 보답하겠습니다!"
+msgstr "Lovely"
+
+msgctxt "82c261cd61e6c6689129775aac08d2de"
+msgid "자이트의 고객등급 3단계 달성"
+msgstr "Reach VIP 3"
+
+msgctxt "f7c1b45cb4a591ab38d1d26577193b48"
+msgid "ID=4004904"
+msgstr "ID=4004904"
+
+msgctxt "bc357badd7241156df19e14e06be8cea"
+msgid "감사합니다! 필요한 것이 있음 말만 하십쇼!"
+msgstr "Casual buyer"
+
+msgctxt "cf842e71f5b93f84310ba13c04422e19"
+msgid "자이트의 고객등급 4단계 달성"
+msgstr "Reach VIP 4"
+
+msgctxt "95cafcd00e68f5c4eae33a1024e4177b"
+msgid "ID=4004905"
+msgstr "ID=4004905"
+
+msgctxt "6f6ce6e9c202de230644ea7960b82d9c"
+msgid "이게 바로 단골이라는 건가요! 감사합니다!"
+msgstr "Regular Customer"
+
+msgctxt "21c8295a4cde075ccbf08b17f7df8ac3"
+msgid "자이트의 고객등급 5단계 달성"
+msgstr "Reach VIP 5"
+
+msgctxt "803354e02314bc78d79934f6f2edda9f"
+msgid "ID=4005001"
+msgstr "ID=4005001"
+
+msgctxt "21750ba4601b3eb7dde6c9208f0f2b05"
+msgid "구입할 생각이 없다면, 만지지 말아줘요."
+msgstr "Highest Quality"
+
+msgctxt "bb05f0176ef7974522e7203162d0fd08"
+msgid "요미와 최초 거래 성공"
+msgstr "Buy 1 time anything from Yomi"
+
+msgctxt "5bd169c4f703ea24cf74d086da1c90ac"
+msgid "ID=4005002"
+msgstr "ID=4005002"
+
+msgctxt "d2fba9e70ec142e6545464d373716fd4"
+msgid "최대한 싸게 드리는 거니까 자주 이용해 주세요."
+msgstr "Service, Service, Money"
+
+msgctxt "cf1a40989164060f46ebaa3f388ed78b"
+msgid "요미의 고객등급 2단계 달성"
+msgstr "Reach VIP 2"
+
+msgctxt "ffacc6e57fc661747b7970df2237670a"
+msgid "ID=4005003"
+msgstr "ID=4005003"
+
+msgctxt "2363f2d956e3f2ec2c546617e0266a67"
+msgid "자주 이용해 줘서 고마워요"
+msgstr "Any wishes left?"
+
+msgctxt "1ba0515723844578b46022b4aef1702f"
+msgid "요미의 고객등급 3단계 달성"
+msgstr "Reach VIP 3"
+
+msgctxt "7e7d5258401f1115f076f29d556f4d1f"
+msgid "ID=4005004"
+msgstr "ID=4005004"
+
+msgctxt "9905b9a8c8c3134757b075df37483d7c"
+msgid "늘 고마워요. 더 좋은 물건들로 대접할게요. "
+msgstr "Thanks!"
+
+msgctxt "16684980a145d3e58186f36516279ed8"
+msgid "요미의 고객등급 4단계 달성"
+msgstr "Reach VIP 4"
+
+msgctxt "9d97a7d4f4a04d7bb7d7acb762a1f062"
+msgid "ID=4005005"
+msgstr "ID=4005005"
+
+msgctxt "99add578bad51a19a0af3d5cbc4d5d62"
+msgid "정말 고마워요. 최고의 고객으로 대접할게요."
+msgstr "Better items will be coming soon!"
+
+msgctxt "b26a0dc040bab2bbed854122412aaef7"
+msgid "요미의 고객등급 5단계 달성"
+msgstr "Reach VIP 5"
+
+msgctxt "d25ac4deef16221ce3d022a628cc503a"
+msgid "ID=4005101"
+msgstr "ID=4005101"
+
+msgctxt "e47ddab746ae4982032bc983257fc2fd"
+msgid "재료만 있다면, 뭐든 만들어 줄 수 있어."
+msgstr "I can craft anything"
+
+msgctxt "b2e2f458376dc5bcf2352373c29900c6"
+msgid "제니스와 최초 거래 성공"
+msgstr "Buy 1 time anything from Zenith"
+
+msgctxt "7a747eafa39e50969edf8cecdf6ce610"
+msgid "ID=4005102"
+msgstr "ID=4005102"
+
+msgctxt "bd59b9f89d9f0a26cbc8ffd983cee0cc"
+msgid "이제야 얼굴이 익네! 자주 보고 살자고~"
+msgstr "Friends~"
+
+msgctxt "d19166a54334074a63997b124bf6d3ba"
+msgid "제니스의 고객등급 2단계 달성"
+msgstr "Reach VIP 2"
+
+msgctxt "6492a01620d9e4fccdef5efcc93a0270"
+msgid "ID=4005103"
+msgstr "ID=4005103"
+
+msgctxt "dd7400d4d750e87a0c0c2d5eb10d258e"
+msgid "능력 좋은데? 재료도 돈도 많이 들었을 텐데~"
+msgstr "Come again~"
+
+msgctxt "7ff4bdac7b533d3ef2e2ca6940ab7ecf"
+msgid "제니스의 고객등급 3단계 달성"
+msgstr "Reach VIP 3"
+
+msgctxt "0c02adc0d07c9b37261464609d959c0c"
+msgid "ID=4005104"
+msgstr "ID=4005104"
+
+msgctxt "c0926966a35e40cd54caac6b6adff771"
+msgid "단골인 거 같으니까 서비스 많이 해줄게. 뭐, 고맙다고."
+msgstr "Okay. Thanks."
+
+msgctxt "0741c1e95571bf0ec50551c98dddfaaa"
+msgid "제니스의 고객등급 4단계 달성"
+msgstr "Reach VIP 4"
+
+msgctxt "15dfb75a263d658f5cb57cf0b59372cd"
+msgid "ID=4005105"
+msgstr "ID=4005105"
+
+msgctxt "24229a9af902dae4b6b639c84e871543"
+msgid "정말 재미있는 사람이야. 앞으로도 자주 보고 살자~"
+msgstr "Your materials are always rare"
+
+msgctxt "3b0ab7d433918d8c07bb02a0fcde037d"
+msgid "제니스의 고객등급 5단계 달성"
+msgstr "Reach VIP 5"
+
+msgctxt "49a1fce3b278ddbd325290d65bd11848"
+msgid "ID=4005201"
+msgstr "ID=4005201"
+
+msgctxt "360a180e19931bb26cc8de7ac90b8ff4"
+msgid "이봐 거기, 강화 한 번 하고 가지?"
+msgstr "Enhancement"
+
+msgctxt "f615e07c3cb896e853e1df1d110d925d"
+msgid "트리샤와 최초 거래 성공"
+msgstr "Buy 1 time anything from Trisha"
+
+msgctxt "58408a1d38eb520429e0118b986b51a8"
+msgid "ID=4005202"
+msgstr "ID=4005202"
+
+msgctxt "12a1eecc1288ddd082f27904265c74b7"
+msgid "자주 얼굴 보니 좋네! 앞으로 더 자주 놀러 와!"
+msgstr "Let's enhance again!"
+
+msgctxt "a0333337d6f75138307ddef7a66b1bce"
+msgid "트리샤의 고객등급 2단계 달성"
+msgstr "Reach VIP 2"
+
+msgctxt "68daa6f1db035e7c06f802302e8b45e0"
+msgid "ID=4005203"
+msgstr "ID=4005203"
+
+msgctxt "6041104095ba75b26832c630367b1a65"
+msgid "매번 이용해 줘서 고마워! "
+msgstr "Thanks~"
+
+msgctxt "f4a3facfe04f833d3787aa496e3d7f09"
+msgid "트리샤의 고객등급 3단계 달성"
+msgstr "Reach VIP 3"
+
+msgctxt "0af0891f92ea347e7591829552f884c6"
+msgid "ID=4005204"
+msgstr "ID=4005204"
+
+msgctxt "6e79cc2e7da5941cd74a8fcbcc805b0b"
+msgid "단골이니까 서비스 팍팍 해줄게! "
+msgstr "Friends? Best friends~"
+
+msgctxt "4cbb3e8ed4f391fda70675e4f0c7a1b4"
+msgid "트리샤의 고객등급 4단계 달성"
+msgstr "Reach VIP 4"
+
+msgctxt "1957b2193a354f69699e8a8982130c66"
+msgid "ID=4005205"
+msgstr "ID=4005205"
+
+msgctxt "c2e075eec1544ef8b98755082800eb2d"
+msgid "이젠 뭐 손님이 아니라 친구 같네. 앞으로도 잘 지내보자."
+msgstr "Best service for you"
+
+msgctxt "ef90599f386ef3892f060222c84f65ec"
+msgid "트리샤의 고객등급 5단계 달성"
+msgstr "Reach VIP 5"
+
+msgctxt "fbb665ed902a5911aeca3112dc70dfc4"
+msgid "ID=4005301"
+msgstr "ID=4005301"
+
+msgctxt "d1581aa0eb2e16b25c6cbe13e93aea48"
+msgid "어디든 모셔드립니다. 금액만 지불한다면요."
+msgstr "Flying Master"
+
+msgctxt "9fcedb85051255bb012ab85b557e2aae"
+msgid "아진과 최초 거래 성공"
+msgstr "Buy 1 time anything from Azin"
+
+msgctxt "fb427cc416af59d056bcb488ba5c7aa9"
+msgid "ID=4005302"
+msgstr "ID=4005302"
+
+msgctxt "ba9caf056df2069479b46d8017333059"
+msgid "타기 싫으면 걸어가셔도 됩니다만, 힘드실 겁니다."
+msgstr "Want a boarding ticket?"
+
+msgctxt "4fea4496f5e8199e05f37f8c0061d98f"
+msgid "아진의 고객등급 2단계 달성"
+msgstr "Reach VIP 2"
+
+msgctxt "ae93595eebbe91850982ab3c02347953"
+msgid "ID=4005303"
+msgstr "ID=4005303"
+
+msgctxt "42e636cda959058986b7a2f3ef7fc8aa"
+msgid "자주 이용하시니 더 좋은 서비스를 준비해 보겠습니다."
+msgstr "Thank you~"
+
+msgctxt "08caf89dda5b974db5de40a564276a9d"
+msgid "아진의 고객등급 3단계 달성"
+msgstr "Reach VIP 3"
+
+msgctxt "839fcf0d64bce35f113827356f5362c2"
+msgid "ID=4005304"
+msgstr "ID=4005304"
+
+msgctxt "7688ad0aa0031e1493c4c6d46343600c"
+msgid "이용해 주셔서 감사합니다. 앞으로도 많은 이용 부탁드립니다."
+msgstr "You need something?"
+
+msgctxt "cc245346ce20894ceb4f04668306b4dc"
+msgid "아진의 고객등급 4단계 달성"
+msgstr "Reach VIP 4"
+
+msgctxt "fce7a9ca82ab45e684d4d064cf1baa13"
+msgid "ID=4005305"
+msgstr "ID=4005305"
+
+msgctxt "3bf1b42eddcb08b16a18be8c7923710d"
+msgid "퍼스트 클래스에 맞는 최고의 서비스로 모시겠습니다. "
+msgstr "Always a pleasure"
+
+msgctxt "46a944870b48fc41abdf10e4b70f623d"
+msgid "아진의 고객등급 5단계 달성"
+msgstr "Reach VIP 5"
+
+msgctxt "2afb7f37b8e084cc69d558b76e81fcb9"
+msgid "ID=4005401"
+msgstr "ID=4005401"
+
+msgctxt "32a18d5e1c0d4600216ec5bafd0f405a"
+msgid "비틀린 세계로 향하다"
+msgstr "Raids are here"
+
+msgctxt "adbba17ab8e082a7c3913d554a6aac00"
+msgid "캐쥬얼 레이드 1회 클리어"
+msgstr "Clear 1 Casual Raid"
+
+msgctxt "53a757963b3f4b9644a402eda9437050"
+msgid "ID=4005402"
+msgstr "ID=4005402"
+
+msgctxt "254e3c53e932e2ae8bd3d1f712f85822"
+msgid "비틀린 세계를 경험하다"
+msgstr "Twisted World"
+
+msgctxt "21cab5538e1a8e145a26e185ebc6adde"
+msgid "캐쥬얼 레이드 10회 클리어"
+msgstr "Clear 10 Casual Raids"
+
+msgctxt "49a647e70acd4f55e0f195727189ed3d"
+msgid "ID=4005403"
+msgstr "ID=4005403"
+
+msgctxt "9b8c2d3eeab73b682c30cdbcf81b5e4f"
+msgid "비틀린 세계를 이해하다"
+msgstr "Just take it easy"
+
+msgctxt "7e4db6fe5614cdcc3ba950c9eab032b8"
+msgid "캐쥬얼 레이드 20회 클리어"
+msgstr "Clear 20 Casual Raids"
+
+msgctxt "5f888b8473045141ca510602d79dd159"
+msgid "ID=4005404"
+msgstr "ID=4005404"
+
+msgctxt "f67e5ffc258ec9daf0424422b39053d7"
+msgid "비틀린 세계에 익숙해지다"
+msgstr "There we go again"
+
+msgctxt "9620b57123d7ff4b18144cd8fc558a89"
+msgid "캐쥬얼 레이드 50회 클리어"
+msgstr "Clear 50 Casual Raids"
+
+msgctxt "d2e8a8b362d50f0a8a12ba018bf5b07f"
+msgid "ID=4005405"
+msgstr "ID=4005405"
+
+msgctxt "58d3b85e51ac9114d92c56e8c21d4275"
+msgid "비틀린 세계의 톱니바퀴"
+msgstr "I know your moves"
+
+msgctxt "3ae4ed674c542c8cda354386812a29ec"
+msgid "캐쥬얼 레이드 100회 클리어"
+msgstr "Clear 100 Casual Raids"
+
+msgctxt "fd9914d26dde60a14f938fad4d679512"
+msgid "ID=4005501"
+msgstr "ID=4005501"
+
+msgctxt "78a1a7ab830468dd8acec558a0c77e9b"
+msgid "금빛 세계에 발을 들이다"
+msgstr "Golden World"
+
+msgctxt "75c2492afb7b7e0093a3d27ab07a9d86"
+msgid "골든 시타델 1회 클리어 [무속성]"
+msgstr "Clear 1 time [Golden Citadel]"
+
+msgctxt "48a9a6b0ffb81f466a1b03341f4104c6"
+msgid "ID=4005502"
+msgstr "ID=4005502"
+
+msgctxt "6379714f6c1dfc961c1c00b9c4726ad7"
+msgid "금빛 절대자를 마주하다"
+msgstr "Black is the new Gold"
+
+msgctxt "87ccbc27ad89ef7e722ca9015f9a0860"
+msgid "골든 시타델 10회 클리어 [무속성]"
+msgstr "Clear 10 times [Golden Citadel]"
+
+msgctxt "fe2cb2cf2502644a2986b39c125ab670"
+msgid "ID=4005503"
+msgstr "ID=4005503"
+
+msgctxt "bf4d2c32d0c446a535edf2b820a5daf4"
+msgid "금빛 절대자에게 반기를 들다"
+msgstr "I will sell you"
+
+msgctxt "d903c833fe8a4de0c99fc02ae9dfe3c6"
+msgid "골든 시타델 20회 클리어 [무속성]"
+msgstr "Clear 20 times [Golden Citadel]"
+
+msgctxt "5e48db3f59652e7d90bd49f6d46fb541"
+msgid "ID=4005504"
+msgstr "ID=4005504"
+
+msgctxt "1ae8aad791ea5b443c89a2d329d55d2f"
+msgid "금빛 세계에 저항하다"
+msgstr "You can't stop me"
+
+msgctxt "d628b22f744f1c721846959de63b3fa1"
+msgid "골든 시타델 30회 클리어 [무속성]"
+msgstr "Clear 30 times [Golden Citadel]"
+
+msgctxt "da1305c0f9b9ff958f9b62955ac4a4ba"
+msgid "ID=4005505"
+msgstr "ID=4005505"
+
+msgctxt "52bdf8196c4e9b569ec224865c104996"
+msgid "금빛 세계의 레지스탕스"
+msgstr "Enough of golden things~"
+
+msgctxt "70f481409f250a6ec76d247e2df902ee"
+msgid "골든 시타델 50회 클리어 [무속성]"
+msgstr "Clear 50 times [Golden Citadel]"
+
+msgctxt "0b11a1ac12a49e5db2bb84d08af706af"
+msgid "ID=4005601"
+msgstr "ID=4005601"
+
+msgctxt "75cdf24366f6e3f4b7e9c7f9e62554cf"
+msgid "황량한 세계에 들어서다"
+msgstr "Destructive World"
+
+msgctxt "7b99ed1cba8780752c133b5eed84c09d"
+msgid "더 프라이멀 1회 클리어"
+msgstr "Clear 1 time The Primal"
+
+msgctxt "843c306674e2d4108f67894b90358db4"
+msgid "ID=4005602"
+msgstr "ID=4005602"
+
+msgctxt "101ccb50cfd93ac99b91a745079c1376"
+msgid "황량한 세계를 마주하다"
+msgstr "Knowing what to do"
+
+msgctxt "bdece673ca1c5b9cefa9ac7a89db7632"
+msgid "더 프라이멀 10회 클리어"
+msgstr "Clear 10 times The Primal"
+
+msgctxt "5ce0b834f13826dca3562881cf67ebbf"
+msgid "ID=4005603"
+msgstr "ID=4005603"
+
+msgctxt "3cef05bd14c8ec78b8d88d5e598df713"
+msgid "황량한 세계를 파고들다"
+msgstr "Primal-chan~~"
+
+msgctxt "0e65f775882591af810b22ba801e99ca"
+msgid "더 프라이멀 20회 클리어"
+msgstr "Clear 20 times The Primal"
+
+msgctxt "19107049dfaf6554dfa9a54effdabd57"
+msgid "ID=4005604"
+msgstr "ID=4005604"
+
+msgctxt "bd40c298a88f264747dbe8ff267727e3"
+msgid "황량한 세계를 이해하다"
+msgstr "Behaviour of the destructive world"
+
+msgctxt "9159278642d69d5d78a41a49a1274157"
+msgid "더 프라이멀 30회 클리어"
+msgstr "Clear 30 times The Primal"
+
+msgctxt "237d5c4ddd94ed44888de5460463ee10"
+msgid "ID=4005605"
+msgstr "ID=4005605"
+
+msgctxt "02de0293ff635b1529f3c00c0c929e24"
+msgid "황량한 세계의 정복자"
+msgstr "Conqueror"
+
+msgctxt "14d926780422e0d4d7f9431c4c057147"
+msgid "더 프라이멀 50회 클리어"
+msgstr "Clear 50 times The Primal"
+
+msgctxt "956f8c96590e25836aa34781aea7994d"
+msgid "ID=4005701"
+msgstr "ID=4005701"
+
+msgctxt "c5643e5880c930512d8c0a4ee5581209"
+msgid "꼭두각시 지휘자"
+msgstr "Clown"
+
+msgctxt "45d16e0dea88438c23ad387bf4dd8606"
+msgid "[라스트 카니발]의 보스 [매드니스 퍼펫 에드가] 100회 처치"
+msgstr "Defeat the boss of [Last Carnival] 100 times"
+
+msgctxt "027b7d66319ed105583a78363e4c4de1"
+msgid "ID=4005801"
+msgstr "ID=4005801"
+
+msgctxt "3bfc37e975cbd73d3da4e7bf3bc53824"
+msgid "보랏빛 거미 여왕"
+msgstr "Purple Queen Spider"
+
+msgctxt "20b477ec496fe3cd15b3cba1c584be46"
+msgid "[정크 하이브]의 보스 [바이올렛 머더리스] 100회 처치"
+msgstr "Defeat the boss of [Junk Hive] 100 times"
+
+msgctxt "a22b8409c9ce28dc7c83a39848697405"
+msgid "ID=4005901"
+msgstr "ID=4005901"
+
+msgctxt "a3e423c00ce1808135e08c8130e9a9bb"
+msgid "묵빛 그림자"
+msgstr "Bandit Shadow"
+
+msgctxt "6b57873be5ff2d832405b537e50823ab"
+msgid "[밴디트 하이웨이]의 보스 [팬텀 쉐도우] 100회 처치"
+msgstr "Defeat the boss of [Bandit Highway] 100 times"
+
+msgctxt "9b07276b3f930ee6ac773ecf5bfa0c59"
+msgid "ID=4006001"
+msgstr "ID=4006001"
+
+msgctxt "6ebad49653a7037d42b712efce27575b"
+msgid "미완성의 대적자"
+msgstr "Mechas"
+
+msgctxt "cb2ba2127c1b524711c44ec708f68434"
+msgid "[아이언 캐슬]의 보스 [지크 프로토 제로] 100회 처치"
+msgstr "Defeat the boss of [Iron Castle] 100 times"
+
+msgctxt "3c82a097405520f7713edc3bf13c761a"
+msgid "ID=4006101"
+msgstr "ID=4006101"
+
+msgctxt "21dd65ba7b27d2d806287b33f6d74965"
+msgid "금빛의 이레귤러"
+msgstr "Golden Master"
+
+msgctxt "bd7f0fde0e37ae1c7c67c881c6a48cdb"
+msgid "[골든 시타델]의 보스 [얼티메이텀] 100회 처치"
+msgstr "Defeat the boss of [Golden Citadel] 100 times"
+
+msgctxt "ae1a3be066578e86e6c326db90cd997a"
+msgid "ID=4006201"
+msgstr "ID=4006201"
+
+msgctxt "f3284ce527428728ced95723419d471b"
+msgid "실례합니다!"
+msgstr "Wrong door!"
+
+msgctxt "86fdb73e61ea8adf566c9acf95fc4477"
+msgid "친구 마이룸에 1회 방문"
+msgstr "Visit a friends room once"
+
+msgctxt "ce8d46458727c19359709d58c0d75c7f"
+msgid "ID=4006202"
+msgstr "ID=4006202"
+
+msgctxt "ed74f27a7026bb899fe8d685581df5a0"
+msgid "먹을 것 좀 내오게"
+msgstr "Your fridge is empty"
+
+msgctxt "bbbb2a5a565ea41d3a6caf9741b7643a"
+msgid "친구 마이룸에 500회 방문"
+msgstr "Visit a friends room 500 times"
+
+msgctxt "74d4d4fcd5cf8f0c56ce2ac84a026811"
+msgid "ID=4006203"
+msgstr "ID=4006203"
+
+msgctxt "57a7f5c2c560bc3537a4dece5e3b6401"
+msgid "익숙하니 좋구먼"
+msgstr "Nice plants"
+
+msgctxt "cef404e87e84de7e569bc532086b784c"
+msgid "친구 마이룸에 1000회 방문"
+msgstr "Visit a friends room 1000 times"
+
+msgctxt "f56e734cc0496ed8dfb7c6c7e83f5786"
+msgid "ID=4006204"
+msgstr "ID=4006204"
+
+msgctxt "1556abb20cc6bf3deb8065da4ac94094"
+msgid "니가 사는 그 집"
+msgstr "I like your apartment"
+
+msgctxt "e13eda6a71e56ee2c4a0a1507c2a2d71"
+msgid "친구 마이룸에 2000회 방문"
+msgstr "Visit a friends room 2000 times"
+
+msgctxt "bb39ffda9c5fde5355a0ee38f6da6445"
+msgid "ID=4006205"
+msgstr "ID=4006205"
+
+msgctxt "339758543ae627aad21a2a9f12f21573"
+msgid "숨겨왔던 노숙기질"
+msgstr "Your home is now my home"
+
+msgctxt "8fc6d80f15205f0481810a21ae26442c"
+msgid "친구 마이룸에 5000회 방문"
+msgstr "Visit a friends room 5000 times"
+
+msgctxt "c13ecc4813f62a624a41041d70f70de6"
+msgid "ID=4006301"
+msgstr "ID=4006301"
+
+msgctxt "4d2fc1827cee55bed3a91d6cbef9e4dd"
+msgid "내가 심은 첫 씨앗"
+msgstr "Plants vs. Zombies... I think"
+
+msgctxt "77666ef3a1ff2cd1db04e4fd25c79d44"
+msgid "씨앗 심기 1회 달성"
+msgstr "Plant 1 seed"
+
+msgctxt "52cef81c695f3fec4492f08a3bc03fa9"
+msgid "ID=4006302"
+msgstr "ID=4006302"
+
+msgctxt "a122771e5ac724363b8aa9a9b7c333a2"
+msgid "생명이 깃드는 소리를 듣다"
+msgstr "Grow big"
+
+msgctxt "5f046b4668f08f9a9fbac98e43b1e667"
+msgid "씨앗 심기 20회 달성"
+msgstr "Plant 20 seeds"
+
+msgctxt "3a313ba9a5a8ad4cf0b799576f473452"
+msgid "ID=4006303"
+msgstr "ID=4006303"
+
+msgctxt "d7cb47d5501b3635453c09646e4183ff"
+msgid "생명이 깨어나는 소리를 듣다"
+msgstr "A bit water~"
+
+msgctxt "2700ba8d3c89832512498a7dc016a8bb"
+msgid "씨앗 심기 50회 달성"
+msgstr "Plant 50 seeds"
+
+msgctxt "07312848de49d8f829ff736856476de6"
+msgid "ID=4006304"
+msgstr "ID=4006304"
+
+msgctxt "133eeff4f63720b27832d927688ec644"
+msgid "생명이 자라나는 소리를 듣다"
+msgstr "Where is the shovel?"
+
+msgctxt "373322fb9a87f9f5631bed88ae3a86d1"
+msgid "씨앗 심기 100회 달성"
+msgstr "Plant 100 seeds"
+
+msgctxt "853ef6155735eafa20a24d42c7e265ca"
+msgid "ID=4006305"
+msgstr "ID=4006305"
+
+msgctxt "78297f8cee67bbaa113a389b4a5823e7"
+msgid "생명이 움트는 소리를 듣다"
+msgstr "Green thumb"
+
+msgctxt "bc0efd858b0921e2cdcc076ab5d367e8"
+msgid "씨앗 심기 200회 달성"
+msgstr "Plant 200 seeds"
+
+msgctxt "4e7a24012a858a942cc359ccf17671bf"
+msgid "ID=4006306"
+msgstr "ID=4006306"
+
+msgctxt "101dfeb4348ae003ee777ccae5648bcc"
+msgid "생명의 기지개를 듣다"
+msgstr "Does this plant brings me to the sky?"
+
+msgctxt "22a88cdc935d09e4c9e5230a58b0ab39"
+msgid "씨앗 심기 400회 달성"
+msgstr "Plant 400 seeds"
+
+msgctxt "a620abff49a4afb3781a356f083c2918"
+msgid "ID=4006307"
+msgstr "ID=4006307"
+
+msgctxt "62f6119e8124fd6b98ffd11da8b89c30"
+msgid "태어남의 격동을 듣다"
+msgstr "Every seed can be planted"
+
+msgctxt "7d48d9e09f09f231628b5b2aa783413d"
+msgid "씨앗 심기 600회 달성"
+msgstr "Plant 600 seeds"
+
+msgctxt "024bdf16bb0a9e8825c059485df333f9"
+msgid "ID=4006308"
+msgstr "ID=4006308"
+
+msgctxt "d9d74cf20c3080a1165f663b38af8847"
+msgid "자라나는 즐거움을 듣다"
+msgstr "Pssst... did you hear that?"
+
+msgctxt "88ee3eabc153937e3579aca68b8e05db"
+msgid "씨앗 심기 1000회 달성"
+msgstr "Plant 1000 seeds"
+
+msgctxt "0293946b3b4ce77ebaff58bf0c5ee1c1"
+msgid "ID=4006309"
+msgstr "ID=4006309"
+
+msgctxt "ce62e4375d40dfd23fbadd1fb1fe7cdd"
+msgid "성장의 고단함을 듣다"
+msgstr "Botanist"
+
+msgctxt "113af29bfbb6f22ddeae3be23fac5044"
+msgid "씨앗 심기 1500회 달성"
+msgstr "Plant 1500 seeds"
+
+msgctxt "6a16971adc3a7efa7ef833c079bfd65d"
+msgid "ID=4006310"
+msgstr "ID=4006310"
+
+msgctxt "17af3566e430ee08347d3784a6a0bd38"
+msgid "만개하는 환희를 듣다"
+msgstr "Plant Guru"
+
+msgctxt "e6286d58ce0a2a0583f03199a5f5c82e"
+msgid "씨앗 심기 2000회 달성"
+msgstr "Plant 2000 seeds"
+
+msgctxt "dbbc558be4c30ae4d737c8fbc6bd4b20"
+msgid "ID=4006401"
+msgstr "ID=4006401"
+
+msgctxt "5475ee70ae2dd3affad8c6dfbbf0169b"
+msgid "귀농을 권유받다"
+msgstr "The Garden"
+
+msgctxt "26d4236d3082292cf510b127d0b6e30b"
+msgid "작물 1회 수확"
+msgstr "Harvest 1 plant"
+
+msgctxt "d16e909607c4c3e1ef7e8d49c07863e5"
+msgid "ID=4006402"
+msgstr "ID=4006402"
+
+msgctxt "52ca641a7ef1b5cd91b1e7edebee350a"
+msgid "농장 생활을 시작하다"
+msgstr "Farming Simulator"
+
+msgctxt "e977eb18041540276a0bedf9e036e9bc"
+msgid "작물 20회 수확"
+msgstr "Harvest 20 plants"
+
+msgctxt "cbf8776b6e56ee965702a006b7fd6423"
+msgid "ID=4006403"
+msgstr "ID=4006403"
+
+msgctxt "ff871bd3487c2e32f8e8bd11e5c1bc92"
+msgid "농장 생활에 익숙해지다"
+msgstr "Where is my traktor?"
+
+msgctxt "809b6deb29961a08b220bc68745a7788"
+msgid "작물 50회 수확"
+msgstr "Harvest 50 plants"
+
+msgctxt "64fbfc5a7c9a2126a50465424683fb08"
+msgid "ID=4006404"
+msgstr "ID=4006404"
+
+msgctxt "fbdfd8d9afb2d51d2f5d79148176869e"
+msgid "농장 생활을 즐기다"
+msgstr "I also want chicken"
+
+msgctxt "b97144d8c5e397abed797ea16e537d02"
+msgid "작물 100회 수확"
+msgstr "Harvest 100 plants"
+
+msgctxt "1996df76ee1b21fd63538766d33e0a4e"
+msgid "ID=4006405"
+msgstr "ID=4006405"
+
+msgctxt "a510e01f68f6b5572bff029f129589be"
+msgid "수확의 즐거움을 알다"
+msgstr "I love it"
+
+msgctxt "9ced7dfad72c426480fa216e08c9e87c"
+msgid "작물 200회 수확"
+msgstr "Harvest 200 plants"
+
+msgctxt "5c0249d264b7cdfc5192a163af3867b6"
+msgid "ID=4006406"
+msgstr "ID=4006406"
+
+msgctxt "4eb8158183d60f8ff8cdc359c75088ab"
+msgid "자급자족의 즐거움을 알다"
+msgstr "All mine"
+
+msgctxt "308f4fcb4a200ffd29f242cc388fc249"
+msgid "작물 400회 수확"
+msgstr "Harvest 400 plants"
+
+msgctxt "4b90b3c85a5598cd2e703df144ec0ac3"
+msgid "ID=4006407"
+msgstr "ID=4006407"
+
+msgctxt "a5044c62fb33d155ae3aa3c66b28dbcf"
+msgid "대량 생산의 즐거움을 깨닫다"
+msgstr "Many plants"
+
+msgctxt "92b091f1eff6c2fb5c7f290f36b8e6c4"
+msgid "작물 600회 수확"
+msgstr "Harvest 600 plants"
+
+msgctxt "01875de20c46c0ca76a2c674316593cc"
+msgid "ID=4006408"
+msgstr "ID=4006408"
+
+msgctxt "edb71bb9ac2136b3648000e600cc41c3"
+msgid "천직이 농부임을 깨닫다"
+msgstr "My bag is still not full"
+
+msgctxt "4b17d7c4cf16641277ab0ef1492c98af"
+msgid "작물 1000회 수확"
+msgstr "Harvest 1000 plants"
+
+msgctxt "d87eae548cd9748b72512ef1b04a5bf8"
+msgid "ID=4006409"
+msgstr "ID=4006409"
+
+msgctxt "704c3c83d314954be157f9b02cf705a1"
+msgid "농작물로 부자가 될 수 있음을 느끼다"
+msgstr "Pretty rich"
+
+msgctxt "852463b81214de83b7b9f6fc00ced391"
+msgid "작물 1500회 수확"
+msgstr "Harvest 1500 plants"
+
+msgctxt "9754ad74af3d9de90d6c907edf2dd90d"
+msgid "ID=4006410"
+msgstr "ID=4006410"
+
+msgctxt "8ab4373627080c394f21654bec2e4cce"
+msgid "그레이트 파머"
+msgstr "Old farmer"
+
+msgctxt "abacd0a51b0c47673bab852ec86893d5"
+msgid "작물 2000회 수확"
+msgstr "Harvest 2000 plants"
+
+msgctxt "a3afdca0e50f88c3bcf2371ed7a22237"
+msgid "ID=4006501"
+msgstr "ID=4006501"
+
+msgctxt "3745b04631d427caa0ba3de19a7f8671"
+msgid "아슬아슬한 타이밍이었습니다"
+msgstr "Oh noes!"
+
+msgctxt "57a7524b6db58857b1b16c96bad88619"
+msgid "시든 작물 1회 수확"
+msgstr "Harvest 1 wiltered plant"
+
+msgctxt "3c5ac328b846f7078a40a490fc99f3b8"
+msgid "ID=4006502"
+msgstr "ID=4006502"
+
+msgctxt "f97e4dc607916bb9ad70f809a9b42201"
+msgid "숨이 한계까지 차오를 때까지"
+msgstr "No more..."
+
+msgctxt "cfb1d0e1cdc95014f5cec306017a0a6d"
+msgid "시든 작물 50회 수확"
+msgstr "Harvest 50 wiltered plants"
+
+msgctxt "abf79a985368f7ef3559385c98d10136"
+msgid "ID=4006503"
+msgstr "ID=4006503"
+
+msgctxt "6d6568aa3e80cf1bddcf90de9f64fa83"
+msgid "요단 강 너머에서 손을 흔들기 전까지"
+msgstr "One wrong step..."
+
+msgctxt "8dea2852ed8269cf8b28c6636d50c846"
+msgid "시든 작물 100회 수확"
+msgstr "Harvest 100 wiltered plants"
+
+msgctxt "72a88a077a0fb83a4e1af37a3a636b26"
+msgid "ID=4006504"
+msgstr "ID=4006504"
+
+msgctxt "68023f50000869b26980bc582f03b8ec"
+msgid "최후의 희망만이 남을 때까지"
+msgstr "Close enough"
+
+msgctxt "38c1ae6c97e38dc00f02134e3c1282d2"
+msgid "시든 작물 200회 수확"
+msgstr "Harvest 200 wiltered plants"
+
+msgctxt "d3e2d4fb554893dbc321e0fe4589bca3"
+msgid "ID=4006505"
+msgstr "ID=4006505"
+
+msgctxt "85d69a65ac5b4813e0042948f02ab6a8"
+msgid "골드 타임 가드너"
+msgstr "Gardener"
+
+msgctxt "0275adcf89ad8b5842134a6d81dccc01"
+msgid "시든 작물 500회 수확"
+msgstr "Harvest 500 wiltered plants"
+
+msgctxt "122327d560b776ed9c2f0a8433bf89b0"
+msgid "ID=4006601"
+msgstr "ID=4006601"
+
+msgctxt "eeabf3a23492feef93562b5a859b3fd1"
+msgid "식물을 키우는 건 처음이신가요?"
+msgstr "Amateur"
+
+msgctxt "b03a76b5183302844076214b54b3a4b6"
+msgid "썩은 작물 1회 수확"
+msgstr "Harvest 1 rotten plant"
+
+msgctxt "f65da105255fda4a26215366bd5ac529"
+msgid "ID=4006602"
+msgstr "ID=4006602"
+
+msgctxt "4990b79fae67692318a1d2950bc14d58"
+msgid "물을 너무 적게 주어도 안 돼요"
+msgstr "I forgot..."
+
+msgctxt "bfc1359175ba38c79068bec7891d2729"
+msgid "썩은 작물 50회 수확"
+msgstr "Harvest 50 rotten plants"
+
+msgctxt "379b6c6608150ef01b47fe2859a1e006"
+msgid "ID=4006603"
+msgstr "ID=4006603"
+
+msgctxt "edbe13baca9edda4b97c74b81c4d120b"
+msgid "물을 너무 많이 주어도 안 돼요"
+msgstr "They are dead"
+
+msgctxt "3b8feb32ab03814081b4de4860133eec"
+msgid "썩은 작물 100회 수확"
+msgstr "Harvest 100 rotten plants"
+
+msgctxt "321489baad6cfe5deea52e2ca4ecd3ed"
+msgid "ID=4006604"
+msgstr "ID=4006604"
+
+msgctxt "69e40b78f7523c0ef3370e83d0316245"
+msgid "많은 관심의 손길이 필요해요"
+msgstr "Always check"
+
+msgctxt "57ed1e7722d51b10950eb4be25b05c9a"
+msgid "썩은 작물 200회 수확"
+msgstr "Harvest 200 rotten plants"
+
+msgctxt "8bd49677f9a547a9893ccb046e9391d8"
+msgid "ID=4006605"
+msgstr "ID=4006605"
+
+msgctxt "650fe34e22e4de4c60d05b01ec315430"
+msgid "비료 생산자"
+msgstr "I always forgot"
+
+msgctxt "b088a0e2ac99f38570a19d4a23ffbb8c"
+msgid "썩은 작물 500회 수확"
+msgstr "Harvest 500 rotten plants"
+
+msgctxt "a287b7f757a66d7b922a2027ea957157"
+msgid "ID=4006701"
+msgstr "ID=4006701"
+
+msgctxt "fd2dd10d1e3ac4760b1c1c7787f7da77"
+msgid "도와주셔서 감사합니다"
+msgstr "Thanks for helping"
+
+msgctxt "8af5d66908652f9a3d141c0c80f01150"
+msgid "작물 돌봐주기 1회 달성"
+msgstr "Take care of 1 plant"
+
+msgctxt "8681e772198c29e33d42e72a1b630da7"
+msgid "ID=4006702"
+msgstr "ID=4006702"
+
+msgctxt "ef283f15c689380c9ec736f41b0bbe04"
+msgid "함께 하는 행복을 경험하다"
+msgstr "Enjoy moving forward together"
+
+msgctxt "4d08e53ee22aa02c9654fc2a31c4b6a8"
+msgid "작물 돌봐주기 20회 달성"
+msgstr "Take care of 20 plants"
+
+msgctxt "982592e0a64bcda8aca6cc7758c136dc"
+msgid "ID=4006703"
+msgstr "ID=4006703"
+
+msgctxt "6caec61157077b924f112c3b29caadf9"
+msgid "함께 하는 행복을 알다"
+msgstr "The feeling of not being alone"
+
+msgctxt "bb929cdc23f006eb157cffc78a0aa95d"
+msgid "작물 돌봐주기 50회 달성"
+msgstr "Take care of 50 plants"
+
+msgctxt "e5ad789b838c942ffc674c99c6126742"
+msgid "ID=4006704"
+msgstr "ID=4006704"
+
+msgctxt "aad53e0205533afbe57a0349c3a2dda4"
+msgid "함께 하는 행복을 깨우치다"
+msgstr "Importance of comrades"
+
+msgctxt "f2361671edaa6813a05f19fdec8c5eb8"
+msgid "작물 돌봐주기 100회 달성"
+msgstr "Take care of 100 plants"
+
+msgctxt "8684f7cdc338b9671d923e3ab4b35d95"
+msgid "ID=4006705"
+msgstr "ID=4006705"
+
+msgctxt "1a99b9e45feb838621959304486df0c5"
+msgid "함께 하는 행복을 전파하다"
+msgstr "I also want to help"
+
+msgctxt "a38ed10af856d23687bb27d1d4e3772d"
+msgid "작물 돌봐주기 200회 달성"
+msgstr "Take care of 200 plants"
+
+msgctxt "8caad169cd8b2bf15df9ac30e0b9476c"
+msgid "ID=4006706"
+msgstr "ID=4006706"
+
+msgctxt "7b89c296327e5e90951bc01563977dbf"
+msgid "함께 하는 선행의 미덕"
+msgstr "This sure was helpful!"
+
+msgctxt "c856330b766711d0d3f84c7f574ae832"
+msgid "작물 돌봐주기 400회 달성"
+msgstr "Take care of 400 plants"
+
+msgctxt "1f47f0165aa6b88a32a6a02d4e45e4ff"
+msgid "ID=4006707"
+msgstr "ID=4006707"
+
+msgctxt "cf805e1a65d2115184bd2aacb21cb7ef"
+msgid "아끼지 않는 선행의 미덕"
+msgstr "I should stop"
+
+msgctxt "0d04529554a0134106b24f2a4ea830d6"
+msgid "작물 돌봐주기 600회 달성"
+msgstr "Take care of 600 plants"
+
+msgctxt "fa7f9fbb6466875d70a12214b70b477e"
+msgid "ID=4006708"
+msgstr "ID=4006708"
+
+msgctxt "875bdf156fdf25b98f5872ea0ee99604"
+msgid "쌓여나가는 선행의 미덕"
+msgstr "Water can't help now"
+
+msgctxt "628fe126bb4689444d258d7692089fb3"
+msgid "작물 돌봐주기 1000회 달성"
+msgstr "Take care of 1000 plants"
+
+msgctxt "23ad008377449f8f4b89ca227b177d71"
+msgid "ID=4006709"
+msgstr "ID=4006709"
+
+msgctxt "50a9c762c2200bc9a56f9ece0d6682d9"
+msgid "되돌아오는 선행의 미덕"
+msgstr "Are they still eat able?"
+
+msgctxt "a00b11eebb07228dd2491e6123886b89"
+msgid "작물 돌봐주기 1500회 달성"
+msgstr "Take care of 1500 plants"
+
+msgctxt "b7f5d120dbeabf97462e83c16d7e2047"
+msgid "ID=4006710"
+msgstr "ID=4006710"
+
+msgctxt "bfe8246dc1b94467c0eb9810f4f07400"
+msgid "성스러운 선행의 손길"
+msgstr "Baah! No way"
+
+msgctxt "de26c09cf9c9f59d5ed4238097fb27fa"
+msgid "작물 돌봐주기 2000회 달성"
+msgstr "Take care of 2000 plants"
+
+msgctxt "ea52a22cf0fa551bff034bd8267608c8"
+msgid "ID=4006801"
+msgstr "ID=4006801"
+
+msgctxt "9e2bef2ac85b917843a0b7cddb88a9c5"
+msgid "균열의 시작"
+msgstr "Obelisk"
+
+msgctxt "7f711975a7659dd131aeae74a775686d"
+msgid "공백의 균열 10회 처치"
+msgstr "Break 10 Void Obelisks"
+
+msgctxt "d72d74d94d9309ed6721d92162bd4758"
+msgid "ID=4006802"
+msgstr "ID=4006802"
+
+msgctxt "5dc5edc7e9f3712898bf4ae82b9f7802"
+msgid "균열 속의 소울정크"
+msgstr "More of them"
+
+msgctxt "ffa79f9cc2d7dc1c747598d54f1451b7"
+msgid "공백의 균열 50회 처치"
+msgstr "Break 50 Void Obelisks"
+
+msgctxt "4710f2998cdfdcb3dc3d3dcb020265cd"
+msgid "ID=4006803"
+msgstr "ID=4006803"
+
+msgctxt "47d63a4e9d6587bd64fa78d036c6d519"
+msgid "균열 앞에 있는 것"
+msgstr "They coming in masses"
+
+msgctxt "eb0e520204e7099940b31753da933f58"
+msgid "공백의 균열 100회 처치"
+msgstr "Break 100 Void Obelisks"
+
+msgctxt "0ab3be26fc73b255b777f39d078e46be"
+msgid "ID=4006804"
+msgstr "ID=4006804"
+
+msgctxt "c9abba062ad0c45d0382c2f341145e6c"
+msgid "누가 균열을 부쉈는가"
+msgstr "It won't stop"
+
+msgctxt "33a167038aa1f829014851dad6142918"
+msgid "공백의 균열 250회 처치"
+msgstr "Break 250 Void Obelisks"
+
+msgctxt "6ec777ecb3400734945cf0746a0c6e07"
+msgid "ID=4006805"
+msgstr "ID=4006805"
+
+msgctxt "897de766789fbc32a03da5573f73d0ac"
+msgid "당신의 방문을 거절합니다!!"
+msgstr "Not again"
+
+msgctxt "f7a9098ede8fb38a9fbb32e12a9b1d06"
+msgid "공백의 균열 500회 처치"
+msgstr "Break 500 Void Obelisks"
+
+msgctxt "1ed169a04aadfea74f66439c2f7f937c"
+msgid "ID=4006901"
+msgstr "ID=4006901"
+
+msgctxt "bbfc0d7c55a5fd58753e94139789c15f"
+msgid "더 씽의 부름"
+msgstr "He is calling"
+
+msgctxt "0538ae3fa30a263aa8a4b8615cd3b7de"
+msgid "더 씽 50회 처치"
+msgstr "Defeat The Thing 50 times"
+
+msgctxt "0e5796abee782712b1980b20da48ab37"
+msgid "ID=4007001"
+msgstr "ID=4007001"
+
+msgctxt "27505dbdca91cf4817f6c434cd31c42f"
+msgid "원초적 공포"
+msgstr "Primalrino"
+
+msgctxt "9c02e9412270264607f0e6be1f3488e0"
+msgid "더 프라이멀 100회 처치"
+msgstr "Defeat The Primal 100 times"
+
+msgctxt "3e67c1e275c7e2f13ec4e39ff0a4c5a7"
+msgid "ID=4000111"
+msgstr "ID=4000111"
+
+msgctxt "a30a5c06707e699c4c8dab71b4a8a68e"
+msgid "물보다 더 마시는 것 같은데요?"
+msgstr "This is necessary"
+
+msgctxt "97362184899c6ac240da2a89311e83ef"
+msgid "소비 아이템을 25600회 사용"
+msgstr "Use 25600 consumables"
+
+msgctxt "7e91374365ee34a9515c6a02e128aea9"
+msgid "ID=4000211"
+msgstr "ID=4000211"
+
+msgctxt "62916aedc4917d8505a952946437c09e"
+msgid "과도한 구매는 정말 감사합니다"
+msgstr "Welcome back"
+
+msgctxt "ee74ff1a9e7ef7a70470605dd8b450dd"
+msgid "상점에서 아이템 15000회 구매"
+msgstr "Buy 15000 items at a store"
+
+msgctxt "532459618c8a27e0fdc19d0acea1e675"
+msgid "ID=4000311"
+msgstr "ID=4000311"
+
+msgctxt "585fa06a45f0918379a8dd4db65682db"
+msgid "다음 무기 맞추는게 더 싸려나"
+msgstr "Repair"
+
+msgctxt "5fbb68898412c5959571a6117533dc6f"
+msgid "누적 수리비 550000제니 달성"
+msgstr "Spend 550000 Zenny on repairing"
+
+msgctxt "fc1cbd3daf0d50c91277a412a7a3f869"
+msgid "ID=4000411"
+msgstr "ID=4000411"
+
+msgctxt "11c0ce919f4e45ddd09e04d855dd5dbb"
+msgid "죽음의 데스"
+msgstr "Stunned, Feared... wait what?"
+
+msgctxt "85f68ef894d61ef0462db3624583faf6"
+msgid "전투 불능 횟수 2400회 달성"
+msgstr "Incapacitated in battle - 2400 times"
+
+msgctxt "8d8dc1ada4d8980822459abe6ab50fbc"
+msgid "ID=4000511"
+msgstr "ID=4000511"
+
+msgctxt "68647ff0a604aad1c84c6664cf4d7c83"
+msgid "이쯤되면 내가 마왕"
+msgstr "Too weak"
+
+msgctxt "98b38c38aa479a8da152b0850d6c498b"
+msgid "적 처치 횟수 1000000회 달성"
+msgstr "Defeat 1000000 enemies"
+
+msgctxt "e0aa454fa99aced8bfd43979d86fb2f8"
+msgid "ID=4000611"
+msgstr "ID=4000611"
+
+msgctxt "4e577461fa3ce05fe421b5cc93d609c3"
+msgid "고블린 슬레이어"
+msgstr "Hmmm"
+
+msgctxt "8d7dc876ad73ce874f24b7abcd29465c"
+msgid "가장 약해보이는 적을 53000회 처치"
+msgstr "Defeat 53000 weak enemies"
+
+msgctxt "a9faefa452cae3c4c2c9eb94c3108b0d"
+msgid "ID=4000711"
+msgstr "ID=4000711"
+
+msgctxt "027417416bfa6a7f8510119d7333e24f"
+msgid "오크 슬레이어"
+msgstr "I am back on the track"
+
+msgctxt "359da283075dbb92cd06e0ef9b11e359"
+msgid "평범해 보이는 적을 32000회 처치"
+msgstr "Defeat 32000 normal enemies"
+
+msgctxt "4ae7e3b6251470e84dac7abd72acb2ef"
+msgid "ID=4000811"
+msgstr "ID=4000811"
+
+msgctxt "179bcd6b5ad35c37d775ba2796f4f1a0"
+msgid "트롤 슬레이어"
+msgstr "Not quite an enemy"
+
+msgctxt "942d0ca1b1783882266cf31213ea3d0c"
+msgid "강해 보이는 적을 13000회 처치"
+msgstr "Defeat 13000 strong enemies"
+
+msgctxt "0e02b5c44d785c1fdffc61d4be17bf2c"
+msgid "ID=4000911"
+msgstr "ID=4000911"
+
+msgctxt "a5ef695798efb2d6063581f326adfe48"
+msgid "오우거 슬레이어"
+msgstr "Mini Bosses"
+
+msgctxt "27407dcd8d56dc2d5fed3fe1b6f15560"
+msgid "중간 보스급 적을 6300회 처치"
+msgstr "Defeat 6300 mini bosses"
+
+msgctxt "b1049dcd072308af836cd842e62611bb"
+msgid "ID=4001011"
+msgstr "ID=4001011"
+
+msgctxt "368780e67465fb4711ef2581b93eef32"
+msgid "보스 중의 보스 "
+msgstr "Am I the boss?"
+
+msgctxt "082520d654468bf8cfa507b92fcca7dd"
+msgid "보스 3800회 처치"
+msgstr "Defeat 3800 bosses"
+
+msgctxt "80d0725dfb2f61da2df1df6b9cfe8fdb"
+msgid "ID=4001811"
+msgstr "ID=4001811"
+
+msgctxt "f67d7e361d5ab34340fc11da627f1239"
+msgid "박살내주마"
+msgstr "God Breaker"
+
+msgctxt "7b4fa782674cb265437e266f2792e727"
+msgid "아머 브레이커 사용 횟수 80000회 달성"
+msgstr "Use Armor Break 80000 times"
+
+msgctxt "b7d8c8e1fe119b361526e025812b4056"
+msgid "ID=4002111"
+msgstr "ID=4002111"
+
+msgctxt "8f9d3fc1413ab2a0064ae862a130f16f"
+msgid "눈 감고도 할 수 있다"
+msgstr "I know everything"
+
+msgctxt "66e52d752f76328ef65ce6c12a67b17b"
+msgid "메이즈 누적 클리어 횟수 7500회 달성"
+msgstr "Clear 7500 Dungeons"
+
+msgctxt "00cf9749666e75115442c486065cbf6a"
+msgid "ID=4002211"
+msgstr "ID=4002211"
+
+msgctxt "d9e9934080e56dd93421936ac24070d3"
+msgid "신속 전문 러너"
+msgstr "Sonic"
+
+msgctxt "81f3652edab246c711ff0e9a265d5bba"
+msgid "메이즈를 3분 이내에 1500회 클리어"
+msgstr "Clear 1500 Dungeons in lesser than 3 minutes"
+
+msgctxt "bdb0d6d227de4e9436daa464912d7f9e"
+msgid "ID=4002311"
+msgstr "ID=4002311"
+
+msgctxt "446557f336f920ad9f8ccf9d00bd4b7f"
+msgid "세기의 컨트롤러"
+msgstr "SS-Master"
+
+msgctxt "62f5ee6d0c135e674a1fb0bdf127adb1"
+msgid "메이즈 클리어 랭크 SS를 1250회 달성"
+msgstr "Clear 1250 Dungeons with an SS rank"
+
+msgctxt "d2b7a3a5e504e03563a30e6482c256ca"
+msgid "ID=4002411"
+msgstr "ID=4002411"
+
+msgctxt "b1cd4a79c983129bdb2de1591dc477c6"
+msgid "매니악 플레이"
+msgstr "Was still AFK"
+
+msgctxt "204d7fc9ad49a477ed6431818885669d"
+msgid "메이즈 클리어 랭크 F를 1250회 달성"
+msgstr "Clear 1250 Dungeons with an F rank"
+
+msgctxt "0705c6210ba3041ecda39154a6872ea0"
+msgid "ID=4002511"
+msgstr "ID=4002511"
+
+msgctxt "d381f6670a88974b19f889c1b3c7b986"
+msgid "자수성가"
+msgstr "Wealthy"
+
+msgctxt "ea826d14d18ed27f51b06c7ba90866fd"
+msgid "드랍 제니 습득량 16820000 달성"
+msgstr "Pickup 16820000 Zenny"
+
+msgctxt "0dfbc78513b49530ab6bdc86089a09e1"
+msgid "ID=4002611"
+msgstr "ID=4002611"
+
+msgctxt "6df699f3b05d65848c91b703c2e1126a"
+msgid "에텔 부호"
+msgstr "Ether Millionaire"
+
+msgctxt "1fd0b72d5d80bd2c5cd3d9e08770388a"
+msgid "에텔 습득량 4215000 달성"
+msgstr "Gather 4215000 Ether"
+
+msgctxt "f492bc35d3f81dc985c0dfc8176bf721"
+msgid "ID=4002811"
+msgstr "ID=4002811"
+
+msgctxt "05445bf91ec5be00e2cb8e9415387454"
+msgid "전투 교관"
+msgstr "BP Collector"
+
+msgctxt "8e20141a1efb34e9b61ce0a8bb908aa9"
+msgid "BP 습득량 60000 달성"
+msgstr "Gather 60000 BP"
+
+msgctxt "f452293ff7329c7d7760998275d923f3"
+msgid "ID=4002906"
+msgstr "ID=4002906"
+
+msgctxt "4efe0db302348bcba53d083017505b90"
+msgid "진화하는 힘"
+msgstr "Level 60"
+
+msgctxt "d7e9751d6e726d81f2deada342f8be2e"
+msgid "레벨 60 달성"
+msgstr "Reach Level 60"
+
+msgctxt "17be149cd3bb452ef49d5d7d8395a330"
+msgid "ID=4003011"
+msgstr "ID=4003011"
+
+msgctxt "12d77d6bd51e253a71bef2da74b1fcbb"
+msgid "우리 200일이에요"
+msgstr "Lord of time"
+
+msgctxt "0c8e6a980a1dc90e261c62ff08407403"
+msgid "누적 플레이타임 4800시간 달성"
+msgstr "Play for 4800 hours"
+
+msgctxt "f371a668c4fb1b06b2a2d0b2a87624f8"
+msgid "ID=4003111"
+msgstr "ID=4003111"
+
+msgctxt "344afb93a924a9f7105b5a12bc22985b"
+msgid "강화는 이렇게 하는거다"
+msgstr "That's how you do it"
+
+msgctxt "17f6a7d5063912d9ad9e8b831d657af5"
+msgid "강화 700회 시도"
+msgstr "Enhance 700 times"
+
+msgctxt "f573cb764f226c7eef5498132013152a"
+msgid "ID=4003211"
+msgstr "ID=4003211"
+
+msgctxt "d7265808d31d4d856db1f9d1f5d1a076"
+msgid "이번 생은 망했어"
+msgstr "Failed..."
+
+msgctxt "7a4acfe5ef4c205a5bd62d1203170427"
+msgid "강화 400회 실패"
+msgstr "Fail 400 times on enhancing"
+
+msgctxt "9a6325d3f30f244936a600506847a3ec"
+msgid "ID=4003311"
+msgstr "ID=4003311"
+
+msgctxt "d3dd09ccffd0926b4fdd3f67a087c94c"
+msgid "제작은 예술이다."
+msgstr "Artisan"
+
+msgctxt "48f6c46f61b3bfa0abdf9a03aa0b141e"
+msgid "제작 700회 시도"
+msgstr "Crafted 700 times"
+
+msgctxt "69fa6ea41352991ee42621a4355e4d56"
+msgid "ID=4003411"
+msgstr "ID=4003411"
+
+msgctxt "cdd963018b20e62445cd3a7ec0c7916e"
+msgid "분해는 삶의 낙"
+msgstr "My life, my dismantling"
+
+msgctxt "c6202bf5c28319f0354a8c946b1c75ed"
+msgid "분해 1250회 시도"
+msgstr "Dismantled 1250 times"
+
+msgctxt "91f29a915c974396911beab62534e1b3"
+msgid "ID=4003511"
+msgstr "ID=4003511"
+
+msgctxt "44a53be57b150c736f4d066709bbcbbb"
+msgid "지름신 강림"
+msgstr "God of shopping"
+
+msgctxt "6a815215ad1e5480a1f5bb573dddbad0"
+msgid "거래소에서 1500회 구매 성공"
+msgstr "Buy 1500 times anything on the market"
+
+msgctxt "9816e8771bf0d44b40914a8593be6323"
+msgid "ID=4004406"
+msgstr "ID=4004406"
+
+msgctxt "84f2bb5200a3802c06126dbd86781559"
+msgid "천연기념물 그루톤"
+msgstr "Gluttons? Where?"
+
+msgctxt "cc007caa67d842f350b92cf6524b0cfb"
+msgid "그루톤 750회 처치"
+msgstr "Defeat 750 Gluttons"
+
+msgctxt "ca4d9438036a608f0d7cf644e9befbcf"
+msgid "ID=4004506"
+msgstr "ID=4004506"
+
+msgctxt "f6ee0bde6509e1e0d7854737dc94f6db"
+msgid "먹고 자고 미션하고"
+msgstr "Every Day, Month, Year"
+
+msgctxt "e3168ce53de5066521e9b5aba993350f"
+msgid "데일리 미션 2000회 클리어"
+msgstr "Clear 2000 daily missions"
+
+msgctxt "66b940c642f547e4162dbb92f64ceb7b"
+msgid "ID=4004606"
+msgstr "ID=4004606"
+
+msgctxt "21afc343ab7952b69cf8dd2927a176fb"
+msgid "준비되어 있는 사람"
+msgstr "Nope. I found ya"
+
+msgctxt "83e216b8f51032d16ffbcdf74412c68c"
+msgid "히든 이벤트 2000회 클리어"
+msgstr "Clear 2000 Hidden Events"
+
+msgctxt "a8f189117434ced10c3679ee9b717910"
+msgid "ID=4004706"
+msgstr "ID=4004706"
+
+msgctxt "006cfd06e76eef839b55da52aa397b48"
+msgid "가상세계의 숙련자"
+msgstr "Expert"
+
+msgctxt "e1af3fec2cd3303fdb3dfdad4feafc89"
+msgid "스틸 그레이브 300회 도전"
+msgstr "Clear 300 times Steel Grave"
+
+msgctxt "6564c6266d9c9eee497e51920f4ead3d"
+msgid "ID=4004806"
+msgstr "ID=4004806"
+
+msgctxt "ce16e37da1a35021c0122bce6a8807cd"
+msgid "마일리지는 어디에"
+msgstr "I still can't fly"
+
+msgctxt "c9d227d693f7b0c3b9caf4f5b0d01fde"
+msgid "스카이 크래프트 150회 이용"
+msgstr "Use the helicopter 150 times"
+
+msgctxt "4aff94196a6cc623fc4d9ed020b06924"
+msgid "ID=4008001"
+msgstr "ID=4008001"
+
+msgctxt "fbdfd6ebbea1c2af9e98b48a136792ac"
+msgid "공허를 넘어온 자"
+msgstr "Destroy the Void"
+
+msgctxt "7627146406607e498067c85eebfe9d97"
+msgid "알터 오브 보이드 [하드] 난이도 1회 클리어"
+msgstr "Clear Altar of the Void [Very Hard] once"
+
+msgctxt "08f8db58c9f0f26b462a5d2b8fe01bbd"
+msgid "ID=4008002"
+msgstr "ID=4008002"
+
+msgctxt "eaf4f72b437395e13e65c28666386d8a"
+msgid "공허를 제압한 자"
+msgstr "Don't give him pats"
+
+msgctxt "7021200a69b9a0356aecd916021dc066"
+msgid "알터 오브 보이드 [하드] 난이도 10회 클리어"
+msgstr "Clear Altar of the Void [Very Hard] 10 times"
+
+msgctxt "22eb0c4f1bc807a9454ed6c1bccb2782"
+msgid "ID=4008003"
+msgstr "ID=4008003"
+
+msgctxt "19f5900a9bdbcd31db3720522967d4d9"
+msgid "공허를 파괴한 자"
+msgstr "Slap him"
+
+msgctxt "9fc09a9fafb921d12abf16b2fc63d83e"
+msgid "알터 오브 보이드 [하드] 난이도 20회 클리어"
+msgstr "Clear Altar of the Void [Very Hard] 20 times"
+
+msgctxt "567d5e3149c1e33ed6f202190d4a1c20"
+msgid "ID=4008004"
+msgstr "ID=4008004"
+
+msgctxt "faa3cb9308bec572aa644cb18eb57ad4"
+msgid "공허를 지배한 자"
+msgstr "Don't listen to him"
+
+msgctxt "e5325c57794676891f5c1f88a38852c0"
+msgid "알터 오브 보이드 [하드] 난이도 30회 클리어"
+msgstr "Clear Altar of the Void [Very Hard] 30 times"
+
+msgctxt "ef255d7dfe30e948f15a5aa5898e6496"
+msgid "ID=4008005"
+msgstr "ID=4008005"
+
+msgctxt "6ecb7eb8569458329fa581d9f2d59cdd"
+msgid "공허를 정복한 자"
+msgstr "Dodge, jump, die"
+
+msgctxt "34d7b41ba1e65dc825923441f617e34d"
+msgid "알터 오브 보이드 [하드] 난이도 50회 클리어"
+msgstr "Clear Altar of the Void [Very Hard] 50 times"
+
+msgctxt "8f5fae334874624a57236190131f3cbd"
+msgid "ID=4008101"
+msgstr "ID=4008101"
+
+msgctxt "b9b099fe7b63fa190634bb52f7f0d521"
+msgid "공허의 괴물을 제압하다"
+msgstr "Master of the Void"
+
+msgctxt "3d3c948eac950d5d33a5e1350cf81223"
+msgid "알터 오브 보이드 [매니악] 난이도 1회 클리어"
+msgstr "Clear Altar of the Void [Expert] once"
+
+msgctxt "3a53ca42d3a0f5642a80cdf3dcb266a3"
+msgid "ID=4008102"
+msgstr "ID=4008102"
+
+msgctxt "bfbacd1339f11254762f86de3a5b9038"
+msgid "공허의 괴물을 돌려보내다"
+msgstr "Dangerous intend"
+
+msgctxt "57ed501e6688a74e5f49f0dc784f1be1"
+msgid "알터 오브 보이드 [매니악] 난이도 10회 클리어"
+msgstr "Clear Altar of the Void [Expert] 10 times"
+
+msgctxt "4d5341abb45f19e57cabc642712114a8"
+msgid "ID=4008103"
+msgstr "ID=4008103"
+
+msgctxt "0af70ff4f9f9a74cef3d47edf6b26832"
+msgid "공허의 괴물을 봉인하다"
+msgstr "Careful now"
+
+msgctxt "fee258ee7167050e2ca3cf8890c1bb03"
+msgid "알터 오브 보이드 [매니악] 난이도 20회 클리어"
+msgstr "Clear Altar of the Void [Expert] 20 times"
+
+msgctxt "f0b580511af3de2b5e1e87f0c1678841"
+msgid "ID=4008104"
+msgstr "ID=4008104"
+
+msgctxt "94fe99f69ccd75909bba83aa5ca0960c"
+msgid "공허의 괴물을 잠식하다"
+msgstr "Getting used to it"
+
+msgctxt "ba54fa7b623183931b91720fde0307d8"
+msgid "알터 오브 보이드 [매니악] 난이도 30회 클리어"
+msgstr "Clear Altar of the Void [Expert] 30 times"
+
+msgctxt "87699dc6cee76cb074fd1cd37f984460"
+msgid "ID=4008105"
+msgstr "ID=4008105"
+
+msgctxt "fa8e3f3f6e2fd038d7ee417e15e3f4e8"
+msgid "공허의 괴물을 척살하다"
+msgstr "Maybe we can be friends?"
+
+msgctxt "cdc5f9f4df4bf6e5e3efbcffd8802713"
+msgid "알터 오브 보이드 [매니악] 난이도 50회 클리어"
+msgstr "Clear Altar of the Void [Expert] 50 times"
+
+msgctxt "503c859eb7f90721f2e08880705af16d"
+msgid "ID=4009001"
+msgstr "ID=4009001"
+
+msgctxt "500c192afa1d115562738c7d5f7c9177"
+msgid "왁자지껄 여름 휴가 "
+msgstr "Rumble Summer Vacation Ⅰ"
+
+msgctxt "95cd383942dcb8bc7dfd1fc54c8b5f68"
+msgid "럼블 베케이션 노아 50회 처치"
+msgstr "Defeat [Stunning Noah] 50 times"
+
+msgctxt "a3a94cba99dd852c35d51dcb56f7fdcd"
+msgid "ID=4009002"
+msgstr "ID=4009002"
+
+msgctxt "68f948f9e5392b1375695231c06c5e72"
+msgid "시끌벅적 여름 휴가 "
+msgstr "Rumble Summer Vacation Ⅱ"
+
+msgctxt "c14c21b0cd3d107e163882cc127a16cc"
+msgid "럼블 베케이션 에녹 50회 처치"
+msgstr "Defeat [Overconfident Enoch] 50 times"
+
+msgctxt "d3b74a08650ac5cd982eb44ed91a1e3f"
+msgid "ID=4008201"
+msgstr "ID=4008201"
+
+msgctxt "b64799134916511b7423279ffe7e51c5"
+msgid "은신처의 추적자"
+msgstr "Raphakumba"
+
+msgctxt "c77b139ab055c9e5a63cc3db0b08bfa1"
+msgid "히든 하이드아웃 1회 클리어"
+msgstr "Clear Hidden Hideout once"
+
+msgctxt "76e868de8b7a179b7c9061c988a45d0a"
+msgid "ID=4008202"
+msgstr "ID=4008202"
+
+msgctxt "46773a230008cab80cd212eb4c6ab08e"
+msgid "은신처의 방문자"
+msgstr "Jump, Jump!"
+
+msgctxt "ff3f6e0879d86c96d6ad27b52af37039"
+msgid "히든 하이드아웃 10회 클리어"
+msgstr "Clear Hidden Hideout 10 times"
+
+msgctxt "ea8f45d7211ab4928989ae01775135b9"
+msgid "ID=4008203"
+msgstr "ID=4008203"
+
+msgctxt "f7aa2511ee86d35c3ee20b573d4f5d4b"
+msgid "은신처의 거주자"
+msgstr "Stop bully!!"
+
+msgctxt "5ea73908dd9512cb41ed9dcab06f4467"
+msgid "히든 하이드아웃 20회 클리어"
+msgstr "Clear Hidden Hideout 20 times"
+
+msgctxt "59cc47ed41a89a36558d071cfaa4a269"
+msgid "ID=4008204"
+msgstr "ID=4008204"
+
+msgctxt "5a76ff6fceba4fd039338de5b96346a9"
+msgid "은신처의 파괴자"
+msgstr "Poor fish guy"
+
+msgctxt "416658e9b5c4a70a9e1f4e91c3322433"
+msgid "히든 하이드아웃 30회 클리어"
+msgstr "Clear Hidden Hideout 30 times"
+
+msgctxt "d0f796535f4d4f3e04a6c634de02ae71"
+msgid "ID=4008205"
+msgstr "ID=4008205"
+
+msgctxt "00f6e94c935224f3e42f076e21ad9c77"
+msgid "은신처의 정복자"
+msgstr "No mercy, eh?"
+
+msgctxt "c5123ee61c4d2325bddee5d5dba505c7"
+msgid "히든 하이드아웃 50회 클리어"
+msgstr "Clear Hidden Hideout 50 times"
+
+msgctxt "674d7c4c02f32d0321f5a095fa9fffcf"
+msgid "ID=4009003"
+msgstr "ID=4009003"
+
+msgctxt "f7a0c162e2bf2e2dbce9658066905455"
+msgid "왁자지껄 여름 휴가 Vol.2"
+msgstr "Rumble Summer Vacation Vol.2"
+
+msgctxt "9cc407bc45f9fd8c4768778d372fe268"
+msgid "럼블 베케이션 노아 20회 처치"
+msgstr "Defeat [Stunning Noah] 20 times"
+
+msgctxt "d2a59851299824060ad31bbbada26842"
+msgid "ID=4009004"
+msgstr "ID=4009004"
+
+msgctxt "8ee318041a064538a447f635aeace8a3"
+msgid "시끌벅적 여름 휴가 Vol.2"
+msgstr "Rumble Summer Vacation Vol.2 "
+
+msgctxt "5cbffc5ffdf5ce1ce0b8e95a8a4742db"
+msgid "럼블 베케이션 에녹 20회 처치"
+msgstr "Defeat [Overconfident Enoch] 20 times"
+
+msgctxt "81d8db83723ddb4387b8535de6678845"
+msgid "ID=4008301"
+msgstr "ID=4008301"
+
+msgctxt "7ac14d401489c9e2e78b31a055b55581"
+msgid "검은 달에 도달하다"
+msgstr "Black moon"
+
+msgctxt "cd17a15adcfee10f265f51a1f3b9e293"
+msgid "루나폴 1회 클리어"
+msgstr "Clear Lunar Fall 1 time"
+
+msgctxt "af7850d8cfdf053b12d1b056818522a6"
+msgid "ID=4008302"
+msgstr "ID=4008302"
+
+msgctxt "18b6afaf72683d4ffefe36c81ea18638"
+msgid "군단을 물리치다"
+msgstr "Defeat the legion"
+
+msgctxt "890c8fb554dbc45d517b2373f557e41c"
+msgid "루나폴 10회 클리어"
+msgstr "Clear Lunar Fall 10 times"
+
+msgctxt "32fbd99fc883b04d19143296447aa243"
+msgid "ID=4008303"
+msgstr "ID=4008303"
+
+msgctxt "42c975a93e0fbc5843db18c9c4d7500a"
+msgid "검은 달을 제압하다"
+msgstr "Take down the black moon"
+
+msgctxt "ca223f6e60a939bbafc73ad713787858"
+msgid "루나폴 20회 클리어"
+msgstr "Clear Lunar Fall 20 times"
+
+msgctxt "203e7b68f6342b1a806713f0951d4850"
+msgid "ID=4008304"
+msgstr "ID=4008304"
+
+msgctxt "7bfb0c29f82453d7ef1d2961fd8c8141"
+msgid "군단의 숙적이 되다"
+msgstr "Become a legion"
+
+msgctxt "b05ae7125cc60b19d2a56e633d83fe61"
+msgid "루나폴 30회 클리어"
+msgstr "Clear Lunar Falls 30 times"
+
+msgctxt "7eb522c834e31dfe2438d9fbe0f4027b"
+msgid "ID=4008305"
+msgstr "ID=4008305"
+
+msgctxt "04974a6f7f016f19cd1448cc58dcc583"
+msgid "검은 달을 몰락시키다"
+msgstr "Destroy the black moon"
+
+msgctxt "1cfc9d60d5a7e0be3d8730f6c3738006"
+msgid "루나폴 50회 클리어"
+msgstr "Clear Lunar Falls 50 times"
+

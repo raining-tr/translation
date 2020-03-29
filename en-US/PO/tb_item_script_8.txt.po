@@ -1,0 +1,7285 @@
+# Pengu <pengukouhai@gmail.com>, 2020. #zanata
+# minilink <miniLink78@gmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-03-22 07:09-0400\n"
+"Last-Translator: Pengu <pengukouhai@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "3571d58229d9d196d60ceb335adaae1d"
+msgid "기간테스 코어 버스터"
+msgstr "Gigantes Core Buster"
+
+msgctxt "b90f6ad8467cb6d1cdb6ccb6e1d853bd"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"무기고에 숨겨져 있던 거대 병기, 슈퍼 아벨의 정보를 토대로 만든 권총으로 알 수 없는 용기가 흘러나와 사용자로 하여금 어떠한 적이든 "
+"상대할 수 있을 것만 같은 기분이 들게 한다.\\n\\n가자! 슈퍼 아벨!\\n우리의 힘을 보여주는거야!\\n- 아벨 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Pistol]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A pistol based on Super Abel's information, hidden "
+"in a secret arsenal. It makes the user feel like they can face any enemy."
+"\\n\\nGo! Super Abel!\\nLet's show them our strength!\\n- Abel -"
+
+msgctxt "da12f65c914cba0b0b66be141831c5c8"
+msgid "ID=112491301"
+msgstr "ID=112491301"
+
+msgctxt "cfcd208495d565ef66e7dff9f98764da"
+msgid "0"
+msgstr "0"
+
+msgctxt "7e16965740ea90925661779a53a66c48"
+msgid "카본 슈터"
+msgstr "Carbon Shooter"
+
+msgctxt "c6a30aea720d868ab267a5ab7f1f8737"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 권총 "
+"형태의 무기지만 보통의 탄환을 사용하지 않고 소울 에너지를 탄환으로 만들어 사용하기 때문에 소울워커가 아닌 이상 제대로 사용할 수 없다."
+"\\n어윈 아크라이트가 사용한다."
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Pistol]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A pistol-type weapon, it can only be used by a Soul "
+"Worker as it uses Soul Energy rather than ordinary bullets.\\nCan be used by "
+"Erwin Arclight."
+
+msgctxt "51d6660f04cb5242dc4f60616a521318"
+msgid "ID=112492301"
+msgstr "ID=112492301"
+
+msgctxt "90d9038d3431f488662758ec58d269d0"
+msgid "스틸 고스트 슈터"
+msgstr "Steel Ghost Shooter"
+
+msgctxt "1b48203fe52ee270cf44d0cde71744e7"
+msgid "ID=112503401"
+msgstr "ID=112503401"
+
+msgctxt "ef1b69cf3f5ae8f8f9a02ce5c370b220"
+msgid "어웨이큰 마네스 건"
+msgstr "Awakened Menace Gun"
+
+msgctxt "5e951f12af8a31e90f8184427b17ca1f"
+msgid "ID=112513551"
+msgstr "ID=112513551"
+
+msgctxt "e19aba7a4bf042c26041cd546b20e12b"
+msgid "건 타입 퀸즈 아크"
+msgstr "Gun Type - Queen's Arc"
+
+msgctxt "9b0ce3d453908e1b1b615c9d5b5070af"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커 노아의 익시드, 퀸 오브 플라워를 참고하여 만든 권총. 질량형 홀로그램을 구현하기 위해서는 막대한 소울 에너지가 필요하기 때문에 "
+"아무리 소울워커라도 일정 능력을 가지지 않는 이상 사용할 수 없는 무기이다.\\n\\n이것이 제 익시드. 질랑형 홀로그램 퀸 오브 "
+"플라워입니다. 아름답죠?\\n- 노아 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Pistol]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A pistol made with reference to Noah's exceed "
+"''Queen of Flower'', The holograms require massive amount of soul energy, so "
+"it can only be used be Soul Workers with certain abilities.\\n\\nThis is my "
+"exceed . This is the hologram Queen of Flower. Isn't it beautiful?\\n- Noah -"
+""
+
+msgctxt "2444b7217a2dee37c35d3f53ed3a1cee"
+msgid "ID=112511301"
+msgstr "ID=112511301"
+
+msgctxt "03f51bb041d37f7179b789bd5b077b27"
+msgid "컴포짓 슈터"
+msgstr "Composite Shooter"
+
+msgctxt "d39867ed5ae0916d050af03126fdd05f"
+msgid "ID=112512301"
+msgstr "ID=112512301"
+
+msgctxt "164c61a356b7b10868113b888c1970c0"
+msgid "어썰트 슈터"
+msgstr "Assault Shooter"
+
+msgctxt "45c5c57773e44391fb5160607e5b511a"
+msgid "ID=112523401"
+msgstr "ID=112523401"
+
+msgctxt "e6e0b6432d385d4a35fc69e7d719f4e4"
+msgid "인피니트 림 슈터"
+msgstr "Infinite Rim Shooter"
+
+msgctxt "5553ecc5c79e79480922e3868d4698b0"
+msgid "ID=112533551"
+msgstr "ID=112533551"
+
+msgctxt "39eb4b6623f8909de5f69c187aa400a3"
+msgid "넘버리스 레이 버스터"
+msgstr "Numberless Ray Buster"
+
+#, fuzzy
+msgctxt "ab625d3f8e3190864b6a6df246247431"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커 에녹의 익시드, 넘버리스 림을 참고하여 만든 권총으로 장치를 통해 공기를 빨아들여 강력한 운동 에너지로 전환시킨다.\\n\\n그 "
+"이름하여 넘버리스 림!\\n수십개의 자율 공격 비트가 그대를 유린할지니!\\n- 에녹 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Pistol]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A pistol made with reference to Enoch's exceed "
+"''Numberless Rim'', it sucks the air and converts it into powerful kinetic "
+"energy.\\n\\nIt's name is Numberless Rim!\\nDozens of autonomous bots will "
+"attack you!\\n- Enoch -"
+
+msgctxt "bbfc39fefdce14f37e603c8af2b4d8be"
+msgid "ID=112531301"
+msgstr "ID=112531301"
+
+msgctxt "e1526b7a3fcf5e97ef97845a64ad8467"
+msgid "티탄 슈터"
+msgstr "Titan Shooter"
+
+msgctxt "1e10e0e50695b4eaba0fb0f2a98ad6ee"
+msgid "ID=112532301"
+msgstr "ID=112532301"
+
+msgctxt "a39eed72ef51e602739be93530ad4088"
+msgid "메탈 버스터 슈터"
+msgstr "Metal Buster Shooter"
+
+msgctxt "a2469e25e42099afa2a5cea9fe0d2b6b"
+msgid "ID=112543401"
+msgstr "ID=112543401"
+
+msgctxt "97e54b4fd5ce4308ddf4d8d7afb27f75"
+msgid "씰드 레이지 슈터"
+msgstr "Shield Laser Shooter"
+
+msgctxt "69576bdfd82b71a819378b5326dd404d"
+msgid "ID=112553551"
+msgstr "ID=112553551"
+
+msgctxt "9dbb187ee669a7c9fef4da031d4fab33"
+msgid "글레어즈 포스 블래스터"
+msgstr "Glare's Force Blaster"
+
+msgctxt "8669dc3807de2ec72109918c3505760e"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"최초, 최강의 니어 소울워커, 시온과의 전투 정보를 토대로 만든 권총으로 시온은 이미 사라졌지만 총신 안에서 알 수 없는 박동이 느껴지고 "
+"있다.\\n어윈 아크라이트가 사용한다.\\n\\n…뭐, 상관없다.\\n나에게 적의를 드러내는 건 모두 죽이면 돼.\\n- 시온 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Pistol]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon, A pistol based on the information of the first "
+"battle against Shion, even thought Shion has disappeared a strange beat can "
+"be felt inside the barrel.\\nCan be used by Erwin Arclight.\\n\\n…Well, It "
+"doesn't matter.\\nKill all those who show hostility towards me.\\n- Shion -"
+
+msgctxt "7a4a92a053aa5924e40326108a4476a9"
+msgid "ID=113011301"
+msgstr "ID=113011301"
+
+msgctxt "22b21981015c6a0190144217fca3ec0f"
+msgid "레머넌트 사이드"
+msgstr "Remnant side"
+
+msgctxt "4527fcb9e25e9ffdb7519bd46bf625bd"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 정체를 "
+"알 수 없는 괴물과 조우하자 강렬한 빛과 함께 손에 쥐어진 무기.\\n거대한 낫의 형상을 하고 있으며, 마치 오래전부터 함께한 것 같은 "
+"아련한 감정이 느껴진다.\\n릴리 블룸메르헨이 사용한다.\\n\\n쏟아내, 네 본성을.\\n그게 너와 영원히 함께할 이 힘의 원천이니까."
+"\\n- 의문의 아이 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. Encountering an unknown monster makes it glow in "
+"your hand\\nIt has the shape of giant scythe, it feels like you've been "
+"together for a long time\\nCan be used by Lily Bloommerchen.\\n\\nUnleash "
+"your true nature.\\nThat's the source of the this power that will be with "
+"you forever.\\n- Mysterious Child -"
+
+msgctxt "be1a8d44e80f9dacfbf676e92d5997f8"
+msgid "ID=113031301"
+msgstr "ID=113031301"
+
+msgctxt "6df95ea6c996c3a0471f9b789439a89c"
+msgid "하빙거 사이드"
+msgstr "Harbinger Scythe"
+
+msgctxt "a9c72c3d1df424cdcd03cf29bb5ef1dc"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 거대한 "
+"낫 형태의 무기로 특별한 힘이 담겨 있어 아무나 사용할 수 없다. 용도에 따라 형태가 변형되기도 한다.\\n릴리 블룸메르헨이 사용한다."
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A huge scythe-shaped weapon that contains special "
+"powers, it can't be used by anyone. It's shape may change depending on the "
+"usage.\\nCan be used by Lily Bloommerchen."
+
+msgctxt "e91ebc1f97dc5c9aaed59a531be05251"
+msgid "ID=113042301"
+msgstr "ID=113042301"
+
+msgctxt "f19e47199bef25d2d32d263c8627c5e8"
+msgid "레니어리 사이드"
+msgstr "Linear Scythe"
+
+msgctxt "30fec960e196ad7948356e83350857c5"
+msgid "ID=113043401"
+msgstr "ID=113043401"
+
+msgctxt "a79d9a43a8ea5f0a9d6a6c4b99ebda98"
+msgid "래비드 팽 사이드"
+msgstr "Rabid Fang Scythe"
+
+msgctxt "100706148950c75c6e3766be24383051"
+msgid "ID=113053551"
+msgstr "ID=113053551"
+
+msgctxt "34cd9e847f23e13c74dbfc7664bee6ff"
+msgid "드레드 울프 메인 사이드"
+msgstr "Dread Wolf Main Scythe"
+
+msgctxt "47086aee75ab72fbd978f80fbcedf74c"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 시추 "
+"현장에서 만난 소울정크의 각성체, 카인과의 전투 정보를 토대로 만든 낫으로 카인의 갈기를 참고하여 만들었다.\\n릴리 블룸메르헨이 "
+"사용한다.\\n\\n아하하하! 한낱 변견이 주제도 모르고…!!\\n- 릴리 블룸메르헨 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A scythe based on the information from the battle "
+"against Soul Junks and Cain at the drilling site.\\nCan be used by Lily "
+"Bloommerchen.\\n\\nAhahaha! This dog doesn't know anything…!!\\n- Lily "
+"Bloommerchen -"
+
+msgctxt "b3ec2b8944e0097978dbe7b3d7c85516"
+msgid "ID=113061301"
+msgstr "ID=113061301"
+
+msgctxt "47ce9898d3e0b8b9bf26ac49e3a79058"
+msgid "스탠다드 사이드"
+msgstr "Standard Scythe"
+
+msgctxt "e2f067fb33a7821fcbdef4448bc01dcd"
+msgid "ID=113062301"
+msgstr "ID=113062301"
+
+msgctxt "3d75d8d89ed60e7769c712f806c57d39"
+msgid "스푸키 퍼펫 사이드"
+msgstr "Spooky Puppet Scythe"
+
+msgctxt "8d2365cb631af7d2532d6a0e86d83081"
+msgid "ID=113073401"
+msgstr "ID=113073401"
+
+#, fuzzy
+msgctxt "fdaacbf4bb3d47c9e904acacd567ef49"
+msgid "수어사이드 퍼펫 브랜디셔"
+msgstr "Suicide Puppet Brandisher "
+
+msgctxt "99a51697df6aac3112bb5a01afac9ba7"
+msgid "ID=113083551"
+msgstr "ID=113083551"
+
+msgctxt "e5831c5d96883118c1b865923a316ff2"
+msgid "사이드 타입 퍼펫 블래스터"
+msgstr "Puppet Blaster Scythe"
+
+msgctxt "c015a7a14fce9105393366386415d91d"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. R "
+"스퀘어 광장에서 만난 거대한 인형, 빅 퍼펫과의 전투 정보를 토대로 만든 거대한 낫으로 빅 퍼펫의 폭발력이 담긴 구체를 달았다. 단순한 "
+"장식처럼 보이지만 구슬에 담긴 강력한 힘은 무엇이든 갈라버린다.\\n릴리 블룸메르헨이 사용한다.\\n\\n거대 자폭 병기, 빅 퍼펫 저지 "
+"작전 실시!\\n- 클로이 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A giant scythe based on the information of the "
+"battle against Big Puppet met at R Sqaure, attached to it is a sphere "
+"containing Big Puppet's explosive powers. It looks like a simple decoration "
+"but the power in the sphere can split anything.\\nCan be used by Lily "
+"Bloommerchen.\\n\\nA huge self-destructing weapon, Big Puppet destructing "
+"operation started!\\n- Chloe -"
+
+msgctxt "0c4c62a78d00337e13bba819dfff827d"
+msgid "ID=113091301"
+msgstr "ID=113091301"
+
+msgctxt "5e51d3c06bc21289103d43a4d38c7f8c"
+msgid "브로드 사이드"
+msgstr "Broad Scythe"
+
+msgctxt "4a47ca8300894d7dcf6dd7d6e89d9a01"
+msgid "ID=113092301"
+msgstr "ID=113092301"
+
+msgctxt "42b53510666ab991c489bee58ec682ee"
+msgid "언체인드 퍼펫 사이드"
+msgstr "Unchained Puppet Scythe"
+
+msgctxt "c92ebf23904492631666427c86300303"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 거대한 "
+"낫 형태의 무기로 특별한 힘이 담겨 있어 아무나 사용할 수 없다. 용도에 따라 형태가 변형되기도 한다.\\n릴리 블룸메르헨이 사용한다."
+"\\n\\n너희들은 모두 꼭두각시야. 줄에 묶여있지. 줄에 말이야….\\n-??-"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A huge scythe-shaped weapon that contains special "
+"powers, it can't be used by anyone. It's shape may change depending on the "
+"usage.\\nCan be used by Lily Bloommerchen.\\n\\nYou're all puppets. Tied to "
+"a string. In a line….\\n-??-"
+
+msgctxt "05297ad801b1ed12d4047bb12154c61b"
+msgid "ID=113103401"
+msgstr "ID=113103401"
+
+msgctxt "2df806c79f3121625af2d4787f08e1b7"
+msgid "트윈헤드 퍼펫 사이더"
+msgstr "Twinhead Puppet Scythe"
+
+msgctxt "85e8ac305c573c5925c6bafd7ea15b0f"
+msgid "ID=113113551"
+msgstr "ID=113113551"
+
+msgctxt "8030293c692c3cd921f531efe586a9da"
+msgid "파나틱 디재스터 가이즈"
+msgstr "Fanatic Disaster Scythe"
+
+msgctxt "667b937c9c80def52ad11ed715e4c0f7"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 괴전파 "
+"발생 지역에서 만난 인형, 잭 더 킹과의 전투 정보를 토대로 만든 거대한 낫. 이 낫을 들자 주변의 인형들이 이상하게 피하는 느낌이 든다."
+"\\n릴리 블룸메르헨이 사용한다.\\n\\n에드가님! 사랑합니다! 에드가님!!\\n- 잭 더 킹 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A giant scythe based on the the information of the "
+"battle against Jack the King. Strangely When the scythe is held it feels as "
+"if the dolls avoid it.\\nCan be used by Lily Bloommerchen.\\n\\nEdgar! Love "
+"it! Edgar!!\\n- Jack the King -"
+
+msgctxt "93ca11a834cf8d3350e689bed351c74d"
+msgid "ID=113111301"
+msgstr "ID=113111301"
+
+msgctxt "d8f31b8139a7c391e653fd1a51ca678c"
+msgid "플레이트 사이드"
+msgstr "Plate Scythe"
+
+msgctxt "27a49078cc150ca70b3ed8341a804609"
+msgid "ID=113112301"
+msgstr "ID=113112301"
+
+msgctxt "8def7c6c11093e83b68b7b45f2d97fdc"
+msgid "슬로피 피에로 사이드"
+msgstr "Sloppy Pierrot Scythe"
+
+msgctxt "49e6cf03a8a74ad602a5e067e11595f5"
+msgid "ID=113123401"
+msgstr "ID=113123401"
+
+msgctxt "9eba3d7718fb868cbfb7fe92504b05d8"
+msgid "루나틱 제스터 트릭 사이드"
+msgstr "Lunatic Jester Trick Scythe"
+
+msgctxt "ec9cc3148d7cc6e4cecf32448220f0b9"
+msgid "ID=113133551"
+msgstr "ID=113133551"
+
+msgctxt "59accda7a51599134ee408fa621f83ca"
+msgid "매드니스 할리퀸 사이드"
+msgstr "Madness Harlequin Scythe"
+
+msgctxt "317d2a1ea46e4a580535fc7d6feb80b7"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 버려진 "
+"병원에서 만난 인형들의 주인, 에드가와의 전투 정보를 토대로 만든 거대한 낫이다. 에드가의 푸른 수정에 담긴 힘을 해석하여 무기에 "
+"구현하였지만 어찌된 것인지 인형들의 공격은 더욱 거세졌다.\\n릴리 블룸메르헨이 사용한다.\\n\\n즐거운 쇼였습니다. 다음엔... 더 "
+"큰 무대에서.\\n- 에드가 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color="
+"'#9D927B'>\\n\\n소Soul Worker exclusive weapon. A giant scythe based on the "
+"information of the battle against Edgar, the owner of the dolls met in an "
+"abandoned hospital. The power of Edgar's blue crystal was interpreted and "
+"embodied in the weapon, but the attack of the dolls became even stronger."
+"\\nCan be used by Lily Bloommerchen.\\n\\nIt was a fun show. Next time... On "
+"a bigger stage.\\n- Edgar -"
+
+msgctxt "f4c983e1672748df6843fcf77e340460"
+msgid "ID=113141301"
+msgstr "ID=113141301"
+
+msgctxt "28d30eaf59d5316b891a90f5f4ced0cc"
+msgid "인핸스드 사이드"
+msgstr "Enhanced Scythe"
+
+msgctxt "e09f6d3d3d101234427b3516b00a26d5"
+msgid "ID=113142301"
+msgstr "ID=113142301"
+
+msgctxt "ab1bfbf674b0bb8f49228b56da194af8"
+msgid "트래쉬 버스터 사이드"
+msgstr "Trash Buster Scythe"
+
+msgctxt "260cb1bb64129960f1beddbd968ca976"
+msgid "ID=113153401"
+msgstr "ID=113153401"
+
+msgctxt "4c0092e272e8f7386e34b94c777c14be"
+msgid "어벤던드 트래쉬 브랜디셔"
+msgstr "Abundant Trash Brandisher"
+
+msgctxt "99291754f734c92e31dad2304314543f"
+msgid "ID=113163551"
+msgstr "ID=113163551"
+
+msgctxt "89631311c274a3f1e164534a8cd32e29"
+msgid "골렘 디스트로잉 사이드"
+msgstr "Golem Destroying Scythe"
+
+#, fuzzy
+msgctxt "a347a14b34fd0e35c8b830f6b7b7cbbe"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 해안가 "
+"도로에 나타난 소울정크, 아스팔트 골렘과의 전투 정보를 토대로 만든 거대한 낫으로 아스팔트와 콘크리트가 거의 주 재료인지라 상당한 무게를 "
+"자랑한다. 드는 것 만으로도 힘에 부친다.\\n릴리 블룸메르헨이 사용한다.\\n\\n다음부터는 이런 시시한 일은 그쪽 선에서 해결해주세요."
+"\\n- 릴리 블룸메르헨 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A giant a scythe based on the information from the "
+"battle against Soul Junks and Asphalt Golem met on the waterfront road, it "
+"has a considerable weight because asphalt and concrete are the main "
+"materials. Just lifting it takes some power.\\nCan be used by Lily "
+"Bloommerchen.\\n\\nNext time, settle this trivial matter on that line.\\n- "
+"Lily Bloommerchen -"
+
+msgctxt "0aa82724d324b867f4adcd3a576fbbbc"
+msgid "ID=113161301"
+msgstr "ID=113161301"
+
+msgctxt "b56aceec9744c780e880166fd3de4d1a"
+msgid "포지드 사이드"
+msgstr "Forged Scythe"
+
+msgctxt "e2fe3851122115547013dd0bf76166e5"
+msgid "ID=113162301"
+msgstr "ID=113162301"
+
+msgctxt "97a6ed4652ed2b2fe25a0d5ee1ffbcdd"
+msgid "스팅키 뮤턴트 사이드"
+msgstr "Stinky Mutant Scythe"
+
+msgctxt "3f5305c54235c5207fa153ef14db401c"
+msgid "ID=113173401"
+msgstr "ID=113173401"
+
+msgctxt "4f8d9aa3110b97805c3902721adf128c"
+msgid "테인티드 소울 엣지"
+msgstr "Tainted Soul Edge"
+
+msgctxt "92cb27db46f2ac8f17243b9c07c58cb8"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 거대한 "
+"낫 형태의 무기로 특별한 힘이 담겨 있어 아무나 사용할 수 없다. 용도에 따라 형태가 변형되기도 한다.\\n릴리 블룸메르헨이 사용한다."
+"\\n\\n건전한 영혼은\\n건전한 정신과\\n건전한 육체에 담긴다\\n-??-"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A huge scythe-shaped weapon that contains special "
+"powers, it can't be used by anyone. It's shape may change depending on the "
+"usage.\\nCan be used by Lily Bloommerchen.\\n\\nA healthy soul\\nA healthy "
+"mind\\nA healthy body\\n-??-"
+
+msgctxt "7a0cb51f7235a4ce4265fa6d07a4b679"
+msgid "ID=113183551"
+msgstr "ID=113183551"
+
+msgctxt "851fc4bbb8df854c6cc8c3b2d21a981e"
+msgid "커럽티드 나이트 사이드"
+msgstr "Corrupted Knight Scythe"
+
+msgctxt "a22e71c9f8d98c0c127f0c6b7ece4565"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 지하 "
+"수로에 나타난 소울정크, 정크 나이트와의 전투 정보를 토대로 만든 거대한 낫으로 정크 나이트가 되어버린 이름을 알 수 없는 소울워커의 "
+"한이 서려있다.\\n\\n인간!! 말살한다!!\\n- 정크 나이트 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A giant scythe based on the information of the "
+"battle against Junk Knight and Soul Junks in the underground waterway, The "
+"name of the Soul Worker who has become Junk Knight is unknown.\\n\\nHuman!! "
+"Annihilate!!\\n- Junk Knight -"
+
+msgctxt "fa7b6bedc81aaf373fd18eddd23d0e06"
+msgid "ID=113191301"
+msgstr "ID=113191301"
+
+msgctxt "9b651af664a203238ae35fa7aaf64e49"
+msgid "스미싱 사이드"
+msgstr "Smithing Scythe"
+
+msgctxt "4abc07676fe0f40c1379840685f49b20"
+msgid "ID=113192301"
+msgstr "ID=113192301"
+
+msgctxt "25b578f0f70a380696be159731031ed4"
+msgid "정크 인펙터 사이드"
+msgstr "Junk Inspector Scythe"
+
+msgctxt "129f4191d44bc94070684b3ce14f1064"
+msgid "ID=113203401"
+msgstr "ID=113203401"
+
+msgctxt "3f4dccafe6bd5bbb5a646a3212b2e7e0"
+msgid "퀸 스파이더 루인 사이드"
+msgstr "Queen Spider Ruin Scythe"
+
+msgctxt "7b2ffde62f3974fdaccfc129ec3d7259"
+msgid "ID=113213551"
+msgstr "ID=113213551"
+
+msgctxt "6a662df90bdf4c4762af5a6c65272352"
+msgid "아라크니드 베니싱 엣지"
+msgstr "Arachnid Banishing Edge"
+
+msgctxt "112cae66e8af5c3c8a7036053720af55"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 버려진 "
+"저택에 나타난 소울정크, 아라크니스와의 전투 정보를 토대로 만든 거대한 낫으로 아라크니스의 갑각과 거대한 앞 발의 형태를 참고하여 "
+"만들었다. 이상하게 손에 착 달라붙는 듯한 기분이 든다.\\n릴리 블룸메르헨이 사용한다.\\n\\n하… 하하… 역시… 와… 와주실 줄 "
+"알았어요. 하… 하하….\\n- 캐서린 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon . A giant scythe based on the information of the "
+"battle against Arachnis and Soul Junks met in an abandoned mansion. It "
+"strangely feels sticking on my hand .\\nCan be used by Lily Bloommerchen."
+"\\n\\nHa… Haha… Well… Wow… I knew you'd come. Ha… Haha….\\n- Catherine -"
+
+msgctxt "1c2355263b41994bdb615645dab4e963"
+msgid "ID=113211301"
+msgstr "ID=113211301"
+
+msgctxt "89b170d28c61172253a33fdfb1de40dd"
+msgid "러스티 슬라이서"
+msgstr "Rusty Slicer"
+
+msgctxt "4a9c66ae4b426c237f1e69cd40e0c445"
+msgid "ID=113212301"
+msgstr "ID=113212301"
+
+msgctxt "b991700490794f4c17a2f6c8529b2d68"
+msgid "페일드 뮤턴트 슬라이서"
+msgstr "Failed Mutant Slicer"
+
+msgctxt "e61eff973aa9aa757d5f0dd1a8853308"
+msgid "ID=113223401"
+msgstr "ID=113223401"
+
+msgctxt "fc48f516520d46b6dd4cce5e07d76c36"
+msgid "헌티드 오버시어 사이더"
+msgstr "Haunted Overseer Scythe"
+
+msgctxt "104e395507d1c707393d4c44084902ea"
+msgid "ID=113233551"
+msgstr "ID=113233551"
+
+msgctxt "fd9db872c6ed927c7cb68d6950211947"
+msgid "사일런트 위트니스 리퍼"
+msgstr "Silent Witness Reaper"
+
+msgctxt "01b1f3df6cb694351efb626f1df8765f"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"N102 쉘터에 나타난 소울정크, 비홀더와의 전투 정보를 토대로 만든 거대한 낫. 네드 컴퍼니의 연구에 의해 만들어진 인공 각성체, "
+"비홀더의 촉수와 칼날을 참고하여 만들어져 흉악한 외형을 자랑한다. \\n심각한 단점으로는 손잡이가 끈적끈적하다.\\n릴리 블룸메르헨이 "
+"사용한다.\\n\\n나왔다! 점액질… 점액질을 보자!\\n- 브록 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A giant scythe based on the information of the "
+"battle against Beholder and Soul Junks met in the N102 Shelter. It's made "
+"with reference to artificial awakenings, Beholder's tentacles and blades "
+"created by Ned Company's research, it boasts an ugly appearance.\\nThe worst "
+"drawback is that the handle is sticky.\\nCan be used by Lily Bloommerchen."
+"\\n\\nThere it is! Mucus… See the mucus!\\n- Brook -"
+
+msgctxt "5b3c3cf7637b96d2dfa5068f9332d2e7"
+msgid "ID=113241301"
+msgstr "ID=113241301"
+
+msgctxt "401edea8564ebd59ecab86ef12060c0a"
+msgid "노말 슬라이서"
+msgstr "Normal Slicer"
+
+msgctxt "9dfa172b6f86f1609d5d11fe8fc1159d"
+msgid "ID=113242301"
+msgstr "ID=113242301"
+
+msgctxt "8d68b78e6e54d5372a7f58419f88e331"
+msgid "글루미 프레이터 사이드"
+msgstr "Gloomy Fright Scythe"
+
+msgctxt "d0c53f41e023ec23984be3f60a4cfc65"
+msgid "ID=113253401"
+msgstr "ID=113253401"
+
+msgctxt "2cd2139b7f286d84d7a2f82f1ab4816e"
+msgid "사일런트 리뎀션 사이드"
+msgstr "Silent Redemption Scythe"
+
+msgctxt "b978609f97e2d0cd678302e790cd7a84"
+msgid "ID=113263551"
+msgstr "ID=113263551"
+
+msgctxt "6b435ab601336764c74a53151d4ffa45"
+msgid "그리프 스카이즈 리퍼"
+msgstr "Grief Skies Reaper"
+
+msgctxt "e4e5383f40c66f54701921c3b8e528eb"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"캐서린을 흡수한 각성체, 아마릴리스와의 전투 정보를 토대로 만든 거대한 낫으로 검은색의 갑각이 하얀 프레임을 감싼 형태의 무기로 "
+"만들어졌다. 왠지 모르게 캐서린의 슬픔과 고통이 전해진다.\\n릴리 블룸메르헨이 사용한다.\\n\\n나한테 맹세해. 힘을 원한다고. "
+"\\n그럼 저 아이를 완전히 끝장낼 힘을 줄게.\\n- 의문의 아이 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A giant scythe based on the information of the "
+"battle against Amaryllis an awakened body that absorbed Catherine, made of a "
+"black carapace wrapped around a white frame. Somehow Catherine's sadness and "
+"pain are felt.\\nCan be used by Lily Bloommerchen.\\n\\nVow to be with me. "
+"And ask for strength. \\nI'll grant you the power to end everything.\\n- "
+"Mysterious Child -"
+
+msgctxt "7575cc4dbdfd8eb2ccbee71062e7e94c"
+msgid "ID=113261301"
+msgstr "ID=113261301"
+
+msgctxt "6cd1361ca73f984068612b3b0b331287"
+msgid "리파인 스파이커"
+msgstr "Refined Spike"
+
+msgctxt "b8fe053d6c49a6045130f8a9b8313d9f"
+msgid "ID=113262301"
+msgstr "ID=113262301"
+
+msgctxt "5e4aafc071872ede2fb24342af869090"
+msgid "아웃로우즈 스파이커"
+msgstr "Outlaw's Spike"
+
+msgctxt "d1b8d013f887899545dc8ccd25a42431"
+msgid "ID=113273401"
+msgstr "ID=113273401"
+
+msgctxt "04da49decd40e0e08e1fb92986c7fc19"
+msgid "브루탈 페인 스파이커"
+msgstr "Brutal Pain Spike"
+
+msgctxt "4313231700fb7dbc0938269818f7dd75"
+msgid "ID=113283551"
+msgstr ""
+
+msgctxt "21d402e339a57f1011aae27836c012c9"
+msgid "머시리스 나이트 스콜피온"
+msgstr ""
+
+msgctxt "413e99a2537ad2107e4a4024543b3c84"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"고가도로에 나타난 거대한 베시, 스카와의 전투 정보를 토대로 만든 거대한 낫으로 낫이라기보단 도끼에 가깝게 생겼다. 손에 쥐고 있으면 "
+"굉장한 투쟁심이 끓어오른다.\\n릴리 블룸메르헨이 사용한다.\\n\\n오랜만에 피가 들끓는군!\\n제법이다! 변종!\\n- 스카 -"
+msgstr ""
+
+msgctxt "e40c6b73d37c683fdad9b1528788b886"
+msgid "ID=113281301"
+msgstr ""
+
+msgctxt "b7416d8fa97fe64a74584772b1fce959"
+msgid "스틸 스파이커"
+msgstr "Steel Spike"
+
+msgctxt "76a280b23e28a075f3d18e1f28e622eb"
+msgid "ID=113282301"
+msgstr "ID=113282301"
+
+msgctxt "5ab98395e152f8c15ebad212c0e9bae6"
+msgid "마샬 헌터 스파이커"
+msgstr "Marshal Hunter Spike"
+
+msgctxt "74f74ab41509913de7aa4ab5a6c52d83"
+msgid "ID=113293401"
+msgstr "ID=113293401"
+
+msgctxt "46f8a40b76ff51fbb5621272b5035e36"
+msgid "톡식 더 러스트 사이드"
+msgstr "Rusty Toxic Scythe"
+
+msgctxt "341de2befde5c06b7f5d40c4d93a5668"
+msgid "ID=113303551"
+msgstr "ID=113303551"
+
+msgctxt "e2a9ac8f89dd91ceee0e0f68e4521065"
+msgid "페이탈 리플렉션 팔크스"
+msgstr "Fatal Reflection Scythe"
+
+msgctxt "b9e68ef17a16ee7c3d820a1f7a74c241"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 네드 "
+"컴퍼니를 습격한 베시, 포이즌과의 전투 정보를 토대로 만든 거대한 낫으로 조심하지 않으면 사용하는 사람을 다치게 하는 위험한 무기다."
+"\\n릴리 블룸메르헨이 사용한다.\\n\\n안쓰럽군요.\\n그런 복장말고는 자신을 어필 할 방법이 없다는게.\\n- 릴리 블룸메르헨 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A giant scythe based on the information of the "
+"battle against Betsy and Poison that attacked Ned Company, it's a dangerous "
+"weapon that can injure those who use it if they aren't careful enough\\nCan "
+"be used by Lily Bloommerchen.\\n\\nI'm sorry.\\nI can only appeal to myself "
+"with such clothes.\\n- Lily Bloommerchen -"
+
+msgctxt "0ea3cdc490b08747d11d78f82c82975a"
+msgid "ID=113301301"
+msgstr "ID=113301301"
+
+msgctxt "44179007bb339bc3cb418bbe186b81f9"
+msgid "러스티 탈론"
+msgstr "Rusty Talon"
+
+msgctxt "0faf69261aef76ea8db3a528ee03fcc5"
+msgid "ID=113302301"
+msgstr "ID=113302301"
+
+msgctxt "1db9cfa07880f5516f847baf14284f79"
+msgid "인텐션 탈론"
+msgstr "Intention Talon"
+
+msgctxt "069b71ee2e44d1600fd489c8aeeddc80"
+msgid "ID=113313401"
+msgstr "ID=113313401"
+
+msgctxt "257330a1fac03418a23bd1c9ba85327d"
+msgid "카발리어즈 오버 탈론"
+msgstr "Cavalier's Over Talon"
+
+msgctxt "64dd0bd2a5177cafb11b84be7a9f2ccf"
+msgid "ID=113323551"
+msgstr "ID=113323551"
+
+#, fuzzy
+msgctxt "e5ed0e8f1c9d0c4a96d2e5a7cfeca934"
+msgid "가루라 나이트 글레이브"
+msgstr "Garura Knight  Glaive"
+
+#, fuzzy
+msgctxt "76be24b6ee583330499f7fe031dcf130"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 퀸 "
+"가루라를 탄 베시, 팔콘의 검을 토대로 만든 거대한 낫으로 퀸 가루라가 뿜는 화염으로 단련되기라도 한듯 뜨거운 기운이 느껴지고 있다."
+"\\n릴리 블룸메르헨이 사용한다.\\n\\n저 투기… 검을 맞댈 상대로는 부족함이 없도다!\\n- 팔콘 -"
+msgstr ""
+"<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\\n\\nSoul "
+"Worker exclusive weapon. A giant scythe based on the information of the "
+"battle against Betsy in Queen Garura and Falcon's sword,  it feels as if "
+"it's been tempered by the flames of Queen Garura.\\nCan by used by Lily "
+"Bloommerchen.\\n\\nThat  fight… It's nothing for my sword!\\n- Falcon -"
+
+msgctxt "0f4e980aaf991dee033caa1d7ff6766d"
+msgid "ID=113331301"
+msgstr "ID=113331301"
+
+msgctxt "44d32c12c38412976a8638cc2e808c82"
+msgid "노말 탈론"
+msgstr "Normal Talon"
+
+msgctxt "3ced6500d9f878ffeaebbab79b680b23"
+msgid "ID=113332301"
+msgstr "ID=113332301"
+
+msgctxt "fb5a0dd737a54d6d101c1fb652f82295"
+msgid "터네이셔스 데몬 탈론"
+msgstr "Tenacious Demon Talon"
+
+msgctxt "2bba161716f093abe17d2e3993df12a1"
+msgid "ID=113343401"
+msgstr "ID=113343401"
+
+msgctxt "555944ea130db84ca8113f7f161c1478"
+msgid "세비지드 액스 탈론"
+msgstr "Savaged Axe Talon"
+
+msgctxt "a819a30a897cb893fa72f38b7baaa984"
+msgid "ID=113353551"
+msgstr ""
+
+msgctxt "27f7b8b51937b892dcad845c2a982d95"
+msgid "리바이브 워리어 사이더"
+msgstr ""
+
+msgctxt "113668f2ff63bb5391c3850a288957bb"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 복수를 "
+"위해 다시 돌아온 거대한 베시, 블러디 스카의 도끼를 토대로 만든 거대한 낫. 복수를 위해 단련된 힘은 자신의 무기 또한 변형시켜 더욱 "
+"강대한 힘을 담았다. 투쟁심을 넘어 굉장한 복수심이 끓어오른다.\\n릴리 블룸메르헨이 사용한다.\\n\\n이게… 너희 인간이 사용하는 "
+"힘인가….\\n그렇군… 너희가 왜 그렇게 강한지 조금은 알 것 같다.\\n- 블러디 스카 -"
+msgstr ""
+
+msgctxt "d19f93d6799e5360433c4920ea74b7e9"
+msgid "ID=113361301"
+msgstr ""
+
+msgctxt "a9a6aec5c342b522b13117fe0c8f3a25"
+msgid "포지드 탈론"
+msgstr ""
+
+msgctxt "0ddf58f955e0bbc78623a643535d643b"
+msgid "ID=113362301"
+msgstr ""
+
+msgctxt "7df6070371c366fd1e0860e43880e038"
+msgid "섀도우즈 탈론"
+msgstr ""
+
+msgctxt "6403382baca6b5ff16ab0dea4ebef86c"
+msgid "ID=113373401"
+msgstr ""
+
+msgctxt "56c83c551bba1782dd5586558d9d3048"
+msgid "크림슨 섀도우 탈론"
+msgstr ""
+
+msgctxt "5c60a06c7c5e03e44a1f0d35958ce4b4"
+msgid "ID=113383551"
+msgstr ""
+
+msgctxt "7f5cf37b9c5c7f19c8950e79e6254414"
+msgid "사이드 타입 베니싱 블러드"
+msgstr ""
+
+msgctxt "fd6954adf2c000b039c8c02497adffce"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 래피드 "
+"플레임의 암살부대를 이끄는 베시, 팬텀의 검을 토대로 만든 거대한 낫으로 무기에 깃든 원한과 증오로 인해 정신이 나약한 자는 의지를 "
+"빼앗길 수 있으므로 유의하여야 한다.\\n릴리 블룸메르헨이 사용한다.\\n\\n팬텀…!\\n녀석이 있었던 건가….\\n- 세니아 -"
+msgstr ""
+
+msgctxt "b4372a6ec28f3f8343dc854a5f5c183b"
+msgid "ID=113381301"
+msgstr ""
+
+msgctxt "ca2e40ae2a207c71216c85522fc05b4e"
+msgid "솔져스 탈론"
+msgstr ""
+
+msgctxt "fb0ef78bb66cd448249e9ec6ef0d833a"
+msgid "ID=113382301"
+msgstr ""
+
+msgctxt "7807e059e9e0eaa59bf305e2812a2d91"
+msgid "퓨리 인듀서 탈론"
+msgstr ""
+
+msgctxt "e22db710f02734dba6a926c514b12277"
+msgid "ID=113393401"
+msgstr ""
+
+msgctxt "58b3ea13b43964d1a4298e0806f1a94b"
+msgid "크래쉬 더 헌드레드 사이드"
+msgstr ""
+
+msgctxt "0bc6151759965357c139cec6aba86199"
+msgid "ID=113403551"
+msgstr ""
+
+msgctxt "984685aa032f53d307d9ac6b5fa84556"
+msgid "사이드 오브 할로우 벤전스"
+msgstr ""
+
+msgctxt "6de79b036476894ddd1666a5b8ba4304"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커, 라반과의 전투 정보를 토대로 만든 거대한 낫으로 라반의 힘을 해석하는 과정에서 색상이 변화했지만 그 강력한 힘은 그대로 "
+"남아있다.\\n\\n익시드. 헌드레드 소드 발동.\\n목표를 전력으로 섬멸합니다.\\n- 라반 -"
+msgstr ""
+
+msgctxt "331f79478ed62c9dc25746c5cef3eed4"
+msgid "ID=113411301"
+msgstr ""
+
+msgctxt "57f160790e6dedfd83dffd8bcf903708"
+msgid "아이언 레이저"
+msgstr ""
+
+msgctxt "b345ff47dab1df6f11024bf87ce71fe8"
+msgid "ID=113412301"
+msgstr ""
+
+msgctxt "f28a2449268dec79d411a6463f2efa38"
+msgid "센티넬 레이저"
+msgstr ""
+
+msgctxt "07f731fe44990523551a32d244885263"
+msgid "ID=113423401"
+msgstr ""
+
+msgctxt "a9bb91dfbe3e1938d4073da5d01ccc88"
+msgid "프로토타입 시저 사이드"
+msgstr ""
+
+msgctxt "ba05433bdc7c25481c3f070e56322185"
+msgid "ID=113433551"
+msgstr ""
+
+msgctxt "9e3e72c6f86b2f544a81ec726614361f"
+msgid "헤비 메탈 시저 사이드"
+msgstr ""
+
+msgctxt "a552f6068bc34027ceae34dd2d6d0f22"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 지크 "
+"프로젝트의 첫번째 시작형, 지크 프로토의 시저 블레이드를 그대로 만들었기 때문에 굉장히 무거우며, 낫보다는 가위에 가깝다.\\n\\n중앙 "
+"제어실 방어 프로세스 최종 단계 돌입.\\n지크 프로토, 가동.\\n- 루시 -"
+msgstr ""
+
+msgctxt "2374fec7442df1c91371d11fd62472d4"
+msgid "ID=113431301"
+msgstr ""
+
+msgctxt "57c720578f24d369db4a41f57e742ffe"
+msgid "크롬 레이저"
+msgstr ""
+
+msgctxt "8b33610f749cd715d7fd51d745966063"
+msgid "ID=113432301"
+msgstr ""
+
+msgctxt "c3ae73e3978f5e7de6483e2f4beab769"
+msgid "도미니언 레이저"
+msgstr ""
+
+msgctxt "99e928618ee3fabe261a8554ea554a3c"
+msgid "ID=113443401"
+msgstr ""
+
+msgctxt "03951419ba25539aae3d719bb6244803"
+msgid "리벨레이터 머신 사이드"
+msgstr ""
+
+msgctxt "4575ddaaac987e5847c0327eb189d69e"
+msgid "ID=113453551"
+msgstr ""
+
+msgctxt "94569263ca818d801ad7803da8c4ceef"
+msgid "사이드 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "b57ccc43526f14009cddb0288c9c8ff3"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커, 노아의 무기를 참고하여 만든 거대한 낫으로 노아의 이능이 깃들어 사용자의 소울 에너지로 바람을 발생시키는 힘을 가지고 있다."
+"\\n\\n제 이름은 노아.\\n오리지널인 당신의 힘. 제가 직접 확인해보겠습니다.\\n- 노아 -"
+msgstr ""
+
+msgctxt "ff775b1d4e0ee177f3b298bfb004cfa0"
+msgid "ID=113451301"
+msgstr ""
+
+msgctxt "a09250c30aca2159c9a2f2e75a5e3c40"
+msgid "메탈 레이저"
+msgstr ""
+
+msgctxt "a940c331f420807683a291baf1520297"
+msgid "ID=113452301"
+msgstr ""
+
+msgctxt "67ee861ee880e47442a007b0c1c30023"
+msgid "메탈비스트 레이저"
+msgstr ""
+
+msgctxt "56dd8c2c4971919425448f0c850ef4fd"
+msgid "ID=113463401"
+msgstr ""
+
+msgctxt "a1bafda6764e5e95c7f9fc5b9acf9c54"
+msgid "어센셔너 머신 사이드"
+msgstr ""
+
+msgctxt "21518fe2e114b4497e9d955b6b8b50b9"
+msgid "ID=113473551"
+msgstr ""
+
+msgctxt "405412c220f73bb69765928f798c402f"
+msgid "에어리얼 림 엣지"
+msgstr ""
+
+msgctxt "02fc93152e5b39f6606c76f6aa17d197"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커, 에녹의 무기를 참고하여 만든 권총으로 공기를 빨아들여 운동 에너지로 전환, 자신의 힘으로 만드는 기능을 가지고는 있다."
+"\\n\\n아아~ 억울해! 나 아직 더 싸울 수 있는데!\\n오리지널! 다음엔 안 봐줄거야!\\n- 에녹 -"
+msgstr ""
+
+msgctxt "03f3fb48007df1f933d8daf5999a232e"
+msgid "ID=113471301"
+msgstr ""
+
+msgctxt "de3327b1ebd29a0b87a886bf47f13473"
+msgid "샤프니스 레이저"
+msgstr ""
+
+msgctxt "7455826ee1118d7925380f346dc4c23d"
+msgid "ID=113472301"
+msgstr ""
+
+msgctxt "5d7949b5f397596238c283bcf1874992"
+msgid "퍼니셔스 레이저"
+msgstr ""
+
+msgctxt "304fd9edd929d762311fd8918b9d7307"
+msgid "ID=113483401"
+msgstr ""
+
+msgctxt "1094f9d7dd07371042a4b239805b0d68"
+msgid "슈퍼 메카 브레이브 사이드"
+msgstr ""
+
+msgctxt "c374244731afe10a3e8298104e6a94b9"
+msgid "ID=113493551"
+msgstr ""
+
+msgctxt "86aa4d2e00aeabaccfe8300d60cd70ed"
+msgid "기간테스 코어 리퍼"
+msgstr ""
+
+msgctxt "7d4fdcc0c4957198cbd4a3679fe39326"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"무기고에 숨겨져 있던 거대 병기, 슈퍼 아벨의 정보를 토대로 만든 거대한 낫으로 알 수 없는 용기가 흘러나와 사용자로 하여금 어떠한 "
+"적이든 상대할 수 있을 것만 같은 기분이 들게 한다.\\n가자! 슈퍼 아벨!\\n우리의 힘을 보여주는거야!\\n- 아벨 -"
+msgstr ""
+
+msgctxt "d75751f7ba0dcfa724ed81055577d8ac"
+msgid "ID=113491301"
+msgstr ""
+
+msgctxt "27e939d761c741aa1c1d612311875cd9"
+msgid "카본 배틀 사이드"
+msgstr ""
+
+msgctxt "4cc53dcdf229d404ecd0663eafd22262"
+msgid "ID=113492301"
+msgstr ""
+
+msgctxt "62b4bf325eed6b8a21ce88f6ac1c7c18"
+msgid "스틸 고스트 배틀 사이드"
+msgstr ""
+
+msgctxt "dd601fb872971ba10e72d3a030bbeeb7"
+msgid "ID=113503401"
+msgstr ""
+
+msgctxt "6567856a7466c8bd979d7975c61a387d"
+msgid "어웨이큰 마네스 사이드"
+msgstr ""
+
+msgctxt "47913e1aa1c3d25d4f68f1af914356d1"
+msgid "ID=113513551"
+msgstr ""
+
+msgctxt "f3f66dcb33fbd8d0ac88e825cb7e6826"
+msgid "사이드 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "40b1a218b780af4f0ef02761e4357e9c"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커 노아의 익시드, 퀸 오브 플라워를 참고하여 만든 거대한 낫. 질량형 홀로그램을 구현하기 위해서는 막대한 소울 에너지가 필요하기 "
+"때문에 아무리 소울워커라도 일정 능력을 가지지 않는 이상 사용할 수 없는 무기이다.\\n\\n이것이 제 익시드. 질랑형 홀로그램 퀸 오브 "
+"플라워입니다. 아름답죠?\\n- 노아 -"
+msgstr ""
+
+msgctxt "0acab790c1413d71a2c8fbfb7c16e5dc"
+msgid "ID=113511301"
+msgstr ""
+
+msgctxt "7b37a0c1556f66db8e85603e5f6b580d"
+msgid "컴포짓 배틀 사이드"
+msgstr ""
+
+msgctxt "b7cbb9710019716f935a83940da2d34b"
+msgid "ID=113512301"
+msgstr ""
+
+msgctxt "08860f319c5c8c49b18b7eb5529a057d"
+msgid "어썰트 배틀 사이드"
+msgstr ""
+
+msgctxt "cf9022fa544909e71c54ecf5ecf05abb"
+msgid "ID=113523401"
+msgstr ""
+
+msgctxt "9aa29745f70dc52e0cf70e181cdeaf70"
+msgid "인피니트 림 사이드"
+msgstr ""
+
+msgctxt "3b2db0a5c3ffc7fb458fafc03b70e3b2"
+msgid "ID=113533551"
+msgstr ""
+
+msgctxt "8e46395bb6376425deed1f642a7a5803"
+msgid "넘버리스 레이 사이드"
+msgstr ""
+
+msgctxt "310191f03a7e49a1d7f6d7019c15a157"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커 에녹의 익시드, 넘버리스 림을 참고하여 만든 거대한 낫으로 장치를 통해 공기를 빨아들여 강력한 운동 에너지로 전환시킨다."
+"\\n\\n그 이름하여 넘버리스 림!\\n수십개의 자율 공격 비트가 그대를 유린할지니!\\n- 에녹 -"
+msgstr ""
+
+msgctxt "d9f0c79360201a74d3b6ef5a98370dd7"
+msgid "ID=113531301"
+msgstr ""
+
+msgctxt "afa1850de92ea771c83f859a0b9d5e06"
+msgid "티탄 배틀 사이드"
+msgstr ""
+
+msgctxt "c23bed970ad72bccd6037bacebad494f"
+msgid "ID=113532301"
+msgstr ""
+
+msgctxt "3b324a663c69c6ec8518150223d97df5"
+msgid "메탈 버스터 배틀 사이드"
+msgstr ""
+
+msgctxt "715488c1f0f38ed60d1604655aaeff48"
+msgid "ID=113543401"
+msgstr ""
+
+msgctxt "b4e64fabc3e919710b26d865c895995a"
+msgid "씰드 레이지 리퍼"
+msgstr ""
+
+msgctxt "ff560d58ee07fe018c583872d45b2fcf"
+msgid "ID=113553551"
+msgstr ""
+
+msgctxt "2dcd8e5d0d1378d01960b16bc3f77d78"
+msgid "글레어즈 포스 사이드"
+msgstr ""
+
+msgctxt "735caf0aa56f5fb3dba1050fd8993600"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 최초, "
+"최강의 니어 소울워커, 시온과의 전투 정보를 토대로 만든 거대한 낫으로 시온은 이미 사라졌지만 칼날 안에서 알 수 없는 박동이 느껴지고 "
+"있다.\\n릴리 블룸메르헨이 사용한다.\\n\\n…뭐, 상관없다.\\n나에게 적의를 드러내는 건 모두 죽이면 돼.\\n- 시온 -"
+msgstr ""
+
+msgctxt "fb077685cf241f37d7203bdd04bd10de"
+msgid "ID=115011301"
+msgstr ""
+
+msgctxt "ed986ab75323826234e040b38bb4f9bd"
+msgid "레머넌트 기타"
+msgstr ""
+
+msgctxt "a93edf3aa7f9615df47e7a255e871798"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"정체를 알 수 없는 괴물과 조우하자 강렬한 빛과 함께 손에 쥐어진 무기.\\n기타의 형상을 하고 있으며, 마치 오래전부터 함께한 것 같은 "
+"아련한 감정이 느껴진다.\\n스텔라 유니벨이 사용한다.\\n\\n그래. 너의 오래된 친구들과 함께 연주해.\\n그것이 너와 너의 친구들을 "
+"지켜줄 거야.\\n- 의문의 아이 -"
+msgstr ""
+
+msgctxt "2d5c5aeabe46faee43aca62482506df3"
+msgid "ID=115031301"
+msgstr ""
+
+msgctxt "cf71f26a80b9f5a17acb507ed8544d9d"
+msgid "하빙거 기타"
+msgstr ""
+
+msgctxt "703ecfbd6f243588f8bab8f436b8a938"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 기타 "
+"형태의 무기로 일반인이 사용하면 끼긱거리는 이상한 소리가 나지만 소울워커가 사용하면 특별한 힘이 발현된다고 한다.\\n스텔라 유니벨이 "
+"사용한다."
+msgstr ""
+
+msgctxt "7d76b9974b61c5d618d7ff0d5c1be4a6"
+msgid "ID=115042301"
+msgstr ""
+
+msgctxt "19a67daa44a2f874ea2abb925a053c8b"
+msgid "레니어리 기타"
+msgstr ""
+
+msgctxt "1455d538d89068f9562baac05f9a0f58"
+msgid "ID=115043401"
+msgstr ""
+
+msgctxt "cfee748a58d402e653ae43361cade70f"
+msgid "래비드 팽 기타"
+msgstr ""
+
+msgctxt "3d0986f0c633e2dd8aca4f9121ec173a"
+msgid "ID=115053551"
+msgstr ""
+
+msgctxt "50d7b99123c5997857b5355decebe473"
+msgid "드레드 울프 스크리머"
+msgstr ""
+
+msgctxt "b52ff2f007be7300ffc4e1a7970712fd"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 시추 "
+"현장에서 만난 소울정크의 각성체, 카인과의 전투 정보를 토대로 만든 기타로 카인의 갈기를 참고하여 만들었다.\\n스텔라 유니벨이 사용한다."
+"\\n\\n…저번에 그 멍멍이!\\n- 스텔라 유니벨 -"
+msgstr ""
+
+msgctxt "8ed83af0991a789be017d137d09f99f0"
+msgid "ID=115061301"
+msgstr ""
+
+msgctxt "e497904ee7034ea2ab11c3d4a94d83f2"
+msgid "스탠다드 기타"
+msgstr ""
+
+msgctxt "93b06e28fa71298454c37635aac9a1ab"
+msgid "ID=115062301"
+msgstr ""
+
+msgctxt "e08327c16f3df7cfb881dd52ba087856"
+msgid "스푸키 퍼펫 기타"
+msgstr ""
+
+msgctxt "374c41ea7dd1ef994cd21afff97cf521"
+msgid "ID=115073401"
+msgstr ""
+
+msgctxt "d10f80fba9b5714de0eecb63c9dfe231"
+msgid "수어사이드 퍼펫 로어"
+msgstr ""
+
+msgctxt "9d891d28deaa8675c5f7c63d402f0ae6"
+msgid "ID=115083551"
+msgstr ""
+
+msgctxt "26d2f4db4bad4eba8bcae09b39784e4f"
+msgid "기타 타입 퍼펫 블래스터"
+msgstr ""
+
+msgctxt "09c8d099d519b625e4df474cd0d9ef89"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. R "
+"스퀘어 광장에서 만난 거대한 인형, 빅 퍼펫과의 전투 정보를 토대로 만든 기타로 빅 퍼펫의 폭발력이 담긴 구체를 달았다. 단순한 장식처럼 "
+"보이지만 구슬에 담긴 강력한 힘은 무엇이든 폭발 시킨다.\\n스텔라 유니벨이 사용한다.\\n\\n거대 자폭 병기, 빅 퍼펫 저지 작전 "
+"실시!\\n- 클로이 -"
+msgstr ""
+
+msgctxt "f5768af820152eb44a7eff9467451dbc"
+msgid "ID=115091301"
+msgstr ""
+
+msgctxt "4745949ece724c8ab80ae7cf01de8343"
+msgid "브로드 기타"
+msgstr ""
+
+msgctxt "ebc440b8e1a85959506b77f18d4ab038"
+msgid "ID=115092301"
+msgstr ""
+
+msgctxt "2b3ebe994a86a4073ad4b47abd7e974d"
+msgid "언체인드 퍼펫 기타"
+msgstr ""
+
+msgctxt "4ede277e19d457ac283cf39c136feda5"
+msgid "ID=115103401"
+msgstr ""
+
+msgctxt "f106f57825afc814a15b8b73574ee05b"
+msgid "트윈헤드 퍼펫 하울러"
+msgstr ""
+
+msgctxt "0c23716ce3c5086881425c375434ea93"
+msgid "ID=115113551"
+msgstr ""
+
+msgctxt "d0e168d013477d34e80b49d32864a82d"
+msgid "파나틱 디재스터 콰이어"
+msgstr ""
+
+msgctxt "4b7b05cf7ebcf4d7df163cfee6f2a62b"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"괴전파 발생 지역에서 만난 인형, 잭 더 킹과의 전투 정보를 토대로 만든 기타. 이 기타를 들자 주변의 인형들이 이상하게 피하는 느낌이 "
+"든다.\\n스텔라 유니벨이 사용한다.\\n\\n에드가님! 사랑합니다! 에드가님!!\\n- 잭 더 킹 -"
+msgstr ""
+
+msgctxt "e9d66c6e6b9697780a34a09d27bfd4b7"
+msgid "ID=115111301"
+msgstr ""
+
+msgctxt "6fe4f69ddb8d73718dc8937564672707"
+msgid "플레이트 기타"
+msgstr ""
+
+msgctxt "2cd86f3d5bffc703d3211cba2dc8af0f"
+msgid "ID=115112301"
+msgstr ""
+
+msgctxt "33b54f266faf462597ee4100a318aa88"
+msgid "슬로피 피에로 기타"
+msgstr ""
+
+msgctxt "3c1344bda949876cde0c6effaedeb71c"
+msgid "ID=115123401"
+msgstr ""
+
+msgctxt "d149b77381833c8f0dd6f3ed836a17c6"
+msgid "루나틱 제스터 트릭 기타"
+msgstr ""
+
+msgctxt "06837872e74cbc9cd1a36297dcfd7eb2"
+msgid "ID=115133551"
+msgstr ""
+
+msgctxt "45ae4c0151ce47d87fbc08751052ac30"
+msgid "매드니스 할리퀸 블루 폴"
+msgstr ""
+
+msgctxt "3b8a2d2e8c3b29af2094780754096bce"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"버려진 병원에서 만난 인형들의 주인, 에드가와의 전투 정보를 토대로 만든 기타. 에드가의 푸른 수정에 담긴 힘을 해석하여 무기에 "
+"구현하였지만 어찌된 것인지 인형들의 공격은 더욱 거세졌다.\\n스텔라 유니벨이 사용한다.\\n\\n즐거운 쇼였습니다. 다음엔... 더 큰 "
+"무대에서.\\n- 에드가 -"
+msgstr ""
+
+msgctxt "48b35d1ddbce211909b3aa33e01e170c"
+msgid "ID=115141301"
+msgstr ""
+
+msgctxt "12324e6a66d54411a37a2f0c6ae0d7d5"
+msgid "인핸스드 기타"
+msgstr ""
+
+msgctxt "ba2367302e641818b8d21b0ceba049fa"
+msgid "ID=115142301"
+msgstr ""
+
+msgctxt "b80563bb5732fb9db7dbdb7f718b90eb"
+msgid "트래쉬 버스터 기타"
+msgstr ""
+
+msgctxt "9d52a47d24fa4bca900a0fc1bded53b7"
+msgid "ID=115153401"
+msgstr ""
+
+msgctxt "b369203e0c76ea52da8220101f609564"
+msgid "어벤던드 트래쉬 로어"
+msgstr ""
+
+msgctxt "b89948cb643f7263655bba34764e4258"
+msgid "ID=115163551"
+msgstr ""
+
+msgctxt "623b654d6336866aa7b7feb8551071bf"
+msgid "골렘 디스트로잉 기타"
+msgstr ""
+
+msgctxt "73ea194515d35a5d0eaeaa677e92ad42"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"해안가 도로에 나타난 소울정크, 아스팔트 골렘과의 전투 정보를 토대로 만든 기타로 아스팔트와 콘크리트가 거의 주 재료인지라 상당한 무게를 "
+"자랑한다. 드는 것 만으로도 힘에 부친다.\\n스텔라 유니벨이 사용한다.\\n\\n돌덩이가 다 부서져 버렸어. 이거 다시 못 붙이는 "
+"거겠지?\\n- 스텔라 유니벨 -"
+msgstr ""
+
+msgctxt "2e9333694affd0f8eda3ce138696b5c3"
+msgid "ID=115161301"
+msgstr ""
+
+msgctxt "93d722a4b6202fca7fa0b20b570e984f"
+msgid "포지드 기타"
+msgstr ""
+
+msgctxt "26e3b6b30681d4c832be2f872296ee94"
+msgid "ID=115162301"
+msgstr ""
+
+msgctxt "258f3a1f8be46a1a7e400ce4c7bd6235"
+msgid "스팅키 뮤턴트 기타"
+msgstr ""
+
+msgctxt "b7886c8dd3d74c7d2276ee0fbab289e2"
+msgid "ID=115173401"
+msgstr ""
+
+msgctxt "ab39dae8d14a6c1ea1dccbcbe28053cd"
+msgid "테인티드 소울 웨이버"
+msgstr ""
+
+msgctxt "55b35a2ae191b87cb530bc281363fcd6"
+msgid "ID=115183551"
+msgstr ""
+
+msgctxt "431751e9827d19d05a9547dbd1ac9890"
+msgid "커럽티드 나이트 기타"
+msgstr ""
+
+msgctxt "7b931dc6041009c21aceda4e1b286805"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 지하 "
+"수로에 나타난 소울정크, 정크 나이트와의 전투 정보를 토대로 만든 기타로 정크 나이트가 되어버린 이름을 알 수 없는 소울워커의 한이 "
+"서려있다.\\n스텔라 유니벨이 사용한다.\\n\\n인간!! 말살한다!!\\n- 정크 나이트 -"
+msgstr ""
+
+msgctxt "32847307381bcf28fb0d110251fd0d23"
+msgid "ID=115191301"
+msgstr ""
+
+msgctxt "d571c6c28a098c052be98d07a8243e8c"
+msgid "스미싱 기타"
+msgstr ""
+
+msgctxt "66dd81dfc4c49a2f36eaf9457110885b"
+msgid "ID=115192301"
+msgstr ""
+
+msgctxt "ea613f7feea904981db1a44efcd7e342"
+msgid "정크 인펙터 기타"
+msgstr ""
+
+msgctxt "2006f12bb1e2e7c0482602b7ea7dc720"
+msgid "ID=115203401"
+msgstr ""
+
+msgctxt "8a32e76bed7ea97622ff494845b4f4e4"
+msgid "퀸 스파이더 루인 기타"
+msgstr ""
+
+msgctxt "d89b652dbebd3299dbb0b13e42b6e6b0"
+msgid "ID=115213551"
+msgstr ""
+
+msgctxt "7e192548b0f12d52113cdfbfab6a1209"
+msgid "아라크니드 베니싱 기타"
+msgstr ""
+
+msgctxt "66c21b92e3db8fbef9db14e36d436c5b"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"버려진 저택에 나타난 소울정크, 아라크니스와의 전투 정보를 토대로 만든 기타로 아라크니스의 갑각과 거대한 앞 발의 형태를 참고하여 "
+"만들었다. 이상하게 손에 착 달라붙는 듯한 기분이 든다.\\n스텔라 유니벨이 사용한다.\\n\\n하… 하하… 역시… 와… 와주실 줄 "
+"알았어요. 하… 하하….\\n- 캐서린 -"
+msgstr ""
+
+msgctxt "ae66210739ef9fa2a36a7282d93f965f"
+msgid "ID=115211301"
+msgstr ""
+
+msgctxt "223ab939c04b83ab8b2e1d4b0070ec06"
+msgid "러스티 어쿠스"
+msgstr ""
+
+msgctxt "048023ba8f88da4fe31df9420562fe6c"
+msgid "ID=115212301"
+msgstr ""
+
+msgctxt "49f2baba3311484879062a37ffe86f73"
+msgid "페일드 뮤턴트 어쿠스"
+msgstr ""
+
+msgctxt "54a60757ce72197f14cc36114d2c79a9"
+msgid "ID=115223401"
+msgstr ""
+
+msgctxt "cf53baea178e0d439e6eb91d5aa8296b"
+msgid "헌티드 오버시어 하울러"
+msgstr ""
+
+msgctxt "290be42ce56831f93c1e916dce033856"
+msgid "ID=115233551"
+msgstr ""
+
+msgctxt "6e93d8a9fd49b635f00c4d33c91d161a"
+msgid "사일런트 위트니스 배리스터"
+msgstr ""
+
+msgctxt "75e15c7dffa10168311d3a068dd647a6"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"N102 쉘터에 나타난 소울정크, 비홀더와의 전투 정보를 토대로 만든 기타. 네드 컴퍼니의 연구에 의해 만들어진 인공 각성체, 비홀더의 "
+"촉수와 칼날을 참고하여 만들어져 흉악한 외형을 자랑한다. \\n심각한 단점으로는 손잡이가 끈적끈적하다.\\n스텔라 유니벨이 사용한다."
+"\\n\\n나왔다! 점액질… 점액질을 보자!\\n- 브록 -"
+msgstr ""
+
+msgctxt "9a1adc3b6bb87bae1321bc544af7f533"
+msgid "ID=115241301"
+msgstr ""
+
+msgctxt "d2660c95cbe787b4eb5dd38666ee0b36"
+msgid "노말 어쿠스"
+msgstr ""
+
+msgctxt "8acfd7714ff244787ea01e05f6e0ea61"
+msgid "ID=115242301"
+msgstr ""
+
+msgctxt "bb8eeac47580efe1bbbee563865914a8"
+msgid "글루미 프레이터 어쿠스"
+msgstr ""
+
+msgctxt "651db0871226075313251861a645910f"
+msgid "ID=115253401"
+msgstr ""
+
+msgctxt "2ba78f7fbba07fadc958043b791d2b8d"
+msgid "사일런트 리뎀션 기타"
+msgstr ""
+
+msgctxt "5879a444ad340166b021288ef04aa306"
+msgid "ID=115263551"
+msgstr ""
+
+msgctxt "7e35d66867f014f057c8fdcab1e56c52"
+msgid "그리프 스카이즈 하울러"
+msgstr ""
+
+msgctxt "8f068f96c0ae59c69030f16e1fc0502b"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"캐서린을 흡수한 각성체, 아마릴리스와의 전투 정보를 토대로 만든 기타로 검은색의 갑각이 하얀 프레임을 감싼 형태의 무기로 만들어졌다. "
+"왠지 모르게 캐서린의 슬픔과 고통이 전해진다.\\n스텔라 유니벨이 사용한다.\\n\\n나와 맹세하자. \\n맹세하면 힘을 얻을 수 있어. "
+"저 아이를 슬픔 속에서 구해낼 힘을!\\n- 의문의 아이 -"
+msgstr ""
+
+msgctxt "b60a700962ba1e4c2c904d854704f5c6"
+msgid "ID=115261301"
+msgstr ""
+
+msgctxt "bd523c5a154b4fe2a85ab81a0790d2f4"
+msgid "리파인 하모닉스"
+msgstr ""
+
+msgctxt "e952b50b1088afac2d157bc68ef947e3"
+msgid "ID=115262301"
+msgstr ""
+
+msgctxt "8058ddaf62c51b852dc4b9c1a964f587"
+msgid "아웃로우즈 하모닉스"
+msgstr ""
+
+msgctxt "b614764c9e124297d2c7e52426015fa2"
+msgid "ID=115273401"
+msgstr ""
+
+msgctxt "7a4bf82f7690c24862c8224c62973d44"
+msgid "브루탈 페인 웨이버"
+msgstr ""
+
+msgctxt "fc61bd18690f0e8c82e5f2bdac78dbe5"
+msgid "ID=115283551"
+msgstr ""
+
+msgctxt "ca0d303bd0495a098e41bf62fe64ed4b"
+msgid "머시리스 나이트 리자드"
+msgstr ""
+
+msgctxt "976badcce12a636da74e1387075c18b5"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"고가도로에 나타난 거대한 베시, 스카와의 전투 정보를 토대로 만든 기타로 근접해서 싸우는 것이 나을 정도로 도끼에 가깝게 생겼다. 손에 "
+"쥐고 있으면 굉장한 투쟁심이 끓어오른다.\\n스텔라 유니벨이 사용한다.\\n\\n오랜만에 피가 들끓는군!\\n제법이다! 변종!\\n- "
+"스카 -"
+msgstr ""
+
+msgctxt "1f57993a17a87155ef855ac787ba2dd0"
+msgid "ID=115281301"
+msgstr ""
+
+msgctxt "87943e2dfe17b510d116a4ebf929c0aa"
+msgid "스틸 하모닉스"
+msgstr ""
+
+msgctxt "a3dac8d478995cfdc698dcad469e1211"
+msgid "ID=115282301"
+msgstr ""
+
+msgctxt "b68f92fcddb5779bf89b590b08ac2c6e"
+msgid "마샬 헌터 하모닉스"
+msgstr ""
+
+msgctxt "c9529ae1f3926a21a8305d6010bbe526"
+msgid "ID=115293401"
+msgstr ""
+
+msgctxt "104ea79ca6c6e0e7b6bb8fa5e3023c00"
+msgid "톡식 더 러스트 웨이버"
+msgstr ""
+
+msgctxt "1516d647128fa2886e1f1125deed92d8"
+msgid "ID=115303551"
+msgstr ""
+
+msgctxt "abe8a18ec9b8b5264c6d32b24e9e3491"
+msgid "페이탈 리플렉션 하모닉스"
+msgstr ""
+
+msgctxt "0c18ca882062dfb172bba9e6e15e6ef4"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 네드 "
+"컴퍼니를 습격한 베시, 포이즌과의 전투 정보를 토대로 만든 기타로 조심하지 않으면 사용하는 사람을 다치게 하는 위험한 무기다.\\n스텔라 "
+"유니벨이 사용한다.\\n\\n괴롭히는데 왜 좋아?\\n무슨 놀이야 그거?\\n- 스텔라 유니벨 -"
+msgstr ""
+
+msgctxt "748dedfdc393bdbc0c08f319ba6bdfd4"
+msgid "ID=115301301"
+msgstr ""
+
+msgctxt "27c3418dc101d1195d3dcc3563799d74"
+msgid "러스티 노트"
+msgstr ""
+
+msgctxt "8d9a84f0a5d74010fa725982f9013349"
+msgid "ID=115302301"
+msgstr ""
+
+msgctxt "7b4028aee5e6d7706b180907ec9f8beb"
+msgid "인텐션 노트"
+msgstr ""
+
+msgctxt "938ab41f8281bca5571344ac43d1fabf"
+msgid "ID=115313401"
+msgstr ""
+
+msgctxt "c7149ef04e3f646e67cafb1752efc78a"
+msgid "카발리어즈 오버 노트"
+msgstr ""
+
+msgctxt "707a17a22d14e47cf124ce9615aa8da1"
+msgid "ID=115323551"
+msgstr ""
+
+msgctxt "5688d3be3c9936e360b64c3ef38c242c"
+msgid "가루라 나이트 노트"
+msgstr ""
+
+msgctxt "7787340a59a46cbd498b4c31fcffc403"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 퀸 "
+"가루라를 탄 베시, 팔콘의 검을 토대로 만든 기타로 퀸 가루라가 뿜는 화염으로 단련되기라도 한듯 뜨거운 기운이 느껴지고 있다.\\n스텔라 "
+"유니벨이 사용한다.\\n\\n저 투기… 검을 맞댈 상대로는 부족함이 없도다!\\n- 팔콘 -"
+msgstr ""
+
+msgctxt "aecc5a4463097eb9eae0dd4d94270e85"
+msgid "ID=115331301"
+msgstr ""
+
+msgctxt "6413b788d5f5972bd3649a4a311673aa"
+msgid "노말 노트"
+msgstr ""
+
+msgctxt "604a223f7c36a2b29cdf2ae44239e143"
+msgid "ID=115332301"
+msgstr ""
+
+msgctxt "b4cdc610d434c622e987f9b8d7a11cce"
+msgid "터네이셔스 데몬 보이스"
+msgstr ""
+
+msgctxt "581dbc93e28ad69191cf556f91d4409f"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 기타 "
+"형태의 무기로 일반인이 사용하면 끼긱거리는 이상한 소리가 나지만 소울워커가 사용하면 특별한 힘이 발현된다고 한다.\\n스텔라 유니벨이 "
+"사용한다.\\n\\n이 세상 최고의 노래를 불러라! 안그러면 네 영혼을 잡아먹을 테다!\\n-??-"
+msgstr ""
+
+msgctxt "4ff6653c862ba77adb1c8318cd922164"
+msgid "ID=115343401"
+msgstr ""
+
+msgctxt "9f5c54dadd358aae19df6c4d2bb944ab"
+msgid "세비지드 액스 보이스"
+msgstr ""
+
+msgctxt "64147876f4b654cb5dac7d5a37e33f79"
+msgid "ID=115353551"
+msgstr ""
+
+msgctxt "594446ba2c50f6eacb405e9ac10c8312"
+msgid "리바이브 워리어 하울러"
+msgstr ""
+
+msgctxt "a5a282a6ba049447f77042ee85b0c333"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"복수를 위해 다시 돌아온 거대한 베시, 블러디 스카의 도끼를 토대로 만든 기타. 복수를 위해 단련된 힘은 자신의 무기 또한 변형시켜 더욱 "
+"강대한 힘을 담았다. 투쟁심을 넘어 굉장한 복수심이 끓어오른다.\\n스텔라 유니벨이 사용한다.\\n\\n이게… 너희 인간이 사용하는 "
+"힘인가….\\n그렇군… 너희가 왜 그렇게 강한지 조금은 알 것 같다.\\n- 블러디 스카 -"
+msgstr ""
+
+msgctxt "a0eb1812b3cda4cf355906013bbc2a20"
+msgid "ID=115361301"
+msgstr ""
+
+msgctxt "981a99a0eb699aad0be8086a1acf3094"
+msgid "포지드 노트"
+msgstr ""
+
+msgctxt "6492cdc6b19d76624c25b155cd81de6c"
+msgid "ID=115362301"
+msgstr ""
+
+msgctxt "df4dd9cdd53d89332501591b0d3c7116"
+msgid "섀도우즈 노트"
+msgstr ""
+
+msgctxt "8fd1c97a61dacf03764434e7e90af236"
+msgid "ID=115373401"
+msgstr ""
+
+msgctxt "ec04f81e038748c6f58b73c81160172f"
+msgid "크림슨 섀도우 노트"
+msgstr ""
+
+msgctxt "69a6a04daefe731cb35a309af5d4e6e8"
+msgid "ID=115383551"
+msgstr ""
+
+msgctxt "2cb4a387c6b56c9f2409d47a41283ff8"
+msgid "기타 타입 베니싱 블러드"
+msgstr ""
+
+msgctxt "6b0cc1eaae5979c8ed2a09ffd6054e37"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"래피드 플레임의 암살부대를 이끄는 베시, 팬텀의 검을 토대로 만든 기타로 무기에 깃든 원한과 증오로 인해 정신이 나약한 자는 의지를 "
+"빼앗길 수 있으므로 유의하여야 한다.\\n스텔라 유니벨이 사용한다.\\n\\n팬텀…!\\n녀석이 있었던 건가….\\n- 세니아 -"
+msgstr ""
+
+msgctxt "e2618e7bd59425e90ad8caf60023384a"
+msgid "ID=115381301"
+msgstr ""
+
+msgctxt "72794fe992c2a4e7300edd2b0d4dcc68"
+msgid "솔져스 노트"
+msgstr ""
+
+msgctxt "9ca5718a7a8ab75b42d7e53391c13c4e"
+msgid "ID=115382301"
+msgstr ""
+
+msgctxt "70a3dd72598b7f5a43c72a73c5cf755c"
+msgid "퓨리 인듀서 보이스"
+msgstr ""
+
+msgctxt "60b7cb56e43fc67d674ea9d1f0560e63"
+msgid "ID=115393401"
+msgstr ""
+
+msgctxt "8559df0bf2c0d7990b310f5cb88ed410"
+msgid "크래쉬 더 헌드레드 노트"
+msgstr ""
+
+msgctxt "975c9798d6a723e8e1a992f53d9125f8"
+msgid "ID=115403551"
+msgstr ""
+
+msgctxt "2063cfde314366880adae5b980e846c0"
+msgid "기타 오브 할로우 벤전스"
+msgstr ""
+
+msgctxt "4e51010403dca31151a7faccc7081031"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커, 라반과의 전투 정보를 토대로 만든 기타로 라반의 힘을 해석하는 과정에서 색상이 변화했지만 그 강력한 힘은 그대로 남아있다."
+"\\n\\n익시드. 헌드레드 소드 발동.\\n목표를 전력으로 섬멸합니다.\\n- 라반 -"
+msgstr ""
+
+msgctxt "9e0ea04e6a7561a7686985ace2c13896"
+msgid "ID=115411301"
+msgstr ""
+
+msgctxt "f833a8c02f910b050490713959dff421"
+msgid "아이언 플라이브"
+msgstr ""
+
+msgctxt "5e74978d6fc374702974f4dc35edc146"
+msgid "ID=115412301"
+msgstr ""
+
+msgctxt "a6a2d8a41b5b3ba95f0f9041f8fd1a41"
+msgid "센티넬 플라이브"
+msgstr ""
+
+msgctxt "3de522d51f83fc43bc0420e867402982"
+msgid "ID=115423401"
+msgstr ""
+
+msgctxt "362e1a12103c1d1bc99b76e458c691b4"
+msgid "프로토타입 시저 플라이브"
+msgstr ""
+
+msgctxt "fdbca69e61e079332c9e96947d0a4241"
+msgid "ID=115433551"
+msgstr ""
+
+msgctxt "9efa8b0ca20b70bee21658d651ecedae"
+msgid "헤비 메탈 크라이어"
+msgstr ""
+
+msgctxt "f3e5b54bc1be367c94419292f5e874d4"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 지크 "
+"프로젝트의 첫번째 시작형, 지크 프로토의 형태와 재질을 토대로 만들었기 때문에 굉장히 무거우며, 이미 기타라고 보기엔 무리가 있다."
+"\\n\\n중앙 제어실 방어 프로세스 최종 단계 돌입.\\n지크 프로토, 가동.\\n- 루시 -"
+msgstr ""
+
+msgctxt "f2679e3fcb3a7ec75d9e7dc576f093df"
+msgid "ID=115431301"
+msgstr ""
+
+msgctxt "2eea021bda5a2c2e89b14233ee3857eb"
+msgid "크롬 플라이브"
+msgstr ""
+
+msgctxt "331143e3231a3fa06617db3c5f89d03c"
+msgid "ID=115432301"
+msgstr ""
+
+msgctxt "aca53943461b7a403a63b1f902f33626"
+msgid "도미니언 플라이브"
+msgstr ""
+
+msgctxt "561cc5e82a1a3d43af09fd55f945796a"
+msgid "ID=115443401"
+msgstr ""
+
+msgctxt "a39550bf94b2cbbcd56ec34c28109a3f"
+msgid "리벨레이터 머신 기타"
+msgstr ""
+
+msgctxt "cfa0eca5f5e9ab3bc64fcfbe65082d44"
+msgid "ID=115453551"
+msgstr ""
+
+msgctxt "4e2a45771130bc8b986cd09867f30037"
+msgid "기타 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "d7766584e009c29b936bc50fc2cc1e55"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커, 노아의 무기를 참고하여 만든 기타로 노아의 이능이 깃들어 사용자의 소울 에너지로 바람을 발생시키는 힘을 가지고 있다."
+"\\n\\n제 이름은 노아.\\n오리지널인 당신의 힘. 제가 직접 확인해보겠습니다.\\n- 노아 -"
+msgstr ""
+
+msgctxt "4fa58a3839c9abc00c8fba5829267716"
+msgid "ID=115451301"
+msgstr ""
+
+msgctxt "f2d870708a9ea2be72c2bede81f158dd"
+msgid "메탈 플라이브"
+msgstr ""
+
+msgctxt "a6f2e0985eca4cfb55c23eba1e4fd284"
+msgid "ID=115452301"
+msgstr ""
+
+msgctxt "dea4c53e831214d4e6510769e71aaeee"
+msgid "메탈비스트 플라이브"
+msgstr ""
+
+msgctxt "c5aabaf5f52cef57a12be2ca4e6557bb"
+msgid "ID=115463401"
+msgstr ""
+
+msgctxt "dcf8bed72ef52765b1f7811fa90f8bac"
+msgid "어센셔너 머신 기타"
+msgstr ""
+
+msgctxt "678e6959295dce3295a2d36163f57a19"
+msgid "ID=115473551"
+msgstr ""
+
+msgctxt "db71fd2b9771d42157c91b0fd16be71b"
+msgid "에어리얼 림 샤우터"
+msgstr ""
+
+msgctxt "5271fde406b21fe39f5030e21479b3e4"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커, 에녹의 무기를 참고하여 만든 기타로 공기를 빨아들여 운동 에너지로 전환, 자신의 힘으로 만드는 기능을 가지고는 있다."
+"\\n\\n아아~ 억울해! 나 아직 더 싸울 수 있는데!\\n오리지널! 다음엔 안 봐줄거야!\\n- 에녹 -"
+msgstr ""
+
+msgctxt "2196d506047944eae8207a02e0ceaa0f"
+msgid "ID=115471301"
+msgstr ""
+
+msgctxt "d4e4bcb7901c4824cfac9d22275fbcd2"
+msgid "샤프니스 플라이브"
+msgstr ""
+
+msgctxt "28ed831aa4ee88c26e85fb8f6d20c493"
+msgid "ID=115472301"
+msgstr ""
+
+msgctxt "f04aefe1bc37e050b45deecc7560cd87"
+msgid "퍼니셔스 플라이브"
+msgstr ""
+
+msgctxt "4b219b74499dd650f72957cc49c1190c"
+msgid "ID=115483401"
+msgstr ""
+
+msgctxt "d6e7278d0ad165957ecc8073053c1c24"
+msgid "슈퍼 메카 브레이브 사운드"
+msgstr ""
+
+msgctxt "04a4c1e45bd89c0e380193b0d949e84a"
+msgid "ID=115493551"
+msgstr ""
+
+msgctxt "6bf3f6957c18808c6da7e556a030c91e"
+msgid "기간테스 코어 하울러"
+msgstr ""
+
+msgctxt "3ed7ac282a7cca943b6a054434cd51fb"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"무기고에 숨겨져 있던 거대 병기, 슈퍼 아벨의 정보를 토대로 만든 기타로 알 수 없는 용기가 흘러나와 사용자로 하여금 어떠한 적이든 "
+"상대할 수 있을 것만 같은 기분이 들게 한다.\\n\\n가자! 슈퍼 아벨!\\n우리의 힘을 보여주는거야!\\n- 아벨 -"
+msgstr ""
+
+msgctxt "a555893a4985a11e9cf9e11b2a2440e5"
+msgid "ID=115491301"
+msgstr ""
+
+msgctxt "1262ad89a75718350b643d447713b4c6"
+msgid "카본 위퍼"
+msgstr ""
+
+msgctxt "8cff7d72d156cee46b9215ba43bdb34d"
+msgid "ID=115492301"
+msgstr ""
+
+msgctxt "fdb83ad02df86f0f6c2721ef2da202aa"
+msgid "스틸 고스트 위퍼"
+msgstr ""
+
+msgctxt "5bf9e4d42120fc677651872c64266de8"
+msgid "ID=115503401"
+msgstr ""
+
+msgctxt "4182341c092e225e9f2f0e4863cfb544"
+msgid "어웨이큰 마네스 기타"
+msgstr ""
+
+msgctxt "303326f2e3b2d45c675846b4e4aa623e"
+msgid "ID=115513551"
+msgstr ""
+
+msgctxt "88c66f4f050d1ccd964d516b9db34d96"
+msgid "기타 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "7ed663aed5dc381b6bcbeca097e747fd"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커 노아의 익시드, 퀸 오브 플라워를 참고하여 만든 기타. 질량형 홀로그램을 구현하기 위해서는 막대한 소울 에너지가 필요하기 때문에 "
+"아무리 소울워커라도 일정 능력을 가지지 않는 이상 사용할 수 없는 무기이다.\\n\\n이것이 제 익시드. 질랑형 홀로그램 퀸 오브 "
+"플라워입니다. 아름답죠?\\n- 노아 -"
+msgstr ""
+
+msgctxt "0eeb275985f65c8a08a00a778afe63a0"
+msgid "ID=115511301"
+msgstr ""
+
+msgctxt "29b1f8210c1e920a976b0fb2f3a36490"
+msgid "컴포짓 위퍼"
+msgstr ""
+
+msgctxt "02bed4449911a41a0f2c9b8bde7ef0ae"
+msgid "ID=115512301"
+msgstr ""
+
+msgctxt "38e045d76c25371ef75803e1aeb592f4"
+msgid "어썰트 위퍼"
+msgstr ""
+
+msgctxt "eb8f85168cacbef6162829a1878a6cb7"
+msgid "ID=115523401"
+msgstr ""
+
+msgctxt "e18e74b2e5b315ef7bf01ff454a3daf1"
+msgid "인피니트 림 웨이버"
+msgstr ""
+
+msgctxt "6c97c7a54b2572b835bc0475d05dcdd0"
+msgid "ID=115533551"
+msgstr ""
+
+msgctxt "235ac08fbc5454ac99e6ed79db198064"
+msgid "넘버리스 레이 하울러"
+msgstr ""
+
+msgctxt "0643ca18e4e67625b8548cc0cc5afff4"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커 에녹의 익시드, 넘버리스 림을 참고하여 만든 기타로 장치를 통해 공기를 빨아들여 강력한 운동 에너지로 전환시킨다.\\n\\n그 "
+"이름하여 넘버리스 림!\\n수십개의 자율 공격 비트가 그대를 유린할지니!\\n- 에녹 -"
+msgstr ""
+
+msgctxt "21f7d9aaa1ca77a117f2898b14ec7923"
+msgid "ID=115531301"
+msgstr ""
+
+msgctxt "b0955fbadb4ac19d9d5e8c498f693e31"
+msgid "티탄 위퍼"
+msgstr ""
+
+msgctxt "8a293dc9eb9a028526643cafe1f46f03"
+msgid "ID=115532301"
+msgstr ""
+
+msgctxt "c74c8014423bc2f7a6ae16cc4fefce1c"
+msgid "메탈 버스터 위퍼"
+msgstr ""
+
+msgctxt "6f993d481297fe90664c3cd0fd2f710f"
+msgid "ID=115543401"
+msgstr ""
+
+msgctxt "7e95096332a99c25d4ee7430a8a89893"
+msgid "씰드 레이지 하울러"
+msgstr ""
+
+msgctxt "c2536781c0866510b76eacc73ea38cd6"
+msgid "ID=115553551"
+msgstr ""
+
+msgctxt "99987767be448e1ff9e84c0d78aea3da"
+msgid "글레어즈 포스 로어"
+msgstr ""
+
+msgctxt "59072c53d48c035edb4b9e1ac3a6a68c"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"최초, 최강의 니어 소울워커, 시온과의 전투 정보를 토대로 만든 기타로 시온은 이미 사라졌지만 기타의 현 안에서 알 수 없는 박동이 "
+"느껴지고 있다.\\n스텔라 유니벨이 사용한다.\\n\\n…뭐, 상관없다.\\n나에게 적의를 드러내는 건 모두 죽이면 돼.\\n- 시온 -"
+msgstr ""
+
+msgctxt "e4101780c0f0655835d2888a452475fd"
+msgid "ID=510021301"
+msgstr ""
+
+msgctxt "389cfd41c9e8b074b7997be7708435a0"
+msgid "하빙거 헤드"
+msgstr ""
+
+msgctxt "81b54c59428fe6ef6723eebeb49d8119"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"외부의 공격에 반응하여 보이지 않는 실드를 순간적으로 발생시켜 착용자의 신체를 보호하는 기능이 있다. 머리에 착용할 수 있다."
+msgstr ""
+
+msgctxt "e8178436215f92148d6316ef4332b441"
+msgid "ID=510022301"
+msgstr ""
+
+msgctxt "50239bcd35e9efb453e134e819eba408"
+msgid "울프 슬레이어 헤드"
+msgstr ""
+
+msgctxt "c98e4f7dab79a3787286a35d91fe84e7"
+msgid "ID=510033451"
+msgstr ""
+
+msgctxt "e669b9cc7b90d8db95970821f81abcd8"
+msgid "다이어 본 헤드"
+msgstr ""
+
+msgctxt "457e526a3a30907d69ed05337b780596"
+msgid "ID=510043551"
+msgstr ""
+
+msgctxt "d47b7a98e4d00e5cf8807b7bb025d265"
+msgid "드레드 울프 헤드"
+msgstr ""
+
+msgctxt "ee23227109e5bbb51c8ebc555e9cf6e0"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"시추 현장에서 만난 소울정크의 각성체, 카인과의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용할 수 있다.\\n\\n이 소울정크 "
+"말이야… 오래된 애니메이션에서 본, 악당 닮지 않았어?\\n그 아수라… 인가 하는 거! 그렇지?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "f8e861cdb14825366dcd5747e2ac37a6"
+msgid "ID=510061301"
+msgstr ""
+
+msgctxt "f29108ae792f51829b4667ea1c3bf581"
+msgid "스탠다드 헤드"
+msgstr ""
+
+msgctxt "bd4a4e9f5779da2c3578bed093916ae4"
+msgid "ID=510062301"
+msgstr ""
+
+msgctxt "5aed7a613c50e77786a714c6d8cc7530"
+msgid "돌 버스터 헤드"
+msgstr ""
+
+msgctxt "5ef3eca59ed6342647f887d47a68e1b4"
+msgid "ID=510073451"
+msgstr ""
+
+msgctxt "7d6fc1b87655b65a8e349bea77f04069"
+msgid "돌 크라운 헤드"
+msgstr ""
+
+msgctxt "5e4b0aa33a6aac2f02b47ec89c3d96e4"
+msgid "ID=510083551"
+msgstr ""
+
+msgctxt "ba4c7fe3aab9648453d68cdbbfefdd6a"
+msgid "헤드 타입 돌 블래스터"
+msgstr ""
+
+msgctxt "5e4eb01d7ec030408bb594c60b843b3e"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"R스퀘어에서 만난 거대한 인형, 빅 퍼펫과의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용할 수 있다.\\n\\n이 인형은 왠지 영화 "
+"생각나게 하는데?! 혹시 알고 있어?\\n유령 잡는 사람들 나오는 영화인데, 거기서 거대한 아이스크림 유령이….\\n- 제니스 -"
+msgstr ""
+
+msgctxt "879e5b3ed3cc638a4d2148bf03857633"
+msgid "ID=510091301"
+msgstr ""
+
+msgctxt "313e37d53df623a9348b7a23d79554ff"
+msgid "플리스 헤드"
+msgstr ""
+
+msgctxt "9292e69f5f5023756b7e4b7cfdcfce02"
+msgid "ID=510092301"
+msgstr ""
+
+msgctxt "3a41ee32befa5ae4470b9c3886e6b2d6"
+msgid "비셔스 돌 헤드"
+msgstr ""
+
+msgctxt "677ddd4596bcf65327426147d4ad080a"
+msgid "ID=510103451"
+msgstr ""
+
+msgctxt "abc34a5a125b6d99901ae646484bc2dd"
+msgid "리빙 돌 헤드"
+msgstr ""
+
+msgctxt "988bd13bd2f401d458e3464a7e8cc7f9"
+msgid "ID=510113551"
+msgstr ""
+
+msgctxt "d7a718912904d1808b43519f1c22c0e7"
+msgid "파나틱 페이스 헤드"
+msgstr ""
+
+msgctxt "7a681d7b8ab3484103b7f92484f1e3d6"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"괴전파 발생 지역에서 만난 인형, 잭 더 킹과의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n흐음, 눈이 "
+"하나라 강한 녀석이 아닌 줄 알았는데.\\n난 그냥 잡어라고 생각했거든!\\n- 제니스 - "
+msgstr ""
+
+msgctxt "b7444202fb5e641680b6bfde22f110fb"
+msgid "ID=510111301"
+msgstr ""
+
+msgctxt "63f5befaad0dc01057af96a198f74888"
+msgid "라이팅 헤드"
+msgstr ""
+
+msgctxt "9a12f69c7cc938d876a972f40fece6ff"
+msgid "ID=510112301"
+msgstr ""
+
+msgctxt "8e5090b037cdbc1d119c217def007b11"
+msgid "아크로뱃 헤드"
+msgstr ""
+
+msgctxt "e15b12826d6a97115a479e7262f48000"
+msgid "ID=510123451"
+msgstr ""
+
+msgctxt "f4e2716ad9804b4e8218f6cf9140d9e0"
+msgid "매드 클로운 헤드"
+msgstr ""
+
+msgctxt "a4d046e374d1f00b80b3e342168756d5"
+msgid "ID=510133551"
+msgstr ""
+
+msgctxt "76c9f2d19cf27b4129998f190cbc4e10"
+msgid "할리퀸 위어드 헤드"
+msgstr ""
+
+msgctxt "e111c036aa7b4498db7f8dde5ec178ac"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"버려진 병원에서 만나 인형들의 주인, 에드가와의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n아… 나는 "
+"개인적으로 광대들이 싫어.\\n이상하게 분장하고 웃는 모습이 기괴해서 말이야….\\n- 제니스 - "
+msgstr ""
+
+msgctxt "b631203861d7858a539bc8e84fb98293"
+msgid "ID=510141301"
+msgstr ""
+
+msgctxt "baadea8f671b632b74f7fa029a2314a1"
+msgid "인핸스트 헤드"
+msgstr ""
+
+msgctxt "1427a6a8f2b89d660a2bf7ec8027c8ff"
+msgid "ID=510142301"
+msgstr ""
+
+msgctxt "f34709aecab4b1e5bf87f496623da44d"
+msgid "멀로크 헤드"
+msgstr ""
+
+msgctxt "b39439c316593a545d8bd44c2b994d8e"
+msgid "ID=510153451"
+msgstr ""
+
+msgctxt "914e2b119c55ccca626ae34e7a1ca77c"
+msgid "퀘이크 스토커 헤드"
+msgstr ""
+
+msgctxt "4fd763000619461e17c6c61b251bc412"
+msgid "ID=510163551"
+msgstr ""
+
+msgctxt "cda73cbdf560f70d77263810fef5ff3f"
+msgid "록 프로텍트 헤드"
+msgstr ""
+
+msgctxt "11eba762c0b69c5de5dea874b121ad02"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"해안가 도로에 나타난 소울정크, 아스팔트 골렘과의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n골렘이라… "
+"\\n혹시, 입 안에다 METH라고 쓴 쪽지 넣으면 죽는 거 아냐? 아, 입이 없네.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "801ff50923c00f5fbe95cb9aaf51b699"
+msgid "ID=510161301"
+msgstr ""
+
+msgctxt "25d8177ab59921fc8a221738dea37673"
+msgid "포지드 헤드"
+msgstr ""
+
+msgctxt "5aac16c89233e90ba434aa71aba33296"
+msgid "ID=510162301"
+msgstr ""
+
+msgctxt "d901f7f5064b5225efe04d62def96ec0"
+msgid "디퓨레이트 헤드"
+msgstr ""
+
+msgctxt "c7be91c9ae1154e1051a0ff9ebc76111"
+msgid "ID=510173451"
+msgstr ""
+
+msgctxt "13bbec1d9eaecf2a35845e21de67bbbd"
+msgid "정크 프로텍트 헤드"
+msgstr ""
+
+msgctxt "f55e8b1799c43c0e70636f288726be06"
+msgid "ID=510183551"
+msgstr ""
+
+msgctxt "fad05ef6c47743802838d84f4b1b0c87"
+msgid "커렵션 프로텍트 헤드"
+msgstr ""
+
+msgctxt "a4d0087616c4ac4df7e6549c6e008629"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"지하 수로에 나타난 소울정크, 정크 나이트와의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n누군지는 몰라도 "
+"불쌍한 사람이네…\\n다음 생에서는 공주를 구하는 기사님이 되시기를….\\n- 제니스 - "
+msgstr ""
+
+msgctxt "b3b3631d93faeb3da7ad8fb45a1f0668"
+msgid "ID=510191301"
+msgstr ""
+
+msgctxt "99f9d1bf8fb1e5d035aefebcba2f368d"
+msgid "메쉬 헤드"
+msgstr ""
+
+msgctxt "40058d3d9023ae733120d9259b526855"
+msgid "ID=510192301"
+msgstr ""
+
+msgctxt "19f2e33b4ece1111f797db730acbc0e6"
+msgid "인섹트 헌터 헤드"
+msgstr ""
+
+msgctxt "c376cdafe9ed65abf3cba23f9f40201a"
+msgid "ID=510203451"
+msgstr ""
+
+msgctxt "8a610897c204f0af8d10a65b31e32c25"
+msgid "인섹트 슬레이어 헤드"
+msgstr ""
+
+msgctxt "d45eab8c111f45fbc2164e8936b4bfb7"
+msgid "ID=510213551"
+msgstr ""
+
+msgctxt "603addee53db54789ab3cbc6645a8728"
+msgid "아라크니드 헤드"
+msgstr ""
+
+msgctxt "523f01eec425f8dee5c2615edd4a56c0"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"버려진 저택에 나타난 소울정크, 아라크니스와의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n신화에 베짜기로 "
+"유명한 여자가 있었는데…\\n한번은 신이랑 베짜기로 내기를 했다가 이겨버렸어.\\n어떻게 됐는 줄 알아? 거미가 되어버렸대…. "
+"슬프지?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "712e7b506bb8650ba0d4f44c40a19cf6"
+msgid "ID=510211301"
+msgstr ""
+
+msgctxt "00ee064dea0432c4403a9276a6cd4424"
+msgid "플랙 헤드"
+msgstr ""
+
+msgctxt "aa2c6bb6abfb2b3c50bddec61964c1e7"
+msgid "ID=510212301"
+msgstr ""
+
+msgctxt "c73a7166b22d80ed8149d232e76fcfc3"
+msgid "임퓨리티 플랙 헤드"
+msgstr ""
+
+msgctxt "501900615201a7052ec08977f0a74aa9"
+msgid "ID=510223451"
+msgstr ""
+
+msgctxt "f7f23bb30e8dcd8089e4ad18c98796d0"
+msgid "뮤턴트 플랙 헤드"
+msgstr ""
+
+msgctxt "43998644e17eda6a8edd9fc8652794f4"
+msgid "ID=510233551"
+msgstr ""
+
+msgctxt "b318f635da5b30e894e4cb04a8a5ab95"
+msgid "사일런트 위트니스 헤드"
+msgstr ""
+
+msgctxt "c4828671657e2a7275a76b918df9ec4f"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"N102 쉘터에 나타난 소울정크, 비홀더와의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n비홀더는 내가 정말 "
+"싫어하는 몬스터야!\\n저항 한 번 하지 못하고 매번 석화 광선에 맞는단 말이야!\\n- 제니스 - "
+msgstr ""
+
+msgctxt "07c80fe01acf95d8fb9426fc754a15ce"
+msgid "ID=510241301"
+msgstr ""
+
+msgctxt "4391ab3ce93db97ad585ebe9ba14274f"
+msgid "세라믹 헤드"
+msgstr ""
+
+msgctxt "697fbdfdd25e3e1f852e5afbffcd87fe"
+msgid "ID=510242301"
+msgstr ""
+
+msgctxt "0d1b262d50a0f904681d411dca162df4"
+msgid "인펙티드 헤드"
+msgstr ""
+
+msgctxt "38b7fe4997f814920f15e7fab0ee0308"
+msgid "ID=510253451"
+msgstr ""
+
+msgctxt "83098f8a97943c6a0ec417ab81b56b25"
+msgid "에어레이드 헤드"
+msgstr ""
+
+msgctxt "0d6d3cb36ef8b863ff8c094d8bf114cc"
+msgid "ID=510263551"
+msgstr ""
+
+msgctxt "e58a9d1a121f47f87fd7d17b14b977b6"
+msgid "할로우 하츠 헤드"
+msgstr ""
+
+msgctxt "cc47b7356648f5a56e6820d668a1281a"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"캐서린을 흡수한 각성체, 아마릴리스와의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n아마릴리스의 꽃말이 뭔지 "
+"알아?\\n수다쟁이, 은은한 아름다움, 인공적인 것… 그리고 침묵이래.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "e96e4a0d961fef98200f0449578e255a"
+msgid "ID=510261301"
+msgstr ""
+
+msgctxt "e1a822b2730bf8f640ae60064f400a7c"
+msgid "리파인 헤드"
+msgstr ""
+
+msgctxt "0be01aec54fe6442208a76655c7f2620"
+msgid "ID=510262301"
+msgstr ""
+
+msgctxt "a03621e4b97bae170a79a89efb4eeea7"
+msgid "브럼비 헤드"
+msgstr ""
+
+msgctxt "4e781c978d7b1df7e59d9b3221216937"
+msgid "ID=510273451"
+msgstr ""
+
+msgctxt "6744fe4886aece3c74a57487f98ae832"
+msgid "콜로설즈 리파인 헤드"
+msgstr ""
+
+msgctxt "a5c20d69ef840c0cdc7421789093405e"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"공백의 영향으로 특수한 힘을 각성한 헤드 기어로 착용자의 신체를 강화하거나 특수한 능력을 부여한다. 머리에 착용할 수 있다."
+msgstr ""
+
+msgctxt "2c98b8f6ff9094a7e135906fb415912a"
+msgid "ID=510283551"
+msgstr ""
+
+msgctxt "1d454bc90969cb3e00d58d57e600e5b5"
+msgid "비셔스 블럿쉬드 헤드"
+msgstr ""
+
+msgctxt "dc190933ca523b8917844f39fbdeb411"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"고가도로에 나타난 거대한 베시, 스카와의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n스카라… 얼굴에 상처 "
+"있어?\\n설마 얼굴 중앙에 X자로 상처가 나있거나 하진 않지?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "4b73c997afc9d8159d17e4445d5a8214"
+msgid "ID=510281301"
+msgstr ""
+
+msgctxt "d0499d5cae959240c884d23b89cce270"
+msgid "스틸 헤드"
+msgstr ""
+
+msgctxt "f698914181ed185ca4fe9bb4fd0d6c80"
+msgid "ID=510282301"
+msgstr ""
+
+msgctxt "e78a1f30f9fe1205f8acfa6260b268dd"
+msgid "체인드 헤드"
+msgstr ""
+
+msgctxt "1ac214e32eb4632de91970a0d0c87409"
+msgid "ID=510293451"
+msgstr ""
+
+msgctxt "9c914b25823a87a697224152830e474f"
+msgid "인트루더 헤드"
+msgstr ""
+
+msgctxt "a84ee1cc371b9d8094a54fe361a4daa1"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어] <font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"공백의 영향으로 특수한 힘을 각성한 헤드 기어로 착용자의 신체를 강화하거나 특수한 능력을 부여한다. 머리에 착용할 수 있다."
+msgstr ""
+
+msgctxt "9f8fa63f49b0bbf8e565601080471250"
+msgid "ID=510303551"
+msgstr ""
+
+msgctxt "356213eae7bdfca6bac08f0768658e3c"
+msgid "베노머스 아이돌 헤드"
+msgstr ""
+
+msgctxt "372d879c0b78fe3f761a0746cd5670d5"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"네드 컴퍼니를 습격한 베시, 포이즌과의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n부, 부러운 몸매인데…? "
+"하하하….\\n- 제니스 - "
+msgstr ""
+
+msgctxt "148bb416d5dd74e69895101d313b6b57"
+msgid "ID=510301301"
+msgstr ""
+
+msgctxt "79c7ed929eb25dc790ede3925f0e79ac"
+msgid "리퓨즈 헤드"
+msgstr ""
+
+msgctxt "7aa4d64aa4735e1f06e086b659ff2d94"
+msgid "ID=510302301"
+msgstr ""
+
+msgctxt "df74e5405be2789db7cf366f631c82f5"
+msgid "테이머즈 헤드"
+msgstr ""
+
+msgctxt "eae31e917b7a999b2166fdf75d0ed5f1"
+msgid "ID=510313451"
+msgstr ""
+
+msgctxt "8e956576b33270c461cfb602cae7f0dc"
+msgid "헌터 리퓨즈 헤드"
+msgstr ""
+
+msgctxt "09ef131e903b7ec0f85566149bce3d6c"
+msgid "ID=510323551"
+msgstr ""
+
+msgctxt "06a8ea15bb3ae58ca1f314d696afb3b1"
+msgid "어스튜드 워리어 헤드"
+msgstr ""
+
+msgctxt "243f0a516004f27d12f3ed012b9abf98"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. 퀸 "
+"가루라를 탄 베시, 팔콘과의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n익룡같이 생긴 동물… 나도 탈 수 "
+"있을까?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "c3767f257091493ca87ff186d14b07fb"
+msgid "ID=510331301"
+msgstr ""
+
+msgctxt "0ffdce1a9586d3b6849ca99b21be5aa9"
+msgid "포인티드 헤드"
+msgstr ""
+
+msgctxt "9cce2913ac0131493ae190297edb6b14"
+msgid "ID=510332301"
+msgstr ""
+
+msgctxt "8fb723368a5a5751ea8518965c543597"
+msgid "비자르 헤드"
+msgstr ""
+
+msgctxt "9d60a882f0e9dcd08019dc041bf24120"
+msgid "ID=510343451"
+msgstr ""
+
+msgctxt "75b28a1854be05b8fd5f50e95868bb5f"
+msgid "엔드리스 벤데타 헤드"
+msgstr ""
+
+msgctxt "e74aba86e2196ebb9a9a8a5312c7697b"
+msgid "ID=510353551"
+msgstr ""
+
+msgctxt "517e8ca3d73fe2a35c4421199d0890a0"
+msgid "어벤던드 러스트 헤드"
+msgstr ""
+
+msgctxt "f2ae77fc91f1ced230d53c786be24a76"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"복수를 위해 다시 돌아온 거대한 베시, 블러디 스카의 도끼를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n이렇게 보니 "
+"왠지 캐릭터가 비슷한 거 같아.\\n복수한다는 것도 그렇고… 아, 아닌가?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "f2cc7b3058698197b7d3ad32fb12ea7d"
+msgid "ID=510361301"
+msgstr ""
+
+msgctxt "8378eda436ca8d0119da4277cae312ee"
+msgid "인포스 헤드"
+msgstr ""
+
+msgctxt "17e4be9490a85343d67f2d13c23567a2"
+msgid "ID=510362301"
+msgstr ""
+
+msgctxt "a9e497eb13a3455fe64c1b4d1bb39720"
+msgid "어쌔신 헤드"
+msgstr ""
+
+msgctxt "68939e840ee4a4ab601a4e87b77028f9"
+msgid "ID=510373451"
+msgstr ""
+
+msgctxt "fe0cdc01172cc57e207c4d213f76f535"
+msgid "크림슨 헤이스티 헤드"
+msgstr ""
+
+msgctxt "8f6e759f2455702a0094725f71a20c68"
+msgid "ID=510383551"
+msgstr ""
+
+msgctxt "9f30c120e3102fae2a07fc97656bde5a"
+msgid "블러디 와이트 헤드"
+msgstr ""
+
+msgctxt "4a436c225c2a541c7b28ea548237f2f0"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"래피드 플레임의 암살부대를 이끄는 베시, 팬텀의 검을 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n내가 생각했던 "
+"암살자랑은 많이 다르네…\\n나는 전부 하얀 옷에 후드 눌러쓰고 히든 블레이드… 아 미안.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "d06af15ad734584bd7c8564df71d724e"
+msgid "ID=510381301"
+msgstr ""
+
+msgctxt "60d4d38218375b590da880915ce85c8f"
+msgid "바이스 헤드"
+msgstr ""
+
+msgctxt "feee697a98a863266cb4b37c063d8905"
+msgid "ID=510382301"
+msgstr ""
+
+msgctxt "95502ea196231a904c6ce4bea367fafa"
+msgid "시큐리티 헤드"
+msgstr ""
+
+msgctxt "f335e9d5fb1e0e2d14a0f02284f97d18"
+msgid "ID=510393451"
+msgstr ""
+
+msgctxt "cd8e1c3e031a6dbff587528dce988501"
+msgid "디터먼트 바이스 헤드"
+msgstr ""
+
+msgctxt "03b6eebf2f894fddea48336d05d94be8"
+msgid "ID=510403551"
+msgstr ""
+
+msgctxt "602324b58f82c580f1a437880b5e2fc1"
+msgid "언포기븐 바이스 헤드"
+msgstr ""
+
+msgctxt "1ec3fb82a713f8ba1dfa657eea27a014"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커, 라반과의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n저 선글라스… 던지면 터질까?\\n- "
+"제니스 - "
+msgstr ""
+
+msgctxt "1376b6341f2a82d985042affc3c43c71"
+msgid "ID=510411301"
+msgstr ""
+
+msgctxt "8cea983a584d818df68c060ce48b536b"
+msgid "아이언 헤드"
+msgstr ""
+
+msgctxt "93d482f6aff1c8ccdf7f6531e194363c"
+msgid "ID=510412301"
+msgstr ""
+
+msgctxt "433c72f809b28527961ffc5175df1a0a"
+msgid "센트리즈 아이언 헤드"
+msgstr ""
+
+msgctxt "36686b61a63fee00a2bc26758891bd1d"
+msgid "ID=510423451"
+msgstr ""
+
+msgctxt "b8f0359ce6510dbc14b68cc9f7d209f2"
+msgid "가디언즈 아이언 헤드"
+msgstr ""
+
+msgctxt "9ff7fdec1a35321d0936049c8f275408"
+msgid "ID=510433551"
+msgstr ""
+
+msgctxt "e95b1652bd88acc08fc0ca7cb06e15f3"
+msgid "헤비 메탈 헤드"
+msgstr ""
+
+msgctxt "f890aeb0b1a7c9fc28c77c56d9c2f46c"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"지크 프로젝트의 첫번째 시작형, 지크 프로토의 형태와 재질을 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n혹시! 쟈니 "
+"뎁이라고 알아? \\n옛날에 살았던 유명한 배우인데, 이발사 로봇 역도 했었어.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "1ea77a9ded5b67eef1e3d0b2915dad17"
+msgid "ID=510431301"
+msgstr ""
+
+msgctxt "417ab07f740debac0ef00d6de0194b8e"
+msgid "크롬 헤드"
+msgstr ""
+
+msgctxt "a0b91546c08d4873a2949d5cd2deedc9"
+msgid "ID=510432301"
+msgstr ""
+
+msgctxt "f52e015319b207cf6bf161fd455218b1"
+msgid "도미니언 크롬 헤드"
+msgstr ""
+
+msgctxt "1f9403956338106bfb0ccb19626e3405"
+msgid "ID=510443451"
+msgstr ""
+
+msgctxt "2e352e493d812cbeecbcffc0d9a9c98b"
+msgid "제런트 크롬 헤드"
+msgstr ""
+
+msgctxt "6f724238b3d27b8000749298912f3bd0"
+msgid "ID=510453551"
+msgstr ""
+
+msgctxt "eae36d8eea23c0ded1daf22a1a8dc950"
+msgid "헤드 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "1389e89e88d2558a5a0564a4b36254bf"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커, 노아와의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n노아라는 사람, \\n검은 머리에 검은 "
+"눈을 하면 신경이 쓰인다는 말을 많이 할 것 같지 않아?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "96d899cc5797171ede6a63abdecf695f"
+msgid "ID=510451301"
+msgstr ""
+
+msgctxt "49cefff41f61159dbee59d7dca232667"
+msgid "메탈 헤드"
+msgstr ""
+
+msgctxt "185f7b0c644111560ebb83a9e362995c"
+msgid "ID=510452301"
+msgstr ""
+
+msgctxt "6aebf7a89dbee8c0e351828593cb0017"
+msgid "메탈비스트 헤드"
+msgstr ""
+
+msgctxt "bfc72893869a160b32223554d9be37c3"
+msgid "ID=510463451"
+msgstr ""
+
+msgctxt "9bd1813bf27828a947dbc03e8f5c3ba3"
+msgid "카니지 메탈 헤드"
+msgstr ""
+
+msgctxt "5b686b4d20d142457134d3927aa14c89"
+msgid "ID=510473551"
+msgstr ""
+
+msgctxt "3d8fbd7be95c564636170d62460b622a"
+msgid "에어리얼 림 헤드"
+msgstr ""
+
+msgctxt "3c4c050433e6cb6e2bbfd97185964fb6"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커, 에녹과의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n…춥겠지?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "c1f52f1c80bd2ce6828fc898e0a5e76f"
+msgid "ID=510471301"
+msgstr ""
+
+msgctxt "ed607cc3471c30d5d002cb715576147f"
+msgid "샤프니스 헤드"
+msgstr ""
+
+msgctxt "91190daa61958be87e97b87e46b0b877"
+msgid "ID=510472301"
+msgstr ""
+
+msgctxt "3225f204333a160d9532c1a8c3eb1561"
+msgid "퍼니셔스 헤드"
+msgstr ""
+
+msgctxt "338c54ad8e13b4b70fb89754906eed70"
+msgid "ID=510483451"
+msgstr ""
+
+msgctxt "aac3e080ff43f486145b1294518cad01"
+msgid "브레이버 헤드"
+msgstr ""
+
+msgctxt "f11ca3fb7e14326e1005339afdf34677"
+msgid "ID=510493551"
+msgstr ""
+
+msgctxt "25dba1118fd29e39d202e9e46a82e15e"
+msgid "기간테스 코어 헤드"
+msgstr ""
+
+msgctxt "fc8d5255f44bad0403696c7b9d16dda3"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"무기고에 숨겨져 있던 거대 병기, 슈퍼 아벨의 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n이 로봇은 이미 "
+"완벽해!\\n다리 따위는 장식이라고!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "6b28df7a8efb576a867095142ae894cd"
+msgid "ID=510491301"
+msgstr ""
+
+msgctxt "234975133345bd64c8a893238cc58e01"
+msgid "카본 헤드"
+msgstr ""
+
+msgctxt "5a73370af37e492385df2531069de58a"
+msgid "ID=510492301"
+msgstr ""
+
+msgctxt "9a37df7e38ebca5c8aa37eeeca8551d0"
+msgid "스틸 고스트 헤드"
+msgstr ""
+
+msgctxt "213f9681a049f85916b2fac10f09cf64"
+msgid "ID=510503451"
+msgstr ""
+
+msgctxt "cf8b91c5470863c21b5822c56a287171"
+msgid "판타즈말 카본 헤드"
+msgstr ""
+
+msgctxt "be1c79c507025d13db78b0529a725924"
+msgid "ID=510513551"
+msgstr ""
+
+msgctxt "bbcd8134d674c1ae7c158d1c24cf5fa4"
+msgid "헤드 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "e8d3ce51c0474c011babbd9404a3633c"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커 노아의 익시드, 퀸 오브 플라워를 참고하여 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n꽃의 여왕이라니… 사신 "
+"아니었어?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "c1ef52e4b05e78d2f5e7ecf54dc4aa91"
+msgid "ID=510511301"
+msgstr ""
+
+msgctxt "85ab6467831fcb2b31639835fdc0ef9e"
+msgid "컴포짓 헤드"
+msgstr ""
+
+msgctxt "423ddb04395ca06cd692e56fc2d41248"
+msgid "ID=510512301"
+msgstr ""
+
+msgctxt "0a778b647079935a9ba3f7d0209f0054"
+msgid "어썰트 헤드"
+msgstr ""
+
+msgctxt "f2152161426c548d1fe3a4b6c5bc1435"
+msgid "ID=510523451"
+msgstr ""
+
+msgctxt "030d1105038610eaeed3cba696a12363"
+msgid "레클리스 원 헤드"
+msgstr ""
+
+msgctxt "9edaf78591b2743853a6709f3b74723b"
+msgid "ID=510533551"
+msgstr ""
+
+msgctxt "424069e0567695e92f5325afc31d0130"
+msgid "넘버리스 레이 헤드"
+msgstr ""
+
+msgctxt "19f901d4bef963b5d71128a762557fd0"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커 에녹의 익시드, 넘버리스 림을 참고하여 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n에녹이라는 여자는 동그란 것을 "
+"너무 많이 가지고 있는 것 같아!\\n원형 장치들도 그렇고… 모, 몸도 그렇고!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "65dc9900ebc49cd9ee470612d9d7ff6a"
+msgid "ID=510531301"
+msgstr ""
+
+msgctxt "76251f080e86e05ce9dbfbb7a3a904ee"
+msgid "티탄 헤드"
+msgstr ""
+
+msgctxt "9fc2c947592e4ca5fb9016df8d415926"
+msgid "ID=510532301"
+msgstr ""
+
+msgctxt "2be462194b4385b70fe5a0a0274a24dc"
+msgid "메탈 버스터 헤드"
+msgstr ""
+
+msgctxt "220713bedeafcca326b7825caa972c05"
+msgid "ID=510543451"
+msgstr ""
+
+msgctxt "bfd478d0e76373bca1246cf8fb8af30e"
+msgid "루미너시티 헤드"
+msgstr ""
+
+msgctxt "029ac6cc960848ce153cdfd6b3c30aa2"
+msgid "ID=510553551"
+msgstr ""
+
+msgctxt "755e611e080c9b560b521ae628f22158"
+msgid "글레어즈 포스 헤드"
+msgstr ""
+
+msgctxt "6a45e05c7c2887f35369fc5c41c0d9d5"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"최초, 최강의 니어 소울워커, 시온과의 전투 정보를 토대로 만든 헤드 기어. 머리에 착용 할 수 있다.\\n\\n그야말로 최강의 "
+"방어력이다…!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "5c9629d7f1663bad1c7505e69f17aad4"
+msgid "ID=520061301"
+msgstr ""
+
+msgctxt "2995a5b3bbb075080da8f03bc15bd15e"
+msgid "스탠다드 숄더"
+msgstr ""
+
+msgctxt "2d53499aea612aeff46a8eabafb8429d"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"외부의 공격에 반응하여 보이지 않는 실드를 순간적으로 발생시켜 착용자의 신체를 보호하는 기능이 있다. 어깨에 착용할 수 있다."
+msgstr ""
+
+msgctxt "0a2341bfd6d0e7bb817ca6c407504e52"
+msgid "ID=520062301"
+msgstr ""
+
+msgctxt "53b7e33e508aa8edecbbc87a6680ff4e"
+msgid "돌 버스터 숄더"
+msgstr ""
+
+msgctxt "0535ac1f88db64a48179b07c4e8a2f2c"
+msgid "ID=520073451"
+msgstr ""
+
+msgctxt "0fd007d51736b1c350aaa49be2294e23"
+msgid "돌 크라운 숄더"
+msgstr ""
+
+msgctxt "b1b9b7b24a8819c76257fdf050edb7a3"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"공백의 영향으로 특수한 힘을 각성한 숄더 기어로 착용자의 신체를 강화하거나 특수한 능력을 부여한다. 어깨에 착용할 수 있다."
+msgstr ""
+
+msgctxt "cd66c9547b1aa815a4b1697b8c6e08d7"
+msgid "ID=520083551"
+msgstr ""
+
+msgctxt "63ea42a314cbf7cf040efefa4ab8ad87"
+msgid "숄더 타입 돌 블래스터"
+msgstr ""
+
+msgctxt "5047790112c5d0b45522ac6aff1523a5"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"R스퀘어에서 만난 거대한 인형, 빅 퍼펫과의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용할 수 있다.\\n\\n이 인형은 왠지 영화 "
+"생각나게 하는데?! 혹시 알고 있어?\\n유령 잡는 사람들 나오는 영화인데, 거기서 거대한 아이스크림 유령이….\\n- 제니스 -"
+msgstr ""
+
+msgctxt "2fd59a561713668049c9d1fdd4f3790b"
+msgid "ID=520091301"
+msgstr ""
+
+msgctxt "70cdcee73a083643eef14cb86c4e740e"
+msgid "플리스 숄더"
+msgstr ""
+
+msgctxt "928f3e03157db4ca1002ba13d5499507"
+msgid "ID=520092301"
+msgstr ""
+
+msgctxt "e51426c21719500e35168edaa9d7921c"
+msgid "비셔스 돌 숄더"
+msgstr ""
+
+msgctxt "ae57ee7a954533a0bc9a2ee8cadb7a3d"
+msgid "ID=520103451"
+msgstr ""
+
+msgctxt "04728e6eb99e3397bd2649fc65fbf191"
+msgid "리빙 돌 숄더"
+msgstr ""
+
+msgctxt "18a39972e49c762df98b7400d1b69cc3"
+msgid "ID=520113551"
+msgstr ""
+
+msgctxt "f20a73180e46336926b1f9b5d8d81949"
+msgid "파나틱 페이스 숄더"
+msgstr ""
+
+msgctxt "8c664857f5430cd63d3531d7676f863d"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"괴전파 발생 지역에서 만난 인형, 잭 더 킹과의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n흐음, 눈이 "
+"하나라 강한 녀석이 아닌 줄 알았는데.\\n난 그냥 잡어라고 생각했거든!\\n- 제니스 - "
+msgstr ""
+
+msgctxt "84b4d25980fad1d7986163d915a6dbf9"
+msgid "ID=520111301"
+msgstr ""
+
+msgctxt "b46125c66feeed64d680e891ffb896b2"
+msgid "라이팅 숄더"
+msgstr ""
+
+msgctxt "d7a42627ef90dd6630f1c8f96491dfb3"
+msgid "ID=520112301"
+msgstr ""
+
+msgctxt "1862ba111e23d81c628149c198d69da0"
+msgid "아크로뱃 숄더"
+msgstr ""
+
+msgctxt "e31086f4f1224318ace70c907d428321"
+msgid "ID=520123451"
+msgstr ""
+
+msgctxt "93622682ed4ea2ac02a3140fef3af17e"
+msgid "매드 클로운 숄더"
+msgstr ""
+
+msgctxt "f755a2fcfc30ba66eb126b49de995a0a"
+msgid "ID=520133551"
+msgstr ""
+
+msgctxt "00480d1d5a02711b5c6b2e7e36fcb94a"
+msgid "할리퀸 위어드 숄더"
+msgstr ""
+
+msgctxt "cd39202823eb052dcd3d91a763943ae6"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"버려진 병원에서 만나 인형들의 주인, 에드가와의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n아… 나는 "
+"개인적으로 광대들이 싫어.\\n이상하게 분장하고 웃는 모습이 기괴해서 말이야….\\n- 제니스 - "
+msgstr ""
+
+msgctxt "ed954f96b11c47b0aa72c808e0046ae7"
+msgid "ID=520141301"
+msgstr ""
+
+msgctxt "df3195265ab890edb0b86b6612b67150"
+msgid "인핸스트 숄더"
+msgstr ""
+
+msgctxt "e3853cdd2925cfda29f12cf22b5c2360"
+msgid "ID=520142301"
+msgstr ""
+
+msgctxt "b295535415310488d2e6ddec46548c8a"
+msgid "멀로크 숄더"
+msgstr ""
+
+msgctxt "91eab1fabfbbd43b6965c9d84f0f3643"
+msgid "ID=520153451"
+msgstr ""
+
+msgctxt "23ed97d2c566a50972b7a31ea626e912"
+msgid "퀘이크 스토커 숄더"
+msgstr ""
+
+msgctxt "28bdbc61847b1697808859423982e2b2"
+msgid "ID=520163551"
+msgstr ""
+
+msgctxt "3271b48ccd56892f8fceb62c811bc6fc"
+msgid "록 프로텍트 숄더"
+msgstr ""
+
+msgctxt "a4aa8060b7896d95c5769019cba0f65c"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"해안가 도로에 나타난 소울정크, 아스팔트 골렘과의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n골렘이라… "
+"\\n혹시, 입 안에다 METH라고 쓴 쪽지 넣으면 죽는 거 아냐? 아, 입이 없네.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "26b687a814bab220b7f7648f472d9f57"
+msgid "ID=520161301"
+msgstr ""
+
+msgctxt "91db906af43c73e006b20245e24ae9f6"
+msgid "포지드 숄더"
+msgstr ""
+
+msgctxt "7f9692cc416a8cb0a58f877b7abc8eea"
+msgid "ID=520162301"
+msgstr ""
+
+msgctxt "425b3ffd0cbf4e9386523db4db23323b"
+msgid "디퓨레이트 숄더"
+msgstr ""
+
+msgctxt "40b65b2afcc627d58b364827f69b904a"
+msgid "ID=520173451"
+msgstr ""
+
+msgctxt "ac199726998f6583c395c139f358db0f"
+msgid "정크 프로텍트 숄더"
+msgstr ""
+
+msgctxt "dc06b9534ad7f580e195667c4a2e2f01"
+msgid "ID=520183551"
+msgstr ""
+
+msgctxt "9e7b8b06b5fac1fa9f359e5cb88bec5c"
+msgid "커렵션 프로텍트 숄더"
+msgstr ""
+
+msgctxt "f113faf065b2cce12dbb8b8f2a72bd70"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"지하 수로에 나타난 소울정크, 정크 나이트와의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n누군지는 몰라도 "
+"불쌍한 사람이네…\\n다음 생에서는 공주를 구하는 기사님이 되시기를….\\n- 제니스 - "
+msgstr ""
+
+msgctxt "92e7e151097f5125b01903a3670cb31a"
+msgid "ID=520191301"
+msgstr ""
+
+msgctxt "cd3df1f7dada040d92e736c4ca760d13"
+msgid "메쉬 숄더"
+msgstr ""
+
+msgctxt "4241da140cd9dd523b3bd4e07e4667da"
+msgid "ID=520192301"
+msgstr ""
+
+msgctxt "b03625b29b3dab36a96b6c125726f2e0"
+msgid "인섹트 헌터 숄더"
+msgstr ""
+
+msgctxt "65bb7894bf7a98f8bb6dce4a9f50639a"
+msgid "ID=520203451"
+msgstr ""
+
+msgctxt "1a927067312f9f97f361c01884898294"
+msgid "인섹트 슬레이어 숄더"
+msgstr ""
+
+msgctxt "02725d27e0c9de014bf616741f1c28e3"
+msgid "ID=520213551"
+msgstr ""
+
+msgctxt "c4d40e772e8ab94dc51b297aa4d1dc5e"
+msgid "아라크니드 숄더"
+msgstr ""
+
+msgctxt "9d1836456962a919c6e9bb50b1118364"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"버려진 저택에 나타난 소울정크, 아라크니스와의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n신화에 베짜기로 "
+"유명한 여자가 있었는데…\\n한번은 신이랑 베짜기로 내기를 했다가 이겨버렸어.\\n어떻게 됐는 줄 알아? 거미가 되어버렸대…. "
+"슬프지?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "5bc19a2b6c26e35eef1003093c3b7a1d"
+msgid "ID=520211301"
+msgstr ""
+
+msgctxt "a1254bc1b0f11c1c883e0e9cfd6f4495"
+msgid "플랙 숄더"
+msgstr ""
+
+msgctxt "54a381f7c75ee7e4c62dcf30f5527573"
+msgid "ID=520212301"
+msgstr ""
+
+msgctxt "a24e9d94f6aad31cdd068c2a9cff5b71"
+msgid "임퓨리티 플랙 숄더"
+msgstr ""
+
+msgctxt "513dbad9b4f094e995a3df521f8aff35"
+msgid "ID=520223451"
+msgstr ""
+
+msgctxt "9e8a32f29275bf54b25695d2f133a92c"
+msgid "뮤턴트 플랙 숄더"
+msgstr ""
+
+msgctxt "3d0440915a8b787aca0f66132d356342"
+msgid "ID=520233551"
+msgstr ""
+
+msgctxt "18cca6f305c61a825a29ecee9c6dd2b0"
+msgid "사일런트 위트니스 숄더"
+msgstr ""
+
+msgctxt "f2f47d6da824010da8483f3367f67099"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"N102 쉘터에 나타난 소울정크, 비홀더와의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n비홀더는 내가 정말 "
+"싫어하는 몬스터야!\\n저항 한 번 하지 못하고 매번 석화 광선에 맞는단 말이야!\\n- 제니스 - "
+msgstr ""
+
+msgctxt "db6583d1aa7967f3201d229426d5abbb"
+msgid "ID=520241301"
+msgstr ""
+
+msgctxt "f5348564e8a178d0e6826bac6be18c6a"
+msgid "세라믹 숄더"
+msgstr ""
+
+msgctxt "8ee790ee58434b585f1226962b0449b7"
+msgid "ID=520242301"
+msgstr ""
+
+msgctxt "9b98c1fc3644c3c581c13fce634c565d"
+msgid "인펙티드 숄더"
+msgstr ""
+
+msgctxt "dcb66b437ed9e37239b6cbdbe4e8434e"
+msgid "ID=520253451"
+msgstr ""
+
+msgctxt "c0b3e2d7f3a7aed3ecd29ca25f0a6f80"
+msgid "에어레이드 숄더"
+msgstr ""
+
+msgctxt "d678ad3de1acb9159a8b6dac225e4c04"
+msgid "ID=520263551"
+msgstr ""
+
+msgctxt "44162f2117f07b48c8b29bf41d9b5730"
+msgid "할로우 하츠 숄더"
+msgstr ""
+
+msgctxt "6c4f24dadd15064af94be68fa8f6faaa"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"캐서린을 흡수한 각성체, 아마릴리스와의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n아마릴리스의 꽃말이 뭔지 "
+"알아?\\n수다쟁이, 은은한 아름다움, 인공적인 것… 그리고 침묵이래.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "f37968c3dd46f03c474a0f4320e1ca14"
+msgid "ID=520261301"
+msgstr ""
+
+msgctxt "6260ce11ededc73312ee4e7d48f6d65f"
+msgid "리파인 숄더"
+msgstr ""
+
+msgctxt "467e06ddc19fcfb667370d12f6771a38"
+msgid "ID=520262301"
+msgstr ""
+
+msgctxt "52b7688fb89fc296e01c7cc7c8d57544"
+msgid "브럼비 숄더"
+msgstr ""
+
+msgctxt "6dc4b2cbaf5a445b8328b33f835c69f7"
+msgid "ID=520273451"
+msgstr ""
+
+msgctxt "d37c06b7cde4e92189bc721eb4fe7bc7"
+msgid "콜로설즈 리파인 숄더"
+msgstr ""
+
+msgctxt "1873b35db8bf50b72bcd59de8fc1f786"
+msgid "ID=520283551"
+msgstr ""
+
+msgctxt "bb394e681747de2bdb29d51f2a0730ec"
+msgid "비셔스 블럿쉬드 숄더"
+msgstr ""
+
+msgctxt "7a6deb679a17dffef062d53139f3a161"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"고가도로에 나타난 거대한 베시, 스카와의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n스카라… 얼굴에 상처 "
+"있어?\\n설마 얼굴 중앙에 X자로 상처가 나있거나 하진 않지?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "816ed5faf4674c4eaac6ae7d7ce284c5"
+msgid "ID=520281301"
+msgstr ""
+
+msgctxt "fcee49dd1184b44a82317f15427276e2"
+msgid "스틸 숄더"
+msgstr ""
+
+msgctxt "7f6230e2c615c822bbe0601472305714"
+msgid "ID=520282301"
+msgstr ""
+
+msgctxt "948394873508f708272a188bbf42c5a4"
+msgid "체인드 숄더"
+msgstr ""
+
+msgctxt "693782f68528f549d9a13eeff8fd67af"
+msgid "ID=520293451"
+msgstr ""
+
+msgctxt "a98cfaa69ffd01da1f024cb7ef57e7ec"
+msgid "인트루더 숄더"
+msgstr ""
+
+msgctxt "1f98cca00e4824d738da5380df16e17e"
+msgid "ID=520303551"
+msgstr ""
+
+msgctxt "bfba5106ba730c9ab64c59acce8e8161"
+msgid "베노머스 아이돌 숄더"
+msgstr ""
+
+msgctxt "c01f9563f48cfbdb57d45309968e5580"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"네드 컴퍼니를 습격한 베시, 포이즌과의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n부, 부러운 몸매인데…? "
+"하하하….\\n- 제니스 - "
+msgstr ""
+
+msgctxt "497a40a8dcab5c8bebf28c65d5ccc73f"
+msgid "ID=520301301"
+msgstr ""
+
+msgctxt "a420080f12068daf51dd3c7ea31164ef"
+msgid "리퓨즈 숄더"
+msgstr ""
+
+msgctxt "7bb7c1a230cd2eb425d9d8ca0dc84b8b"
+msgid "ID=520302301"
+msgstr ""
+
+msgctxt "1f374f1e3c1c4efd2ec3d7374db9fd66"
+msgid "테이머즈 숄더"
+msgstr ""
+
+msgctxt "3bef5d6f19b56c0d6acc62367c270800"
+msgid "ID=520313451"
+msgstr ""
+
+msgctxt "2cf00310f47babb90f44624cfdbd5f75"
+msgid "헌터 리퓨즈 숄더"
+msgstr ""
+
+msgctxt "037c4876165480a246c81466b9e14c88"
+msgid "ID=520323551"
+msgstr ""
+
+msgctxt "7eb456d457fbbf2ff72b0b103d4cca50"
+msgid "어스튜드 워리어 숄더"
+msgstr ""
+
+msgctxt "354412a8cb88f2ccff7950a96d330801"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. 퀸 "
+"가루라를 탄 베시, 팔콘과의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n익룡같이 생긴 동물… 나도 탈 수 "
+"있을까?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "7fbb0f8476281af6a24791e4c564e439"
+msgid "ID=520331301"
+msgstr ""
+
+msgctxt "c81dcf7ccfa0d811b259ab1a36931ffe"
+msgid "포인티드 숄더"
+msgstr ""
+
+msgctxt "c3b8a97bc3134d43ca4fdbb4d7071cbd"
+msgid "ID=520332301"
+msgstr ""
+
+msgctxt "63e4014ccef24858589038c2a171e8c8"
+msgid "비자르 숄더"
+msgstr ""
+
+msgctxt "f782a3dbd41fa831f47e461ca16aa09c"
+msgid "ID=520343451"
+msgstr ""
+
+msgctxt "00fb17fcc313d127d651d0d1659f6bc8"
+msgid "엔드리스 벤데타 숄더"
+msgstr ""
+
+msgctxt "e194bd57b88a7122034c33391d82c9bb"
+msgid "ID=520353551"
+msgstr ""
+
+msgctxt "265544793eaf12c0e2f4e480e8f54a76"
+msgid "어벤던드 러스트 숄더"
+msgstr ""
+
+msgctxt "5e278805328ebd05d7baee38addf8a3d"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"복수를 위해 다시 돌아온 거대한 베시, 블러디 스카의 도끼를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n이렇게 보니 "
+"왠지 캐릭터가 비슷한 거 같아.\\n복수한다는 것도 그렇고… 아, 아닌가?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "3da3030664240ebd81c5b51a1a5bf725"
+msgid "ID=520361301"
+msgstr ""
+
+msgctxt "b4c379673cdb0c6c8d958e73674711a4"
+msgid "인포스 숄더"
+msgstr ""
+
+msgctxt "dbd2a293d029369300d4b65e8b7883d1"
+msgid "ID=520362301"
+msgstr ""
+
+msgctxt "c1f9baa554ae593a9f04d31d2bc4bbd8"
+msgid "어쌔신 숄더"
+msgstr ""
+
+msgctxt "82f6233e0588108a708b30ff493def10"
+msgid "ID=520373451"
+msgstr ""
+
+msgctxt "6e37f9e9a8f5f4611c1987f0c790f3e7"
+msgid "크림슨 헤이스티 숄더"
+msgstr ""
+
+msgctxt "95b45779d85daaff902002bc95a87d38"
+msgid "ID=520383551"
+msgstr ""
+
+msgctxt "51c543d8d22fe8e4281c6afa10bf6caa"
+msgid "블러디 와이트 숄더"
+msgstr ""
+
+msgctxt "c8342d6f1c347fb26449c47f94175527"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"래피드 플레임의 암살부대를 이끄는 베시, 팬텀의 검을 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n내가 생각했던 "
+"암살자랑은 많이 다르네…\\n나는 전부 하얀 옷에 후드 눌러쓰고 히든 블레이드… 아 미안.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "260c89fea60e39ab121418330b169be5"
+msgid "ID=520381301"
+msgstr ""
+
+msgctxt "c307815e44bf008a4b8f9a209e8b5a14"
+msgid "바이스 숄더"
+msgstr ""
+
+msgctxt "968e8d25f1530314a48422cec14e727d"
+msgid "ID=520382301"
+msgstr ""
+
+msgctxt "da4dd1d78a01e952e95bc26188f849c0"
+msgid "시큐리티 숄더"
+msgstr ""
+
+msgctxt "f28aa8b2c96f2c9fb4a751bf70b918b1"
+msgid "ID=520393451"
+msgstr ""
+
+msgctxt "3fb9b0bcc8f5f5e7cef82622d7d6a1bc"
+msgid "디터먼트 바이스 숄더"
+msgstr ""
+
+msgctxt "17e5ab5a7570673478949056e2d12d76"
+msgid "ID=520403551"
+msgstr ""
+
+msgctxt "f440765432ba9ba8df4c99957179c734"
+msgid "언포기븐 바이스 숄더"
+msgstr ""
+
+msgctxt "e72a6e010bec2b3a625e86490f5ae391"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커, 라반과의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n저 선글라스… 던지면 터질까?\\n- "
+"제니스 - "
+msgstr ""
+
+msgctxt "d09fad10f74548050a1449460dc1f3da"
+msgid "ID=520411301"
+msgstr ""
+
+msgctxt "4aaf563ef1c48c4b3ca287567a59d22f"
+msgid "아이언 숄더"
+msgstr ""
+
+msgctxt "574ad64dee694e1740db539d7448f98e"
+msgid "ID=520412301"
+msgstr ""
+
+msgctxt "ac0aab78b36f47b0cba4f582964addf2"
+msgid "센트리즈 아이언 숄더"
+msgstr ""
+
+msgctxt "9d2c72b1eb5cab7e2157390c2070a0df"
+msgid "ID=520423451"
+msgstr ""
+
+msgctxt "624228b4314485669534f8c2a182a4cb"
+msgid "가디언즈 아이언 숄더"
+msgstr ""
+
+msgctxt "16f7e641fe9d62585992168a533785d1"
+msgid "ID=520433551"
+msgstr ""
+
+msgctxt "fe9ac88a775ec52d26d0f24dfe9e5066"
+msgid "헤비 메탈 숄더"
+msgstr ""
+
+msgctxt "de08509d0d69647c4b4da4e46d665939"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"지크 프로젝트의 첫번째 시작형, 지크 프로토의 형태와 재질을 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n혹시! 쟈니 "
+"뎁이라고 알아? \\n옛날에 살았던 유명한 배우인데, 이발사 로봇 역도 했었어.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "ca73cc4e0bf7c45b6d1db55e686d0953"
+msgid "ID=520431301"
+msgstr ""
+
+msgctxt "44edad03603dc119010519d912cec0b9"
+msgid "크롬 숄더"
+msgstr ""
+
+msgctxt "66b373bf3d583ee5fd10d174460ed46c"
+msgid "ID=520432301"
+msgstr ""
+
+msgctxt "a32472aa81c093a15becbfb6529bc59c"
+msgid "도미니언 크롬 숄더"
+msgstr ""
+
+msgctxt "46d7b1dbd11cb7fa289a744d46a64f81"
+msgid "ID=520443451"
+msgstr ""
+
+msgctxt "035562ab74da087ee59c56b6ea617283"
+msgid "제런트 크롬 숄더"
+msgstr ""
+
+msgctxt "a03e827ec2437af089dabd0a1f24af08"
+msgid "ID=520453551"
+msgstr ""
+
+msgctxt "2f688dbaa085901f70ccaec89c22e902"
+msgid "숄더 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "1db32a7f20939ebaaf3ad0ee98bd8a83"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커, 노아와의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n노아라는 사람, \\n검은 어깨에 검은 "
+"눈을 하면 신경이 쓰인다는 말을 많이 할 것 같지 않아?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "c7d4ce5f57d357271573763c1c0529b7"
+msgid "ID=520451301"
+msgstr ""
+
+msgctxt "95b9ad4620307c1b9643da39dae42cfc"
+msgid "메탈 숄더"
+msgstr ""
+
+msgctxt "d8ba491545b491b4e3a792fd4daaf1ed"
+msgid "ID=520452301"
+msgstr ""
+
+msgctxt "ecbc8f06050c42491f036963008eecd0"
+msgid "메탈비스트 숄더"
+msgstr ""
+
+msgctxt "de1a9a9fb673c7274a3b4ee8b8d9a356"
+msgid "ID=520463451"
+msgstr ""
+
+msgctxt "b8df3d520399c2066b6010d7f2c76cfd"
+msgid "카니지 메탈 숄더"
+msgstr ""
+
+msgctxt "cb4a36a3f10a8c16b5f9dc4e85f93481"
+msgid "ID=520473551"
+msgstr ""
+
+msgctxt "f4b0ed1507161eb1c0519862ad9a833b"
+msgid "에어리얼 림 숄더"
+msgstr ""
+
+msgctxt "4712cb0225fe8340f7561c3faaab6ed6"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커, 에녹과의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n…춥겠지?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "e16023109ff7873a16741c65a50bcd44"
+msgid "ID=520471301"
+msgstr ""
+
+msgctxt "aba8ba05397f9bb03a204a91068cdf46"
+msgid "샤프니스 숄더"
+msgstr ""
+
+msgctxt "29ed0bbd53e804efd1f9bea6e16e7369"
+msgid "ID=520472301"
+msgstr ""
+
+msgctxt "a96609980d67f44a651208f638cb9705"
+msgid "퍼니셔스 숄더"
+msgstr ""
+
+msgctxt "6a7ca2ed03f885803c472c81ee11cbf2"
+msgid "ID=520483451"
+msgstr ""
+
+msgctxt "e6dd819a0947279444e9079be6240b46"
+msgid "브레이버 숄더"
+msgstr ""
+
+msgctxt "42e65a3829440bb5d0bafb3a2337a41d"
+msgid "ID=520493551"
+msgstr ""
+
+msgctxt "30b141c5acbd8a725650bdd8f311a911"
+msgid "기간테스 코어 숄더"
+msgstr ""
+
+msgctxt "b39aee88dfe290159709aa7aa8edd8fc"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"무기고에 숨겨져 있던 거대 병기, 슈퍼 아벨의 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n이 로봇은 이미 "
+"완벽해!\\n다리 따위는 장식이라고!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "b094dd126f038b895eb07a081d54e1bf"
+msgid "ID=520491301"
+msgstr ""
+
+msgctxt "d7f64a126e6880dea5e90cd020dcf421"
+msgid "카본 숄더"
+msgstr ""
+
+msgctxt "8e84af6bc4ca15988859293e60d03afd"
+msgid "ID=520492301"
+msgstr ""
+
+msgctxt "b116c121391a4f055103f97f4d4dc933"
+msgid "스틸 고스트 숄더"
+msgstr ""
+
+msgctxt "91f8d70f01daa4310b628c8c56ed47a2"
+msgid "ID=520503451"
+msgstr ""
+
+msgctxt "a9f1fe8fcbe9ce4404d7a32228a8529a"
+msgid "판타즈말 카본 숄더"
+msgstr ""
+
+msgctxt "7072ce3aabd40e20ab8ee81bd52cb102"
+msgid "ID=520513551"
+msgstr ""
+
+msgctxt "6d1d50129e4faea98b70bf39d7f7e9bc"
+msgid "숄더 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "7f75fef0b3d014f1f455dc2dfef00b82"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커 노아의 익시드, 퀸 오브 플라워를 참고하여 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n꽃의 여왕이라니… 사신 "
+"아니었어?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "dc59d8ba13f307119f2b407b8857057a"
+msgid "ID=520511301"
+msgstr ""
+
+msgctxt "9b86701992dedc637efc218a0df53127"
+msgid "컴포짓 숄더"
+msgstr ""
+
+msgctxt "3a6659f4c829fd2177dc258970999204"
+msgid "ID=520512301"
+msgstr ""
+
+msgctxt "e0a25e6e168813955d8ac90ea133040c"
+msgid "어썰트 숄더"
+msgstr ""
+
+msgctxt "8dfc4aa10927da640c4f2c09dc3fdc7c"
+msgid "ID=520523451"
+msgstr ""
+
+msgctxt "3a5d929ff9e23f63cd8b614226461ac6"
+msgid "레클리스 원 숄더"
+msgstr ""
+
+msgctxt "661a494bdc5b7af8a8f8fce882bcae10"
+msgid "ID=520533551"
+msgstr ""
+
+msgctxt "51f8c91b6bb97b9f225252bd162cc219"
+msgid "넘버리스 레이 숄더"
+msgstr ""
+
+msgctxt "4cabbc61ab75cb1ddbdca7fa9efbb29f"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커 에녹의 익시드, 넘버리스 림을 참고하여 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n에녹이라는 여자는 동그란 것을 "
+"너무 많이 가지고 있는 것 같아!\\n원형 장치들도 그렇고… 모, 몸도 그렇고!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "fbcd1e8f6891520ffe9c373c305fa00f"
+msgid "ID=520531301"
+msgstr ""
+
+msgctxt "1335f81c99851d21abdfde06cff34834"
+msgid "티탄 숄더"
+msgstr ""
+
+msgctxt "04b12d6b4534919b3a3d2a072ca633fc"
+msgid "ID=520532301"
+msgstr ""
+
+msgctxt "d95a99f11a3a39b6ee85a749881cbbf8"
+msgid "메탈 버스터 숄더"
+msgstr ""
+
+msgctxt "284f19b29ef725189ac9afa8cbe57c13"
+msgid "ID=520543451"
+msgstr ""
+
+msgctxt "d2419fc3c87998d004839b4b1b512886"
+msgid "루미너시티 숄더"
+msgstr ""
+
+msgctxt "21e77d2b48e1a1f5525edf9a7cb1882d"
+msgid "ID=520553551"
+msgstr ""
+
+msgctxt "d0c903a48fe9e6576e15887293e73f09"
+msgid "글레어즈 포스 숄더"
+msgstr ""
+
+msgctxt "b9ddc18d737b34d0ec13aa60d81b3f62"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"최초, 최강의 니어 소울워커, 시온과의 전투 정보를 토대로 만든 숄더 기어. 어깨에 착용 할 수 있다.\\n\\n그야말로 최강의 "
+"방어력이다…!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "8f854c1e26e40e106e51db7e49980916"
+msgid "ID=530091301"
+msgstr ""
+
+msgctxt "d312b3e91a6b65a1d37af0f0efc9a613"
+msgid "플리스 바디"
+msgstr ""
+
+msgctxt "4f35bc6a1ee2528a18cb14d8068fdde1"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"외부의 공격에 반응하여 보이지 않는 실드를 순간적으로 발생시켜 착용자의 신체를 보호하는 기능이 있다. 가슴에 착용할 수 있다."
+msgstr ""
+
+msgctxt "454f3f829764524d7946fa909a8d5e7a"
+msgid "ID=530092301"
+msgstr ""
+
+msgctxt "d51cc2a2d036111e44a0ced3e73ca482"
+msgid "비셔스 돌 바디"
+msgstr ""
+
+msgctxt "257d913283d8f573efa951a78bcf61fb"
+msgid "ID=530103451"
+msgstr ""
+
+msgctxt "eb0f10107a4e50a47c3e710b3571f42d"
+msgid "리빙 돌 바디"
+msgstr ""
+
+msgctxt "b1e8f17df6f226d0dc2818b6cfef128a"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"공백의 영향으로 특수한 힘을 각성한 바디 기어로 착용자의 신체를 강화하거나 특수한 능력을 부여한다. 가슴에 착용할 수 있다."
+msgstr ""
+
+msgctxt "89c11a5d5aa45440c6c6b75d93693ac0"
+msgid "ID=530113551"
+msgstr ""
+
+msgctxt "41b7ffa5eb75fc7957bd9f06f4d52907"
+msgid "파나틱 페이스 바디"
+msgstr ""
+
+msgctxt "422b8f4394413756ef441ebe5ecf6f5f"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"괴전파 발생 지역에서 만난 인형, 잭 더 킹과의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n흐음, 눈이 "
+"하나라 강한 녀석이 아닌 줄 알았는데.\\n난 그냥 잡어라고 생각했거든!\\n- 제니스 - "
+msgstr ""
+
+msgctxt "7e6035a43243fc4c255998eabe6a4dcb"
+msgid "ID=530111301"
+msgstr ""
+
+msgctxt "f6a6b15d9fa4b2206e7eaa528d42e3f2"
+msgid "라이팅 바디"
+msgstr ""
+
+msgctxt "6926c70886aa399ac1ac0a1113d7b638"
+msgid "ID=530112301"
+msgstr ""
+
+msgctxt "fdd4ca53f60f45279cbc4060960a5411"
+msgid "아크로뱃 바디"
+msgstr ""
+
+msgctxt "e9df58b3e9a870f51c3d9a10ee377bd4"
+msgid "ID=530123451"
+msgstr ""
+
+msgctxt "9b0cbe122b6e11aa2f57f7378adc1630"
+msgid "매드 클로운 바디"
+msgstr ""
+
+msgctxt "5ff4d47957ebac19a8d13e132137cc65"
+msgid "ID=530133551"
+msgstr ""
+
+msgctxt "24358d7a16fe888b04f315fd4e7bddc9"
+msgid "할리퀸 위어드 바디"
+msgstr ""
+
+msgctxt "d2283ec6c9af6e147262071b55efed16"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"버려진 병원에서 만나 인형들의 주인, 에드가와의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n아… 나는 "
+"개인적으로 광대들이 싫어.\\n이상하게 분장하고 웃는 모습이 기괴해서 말이야….\\n- 제니스 - "
+msgstr ""
+
+msgctxt "902903e7e68b7a7cd359777feb17d69b"
+msgid "ID=530141301"
+msgstr ""
+
+msgctxt "d612a4022a51d22abe52f70d47e01ecd"
+msgid "인핸스트 바디"
+msgstr ""
+
+msgctxt "9a9efeed846e9ab9ab2743d2254a9d18"
+msgid "ID=530142301"
+msgstr ""
+
+msgctxt "73c24b5e2e4ef30b1bc6cb5c7264488f"
+msgid "멀로크 바디"
+msgstr ""
+
+msgctxt "da7b2f633193bfb406d447a89b615d3d"
+msgid "ID=530153451"
+msgstr ""
+
+msgctxt "e159321ffd531c3a3bb0e4f99257e99b"
+msgid "퀘이크 스토커 바디"
+msgstr ""
+
+msgctxt "66ad7875a45b3d8bf727a2ed034a85fd"
+msgid "ID=530163551"
+msgstr ""
+
+msgctxt "491b48edf0812ba293efacb3d02263dc"
+msgid "록 프로텍트 바디"
+msgstr ""
+
+msgctxt "d0317a891ee92f5bad24b8e83db212ea"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"해안가 도로에 나타난 소울정크, 아스팔트 골렘과의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n골렘이라… "
+"\\n혹시, 입 안에다 METH라고 쓴 쪽지 넣으면 죽는 거 아냐? 아, 입이 없네.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "706680df71158bb09aca0a4d58a7936d"
+msgid "ID=530161301"
+msgstr ""
+
+msgctxt "a3028d5ee907d7ed3531dc8a94d12c4e"
+msgid "포지드 바디"
+msgstr ""
+
+msgctxt "19bb2da5b7d4690a4bd16e084d02d8e3"
+msgid "ID=530162301"
+msgstr ""
+
+msgctxt "9199d75de9b0b6fd33916e2c5bdd5a62"
+msgid "디퓨레이트 바디"
+msgstr ""
+
+msgctxt "59459aeb7c18e4c85304faaab37799d0"
+msgid "ID=530173451"
+msgstr ""
+
+msgctxt "61b1f4962feb1e8c501fd24134837cc8"
+msgid "정크 프로텍트 바디"
+msgstr ""
+
+msgctxt "18059bc1e5169605be352bdeee3a94d3"
+msgid "ID=530183551"
+msgstr ""
+
+msgctxt "d3713313345957338d75465e58a1d9d6"
+msgid "커렵션 프로텍트 바디"
+msgstr ""
+
+msgctxt "ab721c818c2af20c4c006e2790d2530f"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"지하 수로에 나타난 소울정크, 정크 나이트와의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n누군지는 몰라도 "
+"불쌍한 사람이네…\\n다음 생에서는 공주를 구하는 기사님이 되시기를….\\n- 제니스 - "
+msgstr ""
+
+msgctxt "6844902d884a22973becceb4ac333864"
+msgid "ID=530191301"
+msgstr ""
+
+msgctxt "481c72d48becc4d8fd5ed803d1414045"
+msgid "메쉬 바디"
+msgstr ""
+
+msgctxt "6b96067fb5ae33593c68c1c342d2ae06"
+msgid "ID=530192301"
+msgstr ""
+
+msgctxt "7c06c928ef795a5dd4613bc6bd2dd2b1"
+msgid "인섹트 헌터 바디"
+msgstr ""
+
+msgctxt "4b3d9158bb9adee57270b732a4bf618a"
+msgid "ID=530203451"
+msgstr ""
+
+msgctxt "8c11ca8ac6eb6d11389d9ac11cf46b60"
+msgid "인섹트 슬레이어 바디"
+msgstr ""
+
+msgctxt "8894543bea956e6f3f0a2cc71647e653"
+msgid "ID=530213551"
+msgstr ""
+
+msgctxt "8620d4a370a6dd78e51554f2ba65cca5"
+msgid "아라크니드 바디"
+msgstr ""
+
+msgctxt "3ecc7fa933921360a58d44d718cf7bd9"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"버려진 저택에 나타난 소울정크, 아라크니스와의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n신화에 베짜기로 "
+"유명한 여자가 있었는데…\\n한번은 신이랑 베짜기로 내기를 했다가 이겨버렸어.\\n어떻게 됐는 줄 알아? 거미가 되어버렸대…. "
+"슬프지?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "96a824661b42de79e888810620631fd1"
+msgid "ID=530211301"
+msgstr ""
+
+msgctxt "76fc5ef8b409e98360229f224449cc0d"
+msgid "플랙 바디"
+msgstr ""
+
+msgctxt "8c01f754d5efeb1939bd1ed295b2a8ae"
+msgid "ID=530212301"
+msgstr ""
+
+msgctxt "2ed8857417690fd2acc4858dee7f27e4"
+msgid "임퓨리티 플랙 바디"
+msgstr ""
+
+msgctxt "ef6341767b8be010c7bd51acf3c86d88"
+msgid "ID=530223451"
+msgstr ""
+
+msgctxt "1a9857fd71f2b6bf8ba0edf53eed0dbe"
+msgid "뮤턴트 플랙 바디"
+msgstr ""
+
+msgctxt "43ebbe97d566a9a22bded90914642f5c"
+msgid "ID=530233551"
+msgstr ""
+
+msgctxt "c1546aa651bc830680b363cfdf1866db"
+msgid "사일런트 위트니스 바디"
+msgstr ""
+
+msgctxt "239bddcd85ca7a4760b080b761f2272c"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"N102 쉘터에 나타난 소울정크, 비홀더와의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n비홀더는 내가 정말 "
+"싫어하는 몬스터야!\\n저항 한 번 하지 못하고 매번 석화 광선에 맞는단 말이야!\\n- 제니스 - "
+msgstr ""
+
+msgctxt "687620f0571f98d8cbd0dabc1d7534de"
+msgid "ID=530241301"
+msgstr ""
+
+msgctxt "0802ae34719c5a32d1fed4d7611ad9a0"
+msgid "세라믹 바디"
+msgstr ""
+
+msgctxt "26080a94f572a2d4e50118a9c3f6dc13"
+msgid "ID=530242301"
+msgstr ""
+
+msgctxt "82ff15b869943e44ed48a2ca905325bd"
+msgid "인펙티드 바디"
+msgstr ""
+
+msgctxt "66b1cb708b4027ea26dab2970bd80830"
+msgid "ID=530253451"
+msgstr ""
+
+msgctxt "dd9a4723fb08928f35967c1f1e975b2f"
+msgid "에어레이드 바디"
+msgstr ""
+
+msgctxt "ddc2d1c2bd8caf9d968a6e6b3fdbcec3"
+msgid "ID=530263551"
+msgstr ""
+
+msgctxt "3b17c83adb3860e702ec9133c6a824bd"
+msgid "할로우 하츠 바디"
+msgstr ""
+
+msgctxt "be6d52011ec39e5f99723871bb0a2340"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"캐서린을 흡수한 각성체, 아마릴리스와의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n아마릴리스의 꽃말이 뭔지 "
+"알아?\\n수다쟁이, 은은한 아름다움, 인공적인 것… 그리고 침묵이래.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "8622159eac7942e65d24832d7cb8d756"
+msgid "ID=530261301"
+msgstr ""
+
+msgctxt "1361da33c2d9c56cadaff821610c26aa"
+msgid "리파인 바디"
+msgstr ""
+
+msgctxt "987cb1325dc4ffee8bb80c46169b237d"
+msgid "ID=530262301"
+msgstr ""
+
+msgctxt "39567e2ee2ce1bd2f918a015bbafe5f2"
+msgid "브럼비 바디"
+msgstr ""
+
+msgctxt "2f504ad808835c4f7e62bb469e997dc0"
+msgid "ID=530273451"
+msgstr ""
+
+msgctxt "fea150d0feaadc32fa4cbf7e9678af6b"
+msgid "콜로설즈 리파인 바디"
+msgstr ""
+
+msgctxt "78e0b92054105ccd38be6ce795c4e78e"
+msgid "ID=530283551"
+msgstr ""
+
+msgctxt "59a47a83db094360052a509a0054f62a"
+msgid "비셔스 블럿쉬드 바디"
+msgstr ""
+
+msgctxt "25c68ef174d9645889a4b770eb1e3ca6"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"고가도로에 나타난 거대한 베시, 스카와의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n스카라… 얼굴에 상처 "
+"있어?\\n설마 얼굴 중앙에 X자로 상처가 나있거나 하진 않지?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "420bb5b45c4262704755b5d3f8e86651"
+msgid "ID=530281301"
+msgstr ""
+
+msgctxt "e03c8e1c185ad1dd3478e7d5be421de8"
+msgid "스틸 바디"
+msgstr ""
+
+msgctxt "6f0d3339ef4959e65b98917ba7f7e626"
+msgid "ID=530282301"
+msgstr ""
+
+msgctxt "c7146a239cbc862c0c644f30dd3d49cf"
+msgid "체인드 바디"
+msgstr ""
+
+msgctxt "e647e8781729c8d541d7a2cfdeb28b2d"
+msgid "ID=530293451"
+msgstr ""
+
+msgctxt "bd88c6cb942e853086333d7928e23403"
+msgid "인트루더 바디"
+msgstr ""
+
+msgctxt "6e42f4c7b9fdee4ceadb50d7e68c42f0"
+msgid "ID=530303551"
+msgstr ""
+
+msgctxt "16f0f0245429a3154e537a96bdf4cae9"
+msgid "베노머스 아이돌 바디"
+msgstr ""
+
+msgctxt "4b21f187c58f419dd2f786dd6b44f0be"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"네드 컴퍼니를 습격한 베시, 포이즌과의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n부, 부러운 몸매인데…? "
+"하하하….\\n- 제니스 - "
+msgstr ""
+
+msgctxt "8291e7c868ccca0377358309e2c21bba"
+msgid "ID=530301301"
+msgstr ""
+
+msgctxt "c8c140dc1eb735d0581cc832f78a421d"
+msgid "리퓨즈 바디"
+msgstr ""
+
+msgctxt "71f83e863c81ceb8670e5f421ccd3d9f"
+msgid "ID=530302301"
+msgstr ""
+
+msgctxt "33bc95df1104544c5c612e1db96139f4"
+msgid "테이머즈 바디"
+msgstr ""
+
+msgctxt "97fac2f791dd0870d3a953dd52b03892"
+msgid "ID=530313451"
+msgstr ""
+
+msgctxt "76a2d5d8945a2554904aa59fba56041b"
+msgid "헌터 리퓨즈 바디"
+msgstr ""
+
+msgctxt "0191ff9eb33753b00a1e82be309348c2"
+msgid "ID=530323551"
+msgstr ""
+
+msgctxt "cb05f14e7129467450c32ad8fe78a403"
+msgid "어스튜드 워리어 바디"
+msgstr ""
+
+msgctxt "1e8fa8f033ac7b6614e183057812fa86"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. 퀸 "
+"가루라를 탄 베시, 팔콘과의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n익룡같이 생긴 동물… 나도 탈 수 "
+"있을까?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "5ad755453b04dddc8b73e15b5a4bf4e8"
+msgid "ID=530331301"
+msgstr ""
+
+msgctxt "f4685c79540b3ac552e25dfe71dfd626"
+msgid "포인티드 바디"
+msgstr ""
+
+msgctxt "c9c984bf2d30cacfe867d229964bfc93"
+msgid "ID=530332301"
+msgstr ""
+
+msgctxt "4db6c742d61125f7d6207c4c79ad24e2"
+msgid "비자르 바디"
+msgstr ""
+
+msgctxt "4dc9cf3132dd2103c41d79db946c1c16"
+msgid "ID=530343451"
+msgstr ""
+
+msgctxt "ce78ffc9cd9877690614db242d93f46c"
+msgid "엔드리스 벤데타 바디"
+msgstr ""
+
+msgctxt "0c5987d7aaeb77aecd351c685ba66f6f"
+msgid "ID=530353551"
+msgstr ""
+
+msgctxt "b4042d8d85d83e4d0c8b9a599a1f9b9d"
+msgid "어벤던드 러스트 바디"
+msgstr ""
+
+msgctxt "44c2a98103bc6ec092e086da84189dcd"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"복수를 위해 다시 돌아온 거대한 베시, 블러디 스카의 도끼를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n이렇게 보니 "
+"왠지 캐릭터가 비슷한 거 같아.\\n복수한다는 것도 그렇고… 아, 아닌가?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "c6fc937005437ec360c0cb9efc1a43ba"
+msgid "ID=530361301"
+msgstr ""
+
+msgctxt "50017f4d32fa969215910706263e6921"
+msgid "인포스 바디"
+msgstr ""
+
+msgctxt "8c21e144d8a929e02e315c23cdda10f7"
+msgid "ID=530362301"
+msgstr ""
+
+msgctxt "7204a74522c9a8df86957f5282a689bf"
+msgid "어쌔신 바디"
+msgstr ""
+
+msgctxt "b937d10f592ee05624dd46a738fb6210"
+msgid "ID=530373451"
+msgstr ""
+
+msgctxt "0cd48c466bceb1bfb3480f238991c473"
+msgid "크림슨 헤이스티 바디"
+msgstr ""
+
+msgctxt "48a25eb886dc116efc7111ef4312bdba"
+msgid "ID=530383551"
+msgstr ""
+
+msgctxt "ae9b3efeba5c9877dcbd5d43e3264a50"
+msgid "블러디 와이트 바디"
+msgstr ""
+
+msgctxt "0709b3373645ab2c7d74e2a29632dc18"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"래피드 플레임의 암살부대를 이끄는 베시, 팬텀의 검을 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n내가 생각했던 "
+"암살자랑은 많이 다르네…\\n나는 전부 하얀 옷에 후드 눌러쓰고 히든 블레이드… 아 미안.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "3df65a4cda6c8e22e7e5b4905bc9e994"
+msgid "ID=530381301"
+msgstr ""
+
+msgctxt "43668a71fee1f26934131259f7c83413"
+msgid "바이스 바디"
+msgstr ""
+
+msgctxt "5c557f368eaa39f96971103b677cea93"
+msgid "ID=530382301"
+msgstr ""
+
+msgctxt "368223d254f35c507a9251debe68cc70"
+msgid "시큐리티 바디"
+msgstr ""
+
+msgctxt "f9582231f1ab4fe8ef633f987bb087dd"
+msgid "ID=530393451"
+msgstr ""
+
+msgctxt "308851c085168a02ec396ec4a504301e"
+msgid "디터먼트 바이스 바디"
+msgstr ""
+
+msgctxt "1fd989ddef54bb997f29f5bd8668a375"
+msgid "ID=530403551"
+msgstr ""
+
+msgctxt "f81ab312f3426af0dc8dd2bc6da53711"
+msgid "언포기븐 바이스 바디"
+msgstr ""
+
+msgctxt "535055a8a812f70fee511a6f656a0f6b"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커, 라반과의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n저 선글라스… 던지면 터질까?\\n- "
+"제니스 - "
+msgstr ""
+
+msgctxt "714b8704e9992ccee137841f10d89224"
+msgid "ID=530411301"
+msgstr ""
+
+msgctxt "dc91b90ca1dd5eeac1bf9d17cd4d975e"
+msgid "아이언 바디"
+msgstr ""
+
+msgctxt "65a4b07dc2142bf1102ce95bcf5e9af8"
+msgid "ID=530412301"
+msgstr ""
+
+msgctxt "94a6da6d6ee4055a936baf5cbd1bd1a1"
+msgid "센트리즈 아이언 바디"
+msgstr ""
+
+msgctxt "38011c3385c73c6d2570cd25a0844ba9"
+msgid "ID=530423451"
+msgstr ""
+
+msgctxt "2e984c0b1ef910bc885222081bf0ff09"
+msgid "가디언즈 아이언 바디"
+msgstr ""
+
+msgctxt "9fc0acad5e4bda01b1a6a83d7bbaa5c2"
+msgid "ID=530433551"
+msgstr ""
+
+msgctxt "6a578f86f562e16cb05d1c3282074a8d"
+msgid "헤비 메탈 바디"
+msgstr ""
+
+msgctxt "e8745b70cf93f75666426001ac994060"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"지크 프로젝트의 첫번째 시작형, 지크 프로토의 형태와 재질을 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n혹시! 쟈니 "
+"뎁이라고 알아? \\n옛날에 살았던 유명한 배우인데, 이발사 로봇 역도 했었어.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "3b5bf820604e2b97e04c12569d0abf12"
+msgid "ID=530431301"
+msgstr ""
+
+msgctxt "98a042faf13da35c7cd5cd2439fb3621"
+msgid "크롬 바디"
+msgstr ""
+
+msgctxt "0207839794d1ab4d846f59723dcb43e9"
+msgid "ID=530432301"
+msgstr ""
+
+msgctxt "77e4ada03bc358350cad5f61376fc1c1"
+msgid "도미니언 크롬 바디"
+msgstr ""
+
+msgctxt "862aafa427ff406675890bda87b303ed"
+msgid "ID=530443451"
+msgstr ""
+
+msgctxt "6ffa733e80aaac68981b03e93e701be4"
+msgid "제런트 크롬 바디"
+msgstr ""
+
+msgctxt "b0c4e9f9295f0d575ca27f5837884096"
+msgid "ID=530453551"
+msgstr ""
+
+msgctxt "d26b704596e58b8ac19c155881274cb6"
+msgid "바디 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "7918f591c5ec2db9ed34f7a062bb0f33"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커, 노아와의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n노아라는 사람, \\n검은 가슴에 검은 "
+"눈을 하면 신경이 쓰인다는 말을 많이 할 것 같지 않아?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "29eacb3a910c6786619260562128cb63"
+msgid "ID=530451301"
+msgstr ""
+
+msgctxt "f4e976e2e7bc778e0db3c5e4afe51127"
+msgid "메탈 바디"
+msgstr ""
+
+msgctxt "b4defc959436b2a3a90e0e32c118198e"
+msgid "ID=530452301"
+msgstr ""
+
+msgctxt "3fb197de1c7bccf4266761cba9baa4e4"
+msgid "메탈비스트 바디"
+msgstr ""
+
+msgctxt "42e7f5ee6db64be92a56bb65cd4ec39f"
+msgid "ID=530463451"
+msgstr ""
+
+msgctxt "9a717695cd1205020361c69fe8880a14"
+msgid "카니지 메탈 바디"
+msgstr ""
+
+msgctxt "79ee09fe8df2f7622c05d220a66236c8"
+msgid "ID=530473551"
+msgstr ""
+
+msgctxt "80fabe480ab2f24094bd7250a137c7e3"
+msgid "에어리얼 림 바디"
+msgstr ""
+
+msgctxt "ae2d2bdf2420aa54628e19035a91ee12"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커, 에녹과의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n…춥겠지?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "55227972b79923e000f6199178f8667c"
+msgid "ID=530471301"
+msgstr ""
+
+msgctxt "556c113aa44c02f04c2a8c41cfc985e0"
+msgid "샤프니스 바디"
+msgstr ""
+
+msgctxt "cb9e59d78f8d9fbf99ab5d309de74057"
+msgid "ID=530472301"
+msgstr ""
+
+msgctxt "fce9c39d0a9df48d5aaa162fab1ecf1b"
+msgid "퍼니셔스 바디"
+msgstr ""
+
+msgctxt "036d73c37ee293ec18fb9951b86dfbe4"
+msgid "ID=530483451"
+msgstr ""
+
+msgctxt "af26010c248ad4944c1f8d6086844e98"
+msgid "브레이버 바디"
+msgstr ""
+
+msgctxt "9e17c256fb2fbfd3b6042a25b96fbff1"
+msgid "ID=530493551"
+msgstr ""
+
+msgctxt "dfe821fceaf7d4ff44569ad887889a4c"
+msgid "기간테스 코어 바디"
+msgstr ""
+
+msgctxt "66c079f604a3dabaef2c9c0e814efada"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"무기고에 숨겨져 있던 거대 병기, 슈퍼 아벨의 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n이 로봇은 이미 "
+"완벽해!\\n다리 따위는 장식이라고!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "f1d3eb5e2b4a15c86c1536517cfde235"
+msgid "ID=530491301"
+msgstr ""
+
+msgctxt "a76cb9454f50538d41bd417f0e074e98"
+msgid "카본 바디"
+msgstr ""
+
+msgctxt "017452f8636effaeb2e46081be592d01"
+msgid "ID=530492301"
+msgstr ""
+
+msgctxt "a92c09c4529fc7ed11497c6b4771daad"
+msgid "스틸 고스트 바디"
+msgstr ""
+
+msgctxt "674086b10a1e93d1b551e034da4a57c2"
+msgid "ID=530503451"
+msgstr ""
+
+msgctxt "ebf10021dbc441211a3ecf4fc6cb36dd"
+msgid "판타즈말 카본 바디"
+msgstr ""
+
+msgctxt "8423d578f0208d5e824624ae0c358dd1"
+msgid "ID=530513551"
+msgstr ""
+
+msgctxt "10d0d373e8cf6df175290403bae979e6"
+msgid "바디 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "710260d4e87846892105bb9aa52993c8"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커 노아의 익시드, 퀸 오브 플라워를 참고하여 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n꽃의 여왕이라니… 사신 "
+"아니었어?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "3deedf5214a5b7f30e0214cdd62560db"
+msgid "ID=530511301"
+msgstr ""
+
+msgctxt "4ba034424be9d41980b2478a739bd630"
+msgid "컴포짓 바디"
+msgstr ""
+
+msgctxt "30a7413739643dd8fee0a587e72a7107"
+msgid "ID=530512301"
+msgstr ""
+
+msgctxt "3e076d3dec916bad0b0810224a2c8eee"
+msgid "어썰트 바디"
+msgstr ""
+
+msgctxt "f5948a03d5099fbe905621dd41933cab"
+msgid "ID=530523451"
+msgstr ""
+
+msgctxt "a49efa3d12a2b3c148cb57b118702fc0"
+msgid "레클리스 원 바디"
+msgstr ""
+
+msgctxt "836589cc8a99309029494c9f67366077"
+msgid "ID=530533551"
+msgstr ""
+
+msgctxt "b776a168330c4eb83ecc6a65825be0c0"
+msgid "넘버리스 레이 바디"
+msgstr ""
+
+msgctxt "79933d0eae72677ee11eea7c0207dfce"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커 에녹의 익시드, 넘버리스 림을 참고하여 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n에녹이라는 여자는 동그란 것을 "
+"너무 많이 가지고 있는 것 같아!\\n원형 장치들도 그렇고… 모, 몸도 그렇고!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "a4f57c3ab49746cc0c7adab0601de62b"
+msgid "ID=530531301"
+msgstr ""
+
+msgctxt "73b2dee8de25b9b79337583039afc8df"
+msgid "티탄 바디"
+msgstr ""
+
+msgctxt "c7b8bbac8a50dbc9a5858c2c7ce8c9a6"
+msgid "ID=530532301"
+msgstr ""
+
+msgctxt "d81c4263b8bce93ad36c71bc8d78aba8"
+msgid "메탈 버스터 바디"
+msgstr ""
+
+msgctxt "e73b1998495971c956f736184f07378d"
+msgid "ID=530543451"
+msgstr ""
+
+msgctxt "6546fe5d0cbd4529ed90164cda5a81ae"
+msgid "루미너시티 바디"
+msgstr ""
+
+msgctxt "2fdf2e5ac09604db7f86698339a9bd14"
+msgid "ID=530553551"
+msgstr ""
+
+msgctxt "b062392b3d8cec339bc394f5a1c9c9be"
+msgid "글레어즈 포스 바디"
+msgstr ""
+
+msgctxt "850024406a005b1499584a66fc65a71d"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"최초, 최강의 니어 소울워커, 시온과의 전투 정보를 토대로 만든 바디 기어. 가슴에 착용 할 수 있다.\\n\\n그야말로 최강의 "
+"방어력이다…!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "fbf3fc2f5722699e66b708ca4fb675c7"
+msgid "ID=540111301"
+msgstr ""
+
+msgctxt "7cf3d81e06c7b95ce02381fe874fd4d9"
+msgid "라이팅 레그"
+msgstr ""
+
+msgctxt "4504454bac77d8b47a2eeb165411699f"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"외부의 공격에 반응하여 보이지 않는 실드를 순간적으로 발생시켜 착용자의 신체를 보호하는 기능이 있다. 다리에 착용할 수 있다."
+msgstr ""
+
+msgctxt "4a79b844890b23340271f410646f9acc"
+msgid "ID=540112301"
+msgstr ""
+
+msgctxt "60b4edcea5eb5a22f4aa89fb98824a93"
+msgid "아크로뱃 레그"
+msgstr ""
+
+msgctxt "2250a680c7e22d60b1a72e410f197883"
+msgid "ID=540123451"
+msgstr ""
+
+msgctxt "d9c27cb28b6081d8bc551b731ee35733"
+msgid "매드 클로운 레그"
+msgstr ""
+
+msgctxt "a92e79ffb6c6d2170520bd0b6e62059c"
+msgid "ID=540133551"
+msgstr ""
+
+msgctxt "dfa2b4ecf4e9444175b1aa06a4c5cb48"
+msgid "할리퀸 위어드 레그"
+msgstr ""
+
+msgctxt "ecf6dcb68114406f7582f4eac1b676ab"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"버려진 병원에서 만나 인형들의 주인, 에드가와의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n아… 나는 "
+"개인적으로 광대들이 싫어.\\n이상하게 분장하고 웃는 모습이 기괴해서 말이야….\\n- 제니스 - "
+msgstr ""
+
+msgctxt "558301e6219332ef33a934ffa29c3c68"
+msgid "ID=540141301"
+msgstr ""
+
+msgctxt "2e2cd9605774971333fb6ff03e57f823"
+msgid "인핸스트 레그"
+msgstr ""
+
+msgctxt "035ce7c0d455a510867c9a11066498a4"
+msgid "ID=540142301"
+msgstr ""
+
+msgctxt "551f3871335a70df164dbe97f53a882c"
+msgid "멀로크 레그"
+msgstr ""
+
+msgctxt "f132c1186c9b1e24ed65e88368e36e45"
+msgid "ID=540153451"
+msgstr ""
+
+msgctxt "455c8666987ebb1521077ee082d4042e"
+msgid "퀘이크 스토커 레그"
+msgstr ""
+
+msgctxt "d20c63b7438d763369e1162412aa404e"
+msgid "ID=540163551"
+msgstr ""
+
+msgctxt "cc3c10d37a05b2ecad80b785422acd5a"
+msgid "록 프로텍트 레그"
+msgstr ""
+
+msgctxt "56a71697c1a651aec1b3f86001dbd7df"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"해안가 도로에 나타난 소울정크, 아스팔트 골렘과의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n골렘이라… "
+"\\n혹시, 입 안에다 METH라고 쓴 쪽지 넣으면 죽는 거 아냐? 아, 입이 없네.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "cb21858e75c441f56dbc8a2e1e68fe6b"
+msgid "ID=540161301"
+msgstr ""
+
+msgctxt "3c766d1456bafb59e83a75fcfce35862"
+msgid "포지드 레그"
+msgstr ""
+
+msgctxt "1982e937b812ffb6f0edee7602333e5b"
+msgid "ID=540162301"
+msgstr ""
+
+msgctxt "9eb9456726ea7cf0f7c5e53a54510516"
+msgid "디퓨레이트 레그"
+msgstr ""
+
+msgctxt "4a9c31ee9a766ee0aafdad852928aaf8"
+msgid "ID=540173451"
+msgstr ""
+
+msgctxt "a12d1769a7213e350ad51b08b2992cb9"
+msgid "정크 프로텍트 레그"
+msgstr ""
+
+msgctxt "8bbd3de30e098020e394a7d9cec10261"
+msgid "ID=540183551"
+msgstr ""
+
+msgctxt "cd01ee5e2c32d56e9032536abb6b7cd4"
+msgid "커렵션 프로텍트 레그"
+msgstr ""
+
+msgctxt "6a402fd4ae1373933429b9b39f6a4606"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"지하 수로에 나타난 소울정크, 정크 나이트와의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n누군지는 몰라도 "
+"불쌍한 사람이네…\\n다음 생에서는 공주를 구하는 기사님이 되시기를….\\n- 제니스 - "
+msgstr ""
+
+msgctxt "6f73bd5d3c38be9b4e850154ee3a2608"
+msgid "ID=540191301"
+msgstr ""
+
+msgctxt "a572ed0fa9f112000768ba1d966c61ef"
+msgid "메쉬 레그"
+msgstr ""
+
+msgctxt "8e028cbd9cb72798a1ba9fed4f543891"
+msgid "ID=540192301"
+msgstr ""
+
+msgctxt "929d042643009397b795a035d60aa6a1"
+msgid "인섹트 헌터 레그"
+msgstr ""
+
+msgctxt "646b93f1c2dcf786d74b496fa3d54a30"
+msgid "ID=540203451"
+msgstr ""
+
+msgctxt "6d12fb8cf8f20f324d49833d7a9c79ab"
+msgid "인섹트 슬레이어 레그"
+msgstr ""
+
+msgctxt "af04d110b152e620f72e4121e0eb5f38"
+msgid "ID=540213551"
+msgstr ""
+
+msgctxt "9b8a40db56f08769e783c2f0448f9563"
+msgid "아라크니드 레그"
+msgstr ""
+
+msgctxt "82cfd4330e24f5e79279cbe25491e609"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"버려진 저택에 나타난 소울정크, 아라크니스와의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n신화에 베짜기로 "
+"유명한 여자가 있었는데…\\n한번은 신이랑 베짜기로 내기를 했다가 이겨버렸어.\\n어떻게 됐는 줄 알아? 거미가 되어버렸대…. "
+"슬프지?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "c79bb604822f64e43836876d50273ff2"
+msgid "ID=540211301"
+msgstr ""
+
+msgctxt "f1ed6d644d41caa92b637992a86692b8"
+msgid "플랙 레그"
+msgstr ""
+
+msgctxt "b93d6778635ae7dfb9b021be07e75cbe"
+msgid "ID=540212301"
+msgstr ""
+
+msgctxt "19f1a230a2ec266d3d45d29eb4925517"
+msgid "임퓨리티 플랙 레그"
+msgstr ""
+
+msgctxt "a8e26da583b3ae8c2a368f22954ceeaa"
+msgid "ID=540223451"
+msgstr ""
+
+msgctxt "2deebef88d6ac4ae61e835013bd495d0"
+msgid "뮤턴트 플랙 레그"
+msgstr ""
+
+msgctxt "ee0034130a45ac6271e8669eaad88e55"
+msgid "ID=540233551"
+msgstr ""
+
+msgctxt "13ed5f06358362e39073a12e067d475e"
+msgid "사일런트 위트니스 레그"
+msgstr ""
+
+msgctxt "daa2d79c595add8510e1b2deae325c30"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"N102 쉘터에 나타난 소울정크, 비홀더와의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n비홀더는 내가 정말 "
+"싫어하는 몬스터야!\\n저항 한 번 하지 못하고 매번 석화 광선에 맞는단 말이야!\\n- 제니스 - "
+msgstr ""
+
+msgctxt "d753c6b359dc49d731cf26a550376362"
+msgid "ID=540241301"
+msgstr ""
+
+msgctxt "fbed1c292a0650ebeb7d846ec6e2a0b5"
+msgid "세라믹 레그"
+msgstr ""
+
+msgctxt "8ba5a551527b80477b629af706b595c8"
+msgid "ID=540242301"
+msgstr ""
+
+msgctxt "51064c55eea9b8bff0a69763fce04047"
+msgid "인펙티드 레그"
+msgstr ""
+
+msgctxt "a2bb2b3870d32582be84ac86c15cb26a"
+msgid "ID=540253451"
+msgstr ""
+
+msgctxt "41c6a8c46107cd2072b4f6df94d42c26"
+msgid "에어레이드 레그"
+msgstr ""
+
+msgctxt "17e3e8c46ef9d294cc827b8cb693ccc5"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"공백의 영향으로 특수한 힘을 각성한 레그 기어로 착용자의 신체를 강화하거나 특수한 능력을 부여한다. 다리에 착용할 수 있다."
+msgstr ""
+
+msgctxt "3c1626abbe42e7ef842c87b948eaa191"
+msgid "ID=540263551"
+msgstr ""
+
+msgctxt "c35f4173762be964ddd8a47714b072fa"
+msgid "할로우 하츠 레그"
+msgstr ""
+
+msgctxt "b9d9b455c54f215edfbc70b7a12cf5ae"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"캐서린을 흡수한 각성체, 아마릴리스와의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n아마릴리스의 꽃말이 뭔지 "
+"알아?\\n수다쟁이, 은은한 아름다움, 인공적인 것… 그리고 침묵이래.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "705eecc641309ad7aa04a23ecebe5529"
+msgid "ID=540261301"
+msgstr ""
+
+msgctxt "bf962ead293c3a349b6438bdeb868dc7"
+msgid "리파인 레그"
+msgstr ""
+
+msgctxt "40eccfe6eb932c1fd725e9126d0a3ad9"
+msgid "ID=540262301"
+msgstr ""
+
+msgctxt "0e18446a37a5fa0c2f4622bc452ae119"
+msgid "브럼비 레그"
+msgstr ""
+
+msgctxt "0c6a088ac2d80e4da12165aa0c0c5cd4"
+msgid "ID=540273451"
+msgstr ""
+
+msgctxt "e9fa9f68bd28231eab60836846dfe17e"
+msgid "콜로설즈 리파인 레그"
+msgstr ""
+
+msgctxt "cd48aabcd103e16ef035b99568d11e77"
+msgid "ID=540283551"
+msgstr ""
+
+msgctxt "5ae5ca33daea2d2c4d76c9953ce17fe6"
+msgid "비셔스 블럿쉬드 레그"
+msgstr ""
+
+msgctxt "d0345f3c6a02d418beed0bc13c940394"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"고가도로에 나타난 거대한 베시, 스카와의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n스카라… 얼굴에 상처 "
+"있어?\\n설마 얼굴 중앙에 X자로 상처가 나있거나 하진 않지?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "d6537dbb84cbba1967770ba0818c7a1b"
+msgid "ID=540281301"
+msgstr ""
+
+msgctxt "36d7117d81178aceb3faa396e6117181"
+msgid "스틸 레그"
+msgstr ""
+
+msgctxt "bd9862243d4e6f9423d5d432fb037ec1"
+msgid "ID=540282301"
+msgstr ""
+
+msgctxt "799ebd060228213da2526dbbded5a20d"
+msgid "체인드 레그"
+msgstr ""
+
+msgctxt "f8ff38876bfc81444ddc69592b35e25e"
+msgid "ID=540293451"
+msgstr ""
+
+msgctxt "f5049c6ae0d0012c1df56c9129d7855e"
+msgid "인트루더 레그"
+msgstr ""
+
+msgctxt "a362ddc88d310609ec8381d2f21f466f"
+msgid "ID=540303551"
+msgstr ""
+
+msgctxt "59ab3f5db61fdda938a2956e68566bca"
+msgid "베노머스 아이돌 레그"
+msgstr ""
+
+msgctxt "eb9e58c6bfeda12388433fd3a1c53306"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"네드 컴퍼니를 습격한 베시, 포이즌과의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n부, 부러운 몸매인데…? "
+"하하하….\\n- 제니스 - "
+msgstr ""
+
+msgctxt "6ff781735de76896a3f01ba7c61de056"
+msgid "ID=540301301"
+msgstr ""
+
+msgctxt "d51b30c69826bde9def46b50b49476db"
+msgid "리퓨즈 레그"
+msgstr ""
+
+msgctxt "55eb89f083dc75b87f8e445244c52305"
+msgid "ID=540302301"
+msgstr ""
+
+msgctxt "925854af27da1f78bc9e7bffa1ffcd62"
+msgid "테이머즈 레그"
+msgstr ""
+
+msgctxt "6b26ceeea7ac030cb17431e7ac0b2864"
+msgid "ID=540313451"
+msgstr ""
+
+msgctxt "d924af4cf7dfa8cf8b38bbff0a442b3c"
+msgid "헌터 리퓨즈 레그"
+msgstr ""
+
+msgctxt "f4348e4cc467d7cb4e646048b9be6214"
+msgid "ID=540323551"
+msgstr ""
+
+msgctxt "1822a33a31213273d51a119819206172"
+msgid "어스튜드 워리어 레그"
+msgstr ""
+
+msgctxt "2332f6791a9758c4ffce45e026067bce"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. 퀸 "
+"가루라를 탄 베시, 팔콘과의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n익룡같이 생긴 동물… 나도 탈 수 "
+"있을까?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "c34fb80d45a41c2809214ea3ceb8aa8e"
+msgid "ID=540331301"
+msgstr ""
+
+msgctxt "e910d0950b3e3bbc8c9c49aaeb56e5d1"
+msgid "포인티드 레그"
+msgstr ""
+
+msgctxt "c6719764cdc99a102f5761eaeb8b47d9"
+msgid "ID=540332301"
+msgstr ""
+
+msgctxt "db0a4e1ca0e136d09717dd9d219269a5"
+msgid "비자르 레그"
+msgstr ""
+
+msgctxt "f0448669cfac87b9e92ec06566a43612"
+msgid "ID=540343451"
+msgstr ""
+
+msgctxt "cd3886c2dcbbe89fb3f57933b8853bf4"
+msgid "엔드리스 벤데타 레그"
+msgstr ""
+
+msgctxt "c11fc200624e05b6f1c208bd53e8b675"
+msgid "ID=540353551"
+msgstr ""
+
+msgctxt "eb668808c9cf9ad15f323952ed86b1ac"
+msgid "어벤던드 러스트 레그"
+msgstr ""
+
+msgctxt "89bf9fbd4d2c450656162f8caca64f07"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"복수를 위해 다시 돌아온 거대한 베시, 블러디 스카의 도끼를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n이렇게 보니 "
+"왠지 캐릭터가 비슷한 거 같아.\\n복수한다는 것도 그렇고… 아, 아닌가?\\n- 제니스 - "
+msgstr ""
+
+msgctxt "35eb0ff283e3afeb1be8fbf832669e2d"
+msgid "ID=540361301"
+msgstr ""
+
+msgctxt "8a35a4a69013bc6f6eeb1962533ff810"
+msgid "인포스 레그"
+msgstr ""
+
+msgctxt "ec7c7f43f195d5d38be7da8ebd0d492d"
+msgid "ID=540362301"
+msgstr ""
+
+msgctxt "f263294fe719d6ae316a7ec74204bfa0"
+msgid "어쌔신 레그"
+msgstr ""
+
+msgctxt "3a54a62c14d1f3b0694067ed80c9d1d7"
+msgid "ID=540373451"
+msgstr ""
+
+msgctxt "1b4125ab3b4aeb35c3c1d25ffe43195d"
+msgid "크림슨 헤이스티 레그"
+msgstr ""
+
+msgctxt "beaa259ba3f984b840606a37a5b41192"
+msgid "ID=540383551"
+msgstr ""
+
+msgctxt "61c9c3ea5827d4b2572642daa3aab62f"
+msgid "블러디 와이트 레그"
+msgstr ""
+
+msgctxt "e1b2408ff91af154c8c5315bc737f036"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"래피드 플레임의 암살부대를 이끄는 베시, 팬텀의 검을 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n내가 생각했던 "
+"암살자랑은 많이 다르네…\\n나는 전부 하얀 옷에 후드 눌러쓰고 히든 블레이드… 아 미안.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "bdad246ae6ed3ec073c462d4078a9bd2"
+msgid "ID=540381301"
+msgstr ""
+
+msgctxt "18901088c9728d32b39b7f95b4320671"
+msgid "바이스 레그"
+msgstr ""
+
+msgctxt "43df0d6048aefd607dfc910b53d1145c"
+msgid "ID=540382301"
+msgstr ""
+
+msgctxt "11803846651363b01289d94b943852f4"
+msgid "시큐리티 레그"
+msgstr ""
+
+msgctxt "8041987fe35a585041e915a464a6a027"
+msgid "ID=540393451"
+msgstr ""
+
+msgctxt "dadb55d9e57db0bea03be249737544f0"
+msgid "디터먼트 바이스 레그"
+msgstr ""
+
+msgctxt "de6525847f2cc0ef23a41082dabe878e"
+msgid "ID=540403551"
+msgstr ""
+
+msgctxt "bf16810333add926f84e3597edaa628c"
+msgid "언포기븐 바이스 레그"
+msgstr ""
+
+msgctxt "d6bcd549434b8a20691bc5b2a75eb493"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커, 라반과의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n저 선글라스… 던지면 터질까?\\n- "
+"제니스 - "
+msgstr ""
+
+msgctxt "081d79998b9989c49c04954e72b42d96"
+msgid "ID=540411301"
+msgstr ""
+
+msgctxt "2e733fec9b447f11c8f7007a8f422fb9"
+msgid "아이언 레그"
+msgstr ""
+
+msgctxt "8bf6f7f727bf1aabf1f7643d362443ec"
+msgid "ID=540412301"
+msgstr ""
+
+msgctxt "2b56835451538d0bf34240a81800807f"
+msgid "센트리즈 아이언 레그"
+msgstr ""
+
+msgctxt "de7115faa9673d6a0e05a95d53440f9b"
+msgid "ID=540423451"
+msgstr ""
+
+msgctxt "a8ab6e2138b2c8a146e160bafbc1ad9e"
+msgid "가디언즈 아이언 레그"
+msgstr ""
+
+msgctxt "f2579b9537a55f7b88832dfaedcdb3ef"
+msgid "ID=540433551"
+msgstr ""
+
+msgctxt "4043d808809708a7c20713b739f36c02"
+msgid "헤비 메탈 레그"
+msgstr ""
+
+msgctxt "ee2b621cd74c634debb224365a2025cc"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"지크 프로젝트의 첫번째 시작형, 지크 프로토의 형태와 재질을 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n혹시! 쟈니 "
+"뎁이라고 알아? \\n옛날에 살았던 유명한 배우인데, 이발사 로봇 역도 했었어.\\n- 제니스 - "
+msgstr ""
+
+msgctxt "b3382fb8cf5741cd6b184983699baf57"
+msgid "ID=540431301"
+msgstr ""
+
+msgctxt "13ca288093456425fa8ad3f20181f514"
+msgid "크롬 레그"
+msgstr ""
+
+msgctxt "474c2740d79d54342f92d5d39b4259bb"
+msgid "ID=540432301"
+msgstr ""
+
+msgctxt "98145c2178bec74c4a33868e296d28ff"
+msgid "도미니언 크롬 레그"
+msgstr ""
+
+msgctxt "055ce99cf640d9644e5613a22bada996"
+msgid "ID=540443451"
+msgstr ""
+
+msgctxt "ef6c415e6c8b3f61194f5b907032806a"
+msgid "제런트 크롬 레그"
+msgstr ""
+
+msgctxt "6ae67172721986c8fcf78da43f87942e"
+msgid "ID=540453551"
+msgstr ""
+
+msgctxt "4459d36a3e8217468a047078cee74a6e"
+msgid "레그 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "558bb867685f4511ea79cc57029d4135"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커, 노아와의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n노아라는 사람, \\n검은 다리에 검은 "
+"눈을 하면 신경이 쓰인다는 말을 많이 할 것 같지 않아?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "cb9eaed952a6a30559b5da1cacf2c422"
+msgid "ID=540451301"
+msgstr ""
+
+msgctxt "1a8e8256c0a46a544c87fbd8e7697a99"
+msgid "메탈 레그"
+msgstr ""
+
+msgctxt "0a2e4c390f2f21dadb2761892e95d88e"
+msgid "ID=540452301"
+msgstr ""
+
+msgctxt "850b5f7838bfa366c5a773f07b140d1f"
+msgid "메탈비스트 레그"
+msgstr ""
+
+msgctxt "e1d307a0b6518f3f2c6b2805378627d6"
+msgid "ID=540463451"
+msgstr ""
+
+msgctxt "49def5ea4e977a5d4dc69dd1d24af12e"
+msgid "카니지 메탈 레그"
+msgstr ""
+
+msgctxt "9d0324a952169a64349385e1c0445315"
+msgid "ID=540473551"
+msgstr ""
+
+msgctxt "3e35017cdd9d38cb924e05527ea948a1"
+msgid "에어리얼 림 레그"
+msgstr ""
+
+msgctxt "807fffd6011a1886f265dbf784e0f0be"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커, 에녹과의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n…춥겠지?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "ef80b03fa48fee3f4ca8ab6662ad6ab7"
+msgid "ID=540471301"
+msgstr ""
+
+msgctxt "3f6894a3c459c725c51013407c07eb43"
+msgid "샤프니스 레그"
+msgstr ""
+
+msgctxt "fc6928397e47e5251d706be3a1b3c7c8"
+msgid "ID=540472301"
+msgstr ""
+
+msgctxt "fde9dbbf051aa6d9b3a9a7c985717c1f"
+msgid "퍼니셔스 레그"
+msgstr ""
+
+msgctxt "fd0b1496d4e4bb8d9e04b3529ad42580"
+msgid "ID=540483451"
+msgstr ""
+
+msgctxt "916159cfe6cc90faae990316fd5dc46f"
+msgid "브레이버 레그"
+msgstr ""
+
+msgctxt "0e1ba44d2cff16db43259cc36b250830"
+msgid "ID=540493551"
+msgstr ""
+
+msgctxt "2c7007a28352632b28c6d5a90d6519c6"
+msgid "기간테스 코어 레그"
+msgstr ""
+
+msgctxt "3e2d190d889d8ab62990f709ea21149d"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"무기고에 숨겨져 있던 거대 병기, 슈퍼 아벨의 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n이 로봇은 이미 "
+"완벽해!\\n다리 따위는 장식이라고!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "f4f892f64222029737067405c868beba"
+msgid "ID=540491301"
+msgstr ""
+
+msgctxt "a3aff8808afcc1961ddbdb6b8cf4aa26"
+msgid "카본 레그"
+msgstr ""
+
+msgctxt "d1db23d0e1a5b4a80b62f3caebfd0bbd"
+msgid "ID=540492301"
+msgstr ""
+
+msgctxt "6a8ffa236ca9e918e24951852aa51210"
+msgid "스틸 고스트 레그"
+msgstr ""
+
+msgctxt "0c75ac613d4fbee49f8c29554b67d3d1"
+msgid "ID=540503451"
+msgstr ""
+
+msgctxt "bfd7ccb5d4a1bb464ce3de5b89fcdd49"
+msgid "판타즈말 카본 레그"
+msgstr ""
+
+msgctxt "5c3f32538463f47668d516b40aac4b87"
+msgid "ID=540513551"
+msgstr ""
+
+msgctxt "99c22da902759bfe66e46986c2b8486e"
+msgid "레그 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "9c69b841e217b72f057adcdc38720c24"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커 노아의 익시드, 퀸 오브 플라워를 참고하여 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n꽃의 여왕이라니… 사신 "
+"아니었어?\\n- 제니스 -"
+msgstr ""
+
+msgctxt "2e1845f6ab5908fcf5f619d4823e51b6"
+msgid "ID=540511301"
+msgstr ""
+
+msgctxt "94799bdd37396ea05581e07008034691"
+msgid "컴포짓 레그"
+msgstr ""
+
+msgctxt "d11ab38a7fc2e3e0a7dbf13c356deead"
+msgid "ID=540512301"
+msgstr ""
+
+msgctxt "d3835d60a2ee9480888570ff6fc6dad9"
+msgid "어썰트 레그"
+msgstr ""
+
+msgctxt "f357e710c8ef5098772976e66e1171e8"
+msgid "ID=540523451"
+msgstr ""
+
+msgctxt "353ce6daa19dc48c233a72999c6fc569"
+msgid "레클리스 원 레그"
+msgstr ""
+
+msgctxt "efeccb107c07518fac3d8fcb831b9f6d"
+msgid "ID=540533551"
+msgstr ""
+
+msgctxt "e4f1645c0bbf64aa0cb8d952e8d07c8e"
+msgid "넘버리스 레이 레그"
+msgstr ""
+
+msgctxt "6e113e4f96c2a1a55826ae2a8f2bc5f4"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"니어 소울워커 에녹의 익시드, 넘버리스 림을 참고하여 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n에녹이라는 여자는 동그란 것을 "
+"너무 많이 가지고 있는 것 같아!\\n원형 장치들도 그렇고… 모, 몸도 그렇고!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "efac5e82dd4891c038bc6514726a362f"
+msgid "ID=540531301"
+msgstr ""
+
+msgctxt "d0319633e6cb4aa3851a0372be37c34d"
+msgid "티탄 레그"
+msgstr ""
+
+msgctxt "433fea1c48b542e475bc1cce0fdfae95"
+msgid "ID=540532301"
+msgstr ""
+
+msgctxt "d3a1a25db9a7bc55755b0b39aa554d94"
+msgid "메탈 버스터 레그"
+msgstr ""
+
+msgctxt "bd639b4ee487a899c9c9eefb1724f5a5"
+msgid "ID=540543451"
+msgstr ""
+
+msgctxt "d389d4aaba57e6bfb8af1dfb3a992dca"
+msgid "루미너시티 레그"
+msgstr ""
+
+msgctxt "a5ec7f696e00da7a1e6365358e39f36e"
+msgid "ID=540553551"
+msgstr ""
+
+msgctxt "e34c93f795829e577179f809fe1d529a"
+msgid "글레어즈 포스 레그"
+msgstr ""
+
+msgctxt "a32d5386caeb5cf72f45e23fdabc8f5b"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"최초, 최강의 니어 소울워커, 시온과의 전투 정보를 토대로 만든 레그 기어. 다리에 착용 할 수 있다.\\n\\n그야말로 최강의 "
+"방어력이다…!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "7f96549cbaae55960fcd13f1ef6bdc44"
+msgid "ID=410142301"
+msgstr ""
+
+msgctxt "742c5dfba8fcbd96666b7ff6b37b42a5"
+msgid "덤스터 메모리 펜던트"
+msgstr ""
+
+msgctxt "661477a615a2e0beb370189488054f90"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+msgstr ""
+
+msgctxt "9493efceca6db85633c12e014f1602c9"
+msgid "ID=410153401"
+msgstr ""
+
+msgctxt "e52fe292a718821688de9b734ea28379"
+msgid "더스트맨 메모리 펜던트"
+msgstr ""
+
+msgctxt "ce3ccc89651ceddbba211ceba58aa547"
+msgid "ID=410163551"
+msgstr ""
+
+msgctxt "43ef1b00db55a4dad666be50a24f15bd"
+msgid "그레이 록 메모리 펜던트"
+msgstr ""
+
+msgctxt "7e9a613a0b968e898932b40d9edf232d"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n그 괴물은 우리에게 악몽이나 다름없었다.\\n- 아스팔트 골렘과 조우했던 어느 대원의 일기 중... -"
+msgstr ""
+
+msgctxt "56fb094f2dce75c7030e83b1ead5dd00"
+msgid "ID=410162301"
+msgstr ""
+
+msgctxt "f654cdc2b19e8d4d8de5faabe917bc4a"
+msgid "슈워 클리너 펜던트"
+msgstr ""
+
+msgctxt "ec3581c3073b010dee9e5ded0a13e494"
+msgid "ID=410173401"
+msgstr ""
+
+msgctxt "dab398dc1e684878fd68d3126a402889"
+msgid "머키 글래스 펜던트"
+msgstr ""
+
+msgctxt "a5120a133cd04ced88d5d539d85565e3"
+msgid "ID=410183551"
+msgstr ""
+
+msgctxt "681a2a87e5f9753ec5ed05433dff696d"
+msgid "폴루티드 큐빅 펜던트"
+msgstr ""
+
+msgctxt "08d0baa1e36dcb673d6df31d166c51ba"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n뭘까, 이 목소리는… \\n마치 어머니 품 안에서 자장가를 듣는 듯한 편안해지는 목소리다.\\n- ?? -"
+msgstr ""
+
+msgctxt "3d3b776c98da423563d36af63cb1e03c"
+msgid "ID=410192301"
+msgstr ""
+
+msgctxt "aca67cc28e040a89905ce1b35d579e2e"
+msgid "웹 실크 펜던트"
+msgstr ""
+
+msgctxt "795c7985ca4b0e7b211c81985fcfa805"
+msgid "ID=410203401"
+msgstr ""
+
+msgctxt "cc013cacbf71aa0a5144c822d8b6bc88"
+msgid "다즐링 쥬얼 펜던트"
+msgstr ""
+
+msgctxt "674bbd9e74d43689227916d68988657d"
+msgid "ID=410213551"
+msgstr ""
+
+msgctxt "180bb4acb97fbc7ebe65913cf42f3c66"
+msgid "노블리스 렐릭 펜던트"
+msgstr ""
+
+msgctxt "7ed4299e4a2a3c1b604e76cc61859d80"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n보고 내용 : 거미형태의 특이 개체 발견.\\n명칭, 아라크니스로 정정. 바큠베인 연구에 영향 가능성 다수, 포획 가치 있음."
+"\\n- 네드 컴퍼니 내부 보고 -"
+msgstr ""
+
+msgctxt "9adbd2d4a251b986620223f1ad58713d"
+msgid "ID=410212301"
+msgstr ""
+
+msgctxt "4ef7677130c4ab640f06a35b5337e024"
+msgid "레메디 캡슐 펜던트"
+msgstr ""
+
+msgctxt "500cd2d68e89a9e013b329839a930126"
+msgid "ID=410223401"
+msgstr ""
+
+msgctxt "c7eee4c2ee9bfa9ed821e9be7ac8ad9d"
+msgid "액세스 키 펜던트"
+msgstr ""
+
+msgctxt "97e9a8791d42adf7ba10cca3c16b0b68"
+msgid "ID=410233551"
+msgstr ""
+
+msgctxt "1889d45e667ef3c77593e771671d436f"
+msgid "시크릿 디바이설 펜던트"
+msgstr ""
+
+msgctxt "52b094b417f3c7637521e3d104b3973b"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n연구소 내부의 비홀더라는 녀석이 있다.\\n우리가 만들어낸 인공 각성체지. 연구소 내부가 그렇게 된 것도 다 그 녀석 때문이다."
+"\\n- 헨리 -"
+msgstr ""
+
+msgctxt "41636ddd447f7e9837dea8231132ad48"
+msgid "ID=410242301"
+msgstr ""
+
+msgctxt "d617b3633b33752898c297527d765020"
+msgid "셰터드 스케일 펜던트"
+msgstr ""
+
+msgctxt "52136366e56a9cf83fa11ae1af9f6fd4"
+msgid "ID=410253401"
+msgstr ""
+
+msgctxt "75937b035f091e3ea2710a88cf7639ed"
+msgid "블랙 윙 펜던트"
+msgstr ""
+
+msgctxt "a6ed986c171d82736666c9712bf8a839"
+msgid "ID=410263551"
+msgstr ""
+
+msgctxt "b6fe9ee208d175608837700fd2e4ba65"
+msgid "그리프 티어 펜던트"
+msgstr ""
+
+msgctxt "077ba3ad392eecec4acc9128b8fd75ef"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n캐서린… 미안하다… 미안하다…!\\n- 아론 -"
+msgstr ""
+
+msgctxt "888315c9636fab542d53222b7411109d"
+msgid "ID=410262301"
+msgstr ""
+
+msgctxt "2bb5904c5969c12964f10aa64143d3a8"
+msgid "갱스터 체인 펜던트"
+msgstr ""
+
+msgctxt "d25ef8787ba2f52b0a1988b3d5410f46"
+msgid "ID=410273401"
+msgstr ""
+
+msgctxt "d90100cef995a6c96329856b031d8374"
+msgid "레드 혼 펜던트"
+msgstr ""
+
+msgctxt "b2e64860eb2f4f27ec96f5cd3fb2923c"
+msgid "ID=410283551"
+msgstr ""
+
+msgctxt "3217d4ec4f5f1f664698a9bb7edc4d6b"
+msgid "블리딩 하츠 펜던트"
+msgstr ""
+
+msgctxt "67e1f404b54ca7fa4bda9d419ab25273"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n이건… 단순한 변종의 힘이 아니군…!\\n그런가… 네놈이…! 플래마 님이 말한 그…!\\n- 스카 -"
+msgstr ""
+
+msgctxt "da518a530f2e9da8f3691f7cd9795c85"
+msgid "ID=410282301"
+msgstr ""
+
+msgctxt "a20c43cbcc01f17064baed09792c8906"
+msgid "인베이더스 펜던트"
+msgstr ""
+
+msgctxt "cf5e1e9b307df561cfcf2c3eef60f95e"
+msgid "ID=410293401"
+msgstr ""
+
+msgctxt "b8ec06db2c87222df57b6e02e002ec04"
+msgid "베놈 체인 펜던트"
+msgstr ""
+
+msgctxt "d84ee8df78fb2ec6a40bef248fbb9089"
+msgid "ID=410303551"
+msgstr ""
+
+msgctxt "18ea9017b9d89c963bfd70348187f5b9"
+msgid "네드 트라이곤 펜던트"
+msgstr ""
+
+msgctxt "2eeeba71dc3ab471772921229d580a19"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n후후후… 재밌는 아이야. 그가 맘에 들어하는 이유를 알 것 같은걸?\\n어디… 얼마나 날 즐겁게 해 줄 수 있을지 "
+"확인해볼까?\\n- 포이즌 -"
+msgstr ""
+
+msgctxt "112ec72a9f8e08fc6fea7273416437ee"
+msgid "ID=410302301"
+msgstr ""
+
+msgctxt "7d27e5bdc2f2c12780713d54cf89126f"
+msgid "비스트 아이 펜던트"
+msgstr ""
+
+msgctxt "67c3e1816f9fdaa3cbfad40f31ea5568"
+msgid "ID=410313401"
+msgstr ""
+
+msgctxt "7e2ee870608a0585ee011172ad1c3891"
+msgid "이어리 데코 펜던트"
+msgstr ""
+
+msgctxt "f707d2d0d6f5c5df7fe1fca6cabc3fca"
+msgid "ID=410323551"
+msgstr ""
+
+msgctxt "cd1d6c0789903180856fa8644fa1ff32"
+msgid "가루라 투스 펜던트"
+msgstr ""
+
+msgctxt "5dcc17646bf2332ee68d0c2bfc56fc51"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n까아아악! 까아아아악! 까악! 까아악!\\n- 퀸 가루라가 팔콘에 대해 하는 말 -"
+msgstr ""
+
+msgctxt "8a5b34415493a259dfb3f514902b2551"
+msgid "ID=410332301"
+msgstr ""
+
+msgctxt "802a48896d5ebc769009101828e134ce"
+msgid "러스티 로켓 펜던트"
+msgstr ""
+
+msgctxt "7f15ea2df3c8f8b5057027b123ac3f4a"
+msgid "ID=410343401"
+msgstr ""
+
+msgctxt "35107af4a2293e3d38d7270f9ee2ebe9"
+msgid "리메인드 로켓 펜던트"
+msgstr ""
+
+msgctxt "b1b8b282c1c64efbf559678544cfade1"
+msgid "ID=410353551"
+msgstr ""
+
+msgctxt "0c53a166d499a9c930269e95a3e34117"
+msgid "할로우 젬 펜던트"
+msgstr ""
+
+msgctxt "3322bef9074b60eea26d7d554de88033"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n나와 계약을 맺고 소울워커가 되어 줘!\\n- ?? -"
+msgstr ""
+
+msgctxt "3563941494b754153b2947ed44352ae4"
+msgid "ID=410362301"
+msgstr ""
+
+msgctxt "22fb04899fa1fa55adbebd12990b6e09"
+msgid "헤비 체인 펜던트"
+msgstr ""
+
+msgctxt "87db7a80f4a97b1b2e0006f22bcffe38"
+msgid "ID=410373401"
+msgstr ""
+
+msgctxt "5dfcf0891206d2fe4af8b6eb72d380dd"
+msgid "베일드 암즈 펜던트"
+msgstr ""
+
+msgctxt "bf5641a82cf7f22898d3558d14181768"
+msgid "ID=410383551"
+msgstr ""
+
+msgctxt "023d64304f48417a34018b0370686031"
+msgid "블레이드 피스 펜던트"
+msgstr ""
+
+msgctxt "d629b2b4aa1c79454c94213400d42517"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n당신들의 복수가 이제야 끝났어.\\n너무… 긴 시간이었지? 미안해. 이제는 편안히 잠들기를….\\n- 세니아, 동료의 묘비 "
+"앞에서 -"
+msgstr ""
+
+msgctxt "c4b35fb0913465c9ba83b752ca81893b"
+msgid "ID=410382301"
+msgstr ""
+
+msgctxt "45d8a376c91a5b75f6f83380f1ed0d81"
+msgid "볼트 펜던트"
+msgstr ""
+
+msgctxt "e286cb7c706bbb7c1443ab5a98cf55d5"
+msgid "ID=410393401"
+msgstr ""
+
+msgctxt "f6b5c29bf43e75a301b3082beff5fc4e"
+msgid "스컹크웍스 펜던트"
+msgstr ""
+
+msgctxt "f0f51bfd9ad7ab4ef1e7f3676ecf1fe2"
+msgid "ID=410403551"
+msgstr ""
+
+msgctxt "a11f92ae5f7f4119fc9e0d58ec2f7297"
+msgid "비트레이어스 펜던트"
+msgstr ""
+
+msgctxt "f103b3bda40926e9b750d4bc8ac65016"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n라반, 일어나라. \\n싸울 시간이다.\\n- 헨리 -"
+msgstr ""
+
+msgctxt "981a9ca15d40dd97dbd1e8283d52b4fa"
+msgid "ID=410412301"
+msgstr ""
+
+msgctxt "1b85fdedcaf18eb25e15a47df238c3e6"
+msgid "센트리 메달 펜던트"
+msgstr ""
+
+msgctxt "689d93d30ca2e4e7c20233106528b191"
+msgid "ID=410423401"
+msgstr ""
+
+msgctxt "4e26654d5f75bfec879a2027c645c13b"
+msgid "커맨더 메달 펜던트"
+msgstr ""
+
+msgctxt "8028f13ff147d732d55e101cff83c19f"
+msgid "ID=410433551"
+msgstr ""
+
+msgctxt "9a96451da2dc86304012637b3cecfe42"
+msgid "루시스 바운티 펜던트"
+msgstr ""
+
+msgctxt "583bb100ac7dbfc708bc3f3390b39d8f"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n이 훈장은 중앙 제어실의 경비 및 침입자 퇴치에 지대한 업적을 세운 로봇에게 루인 포트리스의 매인 A.I 루시가 수여하는 "
+"훈장입니다.\\n- 루시의 훈장에 적힌 문구 -"
+msgstr ""
+
+msgctxt "c39471952d346b148f291095a070264f"
+msgid "ID=410432301"
+msgstr ""
+
+msgctxt "4226a4e5b082a6313e8c5aea7cb6960a"
+msgid "울브스 티어 펜던트"
+msgstr ""
+
+msgctxt "6181a2421240d70b4f3188f1faad3d68"
+msgid "ID=410443401"
+msgstr ""
+
+msgctxt "934836287e0fac373b37d85c6b07e9ec"
+msgid "머신즈 티어 펜던트"
+msgstr ""
+
+msgctxt "f1a05ecb4cdd4d622d22e26c593ed101"
+msgid "ID=410453551"
+msgstr ""
+
+msgctxt "032a96ca7a4c126592c62b48e46bdd9b"
+msgid "아크 티어 펜던트"
+msgstr ""
+
+msgctxt "7f89c249b0a453e9a3d07d5d6d8ed468"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n나이는 약 16세에서 18세 사이로 보이며 키는 170cm 이하로 보임! 큐트한 외모에 회백색빛 머리칼이 아주 인상적! 금색의 "
+"눈동자는 매력 포인트! \\n- 베티의 비밀 일지 중… -"
+msgstr ""
+
+msgctxt "d9f044b5ba3578f38bc8096a2fe104df"
+msgid "ID=410452301"
+msgstr ""
+
+msgctxt "b5b986b953ca24440146469ca81ac3e6"
+msgid "트래커 램프 펜던트"
+msgstr ""
+
+msgctxt "d35ef06dd24a86727acb89f65bc94b86"
+msgid "ID=410463401"
+msgstr ""
+
+msgctxt "29f2a33f5279e104ca7a5e158ce555da"
+msgid "고스트 아이 펜던트"
+msgstr ""
+
+msgctxt "741c5981213844972a2748d36226075a"
+msgid "ID=410473551"
+msgstr ""
+
+msgctxt "be8bdefc05321d71c82d8405c3f33efc"
+msgid "슬러터즈 아이 펜던트"
+msgstr ""
+
+msgctxt "d79f54bc6dbabe9684bd6c1e8a201dc9"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n나이는 약 18세에서 19세로 추정! 키는 부츠를 신은 것을 가정하여 165cm!\\n저 개방된 복장이야말로 그녀의 큐트함을 "
+"증폭시켜준다!\\n- 베티의 비밀 일지 중… -"
+msgstr ""
+
+msgctxt "f327701fa9022efd1e22e0367159a27a"
+msgid "ID=410472301"
+msgstr ""
+
+msgctxt "5593f66a188ae0326f8a9d98d362499e"
+msgid "티미드 코어 펜던트"
+msgstr ""
+
+msgctxt "4c9b1c1661e5526298383f0f2880169b"
+msgid "ID=410483401"
+msgstr ""
+
+msgctxt "a6ab9b0d28d80e84bc0fe6d33108894a"
+msgid "리커즈 코어 펜던트"
+msgstr ""
+
+msgctxt "293223d36c961c9ce7393c2a14f681fb"
+msgid "ID=410493551"
+msgstr ""
+
+msgctxt "973a782e9c8bb06ceeae655be556bd3e"
+msgid "브레이브 코어 펜던트"
+msgstr ""
+
+msgctxt "281d769a7803371f210736047f67e482"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n진실된 용자만이 착용할 수 있는 이 코어는 \\n용자검을 들었을 때 용자검법 제 1 초식, 발검을 쓸 수 있도록 한다고 "
+"전해진다.\\n단, 로봇에 타야만 쓸 수 있다!\\n- ?? -"
+msgstr ""
+
+msgctxt "2310323b7a8a24656c85574557fc4e26"
+msgid "ID=410492301"
+msgstr ""
+
+msgctxt "bc8e075e14c8412f9e39198d16ea62dc"
+msgid "비전 스피어 펜던트"
+msgstr ""
+
+msgctxt "12b8a144b16467b18681432254ba709b"
+msgid "ID=410503401"
+msgstr ""
+
+msgctxt "31652a1c1b2992a14c4d3535a3365536"
+msgid "일루젼 스피어 펜던트"
+msgstr ""
+
+msgctxt "8f5a3ac93a4ea1d384bb1f3933a37e3a"
+msgid "ID=410513551"
+msgstr ""
+
+msgctxt "d43b57caee408d537bc64aa11f263b7f"
+msgid "홀로그램 스피어 펜던트"
+msgstr ""
+
+msgctxt "13d57453cff0537eb32ff459710b342b"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n...도대체 훈련에 100kg에 달하는 과자가 왜 필요한 거지?\\n- 니어 소울워커 훈련 과정 연구 보고 중… -"
+msgstr ""
+
+msgctxt "9156ce6a31d07d0125b3bc15b9a44d59"
+msgid "ID=410512301"
+msgstr ""
+
+msgctxt "5ca29ff9b15989502312d02e20d630c8"
+msgid "브로큰 림 펜던트"
+msgstr ""
+
+msgctxt "3fa14132d56c4247fc94ae52e4e4defe"
+msgid "ID=410523401"
+msgstr ""
+
+msgctxt "0e17ddfa51c5f20266227196946c05d4"
+msgid "어센션 림 펜던트"
+msgstr ""
+
+msgctxt "47b1828993e9306272f61ed28abef0bb"
+msgid "ID=410533551"
+msgstr ""
+
+msgctxt "708f25587fe2d0f54793de35f160036a"
+msgid "어센셔너 버클 펜던트"
+msgstr ""
+
+msgctxt "f7ab82f970433e44f4a6ee1c8780a5e0"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n어떻게 하면 니어 소울워커를 직접 만날 수 있을까? 이것저것 물어보고 싶다! 좋아하는 것이라던가, 이상형이라던가~ 아아, 직접 "
+"만나서 인터뷰하고 싶다…!\\n- 베티의 비밀 일지 중… -"
+msgstr ""
+
+msgctxt "334d8769dd033726ccc9d405a0ae235a"
+msgid "ID=410532301"
+msgstr ""
+
+msgctxt "0b3df208eac77220fc958108f68b6559"
+msgid "브로큰 샤드 펜던트"
+msgstr ""
+
+msgctxt "5fdf6636b51eb38a850fbabc5e662402"
+msgid "ID=410543401"
+msgstr ""
+
+msgctxt "2a8323e1348dd4a8421bd3e1d2c267ba"
+msgid "페이디드 샤드 펜던트"
+msgstr ""
+
+msgctxt "a5af88350748df073890dfabf94cab4b"
+msgid "ID=410553551"
+msgstr ""
+
+msgctxt "dba23b868d694a3c741dd85eb9bfade2"
+msgid "글레어즈 샤드 펜던트"
+msgstr ""
+
+msgctxt "e5a1bfcbf38394b64595fefff434f23c"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n시온… 난 믿고 있었다.\\n그 이름 그대로 우리를 낙원으로 인도할 천사라고.\\n- 어느 연구원의 일지 중… -"
+msgstr ""
+
+msgctxt "d6368bd5e72b30131be1af2f2ba6ba55"
+msgid "ID=430192301"
+msgstr ""
+
+msgctxt "d0b942bd501519639934823c4df1235f"
+msgid "웹 실크 이어링"
+msgstr ""
+
+msgctxt "8b8e1d2229952f709666fc15886ee944"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+msgstr ""
+
+msgctxt "be7a3b2be2e1b442bf49747712b5e078"
+msgid "ID=430203401"
+msgstr ""
+
+msgctxt "e40f8e41a792693ae9ee05b24bd87034"
+msgid "다즐링 쥬얼 이어링"
+msgstr ""
+
+msgctxt "ef4f5e1756cb43344544c78c7289ff7e"
+msgid "ID=430213551"
+msgstr ""
+
+msgctxt "701629c8b0406a303ef1c4378b9c35b5"
+msgid "노블리스 렐릭 이어링"
+msgstr ""
+
+msgctxt "3fe286ac6e02d80fe1fdcc1bcb7d401d"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n보고 내용 : 거미형태의 특이 개체 발견.\\n명칭, 아라크니스로 정정. 바큠베인 연구에 영향 가능성 다수, 포획 가치 있음."
+"\\n- 네드 컴퍼니 내부 보고 -"
+msgstr ""
+
+msgctxt "25e16512530ef9c839e1e0e357cbf905"
+msgid "ID=430212301"
+msgstr ""
+
+msgctxt "1cd242e5043773266c2f297aa39f617c"
+msgid "레메디 캡슐 이어링"
+msgstr ""
+
+msgctxt "d4b8f18ee9fddc57a054eea6e0b7db3d"
+msgid "ID=430223401"
+msgstr ""
+
+msgctxt "1f58191cdfb2ff6031d1e068e9d11c78"
+msgid "액세스 키 이어링"
+msgstr ""
+
+msgctxt "384fc518cd3ff61e556d2ff9ea4467f9"
+msgid "ID=430233551"
+msgstr ""
+
+msgctxt "283e71e786cb47d3d647f76ec5f7242c"
+msgid "시크릿 디바이설 이어링"
+msgstr ""
+
+msgctxt "bd65446e1832ab5d2535283575f3043a"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n연구소 내부의 비홀더라는 녀석이 있다.\\n우리가 만들어낸 인공 각성체지. 연구소 내부가 그렇게 된 것도 다 그 녀석 때문이다."
+"\\n- 헨리 -"
+msgstr ""
+
+msgctxt "ab1cabada29cac020e00c2cfc715acab"
+msgid "ID=430242301"
+msgstr ""
+
+msgctxt "198e983e58e3350afd338a046b7742cf"
+msgid "셰터드 스케일 이어링"
+msgstr ""
+
+msgctxt "fcfcdb01084a65fe6c10d57cf9d4da63"
+msgid "ID=430253401"
+msgstr ""
+
+msgctxt "6fa76f417dcda5b007212333c2703114"
+msgid "블랙 윙 이어링"
+msgstr ""
+
+msgctxt "34dc4356852e5a9630dbf5cbfe63e33c"
+msgid "ID=430263551"
+msgstr ""
+
+msgctxt "a71df249f819258cae49cb25415db50c"
+msgid "그리프 티어 이어링"
+msgstr ""
+
+msgctxt "d7117346435f1684b2fe0c95c0ec11f2"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n캐서린… 미안하다… 미안하다…!\\n- 아론 -"
+msgstr ""
+
+msgctxt "f289ff86387b04df2d4ed645afa16c6f"
+msgid "ID=430262301"
+msgstr ""
+
+msgctxt "5d22533f3053bf75e53d003d3deb0e8f"
+msgid "갱스터 체인 이어링"
+msgstr ""
+
+msgctxt "95581ee588ec01855c99b8492ed86777"
+msgid "ID=430273401"
+msgstr ""
+
+msgctxt "61ffdb318daa992b201195226192e702"
+msgid "레드 혼 이어링"
+msgstr ""
+
+msgctxt "3bec06b48ab359b6112adcd3c7f8aff6"
+msgid "ID=430283551"
+msgstr ""
+
+msgctxt "5e7088fe9d3c0b88d08d801d101e1ec8"
+msgid "블리딩 하츠 이어링"
+msgstr ""
+
+msgctxt "9ad9ab78ba5d98c898f3f4f7d71e34c7"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n이건… 단순한 변종의 힘이 아니군…!\\n그런가… 네놈이…! 플래마 님이 말한 그…!\\n- 스카 -"
+msgstr ""
+
+msgctxt "d395bd42ad783fbbaa4920b5466fd7d1"
+msgid "ID=430282301"
+msgstr ""
+
+msgctxt "7dd20c38c5b3ddf1249d3e1b96ad300f"
+msgid "인베이더스 이어링"
+msgstr ""
+
+msgctxt "f35092daebe090a2009dca94e78450a3"
+msgid "ID=430293401"
+msgstr ""
+
+msgctxt "2de4cf986c687412b0c09fb8da023d17"
+msgid "베놈 체인 이어링"
+msgstr ""
+
+msgctxt "df45d80dc6a0b076e6dfe233ad419288"
+msgid "ID=430303551"
+msgstr ""
+
+msgctxt "d9d262615db2fc8e32fd76f412b56cb0"
+msgid "네드 트라이곤 이어링"
+msgstr ""
+
+msgctxt "691e8f76133bc3ffee087a27bc0bdf39"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n후후후… 재밌는 아이야. 그가 맘에 들어하는 이유를 알 것 같은걸?\\n어디… 얼마나 날 즐겁게 해 줄 수 있을지 "
+"확인해볼까?\\n- 포이즌 -"
+msgstr ""
+
+msgctxt "57576292fd9d969ecde0033f5224b569"
+msgid "ID=430302301"
+msgstr ""
+
+msgctxt "4e81b6c88f574dd90c929415b0e0a7c3"
+msgid "비스트 아이 이어링"
+msgstr ""
+
+msgctxt "1ff61d6f10a6ec066f158450c62a7f8b"
+msgid "ID=430313401"
+msgstr ""
+
+msgctxt "4b932c7fca98ed259d9f6a0a2a1c69cd"
+msgid "이어리 데코 이어링"
+msgstr ""
+
+msgctxt "55ba56413e2ad8890828713b1d6df8d8"
+msgid "ID=430323551"
+msgstr ""
+
+msgctxt "d40f507651c4884dee3c8a902ca62028"
+msgid "가루라 투스 이어링"
+msgstr ""
+
+msgctxt "f7116d82738cd639728c10df84e63af7"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n까아아악! 까아아아악! 까악! 까아악!\\n- 퀸 가루라가 팔콘에 대해 하는 말 -"
+msgstr ""
+
+msgctxt "3c75580b399c15bb90a9921e3ec908e1"
+msgid "ID=430332301"
+msgstr ""
+
+msgctxt "c14ceb3148e0f00aaa0e3ff155c2d50a"
+msgid "러스티 로켓 이어링"
+msgstr ""
+
+msgctxt "54d8590d9407617f9620472874daa0d5"
+msgid "ID=430343401"
+msgstr ""
+
+msgctxt "8d52eb6b38eecef6a691a899ed0fa3d7"
+msgid "리메인드 로켓 이어링"
+msgstr ""
+
+msgctxt "3db3c9245a678efc1743c459cd50009f"
+msgid "ID=430353551"
+msgstr ""
+
+msgctxt "e3facc7ec2035864518d9b9289883d7b"
+msgid "할로우 젬 이어링"
+msgstr ""
+
+msgctxt "0405cdc617cc1ea65c32f225421faf5d"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n나와 계약을 맺고 소울워커가 되어 줘!\\n- ?? -"
+msgstr ""
+
+msgctxt "e26544de69ea5dd3449394c9d3f02111"
+msgid "ID=430362301"
+msgstr ""
+
+msgctxt "e760720e7844d15eacf7f2abc27ecd3a"
+msgid "헤비 체인 이어링"
+msgstr ""
+
+msgctxt "d6fda394eb09ff8cd42dfce80a6ea3a7"
+msgid "ID=430373401"
+msgstr ""
+
+msgctxt "c83306ff256c36b46c9ac0ef4110652f"
+msgid "베일드 암즈 이어링"
+msgstr ""
+
+msgctxt "7de9526ae57edd2f03b2877dba8d1a54"
+msgid "ID=430383551"
+msgstr ""
+
+msgctxt "dad5a2dd956e8e384e50dfd723e6b834"
+msgid "블레이드 피스 이어링"
+msgstr ""
+
+msgctxt "394f30d73791f1f9d6f62be85d59e965"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n당신들의 복수가 이제야 끝났어.\\n너무… 긴 시간이었지? 미안해. 이제는 편안히 잠들기를….\\n- 세니아, 동료의 묘비 "
+"앞에서 -"
+msgstr ""
+
+msgctxt "c924e8cb1a1909e0ea00527b32e0baae"
+msgid "ID=430382301"
+msgstr ""
+
+msgctxt "5adeedb3da2286b5a73119dfa4b0c03d"
+msgid "볼트 이어링"
+msgstr ""
+
+msgctxt "2d59b0fc2d872491030218881f59eda6"
+msgid "ID=430393401"
+msgstr ""
+
+msgctxt "be8b2067d69cc31786c7e96259ea2e9c"
+msgid "스컹크웍스 이어링"
+msgstr ""
+
+msgctxt "5719a48aa24d0afdb28b5b600f8fb118"
+msgid "ID=430403551"
+msgstr ""
+
+msgctxt "04b3b7c9513bcf6f54c9de184c4259e4"
+msgid "비트레이어스 이어링"
+msgstr ""
+
+msgctxt "cd158dd1abf227c01f4c6b645cf73565"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n라반, 일어나라. \\n싸울 시간이다.\\n- 헨리 -"
+msgstr ""
+
+msgctxt "ded5f383f0b98e85d0d5fa1eeadba8d2"
+msgid "ID=430412301"
+msgstr ""
+
+msgctxt "240e2e134cf3b632166cf769e97164a3"
+msgid "센트리 메달 이어링"
+msgstr ""
+
+msgctxt "24c26df3cde10dac8dcda24f2092ee03"
+msgid "ID=430423401"
+msgstr ""
+
+msgctxt "b458786582efab1147e29e5794b8a754"
+msgid "커맨더 메달 이어링"
+msgstr ""
+
+msgctxt "89930ce8cc11de8ad47b67de778b1cce"
+msgid "ID=430433551"
+msgstr ""
+
+msgctxt "34053c67ecd99d687f496990d6e85025"
+msgid "루시스 바운티 이어링"
+msgstr ""
+
+msgctxt "02672e60030aab929de3bc5a3bef770d"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n이 훈장은 중앙 제어실의 경비 및 침입자 퇴치에 지대한 업적을 세운 로봇에게 루인 포트리스의 매인 A.I 루시가 수여하는 "
+"훈장입니다.\\n- 루시의 훈장에 적힌 문구 -"
+msgstr ""
+
+msgctxt "268d6b85b2b42f885a18610dc8adf955"
+msgid "ID=430432301"
+msgstr ""
+
+msgctxt "1bd89513eb3491443cab0b7b4e34b70e"
+msgid "울브스 티어 이어링"
+msgstr ""
+
+msgctxt "ff0fc511fb43a2dbad2f6d148013f35e"
+msgid "ID=430443401"
+msgstr ""
+
+msgctxt "024844cd562179f5b7a0afad0ca6dd83"
+msgid "머신즈 티어 이어링"
+msgstr ""
+
+msgctxt "fe09047bacb92a2d33f753c6cdeb1d4a"
+msgid "ID=430453551"
+msgstr ""
+
+msgctxt "cf265a32895c1d53c4dfecd7af7fde5d"
+msgid "아크 티어 이어링"
+msgstr ""
+
+msgctxt "e5d08217636c6058929866c94434571c"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n나이는 약 16세에서 18세 사이로 보이며 키는 170cm 이하로 보임! 큐트한 외모에 회백색빛 머리칼이 아주 인상적! 금색의 "
+"눈동자는 매력 포인트! \\n- 베티의 비밀 일지 중… -"
+msgstr ""
+
+msgctxt "42993893236a9036c3c765239c4c6f8d"
+msgid "ID=430452301"
+msgstr ""
+
+msgctxt "3fefbd6418518faa89b8fbc11dd15926"
+msgid "트래커 램프 이어링"
+msgstr ""
+
+msgctxt "7d845127cd326bf5f00bfa5999680749"
+msgid "ID=430463401"
+msgstr ""
+
+msgctxt "59b48fadab35bcfac72cdd498e54c471"
+msgid "고스트 아이 이어링"
+msgstr ""
+
+msgctxt "813c1395234f25b5092e1765315db1b6"
+msgid "ID=430473551"
+msgstr ""
+
+msgctxt "f40943779e826f69d7e53617c8fbff0c"
+msgid "슬러터즈 아이 이어링"
+msgstr ""
+
+msgctxt "d56f117fa694321f3e755b1b98cc3759"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n나이는 약 18세에서 19세로 추정! 키는 부츠를 신은 것을 가정하여 165cm!\\n저 개방된 복장이야말로 그녀의 큐트함을 "
+"증폭시켜준다!\\n- 베티의 비밀 일지 중… -"
+msgstr ""
+
+msgctxt "65fbe64831ab57b1630c171d94d12689"
+msgid "ID=430472301"
+msgstr ""
+
+msgctxt "2bf7579f1540ed42d66b22099aed81b5"
+msgid "티미드 코어 이어링"
+msgstr ""
+
+msgctxt "c802c4b983f6ea15c71d28f45cc2c980"
+msgid "ID=430483401"
+msgstr ""
+
+msgctxt "5c616e44d8080861503fa16ebb48c04a"
+msgid "리커즈 코어 이어링"
+msgstr ""
+
+msgctxt "55a315cdc84c3fc27d9f971abf01edfe"
+msgid "ID=430493551"
+msgstr ""
+
+msgctxt "1195781dfae39912ac2bb839b7ad23f3"
+msgid "브레이브 코어 이어링"
+msgstr ""
+
+msgctxt "9af5c1f1002242932de46d2043979862"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n진실된 용자만이 착용할 수 있는 이 코어는 \\n용자검을 들었을 때 용자검법 제 1 초식, 발검을 쓸 수 있도록 한다고 "
+"전해진다.\\n단, 로봇에 타야만 쓸 수 있다!\\n- ?? -"
+msgstr ""
+
+msgctxt "41610deb1d75b2932a84b38a0e851932"
+msgid "ID=430492301"
+msgstr ""
+
+msgctxt "705f07dda06f4bcbffa9d8cccd1eda44"
+msgid "비전 스피어 이어링"
+msgstr ""
+
+msgctxt "6961d6167d799242dba0aa2146ea52e3"
+msgid "ID=430503401"
+msgstr ""
+
+msgctxt "0a8148a95763f67c70c791abb296a63d"
+msgid "일루젼 스피어 이어링"
+msgstr ""
+
+msgctxt "5564bd7c92dad4ece2d513c54282c84d"
+msgid "ID=430513551"
+msgstr ""
+
+msgctxt "bcb01a5ebefb7b07b0ccffcb3edb2f15"
+msgid "홀로그램 스피어 이어링"
+msgstr ""
+
+msgctxt "a3f167964b58c9e49f31748753b37385"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n...도대체 훈련에 100kg에 달하는 과자가 왜 필요한 거지?\\n- 니어 소울워커 훈련 과정 연구 보고 중… -"
+msgstr ""
+
+msgctxt "f218962aadca1157ffd826b9b197393e"
+msgid "ID=430512301"
+msgstr ""
+
+msgctxt "b8bfadc04196556d8dd0ec4eebc1d3f6"
+msgid "브로큰 림 이어링"
+msgstr ""
+
+msgctxt "61cbdc7676c0c77f2205cf210653bc13"
+msgid "ID=430523401"
+msgstr ""
+
+msgctxt "e3ef7699c9e9ccd3f974c546ed7d70ab"
+msgid "어센션 림 이어링"
+msgstr ""
+
+msgctxt "071e114421728f0403e5ad50e16bd19d"
+msgid "ID=430533551"
+msgstr ""
+
+msgctxt "955378bc14355baf5d151b270910a9a4"
+msgid "어센셔너 버클 이어링"
+msgstr ""
+
+msgctxt "6d53fc8d295e5ecfab59a0a33bace6c7"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n어떻게 하면 니어 소울워커를 직접 만날 수 있을까? 이것저것 물어보고 싶다! 좋아하는 것이라던가, 이상형이라던가~ 아아, 직접 "
+"만나서 인터뷰하고 싶다…!\\n- 베티의 비밀 일지 중… -"
+msgstr ""
+
+msgctxt "1e10fbd14b6f8b0e1d99d49ff9438089"
+msgid "ID=430532301"
+msgstr ""
+
+msgctxt "46205b0de22116f3e23fad0c081a23d9"
+msgid "브로큰 샤드 이어링"
+msgstr ""
+
+msgctxt "fcb82436a2e01f33b1884a62d3d4a07d"
+msgid "ID=430543401"
+msgstr ""
+
+msgctxt "3e31475fe10b1937ccb6c46608a16250"
+msgid "페이디드 샤드 이어링"
+msgstr ""
+
+msgctxt "b04f1572d7637c7056d46b06dda7edbe"
+msgid "ID=430553551"
+msgstr ""
+
+msgctxt "47491f192f256f0df206dcfb52cb7694"
+msgid "글레어즈 샤드 이어링"
+msgstr ""
+
+msgctxt "22e0adb2dbdd0db42eb14db05de4bb7f"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n시온… 난 믿고 있었다.\\n그 이름 그대로 우리를 낙원으로 인도할 천사라고.\\n- 어느 연구원의 일지 중… -"
+msgstr ""
+
+msgctxt "f5e183e5558dec75b94eacdac5357558"
+msgid "ID=440242301"
+msgstr ""
+
+msgctxt "ffada684b4055486401cc5bc2ced2a61"
+msgid "셰터드 스케일 링"
+msgstr ""
+
+msgctxt "a2ad1cdef4b22a328133b58b82f99107"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+msgstr ""
+
+msgctxt "e198c89a269e98b30582049aef1bd7cb"
+msgid "ID=440253401"
+msgstr ""
+
+msgctxt "4e5dfba2bc5f8066f2659b746897bb9d"
+msgid "블랙 윙 링"
+msgstr ""
+
+msgctxt "0e55f59b8f3d38547a953be7b59eba1b"
+msgid "ID=440263551"
+msgstr ""
+
+msgctxt "1312a99535d903da3096a67c5c435914"
+msgid "그리프 티어 링"
+msgstr ""
+
+msgctxt "d056def163a7809f21effd55bfec90a9"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n캐서린… 미안하다… 미안하다…!\\n- 아론 -"
+msgstr ""
+
+msgctxt "ab116d01e1cf86317863bdc047625e70"
+msgid "ID=440262301"
+msgstr ""
+
+msgctxt "60b4ed5454f85809163bbfb46fbcc0d8"
+msgid "갱스터 체인 링"
+msgstr ""
+
+msgctxt "af92927f97d9870aba5d98d59f6868e4"
+msgid ""
+"<font color='#FFBA85'>액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. 보통의 "
+"액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+msgstr ""
+
+msgctxt "ef44e5f0f8f6c7eb290d051b28da43ad"
+msgid "ID=440273401"
+msgstr ""
+
+msgctxt "6c0de7e18acce5d4d14c5b3ea934f943"
+msgid "레드 혼 링"
+msgstr ""
+
+msgctxt "c52dfe117bea91a3c2475cc8e2819a02"
+msgid "ID=440283551"
+msgstr ""
+
+msgctxt "7ed89d25eda9765eed0c2ecc0c21a584"
+msgid "블리딩 하츠 링"
+msgstr ""
+
+msgctxt "68687510c81d52d9f2bb8ec00419b9e7"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n이건… 단순한 변종의 힘이 아니군…!\\n그런가… 네놈이…! 플래마 님이 말한 그…!\\n- 스카 -"
+msgstr ""
+
+msgctxt "09ea35e47bc2923b76726e35c0b589cb"
+msgid "ID=440282301"
+msgstr ""
+
+msgctxt "75ced680c5fe59d4aecc4699dae7ebe2"
+msgid "인베이더스 링"
+msgstr ""
+
+msgctxt "6eb775876955b146fbc550e84400ff52"
+msgid "ID=440293401"
+msgstr ""
+
+msgctxt "07da4b27a80a4d5289bc09d8c136cc43"
+msgid "베놈 체인 링"
+msgstr ""
+
+msgctxt "b5a7ba7112bb2888274a8816c99bb23d"
+msgid "ID=440303551"
+msgstr ""
+
+msgctxt "0d96658322ec2ac55762c08ca540cbdf"
+msgid "네드 트라이곤 링"
+msgstr ""
+
+msgctxt "2dee259bf3eb345f3c4e20f0a7acb965"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n후후후… 재밌는 아이야. 그가 맘에 들어하는 이유를 알 것 같은걸?\\n어디… 얼마나 날 즐겁게 해 줄 수 있을지 "
+"확인해볼까?\\n- 포이즌 -"
+msgstr ""
+
+msgctxt "4ced94cedbf1abd5f01bfda1307f6b95"
+msgid "ID=440302301"
+msgstr ""
+
+msgctxt "3060a280c484f33671a8c6d7037d3262"
+msgid "비스트 아이 링"
+msgstr ""
+
+msgctxt "e1cc8126dd439ba4713372b93d5e6111"
+msgid "ID=440313401"
+msgstr ""
+
+msgctxt "27dc25907b6572bf00c8100a89ff8a4b"
+msgid "이어리 데코 링"
+msgstr ""
+
+msgctxt "925db0cefbdfb5f0fc05f064c88ff61f"
+msgid "ID=440323551"
+msgstr ""
+
+msgctxt "93f4d34ced2e7a739ff2ee81d245a65d"
+msgid "가루라 투스 링"
+msgstr ""
+
+msgctxt "2d21c355046136e3aa9fa2d78cb02b6e"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n까아아악! 까아아아악! 까악! 까아악!\\n- 퀸 가루라가 팔콘에 대해 하는 말 -"
+msgstr ""
+
+msgctxt "ad941defc50954fc4df404dfb113beb8"
+msgid "ID=440332301"
+msgstr ""
+
+msgctxt "fa373f80c4f40a3912c1d74dc59cf420"
+msgid "러스티 로켓 링"
+msgstr ""
+
+msgctxt "f8cc96a7650d5313d2da8d36b7aef452"
+msgid "ID=440343401"
+msgstr ""
+
+msgctxt "817d46551206894926136744471fe524"
+msgid "리메인드 로켓 링"
+msgstr ""
+
+msgctxt "065726e237085ddde0d814b1d0bae827"
+msgid "ID=440353551"
+msgstr ""
+
+msgctxt "021cd309a187eb9b27a4adc5b7381f1f"
+msgid "할로우 젬 링"
+msgstr ""
+
+msgctxt "73fa19ea421ffaee8b153ccef522e82a"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n나와 계약을 맺고 소울워커가 되어 줘!\\n- ?? -"
+msgstr ""
+
+msgctxt "08897e169fd9b4f6536d08b374911157"
+msgid "ID=440362301"
+msgstr ""
+
+msgctxt "2a62e93915827bac430bcd92486e3cfe"
+msgid "헤비 체인 링"
+msgstr ""
+
+msgctxt "ac78072ff365523c48c5bc746c3ed2aa"
+msgid "ID=440373401"
+msgstr ""
+
+msgctxt "c3ab78812df1fd970f3ffbdc7bc657c2"
+msgid "베일드 암즈 링"
+msgstr ""
+
+msgctxt "16812d8bc7041b63a217db0f72821c7f"
+msgid "ID=440383551"
+msgstr ""
+
+msgctxt "e35111d8bfb50800d257197ac7b22df3"
+msgid "블레이드 피스 링"
+msgstr ""
+
+msgctxt "5b8cedc3309caded63bd88cedcd0925e"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n당신들의 복수가 이제야 끝났어.\\n너무… 긴 시간이었지? 미안해. 이제는 편안히 잠들기를….\\n- 세니아, 동료의 묘비 "
+"앞에서 -"
+msgstr ""
+
+msgctxt "53161dbcd740e2af4a9ea7c605c8a4ca"
+msgid "ID=440382301"
+msgstr ""
+
+msgctxt "abac3fef8e015d787fd70adcfcc13bd8"
+msgid "볼트 링"
+msgstr ""
+
+msgctxt "43fff4ba34dbf6146580441b3d318b5e"
+msgid "ID=440393401"
+msgstr ""
+
+msgctxt "168573c158ea58400d2d03e86d2821a5"
+msgid "스컹크웍스 링"
+msgstr ""
+
+msgctxt "f28faf890624422ea6ddd33bc98cf93b"
+msgid "ID=440403551"
+msgstr ""
+
+msgctxt "3d6253e3fedce58f16479b68637c32e6"
+msgid "비트레이어스 링"
+msgstr ""
+
+msgctxt "82729f08e644dc1a7805e2d38f066871"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n라반, 일어나라. \\n싸울 시간이다.\\n- 헨리 -"
+msgstr ""
+
+msgctxt "29eb7e39858efdadb310b70df1aec054"
+msgid "ID=440412301"
+msgstr ""
+
+msgctxt "e90845866c9263f61fb8e7ac4705eaa9"
+msgid "센트리 메달 링"
+msgstr ""
+
+msgctxt "5928904e167836471bd6edc9537eb9a3"
+msgid "ID=440423401"
+msgstr ""
+
+msgctxt "926ef852327ba236216339aeb8af7a7b"
+msgid "커맨더 메달 링"
+msgstr ""
+
+msgctxt "5cfc039498d592c0a62f427a5b777e47"
+msgid "ID=440433551"
+msgstr ""
+
+msgctxt "4afd0f2dbdd8d245f2af2c2d77d4e6bd"
+msgid "루시스 바운티 링"
+msgstr ""
+
+msgctxt "47ac213884286c6c6bd53a1645dbfb8c"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n이 훈장은 중앙 제어실의 경비 및 침입자 퇴치에 지대한 업적을 세운 로봇에게 루인 포트리스의 매인 A.I 루시가 수여하는 "
+"훈장입니다.\\n- 루시의 훈장에 적힌 문구 -"
+msgstr ""
+
+msgctxt "92798d0741c5d3080f00e8d736c49273"
+msgid "ID=440432301"
+msgstr ""
+
+msgctxt "6211bcf19229033769463d8396fa2b5d"
+msgid "울브스 티어 링"
+msgstr ""
+
+msgctxt "a5af945f3da134b63f2c574fd2b8effe"
+msgid "ID=440443401"
+msgstr ""
+
+msgctxt "fd7cc0e370cd34ba21645c85073dd33a"
+msgid "머신즈 티어 링"
+msgstr ""
+
+msgctxt "474adb5c6710b94307bb5c43c1581634"
+msgid "ID=440453551"
+msgstr ""
+
+msgctxt "77fadddc9e8a9686f8c67b1135c44e04"
+msgid "아크 티어 링"
+msgstr ""
+
+msgctxt "f333ab4cc4aeb16591421f00e6bc57fd"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n나이는 약 16세에서 18세 사이로 보이며 키는 170cm 이하로 보임! 큐트한 외모에 회백색빛 머리칼이 아주 인상적! 금색의 "
+"눈동자는 매력 포인트! \\n- 베티의 비밀 일지 중… -"
+msgstr ""
+
+msgctxt "a385d47bfd334537423a8f613418ee66"
+msgid "ID=440452301"
+msgstr ""
+
+msgctxt "b13585091eb21f6b58ebc001fa144cd1"
+msgid "트래커 램프 링"
+msgstr ""
+
+msgctxt "88fe79153650ee26e216026c1df2f694"
+msgid "ID=440463401"
+msgstr ""
+
+msgctxt "b1de3a41a36a1ef2c839aa244e445fb7"
+msgid "고스트 아이 링"
+msgstr ""
+
+msgctxt "47654674a12dd19114fd7c699a4ee42d"
+msgid "ID=440473551"
+msgstr ""
+
+msgctxt "3f9a0b02d6907fd78483c34a822b908b"
+msgid "슬러터즈 아이 링"
+msgstr ""
+
+msgctxt "83e5b52b7d66b9a48016e80b03901bb4"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n나이는 약 18세에서 19세로 추정! 키는 부츠를 신은 것을 가정하여 165cm!\\n저 개방된 복장이야말로 그녀의 큐트함을 "
+"증폭시켜준다!\\n- 베티의 비밀 일지 중… -"
+msgstr ""
+
+msgctxt "be0e6e8d9c79fb75a44fee25524dab13"
+msgid "ID=440472301"
+msgstr ""
+
+msgctxt "f24af12bc9fc26414bed51de434b21f4"
+msgid "티미드 코어 링"
+msgstr ""
+
+msgctxt "0acb79bf595c2ff35da6167fe01bb735"
+msgid "ID=440483401"
+msgstr ""
+
+msgctxt "907b6219a3a0a8697eea32bd948166b0"
+msgid "리커즈 코어 링"
+msgstr ""
+
+msgctxt "520c0d327cd20a8010785596ef58a53e"
+msgid "ID=440493551"
+msgstr ""
+
+msgctxt "4c36166b66fd65b4786347f2d726677c"
+msgid "브레이브 코어 링"
+msgstr ""
+
+msgctxt "3b7b6c04b2a9e8af619bd3a3ad55d380"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n진실된 용자만이 착용할 수 있는 이 코어는 \\n용자검을 들었을 때 용자검법 제 1 초식, 발검을 쓸 수 있도록 한다고 "
+"전해진다.\\n단, 로봇에 타야만 쓸 수 있다!\\n- ?? -"
+msgstr ""
+
+msgctxt "dd9b0186404a7022057d52b5cf153811"
+msgid "ID=440492301"
+msgstr ""
+
+msgctxt "e32435048b5fe9e5ceeafabea3e27bf1"
+msgid "비전 스피어 링"
+msgstr ""
+
+msgctxt "26db4194962bd47d51b3a40a5fd48d0d"
+msgid "ID=440503401"
+msgstr ""
+
+msgctxt "a2d64323d99c75e17fb29296ee056dcf"
+msgid "일루젼 스피어 링"
+msgstr ""
+
+msgctxt "ef79892bedf009094d5678e75d37d7f8"
+msgid "ID=440513551"
+msgstr ""
+
+msgctxt "2caf49f62a1ac1eb30712d1758c15f14"
+msgid "홀로그램 스피어 링"
+msgstr ""
+
+msgctxt "8406ec57cc1b5db19901f4684bd29640"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n...도대체 훈련에 100kg에 달하는 과자가 왜 필요한 거지?\\n- 니어 소울워커 훈련 과정 연구 보고 중… -"
+msgstr ""
+
+msgctxt "53c47a25e67b54736f2ee4213dc4915e"
+msgid "ID=440512301"
+msgstr ""
+
+msgctxt "b7b61972b55596a077c82c9114b24994"
+msgid "브로큰 림 링"
+msgstr ""
+
+msgctxt "9c887153308f22772bea94ef6f866026"
+msgid "ID=440523401"
+msgstr ""
+
+msgctxt "e2ee541d55f04bc9bf49a7f6700adf01"
+msgid "어센션 림 링"
+msgstr ""
+
+msgctxt "df3fd2ac121c5f1064b68944ef507ccc"
+msgid "ID=440533551"
+msgstr ""
+
+msgctxt "b74a13ed80da70bff59743e718384c9b"
+msgid "어센셔너 버클 링"
+msgstr ""
+
+msgctxt "de1bcffd8f47758755435950f652ec3f"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n어떻게 하면 니어 소울워커를 직접 만날 수 있을까? 이것저것 물어보고 싶다! 좋아하는 것이라던가, 이상형이라던가~ 아아, 직접 "
+"만나서 인터뷰하고 싶다…!\\n- 베티의 비밀 일지 중… -"
+msgstr ""
+
+msgctxt "7c3178600c553ef2a2c35c8f45a2be52"
+msgid "ID=440532301"
+msgstr ""
+
+msgctxt "339039e9a60dd126f8a305aab0d09f51"
+msgid "브로큰 샤드 링"
+msgstr ""
+
+msgctxt "363d975df3c5f48cd63d3afcb345b384"
+msgid "ID=440543401"
+msgstr ""
+
+msgctxt "d994b2476136563403d229878799b848"
+msgid "페이디드 샤드 링"
+msgstr ""
+
+msgctxt "be7de5f1cd2a80efc7dfb31f60803e92"
+msgid "ID=440553551"
+msgstr ""
+
+msgctxt "beee656f2eed389909ae4b7c9b55d2de"
+msgid "글레어즈 샤드 링"
+msgstr ""
+
+msgctxt "213d087e9c0e839cef6def13ccbee171"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n시온… 난 믿고 있었다.\\n그 이름 그대로 우리를 낙원으로 인도할 천사라고.\\n- 어느 연구원의 일지 중… -"
+msgstr ""
+
+msgctxt "a86214897313cdc8c49800436afd5e64"
+msgid "ID=711043410"
+msgstr ""
+
+msgctxt "2f181d065d0fbe1404461f5297fd8490"
+msgid "[설계도]래비드 팽 소드"
+msgstr ""
+
+msgctxt "f42dc2719eb522c8cb531dcdb385856c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [래비드 팽 소드]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "bff7601a880f65fa5190dedb4cfec419"
+msgid "ID=711053510"
+msgstr ""
+
+msgctxt "0dfb95d46fde600c3524f9691c5247c6"
+msgid "[설계도]드레드 울프 투스 소드"
+msgstr ""
+
+msgctxt "3e5e576591516b866ef82dd66baae00f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [드레드 울프 투스 소드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "65391950293b715176d03232c137884e"
+msgid "ID=711073410"
+msgstr ""
+
+msgctxt "27cb91be3e4b9b62b1d0ba7e5ecdef40"
+msgid "[설계도]수어사이드 퍼펫 브레이커"
+msgstr ""
+
+msgctxt "006d93aa1380d552052a0ba4193a7d44"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [수어사이드 퍼펫 "
+"브레이커]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "da4b0d1c7088974fcf5bec9ee80a7a5f"
+msgid "ID=711083510"
+msgstr ""
+
+msgctxt "4ba9a4b59ad5bb43b56af267b19e1816"
+msgid "[설계도]소드 타입 퍼펫 블래스터"
+msgstr ""
+
+msgctxt "b5eee214f17fd0b548f09a86cd8f4712"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [소드 타입 퍼펫 "
+"블래스터]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "93885e55664b7d43b43ca9bd2939c9b9"
+msgid "ID=711103410"
+msgstr ""
+
+msgctxt "68359d895d75c5a7c739e3d54153553d"
+msgid "[설계도]트윈헤드 퍼펫 슬레이어"
+msgstr ""
+
+msgctxt "4c0c246d067e78eb68e6e9cadd564f76"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [트윈헤드 퍼펫 슬레이어]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "12975ac4cb83703e4d3c67e498ead870"
+msgid "ID=711113510"
+msgstr ""
+
+msgctxt "5752b756d7251594b099c61b1a261456"
+msgid "[설계도]파나틱 디재스터 브링거"
+msgstr ""
+
+msgctxt "11e2287464b310d2a382d14c091e6bcf"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [파나틱 디재스터 브링거]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "20ec04d052a3a50594534fd4aaa5c337"
+msgid "ID=711123410"
+msgstr ""
+
+msgctxt "c1ccbaba0e4ba3406f7236dab80aefbf"
+msgid "[설계도]루나틱 제스터 트릭 소드"
+msgstr ""
+
+msgctxt "aa1daeb91f2f8edb2ec658685d8e8ce7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [루나틱 제스터 트릭 "
+"소드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "774ce0073fb0ffa1974aa979428e6b2b"
+msgid "ID=711133510"
+msgstr ""
+
+msgctxt "df10ee1939da725e6a90874af9591dd4"
+msgid "[설계도]매드니스 할리퀸 블레이드"
+msgstr ""
+
+msgctxt "687a23a57cdcd88907f130c8da9ed448"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [매드니스 할리퀸 "
+"블레이드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "246a7ff4878f1528ee815d976c3ed647"
+msgid "ID=711153410"
+msgstr ""
+
+msgctxt "602d3457246310ee87fbe6c1fcee6d15"
+msgid "[설계도]어벤던드 트래쉬 브레이커"
+msgstr ""
+
+msgctxt "78360724589fa94918e77ee59e838a5a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [어벤던드 트래쉬 "
+"브레이커]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "612ebaf82414430d24faf308902382f7"
+msgid "ID=711163510"
+msgstr ""
+
+msgctxt "4bf83691e96b51f8316d976d93dff69c"
+msgid "[설계도]골렘 디스트로잉 소드"
+msgstr ""
+
+msgctxt "2b6df2c1f176af113b83dd34fc400664"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [골렘 디스트로잉 소드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a595ae77647a6d957523c45e36f1016a"
+msgid "ID=711173410"
+msgstr ""
+
+msgctxt "f9555d6f3b700ed5a0795a356c7c7f4f"
+msgid "[설계도]테인티드 소울 블레이드"
+msgstr ""
+
+msgctxt "7d1ad43eaa5b6ca6c04a417c621d6213"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [테인티드 소울 블레이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d197f5f8ffd206198b8bb5d2c3aa64bb"
+msgid "ID=711183510"
+msgstr ""
+
+msgctxt "e0a988b146e2f883cb27976887e61f62"
+msgid "[설계도]커럽티드 나이트 소드"
+msgstr ""
+
+msgctxt "6ebbe457572063d1d88f2a28f6692c6b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [커럽티드 나이트 소드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "795e250e0a1e7b96b800f7cbff844d58"
+msgid "ID=711203410"
+msgstr ""
+
+msgctxt "b079d312c9303db229924615b3b33755"
+msgid "[설계도]퀸 스파이더 루인 소드"
+msgstr ""
+
+msgctxt "1f942df58b9f8adce0ccf948d34dd047"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [퀸 스파이더 루인 소드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "6aebbf298e179eb43efdc8284fb76eca"
+msgid "ID=711213510"
+msgstr ""
+
+msgctxt "ae559be0e8c12359da59a1b60e9112b8"
+msgid "[설계도]아라크니드 베니싱 소드"
+msgstr ""
+
+msgctxt "f1131e0dde48b06491081b9067fc8a47"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [아라크니드 베니싱 소드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a648304add49a42b97de1ef6da8d5127"
+msgid "ID=711223410"
+msgstr ""
+
+msgctxt "b19476ba52cda748f3b8bcfc2725563e"
+msgid "[설계도]헌티드 오버시어 슬레이어"
+msgstr ""
+
+msgctxt "014f43607266cda395ec7ab511cf35b3"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [헌티드 오버시어 "
+"슬레이어]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "513f08809ec2c6ae5e4c7d5ff6233561"
+msgid "ID=711233510"
+msgstr ""
+
+msgctxt "5052fc6951d84c739c67065b94a2eafc"
+msgid "[설계도]사일런트 위트니스 저지"
+msgstr ""
+
+msgctxt "3c8a0c8de76fb3514005525eb4c4f255"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사일런트 위트니스 저지]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d015d3320f192b8670f63e37bdac0c85"
+msgid "ID=711253410"
+msgstr ""
+
+msgctxt "7137c26510a3fa80a85989581ca5d477"
+msgid "[설계도]사일런트 리뎀션 소드"
+msgstr ""
+
+msgctxt "76c0a4d7980f5323e80ab9c69118e228"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사일런트 리뎀션 소드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f4923657d194a96e45f8135622874f2d"
+msgid "ID=711263510"
+msgstr ""
+
+msgctxt "6a6e5d5efd367d125cc01df8d67a8b00"
+msgid "[설계도]그리프 스카이즈 슬레이어"
+msgstr ""
+
+msgctxt "e7dfd4cefc28eeaae4b702c885b8a9d0"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그리프 스카이즈 "
+"슬레이어]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "1f7a230338bfced25362e835dc3d8191"
+msgid "ID=711273410"
+msgstr ""
+
+msgctxt "2cfadec6864f1084f8b86117de19d5e5"
+msgid "[설계도]브루탈 페인 슬레셔"
+msgstr ""
+
+msgctxt "e7a1becfdf20b3e8e7198bbafa6251e1"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [브루탈 페인 슬레셔]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f3db727dfcbe8be73e6b1c6594c87c48"
+msgid "ID=711283510"
+msgstr ""
+
+msgctxt "be822ca4f8e9d72779132b3a35b2dcc6"
+msgid "[설계도]머시리스 나이트 아울"
+msgstr ""
+
+msgctxt "e7d325101c79971978c9bd1cebb6f510"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [머시리스 나이트 아울]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a0bd8ce3d1f4443f874de5c184b1faa7"
+msgid "ID=711293410"
+msgstr ""
+
+msgctxt "ae0b3ca294d5a3a1032181ca5dd0cbbb"
+msgid "[설계도]톡식 더 러스트 소드"
+msgstr ""
+
+msgctxt "31958fa3532fcae54ba85f4f4cd193ee"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [톡식 더 러스트 소드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "92a1872dfdcdc1e1602de12082529cee"
+msgid "ID=711303510"
+msgstr ""
+
+msgctxt "8c34aa6479b9b4a2c9b26e7c340a98ca"
+msgid "[설계도]페이탈 리플렉션 파티사"
+msgstr ""
+
+msgctxt "8d56172ada0d51bbab1af3bbdf219b3c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [페이탈 리플렉션 파티사]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4d416bce20886ddce6066e9060f29830"
+msgid "ID=711313410"
+msgstr ""
+
+msgctxt "da2cda9223dda4ceab044abd25e4c703"
+msgid "[설계도]카발리어즈 오버 블레이드"
+msgstr ""
+
+msgctxt "d38328bca7d929c680b79a625be921cd"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [카발리어즈 오버 "
+"블레이드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "6793c30a64d2dc5f233f250e3fdb5f21"
+msgid "ID=711323510"
+msgstr ""
+
+msgctxt "24c12ade6995c79ee614efa28ca57130"
+msgid "[설계도]가루라 나이트 세이버"
+msgstr ""
+
+msgctxt "78d50827bc55f41c6c1f5df8dbe87d7a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [가루라 나이트 세이버]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e32c8bb6c7337ab381c3930a1fa926fc"
+msgid "ID=711343410"
+msgstr ""
+
+msgctxt "8c4830b7cbf729f3be8f9edbd3ac6599"
+msgid "[설계도]세비지드 액스 블레이드"
+msgstr ""
+
+msgctxt "a3abf353b312dc4343be5b84f3e26a42"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [세비지드 액스 블레이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "7c5b9f2a3ebf063adc8bbe62e07fd55c"
+msgid "ID=711353510"
+msgstr ""
+
+msgctxt "96abcbfd5531b85bd510d9ea4b2b7928"
+msgid "[설계도]리바이브 워리어 슬레이어"
+msgstr ""
+
+msgctxt "642b4dccad9a59ff9adef41480bc81b8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [리바이브 워리어 "
+"슬레이어]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "910355c31a00458b14704afe7612c4bc"
+msgid "ID=711373410"
+msgstr ""
+
+msgctxt "e9d03f7559fce85fee2b904a5fca3cde"
+msgid "[설계도]크림슨 섀도우 블레이드"
+msgstr ""
+
+msgctxt "ffd189c71b6ef899aa2f97a9fbfe797e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [크림슨 셰도우 블레이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4fe5fb14bc1d8825545273ea0263232e"
+msgid "ID=711383510"
+msgstr ""
+
+msgctxt "50242a24b36e6a8b5bce20571fc3da18"
+msgid "[설계도]소드 타입 베니싱 블러드"
+msgstr ""
+
+msgctxt "3c87c672b0d9c247538b712e7f976bdb"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [소드 타입 베니싱 "
+"블러드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "2d0e15e892e37462a54d13f0c834b5bc"
+msgid "ID=711393410"
+msgstr ""
+
+msgctxt "28d7c19442594604af472cfa3242ef1b"
+msgid "[설계도]크래쉬 더 헌드레드 소드"
+msgstr ""
+
+msgctxt "5d2ec83efb70b453dfae9ee129cc0b26"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [크래쉬 더 헌드레드 "
+"소드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "352cba161ff40551689796cf5f65c5a1"
+msgid "ID=711403510"
+msgstr ""
+
+msgctxt "c24cd28fb94229081f612df7e40059aa"
+msgid "[설계도]소드 오브 할로우 벤전스"
+msgstr ""
+
+msgctxt "8b7483e0eb6cba9963bea3537fd8163d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [소드 오브 할로우 "
+"벤전스]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "41f8c25ef7c8c6e97b86d0ac1705f851"
+msgid "ID=711423410"
+msgstr ""
+
+msgctxt "fa84cc571182d08b4f9563957119b83e"
+msgid "[설계도]프로토타입 시저 블레이드"
+msgstr ""
+

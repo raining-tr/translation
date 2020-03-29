@@ -1,0 +1,1565 @@
+# Shana Gartrex <ShanaGartrex@gmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-02-19 05:45-0500\n"
+"Last-Translator: Shana Gartrex <ShanaGartrex@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "8ad89f3ae6ce243c4ab3d72bd2f4f515"
+msgid "ID=100101"
+msgstr "ID=100101"
+
+msgctxt "3995f707b3a91517221e132da3131186"
+msgid "응? 왜 의대에 지원했냐고?"
+msgstr "Huh? Why did I apply to medical school?"
+
+msgctxt "5dd0e6248f92f9b0b154e477f6adad73"
+msgid "ID=100102"
+msgstr "ID=100102"
+
+msgctxt "0195163de2a7b53bb955a7937d4f917b"
+msgid "그, 그야... 사람들을 도와주고 싶으니까.... 에헤헤헤."
+msgstr "Because... I want to help people! Hehe."
+
+msgctxt "5cdf75ae8ff1eb9cca1a840ffcfb2d05"
+msgid "ID=100103"
+msgstr "ID=100103"
+
+msgctxt "3d3181a5922ae559fe4b510af5b542b3"
+msgid "엄마! 엄마! 나 붙었어요! 수석이래요!"
+msgstr "Mom! Mom! I did it! I even got top marks!"
+
+msgctxt "26af72a80f8b48da646f720ed50a2b91"
+msgid "ID=100104"
+msgstr "ID=100104"
+
+msgctxt "525fd7f6b382365f7a4590ae122021e2"
+msgid "알립니다! 전원 쉘터로 피난해주십시오!"
+msgstr "Warning! Warning! Evacuate to the shelter immediately!"
+
+msgctxt "08b9ac6672f6790587cffef775623ca4"
+msgid "ID=100105"
+msgstr "ID=100105"
+
+msgctxt "14fa49a28b23140db6a9c8f8034df4cc"
+msgid "반복합니다! 전원 쉘터로 피난해주십시오!"
+msgstr "I repeat! Evacuate to the shelter immediately!"
+
+msgctxt "7045a194364ee596109da3cc7642cddd"
+msgid "ID=100106"
+msgstr "ID=100106"
+
+msgctxt "f79441aed1b384b29b65df3b85919809"
+msgid "어, 엄마! 조금만 참아요! 내가... 금방 꺼내줄게요!"
+msgstr "Mom! Please hold on! I'll get you out of there."
+
+msgctxt "162f0adffa3f9e51b672f813f0f4b888"
+msgid "ID=100107"
+msgstr "ID=100107"
+
+msgctxt "00adfaddea3dc6edcbb22175cf83ab11"
+msgid "구해줄테니까...! 윽... 으흑...! 으아아아!"
+msgstr "I'll save you, mom... no! Please! NOOOO!!!"
+
+msgctxt "a9c4080e86e47fbd98b1148d62a0f398"
+msgid "ID=100201"
+msgstr "ID=100201"
+
+msgctxt "4c52fa34a579b1e4be622e7dedd5b3ff"
+msgid "고등학생 신분으로는 이례적으로 올해의 게임상을 수상하셨는데요, 소감이 어떠십니까?"
+msgstr ""
+"As a high school student, you won the Game of the Year award unusually. How "
+"do you feel?"
+
+msgctxt "d7c60e1f6d49799d7400abd04b80b31e"
+msgid "ID=100202"
+msgstr "ID=100202"
+
+msgctxt "6b70016f1b42e6c2c3f4e62808127427"
+msgid "적당히 대충 만들었는데 1등해 버렸네요, 다들 좀 분발하셔야죠?"
+msgstr "That must of happened when I wasn't paying attention."
+
+msgctxt "385c3e39a6d13db833bf802c3d4024dc"
+msgid "ID=100203"
+msgstr "ID=100203"
+
+msgctxt "e20569c005a63db38d5e53b751a135c6"
+msgid "천재 고등학생이 만든 게임이 20주 연속 1위 자리를 내어주지 않고 있습니다."
+msgstr ""
+"A game created by a regular high school student has been ranked #1 for 20 "
+"consecutive weeks!"
+
+msgctxt "437595fe422efcc5be7401b48c91b28e"
+msgid "ID=100204"
+msgstr "ID=100204"
+
+msgctxt "071b0e8a846470dcd58370d853827826"
+msgid "이에따라 세상에서 가장 영향력있는 100인에 선정되기도 했는데요, 정작 본인은 모든 인터뷰를 거부하고 있습니다."
+msgstr ""
+"With him being one of the 100 most influential people on the planet, he had "
+"refused every interview until this very day."
+
+msgctxt "c216801674329f610df1f328a45c8f47"
+msgid "ID=100205"
+msgstr "ID=100205"
+
+msgctxt "a82ba474f51b57f08f4c83137d715d88"
+msgid "아... 세상 진짜 시시하고 재미없네."
+msgstr "Oh man. Oh god, this world is such a bore."
+
+msgctxt "8614c8dfce3cb4b67fdfe0ae445fb2d8"
+msgid "ID=100206"
+msgstr "ID=100206"
+
+msgctxt "50ac6fbaab4859dd4e4730b838073692"
+msgid "대부분의 주요 도시들이 공백에 의해 파괴되었고, 사망자 및 실종자의 수만 해도 벌써 천문학적인 수치를 기록...."
+msgstr ""
+"Most major cities have been destroyed by The Great Void, along with millions "
+"of people either killed or missing."
+
+msgctxt "97bc543582070e118a188d483f65ed60"
+msgid "ID=100207"
+msgstr "ID=100207"
+
+msgctxt "bbc459cbdf30aea87624a79e089f908a"
+msgid "공백이라... 공백.... 살벌하구만? 구경이나 한 번 가볼까?"
+msgstr ""
+"Great Void? That is something new. I should take a closer look at that."
+
+msgctxt "6b27bc3c936ef58d0f559e1edc697d43"
+msgid "ID=100208"
+msgstr "ID=100208"
+
+msgctxt "44a0822e1661c12ab84d91cf4ad46fe7"
+msgid "굉장해… 굉장하다고! 뭐야 넌? 너 정체가 뭐냐고!"
+msgstr "How dreadfully... amazing. What are you? Tell me!"
+
+msgctxt "ec7790cc3afd044d7f117b4446b06e1e"
+msgid "ID=100209"
+msgstr "ID=100209"
+
+msgctxt "b31169908f56da5898b3e703fed25133"
+msgid "안 가르쳐줄건가?"
+msgstr "Out with it already!"
+
+msgctxt "a2c4efe7c70d34314f4e750765f20d86"
+msgid "ID=100210"
+msgstr "ID=100210"
+
+msgctxt "76fd6b1b4b5dc605317c0a1b5da902b7"
+msgid "좋아! 그럼 날 집어삼켜봐! 직접 알아봐주지!"
+msgstr "Fine then, swallow me up! I'll find out for myself!"
+
+msgctxt "06adce333dc975edd2df681ab96bb9ab"
+msgid "ID=100301"
+msgstr "ID=100301"
+
+msgctxt "e84d3a9b91c68c6205e48ea0a3e02c71"
+msgid "이 근방에서 나타난 그거 말인가요?"
+msgstr "You mean that thing which appeared around here?"
+
+msgctxt "9413af11a15a90d9f4ad80ae7ee56faf"
+msgid "ID=100302"
+msgstr "ID=100302"
+
+msgctxt "73599ab1af29d401d77a5da265248c7a"
+msgid "글쎄요, 아직은 어떤건지 잘 모르겠어요."
+msgstr "I'm not sure what that is exactly."
+
+msgctxt "7a56e8912737dda310231cf0d4f7d6d0"
+msgid "ID=100303"
+msgstr "ID=100303"
+
+msgctxt "a27b933ad7369aef785b5d2c7bf957a1"
+msgid "그보다 오라버니, 제가 오늘 낮에 뭘 사러 갔었는데…"
+msgstr ""
+"Anyways, I have something else to tell you! I went shopping today and..."
+
+msgctxt "ab4a66a782c858441961043fed55c1f8"
+msgid "ID=100304"
+msgstr "ID=100304"
+
+msgctxt "9045bd0d2ecbbcd33dcea9e0bad2cccc"
+msgid "오라버니… 무슨 일인가요?"
+msgstr "Brother...? What's going on?"
+
+msgctxt "32b7fb6a435b74ed8779b7de8d65b3b9"
+msgid "ID=100305"
+msgstr "ID=100305"
+
+msgctxt "92d1ced09d7540ffd362d5292afe0ee9"
+msgid "한밤 중에 왜 이렇게 소란스럽게…"
+msgstr "Why is it so loud in the middle of the night?"
+
+msgctxt "58a701675771322a9bdb7e910cc3ca41"
+msgid "ID=100306"
+msgstr "ID=100306"
+
+msgctxt "1cd76c0af4abab06281338f369a5cd3f"
+msgid "아… 아… 오, 오라버니… 아… 아아!"
+msgstr "Huh?! No... Ah... Aaaaaah!"
+
+msgctxt "4ffedc96931411b35ab9beac8d47bd9f"
+msgid "ID=100307"
+msgstr "ID=100307"
+
+msgctxt "f788aefc66d17dc901366d62233d3151"
+msgid "뭐야! 뭐야 너 뭐냐고!"
+msgstr "What... what are you?!"
+
+msgctxt "e3cfed15a36d8eb94bea0803d2896146"
+msgid "ID=100308"
+msgstr "ID=100308"
+
+msgctxt "2ae153b8a85ed91c8f4e7bed4aa99500"
+msgid "뱉어내! 오라버니를 뱉어내! 아아…"
+msgstr "Spit him out! Give me back my brother! "
+
+msgctxt "7f298c911516096e00531b6c4f235c53"
+msgid "ID=100309"
+msgstr "ID=100309"
+
+msgctxt "701f006f637ae58ca273a893edd1d8bf"
+msgid "아... 아아아... 아아아아아...!!"
+msgstr "Ah... aaah... aaaaaaah...!!"
+
+msgctxt "2aa2e52035061e60966c4c8bdcd541aa"
+msgid "ID=100310"
+msgstr "ID=100310"
+
+msgctxt "1116d9730f6ce6d8d21acbba26ff7162"
+msgid "하... 하하... 아하하하하하!! 하하하하!!"
+msgstr "Ha ha ha ha ha ha ha ha ha! Ha ha ha ha ha!"
+
+msgctxt "414005d7d8eb452a6360c19e9014f6ec"
+msgid "ID=100401"
+msgstr "ID=100401"
+
+msgctxt "ee7960bb6aa8f86f0528458741641d11"
+msgid "정체불명의 자연재해, 이른바 공백이 발생한지 3개월이 지났습니다."
+msgstr ""
+"Three months have passed since an unidentified natural disaster occurred."
+
+msgctxt "904aaf96c16d4d25315acc15a98f63eb"
+msgid "ID=100402"
+msgstr "ID=100402"
+
+msgctxt "cb494431bc4597c9665613abcc9a6893"
+msgid "ID=100403"
+msgstr "ID=100403"
+
+msgctxt "214564454a68cc7147602756cd9580a2"
+msgid "정말 저기로 가면 우리 모두 괜찮은 거지?"
+msgstr "Are we all really safe here?"
+
+msgctxt "932d4c81d68a5297218ad92d1ca809f0"
+msgid "ID=100404"
+msgstr "ID=100404"
+
+msgctxt "f09566ea35ff2daa002574da19fd4c46"
+msgid "네, 저긴 안전한 지역입니다. 제가 보증 하겠습니다!"
+msgstr "Yes, it's a safe zone around here. I will guarantee it!"
+
+msgctxt "30d1a7709071f2e22f4cc6e17f4b6e0a"
+msgid "ID=100405"
+msgstr "ID=100405"
+
+msgctxt "299d866d1dcc8f94f1631176b689092a"
+msgid "응…. 알겠어. 네가 말하는 거니까 괜찮은 거겠지 뭐."
+msgstr "Huh... Okay. I will trust you."
+
+msgctxt "6144f31431e59d3a6cc827c1789432d5"
+msgid "ID=100406"
+msgstr "ID=100406"
+
+msgctxt "66f418a05a2f333a4270cd0fec23bbcf"
+msgid "예! 이래뵈도 구조 경력 2개월에 빛나는 에이스입니다! 하하하!"
+msgstr ""
+"Yes! I've been a member of the rescue team for 2 months and have nothing but "
+"accolades to my name! Hahaha!"
+
+msgctxt "2250130310a40299d89fce957fa53af4"
+msgid "ID=100407"
+msgstr "ID=100407"
+
+msgctxt "562fce975b4d837543d71a457153eb64"
+msgid "공백! 공백이다! 대… 대피소에 공백이 나타났어!"
+msgstr "The Great Void! The Great Void! It has appeared... in our safe house!"
+
+msgctxt "5e8df51c0c1b03abab845fbce6e11df5"
+msgid "ID=100408"
+msgstr "ID=100408"
+
+msgctxt "93c547ae4fd9771853e65131b90046e5"
+msgid "형, 형아 저긴 괜찮을 거라고 했잖아! 근데… 왜?"
+msgstr "You said we'd be safe here! Wh-wh-why...?"
+
+msgctxt "6f9f3c76bb8bf64f377c57bf9d81ffcc"
+msgid "ID=100409"
+msgstr "ID=100409"
+
+msgctxt "7bb5c5ff02ebaedd26bfb45efbd73b0a"
+msgid "내가… 내가 모두를…! 나 때문이야…!"
+msgstr "It's all... because of me... It's all my fault!"
+
+msgctxt "8b7a1c2d938bf68c509f950f60d5e4b8"
+msgid "ID=100410"
+msgstr "ID=100410"
+
+msgctxt "8dc3410b34735fb6022338522e66b988"
+msgid "내가 구해야 돼…! 내가… 내가!!"
+msgstr "I... I... I have to save them! I have to!"
+
+msgctxt "4862b0a98dbeb5ae8275fcca100eeb4c"
+msgid "ID=100411"
+msgstr "ID=100411"
+
+msgctxt "04205e453e5a1ec86eb24e6571f8167b"
+msgid "가지마! 다른 사람들을 구하기 전에 너부터 죽을 거야!"
+msgstr "Don't do it! You'll die!"
+
+msgctxt "f740dd8e54d04a0bc08c844b65bde2c9"
+msgid "ID=100412"
+msgstr "ID=100412"
+
+msgctxt "b08fdae6a99390c68ec5165cd2dc1051"
+msgid "으아아아아아!!"
+msgstr "Ahhhhhh!!"
+
+msgctxt "e955bc275a4d55a4b47985124c2f2ae4"
+msgid "ID=100501"
+msgstr "ID=100501"
+
+msgctxt "b95de733f4e6752b50e8e0dfec9fbcbd"
+msgid "어째서 우리 마을에 온거야."
+msgstr "Why did you come to this town?!"
+
+msgctxt "4697a3358cf70105105c8055a7f08d52"
+msgid "ID=100502"
+msgstr "ID=100502"
+
+msgctxt "f4e7cc91c5263981f91dacd3b4abbaf1"
+msgid "너 때문에 모두 죽었어, 모두 저주 받았다고!"
+msgstr "They all died because of you, all because of your curse!"
+
+msgctxt "a0a14d0ee0b6fd3b56fb3685971f4ed5"
+msgid "ID=100503"
+msgstr "ID=100503"
+
+msgctxt "bfb5e27300cf9914bd307a793de69609"
+msgid "아, 아니에요, 내 잘못이 아니에요."
+msgstr "Oh no, it's not my fault."
+
+msgctxt "a29433b0b0e0c55822279f3309ff5395"
+msgid "ID=100504"
+msgstr "ID=100504"
+
+msgctxt "bee819b2d52da96d00c565f1108acb14"
+msgid "왜, 나한테만 이러는 거예요."
+msgstr "Why are you doing this to us?"
+
+msgctxt "6a555b659255094fddc4efdd63671403"
+msgid "ID=100505"
+msgstr "ID=100505"
+
+msgctxt "31065931add6bfd6337f52d747729930"
+msgid "전부 내 탓인거야? 나는 이 세상에 있으면 안되는거야?"
+msgstr "Is it all my fault? Should I not be in this world?"
+
+msgctxt "8b39f35a4f82c826e8a4deb5da7da640"
+msgid "ID=100506"
+msgstr "ID=100506"
+
+msgctxt "e763044a2694c6c6f2644eca51ae4395"
+msgid "모두 미안, 또 혼자가 돼 버렸어."
+msgstr "I'm sorry, I'm alone again."
+
+msgctxt "b6cff1da3c402b280a4e8345b061d906"
+msgid "ID=100507"
+msgstr "ID=100507"
+
+msgctxt "c64156f69e899e5130979638c4e9845d"
+msgid "저기 영감님, 저 곳이라면 우리들만 있을 수 있을까?"
+msgstr "Old man, can there be only the two of us here?"
+
+msgctxt "fab664afef3cdd7b9bdf1459610581a3"
+msgid "ID=100508"
+msgstr "ID=100508"
+
+msgctxt "88233ad8c8147c5a84f90663b14cafcb"
+msgid "이런 나도, 미움받지 않고 살 수 있는걸까?"
+msgstr "Can I live without hated?"
+
+msgctxt "70755c2e9747b2491062921ae0694cfa"
+msgid "ID=100509"
+msgstr "ID=100509"
+
+msgctxt "16c1d8af6c39ba7c810dbf3eb8979ee5"
+msgid "더 이상, 슬프고 싶지 않아."
+msgstr "I don't want to be sad anymore."
+
+msgctxt "65be16150dfd4a9918a32e50d5786443"
+msgid "ID=100601"
+msgstr "ID=100601"
+
+msgctxt "26c29eb1c00890ffc4430c27eac5d340"
+msgid "이리스, 또 밖에서 놀고 싶다면 언니들처럼 얌전히 있는게 좋을거야"
+msgstr "Iris! You better behave if you want to play outside."
+
+msgctxt "d37b5acc5f328e71a563f40f81c2bfb3"
+msgid "ID=100602"
+msgstr "ID=100602"
+
+msgctxt "afe83a7dbe042f5f272119e0889b3ce0"
+msgid "그치만 지금 친구들이 기다리고 있는걸…"
+msgstr "But my friends are waiting for me..."
+
+msgctxt "91c4cd77ea185a5c48ba884aba9c2d95"
+msgid "ID=100603"
+msgstr "ID=100603"
+
+msgctxt "7b18b898cc2c73283361bfacbd7b8d53"
+msgid "한번 더 까불면 그땐 정말 죽여버린다?"
+msgstr "I am about to lose my cool."
+
+msgctxt "f3fda2de404f6fa1cc37f3b491ad88df"
+msgid "ID=100604"
+msgstr "ID=100604"
+
+msgctxt "429cf6e20b2c68c17fa31fe90983e4b4"
+msgid "어어, 알겠어 알겠다니까."
+msgstr "Alright, alright!"
+
+msgctxt "6451b1ed921cb571af1b05ed42de9fb4"
+msgid "ID=100605"
+msgstr "ID=100605"
+
+msgctxt "cb5ae4f2f3fec085d93345a877276ce1"
+msgid "그런 못돼먹은 짓거리는 어디서 배운거니!"
+msgstr "Where did you learn that nasty stuff?"
+
+msgctxt "e857500396f784f186aa60a99e966684"
+msgid "ID=100606"
+msgstr "ID=100606"
+
+msgctxt "e15ac43d7ce713439c6b50b6b44d300b"
+msgid "그놈이 내 친구 마리를 괴롭혔다고요!"
+msgstr "But he was messing with my friend, Marie!"
+
+msgctxt "1231f8f6793c5f0a30d5e30f91094a89"
+msgid "ID=100607"
+msgstr "ID=100607"
+
+msgctxt "7d9a1e9d7bf8af1f070661397376d041"
+msgid "다른 언니들처럼 조신하게 구는건 바라지도 않는다."
+msgstr "Why can't you be more like your sisters already?!"
+
+msgctxt "abddf094fb216a0066f8153074ff1563"
+msgid "ID=100608"
+msgstr "ID=100608"
+
+msgctxt "6609e0261de9ada413fc07fb2975cb68"
+msgid "유마 가문에 먹칠하는 태도는 좀 어떻게 하면 안되겠니?"
+msgstr "Why must you go on dragging the Yuma name through the mud?"
+
+msgctxt "6835c4f03b8243e7fe9ddd9e9cc329e1"
+msgid "ID=100609"
+msgstr "ID=100609"
+
+msgctxt "aebd4e4665c12fcc6cc78fff7c811e7c"
+msgid "하지만 그렇게 할 수도, 하고싶지도 않은걸"
+msgstr "But... I don't want to be like them!"
+
+msgctxt "7eb5b55db262c1f817b753a6d6665e85"
+msgid "ID=100610"
+msgstr "ID=100610"
+
+msgctxt "7ba78a36aa0d4537c8b2efd7126720d8"
+msgid "가족 따위 필요없어. 전부 사라져 버렸으면 좋겠어!"
+msgstr "I don't need a family. I want you all to just disappear!"
+
+msgctxt "05877c15a49ceb045d672a2fab72b5ca"
+msgid "ID=100611"
+msgstr "ID=100611"
+
+msgctxt "cdaf1363cf30709c96eb676bd91aefa6"
+msgid "ID=100612"
+msgstr "ID=100612"
+
+msgctxt "6c1c591cc5c5783882f26302c6572025"
+msgid "ID=100613"
+msgstr "ID=100613"
+
+msgctxt "21f206e3f658a88d720d40640ec9ca8b"
+msgid "뭐, 뭐야 저건…"
+msgstr "Wh- What's that?"
+
+msgctxt "fc1d6cbb7bfafa2672c814235fcbbb23"
+msgid "ID=100614"
+msgstr "ID=100614"
+
+msgctxt "c1d95b2d645148834ee105d1aedea966"
+msgid "아… 아니야, 어머니! 아버지! 언니!"
+msgstr "Noooooo! Mommy! Daddy! Sisters!"
+
+msgctxt "0ad62b370c77ba119fe8eed2190358df"
+msgid "ID=100615"
+msgstr "ID=100615"
+
+msgctxt "7609fc81912aa167c82d1ea644015426"
+msgid "으아아아!"
+msgstr "Ahh!"
+
+msgctxt "b54132e3c4a92177c175c582de3ee285"
+msgid "ID=100616"
+msgstr "ID=100616"
+
+msgctxt "e20fe8d725a959bf41db08eff78d7c32"
+msgid "내가 무었때문에 지금까지 참아왔는데!"
+msgstr "I didn't really mean it!"
+
+msgctxt "7f21008dd6ee901cd9e884e0fa8be7de"
+msgid "ID=100617"
+msgstr "ID=100617"
+
+msgctxt "33fe5c7c2410a2863df074340ba2fcce"
+msgid "이렇게 사라져버리는게 어딨어, 어딨냐고!"
+msgstr "Why did you make them all disappear?!"
+
+msgctxt "871316acd9108d70816f516e365bd0b1"
+msgid "ID=100618"
+msgstr "ID=100618"
+
+msgctxt "eb1f2a9e68d6c6ece0f572ddae4f4c5e"
+msgid "이 빌어먹을 자식아-!!"
+msgstr "You evil bastard!!"
+
+msgctxt "3d90f9ff4e7090c0e94f863b0fac17d1"
+msgid "ID=101001"
+msgstr "ID=101001"
+
+msgctxt "e9027a1d95194dc6e46dfd96c2c44750"
+msgid "그대가 눈뜨게 될 세계는, 이전과는 다른 세계."
+msgstr ""
+"The world you will open your eyes to is different from the one before."
+
+msgctxt "227fd5091ed8ecdde900a2cb608a42fa"
+msgid "ID=101002"
+msgstr "ID=101002"
+
+msgctxt "2751b63548085c1252db5b34910d0130"
+msgid "그대가 알고 있던 평범했던 삶과 일상은 이제 존재하지 않습니다."
+msgstr "The ordinary life and daily life you knew no longer exists."
+
+msgctxt "a2e05e60320ee295d2b8f9532d89f5cf"
+msgid "ID=101003"
+msgstr "ID=101003"
+
+msgctxt "70540ea5f0bde74f4d9d0200f8169d6b"
+msgid "어긋난 세계를 되돌릴 힘을 가진 심판자여."
+msgstr "You now have the power to change this world."
+
+msgctxt "c9da71ad18af401cf313763cfb787423"
+msgid "ID=101004"
+msgstr "ID=101004"
+
+msgctxt "bb990a0224945a7617131f772b3c6fd7"
+msgid "재액의 원흉이된, 순리를 거스른 이계의 존재들에게 심판을!"
+msgstr "Bring judgment to all those who threaten this world!"
+
+msgctxt "9d058d748f144aa6bbc1964aae91da4a"
+msgid "ID=201001"
+msgstr "ID=201001"
+
+msgctxt "1c13b39995a8f7035f064bc9d23489bc"
+msgid "서둘러주세요! 각성체가 쫓아옵니다!"
+msgstr "Hurry, please! We are being pursued by a Malevil."
+
+msgctxt "77f8886722ecd7496bb05b43b1eb2867"
+msgid "ID=201101"
+msgstr "ID=201101"
+
+msgctxt "5753e6b8084c1361ed534c9860c013b7"
+msgid "넌 나이며, 나는 너…."
+msgstr "You are me, I am you…"
+
+msgctxt "413587568be5945d90987de8f2566e7e"
+msgid "ID=201102"
+msgstr "ID=201102"
+
+msgctxt "7e946db621a29a4fee87ec977fdb3d6f"
+msgid "난 거룩한 맹세를 증명하는 존재로서… 너를 지킬거야."
+msgstr "I have sworn and oath to protect you."
+
+msgctxt "dcedfdb2001362ac1cb7fc5d7f5037bc"
+msgid "ID=201103"
+msgstr "ID=201103"
+
+msgctxt "16d6c82dec30dea9c933e266d4d5e2dd"
+msgid "잊지마. 난 너이며, 나는 너라는 것을."
+msgstr "Remember this. You are me and I am you."
+
+msgctxt "8fb80438a642147c438344300f6b768d"
+msgid "ID=201104"
+msgstr "ID=201104"
+
+msgctxt "c31805a803f027c1a73030ba2fa28b2a"
+msgid "그러니… 약속해줘. 나를 꼭 찾겠다고."
+msgstr "Promise me one thing. Promise that you will find me."
+
+msgctxt "a34d3e0cf99a950c4da78e7560754889"
+msgid "ID=201201"
+msgstr "ID=201201"
+
+msgctxt "cb40aed28966fca0bf9ad2d924dbf1f5"
+msgid "우린 하나이자 둘. 둘이자 하나."
+msgstr ""
+
+msgctxt "d085db9206880e4283503f1b20bf65fb"
+msgid "ID=201202"
+msgstr "ID=201202"
+
+msgctxt "4d06c32723ee6b8131adafe0e2f610c1"
+msgid "난 거룩한 맹세를 증명하는 존재로서… 형을 지켜줄게."
+msgstr ""
+
+msgctxt "e7c51f30e8ec17f6f711918ecc19c88e"
+msgid "ID=201203"
+msgstr "ID=201203"
+
+msgctxt "9a67ccb78ff191b9427403fa1b11de8e"
+msgid "잊지마. 나와 형은 일심동체라걸."
+msgstr ""
+
+msgctxt "83022eb474f205813ab92d18d9942a79"
+msgid "ID=201204"
+msgstr "ID=201204"
+
+msgctxt "5bc6f5142ddc83c82ff330dd297c30bc"
+msgid "그러니… 조금이라도 빨리 날 찾아줘. 약속이야."
+msgstr ""
+
+msgctxt "e4f52964ac50eafa89a031c20e4e552e"
+msgid "ID=201301"
+msgstr "ID=201301"
+
+msgctxt "eb35a0ce11eb3564d7a0c5b25498d6d6"
+msgid "너와 나는 하나. 공존할 수 밖에 없는 관계."
+msgstr ""
+
+msgctxt "d5ee45274d4051593cdde17903f802e0"
+msgid "ID=201302"
+msgstr "ID=201302"
+
+msgctxt "a32abd996e09e694f4031f59f014c050"
+msgid "거룩한 맹세를 증명하는 난, 널 지킬 수 밖에 없어."
+msgstr ""
+
+msgctxt "a2f0a3d92c60861b153d29d667707cb4"
+msgid "ID=201303"
+msgstr "ID=201303"
+
+msgctxt "cba21ad6fb273e23b41328f6dd03fc42"
+msgid "잊지마. 너와 나는 하나라는 걸."
+msgstr ""
+
+msgctxt "b677e7418c047be93eee116214f426de"
+msgid "ID=201304"
+msgstr "ID=201304"
+
+msgctxt "1d1920a05dd26de213e09d7cec52b8aa"
+msgid "그러니 날 빨리 찾아. 늦으면 용서하지 않을거야."
+msgstr ""
+
+msgctxt "2cc1e8528d9297e109f2d9383502504a"
+msgid "ID=201401"
+msgstr "ID=201401"
+
+msgctxt "7fe350b5b2eb986f8b77c3cb60159d04"
+msgid "너는 나. 나는 너. 우리는 하나로서 존재하는 자."
+msgstr ""
+
+msgctxt "99b47bf0c47d76cc8433fd0c9bc4340e"
+msgid "ID=201402"
+msgstr "ID=201402"
+
+msgctxt "72d87fb3f1d0d4554f93cbc387cafab1"
+msgid "난 거룩한 맹세를 증명하는 존재로서 널 지켜줄 거야."
+msgstr ""
+
+msgctxt "651efe280b0296fed4c0172872d16542"
+msgid "ID=201403"
+msgstr "ID=201403"
+
+msgctxt "0637e5f67d4bfe58f2b7a886936b8f9e"
+msgid "잊지 마. 나와 너는 함께해야만 해."
+msgstr ""
+
+msgctxt "7dd413780c9bb41fe2f09d6e1114dfa6"
+msgid "ID=201404"
+msgstr "ID=201404"
+
+msgctxt "443b6fe497a89ac95f36e2306a5daa77"
+msgid "그러니 잊지 말고 나를 찾아줘. 알겠지?"
+msgstr ""
+
+msgctxt "b238294dd57cc618ea5b421e7c16fb24"
+msgid "ID=201501"
+msgstr "ID=201501"
+
+msgctxt "a5242b028fdff3878f08613cd5f017c8"
+msgid "우리는 하나에서 태어나 둘이 되었지만, 하나로서 존재하는 자."
+msgstr ""
+
+msgctxt "2251b2f5fb9bed278dca26d147a53ee7"
+msgid "ID=201502"
+msgstr "ID=201502"
+
+msgctxt "5afac0d554122cd4648c7dc148d1a167"
+msgid "나는 거룩한 맹세를 증명하는 자로서, 당신을 지켜드리겠습니다."
+msgstr ""
+
+msgctxt "13fc1f693c721244f6c8401fc5c1672b"
+msgid "ID=201503"
+msgstr ""
+
+msgctxt "29ebfe67e85217477bf22b87dec9dee2"
+msgid "부디 잊지마세요. 우리는 하나라는 것을."
+msgstr ""
+
+msgctxt "2588d058164bc0484fa988caed970984"
+msgid "ID=201504"
+msgstr ""
+
+msgctxt "dd7f91e520ee941039e9ae1a24fe4a08"
+msgid "그러니 약속해요. 반드시 저를 찾아주세요."
+msgstr ""
+
+msgctxt "9b00319582162edfb523cd27e8f2daa5"
+msgid "ID=201601"
+msgstr ""
+
+msgctxt "eabda20405ab36d311fe50a835c6dc18"
+msgid "당신과 저는 본래 하나였던 존재."
+msgstr ""
+
+msgctxt "f6de6dfb184dc1b3967f97f05a7bccf3"
+msgid "ID=201602"
+msgstr ""
+
+msgctxt "aa24ae7467e43fb6380fc93f227008f1"
+msgid "저는 거룩한 맹세의 증명을 위해, 당신을 지킬거에요."
+msgstr ""
+
+msgctxt "7297a85f3edd17ff67885d3b81c091f5"
+msgid "ID=201603"
+msgstr ""
+
+msgctxt "87f8987f25e5718e436933fe1e521955"
+msgid "잊지 말아줘요. 당신과 나는 하나였다는 것을."
+msgstr ""
+
+msgctxt "f1d91f17a88a6b60790a6e56148c0034"
+msgid "ID=201604"
+msgstr ""
+
+msgctxt "88c767f4d3764b8687c335192c02ab2f"
+msgid "그러니 부탁할게요. 절… 반드시 다시 찾아줘요."
+msgstr ""
+
+msgctxt "c17b7ec28e3f9b1484f94c96c0d7dda2"
+msgid "ID=201002"
+msgstr ""
+
+msgctxt "abf3e5ad55dfe569f7f3359abaf45717"
+msgid "이게 대체 무슨….!!"
+msgstr ""
+
+msgctxt "4c4814edb9f10342cfb90b267c54b450"
+msgid "ID=201003"
+msgstr ""
+
+msgctxt "500840b65f2f48ac442396b796fe666f"
+msgid "정신차려, 여기서 쓰러지면 안돼!"
+msgstr ""
+
+msgctxt "2cad557ab9dd97e60619714ebb0c9012"
+msgid "ID=202001"
+msgstr ""
+
+msgctxt "d3fa50da93f278b2f50b34822a572a9f"
+msgid "무슨 짓을 하고있는 겁니까."
+msgstr ""
+
+msgctxt "4b07de271a5f2cbbafe9f02c25a247aa"
+msgid "ID=202002"
+msgstr ""
+
+msgctxt "c5a3637a42d37d33b194fb41ea448b4d"
+msgid "에, 에드가님 와주셨군요!"
+msgstr ""
+
+msgctxt "f760b73da0c284a2a775752d8b71ea3f"
+msgid "ID=202003"
+msgstr ""
+
+msgctxt "36f7ff48ad316638b451ab284492ad26"
+msgid "이 세상을 인형으로 가득 채워, 당신을 이 세계의 왕으로!"
+msgstr ""
+
+msgctxt "3006c7efceecf72980f23f49a542d99d"
+msgid "ID=202004"
+msgstr ""
+
+msgctxt "b7eb50fb8a7c666f8870446e3d1e3aab"
+msgid "필요 없습니다."
+msgstr ""
+
+msgctxt "74b70b5ffe2e362f0ccec6f5657eeb9b"
+msgid "ID=202005"
+msgstr ""
+
+msgctxt "ed38c7e1957dbb4bb4adb9583225a0f7"
+msgid "예에?"
+msgstr ""
+
+msgctxt "1fde8149aca2b4a09baf1b9e86820a62"
+msgid "ID=202006"
+msgstr ""
+
+msgctxt "8adefbd4564480a53f02d3f5dd9bdac1"
+msgid "왕 같은건 관심 없습니다."
+msgstr ""
+
+msgctxt "5cad6b97816c8c7b21fe71d214f17613"
+msgid "ID=202007"
+msgstr ""
+
+msgctxt "69b86cc346731a0ffa2849f44164514c"
+msgid "저는 그저 그녀의 얼굴에 웃음을 띄게하는 것으로 만족하는 광대일 뿐입니다."
+msgstr ""
+
+msgctxt "a2d990c172d6bf41e5b21d96bba5b54c"
+msgid "ID=202008"
+msgstr ""
+
+msgctxt "43cda81b5172fa05a2c7a44ddff3bead"
+msgid "에드가님… 무슨 소리를 하시는 겁니까?"
+msgstr ""
+
+msgctxt "def7d285fa5828a2fe44b4328b533a5a"
+msgid "ID=202009"
+msgstr ""
+
+msgctxt "219099bf82b86186365a9943797d6f50"
+msgid "아무래도 당신에게 자아를 준건 실수였던 모양이군요."
+msgstr ""
+
+msgctxt "338f75dfe8cfc97ccd65585bd298df32"
+msgid "ID=202010"
+msgstr ""
+
+msgctxt "24cee0465baf8d0ffbf98c596779ce5c"
+msgid "그리고 당신의 방식은 너무 추합니다. 불량품은 폐기해야 마땅하겠죠."
+msgstr ""
+
+msgctxt "62ab972d9074bc8e47235eaa82663964"
+msgid "ID=202011"
+msgstr ""
+
+msgctxt "6a213b97db6eec5c431e80cdb5c422a7"
+msgid "에드가님… 에, 에드가님!!!"
+msgstr ""
+
+msgctxt "3c714363b1a541789af7690ad8dd1459"
+msgid "ID=203101"
+msgstr ""
+
+msgctxt "bdbdbc3ce9f126a3cdc5fe6ca5e5c756"
+msgid "저 애를 구하고 싶어?"
+msgstr ""
+
+msgctxt "cff2bfc64eb1b5c3fb563519b2ca253d"
+msgid "ID=203102"
+msgstr ""
+
+msgctxt "cf1a3334637e547c04893f22131c4789"
+msgid "하지만… 지금 그녀에게 허락된 것은, 오직 안식 뿐이야."
+msgstr ""
+
+msgctxt "af4781d911aedff989f13a4fa3ef7c9e"
+msgid "ID=203103"
+msgstr ""
+
+msgctxt "e095ecf3d4aa577e5a35900064271a5a"
+msgid "네가 나와 영원히 함께 하겠노라 맹세하면… 내가 너에게 힘을 줄게."
+msgstr ""
+
+msgctxt "e08e21dc6bab0a5c6e0a1edbad010713"
+msgid "ID=203104"
+msgstr ""
+
+msgctxt "8670368849340e0645f0d67e199f9ca4"
+msgid "안식을 안겨줄 힘을."
+msgstr ""
+
+msgctxt "d10ae31f4265d25e996ab9076ed77a5c"
+msgid "ID=203105"
+msgstr ""
+
+msgctxt "2b003e601afe2094fd68b9945f729952"
+msgid "맹세할게! 힘을 줘…"
+msgstr ""
+
+msgctxt "b869a579fc37d698b4762646c30cc7ab"
+msgid "ID=203106"
+msgstr ""
+
+msgctxt "efaa70e489a34cd6a228df29f69fb694"
+msgid "이런 건... 더 이상은 싫어…!"
+msgstr ""
+
+msgctxt "74b4fb35df0e56e42e1da404c7e16396"
+msgid "ID=203107"
+msgstr ""
+
+msgctxt "ea9e3597694e4e3f530d1de8f71f7472"
+msgid "맹세는… 지금 이곳에서 이루어졌어."
+msgstr ""
+
+msgctxt "ef962b279999aea9ab7779002cb48e6f"
+msgid "ID=203108"
+msgstr ""
+
+msgctxt "853c6dfa76e7ca36db2794cad7350e8f"
+msgid "아아아아아!!"
+msgstr ""
+
+msgctxt "252ee790cc4ac9fb3541a6439012db56"
+msgid "ID=203201"
+msgstr ""
+
+msgctxt "c4f95a8e1e205804ff78941ab7a03e85"
+msgid "이봐 형. 곤란해 보이는 것 같은데, 좀 도와줄까?"
+msgstr ""
+
+msgctxt "32cdff96fff2bf18db5f19e94d63de3b"
+msgid "ID=203202"
+msgstr ""
+
+msgctxt "1b306f12337ecaf31d76b855c7c4bcbc"
+msgid "내가 좋은 걸 하나 들고왔어. 저 아이한테 안식을 줄 힘이야."
+msgstr ""
+
+msgctxt "d1610fcdf6155b6d8a1b130cf3e5b382"
+msgid "ID=203203"
+msgstr ""
+
+msgctxt "3b9c1ed1844e40bf5df7cd9f83b57a2f"
+msgid "그런데 모든 일이 그렇듯 공짜는 아니고."
+msgstr ""
+
+msgctxt "7f9af0728459bb72e679e72d2ec662b7"
+msgid "ID=203204"
+msgstr ""
+
+msgctxt "94bc4a31b97d670c4a6aee8e6953e8f0"
+msgid "형이 나랑 함께 하겠다고 맹세하면 힘을 줄게."
+msgstr ""
+
+msgctxt "fd46c40d519e3b88b8c7982ea5e00b01"
+msgid "ID=203205"
+msgstr ""
+
+msgctxt "4b8ffb630f7fe62fb83b312805e02919"
+msgid "끝장나게 굉장한 힘을."
+msgstr ""
+
+msgctxt "50d0e6acf7647916ef2f589500620620"
+msgid "ID=203206"
+msgstr ""
+
+msgctxt "48576ef088f0338a0ce145668d915cfe"
+msgid "어때? 생각있어?"
+msgstr ""
+
+msgctxt "49c70ecaf27d52e380f4fea5067b47ed"
+msgid "ID=203207"
+msgstr ""
+
+msgctxt "c75536fae3dbb8592745102d3c5bddd0"
+msgid "악마가 나와도 맹세하겠어!"
+msgstr ""
+
+msgctxt "436a609113ba69da57fc8dc409aac392"
+msgid "ID=203208"
+msgstr ""
+
+msgctxt "721466c5a35916de803a81a344e5eb27"
+msgid "나에게 줘. 힘을 줘!"
+msgstr ""
+
+msgctxt "ac8ae0d892ceee701e4a6849df84e636"
+msgid "ID=203209"
+msgstr ""
+
+msgctxt "eae69c7f0e0394dff624ff4232912fb2"
+msgid "형이라면 그럴 줄 알았어. 맹세 성립이야!"
+msgstr ""
+
+msgctxt "7267fa426304b5258a5f37b316a5d2f0"
+msgid "ID=203210"
+msgstr ""
+
+msgctxt "2d8833922b2d6fb54dc36823e7d4d344"
+msgid "으아아아아!!"
+msgstr ""
+
+msgctxt "82e5877f2037125779d672bcb617828f"
+msgid "ID=203301"
+msgstr ""
+
+msgctxt "b7cda1d0b86ef85bf29eb80d1e237e53"
+msgid "안 죽네, 저 아이. 완전히 끝장내고 싶지?"
+msgstr ""
+
+msgctxt "10c39cb2c0f85e4d02559c8516d0d35b"
+msgid "ID=203302"
+msgstr ""
+
+msgctxt "f2a25e5914fb3bc6455fcd47d71da423"
+msgid "근데 이걸 어쩌나? 지금 네 능력으로는 어림도 없을텐데 말이야~"
+msgstr ""
+
+msgctxt "d49626cb34564b2a6e7f2e18cca3478d"
+msgid "ID=203303"
+msgstr ""
+
+msgctxt "5d387b399d0b4de5ee6c9b19075cf9ad"
+msgid "나한테 맹세해. 힘을 원한다고."
+msgstr ""
+
+msgctxt "dd825c472b434ce07d11673331d474ff"
+msgid "ID=203304"
+msgstr ""
+
+msgctxt "86d924c893a6d3cbcb543839a2412fa5"
+msgid "그럼 저 아이를 완전히 끝장낼 힘을 줄게."
+msgstr ""
+
+msgctxt "28682d21a953d324b6881b4a6cfb2a1f"
+msgid "ID=203305"
+msgstr ""
+
+msgctxt "052ff6e7f1d19be5fdc0e43bd3966266"
+msgid "그 거래… 받아들이겠습니다. 나에게… 힘을 줘요."
+msgstr ""
+
+msgctxt "3d7db33688d29bb7ae2f0afe1cd286e1"
+msgid "ID=203306"
+msgstr ""
+
+msgctxt "ffdaedbefc8667f9234ddaac2b559242"
+msgid "알았어. 영원의 맹세는, 지금 이곳에서."
+msgstr ""
+
+msgctxt "2336add2406776f4af960106058e120e"
+msgid "ID=203307"
+msgstr ""
+
+msgctxt "562127bebedbca2d7e7bd8351e679747"
+msgid "ID=203401"
+msgstr ""
+
+msgctxt "f886d51d841ed0af16cc902da168e415"
+msgid "저 소녀를 구하고 싶습니까?"
+msgstr ""
+
+msgctxt "18e4dbd2eb1794fa984c2b389cd7c1b1"
+msgid "ID=203402"
+msgstr ""
+
+msgctxt "c6b4cae3e6b6dbabd63e5fd8e2d5dc3f"
+msgid "하지만 이미 알고 있을 터."
+msgstr ""
+
+msgctxt "1e41c4c0e42313a1b6404e34eb17135a"
+msgid "ID=203403"
+msgstr ""
+
+msgctxt "056e6d975c8d23c023ad5f938efa5433"
+msgid "저 소녀를 구하는 방법은, 오직 안식을 주는 것 뿐입니다."
+msgstr ""
+
+msgctxt "a8765692ebb7378cad3ad1bdc9311f7c"
+msgid "ID=203404"
+msgstr ""
+
+msgctxt "8a394119cf9b1aba4e70892e5b209206"
+msgid "그러니 당신이 저와 영겁을 맹세한다면, 힘을 드리겠습니다."
+msgstr ""
+
+msgctxt "16af536348776e623854954261765102"
+msgid "ID=203405"
+msgstr ""
+
+msgctxt "08a018d11e95407dbda45ba068e2fd44"
+msgid "맹세합니다! 그리고 그 죄는… 내가 짊어지겠습니다!"
+msgstr ""
+
+msgctxt "9d4abc0cb05217b1b4cb15f7265b11b7"
+msgid "ID=203406"
+msgstr ""
+
+msgctxt "67dcfd88a5eb16b03fd6b8d62cefe7a4"
+msgid "당신의 염원을 담아, 맹세는 성립되었습니다."
+msgstr ""
+
+msgctxt "afad9cffa2559ce6a59d171d3bfd5f0c"
+msgid "ID=203407"
+msgstr ""
+
+msgctxt "496406f71fb368fc7fdeac936cc9e4a0"
+msgid "ID=203501"
+msgstr ""
+
+msgctxt "44dc0f81767bcda3df9ec4e69f073aa8"
+msgid "내가 말했던 대로지? 슬플 거라고."
+msgstr ""
+
+msgctxt "9c2481057cd6ac0522c9e8a45fc55e8a"
+msgid "ID=203502"
+msgstr ""
+
+msgctxt "91ad6ba984e8f52b03788d8bf45f3ad2"
+msgid "이대로 가만히 있다간 저 애는 계속 괴로움 속에서 떠돌게 될 거야. 그건 싫지?"
+msgstr ""
+
+msgctxt "6cdad197ba903fabd87c07dd3b7dfec3"
+msgid "ID=203503"
+msgstr ""
+
+msgctxt "f9caf6f6f00116ffc4246680bdf6f6fc"
+msgid "나와 맹세하자. 맹세하면 힘을 얻을 수 있어."
+msgstr ""
+
+msgctxt "f5b0e61b067196d0e510fb83a1f57813"
+msgid "ID=203504"
+msgstr ""
+
+msgctxt "24c435786019a9d4b107a112cdfbd547"
+msgid "저 아이를 슬픔 속에서 구해낼 힘을!"
+msgstr ""
+
+msgctxt "561ceab103daf8a14f931f4918307989"
+msgid "ID=203505"
+msgstr ""
+
+msgctxt "0b61d75519c0a4b3935e0d93d9d20bbe"
+msgid "할게. 할게… 뭐든지 할게!"
+msgstr ""
+
+msgctxt "80df120f7eb795a49dda45f07c8a8347"
+msgid "ID=203506"
+msgstr ""
+
+msgctxt "6453e8ecbb09bebd2b084210e5511b68"
+msgid "이제 더 이상은 싫어!"
+msgstr ""
+
+msgctxt "4ccd3fc3a77c72bf6d9d6d80cbfe878a"
+msgid "ID=203507"
+msgstr ""
+
+msgctxt "ddbd8eb94d7db2ac6397c12b95b852e6"
+msgid "그래. 영원의 맹세를… 지금 이곳에서!"
+msgstr ""
+
+msgctxt "8d1dc4ebdc1320360aa4aab8e7606ad7"
+msgid "ID=203601"
+msgstr ""
+
+msgctxt "7fe04d163081beef71c4e0c78c5ded3e"
+msgid "저 아이는 이제 다시 돌아올 수 없어요…"
+msgstr ""
+
+msgctxt "db477f9a9484e5ce2898f64b3409bab0"
+msgid "ID=203602"
+msgstr ""
+
+msgctxt "30f23c1b4ea3eb5c14b90715173333d0"
+msgid "우리들이 해줄 수 있는 것은, 이대로 조용히 잠들게 해 주는 것 뿐이죠."
+msgstr ""
+
+msgctxt "0077ce60453101b4ef47b848f51dcdb1"
+msgid "ID=203603"
+msgstr ""
+
+msgctxt "41432502f6d781a5295ad528eabc45b8"
+msgid "이 비극을 끝내고 싶으시다면 저와 맹세해 주세요."
+msgstr ""
+
+msgctxt "54de4abbe937a370abfac06240b18584"
+msgid "ID=203604"
+msgstr ""
+
+msgctxt "235cf8df8c3fcb6cde070fd5722e310b"
+msgid "힘을 원한다고 말 해 주세요…"
+msgstr ""
+
+msgctxt "681df8cbb6ba549e932fd25c6fdd659f"
+msgid "ID=203605"
+msgstr ""
+
+msgctxt "15f510929e482ad7f7d55433bce5dec1"
+msgid "내 놔…! 맹세할테니까 내놔…!"
+msgstr ""
+
+msgctxt "a9c8bcff6c435954e7a94554920e1ba6"
+msgid "ID=203606"
+msgstr ""
+
+msgctxt "0450092b32c38fcc4243b040d0512aeb"
+msgid "힘이든 뭐든 몽땅 다 내놓으라고!"
+msgstr ""
+
+msgctxt "4f06641a35408761b95998dba5de1f92"
+msgid "ID=203607"
+msgstr ""
+
+msgctxt "0ea4688162fdd666e8e47c7b184d0a6a"
+msgid "네, 계약은 성립됐어요…"
+msgstr ""
+
+msgctxt "c91b4a187c6720e3ba152266adf072e7"
+msgid "ID=203608"
+msgstr ""
+
+msgctxt "8d22610898b71e8efdca25dec5597c3b"
+msgid "이제… 당신의 마음대로 싸워주세요…"
+msgstr ""
+
+msgctxt "e4a0cedfa89c1e17473f553eb5495452"
+msgid "ID=203609"
+msgstr ""
+
+msgctxt "8f56eae6f9b4ebda317ab17992e1003c"
+msgid "ID=203001"
+msgstr ""
+
+msgctxt "fe493c8ece2fe5aa5d66a3ddb6759ac0"
+msgid "고마워요…"
+msgstr ""
+
+msgctxt "06ec13320c03279bedd70b749ded5ed7"
+msgid "ID=204001"
+msgstr ""
+
+msgctxt "7cad5ed0a998d4b49f18ccc5fb54c420"
+msgid "시온… 드디어 만났어."
+msgstr ""
+
+msgctxt "640f97e31ef05bba2816545051aa2734"
+msgid "ID=205001"
+msgstr ""
+
+msgctxt "7015334efb123169e62c23cfdd7745e7"
+msgid "안돼, 시온. 일어나! 일어나줘… 시온!"
+msgstr ""
+
+msgctxt "fceb9eaa8ebdae5c63cb58d6073e2f13"
+msgid "ID=205002"
+msgstr ""
+
+msgctxt "141c097e1e4dbc11c6244fed17c128cc"
+msgid "시온!!!"
+msgstr ""
+
+msgctxt "53cdfa91d02425f48ac8791d307ec706"
+msgid "ID=206001"
+msgstr ""
+
+msgctxt "182ddea4eabc66100c1a98d84444207c"
+msgid "멈추세요 또 다른 숙명의 존재여."
+msgstr ""
+
+msgctxt "00d16c688dc9ee623555fe17232d984d"
+msgid "ID=206002"
+msgstr ""
+
+msgctxt "e55bbb0ff2b685926a910db7684f630e"
+msgid "당신은 지금 이곳에 존재할 때가 아닙니다."
+msgstr ""
+
+msgctxt "0c0097f0fd60acb73936144202e0b7df"
+msgid "ID=206003"
+msgstr ""
+
+msgctxt "87c66ae54c54ff3672195af38860d06d"
+msgid "다시 허공으로 돌아가세요."
+msgstr ""
+
+msgctxt "070cf0aa3f8dcd9378f35ac684e67551"
+msgid "ID=206004"
+msgstr ""
+
+msgctxt "17cfd5f697409f727d3142de478ba478"
+msgid "곧 올겁니다. 진정한 각성의 때가."
+msgstr ""
+
+msgctxt "83e1515e3777c0a55e1c42a7bfcc6eb7"
+msgid "ID=206005"
+msgstr ""
+
+msgctxt "d751b63e5deda1ee7876eaa6cf1990ca"
+msgid "아… 안돼!"
+msgstr ""
+
+msgctxt "3f382ac401505812d927e0e2a61b0482"
+msgid "ID=206006"
+msgstr ""
+
+msgctxt "21ca39179d1a960212191bd8ed5ad14a"
+msgid "두개의 톱니바퀴가 맞물려, 세상의 축이 돌아갈 때가 왔습니다."
+msgstr ""
+
+msgctxt "1260e9dbe488cf0c9652868b36ebdfbb"
+msgid "ID=206007"
+msgstr ""
+
+msgctxt "80ac5b8edc201ba107704a18087b78e0"
+msgid "그대는 실패하지 않기를."
+msgstr ""
+
+msgctxt "15fd2e91a0817313273a68073d44b3e8"
+msgid "ID=401001"
+msgstr ""
+
+msgctxt "0f0c24118aa3873fd1cc30c18392206f"
+msgid "니힐 킹덤의 긍지는 왕가에에 향하는 충성!\\n니힐 킹덤의 충성은 나에대한 긍지!"
+msgstr ""
+
+msgctxt "e1317b7a6d932ddf311be67942cda569"
+msgid "ID=401002"
+msgstr ""
+
+msgctxt "54342b80a4e4350b946076a15d754b9f"
+msgid ""
+"푸른 안광의 전사들이여, 그대들의 희생은 비록 많은이들이 기억하지 않겠지만.\\n영원한 왕가의 역사가 되어 아이들이 찬송하는 노래와 "
+"이야기에 자랑스런 일원이 되리라!"
+msgstr ""
+
+msgctxt "cfd6ff3f96783af19059a609df3c2ed3"
+msgid "ID=401003"
+msgstr ""
+
+msgctxt "95b530ef805d7426557d8b29193ab040"
+msgid "내 이름은 아루아! 자랑스런 조국 니힐 킹덤의 십인대장!"
+msgstr ""
+
+msgctxt "bcac6263107d0860942f2af2a739f9b7"
+msgid "ID=401004"
+msgstr ""
+
+msgctxt "b4bb69bc8e300b325a078fe2837b31ba"
+msgid "우리 푸른 기사단의 숭고한 행진을 방해하는 자를 처벌하고!\\n너의 붉은 피로 복수의 갈증을 채우기 위해 행차하였다!"
+msgstr ""
+
+msgctxt "24859db7e08348c56a06eab90c4aa86b"
+msgid "ID=401005"
+msgstr ""
+
+msgctxt "114bad414c41d30998ca21cde011c3e9"
+msgid "단념하고 그 목을 내놓아라! 히야아아아아아아아!"
+msgstr ""
+
+msgctxt "238deacf53c9d324486624c38254fb95"
+msgid "ID=401006"
+msgstr ""
+
+msgctxt "ea278d3807847fc3bc43f2a00c2a404b"
+msgid "아!"
+msgstr ""
+
+msgctxt "ad8f675ff2ff5d556de6d12eba5dc2d8"
+msgid "ID=402001"
+msgstr ""
+
+msgctxt "9af4e5655eed1178360a0c3863072cd6"
+msgid "나는 이 척박한 땅에 조용히 묻히겠지만…\\n왕가를 위해 끝까지 너희들을 저주하겠다…"
+msgstr ""
+
+msgctxt "6aed2c2f535953551fd2c9ab52089f70"
+msgid "ID=700001"
+msgstr ""
+
+msgctxt "93607b39bbe54f02dbdc59e4eae72755"
+msgid "아빠… 아빠…"
+msgstr ""
+
+msgctxt "805bb96d09f2deb27d04ad899ed1d02a"
+msgid "ID=700002"
+msgstr ""
+
+msgctxt "bc86c5b9e24e24fc1c735b86bdeafc02"
+msgid "캐서린? 괜찮은 거냐?"
+msgstr ""
+
+msgctxt "94c769a86c6b9bb24d6d0727fb6c6c41"
+msgid "ID=700003"
+msgstr ""
+
+msgctxt "b173e12861cd62a9ec7c875f5a94008d"
+msgid "아빠… 어디있어요?"
+msgstr ""
+
+msgctxt "4ed740a5a4f8d362dc2da811765e8f0b"
+msgid "ID=700004"
+msgstr ""
+
+msgctxt "f4a7f3d29febd7b390647e5be6c641e7"
+msgid "그래, 이쪽이다 캐서린! 이쪽으로 오거라!"
+msgstr ""
+
+msgctxt "f635db44073db203eed18db61ff0459a"
+msgid "ID=700005"
+msgstr ""
+
+msgctxt "1733059c037cf5f6761e0ccad6afa766"
+msgid "캐… 캐서린…! 캐서린!!!"
+msgstr ""
+
+msgctxt "e6f6f23c1ec6ff5499fcb7aa4eccaa4c"
+msgid "ID=302001"
+msgstr ""
+
+msgctxt "068bb6243d4cf187d8d06c35d16f79d3"
+msgid "사람은 말이야.\\n무언가 학습해둔 것이 있으면 급할 때 무심코 그 지식에 의존하는 법이거든."
+msgstr ""
+
+msgctxt "8ae353304ecdad3160b94690e2588ef8"
+msgid "ID=302002"
+msgstr ""
+
+msgctxt "fa93f6367d802e5d55c150592ac3bad1"
+msgid "몸에서 팔이 떨어지면 분신이다. 이 명제를 반복적으로 학습 시켜놓으면."
+msgstr ""
+
+msgctxt "6ca3942e05dd48c39e6fa57cc0e903c6"
+msgid "ID=302003"
+msgstr ""
+
+msgctxt "706ac016dd6bd239a5cc2903bf24e985"
+msgid "몸에서 팔이 떨어졌다는 전제만 보고 아무런 의심 없이 분신이라는 결론을 내기 마련이지."
+msgstr ""
+
+msgctxt "37528e648dc06233db84258efda4d5e4"
+msgid "ID=302004"
+msgstr ""
+
+msgctxt "2e841f2df850e98fe55551d6bc674be4"
+msgid "그럼, 단지 사람들을 속이고 싶다는 이유로 저한테 팔을 잘라달라고 했던 건가요?"
+msgstr ""
+
+msgctxt "3f2ab9743f2d907cfba4d5b640874dc0"
+msgid "ID=302005"
+msgstr ""
+
+msgctxt "e4d6d75906ca1c2ae74380bac05950ac"
+msgid "정말… 제정신이 아니네요."
+msgstr ""
+
+msgctxt "43084d3090c45970b4ab8d7b6d3db236"
+msgid "ID=302006"
+msgstr ""
+
+msgctxt "92ae56520b3000eb4242c88187e329bf"
+msgid "하하, 제정신인 것 만큼 지루한 것도 없거든!"
+msgstr ""
+
+msgctxt "b3c8c7b055914d73af463aa88940e009"
+msgid "ID=302007"
+msgstr ""
+
+msgctxt "6363607bac3e8c146ac3b5e0d7a7fcf6"
+msgid "너도 어때? 이왕 이렇게 나온 거 좀 더 재밌게 살아보지 않겠어?"
+msgstr ""
+
+msgctxt "2a256d133ad3156454ac9607e8e5a80c"
+msgid "ID=302008"
+msgstr ""
+
+msgctxt "49256f774afdb495a57dbd0d9bbbc640"
+msgid "아뇨, 전 지루한 걸로 충분해요."
+msgstr ""
+
+msgctxt "fb57aba5872e5b888bc398faca343ffe"
+msgid "ID=302009"
+msgstr ""
+
+msgctxt "a2ea983c2ca0ac3991d5313d1c42d9a2"
+msgid "쳇… 재미없기는."
+msgstr ""
+
+msgctxt "c09cb357d4554daeb7fd8b94c51db001"
+msgid "ID=301001"
+msgstr ""
+
+msgctxt "e18e7022ac8ad998cb401747ce3fa5e9"
+msgid "어윈 씨… 어윈 씨?"
+msgstr ""
+
+msgctxt "db357121b11308fc99234b098153a9d8"
+msgid "ID=301002"
+msgstr ""
+
+msgctxt "3fe4d93dbf77eff7b3b13fb49994d52a"
+msgid "저, 드디어 알았어요.\\n왜 기분이 나빴는지, 무엇을 착각하고 있었는지… 모두 이해했어요!"
+msgstr ""
+
+msgctxt "f6775329ae2fc39a44788e3f1a3310ab"
+msgid "ID=301003"
+msgstr ""
+
+msgctxt "b9fe38b9b9da7404e04026e6c15988da"
+msgid "이 사람들도… 이 공백 안에 있는 사람들도… 모두 공백이나 마찬가지예요…\\n인간이 아니라, 공백의 일부였어요!"
+msgstr ""
+
+msgctxt "47aed83159298078a16c967e19d99164"
+msgid "ID=301004"
+msgstr ""
+
+msgctxt "476c083084ac475820117770ce397401"
+msgid "전부 죽여야 했어요! 전부!"
+msgstr ""
+
+msgctxt "66166aae310b65945e706a7170239712"
+msgid "ID=301005"
+msgstr ""
+
+msgctxt "9c82e5e5f5bde18571bc71ce9da7c13b"
+msgid "아하… 아하하하하…"
+msgstr ""
+
+msgctxt "69c9ca42da32268e0dc3379f2714530f"
+msgid "ID=301006"
+msgstr ""
+
+msgctxt "7d1abe982625d11ba1286dba3094f4a1"
+msgid "역시, 내 생각이 틀리진 않았네."
+msgstr ""
+
+msgctxt "4e28259120551d99e99d141bd808874c"
+msgid "ID=301007"
+msgstr ""
+
+msgctxt "09c1c9588a80fd0da6806d2c7893eeb4"
+msgid "말했잖아, 그렇게 웃는 얼굴이 잘 어울린다고…"
+msgstr ""
+

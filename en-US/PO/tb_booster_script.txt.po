@@ -1,0 +1,2611 @@
+# Emre <silentdix@hotmail.com>, 2020. #zanata
+# Raining <rainingdreams@protonmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-01-24 09:20-0500\n"
+"Last-Translator: Raining <rainingdreams@protonmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "dfb4dd499b8e2348c06f9e52ad4267f9"
+msgid "ID=1"
+msgstr "ID=1"
+
+msgctxt "baed2187c62e90f971788c3390375f4f"
+msgid "파티 보너스(2인)"
+msgstr "Party Bonus (2-Player)"
+
+msgctxt "c60564a5c6fd71e4be2611611ea26f1d"
+msgid "파티 생성 시 제공합니다"
+msgstr "Provided at party creation"
+
+msgctxt "72675d1b01786f19ec056393dbfdddb4"
+msgid "Icon/Booster/Icon_Booster_Party_Member2_NotFriend"
+msgstr "Icon/Booster/Icon_Booster_Party_Member2_NotFriend"
+
+msgctxt "1c06e4baf03acdeb787eed93dd855c52"
+msgid "ID=2"
+msgstr "ID=2"
+
+msgctxt "daab8027ad7d58cf844020f71406b8ff"
+msgid "Icon/Booster/Icon_Booster_Party_Member2_Friend1"
+msgstr "Icon/Booster/Icon_Booster_Party_Member2_Friend1"
+
+msgctxt "dc08c27c1de8a603f12e1411346c8971"
+msgid "ID=3"
+msgstr "ID=3"
+
+msgctxt "67d578337a14d3053d3a21e7d3c7bfed"
+msgid "파티 보너스(3인)"
+msgstr "Party Bonus (3-Man)"
+
+msgctxt "e227cf94aa66823262d5a0af42320a33"
+msgid "Icon/Booster/Icon_Booster_Party_Member3_NotFriend"
+msgstr "Icon/Booster/Icon_Booster_Party_Member3_NotFriend"
+
+msgctxt "5cedd3acce477b51865226d3e293b578"
+msgid "ID=4"
+msgstr "ID=4"
+
+msgctxt "541c7fc0f04eeaad5b74eda900a9478e"
+msgid "Icon/Booster/Icon_Booster_Party_Member3_Friend1"
+msgstr "Icon/Booster/Icon_Booster_Party_Member3_Friend1"
+
+msgctxt "53e5e07397f7f01c2b276af813901c29"
+msgid "ID=5"
+msgstr "ID=5"
+
+msgctxt "65d77c2dc7af1aa426bb9c80579d70ef"
+msgid "Icon/Booster/Icon_Booster_Party_Member3_Friend2"
+msgstr "Icon/Booster/Icon_Booster_Party_Member3_Friend2"
+
+msgctxt "34399f012556aa724734de93378773bb"
+msgid "ID=6"
+msgstr "ID=6"
+
+msgctxt "fb8c1f3034da4211e17ff272c7ac8d82"
+msgid "파티 보너스(4인이상)"
+msgstr "Party Bonus (4-Man)"
+
+msgctxt "dfe3c007ba45107f84b791157397fb0b"
+msgid "Icon/Booster/Icon_Booster_Party_Member4_NotFriend"
+msgstr "Icon/Booster/Icon_Booster_Party_Member4_NotFriend"
+
+msgctxt "c655142b4669fe759c3ab16d6ae2e67e"
+msgid "ID=7"
+msgstr "ID=7"
+
+msgctxt "3d551620e71b235a5871662628c9b4d7"
+msgid "Icon/Booster/Icon_Booster_Party_Member4_Friend1"
+msgstr "Icon/Booster/Icon_Booster_Party_Member4_Friend1"
+
+msgctxt "fc86fdd3ede70f5c83d374b99089bdad"
+msgid "ID=8"
+msgstr "ID=8"
+
+msgctxt "11c2ca4369a8fac9d9c0ab41f2c16a1a"
+msgid "Icon/Booster/Icon_Booster_Party_Member4_Friend2"
+msgstr "Icon/Booster/Icon_Booster_Party_Member4_Friend2"
+
+msgctxt "5a2561e879ad13bd5211adeed9369b4f"
+msgid "ID=9"
+msgstr "ID=9"
+
+msgctxt "003ca906580fdcac02e2c5c21af02460"
+msgid "Icon/Booster/Icon_Booster_Party_Member4_Friend3"
+msgstr "Icon/Booster/Icon_Booster_Party_Member4_Friend3"
+
+msgctxt "f723a41e990270bf57e1396242121563"
+msgid "ID=10"
+msgstr "ID=10"
+
+msgctxt "95299c2d90ed4983c20d16976552d17f"
+msgid "PC방 Bonus"
+msgstr "Internet-Cafe Bonus"
+
+msgctxt "93aa96480f1262e05032951d132f3cfb"
+msgid "PC방 접속 시 제공됩니다"
+msgstr "It is provided by connecting to an Internet-Cafe"
+
+msgctxt "7c09ec3ef3043f48087b25b60b0c476c"
+msgid "Icon/Booster/Icon_Booster_PC_Café"
+msgstr "Icon/Booster/Icon_Booster_PC_Café"
+
+msgctxt "87ac4846c6e71753f5fd8057ebf34ed4"
+msgid "ID=11"
+msgstr "ID=11"
+
+msgctxt "5417034a18798fec62524117ec84c595"
+msgid "비기너D 계급 보너스"
+msgstr "Beginner D Rank Bonus"
+
+msgctxt "982762318fde3d225d5473842cd618c8"
+msgid "비기너D 계급 획득 시 제공"
+msgstr "Provided for Beginner D Rank"
+
+msgctxt "745504f076076f6eaa8413750a8527eb"
+msgid "Icon/Booster/Icon_Booster_Echelon"
+msgstr "Icon/Booster/Icon_Booster_Echelon"
+
+msgctxt "e9966517d22c82bbdcea6e9384d53dc0"
+msgid "ID=12"
+msgstr "ID=12"
+
+msgctxt "78579ef30e9eb0a43b76e068e138981c"
+msgid "비기너C 계급 보너스"
+msgstr "Beginner C Rank Bonus"
+
+msgctxt "09de0742915405eafac18d2755d944cb"
+msgid "비기너C 계급 획득 시 제공"
+msgstr "Provided for Beginner C Rank"
+
+msgctxt "bd47ba257e3e1ffe71fcf356739e575e"
+msgid "ID=13"
+msgstr "ID=13"
+
+msgctxt "169868a452f4658f9cb231599e16d30e"
+msgid "비기너B 계급 보너스"
+msgstr "Beginner B Rank Bonus"
+
+msgctxt "ee2320272ae39223f7afef4c18ec78ef"
+msgid "비기너B 계급 획득 시 제공"
+msgstr "Provided for Beginner B Rank"
+
+msgctxt "b2d53b674234fd637006f9aab77530e9"
+msgid "ID=14"
+msgstr "ID=14"
+
+msgctxt "dfb206bf403ec430552e42c5b659a424"
+msgid "비기너A 계급 보너스"
+msgstr "Beginner A Rank Bonus"
+
+msgctxt "bd4c9b706716a4dd2cf0f02c66c070f6"
+msgid "비기너A 계급 획득 시 제공"
+msgstr "Provided for Beginner A Rank"
+
+msgctxt "d2c2c8224f85574124791fad7c749e44"
+msgid "ID=15"
+msgstr "ID=15"
+
+msgctxt "b0eb1ba8bc708ed4032b17bc2c71457d"
+msgid "계급 5레벨 보너스"
+msgstr "Rank 5 Level Bonus"
+
+msgctxt "e02c582ff538031d6e7ec1e0f573c36e"
+msgid "계급 획득 시 제공"
+msgstr "Provided when earning a rank"
+
+msgctxt "2b2fe8222b7847f97346a4f090c12829"
+msgid "ID=16"
+msgstr "ID=16"
+
+msgctxt "7256842710c1438f9e4718f4f4d2b0b6"
+msgid "계급 6레벨 보너스"
+msgstr "Rank 6 Level Bonus"
+
+msgctxt "170719a219a4f9c0a1ff4afc97fb4bef"
+msgid "ID=17"
+msgstr "ID=17"
+
+msgctxt "85c299fc2b24d55a79c755d3ad34a99a"
+msgid "계급 7레벨 보너스"
+msgstr "Rank 7 Level Bonus"
+
+msgctxt "e248668dbdc7fdf60c3ad3145a73101d"
+msgid "ID=18"
+msgstr "ID=18"
+
+msgctxt "c2308d9bc7bfab297725a602482df599"
+msgid "계급 8레벨 보너스"
+msgstr "Rank 8 Level Bonus"
+
+msgctxt "bf3c5f676ded809fa564eed630eed3ea"
+msgid "ID=19"
+msgstr "ID=19"
+
+msgctxt "6e594856d58b8fe708805b19ae34ad21"
+msgid "계급 9레벨 보너스"
+msgstr "Rank 9 Level Bonus"
+
+msgctxt "18dff4e962c31b38eaba0b112b888a88"
+msgid "ID=20"
+msgstr "ID=20"
+
+msgctxt "67a41f52376f51df53acf487c36b9d1f"
+msgid "계급 10레벨 보너스"
+msgstr "Rank 10 Level Bonus"
+
+msgctxt "1accf3ae40cf7c74d372450509d2ecc7"
+msgid "ID=21"
+msgstr "ID=21"
+
+msgctxt "279e4f0f808fdd82fa70a430ebdbebe2"
+msgid "계급 11레벨 보너스"
+msgstr "Rank 11 Level Bonus"
+
+msgctxt "e2052c78020f3ed252dbf71c4c73a3c9"
+msgid "ID=22"
+msgstr "ID=22"
+
+msgctxt "e659f8495c5c6b4d01612a42006f2c8c"
+msgid "계급 12레벨 보너스"
+msgstr "Rank 12 Level Bonus"
+
+msgctxt "2f5627b265f27d03bb5e4162d27ee3c5"
+msgid "ID=23"
+msgstr "ID=23"
+
+msgctxt "c3e7bfb96cf373f9442cacc72e504eab"
+msgid "계급 13레벨 보너스"
+msgstr "Rank 13 Level Bonus"
+
+msgctxt "a856a4514b29addc71116e0e302af0de"
+msgid "ID=24"
+msgstr "ID=24"
+
+msgctxt "a0c7a5557c5fb771329d9ba03c9653b7"
+msgid "계급 14레벨 보너스"
+msgstr "Rank 14 Level Bonus"
+
+msgctxt "f2a624f5997487d8e0948603b8b62816"
+msgid "ID=25"
+msgstr "ID=25"
+
+msgctxt "bd8eb209ad9e950e2fbccfbdfc080f2c"
+msgid "계급 15레벨 보너스"
+msgstr "Rank 15 Level Bonus"
+
+msgctxt "ff2187a8f49a17e087d2f97738cf4368"
+msgid "ID=26"
+msgstr "ID=26"
+
+msgctxt "87f2e2a1b110d62b2d134c6fbb06fc11"
+msgid "계급 16레벨 보너스"
+msgstr "Rank 16 Level Bonus"
+
+msgctxt "6d6a20169370dc676a215fd979bd7cf0"
+msgid "ID=27"
+msgstr "ID=27"
+
+msgctxt "398b55ba439282b1ab872941f2471c3b"
+msgid "계급 17레벨 보너스"
+msgstr "Rank 17 Level Bonus"
+
+msgctxt "245c002d0826ce0ae8de7a0a7b8e4c24"
+msgid "ID=28"
+msgstr "ID=28"
+
+msgctxt "b55d754893f6107d75625e683bcc92b1"
+msgid "계급 18레벨 보너스"
+msgstr "Rank 18 Level Bonus"
+
+msgctxt "87c09c6a274f436070673215e12f119c"
+msgid "ID=29"
+msgstr "ID=29"
+
+msgctxt "1d347a451ad194d50b70d3dd955cd570"
+msgid "계급 19레벨 보너스"
+msgstr "Rank 19 Level Bonus"
+
+msgctxt "ac7afc7c4613ced918daa88bca6eafab"
+msgid "ID=30"
+msgstr "ID=30"
+
+msgctxt "65efc9826506e689006c24214dc2a9c9"
+msgid "계급 20레벨 보너스"
+msgstr "Rank 20 Level Bonus"
+
+msgctxt "bda4d7a7d272f20cb84ec4709cd91c11"
+msgid "ID=101"
+msgstr "ID=101"
+
+msgctxt "d16a894b4464b919d70c1b23a33add07"
+msgid "PC방 접속 보너스 I"
+msgstr "Internet-Cafe Bonus I"
+
+msgctxt "542bc2804a4506a7577ae5a8fc762cb6"
+msgid "드랍율이 20% 상승합니다."
+msgstr "The Drop rate is increased by 20%."
+
+msgctxt "ac35bbe3d9f8d9a18a6b040d2ba5f9d8"
+msgid "Icon/Booster/Icon_Booster_PC_Member1"
+msgstr "Icon/Booster/Icon_Booster_PC_Member1"
+
+msgctxt "dfff077bf6a6500cd9cb01c0fb1c3c0b"
+msgid "ID=102"
+msgstr "ID=102"
+
+msgctxt "79ef4e40faca50c6bec65ad12651d9b9"
+msgid "PC방 접속 보너스 II"
+msgstr "Internet-Cafe Bonus II"
+
+msgctxt "f26e145ae8f2a3d0d14c489bf79d48a0"
+msgid "Icon/Booster/Icon_Booster_PC_Member2"
+msgstr "Icon/Booster/Icon_Booster_PC_Member2"
+
+msgctxt "c33f2abe4031e26e72898519c5ed7789"
+msgid "ID=103"
+msgstr "ID=103"
+
+msgctxt "ad4e57fa6e46337ec9ad5f16e9b58b31"
+msgid "PC방 접속 보너스 III"
+msgstr "Internet-Cafe Bonus III"
+
+msgctxt "8581e54a1304d8e0144d41cf978f898b"
+msgid "Icon/Booster/Icon_Booster_PC_Member3"
+msgstr "Icon/Booster/Icon_Booster_PC_Member3"
+
+msgctxt "ea9a6c96c0a254fa4236cd6acf07c8e1"
+msgid "ID=104"
+msgstr "ID=104"
+
+msgctxt "fe2f95df9c4be994cfa0be89094ce003"
+msgid "PC방 접속 보너스 IV"
+msgstr "Internet-Cafe Bonus IV"
+
+msgctxt "a88216a3a21a8ea1225e751beb65c9f4"
+msgid "Icon/Booster/Icon_Booster_PC_Member4"
+msgstr "Icon/Booster/Icon_Booster_PC_Member4"
+
+msgctxt "57daa07f6cf10b918792d8a6b8389a3d"
+msgid "ID=620"
+msgstr "ID=620"
+
+msgctxt "57e70bee3acdffe408ff937a4cbf29a3"
+msgid "난이도 보너스 (하드)"
+msgstr "Difficulty Bonus (Hard)"
+
+msgctxt "baeea92ecac02e8c5d9a02f4197cc3e0"
+msgid "난이도가 높을 수록 보너스 효과가 증가합니다."
+msgstr "The bonus effect increases as the difficulty increases."
+
+msgctxt "ed87be61379e6786e721605614ecf52e"
+msgid "Icon/Booster/Icon_Booster_Event_Exp1"
+msgstr "Icon/Booster/Icon_Booster_Event_Exp1"
+
+msgctxt "8e59b3dacbd90cf770bc59c9b04438ae"
+msgid "ID=630"
+msgstr "ID=630"
+
+msgctxt "46f33f7744fc506171d7be28325b31f4"
+msgid "난이도 보너스 (매니악)"
+msgstr "Difficulty Bonus (Maniac)"
+
+msgctxt "5485dba07364d6ac6cffd169da8672cb"
+msgid "ID=1001"
+msgstr "ID=1001"
+
+msgctxt "cfe548c925957bc74bde9b4832cd4053"
+msgid "버닝 이벤트 (힘내라! 힘!)"
+msgstr "Raining Event (Go! Go! Go!)"
+
+msgctxt "9b025d4e8672c78cf02c0a397cf5fa77"
+msgid "획득 경험치가 증가합니다."
+msgstr "Experience gain is increased."
+
+msgctxt "86c5d9d1b434ff88a5f247e27bcc8119"
+msgid "ID=1002"
+msgstr "ID=1002"
+
+msgctxt "26802d818251bd7aca0ced5fc02ff2be"
+msgid "ID=1003"
+msgstr "ID=1003"
+
+msgctxt "8260d7d38be04ee154b982e81dc80d1f"
+msgid "ID=1004"
+msgstr "ID=1004"
+
+msgctxt "0cfe2a3d51c332e012f0604f1c11dc11"
+msgid "ID=1005"
+msgstr "ID=1005"
+
+msgctxt "e179ce388288270d949b5ab92041161e"
+msgid "ID=1006"
+msgstr "ID=1006"
+
+msgctxt "0c6752db6dc800ac54bbcfed28a0c6af"
+msgid "ID=1007"
+msgstr "ID=1007"
+
+msgctxt "888ffe9766f891cfd3541714fa2f7625"
+msgid "ID=1008"
+msgstr "ID=1008"
+
+msgctxt "559455bd5e911395ea56880a28eee18d"
+msgid "ID=1009"
+msgstr "ID=1009"
+
+msgctxt "5826ea28583c6a5e6aa1936173ce6ae9"
+msgid "ID=1010"
+msgstr "ID=1010"
+
+msgctxt "d4c202e534c858735071adba3d5ddedd"
+msgid "ID=1011"
+msgstr "ID=1011"
+
+msgctxt "b32fe867a9b1e2b9ed0268bdb134cfd3"
+msgid "ID=1012"
+msgstr "ID=1012"
+
+msgctxt "87c26cb2bfa5c12ec297f980e52c589a"
+msgid "ID=1013"
+msgstr "ID=1013"
+
+msgctxt "f96838f2356322012abb422bcf7c10c0"
+msgid "ID=1014"
+msgstr "ID=1014"
+
+msgctxt "d441589a2a9440ef557b81156543571d"
+msgid "ID=1015"
+msgstr "ID=1015"
+
+msgctxt "a2c89802262f5dbca5fdc1dd5dc4b872"
+msgid "ID=1016"
+msgstr "ID=1016"
+
+msgctxt "ed3d7c00ea98d3f9acb7e98edda73016"
+msgid "ID=1017"
+msgstr "ID=1017"
+
+msgctxt "e1d3ed90023283aff480ae1e772805f4"
+msgid "ID=1018"
+msgstr "ID=1018"
+
+msgctxt "9ce783650d096f85100a037fe88c74d8"
+msgid "ID=1019"
+msgstr "ID=1019"
+
+msgctxt "9f36605c56f3cdf0bb6eedbf3af3fe12"
+msgid "ID=1020"
+msgstr "ID=1020"
+
+msgctxt "6b63d7bcd333279b6292756e74b73776"
+msgid "ID=1101"
+msgstr "ID=1101"
+
+msgctxt "4583ce3bea1212e92c13eed099885c42"
+msgid "버닝 이벤트 (운수 좋은 날!)"
+msgstr "Raining Event (lucky day!)"
+
+msgctxt "812caed4315a5ce00f9d7fee19298400"
+msgid "아이템 드랍 확률이 증가합니다."
+msgstr "Item drop rate increased."
+
+msgctxt "5b038cc3886bb12e834a596d025bec1f"
+msgid "Icon/Booster/Icon_Booster_Event_Item1"
+msgstr "Icon/Booster/Icon_Booster_Event_Item1"
+
+msgctxt "5387cff9d71a2100a7e2686769b82e00"
+msgid "ID=1102"
+msgstr "ID=1102"
+
+msgctxt "4e23984b25d49a6efaf6aedfb71885d2"
+msgid "ID=1103"
+msgstr "ID=1103"
+
+msgctxt "c976628c927938e087cc8d98a6a7eca3"
+msgid "ID=1104"
+msgstr "ID=1104"
+
+msgctxt "3b8142af5008589c38177e1511f80558"
+msgid "ID=1105"
+msgstr "ID=1105"
+
+msgctxt "58923fd9879045f8e0cc72ac7e036f06"
+msgid "ID=1106"
+msgstr "ID=1106"
+
+msgctxt "96e3999aab30c811030d3b338c2d2e06"
+msgid "ID=1107"
+msgstr "ID=1107"
+
+msgctxt "2e7f11b58deea3cf3301e410ddbab1b8"
+msgid "ID=1108"
+msgstr "ID=1108"
+
+msgctxt "3dc560e887b85735f93536ff8f296dd0"
+msgid "ID=1109"
+msgstr "ID=1109"
+
+msgctxt "c4fdd6dadfc3bd8d46a9db2797c19df4"
+msgid "ID=1110"
+msgstr "ID=1110"
+
+msgctxt "9a9b54b18ffcf8059d771f94b401adb6"
+msgid "ID=1111"
+msgstr "ID=1111"
+
+msgctxt "e82de9c53ac0657c418e7366d253520b"
+msgid "ID=1112"
+msgstr "ID=1112"
+
+msgctxt "f2e9f1525b215ed876e94aa9a2f9f0a6"
+msgid "ID=1113"
+msgstr "ID=1113"
+
+msgctxt "10e2e8f82d724adcb40f101656719dea"
+msgid "ID=1114"
+msgstr "ID=1114"
+
+msgctxt "be6444a3acb0b96e1640579883faf726"
+msgid "ID=1115"
+msgstr "ID=1115"
+
+msgctxt "645d6fde3ec0eee3cc819eee9e7c2bbd"
+msgid "ID=1116"
+msgstr "ID=1116"
+
+msgctxt "16d04b41201f55c52e42c885c130017a"
+msgid "ID=1117"
+msgstr "ID=1117"
+
+msgctxt "f10de078b43987417f83d8a36919a3aa"
+msgid "ID=1118"
+msgstr "ID=1118"
+
+msgctxt "9fad5040d977fe85fc9e6faa76f39ba4"
+msgid "ID=1119"
+msgstr "ID=1119"
+
+msgctxt "a024ccd2295a95738095854467c7114d"
+msgid "ID=1120"
+msgstr "ID=1120"
+
+msgctxt "61d170adddd238e05098faabb37da335"
+msgid "ID=1121"
+msgstr "ID=1121"
+
+msgctxt "876336e0f1c43624c181b67babaa0694"
+msgid "ID=1122"
+msgstr "ID=1122"
+
+msgctxt "2262cda4f4e95b2cba007e01b3551949"
+msgid "ID=1123"
+msgstr "ID=1123"
+
+msgctxt "7aedd6d8c03abd97ac6c66a011995061"
+msgid "ID=1124"
+msgstr "ID=1124"
+
+msgctxt "80d73d799d32d78b96cd49f4345d0c86"
+msgid "ID=1125"
+msgstr "ID=1125"
+
+msgctxt "18aaa38abbe358c0d55c7dd110945da7"
+msgid "ID=1126"
+msgstr "ID=1126"
+
+msgctxt "db353a28870d6d45d50b5c6ba3b433dc"
+msgid "ID=1127"
+msgstr "ID=1127"
+
+msgctxt "38f9413a080c6233de2c13cc6120d05e"
+msgid "ID=1128"
+msgstr "ID=1128"
+
+msgctxt "211881a467bebc90497131444e0ff5e8"
+msgid "ID=1129"
+msgstr "ID=1129"
+
+msgctxt "13843914136a19f7c290056e3f287738"
+msgid "ID=1130"
+msgstr "ID=1130"
+
+msgctxt "a075574eccd12d9e899635db3d224a9a"
+msgid "ID=1201"
+msgstr "ID=1201"
+
+msgctxt "e2cd890bf6e7f10f9c4a8b20830fe060"
+msgid "버닝 이벤트 (부자 되는 법!)"
+msgstr "Burning event (how to get rich!)"
+
+msgctxt "6faeaceb82b7704c77c03d5dc366ac56"
+msgid "제니 획득 확률이 증가합니다."
+msgstr "Increases the chance of getting Zenny."
+
+msgctxt "6ddcc3d76de42f2f291b972f89ecc24d"
+msgid "Icon/Booster/Icon_Booster_Event_Gold1"
+msgstr "Icon/Booster/Icon_Booster_Event_Gold1"
+
+msgctxt "f69972eef664e1e7363a3f81331d5671"
+msgid "ID=1202"
+msgstr "ID=1202"
+
+msgctxt "a4f6a2489b718fa811871b6cee08d646"
+msgid "ID=1203"
+msgstr "ID=1203"
+
+msgctxt "3b83fc86fa3e52b618a5b543ecbf975f"
+msgid "ID=1204"
+msgstr "ID=1204"
+
+msgctxt "4e0808ae5c7d0129a4d691c434e411d8"
+msgid "ID=1205"
+msgstr "ID=1205"
+
+msgctxt "664f8241793f1eaef4680803a422918c"
+msgid "ID=1206"
+msgstr "ID=1206"
+
+msgctxt "ea9ab847b050a06426ce30275a33e645"
+msgid "ID=1207"
+msgstr "ID=1207"
+
+msgctxt "a5be5923117f1bd07817680dbc45fbae"
+msgid "ID=1208"
+msgstr "ID=1208"
+
+msgctxt "3e458ca1eb8a6474e5534903d33c4b64"
+msgid "ID=1209"
+msgstr "ID=1209"
+
+msgctxt "a01c8d9c8ef5aeaf3bdf817222c005a7"
+msgid "ID=1210"
+msgstr "ID=1210"
+
+msgctxt "8cd4b0f5b33fdc428a0a46baf06eb17d"
+msgid "ID=1211"
+msgstr "ID=1211"
+
+msgctxt "9d153613c5f494fb6c66ea33543957fc"
+msgid "ID=1212"
+msgstr "ID=1212"
+
+msgctxt "eff7d64d632fa2556df1b62ff4590970"
+msgid "ID=1213"
+msgstr "ID=1213"
+
+msgctxt "bb543064fc3660511be87a7ba06cb37a"
+msgid "ID=1214"
+msgstr "ID=1214"
+
+msgctxt "c7b061a2795c5ac1746d1fbf1772c67b"
+msgid "ID=1215"
+msgstr "ID=1215"
+
+msgctxt "9ac5ba2d6093d3b9ca99803f5c47c926"
+msgid "ID=1216"
+msgstr "ID=1216"
+
+msgctxt "3c01a231a333bb5ff4ca50a35e4c9a1a"
+msgid "ID=1217"
+msgstr "ID=1217"
+
+msgctxt "c8c704f0545651b1c4901fc8757a53a3"
+msgid "ID=1218"
+msgstr "ID=1218"
+
+msgctxt "8b99d1a6556a7a26e7ae9061b2393df8"
+msgid "ID=1219"
+msgstr "ID=1219"
+
+msgctxt "7431bec088b1068f7dafcf7d27f49e5c"
+msgid "ID=1220"
+msgstr "ID=1220"
+
+msgctxt "f9cba024ddd76e61dbfc481f168b9d22"
+msgid "ID=1301"
+msgstr "ID=1301"
+
+msgctxt "c72d670cc6e9fd1f53078be9e37bc97e"
+msgid "버닝 이벤트 Bonus! Hot Time!"
+msgstr "Burning Event Bonus! Hot Time!"
+
+msgctxt "a4afe69574191d7e56289bfdf2743dcb"
+msgid "경험치, 제니 획득 확률이 증가합니다."
+msgstr "Experience and Zenny are increased."
+
+msgctxt "b34f31b3970583bc873b7c03a2e6c6d2"
+msgid "Icon/Booster/Icon_Booster_Event_Burning1"
+msgstr "Icon/Booster/Icon_Booster_Event_Burning1"
+
+msgctxt "4d2777397cade2d28c24fd46c20093a0"
+msgid "ID=1302"
+msgstr "ID=1302"
+
+msgctxt "9377285a07161e184b74671393c226fb"
+msgid "ID=1303"
+msgstr "ID=1303"
+
+msgctxt "70f5bd481476f9befba9147482e79f13"
+msgid "ID=1304"
+msgstr "ID=1304"
+
+msgctxt "900aa381536d94be49ccc2ec53f976c5"
+msgid "ID=1305"
+msgstr "ID=1305"
+
+msgctxt "317d1f2d06c10100a5490ec29e1d32a3"
+msgid "ID=1306"
+msgstr "ID=1306"
+
+msgctxt "cec157023e8b257d5e60ac1949b8ac8a"
+msgid "ID=1307"
+msgstr "ID=1307"
+
+msgctxt "69d032a2a4a524aec5652a118f99e3b9"
+msgid "ID=1308"
+msgstr "ID=1308"
+
+msgctxt "3b52f0750ee776ff32a03cbf926457f9"
+msgid "ID=1309"
+msgstr "ID=1309"
+
+msgctxt "ac7f92c36df1c70ceca592afa03bbf99"
+msgid "ID=1310"
+msgstr "ID=1310"
+
+msgctxt "39ae14e996e7bf7ea116aca6bfa3c642"
+msgid "ID=1311"
+msgstr "ID=1311"
+
+msgctxt "1e4f5dbb0fc764397a7128dadbd8142d"
+msgid "ID=1312"
+msgstr "ID=1312"
+
+msgctxt "c908efb1084cf107bf11340e023e8b6e"
+msgid "ID=1313"
+msgstr "ID=1313"
+
+msgctxt "10a1474941765456b2755b11ce88d6c6"
+msgid "ID=1314"
+msgstr "ID=1314"
+
+msgctxt "b3cc8d04a3dd50e9a38dc51d609d261f"
+msgid "ID=1315"
+msgstr "ID=1315"
+
+msgctxt "dac76759a384cf0fa81d50f603b68d3b"
+msgid "ID=1316"
+msgstr "ID=1316"
+
+msgctxt "49a7443983afbd9fca2548fea26ed843"
+msgid "ID=1317"
+msgstr "ID=1317"
+
+msgctxt "d8bf226cb103d7c5dce2aa325c488226"
+msgid "ID=1318"
+msgstr "ID=1318"
+
+msgctxt "e3d7d9a1214be4be0ed7999892ab5884"
+msgid "ID=1319"
+msgstr "ID=1319"
+
+msgctxt "c0aca88522688b78053bfb2dd09d92fc"
+msgid "ID=1320"
+msgstr "ID=1320"
+
+msgctxt "c038b3488d12e8dc864af7594eab58b8"
+msgid "ID=1401"
+msgstr "ID=1401"
+
+msgctxt "508b057ae0c3c1957c9e68b1ce453728"
+msgid "경험치 획득량과 아이템 드랍 확률이 증가합니다."
+msgstr "EXP gain and item drop rate increased."
+
+msgctxt "c2138a7e2ad562694fee0ab3819c8c32"
+msgid "ID=1402"
+msgstr "ID=1402"
+
+msgctxt "3c6ef52115707c088fb559bc17a676d2"
+msgid "ID=1403"
+msgstr "ID=1403"
+
+msgctxt "1ac7017a12e61b11f4991259af374f98"
+msgid "ID=1404"
+msgstr "ID=1404"
+
+msgctxt "1e7282f1cf56f6f1db7cf91f6e0d9157"
+msgid "ID=1405"
+msgstr "ID=1405"
+
+msgctxt "ff74c7a944a16176bad68a10621133c8"
+msgid "ID=1406"
+msgstr "ID=1406"
+
+msgctxt "d21713eb948e155f8a7ea30ae9139f3c"
+msgid "ID=1407"
+msgstr "ID=1407"
+
+msgctxt "92f61253f28b18ec0d92d19eefad99da"
+msgid "ID=1408"
+msgstr "ID=1408"
+
+msgctxt "d8010e09fc79f7778dd1b87e80baf93a"
+msgid "ID=1409"
+msgstr "ID=1409"
+
+msgctxt "97b7ec11e30cdd7cf6ffca7d328e9caf"
+msgid "ID=1410"
+msgstr "ID=1410"
+
+msgctxt "fbd003bcf325416abfd02b0cfa3b6063"
+msgid "ID=1411"
+msgstr "ID=1411"
+
+msgctxt "5e8b8292395d9191ba36545b6d4ea97e"
+msgid "ID=1412"
+msgstr "ID=1412"
+
+msgctxt "3e8dc8230581a0a36d272368ca09f4ac"
+msgid "ID=1413"
+msgstr "ID=1413"
+
+msgctxt "8bc13c8235c7f44b62588540ab1cf82b"
+msgid "ID=1414"
+msgstr "ID=1414"
+
+msgctxt "6761e71e447e90e9e2d964667b263e81"
+msgid "ID=1415"
+msgstr "ID=1415"
+
+msgctxt "86dcd310c39e8d3d991aa0dd02e87854"
+msgid "ID=1416"
+msgstr "ID=1416"
+
+msgctxt "69fb325bb329e0b2ef8e84efdc2240f4"
+msgid "ID=1417"
+msgstr "ID=1417"
+
+msgctxt "819a0fd6ac0ced015177fa1cfd8f0660"
+msgid "ID=1418"
+msgstr "ID=1418"
+
+msgctxt "75685b313c0bdfcf0c3eb7fd8217bbfe"
+msgid "ID=1419"
+msgstr "ID=1419"
+
+msgctxt "9a0fda296281710ec6269280a70af69e"
+msgid "ID=1420"
+msgstr "ID=1420"
+
+msgctxt "99e33c886fd65556b97225392f1e8141"
+msgid "ID=1421"
+msgstr "ID=1421"
+
+msgctxt "ad82b283c98b7fd027209e370acb237c"
+msgid "ID=1422"
+msgstr "ID=1422"
+
+msgctxt "f712f88daa161f22c2ead86d57610473"
+msgid "ID=1501"
+msgstr "ID=1501"
+
+msgctxt "4b5dc0fb6a416a8fef65913ca7ccc4a0"
+msgid "제니 획득 확률과 아이템 드랍 확률이 증가합니다."
+msgstr "Increases your chances of getting Zenny and dropping items."
+
+msgctxt "7ce31269aa818528b5db1d54db867651"
+msgid "ID=1502"
+msgstr "ID=1502"
+
+msgctxt "d3b135946dac4daaf063915527879b74"
+msgid "ID=1503"
+msgstr "ID=1503"
+
+msgctxt "309584c3f83081876c3ba22d3a0f55ac"
+msgid "ID=1504"
+msgstr "ID=1504"
+
+msgctxt "bc0741f4d5a44ea6c3731b938ce0f494"
+msgid "ID=1505"
+msgstr "ID=1505"
+
+msgctxt "0f558cf6fafe9391d8d1acd204bbf34f"
+msgid "ID=1506"
+msgstr "ID=1506"
+
+msgctxt "b770d525b4928c7c05b6190537564a43"
+msgid "ID=1507"
+msgstr "ID=1507"
+
+msgctxt "bfae93f05d0e3b4b73ca368f7291b0a0"
+msgid "ID=1508"
+msgstr "ID=1508"
+
+msgctxt "c7028feb0120d6efda76cd318229e79d"
+msgid "ID=1509"
+msgstr "ID=1509"
+
+msgctxt "f9191f7f85f59d1838353c5ca1fd2c0a"
+msgid "ID=1510"
+msgstr "ID=1510"
+
+msgctxt "08146f7515476ae047ce4f389d24e69e"
+msgid "ID=1511"
+msgstr "ID=1511"
+
+msgctxt "2b74c4ad9028f811468b246edd4612cb"
+msgid "ID=1512"
+msgstr "ID=1512"
+
+msgctxt "745dd3503aee49c91fc6ee4e3f061678"
+msgid "ID=1513"
+msgstr "ID=1513"
+
+msgctxt "a4d704debce602917f7c85ca4dd73c07"
+msgid "ID=1514"
+msgstr "ID=1514"
+
+msgctxt "35ffa4dc87f6a1ef0fdca1d5e80e141c"
+msgid "ID=1515"
+msgstr "ID=1515"
+
+msgctxt "373aa2defbb23016aff1c8b9695aed62"
+msgid "ID=1516"
+msgstr "ID=1516"
+
+msgctxt "cc2e125a0cfe26f746b9bd065d7e2af9"
+msgid "ID=1517"
+msgstr "ID=1517"
+
+msgctxt "8da8ac9706ab64c1abdaa393a0fd9b7b"
+msgid "ID=1518"
+msgstr "ID=1518"
+
+msgctxt "80a5795b3f42c3fe82ca60d83f6c9b72"
+msgid "ID=1519"
+msgstr "ID=1519"
+
+msgctxt "317b02f5f0ca479cc19d102c79fed913"
+msgid "ID=1520"
+msgstr "ID=1520"
+
+msgctxt "67030c39f909e5c713a4d8ae6f0e7138"
+msgid "ID=1601"
+msgstr "ID=1601"
+
+msgctxt "bee7e8a8ee8ec288e6070bbe8566f914"
+msgid "경험치, 제니 획득 확률과 아이템 드랍 확률이 증가합니다."
+msgstr "Experience, Zenny gain and item drop chance increased."
+
+msgctxt "0d173ac08664eb7c4f6102931ff5b9bb"
+msgid "ID=1602"
+msgstr "ID=1602"
+
+msgctxt "b07377f897f099ef58f031c90c1dc78d"
+msgid "ID=1603"
+msgstr "ID=1603"
+
+msgctxt "d0687442553d6e55c398e1808f33f9a4"
+msgid "ID=1604"
+msgstr "ID=1604"
+
+msgctxt "37827078eea292d035125b423a0d5d3d"
+msgid "ID=1605"
+msgstr "ID=1605"
+
+msgctxt "44556dc85fab604df57b841dd3413de4"
+msgid "ID=1606"
+msgstr "ID=1606"
+
+msgctxt "845ef431d314724abf252adc0ca072fb"
+msgid "ID=1607"
+msgstr "ID=1607"
+
+msgctxt "015b0d2b7d8be96c5ddf1533f4bab0ce"
+msgid "ID=1608"
+msgstr "ID=1608"
+
+msgctxt "670c29fa789f3e2b37e406f5ac10f580"
+msgid "ID=1609"
+msgstr "ID=1609"
+
+msgctxt "7e060e1bfe47a27fe1d5ee0d766b6c67"
+msgid "ID=1610"
+msgstr "ID=1610"
+
+msgctxt "aa48e3d22bff710281ced151c4bc83d2"
+msgid "ID=1611"
+msgstr "ID=1611"
+
+msgctxt "880c521e69ebbcec5e7abdea0155ee70"
+msgid "ID=1612"
+msgstr "ID=1612"
+
+msgctxt "7cf0df19834e8253017388574c4b1f36"
+msgid "ID=1613"
+msgstr "ID=1613"
+
+msgctxt "41373724cf88a247b90672386efc2d4b"
+msgid "ID=1614"
+msgstr "ID=1614"
+
+msgctxt "57855dea4627d4f8dd2dda51f7dc8bec"
+msgid "ID=1615"
+msgstr "ID=1615"
+
+msgctxt "68e0316c3e442ae93e71f0d561832621"
+msgid "ID=1616"
+msgstr "ID=1616"
+
+msgctxt "09ef9b7761e2a243f180b756be3993bf"
+msgid "ID=1617"
+msgstr "ID=1617"
+
+msgctxt "1cf6da883eb593e0963dd4152f28fb7f"
+msgid "ID=1618"
+msgstr "ID=1618"
+
+msgctxt "86a09d62b6f34e04c6e9125b3e33b787"
+msgid "ID=1619"
+msgstr "ID=1619"
+
+msgctxt "b75895121f6d5ad8ebc5b96d0f0570e7"
+msgid "ID=1620"
+msgstr "ID=1620"
+
+msgctxt "fca071eb7cfed0f0471cae59c56e56e7"
+msgid "ID=1700"
+msgstr "ID=1700"
+
+msgctxt "ee219f45866fd3bf2a518cec4b358670"
+msgid "ID=1701"
+msgstr "ID=1701"
+
+msgctxt "f3381c497e61c778191f92df53a27977"
+msgid "ID=1702"
+msgstr "ID=1702"
+
+msgctxt "80e6030aecd8157dc47fc8dbef736465"
+msgid "ID=1703"
+msgstr "ID=1703"
+
+msgctxt "bd64e69ecf1d64de83e597b52ad6dffe"
+msgid "ID=1704"
+msgstr "ID=1704"
+
+msgctxt "1f587feba812d2eb9700e56ebb3481b2"
+msgid "ID=1705"
+msgstr "ID=1705"
+
+msgctxt "c420e829ed602a789dc76ab6f1944525"
+msgid "ID=1706"
+msgstr "ID=1706"
+
+msgctxt "c8367068c06e0631a8177cf888d04e19"
+msgid "ID=1707"
+msgstr "ID=1707"
+
+msgctxt "22433c8138d14ad038eeb67c26043461"
+msgid "ID=1708"
+msgstr "ID=1708"
+
+msgctxt "b3832e370d0273cb4fe92185db2ddecb"
+msgid "ID=1709"
+msgstr "ID=1709"
+
+msgctxt "bcf3c715e2cc5c92ccfc60aa1ff81676"
+msgid "ID=1710"
+msgstr "ID=1710"
+
+msgctxt "cb7874d9c4041d2d01c5f23c702ea5d2"
+msgid "경험치, 아이템 드랍 확률이 증가합니다."
+msgstr "Experience and item drop rate increased."
+
+msgctxt "2c058603b8dc3abaa49f4da32f10f754"
+msgid "ID=1711"
+msgstr "ID=1711"
+
+msgctxt "0c9471f25117195a7043d1be7df09e39"
+msgid "ID=1712"
+msgstr "ID=1712"
+
+msgctxt "95042cba77254158a661e58fb68fd569"
+msgid "ID=1713"
+msgstr "ID=1713"
+
+msgctxt "3685c17945e385d3a25d7c527c6a477e"
+msgid "ID=1714"
+msgstr "ID=1714"
+
+msgctxt "45b1a282205ff023cbc6816e09e979b2"
+msgid "ID=1715"
+msgstr "ID=1715"
+
+msgctxt "7b80de33f86d5ba645f98b2d77fd4b72"
+msgid "ID=1716"
+msgstr "ID=1716"
+
+msgctxt "dfb389272eaa91a30ff5a56826747877"
+msgid "ID=1717"
+msgstr "ID=1717"
+
+msgctxt "452ad976102c4f5acd3cfa98d0adb9f4"
+msgid "ID=1718"
+msgstr "ID=1718"
+
+msgctxt "c29f0997e6f942a32bec857395b1ac23"
+msgid "ID=1719"
+msgstr "ID=1719"
+
+msgctxt "0fc5ee07763126a543771b55a1fbec88"
+msgid "ID=1800"
+msgstr "ID=1800"
+
+msgctxt "9ccd01f06313c439ea9df45284f364f2"
+msgid "ID=1801"
+msgstr "ID=1801"
+
+msgctxt "77952e41493f321af35775605c73d044"
+msgid "경험치, 아이템 제니 확률이 증가합니다."
+msgstr "Experience and item Zenny chance increased."
+
+msgctxt "cfe23c4dcec82d6da802f32a69a40a69"
+msgid "ID=1802"
+msgstr "ID=1802"
+
+msgctxt "6cd2bfc728910aa003a38229b551738d"
+msgid "ID=1803"
+msgstr "ID=1803"
+
+msgctxt "ba1c3fb3d3452cfad58ceed3dada50ed"
+msgid "ID=1810"
+msgstr "ID=1810"
+
+msgctxt "462dcddd50726a790f2b0017a9322a9f"
+msgid "클래스 버닝 이벤트 Bouns! Hot Time!"
+msgstr "Class Burning Event Bonus! Hot Time!"
+
+msgctxt "301bd06c3ff837a61e316229f015778b"
+msgid "이벤트 대상 클래스의 사냥/메이즈 클리어/퀘스트 클리어로 습득하는 경험치가 증가합니다."
+msgstr ""
+"Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is "
+"increased."
+
+msgctxt "75bed3eacb335e90bedc3b1f1c77ffc3"
+msgid "ID=1811"
+msgstr "ID=1811"
+
+msgctxt "598e55bcecdd283e361046adad37a345"
+msgid "ID=1812"
+msgstr "ID=1812"
+
+msgctxt "f9012c5f6c538fcb11e9a473d7686360"
+msgid "ID=1813"
+msgstr "ID=1813"
+
+msgctxt "8f06e79934cc4c728733612e4c1ed33b"
+msgid "ID=1814"
+msgstr "ID=1814"
+
+msgctxt "1cd855d51dd2e979311e01b917f4425b"
+msgid "ID=1815"
+msgstr "ID=1815"
+
+msgctxt "321e802844f113120f906e0a99a5ca9d"
+msgid "ID=1816"
+msgstr "ID=1816"
+
+msgctxt "ddbff8ccb73740ac44b2e45860740e4e"
+msgid "ID=1817"
+msgstr "ID=1817"
+
+msgctxt "f88c4b96a0a835cbd97523cbc29530c0"
+msgid "ID=1818"
+msgstr "ID=1818"
+
+msgctxt "00dcbe09a831124f9a86499c6963f227"
+msgid "ID=1819"
+msgstr "ID=1819"
+
+msgctxt "4235fc781d0ec9bc948c728ed660c333"
+msgid "ID=1820"
+msgstr "ID=1820"
+
+msgctxt "f7462dad533df2abdfaa395b46b7ec16"
+msgid "이벤트 대상 클래스의 경험치/제니 획득 확률/아이템드랍 확률이 증가합니다."
+msgstr ""
+"Experience, Zenny, and Item Drop chances for the target class increase."
+
+msgctxt "0f030c4008ed907d4f178c6564fed778"
+msgid "ID=1821"
+msgstr "ID=1821"
+
+msgctxt "bf0d0912d59cd16c3c6e17e8416cd7df"
+msgid "ID=1822"
+msgstr "ID=1822"
+
+msgctxt "3d7fbda1a77131609d2f11e16969aba8"
+msgid "ID=1823"
+msgstr "ID=1823"
+
+msgctxt "47a67f8e84b6aac135bf406e00b9e1b0"
+msgid "ID=1824"
+msgstr "ID=1824"
+
+msgctxt "457c303bebce1a0cefc29d351690bee7"
+msgid "ID=1825"
+msgstr "ID=1825"
+
+msgctxt "0b1ab2684445ac1058c547952b8737bf"
+msgid "이벤트 대상 클래스의 경험치/제니 획득 확률이 증가합니다."
+msgstr ""
+"Experience / Zenny gain rate increased for the target class of the event."
+
+msgctxt "6d0ec10f3580c49c5a10ea361f7ede16"
+msgid "ID=1826"
+msgstr "ID=1826"
+
+msgctxt "2acf25125b19945b22b19830ec113603"
+msgid "ID=1827"
+msgstr "ID=1827"
+
+msgctxt "faec8d22639c493a69ce2515245c4f98"
+msgid "ID=1828"
+msgstr "ID=1828"
+
+msgctxt "1b7994546bd6708bf68843373a24f904"
+msgid "ID=1829"
+msgstr "ID=1829"
+
+msgctxt "4057119d48b6634fff1976b2d5438748"
+msgid "ID=1830"
+msgstr "ID=1830"
+
+msgctxt "3d67dc2d128cbd54b4549421301cf582"
+msgid "이벤트 대상 클래스의 경험치/아이템드랍 확률이 증가합니다."
+msgstr "Experience / Item drop rate of the event target class is increased."
+
+msgctxt "8277d4c162245e63f2fb9ec5b857dde5"
+msgid "ID=1831"
+msgstr "ID=1831"
+
+msgctxt "1add6b2842bb75f0345f32427f748ef2"
+msgid "ID=1832"
+msgstr "ID=1832"
+
+msgctxt "20e6921ba2ef3c2264ebf2ffd341d67b"
+msgid "ID=1833"
+msgstr "ID=1833"
+
+msgctxt "5df9b446a095141b6ef3cf89ebef02ce"
+msgid "ID=1834"
+msgstr "ID=1834"
+
+msgctxt "b21275afbcbd6a431ca73d7706743e33"
+msgid "ID=1835"
+msgstr "ID=1835"
+
+msgctxt "cd3946776d9b6aa2c85952a03c1107f0"
+msgid "이벤트 대상 클래스의 제니 획득 확률/아이템 드랍 확률이 증가합니다."
+msgstr ""
+"Increases the chance of getting Zenny / item drop for the target class of "
+"the event."
+
+msgctxt "65ad9d6615957e45cad34dc8f78825ce"
+msgid "ID=1836"
+msgstr "ID=1836"
+
+msgctxt "0a5b7e8d0d99f52a54655dc51c9bfeb4"
+msgid "ID=1837"
+msgstr "ID=1837"
+
+msgctxt "b97109e521ed8bd6a910a5126d79a19c"
+msgid "ID=1838"
+msgstr "ID=1838"
+
+msgctxt "a4d8178b9675f5db3b507d760b70bb29"
+msgid "ID=1839"
+msgstr "ID=1839"
+
+msgctxt "700a0a07042a73ef1f7ddcd0da7a4076"
+msgid "ID=1840"
+msgstr "ID=1840"
+
+msgctxt "b2482ab0cbf0403b9dbb586c1ffd1560"
+msgid "이벤트 대상 클래스의 경험치 획득 확률이 증가합니다."
+msgstr ""
+"The chance to gain experience for the target class of the event is increased."
+""
+
+msgctxt "9388ecf91e08b6a5b07eac308cddc279"
+msgid "ID=1841"
+msgstr "ID=1841"
+
+msgctxt "9734809817356182f830cb18f0678cc4"
+msgid "ID=1842"
+msgstr "ID=1842"
+
+msgctxt "605912725d3dc91973ba98c01a8360e0"
+msgid "ID=1843"
+msgstr "ID=1843"
+
+msgctxt "97e8900a7875891fa4129a19765d469d"
+msgid "ID=1844"
+msgstr "ID=1844"
+
+msgctxt "ebe51c6aeb2c818150bf6b1e16800803"
+msgid "ID=1845"
+msgstr "ID=1845"
+
+msgctxt "b0b43e3fe669c3bbcacdf7e09a0662e6"
+msgid "이벤트 대상 클래스의 제니 획득 확률이 증가합니다."
+msgstr "Increases the chance of Zenny gaining the target class of the event."
+
+msgctxt "75dcad1e08a59efb315d4f86b13c1afc"
+msgid "ID=1846"
+msgstr "ID=1846"
+
+msgctxt "db26ac55969b2cdefd8a47fb647c4fdf"
+msgid "ID=1847"
+msgstr "ID=1847"
+
+msgctxt "42c2fd1e9ab88b286007262fb6c129ae"
+msgid "ID=1848"
+msgstr "ID=1848"
+
+msgctxt "954ca341a5e77c84b21dfe1fcda22194"
+msgid "ID=1849"
+msgstr "ID=1849"
+
+msgctxt "096a1e97028b6e8c090963e3a34f6ba4"
+msgid "ID=1850"
+msgstr "ID=1850"
+
+msgctxt "49bf5f8b7e19d7a6adf2531d54af73cd"
+msgid "이벤트 대상 클래스의 아이템 드랍 확률이 증가합니다."
+msgstr "Increased item drop rate for event target classes."
+
+msgctxt "63cdf0b6071269e123e5b785edcb0033"
+msgid "ID=1851"
+msgstr "ID=1851"
+
+msgctxt "fdecc86ac7f27d6485d13458e4b3fb8f"
+msgid "ID=1852"
+msgstr "ID=1852"
+
+msgctxt "4008f0c9ca38e96e9ce3be294f022264"
+msgid "ID=1853"
+msgstr "ID=1853"
+
+msgctxt "1fdce3ff1b6e51f7405ea7bbd7aa3373"
+msgid "ID=1854"
+msgstr "ID=1854"
+
+msgctxt "e1a9a8e5f7c2a0ffac1f25ea402bf877"
+msgid "ID=2001"
+msgstr "ID=2001"
+
+msgctxt "25bfd731a7b1de57df298f3d7a2ec9e7"
+msgid "Booster! [힘내라 힘!]"
+msgstr "Booster! [Be strong!]"
+
+msgctxt "d9d3b06f4d127430af5be80114ac54e6"
+msgid "Icon/Booster/Icon_Booster_item_Exp1"
+msgstr "Icon/Booster/Icon_Booster_item_Exp1"
+
+msgctxt "a130588bf1664b7f54bf374d35e41268"
+msgid "ID=2002"
+msgstr "ID=2002"
+
+msgctxt "b3259c6a38125b4bc930cda698747e54"
+msgid "ID=2003"
+msgstr "ID=2003"
+
+msgctxt "7a48ba7885e7fd83cfe3ff37ec7951f8"
+msgid "ID=2004"
+msgstr "ID=2004"
+
+msgctxt "8ae7e1a4a73607ac3c7053d2792ef682"
+msgid "ID=2005"
+msgstr "ID=2005"
+
+msgctxt "9df7265b2232c523ef5291ec1af1db5c"
+msgid "ID=2006"
+msgstr "ID=2006"
+
+msgctxt "61d514037c969e134788a7c350852e49"
+msgid "ID=2009"
+msgstr "ID=2009"
+
+msgctxt "3e52733a0155bc986dce0c96dc0af05f"
+msgid "ID=2051"
+msgstr "ID=2051"
+
+msgctxt "1b8f4fa61f31454621ea280b5a0f2836"
+msgid "Booster! [부자 되는 법!]"
+msgstr "Booster! [How to get rich!]"
+
+msgctxt "78ac35a26ae8602d74cfa7f9053aea15"
+msgid "Icon/Booster/Icon_Booster_item_Gold1"
+msgstr "Icon/Booster/Icon_Booster_item_Gold1"
+
+msgctxt "eb6566c021123929065f918ce9d7bc69"
+msgid "ID=2052"
+msgstr "ID=2052"
+
+msgctxt "3840bbddfd108e419cbf5dfb578bf493"
+msgid "ID=2053"
+msgstr "ID=2053"
+
+msgctxt "af0a3b9558df481b7c72bcb573925fee"
+msgid "ID=2054"
+msgstr "ID=2054"
+
+msgctxt "99cd76afc22ca11406d85eabc1d86023"
+msgid "ID=2055"
+msgstr "ID=2055"
+
+msgctxt "2679181e85bb6da45af0961d44f1f23e"
+msgid "ID=2056"
+msgstr "ID=2056"
+
+msgctxt "3f40827499f674151a7337fa59acac25"
+msgid "ID=2101"
+msgstr "ID=2101"
+
+msgctxt "804328f8c8ff38bcbcc4a35371069e6a"
+msgid "Booster! [운수 좋은 날!]"
+msgstr "Booster! [Good luck day!]"
+
+msgctxt "6e2af116c44c7e3857f2c02fab1c936c"
+msgid "Icon/Booster/Icon_Booster_item_Item1"
+msgstr "Icon/Booster/Icon_Booster_item_Item1"
+
+msgctxt "70487e6f13bf378a82406d9df04adbcb"
+msgid "ID=2102"
+msgstr "ID=2102"
+
+msgctxt "27fbdfeff69f577808ee389d1652dfeb"
+msgid "ID=2103"
+msgstr "ID=2103"
+
+msgctxt "faa7f64d62402928f121d071b6fc5d02"
+msgid "ID=2104"
+msgstr "ID=2104"
+
+msgctxt "d169db1a598cbe40cb6af51102725f54"
+msgid "ID=2105"
+msgstr "ID=2105"
+
+msgctxt "7de1b5afe9769870642d479700789ded"
+msgid "ID=2106"
+msgstr "ID=2106"
+
+msgctxt "a25a76da892a842d8eed1dc6daa2ed56"
+msgid "ID=2107"
+msgstr "ID=2107"
+
+msgctxt "5e096708e05578ade30eaaf58d3f2829"
+msgid "ID=2109"
+msgstr "ID=2109"
+
+msgctxt "cecd532e37efb78f41a7a62e7f606cb0"
+msgid "ID=2110"
+msgstr "ID=2110"
+
+msgctxt "ad4349d2fe8371a1a15ecb81bcb67f38"
+msgid "ID=2111"
+msgstr "ID=2111"
+
+msgctxt "ca90142a2ac98b1af32c508c289e3335"
+msgid "ID=2112"
+msgstr "ID=2112"
+
+msgctxt "5f6d49c88fe31e5802b3bd89010bf32f"
+msgid "ID=2151"
+msgstr "ID=2151"
+
+msgctxt "ec8e8d3ec9a91bac5bd24c4e076fd56a"
+msgid "Booster! [광속!]"
+msgstr "Booster! [Beam]"
+
+msgctxt "65e154cbf45b2bcee7b2b72649557dc2"
+msgid "Icon/Booster/Icon_Booster_Item_Burning1"
+msgstr "Icon/Booster/Icon_Booster_Item_Burning1"
+
+msgctxt "1218ba5e0aebbf3f55e318be8c8561f8"
+msgid "ID=2152"
+msgstr "ID=2152"
+
+msgctxt "0ee8ff49da327f27a3c6e24170397377"
+msgid "ID=2153"
+msgstr "ID=2153"
+
+msgctxt "c7f03c34da0775bed77ef51e0a1f32b2"
+msgid "ID=2154"
+msgstr "ID=2154"
+
+msgctxt "92ee6900e329de79ca61c078c4f234a4"
+msgid "ID=2155"
+msgstr "ID=2155"
+
+msgctxt "f308df8ee6ccf840b8f2e294918f6827"
+msgid "ID=2156"
+msgstr "ID=2156"
+
+msgctxt "8b17104e8b56fb5ab5e086826519ea4f"
+msgid "ID=3001"
+msgstr "ID=3001"
+
+msgctxt "171800b6c8d2d8ebc942bc7dd5b97d5b"
+msgid "더 씽 처치! Bonus"
+msgstr "More Thing Church! Bonus"
+
+msgctxt "b0d11abfb8a1ff2c8104c7718e191f29"
+msgid "Icon/Booster/Icon_Booster_Kill_TheXing"
+msgstr "Icon/Booster/Icon_Booster_Kill_TheXing"
+
+msgctxt "91ec85e0a5e89ad999fc06647fa8b1b1"
+msgid "ID=5111"
+msgstr "ID=5111"
+
+msgctxt "34bb2467a6331602a97aa7dd3ea95735"
+msgid "요일 부스터 [경험치 증가]"
+msgstr "Day of week booster [Experience gain]"
+
+msgctxt "8a06ce8c9a1466cfaa4bf5800afe6719"
+msgid "Icon/Booster/Icon_Booster_DailyEvent"
+msgstr "Icon/Booster/Icon_Booster_DailyEvent"
+
+msgctxt "06da4ee535cf748046fcb3964de13d43"
+msgid "ID=5121"
+msgstr "ID=5121"
+
+msgctxt "2c0a209dfc48beb40a9ce37a2573eef7"
+msgid "요일 부스터 [아이템 드랍량 증가]"
+msgstr "Day Booster [Increase Item Drop]"
+
+msgctxt "2b9d8eb857c760439fc0b31571ff184f"
+msgid "ID=5131"
+msgstr "ID=5131"
+
+msgctxt "9f2effefaeb72f1d65524cfaf97ca4c3"
+msgid "요일 부스터 [제니 드랍량 증가]"
+msgstr "Day Booster [Zenny Drop Increase]"
+
+msgctxt "924268318737c627244ff0f940ff4ef2"
+msgid "ID=5141"
+msgstr "ID=5141"
+
+msgctxt "278f3a52f64c004a4b1eae4765128a21"
+msgid "요일 부스터 [공격력 증가]"
+msgstr "Day of week booster [Attack Attack]"
+
+msgctxt "c4a0ea201f733e4f967049850b628e2e"
+msgid "공격력이 증가 합니다."
+msgstr "Attack power is increased."
+
+msgctxt "2dce00aa685f9904bd45eb1476c8a2a7"
+msgid "ID=5151"
+msgstr "ID=5151"
+
+msgctxt "2ebd91353edd558cf06ef71d6774c829"
+msgid "요일 부스터 [방어도 증가]"
+msgstr "Day Booster [Increase Defense]"
+
+msgctxt "57d932acd6f9ae679c05093cb6801556"
+msgid "방어도가 증가 합니다."
+msgstr "Armor increased."
+
+msgctxt "82d92580aeb7b27c2782b628c3b5ef7e"
+msgid "ID=5161"
+msgstr "ID=5161"
+
+msgctxt "70594b8d1dd2045f336b03cc9d95a0e1"
+msgid "요일 부스터 [최대 체력 증가]"
+msgstr "Day Booster [Maximum Stamina Increase]"
+
+msgctxt "a24e63a5b2ae97a724cd98e8674cee9f"
+msgid "최대 체력이 증가 합니다."
+msgstr "Maximum health is increased."
+
+msgctxt "887dcb41d2da72a01e871d08ebad6d65"
+msgid "ID=5171"
+msgstr "ID=5171"
+
+msgctxt "1d77a8d4e62982a19ed6ef00ecce04e3"
+msgid "요일 부스터 [최대 소울 증가]"
+msgstr "Day Booster [Maximum Soul Increase]"
+
+msgctxt "76a87b061bb21a2711503877d7e1a676"
+msgid "최대 소울이 증가 합니다."
+msgstr "The maximum soul increases."
+
+msgctxt "5cecbbec292ac046a08862758ee3a791"
+msgid "ID=5211"
+msgstr "ID=5211"
+
+msgctxt "92d210294cafe9bb4f43da459b72b6e7"
+msgid "ID=5221"
+msgstr "ID=5221"
+
+msgctxt "35b1126d972db72daee1366e0c37f84d"
+msgid "ID=5231"
+msgstr "ID=5231"
+
+msgctxt "8f26134e2e06798082ece65184875f12"
+msgid "ID=5241"
+msgstr "ID=5241"
+
+msgctxt "3a9a25e875b9e8e70beafb3c3363489b"
+msgid "ID=5251"
+msgstr "ID=5251"
+
+msgctxt "02b499cd1bd3e484df367f73bc38458d"
+msgid "ID=5261"
+msgstr "ID=5261"
+
+msgctxt "b75ff20e97dbf7a9bacf0e6502aba209"
+msgid "ID=5271"
+msgstr "ID=5271"
+
+msgctxt "5b76e4c4c2cdc05eecf988a0f0887905"
+msgid "ID=5281"
+msgstr "ID=5281"
+
+msgctxt "8b7a87d98f7c006d9f1b00e7cfb4775d"
+msgid "요일 부스터 [행동력 소모량 감소]"
+msgstr "Day of week booster [reduces power consumption]"
+
+msgctxt "39dd24b31b1b6f224abea81d781fbda2"
+msgid "행동력 소모량이 감소 합니다."
+msgstr "Your power consumption is reduced."
+
+msgctxt "c56ad93aef8de513a5393c0e0b26b1dd"
+msgid "ID=5282"
+msgstr "ID=5282"
+
+msgctxt "8482c869f18ad354512de8cc69996698"
+msgid "ID=5283"
+msgstr "ID=5283"
+
+msgctxt "f007ce4d987ce9be7828c875dab8bba0"
+msgid "ID=5284"
+msgstr "ID=5284"
+
+msgctxt "4fa84987d3e0efa933fcd58e02501ddf"
+msgid "ID=5291"
+msgstr "ID=5291"
+
+msgctxt "dbcb3e0ede941a8755609679fa9928bb"
+msgid "요일 부스터 [히든 이벤트 확정 출현]"
+msgstr "Day of week booster [hidden event confirmed appearance]"
+
+msgctxt "5ba02bd3cda3fb9b8796869b9e4d3f60"
+msgid "히든 이벤트가 확정으로 출현 합니다."
+msgstr "Hidden event comes up with confirmation."
+
+msgctxt "c4d5e57a9a2b6b0e2cc90211eb9e4152"
+msgid "ID=6001"
+msgstr "ID=6001"
+
+msgctxt "30fef5b8e7f983f070042fad6727a52a"
+msgid "클래스 버닝 이벤트 (힘내라! 힘!)"
+msgstr "Class Burning Event (Go! Go! Go!)"
+
+msgctxt "723f1447b70d61f4b68f0ff6926c3abf"
+msgid "이벤트 대상 클래스의 획득 경험치가 증가합니다."
+msgstr "The acquisition experience of the event target class is increased."
+
+msgctxt "eeb715910258eaee1bc9ae91e7f9fbf9"
+msgid "ID=6002"
+msgstr "ID=6002"
+
+msgctxt "876b4459e03ca9848d45992279e490f3"
+msgid "ID=6003"
+msgstr "ID=6003"
+
+msgctxt "ef954c76aa4329e56facbfd47a34be64"
+msgid "ID=6004"
+msgstr "ID=6004"
+
+msgctxt "c6ee53d43d01d3686c7e2db17eefb0d5"
+msgid "ID=6005"
+msgstr "ID=6005"
+
+msgctxt "244385881fbecd5e9713167d908fe555"
+msgid "ID=6006"
+msgstr "ID=6006"
+
+msgctxt "5f7ee567b89e479ffa720480cce8f02d"
+msgid "ID=6007"
+msgstr "ID=6007"
+
+msgctxt "af9eb120fc3a1c2d69f1a62f54683298"
+msgid "ID=6008"
+msgstr "ID=6008"
+
+msgctxt "6da3cdd5e13559dc4b329eb76721b7a2"
+msgid "ID=6009"
+msgstr "ID=6009"
+
+msgctxt "c51540e4d7ffb482bde710694f6e3c69"
+msgid "ID=6010"
+msgstr "ID=6010"
+
+msgctxt "e688d1f298148c8cf10d2f2025a4f96b"
+msgid "ID=6011"
+msgstr "ID=6011"
+
+msgctxt "a7006d625fba139e3eb321a449b65e80"
+msgid "ID=6012"
+msgstr "ID=6012"
+
+msgctxt "698ee5c5b85c84ca2b5eb46ae8f06678"
+msgid "ID=6013"
+msgstr "ID=6013"
+
+msgctxt "a5faa19d0b5ebd41e77c2e90712ad398"
+msgid "ID=6014"
+msgstr "ID=6014"
+
+msgctxt "018672baba678c8f8c6bdc6515d058c2"
+msgid "ID=6015"
+msgstr "ID=6015"
+
+msgctxt "b3c4779dbc1e44773f4e35533b9bc626"
+msgid "ID=6016"
+msgstr "ID=6016"
+
+msgctxt "435e08a53f406d7cad76465b849ffe92"
+msgid "ID=6017"
+msgstr "ID=6017"
+
+msgctxt "66fc74f11e5d92270d84674eb2ff3a9c"
+msgid "ID=6018"
+msgstr "ID=6018"
+
+msgctxt "bc1275eee7b884ec45dc5c9eeeb5ff98"
+msgid "ID=6019"
+msgstr "ID=6019"
+
+msgctxt "0671ffe66dadafbc104a6a94c74edab8"
+msgid "ID=6020"
+msgstr "ID=6020"
+
+msgctxt "16af0c2ee5fa195ee3ebfa8929ff6e8b"
+msgid "ID=6101"
+msgstr "ID=6101"
+
+msgctxt "4ecbc3631cd4ea59603ad03374bb0ed4"
+msgid "클래스 버닝 이벤트 (운수 좋은 날!)"
+msgstr "Class Burning Event (Good Day to Transport!)"
+
+msgctxt "c67497976e8d2d07b9c814a4e6514a04"
+msgid "ID=6102"
+msgstr "ID=6102"
+
+msgctxt "59f33741089e4be280478d15c9b74a4f"
+msgid "ID=6103"
+msgstr "ID=6103"
+
+msgctxt "988c22d40cd6e2f399077ab41b615705"
+msgid "ID=6104"
+msgstr "ID=6104"
+
+msgctxt "b4191e4d00bc51f5d2134f22f7d932e8"
+msgid "ID=6105"
+msgstr "ID=6105"
+
+msgctxt "c4947869e89dd06033bda2f8c25b1a2b"
+msgid "ID=6106"
+msgstr "ID=6106"
+
+msgctxt "b70eec80044fff38fe8650ed0dc9b5e9"
+msgid "ID=6107"
+msgstr "ID=6107"
+
+msgctxt "4777fd12ff40d36456dd3775e1fe39bf"
+msgid "ID=6108"
+msgstr "ID=6108"
+
+msgctxt "1cc4776f0c19188356eb9a91a256498f"
+msgid "ID=6109"
+msgstr "ID=6109"
+
+msgctxt "09a6cdcfb39141ab2591349dc25e7849"
+msgid "ID=6110"
+msgstr "ID=6110"
+
+msgctxt "220fc9cb87e690a741d015ab17e8c962"
+msgid "ID=6111"
+msgstr "ID=6111"
+
+msgctxt "4edec1828d3526f2f0270d654754308c"
+msgid "ID=6112"
+msgstr "ID=6112"
+
+msgctxt "ff0c23a25b56d6798764569f87878ec4"
+msgid "ID=6113"
+msgstr "ID=6113"
+
+msgctxt "32fc1941db3e346b0b02a8981f91cc6d"
+msgid "ID=6114"
+msgstr "ID=6114"
+
+msgctxt "1a2d1a0bafb3211ac7d8f97c1cf4f810"
+msgid "ID=6115"
+msgstr "ID=6115"
+
+msgctxt "77700f5e476585531ac8f9cb18ed2b54"
+msgid "ID=6116"
+msgstr "ID=6116"
+
+msgctxt "4b8aac5a96b3aba2e1834ba1f4397102"
+msgid "ID=6117"
+msgstr "ID=6117"
+
+msgctxt "b181152105d960e7e2acc2676bc1b673"
+msgid "ID=6118"
+msgstr "ID=6118"
+
+msgctxt "d707c170fa0ff7bd95416c1e3361da92"
+msgid "ID=6119"
+msgstr "ID=6119"
+
+msgctxt "eed7c878879e77b25763f581a41741a0"
+msgid "ID=6120"
+msgstr "ID=6120"
+
+msgctxt "7e5495141e081cdb3375189622a3aa94"
+msgid "ID=6121"
+msgstr "ID=6121"
+
+msgctxt "a708e2d96eec370ea84b25d83c2e0ff1"
+msgid "ID=6122"
+msgstr "ID=6122"
+
+msgctxt "c5493dd73c1c46925ce277a83ba46a85"
+msgid "ID=6123"
+msgstr "ID=6123"
+
+msgctxt "7a881af6c97c2d0c6977a9ee5a9830bd"
+msgid "ID=6124"
+msgstr "ID=6124"
+
+msgctxt "b28a77daf55f9b6ee36c1e59fbc95803"
+msgid "ID=6125"
+msgstr "ID=6125"
+
+msgctxt "584aaacc28ee40e66d3837d92f88a698"
+msgid "ID=6126"
+msgstr "ID=6126"
+
+msgctxt "061f84c6aca9da9024313de384d0f787"
+msgid "ID=6127"
+msgstr "ID=6127"
+
+msgctxt "50a8743cbfaf24faaab6ce933492767e"
+msgid "ID=6128"
+msgstr "ID=6128"
+
+msgctxt "236c577de2b24ea8be5247517e8568f9"
+msgid "ID=6129"
+msgstr "ID=6129"
+
+msgctxt "a68ff2bd86e6e6b8ea3ee6994501be9a"
+msgid "ID=6130"
+msgstr "ID=6130"
+
+msgctxt "cafc1ee00b06d03b0c36801c05524b8d"
+msgid "ID=6201"
+msgstr "ID=6201"
+
+msgctxt "ad9aca42352542c76bb645ec036b09ea"
+msgid "클래스 버닝 이벤트 (부자 되는 법!)"
+msgstr "Class Burning Event (How To Get Rich!)"
+
+msgctxt "33cf682b95365ef3f69743a7bf14c555"
+msgid "ID=6202"
+msgstr "ID=6202"
+
+msgctxt "66e534f810497ca41b078ad07b51b369"
+msgid "ID=6203"
+msgstr "ID=6203"
+
+msgctxt "0f759f9e50e95a61cc8c7b8e522dfe39"
+msgid "ID=6204"
+msgstr "ID=6204"
+
+msgctxt "35d800b2994ceaa340d1f92a94804a40"
+msgid "ID=6205"
+msgstr "ID=6205"
+
+msgctxt "65cf44762dc9f86f7ed5d4378c82410a"
+msgid "ID=6206"
+msgstr "ID=6206"
+
+msgctxt "57a83a06ccf9ed751fd90f647238352a"
+msgid "ID=6207"
+msgstr "ID=6207"
+
+msgctxt "ea0d522a16d3ba52b2f59fc5caf74579"
+msgid "ID=6208"
+msgstr "ID=6208"
+
+msgctxt "07383bf816f7836fe145ceb07168ef0a"
+msgid "ID=6209"
+msgstr "ID=6209"
+
+msgctxt "67f2b61241ec6e95819097b5a509a8c4"
+msgid "ID=6210"
+msgstr "ID=6210"
+
+msgctxt "f0ec02f1d164b33344399b82e58683a7"
+msgid "ID=6211"
+msgstr "ID=6211"
+
+msgctxt "9ba9f4a7d22eedcd7648954fefec98d4"
+msgid "ID=6212"
+msgstr "ID=6212"
+
+msgctxt "0e819e57ee2ea3487c9e78871a14d081"
+msgid "ID=6213"
+msgstr "ID=6213"
+
+msgctxt "7d62dbee1f552316c71cd5316d0a882a"
+msgid "ID=6214"
+msgstr "ID=6214"
+
+msgctxt "1c3f1d1d2d726067c60c105e09a669e2"
+msgid "ID=6215"
+msgstr "ID=6215"
+
+msgctxt "b537124b2cec484ba4a7d9b964ff8080"
+msgid "ID=6216"
+msgstr "ID=6216"
+
+msgctxt "7370b2cfb06959be6df84245dd3d6ddd"
+msgid "ID=6217"
+msgstr "ID=6217"
+
+msgctxt "7850387338f2081de1e5ec698fd8097b"
+msgid "ID=6218"
+msgstr "ID=6218"
+
+msgctxt "b3b33c33427c54efa3876ed8759d92ed"
+msgid "ID=6219"
+msgstr "ID=6219"
+
+msgctxt "9f65eea7357fc06e51e256541d2428ce"
+msgid "ID=6220"
+msgstr "ID=6220"
+
+msgctxt "fad472f85931fa36893393935692a817"
+msgid "ID=6301"
+msgstr "ID=6301"
+
+msgctxt "de3659744896dbca0570cf93ef3041b1"
+msgid "클래스 버닝 이벤트 Bonus! Hot Time!"
+msgstr "Class Burning Event Bonus! Hot Time!"
+
+msgctxt "2c793a424889b03240a45a530347a599"
+msgid "이벤트 대상 클래스의 경험치, 제니 획득 확률이 증가합니다."
+msgstr ""
+"Experience, Zenny's chance to increase the class of the event target class."
+
+msgctxt "22c6e607188b7ddb90fbc1b979798830"
+msgid "ID=6302"
+msgstr "ID=6302"
+
+msgctxt "6906b5c3e2c7f8732c816c550700b8ba"
+msgid "ID=6303"
+msgstr "ID=6303"
+
+msgctxt "b65f7b99fa297d3b73d804d1492fb9a6"
+msgid "ID=6304"
+msgstr "ID=6304"
+
+msgctxt "c86acd694164fcf1aa840042e0d01926"
+msgid "ID=6305"
+msgstr "ID=6305"
+
+msgctxt "081ccd3f9fa5fe59f8d561b7bc6df532"
+msgid "ID=6306"
+msgstr "ID=6306"
+
+msgctxt "a0c37663858a49d654cbb1b426fe6a74"
+msgid "ID=6307"
+msgstr "ID=6307"
+
+msgctxt "1dfb72c28d6440b6c3327eac69a98762"
+msgid "ID=6308"
+msgstr "ID=6308"
+
+msgctxt "e28a307704a83e2b2780c78448d57e4c"
+msgid "ID=6309"
+msgstr "ID=6309"
+
+msgctxt "d4a05186f84855acf1b48ee85b72e2bc"
+msgid "ID=6310"
+msgstr "ID=6310"
+
+msgctxt "3efa04e754ba1fcb64dce8342a59ff31"
+msgid "ID=6311"
+msgstr "ID=6311"
+
+msgctxt "40bccd0c5601339e3291da476adce850"
+msgid "ID=6312"
+msgstr "ID=6312"
+
+msgctxt "39f815900bf0c11bd060a608d81247c2"
+msgid "ID=6313"
+msgstr "ID=6313"
+
+msgctxt "3fca052d3b0e7c56ae10d0c3d9b7d231"
+msgid "ID=6314"
+msgstr "ID=6314"
+
+msgctxt "37c905a240b31b06c625318f402669bc"
+msgid "ID=6315"
+msgstr "ID=6315"
+
+msgctxt "7d1c9f15530a60597d4316969ee58031"
+msgid "ID=6316"
+msgstr "ID=6316"
+
+msgctxt "248fefed12e10787d468acefe09403f3"
+msgid "ID=6317"
+msgstr "ID=6317"
+
+msgctxt "4e6d3fc71fca9b596dfbcf60c2c7bf61"
+msgid "ID=6318"
+msgstr "ID=6318"
+
+msgctxt "7061ba342af91731d782808db471b718"
+msgid "ID=6319"
+msgstr "ID=6319"
+
+msgctxt "6627040de571d81a81fb134ac0e94dfa"
+msgid "ID=6320"
+msgstr "ID=6320"
+
+msgctxt "e50e16d6c16bd6cd9b6f471f435b07be"
+msgid "ID=6401"
+msgstr "ID=6401"
+
+msgctxt "5997260f842ab5674faa475ba0a7fa33"
+msgid "이벤트 대상 클래스의 경험치 획득량과 아이템 드랍 확률이 증가합니다."
+msgstr "Experience gained and item drop rate increased."
+
+msgctxt "44dd20fcdfa35f43ccee49e448d32036"
+msgid "ID=6402"
+msgstr "ID=6402"
+
+msgctxt "ba85f77976c3a11c505e449bb2b6c405"
+msgid "ID=6403"
+msgstr "ID=6403"
+
+msgctxt "7711233f4a468dc1c3b4ca0e4616826c"
+msgid "ID=6404"
+msgstr "ID=6404"
+
+msgctxt "6ef6d526d7c16107a9edd7bff32dad97"
+msgid "ID=6405"
+msgstr "ID=6405"
+
+msgctxt "c757215435be636eba47342836acf6a9"
+msgid "ID=6406"
+msgstr "ID=6406"
+
+msgctxt "25f8182bd731b0220547f7e1a077f05e"
+msgid "ID=6407"
+msgstr "ID=6407"
+
+msgctxt "992699f7af2eb446d1965b320ef16037"
+msgid "ID=6408"
+msgstr "ID=6408"
+
+msgctxt "f8f0d3c5fd0188f78beb15d62107180e"
+msgid "ID=6409"
+msgstr "ID=6409"
+
+msgctxt "ec7956ba5f0124ff97693647a078773d"
+msgid "ID=6410"
+msgstr "ID=6410"
+
+msgctxt "a7ea31b817d64f277b2e7fe47585b775"
+msgid "ID=6411"
+msgstr "ID=6411"
+
+msgctxt "53a7d2a601bea538919d8ab7fea906d0"
+msgid "ID=6412"
+msgstr "ID=6412"
+
+msgctxt "ae2ea41c0fb3ecccd036a561aad90e6d"
+msgid "ID=6413"
+msgstr "ID=6413"
+
+msgctxt "5a66f7b6baad47b1e5d9ea182bdda1c5"
+msgid "ID=6414"
+msgstr "ID=6414"
+
+msgctxt "35b9a7e9c9790eeb1b6ff568b839dc28"
+msgid "ID=6415"
+msgstr "ID=6415"
+
+msgctxt "adee806487be89c60b21ed374e245aa2"
+msgid "ID=6416"
+msgstr "ID=6416"
+
+msgctxt "bc63d8c30965495460e47f1dc9372366"
+msgid "ID=6417"
+msgstr "ID=6417"
+
+msgctxt "f4213c1834578ec98f86ba59d4af0d71"
+msgid "ID=6418"
+msgstr "ID=6418"
+
+msgctxt "88cf69ca4b3dedfed655367fa1a8132a"
+msgid "ID=6419"
+msgstr "ID=6419"
+
+msgctxt "42dea1375d77b6ebacaa232ff3a9cb97"
+msgid "ID=6420"
+msgstr "ID=6420"
+
+msgctxt "9ba5d5eaf3714a70c197f40569ffe188"
+msgid "ID=6421"
+msgstr "ID=6421"
+
+msgctxt "f26c04262bfee714691c6203887e5003"
+msgid "ID=6422"
+msgstr "ID=6422"
+
+msgctxt "33c96652056dd1f9b89951f7ca721924"
+msgid "ID=6501"
+msgstr "ID=6501"
+
+msgctxt "7634c5a207c8cb8f9b5e1872ad067ca0"
+msgid "이벤트 대상 클래스의 제니 획득 확률과 아이템 드랍 확률이 증가합니다."
+msgstr ""
+"Increases the chance of obtaining Zenny and dropping items from the target "
+"class of the event."
+
+msgctxt "2eef5837f0dc175d84de6030b0b89379"
+msgid "ID=6502"
+msgstr "ID=6502"
+
+msgctxt "7340ad65364177be8e2bdd64f09845f9"
+msgid "ID=6503"
+msgstr "ID=6503"
+
+msgctxt "a0596b6df38d9f8a7dfd9b569f543f05"
+msgid "ID=6504"
+msgstr "ID=6504"
+
+msgctxt "048809de2303f857241fc9851077c2e8"
+msgid "ID=6505"
+msgstr "ID=6505"
+
+msgctxt "c9c8f9b3bfced7f39498e3184fcf6716"
+msgid "ID=6506"
+msgstr "ID=6506"
+
+msgctxt "d1879e259638de328950990d2c527857"
+msgid "ID=6507"
+msgstr "ID=6507"
+
+msgctxt "a9b546e8f1d9e11130680a1291b3c104"
+msgid "ID=6508"
+msgstr "ID=6508"
+
+msgctxt "5998225501d163573a27e97c3706d42f"
+msgid "ID=6509"
+msgstr "ID=6509"
+
+msgctxt "56fe60bb25470b8837ee275eddd70623"
+msgid "ID=6510"
+msgstr "ID=6510"
+
+msgctxt "6aa08ccf1fae901ecd3f2722c2850ee1"
+msgid "ID=6511"
+msgstr "ID=6511"
+
+msgctxt "1fdd65edcc394806d7e68b889bbbebdd"
+msgid "ID=6512"
+msgstr "ID=6512"
+
+msgctxt "b9aeb4cc2988239b2072f0072d1b7a98"
+msgid "ID=6513"
+msgstr "ID=6513"
+
+msgctxt "58485ea61def2fae700c0ba7da484662"
+msgid "ID=6514"
+msgstr "ID=6514"
+
+msgctxt "79a74212cb3c358c2c76417a5a1a03c9"
+msgid "ID=6515"
+msgstr "ID=6515"
+
+msgctxt "e2412a2dfee2f833f77aa7dd80d5f26e"
+msgid "ID=6516"
+msgstr "ID=6516"
+
+msgctxt "abae0bfbc5fbaa5b86d9fed84793aca2"
+msgid "ID=6517"
+msgstr "ID=6517"
+
+msgctxt "41592054397003ab4292c3c4db17d643"
+msgid "ID=6518"
+msgstr "ID=6518"
+
+msgctxt "cd7c5b2988982cd76da9ba3101f39aaa"
+msgid "ID=6519"
+msgstr "ID=6519"
+
+msgctxt "80cb93bb2540b89096b7a78abf9846df"
+msgid "ID=6520"
+msgstr "ID=6520"
+
+msgctxt "240b332b6ff0270fb520b56c2ffc6821"
+msgid "ID=6601"
+msgstr "ID=6601"
+
+msgctxt "29161b34a6161b4f3eed198b073b341b"
+msgid "이벤트 대상 클래스의 경험치, 제니 획득 확률과 아이템 드랍 확률이 증가합니다."
+msgstr "Experience, class and chance of dropping items will increase."
+
+msgctxt "231e19b49d5c6f7610b91512b651bcfe"
+msgid "ID=6602"
+msgstr "ID=6602"
+
+msgctxt "d5853d4ff9c9035d80a1d945aee406c2"
+msgid "ID=6603"
+msgstr "ID=6603"
+
+msgctxt "066113016cdb4e4fc74b35a6a6dca063"
+msgid "ID=6604"
+msgstr "ID=6604"
+
+msgctxt "79aa952f595ac59cdc7ebc8508e25011"
+msgid "ID=6605"
+msgstr "ID=6605"
+
+msgctxt "e7d1818c1cc8552a7431f20c39197830"
+msgid "ID=6606"
+msgstr "ID=6606"
+
+msgctxt "c7e58eb1d4c4d5cc46cb36d2779eb5d0"
+msgid "ID=6607"
+msgstr "ID=6607"
+
+msgctxt "e74b81576aa0833eaebc857666f156b1"
+msgid "ID=6608"
+msgstr "ID=6608"
+
+msgctxt "0cea93681aa174a9829f666bc83b9b09"
+msgid "ID=6609"
+msgstr "ID=6609"
+
+msgctxt "0f70f6289d02f160be597cd7e1b8886d"
+msgid "ID=6610"
+msgstr "ID=6610"
+
+msgctxt "3cdc6a9775aad20854e64c17e002813a"
+msgid "ID=6611"
+msgstr "ID=6611"
+
+msgctxt "1411f34f846250cbead1c3393a08b4f4"
+msgid "ID=6612"
+msgstr "ID=6612"
+
+msgctxt "25ca839c146b9c9440e8ee09d714a114"
+msgid "ID=6613"
+msgstr "ID=6613"
+
+msgctxt "a9e67ae37bf71c2b42f04db9210fa120"
+msgid "ID=6614"
+msgstr "ID=6614"
+
+msgctxt "6b1241b624c69417d37406e5daa8ff7b"
+msgid "ID=6615"
+msgstr "ID=6615"
+
+msgctxt "538a48ee1ed92d99b17fb70c6f7aec4b"
+msgid "ID=6616"
+msgstr "ID=6616"
+
+msgctxt "08a9c0f1069c4f42288f0fc7ce2429ee"
+msgid "ID=6617"
+msgstr "ID=6617"
+
+msgctxt "f781a66c41aba4cc8125959e1dbdaff9"
+msgid "ID=6618"
+msgstr "ID=6618"
+
+msgctxt "5f8466af285ff838a6ba1d6c9e14279a"
+msgid "ID=6619"
+msgstr "ID=6619"
+
+msgctxt "3c894b799b99be5ed238f556c7680e2c"
+msgid "ID=6620"
+msgstr "ID=6620"
+
+msgctxt "bdfe193aea0bec0e33aac51dac68ae97"
+msgid "ID=6800"
+msgstr "ID=6800"
+
+msgctxt "0651238f759b3b83fa28c01de515edaa"
+msgid "ID=6801"
+msgstr "ID=6801"
+
+msgctxt "6adaccb320e1b9cb2758fd32419284c1"
+msgid "ID=6802"
+msgstr "ID=6802"
+
+msgctxt "9c0f83692c597a2136cc7c50066e8ffb"
+msgid "ID=6803"
+msgstr "ID=6803"
+
+msgctxt "812258c4e6ed0ea0ae4d447f2def043d"
+msgid "ID=6810"
+msgstr "ID=6810"
+
+msgctxt "d6d5509960bb9e00a7f37c450a7eae61"
+msgid "ID=6811"
+msgstr "ID=6811"
+
+msgctxt "6da30f22dc9bc8af3c678194ceb74105"
+msgid "ID=6812"
+msgstr "ID=6812"
+
+msgctxt "1ff655110f7ff41e41c36a4c9e360e13"
+msgid "ID=6813"
+msgstr "ID=6813"
+
+msgctxt "9960edd14ec089dc928149a721070d89"
+msgid "ID=6814"
+msgstr "ID=6814"
+
+msgctxt "855c4097e49bd75de2ad58c6c9bff552"
+msgid "ID=6815"
+msgstr "ID=6815"
+
+msgctxt "432d02faccf9f9d56fe5ddf4d9978d49"
+msgid "ID=6816"
+msgstr "ID=6816"
+
+msgctxt "7940a358c2535f0d2c04a1ea87579811"
+msgid "ID=6817"
+msgstr "ID=6817"
+
+msgctxt "e5b0fdcc4c0e32348d083337c6fc212b"
+msgid "ID=6818"
+msgstr "ID=6818"
+
+msgctxt "0b51fe6143d697b08c3ac90e6f1e6896"
+msgid "ID=6819"
+msgstr "ID=6819"
+
+msgctxt "1aa972b8009c10e925085450251a9925"
+msgid "ID=6820"
+msgstr "ID=6820"
+
+msgctxt "1d91cfcf6ea6fedd828a1fcb782a999a"
+msgid "ID=6821"
+msgstr "ID=6821"
+
+msgctxt "8f8a1c1147abb7bbd17c041d3472ff56"
+msgid "ID=6822"
+msgstr "ID=6822"
+
+msgctxt "1b4183c173ab6154dd5663a0a5d1ed2a"
+msgid "ID=6823"
+msgstr "ID=6823"
+
+msgctxt "f01f1781e921bdcd6bdb21ca884c0410"
+msgid "ID=6824"
+msgstr "ID=6824"
+
+msgctxt "5841078938b231fd8b889afc34a77550"
+msgid "ID=6825"
+msgstr "ID=6825"
+
+msgctxt "9493c8c83d4a193cffa7bfab2766c5c8"
+msgid "ID=6826"
+msgstr "ID=6826"
+
+msgctxt "23c38026cef84e526c4857b1519d8a0b"
+msgid "ID=6827"
+msgstr "ID=6827"
+
+msgctxt "f5576feaf497bff88fdb6800ab6a8da5"
+msgid "ID=6828"
+msgstr "ID=6828"
+
+msgctxt "04d80fba883a64f7e193117c93e8b868"
+msgid "ID=6829"
+msgstr "ID=6829"
+
+msgctxt "acd9fc1a31314e83fc1a7a999871afb3"
+msgid "ID=6830"
+msgstr "ID=6830"
+
+msgctxt "611fc900bbdc0760d89ce32f755a99f3"
+msgid "ID=6831"
+msgstr "ID=6831"
+
+msgctxt "000a5966017bc1e5707936d61d5efad3"
+msgid "ID=6832"
+msgstr "ID=6832"
+
+msgctxt "cca10d06d101e1b26864e3560c09a2b6"
+msgid "ID=6833"
+msgstr "ID=6833"
+
+msgctxt "b81d9f2ace6b4db4d1a9fbbfd7cb2288"
+msgid "ID=6834"
+msgstr "ID=6834"
+
+msgctxt "521f1c3b4ef7705d4d598ce6e132c414"
+msgid "ID=6835"
+msgstr "ID=6835"
+
+msgctxt "07f7562d5783f797edb83c3ead2c8695"
+msgid "이벤트 대상 클래스의 제니 획득 확률/ 아이템 드랍 확률이 증가합니다."
+msgstr ""
+"Increases the chance of earning Zenny or dropping items for the target class "
+"of the event."
+
+msgctxt "d6a80c17fbb43bf5028628646cec3dec"
+msgid "ID=6836"
+msgstr "ID=6836"
+
+msgctxt "1fbd080da947d2f5fe3b66ec14089200"
+msgid "ID=6837"
+msgstr "ID=6837"
+
+msgctxt "6283b1b9e60ebc5be17c4a085eea0dce"
+msgid "ID=6838"
+msgstr "ID=6838"
+
+msgctxt "d1e181efe91439290adf6e83f1edc735"
+msgid "ID=6839"
+msgstr "ID=6839"
+
+msgctxt "d99e7ad5c296c6b0da7b3f67fb270e0e"
+msgid "ID=6840"
+msgstr "ID=6840"
+
+msgctxt "dad315054901f9b4fa6fef98b1eefcd4"
+msgid "ID=6841"
+msgstr "ID=6841"
+
+msgctxt "b1bb84fc0aea2f9055a2db56b571784d"
+msgid "ID=6842"
+msgstr "ID=6842"
+
+msgctxt "2f6f30233acb7b67fc97eec2fa22c440"
+msgid "ID=6843"
+msgstr "ID=6843"
+
+msgctxt "ea7fe4ddd193403a6a58e38fac187f66"
+msgid "ID=6844"
+msgstr "ID=6844"
+
+msgctxt "17c5af475f8fb24a3a7238194af04487"
+msgid "ID=6845"
+msgstr "ID=6845"
+
+msgctxt "ddf1fee20847a12300b82a104e456be4"
+msgid "ID=6846"
+msgstr "ID=6846"
+
+msgctxt "c8831dd50f81bdd99afb8a9d7035308e"
+msgid "ID=6847"
+msgstr "ID=6847"
+
+msgctxt "325e17572fdb13ec3a98e1af8ccc1441"
+msgid "ID=6848"
+msgstr "ID=6848"
+
+msgctxt "00dd3af12e61cbb79be7c4d1eab9daae"
+msgid "ID=6849"
+msgstr "ID=6849"
+
+msgctxt "b1b2b63c0e15791b7495fb82427e633f"
+msgid "ID=6850"
+msgstr "ID=6850"
+
+msgctxt "9e68d4d4e5edad28ba0113d7064f3238"
+msgid "ID=6851"
+msgstr "ID=6851"
+
+msgctxt "d39cc78c664f3a11983fe969d0ad8ec1"
+msgid "ID=6852"
+msgstr "ID=6852"
+
+msgctxt "c58723d8e7437af6dcb2f894b2f323bb"
+msgid "ID=6853"
+msgstr "ID=6853"
+
+msgctxt "745fc35127c522e6d785b837b8d0cda7"
+msgid "ID=6854"
+msgstr "ID=6854"
+
+msgctxt "a384b7218c7fc1b646e26c0dfb9a3878"
+msgid "ID=7000"
+msgstr "ID=7000"
+
+msgctxt "745090e1c330014dfd23c0dce41122d0"
+msgid "응원 이벤트 Booster!"
+msgstr "Cheering Event Booster!"
+
+msgctxt "77439d98aa81480849c19a1fdd89eadf"
+msgid "제니 획득 확률과 체력이 상승합니다."
+msgstr "Chance to increase Zenny and Stamina"
+
+msgctxt "a43a3e3ee5a617c112466d6cab146bcf"
+msgid "ID=7001"
+msgstr "ID=7001"
+
+msgctxt "e43ca6592fd633836e88248dcb3fd1d5"
+msgid "제니 획득 확률과 체력, 공격력, 방어력이 상승합니다."
+msgstr "Chance to increase Zenny, Stamina, Attack and Defense"
+
+msgctxt "64cffbf2a96c534022f08c9da8add39f"
+msgid "ID=9001"
+msgstr "ID=9001"
+
+msgctxt "780c9e3686484c48e1529d91746ec69d"
+msgid "ID=2022"
+msgstr "ID=2022"
+
+msgctxt "e122697b9b86caeffaf3b5be1b5f9d8f"
+msgid "[공격력] 강화 부스터"
+msgstr "[Attack] Booster"
+
+msgctxt "723836fa671fe9a5990c78848614da30"
+msgid "공격력이 증가합니다."
+msgstr "Damage is increased."
+
+msgctxt "0152074ca360c8fa8dc0bae281175800"
+msgid "Icon/Booster/Icon_Booster_BloodPerfume"
+msgstr "Icon/Booster/Icon_Booster_BloodPerfume"
+
+msgctxt "bc11f637714fb1c6dcf39b836d7c7240"
+msgid "ID=2023"
+msgstr "ID=2023"
+
+msgctxt "9ee80ee59ac34b22ee0d7cf9dd40930f"
+msgid "[방어도] 강화 부스터"
+msgstr "[Defense] Booster"
+
+msgctxt "d88c5d1837e6b75df5c6e06ab4501623"
+msgid "방어도가 증가합니다"
+msgstr "The defense is increased."
+
+msgctxt "af1f51122665f25489b569d001852893"
+msgid "Icon/Booster/Icon_Booster_IronPerfume"
+msgstr "Icon/Booster/Icon_Booster_IronPerfume"
+
+msgctxt "7c04698a0d5b93a63324073809b64a91"
+msgid "ID=2024"
+msgstr "ID=2024"
+
+msgctxt "991f88ba8ebcbc135e7c90863a2f9d4b"
+msgid "[공격속도] 강화 부스터"
+msgstr "[Attack Speed] Booster"
+
+msgctxt "289d7c4b15eed83cfc827b9b9508ef4f"
+msgid "공격속도가 증가합니다"
+msgstr "Attack speed is increased."
+
+msgctxt "235c1544cc97da5eee15c834b1b78608"
+msgid "Icon/Booster/Icon_Booster_FlashPerfume"
+msgstr "Icon/Booster/Icon_Booster_FlashPerfume"
+
+msgctxt "c0e95678624c3df9d3abfb873af9e459"
+msgid "ID=2025"
+msgstr "ID=2025"
+
+msgctxt "9f9d2c05ff6cf55d0353a4caf14ebaff"
+msgid "[치명타확률] 강화 부스터"
+msgstr "[Critrate] Booster"
+
+msgctxt "9603fe87832713f35271ed04d8458bfb"
+msgid "치명타 확률이 증가합니다."
+msgstr "Crit chance increased."
+
+msgctxt "4452bae0c136d257b8c5663bc6445443"
+msgid "Icon/Booster/Icon_Booster_LightingPerfume"
+msgstr "Icon/Booster/Icon_Booster_LightingPerfume"
+

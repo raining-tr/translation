@@ -1,0 +1,7569 @@
+# Mitsuki <aimerninelie@gmail.com>, 2020. #zanata
+# William <ImperiousGaming1@gmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-03-06 08:55-0500\n"
+"Last-Translator: Mitsuki <aimerninelie@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "cfcd208495d565ef66e7dff9f98764da"
+msgid "0"
+msgstr "0"
+
+msgctxt "eec66c30a07ad103bcc791269f3b610a"
+msgid "엘레강트 티 셋트[B]"
+msgstr "Elegant tee set [B]"
+
+msgctxt "a524a2b5f3141acfb3d5f989bf481af7"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n엘레강트 시리즈의 티 세트이다. 왠지 "
+"새끼손가락을 올리고 찻잔을 들어야 할 것만 같다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is a tee set "
+"of the elegant series. Somehow, i feel like I need to raise my little finger "
+"and lift the mug."
+
+msgctxt "2f98c5ee7d6404c34d3c26f3feea6471"
+msgid "ID=880301143"
+msgstr "ID=880301143"
+
+msgctxt "f47ce42a89c27245df5c6ceb9942e7ed"
+msgid "엘레강트 티 셋트[C]"
+msgstr "Elegant tee set [C]"
+
+msgctxt "09436a256cbbb3ee3c49ff3a909df7ab"
+msgid "ID=880301151"
+msgstr "ID=880301151"
+
+msgctxt "5b5a4748e69de3b7b748cbf92b422ba5"
+msgid "엘레강트 꽃병[A]"
+msgstr "Elegant vase [A]"
+
+msgctxt "cb91b140d5b3182f96b4d9fe96040b34"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n엘레강트 시리즈의 꽃병이다. 고급스러워서 "
+"내다 팔면 돈이 좀 될 것 같지만 참아야 한다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is a vase of "
+"the elegant series. It's classy and you'll have to put up with it, even if "
+"you sell it, and you're going to have to pay a little bit."
+
+msgctxt "2ec7e25314bf8b1cb3262bb3df669219"
+msgid "ID=880301152"
+msgstr "ID=880301152"
+
+msgctxt "be942f6d5425b496671b1af5396a53c8"
+msgid "엘레강트 꽃병[B]"
+msgstr "Elegant vase [B]"
+
+msgctxt "b42aa7734161e3b5fceef269d6d8f1a9"
+msgid "ID=880301153"
+msgstr "ID=880301153"
+
+msgctxt "a296173293d323a3ad073ee90cc60880"
+msgid "엘레강트 꽃병[C]"
+msgstr "Elegant vase [C]"
+
+msgctxt "c9fd6462dc9649c751a9f61c44205496"
+msgid "ID=880301161"
+msgstr "ID=880301161"
+
+msgctxt "801ef8de69d56c1bd487c2e31e9f17b6"
+msgid "엘레강트 램프[A]"
+msgstr "Elegant lamp [A]"
+
+msgctxt "d43078d1d45c09701d3d9fdba29a43dd"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n엘레강트 시리즈의 램프이다. 고급스러워서 "
+"내다 팔면 돈이 좀 될 것 같지만 참아야 한다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is a lamp of "
+"the elegant series. It's classy and you'll have to put up with it, even if "
+"you sell it, and you're going to have to pay a little bit."
+
+msgctxt "81c6a1aa35048ae1def7ebc9a53a4613"
+msgid "ID=880301162"
+msgstr "ID=880301162"
+
+msgctxt "f00356bd03fe70b4f13b1d7391a61507"
+msgid "엘레강트 램프[B]"
+msgstr "Elegant lamp [B]"
+
+msgctxt "b094d033a54a9f5cc05ccffc62fa014d"
+msgid "ID=880301163"
+msgstr "ID=880301163"
+
+msgctxt "4289894f0baf039ffb962da38b8f7757"
+msgid "엘레강트 램프[C]"
+msgstr "Elegant lamp [C]"
+
+msgctxt "6df7bf8b3eb329eb023800d08b90fea8"
+msgid "ID=880301171"
+msgstr "ID=880301171"
+
+msgctxt "81a713bd44fef9c39479afd96a91ef9d"
+msgid "엘레강트 샤워 부스[A]"
+msgstr "Elegant shower booth [A]"
+
+msgctxt "fec69946f7a99bcd8303531dfd7a9ca9"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n엘레강트 시리즈의 샤워 부스이다. "
+"고급스러워서 마치 부자가 된 것만 같다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is a shower "
+"booth of the elegant series. It's classy, and it's like you're rich."
+
+msgctxt "d37b8094668f1fb361c93fc118cee62b"
+msgid "ID=880301172"
+msgstr "ID=880301172"
+
+msgctxt "f6809dfbd596e1a48d0574628df87de5"
+msgid "엘레강트 샤워 부스[B]"
+msgstr "Elegant shower booth [B]"
+
+msgctxt "5d574f171c1fbc80e48e189cdba3fe07"
+msgid "ID=880301173"
+msgstr "ID=880301173"
+
+msgctxt "95b02fc8f4711a63d9a9dda8f5a10b63"
+msgid "엘레강트 샤워 부스[C]"
+msgstr "Elegant shower booth [C]"
+
+msgctxt "9c2f423aa2707a8ff12cb723b30c6c59"
+msgid "ID=880301181"
+msgstr "ID=880301181"
+
+msgctxt "7e32c158e2606952129ee0bcd3aaa6cc"
+msgid "엘레강트 천장[A]"
+msgstr "Elegant ceiling[A]"
+
+msgctxt "63ab2832a512be624cac5bb8278e870a"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n엘레강트 시리즈의 천장이다. 고급스러워서 "
+"마치 부자가 된 것만 같다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nThe ceiling of "
+"the elegant series. It's classy, and it's like you're rich."
+
+msgctxt "efbb3c4f92ad625a8f2b915c9d2e8a94"
+msgid "ID=880301182"
+msgstr "ID=880301182"
+
+msgctxt "88c70777b4dbb366e5b913615ed4f9d2"
+msgid "엘레강트 천장[B]"
+msgstr "Elegant ceiling [B]"
+
+msgctxt "e8e733abafc4d7075abf5e79e004ef47"
+msgid "ID=880301183"
+msgstr "ID=880301183"
+
+msgctxt "167a8caca9c17ddcc931a965db69907f"
+msgid "엘레강트 천장[C]"
+msgstr "Elegant ceiling [C]"
+
+msgctxt "95b0c2c21980e3dc38f7cf63ced95b2c"
+msgid "ID=880301061"
+msgstr "ID=880301061"
+
+msgctxt "940ce1ba7e3d7a0f2e5c39fe3f1f147f"
+msgid "엘레강트 현관문[A]"
+msgstr "Elegant front door [A]"
+
+msgctxt "4e8784f0f8976f223dd81a1095d770c0"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n엘레강트 시리즈의 현관문이다. "
+"고급스러워서 마치 부자가 된 것만 같다. 문을 열기가 부담스럽기도 하다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is the front "
+"door of the elegant series. It's classy, and it's like you're rich. It's "
+"also a burden to open the door."
+
+msgctxt "a05dfa98875241ff86adb85abf48d889"
+msgid "ID=880301062"
+msgstr "ID=880301062"
+
+msgctxt "446f9e9febaca33f7fdddc62fb1bf491"
+msgid "엘레강트 현관문[B]"
+msgstr "Elegant front door [B]"
+
+msgctxt "56ea145617d9bbda6567d13891f1701b"
+msgid "ID=880301063"
+msgstr "ID=880301063"
+
+msgctxt "a149fb4f3c301dee1f135c0e1fe3819a"
+msgid "엘레강트 현관문[C]"
+msgstr "Elegant front door [C]"
+
+msgctxt "4c06fae533beb8f87ad3ac3945b537ad"
+msgid "ID=880203011"
+msgstr "ID=880203011"
+
+msgctxt "b221073f462e4cf120d0fcdfcf59d9c1"
+msgid "미드 센츄리 패턴 벽지[A]"
+msgstr "Mid-century pattern wallpaper[A]"
+
+msgctxt "affac9019a87803fcd6dc4bfa7c15f52"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 패턴 벽지이다. "
+"빈티지스러운 느낌이 인상적이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nMid century "
+"series is a pattern wallpaper. The vintage feel is impressive."
+
+msgctxt "a0bf7de39b606720cde774a7aa19cfb9"
+msgid "ID=880203012"
+msgstr "ID=880203012"
+
+msgctxt "1d66cee801e4eee29caae134a829eaf9"
+msgid "미드 센츄리 패턴 벽지[B]"
+msgstr "Mid-century pattern wallpaper [B]"
+
+msgctxt "326b9cea1e138a19860e0d36ff2786ab"
+msgid "ID=880203013"
+msgstr "ID=880203013"
+
+msgctxt "d4f52691a7db860bdee609b44f816fbd"
+msgid "미드 센츄리 패턴 벽지[C]"
+msgstr "Mid-century pattern wallpaper [C]"
+
+msgctxt "82d67c7e8af738df4ceeb5ffbb7e8f10"
+msgid "ID=880203021"
+msgstr "ID=880203021"
+
+msgctxt "d49bd75949cbfbf0ecea07682c548504"
+msgid "무광처리한 단색 플로어[A]"
+msgstr "Matte monochrome floor[A]"
+
+msgctxt "e93b36e1703715f866389b138186001f"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 단색 바닥이다. "
+"무광 처리를 하여 더 깊은 색감을 내고 있다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is a solid "
+"floor of the mid-century series. It is matte and produces a deeper color."
+
+msgctxt "f23f8c8dee072c8b500314cd19e31f7d"
+msgid "ID=880203022"
+msgstr "ID=880203022"
+
+msgctxt "e8458d77a3f8e38114f3726f481ed157"
+msgid "무광처리한 단색 플로어[B]"
+msgstr "Matte monochrome floor [B]"
+
+msgctxt "c06e741df7173254b6e9c0af07d95da7"
+msgid "ID=880203023"
+msgstr "ID=880203023"
+
+msgctxt "339f89a72a651cd35aea1616f403d17b"
+msgid "무광처리한 단색 플로어[C]"
+msgstr "Matte monochrome floor[C]"
+
+msgctxt "76001ef4d1cf71e06ac5986438fbc236"
+msgid "ID=880203031"
+msgstr "ID=880203031"
+
+msgctxt "c9cc782dc07113e27788fcdb15d433a2"
+msgid "미드 센츄리 기타 장식[A]"
+msgstr "Mid-century guitar decoration [A]"
+
+msgctxt "7960101957caba432feb6662051f1e1b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 기타 장식이다. 말 "
+"그대로 장식이다. 잡아서 칠 수 없으니 오해하지 말길."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is a guitar "
+"decoration of the Mid Century series. It is literally a decoration. Don't "
+"get me wrong because you can't catch and hit."
+
+msgctxt "8197b3696a460211d2aed485d966a080"
+msgid "ID=880203032"
+msgstr "ID=880203032"
+
+msgctxt "5303b648e5d2409c79109651fb8016af"
+msgid "미드 센츄리 기타 장식[B]"
+msgstr "Mid-century guitar decoration [B]"
+
+msgctxt "2317fa56be931544330578b143ae6e29"
+msgid "ID=880203033"
+msgstr "ID=880203033"
+
+msgctxt "f207d0f9b63ca0f0f31ebf69756bb9f8"
+msgid "미드 센츄리 기타 장식[C]"
+msgstr "Mid-century guitar decoration [C]"
+
+msgctxt "2176f35ebea9da1965c68e001edbbb4e"
+msgid "ID=880203041"
+msgstr "ID=880203041"
+
+msgctxt "702e4e276e1cd28da44ba177922a7a46"
+msgid "미드 센츄리 나무 테라스 문[A]"
+msgstr "Mid-century wooden terrace door [A]"
+
+msgctxt "ca6a134cd5ccadb35eb7885853a3cd10"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 테라스 문이다. "
+"나무소재로 되어 있다. 빈티지스러운 느낌이 인상적이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nThe terrace "
+"door of the Mid Century series. It is made of wood material. The vintage "
+"feel is impressive."
+
+msgctxt "588bc90d23533be68ed1290271c28c75"
+msgid "ID=880203042"
+msgstr "ID=880203042"
+
+msgctxt "f1e5b9fcfdf80dbb05a869244d337961"
+msgid "미드 센츄리 나무 테라스 문[B]"
+msgstr "Mid-century wooden terrace door [B]"
+
+msgctxt "ad8dec52e189366472108f19135b4f65"
+msgid "ID=880203043"
+msgstr "ID=880203043"
+
+msgctxt "2cc375c9d47d5560b46530245b3394ab"
+msgid "미드 센츄리 나무 테라스 문[C]"
+msgstr "Mid-century wooden terrace door [C]"
+
+msgctxt "289f38459659f83c02a25465eab94217"
+msgid "ID=880203051"
+msgstr "ID=880203051"
+
+msgctxt "c144314edcdc9a53d410c5e6231ecb30"
+msgid "미드 센츄리 커튼 창문[A]"
+msgstr "Mid-century curtain window[A]"
+
+msgctxt "f3e41270db54ae8cef7cbc8828d4302d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 커튼 창문이다. "
+"빈티지스러운 느낌이 인상적이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nThe curtain "
+"window of the Mid Century series. The vintage feel is impressive."
+
+msgctxt "25b9066e7481c029a13c3bacdd39137b"
+msgid "ID=880203052"
+msgstr "ID=880203052"
+
+msgctxt "99807c2e24ff9ac08070291a6318c876"
+msgid "미드 센츄리 커튼 창문[B]"
+msgstr "Mid-century curtain window [B]"
+
+msgctxt "bfd76c215b978fde5c85bab2193785f4"
+msgid "ID=880203053"
+msgstr "ID=880203053"
+
+msgctxt "de8585a79015560791136be8894f22c7"
+msgid "미드 센츄리 커튼 창문[C]"
+msgstr "Mid-century curtain window [C]"
+
+msgctxt "15180ec7dfbfc4eb1333c6949e087ee9"
+msgid "ID=880203071"
+msgstr "ID=880203071"
+
+msgctxt "9644f93fee8810d42e688eb0a06c26ea"
+msgid "미드 센츄리 양털 매트[A]"
+msgstr "Mid-century fleece mat [A]"
+
+msgctxt "7524bb2fd5fc2a4567c2fbfbcd8f5dee"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 양털 매트이다. "
+"뒹굴뒹굴하고 싶은 욕망이 들게 한다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is the "
+"fleece mat of the mid-century series. It's a desire to be squatting."
+
+msgctxt "f6a5753d25147091c9a1bfcf54def2ca"
+msgid "ID=880203072"
+msgstr "ID=880203072"
+
+msgctxt "ff413563c858446e41b5031efed82c51"
+msgid "미드 센츄리 양털 매트[B]"
+msgstr "Mid-century fleece mat [B]"
+
+msgctxt "2ae8840990ccbef9a08aa6e415e5c33d"
+msgid "ID=880203073"
+msgstr "ID=880203073"
+
+msgctxt "b266cfb176be07c1a0fbfb549a5ec6dc"
+msgid "미드 센츄리 양털 매트[C]"
+msgstr "Mid-century fleece mat [C]"
+
+msgctxt "71e5017abfd9170af7f3959b64f98639"
+msgid "ID=880203081"
+msgstr "ID=880203081"
+
+msgctxt "bcfd55d9b4c23e2c1b9f12fddfe6e8a9"
+msgid "미드 센츄리 철제 침대[A]"
+msgstr "Mid-century iron bed [A]"
+
+msgctxt "e6e4548997ffcf103b8b5dfacd0a20f2"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 침대이다. "
+"빈티지스러운 느낌이 인상적이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is the bed "
+"of the mid-century series. The vintage feel is impressive."
+
+msgctxt "fea5dd5b410dfee553cfd894b339a8aa"
+msgid "ID=880203082"
+msgstr "ID=880203082"
+
+msgctxt "7a327e6a5bb094d2983526f4f71dfc7f"
+msgid "미드 센츄리 철제 침대[B]"
+msgstr "Mid-century iron bed [B]"
+
+msgctxt "59a1c9ca6b236d1157b94a42569cdecf"
+msgid "ID=880203083"
+msgstr "ID=880203083"
+
+msgctxt "f77126fecb9d58fa15bb0cd4671fe31d"
+msgid "미드 센츄리 철제 침대[C]"
+msgstr "Mid-century iron bed [C]"
+
+msgctxt "ccbd123af464c6cf9d90a9fde11a7497"
+msgid "ID=880203091"
+msgstr "ID=880203091"
+
+msgctxt "2682063202fc849b9ef76235f436e360"
+msgid "미드 센츄리 긴 소파[A]"
+msgstr "Mid-century long sofa [A]"
+
+msgctxt "105f6fd0fb5a294abbb4f2358dae1b50"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 긴 소파이다. "
+"빈티지스러운 느낌이 인상적이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is a long "
+"sofa of the Mid-Century series. The vintage feel is impressive."
+
+msgctxt "144de0982dabfc58115bcf5d0438cd46"
+msgid "ID=880203092"
+msgstr "ID=880203092"
+
+msgctxt "2e87cbcc79df8f1fd56d22eb0a8dc56e"
+msgid "미드 센츄리 긴 소파[B]"
+msgstr "Mid-century long sofa [B]"
+
+msgctxt "e8123e295dd6e49e7ea9349719ebf10b"
+msgid "ID=880203093"
+msgstr "ID=880203093"
+
+msgctxt "6e55209c58aea4b13f2187c04d47159b"
+msgid "미드 센츄리 긴 소파[C]"
+msgstr "Mid-century long sofa [C]"
+
+msgctxt "04395a1662105bead12a61148226b757"
+msgid "ID=880203101"
+msgstr "ID=880203101"
+
+msgctxt "c153b17a1338af976e66b10a00baa57a"
+msgid "미드 센츄리 글래스 테이블[A]"
+msgstr "Mid-century glass table [A]"
+
+msgctxt "7d5fbe419e419b0ab459280999617019"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 글래스 테이블이다. "
+"빈티지스러운 느낌이 인상적이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is a glass "
+"table of the mid-century series. The vintage feel is impressive."
+
+msgctxt "2c93bc9a0ff2bbd97ab1aab6de688fd4"
+msgid "ID=880203102"
+msgstr "ID=880203102"
+
+msgctxt "227f5a4d5ff131e62dd4da3244628dc0"
+msgid "미드 센츄리 글래스 테이블[B]"
+msgstr "Mid-century glass table [B]"
+
+msgctxt "5637650db8d7d4fac095c874430722b4"
+msgid "ID=880203103"
+msgstr "ID=880203103"
+
+msgctxt "17c51d5359cc708ec214da1a35c73a9f"
+msgid "미드 센츄리 글래스 테이블[C]"
+msgstr "Mid-century glass table [C]"
+
+msgctxt "00fefd33f2215f254e10fe405ce0b619"
+msgid "ID=880203111"
+msgstr "ID=880203111"
+
+msgctxt "142ad3bca0aa7ebcd9545a57861b5b6e"
+msgid "미드 센츄리 서랍장[A]"
+msgstr "Mid-century drawer cabinet [A]"
+
+msgctxt "8251269b085e9f0aed93a0d8ef0d00d1"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 서랍장이다. "
+"빈티지스러운 느낌이 인상적이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is a chest "
+"of drawers of the mid-century series. The vintage feel is impressive."
+
+msgctxt "8b4297851e4d60d9b68ed1093c6c3583"
+msgid "ID=880203112"
+msgstr "ID=880203112"
+
+msgctxt "f94147830ffef1e00b33e7ef9dcc8578"
+msgid "미드 센츄리 서랍장[B]"
+msgstr "Mid-century drawer cabinet [B]"
+
+msgctxt "f6016b6180231f986a1695c6faedfd21"
+msgid "ID=880203113"
+msgstr "ID=880203113"
+
+msgctxt "dc2bea2411fc28b8de3c9c0a0cb9e40b"
+msgid "미드 센츄리 서랍장[C]"
+msgstr "Mid-century drawer [C]"
+
+msgctxt "bc4b909a29ac6cb87f8cfcd7342ace2c"
+msgid "ID=880203121"
+msgstr "ID=880203121"
+
+msgctxt "d4aee547cbbd53653c353ff0e0a79338"
+msgid "미드 센츄리 사각 욕조[A]"
+msgstr "Mid-century square bath [A]"
+
+msgctxt "3eceec33a2a0891a759c93c75bd70e22"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 사각 욕조이다. "
+"빈티지스러운 느낌이 인상적이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is a square "
+"bath in the mid-century series. The vintage feel is impressive."
+
+msgctxt "7d0ee5d883afd26443bbcb161ea4d85f"
+msgid "ID=880203122"
+msgstr "ID=880203122"
+
+msgctxt "a222499321a0dc962333b4fb23637e48"
+msgid "미드 센츄리 사각 욕조[B]"
+msgstr "Mid-century square bath [B]"
+
+msgctxt "216f03081ddb0ba970c4d41ff039ac43"
+msgid "ID=880203123"
+msgstr "ID=880203123"
+
+msgctxt "28b3f91227af1eb37ba3367a6567e130"
+msgid "미드 센츄리 사각 욕조[C]"
+msgstr "Mid-century square bath [C]"
+
+msgctxt "44e6dd21c9f50eb5ab4cc36a60b1b6ff"
+msgid "ID=880203141"
+msgstr "ID=880203141"
+
+msgctxt "e3717af6bd4b59a19125e6b8c3df6ef6"
+msgid "미드 센츄리 LP 턴테이블[A]"
+msgstr "Mid century LP turntable [A]"
+
+msgctxt "0079955df388de5538ecb3065bf0bd43"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 LP턴 테이블이다. "
+"올드 팝을 틀어보고 싶다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is lp turn "
+"table of mid-century series. I want to play old pop."
+
+msgctxt "bd3a86b9ae18196f03ca114a647911c4"
+msgid "ID=880203142"
+msgstr "ID=880203142"
+
+msgctxt "d7c818468cd4cc089d798a3e87d4abac"
+msgid "미드 센츄리 LP 턴테이블[B]"
+msgstr "Mid century LP turntable [B]"
+
+msgctxt "e27a3a7620a99eac68180f9d5d5fa907"
+msgid "ID=880203143"
+msgstr "ID=880203143"
+
+msgctxt "dae761bf5020ca4bc97e78a6418d20b3"
+msgid "미드 센츄리 LP 턴테이블[C]"
+msgstr "Mid century LP turntable [C]"
+
+msgctxt "0d2f03ec69b1479f52de1b23006432c9"
+msgid "ID=880203151"
+msgstr "ID=880203151"
+
+msgctxt "e260c43b5931824b09a4ed0449358eea"
+msgid "미드 센츄리 스탠딩 램프[A]"
+msgstr "Mid-century standing lamp [A]"
+
+msgctxt "49d7de104a68ab45951c38e161404449"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 스텐딩 램프이다. "
+"빈티지스러운 느낌이 인상적이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is a "
+"stenting lamp of the mid-century series. The vintage feel is impressive."
+
+msgctxt "8d010fd751dd071132ffa223a0a48dc2"
+msgid "ID=880203152"
+msgstr "ID=880203152"
+
+msgctxt "ef6ff619da856dd37e85d3d239553f3c"
+msgid "미드 센츄리 스탠딩 램프[B]"
+msgstr "Mid-century standing lamp [B]"
+
+msgctxt "6fc0aedd5379afbc48945fad6c7410fb"
+msgid "ID=880203153"
+msgstr "ID=880203153"
+
+msgctxt "f0787c6c87b8a2042b74c3b4f6807245"
+msgid "미드 센츄리 스탠딩 램프[C]"
+msgstr "Mid-century standing lamp [C]"
+
+msgctxt "14c8896103ffc29925da6a5d9a2bb19e"
+msgid "ID=880203181"
+msgstr "ID=880203181"
+
+msgctxt "e92a9d7d522002381bf720acda3135e2"
+msgid "미드 센츄리 천장[A]"
+msgstr "Mid-century ceiling [A]"
+
+msgctxt "cf91f2c085c08c17acf9e9b40e38bd2b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 천장이다. "
+"빈티지스러운 느낌이 인상적이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nThe ceiling of "
+"the Mid Century series. The vintage feel is impressive."
+
+msgctxt "fcaa421292215a97287b6e6a1dfa8036"
+msgid "ID=880203182"
+msgstr "ID=880203182"
+
+msgctxt "5e10dee699853a1bda18bfa665ff828f"
+msgid "미드 센츄리 천장[B]"
+msgstr "Mid-century ceiling [B]"
+
+msgctxt "1206c734a05f7045cb323db9eee4267d"
+msgid "ID=880203183"
+msgstr "ID=880203183"
+
+msgctxt "7545aa0c6a44bf974879040a76ce67b9"
+msgid "미드 센츄리 천장[C]"
+msgstr "Mid-century ceiling [C]"
+
+msgctxt "e7bd70f2b704f38f40b0d843ce487650"
+msgid "ID=880203061"
+msgstr "ID=880203061"
+
+msgctxt "d049d0b89cb0efbe779881df5554ac08"
+msgid "미드 센츄리 현관문[A]"
+msgstr "Mid century front door [A]"
+
+msgctxt "0e510d550cd5c2e05a5005405a80a2ae"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n미드 센츄리 시리즈의 현관문이다. 무광 "
+"처리를 하여 더 깊은 색감을 내고 있다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is the front "
+"door of the mid-century series. It is matte and produces a deeper color."
+
+msgctxt "d4c0c8f5cf293e4684758ded856c120e"
+msgid "ID=880203062"
+msgstr "ID=880203062"
+
+msgctxt "4a970004391bc966e94077cd9166aba2"
+msgid "미드 센츄리 현관문[B]"
+msgstr "Mid century front door [B]"
+
+msgctxt "83a09a175dc53ba62ecc1b596580f024"
+msgid "ID=880203063"
+msgstr "ID=880203063"
+
+msgctxt "651f7b125a8da2e191fe6db9b170bfe7"
+msgid "미드 센츄리 현관문[C]"
+msgstr "Mid century front door [C]"
+
+msgctxt "581e866e7806f4f0462f7934e55113d7"
+msgid "ID=880302011"
+msgstr "ID=880302011"
+
+msgctxt "050ee7903ead2070e81a8a4a766ea857"
+msgid "할로윈 벽지[A]"
+msgstr "Halloween wallpaper[A]"
+
+msgctxt "3e01d1149c2576ea85b45aa480662e3f"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 벽지이다. 곧 유령이 "
+"튀어나올 것 같이 으스스하다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nThe Wallpaper "
+"of the Halloween series. It's as eerie as a ghost popping out soon."
+
+msgctxt "ea5ec70c9699dbb25d4d47b8e8ed8a7e"
+msgid "ID=880302012"
+msgstr "ID=880302012"
+
+msgctxt "b617569cdb7a94d71a8c82350a4791a2"
+msgid "할로윈 벽지[B]"
+msgstr "Halloween wallpaper[B]"
+
+msgctxt "149b9bdfb5f35d0b0541b1abc6e70bcc"
+msgid "ID=880302013"
+msgstr "ID=880302013"
+
+msgctxt "a7492f6b9a1f449cecf6b98c0007638a"
+msgid "할로윈 벽지[C]"
+msgstr "Halloween wallpaper[C]"
+
+msgctxt "723683822d708ffb0c921c957c5dced6"
+msgid "ID=880302021"
+msgstr "ID=880302021"
+
+msgctxt "6493b08c6af081dd7e35abc343f1e07f"
+msgid "할로윈 타일[A]"
+msgstr "Halloween tile [A]"
+
+msgctxt "1fd963abecc9d495d7d5720e86384b19"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 바닥재이다. 곧 유령이 "
+"튀어나올 것 같이 으스스하다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nHalloween is a "
+"flooring of the series. Spooky as soon as a ghost pops out."
+
+msgctxt "2ee826d171d9a87c210b3923f96ef5f1"
+msgid "ID=880302022"
+msgstr "ID=880302022"
+
+msgctxt "05918c9e56ad9df821e9243394561134"
+msgid "할로윈 타일[B]"
+msgstr "Halloween tile [B]"
+
+msgctxt "cf87837850b75f89fae6faaabed05f47"
+msgid "ID=880302023"
+msgstr "ID=880302023"
+
+msgctxt "27964921e0556f69454dcf68a10d8d3a"
+msgid "할로윈 타일[C]"
+msgstr "Halloween tile [C]"
+
+msgctxt "d25b364ca814eb46247f9deb442d24a4"
+msgid "ID=880302031"
+msgstr "ID=880302031"
+
+msgctxt "c6347a8d596431b243efefed39d5b809"
+msgid "할로윈 풍선[A]"
+msgstr "Halloween balloon [A]"
+
+msgctxt "e988b670115da8584c7fa9b51bb048b7"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 풍선이다. 할로윈 "
+"시리즈답게 익살스러운 얼굴들을 하고 있다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nHalloween is a "
+"balloon in the series. It's like a Halloween series."
+
+msgctxt "102b7a49a62871700f39650d300b8a7a"
+msgid "ID=880302032"
+msgstr "ID=880302032"
+
+msgctxt "2ddb258f09e9457966817f661ea4d2e2"
+msgid "할로윈 풍선[B]"
+msgstr "Halloween balloon [B]"
+
+msgctxt "a6283be22b6bee1f681b957f24dc240a"
+msgid "ID=880302033"
+msgstr "ID=880302033"
+
+msgctxt "7c17f832fd1dce0fe34d2b22daff2910"
+msgid "할로윈 풍선[C]"
+msgstr "Halloween balloon [C]"
+
+msgctxt "2d0a3c68925ea6074365b9289a7ed1a4"
+msgid "ID=880302041"
+msgstr "ID=880302041"
+
+msgctxt "dee369d12323f381d1679af6342a223c"
+msgid "할로윈 테라스 도어[A]"
+msgstr "Halloween terrace door [A]"
+
+msgctxt "8e721363f51b4abc33877a4909a6e178"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 테라스 도어이다. 할로윈 "
+"시리즈답게 으스스하지만 익살스러운 느낌이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nThe terrace "
+"door of the Halloween series. It's spooky, but it's humorous, like a "
+"Halloween series."
+
+msgctxt "0fda3df83e824b31bad3f2beaf8abfab"
+msgid "ID=880302042"
+msgstr "ID=880302042"
+
+msgctxt "782eb44e44290aa4732c71681dba943b"
+msgid "할로윈 테라스 도어[B]"
+msgstr "Halloween terrace door [B]"
+
+msgctxt "42b3f0fad4c7e7572b8f5baf3f910733"
+msgid "ID=880302043"
+msgstr "ID=880302043"
+
+msgctxt "d44072b579bd56fc5598cc6d62060a81"
+msgid "할로윈 테라스 도어[C]"
+msgstr "Halloween terrace door [C]"
+
+msgctxt "d7059b8f911ebee26921a4975e220246"
+msgid "ID=880302051"
+msgstr "ID=880302051"
+
+msgctxt "b047b71ae7175702e038322a9a0cdc37"
+msgid "할로윈 윈도우[A]"
+msgstr "Halloween window [A]"
+
+msgctxt "64f94d3e1c08a290a85b6ae07299d72b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 창문이다. 할로윈 "
+"시리즈답게 으스스하지만 익살스러운 느낌이다."
+msgstr ""
+
+msgctxt "299eab80ac7a3eabee4a4b5402f46749"
+msgid "ID=880302052"
+msgstr "ID=880302052"
+
+msgctxt "eb35c2a59d27fe28fd7306f4315289ca"
+msgid "할로윈 윈도우[B]"
+msgstr "Halloween window [B]"
+
+msgctxt "0ea04b4f0e4ace1d02e100c7adcb9dad"
+msgid "ID=880302053"
+msgstr "ID=880302053"
+
+msgctxt "977af2a712621ddcecb438a97e181652"
+msgid "할로윈 윈도우[C]"
+msgstr "Halloween window [C]"
+
+msgctxt "82a44516d4412869918b6a776f19651c"
+msgid "ID=880302071"
+msgstr "ID=880302071"
+
+msgctxt "bfb193a1bd5e70911a663ab3d7ee4aab"
+msgid "할로윈 러그[A]"
+msgstr "Halloween rug [A]"
+
+msgctxt "cd2daa6f98edba6c9a27f729294d508a"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 러그이다. 할로윈 "
+"시리즈답게 익살스러운 얼굴들을 하고 있다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is the rug "
+"of the Halloween series. It's like a Halloween series."
+
+msgctxt "729cd033fbaed88c470f83b7f3545ad8"
+msgid "ID=880302072"
+msgstr "ID=880302072"
+
+msgctxt "5383b4e13b9ec1f0a561ff0de55e9810"
+msgid "할로윈 러그[B]"
+msgstr "Halloween rug [B]"
+
+msgctxt "8856fdeff0f75d7326f00be79ada0464"
+msgid "ID=880302073"
+msgstr "ID=880302073"
+
+msgctxt "a7ab4d77cf74a5cfafc0bb39cd822642"
+msgid "할로윈 러그[C]"
+msgstr "Halloween rug [C]"
+
+msgctxt "09ce17e8fb66b469b6dcfc68dec631b2"
+msgid "ID=880302081"
+msgstr "ID=880302081"
+
+msgctxt "91a3f76fd52a09ab1d0dd581dd39c4f0"
+msgid "할로윈 베드[A]"
+msgstr "Halloween bed [A]"
+
+msgctxt "27bc89764798790bc34a3526e605782a"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 침대이다. 누우면 "
+"드라큘라가 될 수 있을지도 모른다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nHalloween is "
+"the bed of the series. Lying down may be Dracula."
+
+msgctxt "0061222653c4122e8e571953743f1023"
+msgid "ID=880302082"
+msgstr "ID=880302082"
+
+msgctxt "f24deee108a00136a5f4b47d3e03a0a6"
+msgid "할로윈 베드[B]"
+msgstr "Halloween bed [B]"
+
+msgctxt "a84628173044ff9349d04f377524968c"
+msgid "ID=880302083"
+msgstr "ID=880302083"
+
+msgctxt "7c14925685bd1b0e73dc1df713fa552c"
+msgid "할로윈 베드[C]"
+msgstr "Halloween bed [C]"
+
+msgctxt "bbdee7152738cd80119e13ecc85ac7e3"
+msgid "ID=880302091"
+msgstr "ID=880302091"
+
+msgctxt "6845ea985c1d6bd3f77c1fcb17337757"
+msgid "할로윈 체어[A]"
+msgstr "Halloween chair [A]"
+
+msgctxt "a8be0692eecc82464e1c7ce51098580c"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 의자이다. 할로윈 "
+"시리즈답게 익살스러운 얼굴들을 하고 있다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nThe halloween "
+"series is a chair. It's like a Halloween series."
+
+msgctxt "34f670d9bff362669eb854fc3407580b"
+msgid "ID=880302092"
+msgstr "ID=880302092"
+
+msgctxt "dcda83809060d002da1026dbe0ad191f"
+msgid "할로윈 체어[B]"
+msgstr "Halloween chair [B]"
+
+msgctxt "bc3dc9c3f111c7fc5217a459ace2ecad"
+msgid "ID=880302093"
+msgstr "ID=880302093"
+
+msgctxt "df4ea368e4e102c84a39321720ea1094"
+msgid "할로윈 체어[C]"
+msgstr "Halloween chair [C]"
+
+msgctxt "9e79aa09847882a2e74d3e37a69ba17a"
+msgid "ID=880302101"
+msgstr "ID=880302101"
+
+msgctxt "7a3928cb910e1d1ab8103c0969120ffd"
+msgid "할로윈 테이블[A]"
+msgstr "Halloween table [A]"
+
+msgctxt "d471493b1e650a2d0f34a2d36de76f63"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 테이블이다. 할로윈 "
+"시리즈답게 으스스하지만 익살스러운 느낌이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nThe Table of "
+"the Halloween series. It's spooky, but it's humorous, like a Halloween "
+"series."
+
+msgctxt "f93eac5bd9cd6495c77286c4f552a4f0"
+msgid "ID=880302102"
+msgstr "ID=880302102"
+
+msgctxt "bd50471d0496ca440ba5bc86496e6834"
+msgid "할로윈 테이블[B]"
+msgstr "Halloween table [B]"
+
+msgctxt "2ac2af4918300434da89c19a27e1bad7"
+msgid "ID=880302103"
+msgstr "ID=880302103"
+
+msgctxt "5b154db5757b086c94136a3f5230406f"
+msgid "할로윈 테이블[C]"
+msgstr "Halloween table [C]"
+
+msgctxt "985cc407455e13fb2875655b151ddd03"
+msgid "ID=880302111"
+msgstr "ID=880302111"
+
+msgctxt "691978a756ffa5c96cba206f41de084a"
+msgid "할로윈 서랍[A]"
+msgstr "Halloween drawer [A]"
+
+msgctxt "a23cfb0a13a1ea64bdea8fad2d384512"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 서랍이다. 할로윈 "
+"시리즈답게 으스스하다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nThe drawer of "
+"the Halloween series. It's spooky like a Halloween series."
+
+msgctxt "4836071fea3dc7b009094fc1b60b2f65"
+msgid "ID=880302112"
+msgstr "ID=880302112"
+
+msgctxt "2260b31f393ad2063501d5c0def89d75"
+msgid "할로윈 서랍[B]"
+msgstr "Halloween drawer [B]"
+
+msgctxt "36c1221ba8d50edddaaed2e9e30b6896"
+msgid "ID=880302113"
+msgstr "ID=880302113"
+
+msgctxt "79846f66fe4affdda41bc46efc7292b0"
+msgid "할로윈 서랍[C]"
+msgstr "Halloween drawer [C]"
+
+msgctxt "dd6b412133b719878fba452ca70ffcee"
+msgid "ID=880302121"
+msgstr "ID=880302121"
+
+msgctxt "2430d50a373c4830ae360de889f7c116"
+msgid "할로윈 욕조[A]"
+msgstr "Halloween bath [A]"
+
+msgctxt "12d47411db1eb79575878abbb3d3f224"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 욕조이다. 할로윈 "
+"시리즈답게 으스스하지만 익살스러운 느낌이다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nThe Bath Tub of "
+"the Halloween series. It's spooky, but it's humorous, like a Halloween "
+"series."
+
+msgctxt "be2d029b3eecff827bdc498f3cd5aa32"
+msgid "ID=880302122"
+msgstr "ID=880302122"
+
+msgctxt "05ae6b0e4db3ee4c43409390e52a2354"
+msgid "할로윈 욕조[B]"
+msgstr "Halloween bath [B]"
+
+msgctxt "57cd69cd063b6cad45dc6d44bdc696be"
+msgid "ID=880302123"
+msgstr "ID=880302123"
+
+msgctxt "5580bb51565fceba95d88436c40f8c01"
+msgid "할로윈 욕조[C]"
+msgstr "Halloween bath [C]"
+
+msgctxt "e17ff1c2f3ad359aa420c0dfd66f6244"
+msgid "ID=880302141"
+msgstr "ID=880302141"
+
+msgctxt "1fb440df8e4d77507ebea402e5ee50c4"
+msgid "할로윈 헹거[A]"
+msgstr "Halloween rinsing [A]"
+
+msgctxt "d3fb3da97324fe55332cb9cfdaeea275"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 헹거이다. 할로윈 "
+"시리즈답게 익살스러운 얼굴들을 하고 있다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nHalloween is a "
+"rinsing of the series. It's like a Halloween series."
+
+msgctxt "438de5b4d9bf9423d04cd77233b54d4e"
+msgid "ID=880302142"
+msgstr "ID=880302142"
+
+msgctxt "2ae91e46cd0bf9b837d2de2fe54f1aab"
+msgid "할로윈 헹거[B]"
+msgstr "Halloween rinsing [B]"
+
+msgctxt "5c3455a058ceea2155e6afc39204eaa1"
+msgid "ID=880302143"
+msgstr "ID=880302143"
+
+msgctxt "f31d2d37907fe9e5aa152d9ffb598dbf"
+msgid "할로윈 헹거[C]"
+msgstr "Halloween rinsing [C]"
+
+msgctxt "9780a19bf4d18a03ce017ccfd3532db4"
+msgid "ID=880302151"
+msgstr "ID=880302151"
+
+msgctxt "e5044263cd8d39dedf1a85b9c4b84925"
+msgid "할로윈 꽃병[A]"
+msgstr "Halloween vase [A]"
+
+msgctxt "82b0e494915bd412ba59ebaeaa30244d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 꽃병이다. 할로윈 "
+"시리즈답게 으스스하다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nThe vase of the "
+"Halloween series. It's spooky like a Halloween series."
+
+msgctxt "104d6e3eccd14948446f942fca480c4d"
+msgid "ID=880302152"
+msgstr "ID=880302152"
+
+msgctxt "57baded72e107d28e4ed20a51b35bcae"
+msgid "할로윈 꽃병[B]"
+msgstr "Halloween vase [B]"
+
+msgctxt "2a4b90c3fce6c94933ecc1af7412eb45"
+msgid "ID=880302153"
+msgstr "ID=880302153"
+
+msgctxt "fb72ca67c1f03b7e1ddba51821e99b48"
+msgid "할로윈 꽃병[C]"
+msgstr "Halloween vase [B]"
+
+msgctxt "2475baa8447c71996ebeb5e925519ef1"
+msgid "ID=880302161"
+msgstr "ID=880302161"
+
+msgctxt "8659263ec33c8ac3dccbc00d4b3476ac"
+msgid "할로윈 램프[A]"
+msgstr "Halloween lamp [A]"
+
+msgctxt "a6d62d03e1b2f757b50c37fa215ac017"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 램프이다. 할로윈 "
+"시리즈답게 익살스러운 얼굴들을 하고 있다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is the lamp "
+"of the Halloween series. They have comical faces like the Halloween series."
+
+msgctxt "e7f10206f1d97eb1582ac4bf4dd07042"
+msgid "ID=880302162"
+msgstr "ID=880302162"
+
+msgctxt "3476bc7c7594d5a61f0de234e696332e"
+msgid "할로윈 램프[B]"
+msgstr "Halloween lamp [B]"
+
+msgctxt "472bac1dc05e470ffd7f89439e76b3ec"
+msgid "ID=880302163"
+msgstr "ID=880302163"
+
+msgctxt "caabf293a39d6cbd08149f113bfeb3db"
+msgid "할로윈 램프[C]"
+msgstr "Halloween lamp [C]"
+
+msgctxt "580d040ee85cf59a60a79fca031431c0"
+msgid "ID=880302171"
+msgstr "ID=880302171"
+
+msgctxt "2829cc04efcdfe17517c2685c6d7bf94"
+msgid "할로윈 샤워부스[A]"
+msgstr "Halloween shower [A]"
+
+msgctxt "73660469341fa329bb917589cd20011f"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 샤워부스이다. 호박같지만 "
+"호박물은 나오지 않는다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nIt is a shower "
+"booth for the Halloween series. It looks like a pumpkin, but no pumpkin "
+"water comes out."
+
+msgctxt "1b5a7fed0e1b7472782857c2f741bab4"
+msgid "ID=880302172"
+msgstr "ID=880302172"
+
+msgctxt "43525c6ceea0e228a9c9ef5759228030"
+msgid "할로윈 샤워부스[B]"
+msgstr "Halloween shower [B]"
+
+msgctxt "4af7a9b5ea26b0af07421ce83a1bd736"
+msgid "ID=880302173"
+msgstr "ID=880302173"
+
+msgctxt "d0456ced98546c6326c30fc335859da0"
+msgid "할로윈 샤워부스[C]"
+msgstr "Halloween shower [C]"
+
+msgctxt "a96a988d44ad0a91359f0251905ea812"
+msgid "ID=880302181"
+msgstr "ID=880302181"
+
+msgctxt "3705b527f00221e92c170ccc01e82ea7"
+msgid "할로윈 천장[A]"
+msgstr "Halloween Ceiling [A]"
+
+msgctxt "c5c7dec03090b5a30c18ef416c849e77"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 천장이다. 곧 유령이 "
+"튀어나올 것 같이 으스스하다."
+msgstr ""
+"<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\\n\\nThe ceiling of "
+"the Halloween series. It's as eerie as a ghost popping out soon."
+
+msgctxt "7c9699dabf29da277485ef3d325ec4f1"
+msgid "ID=880302182"
+msgstr "ID=880302182"
+
+msgctxt "1e1874747631fbf7b57692857e715af4"
+msgid "할로윈 천장[B]"
+msgstr "Halloween Ceiling [B]"
+
+msgctxt "8697f5d5e285e4253abfe1f2eb593034"
+msgid "ID=880302183"
+msgstr "ID=880302183"
+
+msgctxt "551133cf1c61d1c1e44e01b984a907c9"
+msgid "할로윈 천장[C]"
+msgstr "Halloween Ceiling [C]"
+
+msgctxt "d0bfc5ade30eb8f4bcd66ec0047b22f1"
+msgid "ID=880302061"
+msgstr "ID=880302061"
+
+msgctxt "fa36c349b7de1f904e60b282accdb490"
+msgid "할로윈 현관문[A]"
+msgstr "Halloween front door [A]"
+
+msgctxt "cf385f5f265b5c1f4864fffbe34e28a1"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n할로윈 시리즈의 현관문이다. 유령의 집 "
+"입구 같다. 일반 가정집이라고는 상상하기 힘들다."
+msgstr ""
+
+msgctxt "100d8e2ce020d7a3215f254de0f2bdb8"
+msgid "ID=880302062"
+msgstr "ID=880302062"
+
+msgctxt "62240e38ba9453f83ece101e09358123"
+msgid "할로윈 현관문[B]"
+msgstr "Halloween front door [B]"
+
+msgctxt "9a739a7167ccb7c4992644277d7a6dec"
+msgid "ID=880302063"
+msgstr "ID=880302063"
+
+msgctxt "baf3bbf870396d6ab54ab5d3bdfd0674"
+msgid "할로윈 현관문[C]"
+msgstr "Halloween front door [C]"
+
+msgctxt "a9acebf32d84c4282244552268f892b5"
+msgid "ID=880303011"
+msgstr "ID=880303011"
+
+msgctxt "17f20a9c2560d53f22f3d525052456f6"
+msgid "쿠키 벽지[A]"
+msgstr "Cookie wallpaper[A]"
+
+msgctxt "70bf538da29ffe4878894ebeb676468d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 벽지이다. 맛있어 보인다고 "
+"먹었다간 배탈이 날 수 있으니 주의."
+msgstr ""
+
+msgctxt "023d0c548c269ff29bcc3019afbf1871"
+msgid "ID=880303012"
+msgstr "ID=880303012"
+
+msgctxt "7b6d352aa306897165cd793de7474bd3"
+msgid "쿠키 벽지[B]"
+msgstr "Cookie wallpaper[B]"
+
+msgctxt "0b46238efefcbdf206e4883016d74fb8"
+msgid "ID=880303013"
+msgstr "ID=880303013"
+
+msgctxt "b4cfad0b0c1a070d19eeb0e90de1950e"
+msgid "쿠키 벽지[C]"
+msgstr "Cookie wallpaper[C]"
+
+msgctxt "b454e6b865c31bcbcb5935c35ea2274a"
+msgid "ID=880303021"
+msgstr "ID=880303021"
+
+msgctxt "1c222f4888465bb4003822c61ddfe3df"
+msgid "쿠키 타일[A]"
+msgstr "Cookie tile[A]"
+
+msgctxt "e8cfb75ade08d7e77d57c2fcfdf7b515"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 타일이다. 배고플 때 "
+"하나씩 뜯어 먹었다간 집이 무너질 수 있으니 주의."
+msgstr ""
+
+msgctxt "6a4d39710bcb2d80bb489c48a19416a6"
+msgid "ID=880303022"
+msgstr "ID=880303022"
+
+msgctxt "a6e37edb27778f4f4443476d18c86ec3"
+msgid "쿠키 타일[B]"
+msgstr "Cookie tile[B]"
+
+msgctxt "d114f49b6e62cae0fdfa422964e6cbba"
+msgid "ID=880303023"
+msgstr "ID=880303023"
+
+msgctxt "722372babd12694f9248c2443566c1fc"
+msgid "쿠키 타일[C]"
+msgstr "Cookie tile[C]"
+
+msgctxt "3da1efd94856788f751449583ab42a14"
+msgid "ID=880303031"
+msgstr "ID=880303031"
+
+msgctxt "755c7ff3088dc858bad99a03ba917cab"
+msgid "진저 쿠키 시계[A]"
+msgstr "Ginger cookie watch [A]"
+
+msgctxt "e0a8d4c84d7fe37e3c7efb4635d3c5ca"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 진저 쿠키 시계이다. 진저 "
+"쿠키로 만들어졌지만 씹었다간 이빨이 먼저 부러질 수 있으니 주의."
+msgstr ""
+
+msgctxt "fa4a50521b0029ba1dc4b385ed543d18"
+msgid "ID=880303032"
+msgstr "ID=880303032"
+
+msgctxt "18451a79803eb431e9df55e94395daea"
+msgid "진저 쿠키 시계[B]"
+msgstr "Ginger cookie watch [B]"
+
+msgctxt "b899aa5320ebfd79f36017134880aadc"
+msgid "ID=880303033"
+msgstr "ID=880303033"
+
+msgctxt "2e32e6b3b04ffb7d01abfa76140f1959"
+msgid "진저 쿠키 시계[C]"
+msgstr "Ginger cookie watch [C]"
+
+msgctxt "794fb75b75b3c9ecd24a1bf1107d73fe"
+msgid "ID=880303041"
+msgstr "ID=880303041"
+
+msgctxt "0ac50cc27bd8473817da9fba996754e6"
+msgid "쿠키 테라스 도어[A]"
+msgstr "Cookie terrace door [A]"
+
+msgctxt "94a24d88fdc595f219f87f92f0f537b4"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 테라스 도어이다. 쿠키로 "
+"만들어졌지만 유리는 실제 유리이므로 씹었다간 이빨이 먼저 부러질 수 있으니 주의."
+msgstr ""
+
+msgctxt "f5eb92a8855533e8058c18fd10fc6e79"
+msgid "ID=880303042"
+msgstr "ID=880303042"
+
+msgctxt "d54b81086ac8bd029e2a8e976b2fef9e"
+msgid "쿠키 테라스 도어[B]"
+msgstr "Cookie terrace door [B]"
+
+msgctxt "4feb205f4b023b1a1902b0ab45405ce2"
+msgid "ID=880303043"
+msgstr "ID=880303043"
+
+msgctxt "6794f809402962af858904a16f43120e"
+msgid "쿠키 테라스 도어[C]"
+msgstr "Cookie terrace door [C]"
+
+msgctxt "cb4af8a6a0ac9831af5e7b9872e078e4"
+msgid "ID=880303051"
+msgstr "ID=880303051"
+
+msgctxt "1a2002554df63b68f66e0b898b217b63"
+msgid "도넛 쿠키 창문[A]"
+msgstr "Donut Cookie Window[A]"
+
+msgctxt "4d3f4572867502979a306d1a43e3c88d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 도넛으로 만들어진 창문이다."
+" 도넛으로 만들어졌지만 유리는 실제 유리이므로 씹었다간 이빨이 먼저 부러질 수 있으니 주의."
+msgstr ""
+
+msgctxt "ec6a5c367aa24a30e8c12fc15e56b59f"
+msgid "ID=880303052"
+msgstr "ID=880303052"
+
+msgctxt "e01e67ded81d3b5218822fdca6a40944"
+msgid "도넛 쿠키 창문[B]"
+msgstr "Donut Cookie Window[B]"
+
+msgctxt "f5944c5fd34333d715e4b3181ad9428c"
+msgid "ID=880303053"
+msgstr "ID=880303053"
+
+msgctxt "2e60e86652ccf045cbbcf453dd27f17a"
+msgid "도넛 쿠키 창문[C]"
+msgstr "Donut Cookie Window[C]"
+
+msgctxt "34f02c2961f9444d8df555f533fdd429"
+msgid "ID=880303071"
+msgstr "ID=880303071"
+
+msgctxt "f78992cadc5b93f5d3c46575ae1ac9e5"
+msgid "캔디 쿠키 러그[A]"
+msgstr "Candy cookie rug [A]"
+
+msgctxt "40d03c42808b2ac93840ec27e4fb046c"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 캔디 쿠키 러그이다. "
+"사탕으로 만들어진 러그라 촉감이 딱딱하고 끈적일 것 같다. 앉거나 눕는 것은 피하는 것이 좋을지도 모른다."
+msgstr ""
+
+msgctxt "d507c72567f8cb35b4d92d7f9f738cc6"
+msgid "ID=880303072"
+msgstr "ID=880303072"
+
+msgctxt "1f2e7347266e6686d4c70a5e18f9e25f"
+msgid "캔디 쿠키 러그[B]"
+msgstr "Candy cookie rug [B]"
+
+msgctxt "a395ef6f537b25e12c775e9b24dda44a"
+msgid "ID=880303073"
+msgstr "ID=880303073"
+
+msgctxt "aee2ccd2893b7393f5abcadc51b8aade"
+msgid "캔디 쿠키 러그[C]"
+msgstr "Candy cookie rug [C]"
+
+msgctxt "ae6f0641dd816fe5a9b784f21ac3259f"
+msgid "ID=880303081"
+msgstr "ID=880303081"
+
+msgctxt "822a86e377119aee4df5f3cc12c7975e"
+msgid "스트로베리 쿠키 침대[A]"
+msgstr "Strawberry cookie bed [A]"
+
+msgctxt "63b8b98ee429200027f64ccc86fc16d2"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 스트로베리 쿠키로 만들어진 "
+"침대이다. 케이크 위의 장식이 된 듯한 느낌을 누릴 수 있다."
+msgstr ""
+
+msgctxt "985b63a977de31180d020cb01926e213"
+msgid "ID=880303082"
+msgstr "ID=880303082"
+
+msgctxt "314b791238c298a7be2abf1a7931e382"
+msgid "스트로베리 쿠키 침대[B]"
+msgstr "Strawberry cookie bed [B]"
+
+msgctxt "4003345acfb00c25a63c77b01d08a562"
+msgid "ID=880303083"
+msgstr "ID=880303083"
+
+msgctxt "61185a4e589b6a0549cbdd18c6818cca"
+msgid "스트로베리 쿠키 침대[C]"
+msgstr "Strawberry cookie bed [C]"
+
+msgctxt "acc61dd04cefcf4593172fa280e7f8fa"
+msgid "ID=880303091"
+msgstr "ID=880303091"
+
+msgctxt "f5e1c2dd008382d8cb544bf7b2ed1dd5"
+msgid "아이스크림 쿠키 의자[A]"
+msgstr "Ice cream cookie chair[A]"
+
+msgctxt "ccad3ff40c8faf4c7f386b9370a6a4c0"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 아이스크림콘으로 만들어진 "
+"의자이다. 앉으면 부서질 것만 같지만 의외로 튼튼하다."
+msgstr ""
+
+msgctxt "78c5d13874ced8c4c790da50385b81dc"
+msgid "ID=880303092"
+msgstr "ID=880303092"
+
+msgctxt "dd67dfc3d16eb08b52c1aef612774031"
+msgid "아이스크림 쿠키 의자[B]"
+msgstr "Ice cream cookie chair[B]"
+
+msgctxt "fb19f7f5a04c20f459cce5eab4da5ee6"
+msgid "ID=880303093"
+msgstr "ID=880303093"
+
+msgctxt "d807df9868ac6cbe48d9e31a4d52387b"
+msgid "아이스크림 쿠키 의자[C]"
+msgstr "Ice cream cookie chair[C]"
+
+msgctxt "bfc3ffbd5cea17f49a82e8ed2c5b63de"
+msgid "ID=880303101"
+msgstr "ID=880303101"
+
+msgctxt "082bb7d030487710be9a9e7a7a11579e"
+msgid "아이스크림 쿠키 테이블[A]"
+msgstr "Ice cream cookie table [A]"
+
+msgctxt "0e827d1183759e1eb62ba838923aa9f0"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 아이스크림콘으로 만들어진 "
+"책상이다. 물건을 올려놓으면 부서질 것만 같지만 의외로 튼튼하다."
+msgstr ""
+
+msgctxt "8fd16f06a80d7b637fcbfbcd508bd875"
+msgid "ID=880303102"
+msgstr "ID=880303102"
+
+msgctxt "b7f81f8bafd076474009bbd0eb43d32e"
+msgid "아이스크림 쿠키 테이블[B]"
+msgstr "Ice cream cookie table [B]"
+
+msgctxt "775a28e365b912ba7ebdc74922e18088"
+msgid "ID=880303103"
+msgstr "ID=880303103"
+
+msgctxt "5bd09eeb823c7a2a366faba6c867174d"
+msgid "아이스크림 쿠키 테이블[C]"
+msgstr "Ice cream cookie table [C]"
+
+msgctxt "152aed18b1ccf7b35c021a767146cb75"
+msgid "ID=880303111"
+msgstr "ID=880303111"
+
+msgctxt "81f868b8b7c2b88746fff02eaf97e54d"
+msgid "쿠키 오븐[A]"
+msgstr "Cookie oven [A]"
+
+msgctxt "b86866351a6b97b5475012a1f894ad03"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 오븐이다. 쿠키로 쿠키를 "
+"만들다니. 그저 신기하기만 하다."
+msgstr ""
+
+msgctxt "a1d9f4b3a0bb923f74400d7e675108df"
+msgid "ID=880303112"
+msgstr "ID=880303112"
+
+msgctxt "f046dfd3305cee067d56b0cb62d59855"
+msgid "쿠키 오븐[B]"
+msgstr "Cookie oven [B]"
+
+msgctxt "bb521ef363842d13b651fcdea397c078"
+msgid "ID=880303113"
+msgstr "ID=880303113"
+
+msgctxt "62965734d18c9c7f69005500124c9d14"
+msgid "쿠키 오븐[C]"
+msgstr "Cookie oven [C]"
+
+msgctxt "5c5cb06ab224037b2914b1ae321d6655"
+msgid "ID=880303121"
+msgstr "ID=880303121"
+
+msgctxt "f514bd9f23581f86027c86dba79b350a"
+msgid "캔디 쿠키 욕조[A]"
+msgstr "Candy cookie tub [A]"
+
+msgctxt "b011c22ec80ffac95a596db8d66bd424"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 캔디로 만들어진 욕조이다. "
+"여기에 물을 받으면 사탕을 녹인 맛이 날 것만 같다."
+msgstr ""
+
+msgctxt "08ce5a2ad7005466bd5150fea649c48e"
+msgid "ID=880303122"
+msgstr "ID=880303122"
+
+msgctxt "56182215a6ea765791e8f118bdfd8af3"
+msgid "캔디 쿠키 욕조[B]"
+msgstr "Candy cookie tub [B]"
+
+msgctxt "6f8ad520c87e960ab83548ac24fa56ba"
+msgid "ID=880303123"
+msgstr "ID=880303123"
+
+msgctxt "22c52f90de8dba90e57bf834f7136687"
+msgid "캔디 쿠키 욕조[C]"
+msgstr "Candy cookie tub [C]"
+
+msgctxt "3a6041b667dc06060948f19ece01e61e"
+msgid "ID=880303141"
+msgstr "ID=880303141"
+
+msgctxt "08c2953da4e863d57f2dde6ef275c865"
+msgid "베어젤리 쿠키 인형[A]"
+msgstr "Bear jelly cookie doll [A]"
+
+msgctxt "75aa2713423db458221e3e8516ffe7e0"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 베어 젤리 인형이다. "
+"맛있어 보인다고 먹었다간 배탈이 날 수 있으니 주의."
+msgstr ""
+
+msgctxt "3f9ea0e13993859439962c61a91c1d18"
+msgid "ID=880303142"
+msgstr "ID=880303142"
+
+msgctxt "3aa8c7770b262587bd7f7d6f9649bac0"
+msgid "베어젤리 쿠키 인형[B]"
+msgstr "Bear jelly cookie doll [B]"
+
+msgctxt "07b18b7acc92386a241d438c555dd087"
+msgid "ID=880303143"
+msgstr "ID=880303143"
+
+msgctxt "f8d27c34fd433bc99386708079da0ed3"
+msgid "베어젤리 쿠키 인형[C]"
+msgstr "Bear jelly cookie doll [C]"
+
+msgctxt "b41d8e5b107bb3679eea42ef9062a72a"
+msgid "ID=880303151"
+msgstr "ID=880303151"
+
+msgctxt "73277278363fc95af4b1f6684becb451"
+msgid "도넛 쿠키 쿠션[A]"
+msgstr "Donut cookie cushion [A]"
+
+msgctxt "8ed9668fecd7e6e15b54881ae9909291"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 도넛 쿠션이다. 도넛의 "
+"표정이 그려져 있어 매우 귀엽게 느껴진다. 맛있어 보인다고 먹었다간 배탈이 날 수 있으니 주의."
+msgstr ""
+
+msgctxt "fb39e05b1dfff29b92d74afcebfcd6de"
+msgid "ID=880303152"
+msgstr "ID=880303152"
+
+msgctxt "a5ed5a05e267794faaceb4837b1e7ef4"
+msgid "도넛 쿠키 쿠션[B]"
+msgstr "Donut cookie cushion [B]"
+
+msgctxt "93f7558aa22d357f55b987dd6aa67d6f"
+msgid "ID=880303153"
+msgstr "ID=880303153"
+
+msgctxt "2087e28b8f047cdc4b396e9b606ab7dc"
+msgid "도넛 쿠키 쿠션[C]"
+msgstr "Donut cookie cushion [C]"
+
+msgctxt "9af41b9842b7dc9ddb7ae1be405ef49d"
+msgid "ID=880303161"
+msgstr "ID=880303161"
+
+msgctxt "c291a257f27c2c81956a8648504aab7c"
+msgid "아이스크림 쿠키 램프[A]"
+msgstr "Ice cream cookie lamp [A]"
+
+msgctxt "2827a9cd542f0925b5b4aaa26774bbe6"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 수박 모양 아이스크림 "
+"램프이다. 맛있어 보인다고 씹었다간 이빨이 먼저 부러질 수 있으니 주의."
+msgstr ""
+
+msgctxt "2fa4abd184586088bfcf03beaf9dde29"
+msgid "ID=880303162"
+msgstr "ID=880303162"
+
+msgctxt "52cb75be11aabe6b6e8157f1bdc9d1fd"
+msgid "아이스크림 쿠키 램프[B]"
+msgstr "Ice cream cookie lamp [B]"
+
+msgctxt "af60dbeb512f3824af8cd8783607d168"
+msgid "ID=880303163"
+msgstr "ID=880303163"
+
+msgctxt "4a2e1d10d740612e74c5dedec3c5b01b"
+msgid "아이스크림 쿠키 램프[C]"
+msgstr "Ice cream cookie lamp [C]"
+
+msgctxt "283bc2e785947198b67f0e42dd62e471"
+msgid "ID=880303171"
+msgstr "ID=880303171"
+
+msgctxt "6caa33707b6a194c0b36c4a4929671aa"
+msgid "쿠키 샤워부스[A]"
+msgstr "Cookie shower [A]"
+
+msgctxt "6d5cbef5ab5640cf1214723200fdf777"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 샤워부스이다. 왠지 "
+"샤워기에서 아이스크림을 녹인 물이 흘러나올 것만 같다."
+msgstr ""
+
+msgctxt "a6683da41ac6fbc576d012269c7236f2"
+msgid "ID=880303172"
+msgstr "ID=880303172"
+
+msgctxt "ed19271f43028d662114dc9b76041f4d"
+msgid "쿠키 샤워부스[B]"
+msgstr "Cookie shower [B]"
+
+msgctxt "e4c791e04f7244c29203ba0f553bef94"
+msgid "ID=880303173"
+msgstr "ID=880303173"
+
+msgctxt "977a1258bbe922c15439c91183d78480"
+msgid "쿠키 샤워부스[C]"
+msgstr "Cookie shower [C]"
+
+msgctxt "280d44848a76529e788cac686cda998c"
+msgid "ID=880303181"
+msgstr "ID=880303181"
+
+msgctxt "50e62b5dae376e6611b15fe194d65140"
+msgid "초콜릿 쿠키 천장[A]"
+msgstr "Chocolate cookie ceiling[A]"
+
+msgctxt "9497ef3a698d77ab8314652b4db1c517"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 천장이다. 배고프다고 "
+"핥아먹었다간 집이 무너질 수 있으니 주의."
+msgstr ""
+
+msgctxt "d86b2693f05bc9154c5327135c54d991"
+msgid "ID=880303182"
+msgstr "ID=880303182"
+
+msgctxt "61c143fa5e33139ea78504d48ae9824f"
+msgid "초콜릿 쿠키 천장[B]"
+msgstr "Chocolate cookie ceiling[B]"
+
+msgctxt "87890eef9790c6163d4cbf886fa3f786"
+msgid "ID=880303183"
+msgstr "ID=880303183"
+
+msgctxt "a32a049438a4d8c7aa7da12097945125"
+msgid "초콜릿 쿠키 천장[C]"
+msgstr "Chocolate cookie ceiling[C]"
+
+msgctxt "90f7f18a7c6f662ed444a2ce1e031ff2"
+msgid "ID=880303061"
+msgstr "ID=880303061"
+
+msgctxt "b8e301f3083bf89af818f16f4f07b617"
+msgid "초콜릿 쿠키 현관문[A]"
+msgstr "Chocolate cookie front door [A]"
+
+msgctxt "5179109610ed592c445f657cae4f7ac2"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n쿠키 시리즈의 현관문이다. 맛있어 "
+"보인다고 뜯어 먹었다간 배탈이 날 수 있으니 주의."
+msgstr ""
+
+msgctxt "6c62db92cb35fde916c5ee7bced8c2aa"
+msgid "ID=880303062"
+msgstr "ID=880303062"
+
+msgctxt "25e1559cd914a5cfff45d30689d59afc"
+msgid "초콜릿 쿠키 현관문[B]"
+msgstr "Chocolate cookie front door [B]"
+
+msgctxt "a059f95002b763e4dae07dfae0115ca0"
+msgid "ID=880303063"
+msgstr "ID=880303063"
+
+msgctxt "ea1f6c05f99e829c2f60f67a7b350b05"
+msgid "초콜릿 쿠키 현관문[C]"
+msgstr "Chocolate cookie front door [C]"
+
+msgctxt "4eb0de359eb8e6959fc19755a86042ce"
+msgid "ID=880204011"
+msgstr "ID=880204011"
+
+msgctxt "5afcf279915252097862e60a8019388e"
+msgid "아르누보 양식 벽지[A]"
+msgstr ""
+
+msgctxt "fdfc309d83d6eac6cf04b02b9b0e746b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 벽지이다. 아르누보 "
+"양식 특유의 우아한 곡선과 자연미가 돋보인다."
+msgstr ""
+
+msgctxt "70eafb14ac2faf27a8eea9fe95e6f9d7"
+msgid "ID=880204012"
+msgstr "ID=880204012"
+
+msgctxt "02d095b730376051941dcf20b14cec65"
+msgid "아르누보 양식 벽지[B]"
+msgstr ""
+
+msgctxt "b203bb58100a29fd5ed5815c611bfaa2"
+msgid "ID=880204013"
+msgstr "ID=880204013"
+
+msgctxt "655c180388615d8124afce88b454f773"
+msgid "아르누보 양식 벽지[C]"
+msgstr ""
+
+msgctxt "ce7ac9811329ad20c7c9b8c29c1de39e"
+msgid "ID=880204021"
+msgstr "ID=880204021"
+
+msgctxt "a66759dcd3d9d5727c8625fcc0f36db5"
+msgid "아르누보 양식 바닥[A]"
+msgstr ""
+
+msgctxt "5646e96cca8f89856266db2196fb60fd"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 바닥재이다. 평범한 "
+"모양이지만 아르누보의 색깔을 잘 담아내고 있다. "
+msgstr ""
+
+msgctxt "d246dfa5c4e377b0a6f5e51a2692bf57"
+msgid "ID=880204022"
+msgstr "ID=880204022"
+
+msgctxt "70b392d3a5ca61416456e88f49642723"
+msgid "아르누보 양식 바닥[B]"
+msgstr ""
+
+msgctxt "9da0c4214723fff8be06fc8f5f3aa764"
+msgid "ID=880204023"
+msgstr "ID=880204023"
+
+msgctxt "49669c2d98c6a9eb056882fd566f0bed"
+msgid "아르누보 양식 바닥[C]"
+msgstr ""
+
+msgctxt "84d99ccbbf30c125024e934674eb9992"
+msgid "ID=880204031"
+msgstr "ID=880204031"
+
+msgctxt "346ab01a31943b6e7cb8999eb76949af"
+msgid "아르누보 양식 거울[A]"
+msgstr ""
+
+msgctxt "96820cac2c5394a07a2bbd105b2b29fc"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 거울이다. 아르누보 "
+"양식 특유의 곡선과 자연미가 우아한 느낌을 준다."
+msgstr ""
+
+msgctxt "63f8df160f0a72a79bc933e6e99e955c"
+msgid "ID=880204032"
+msgstr "ID=880204032"
+
+msgctxt "12a8c746a9787addc478a9f69b1f7046"
+msgid "아르누보 양식 거울[B]"
+msgstr ""
+
+msgctxt "1273763f4f6dbd8bc0cd440e842e9ed2"
+msgid "ID=880204033"
+msgstr "ID=880204033"
+
+msgctxt "804b4b44b8131090264cde8e8155a0ab"
+msgid "아르누보 양식 거울[C]"
+msgstr ""
+
+msgctxt "8498d4236f6c2b91885793913b0928f4"
+msgid "ID=880204041"
+msgstr "ID=880204041"
+
+msgctxt "d95585e4ef52d5e0ed3b994db7bb2621"
+msgid "아르누보 양식 테라스 문[A]"
+msgstr ""
+
+msgctxt "3f7290c474a58cee4039eba15a86d5ef"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 테라스 문이다. 문의 "
+"중앙을 가로지르는 나무를 본뜬 문틀이 인상적이다. 매우 튼튼할 것 같다."
+msgstr ""
+
+msgctxt "8a0a24e9ea1a6eb7ff7c7be95c98772e"
+msgid "ID=880204042"
+msgstr "ID=880204042"
+
+msgctxt "8e09f9288c81b3b3d27531ca6f125ff1"
+msgid "아르누보 양식 테라스 문[B]"
+msgstr ""
+
+msgctxt "8bcd68ccff2eb5623c679394d369249c"
+msgid "ID=880204043"
+msgstr "ID=880204043"
+
+msgctxt "7bcbc453372cdf36ed3a917b735d86af"
+msgid "아르누보 양식 테라스 문[C]"
+msgstr ""
+
+msgctxt "cd6323404e0cc19833e500a033047dbd"
+msgid "ID=880204051"
+msgstr "ID=880204051"
+
+msgctxt "a1cda74b40331b3cdceb9475f4d2e2cc"
+msgid "아르누보 양식 창문[A]"
+msgstr ""
+
+msgctxt "02322613d650337f3c05592eb91ac1ca"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 창문이다. 아르누보 "
+"양식 특유의 곡선과 자연미가 우아한 느낌을 준다."
+msgstr ""
+
+msgctxt "cea7d024dc18cdc9d36f93c5ad8ffecd"
+msgid "ID=880204052"
+msgstr "ID=880204052"
+
+msgctxt "c4bb8611596536c5fc450a7f7447dda8"
+msgid "아르누보 양식 창문[B]"
+msgstr ""
+
+msgctxt "e69c8264cf9094b0580667ecf7f6c0d9"
+msgid "ID=880204053"
+msgstr "ID=880204053"
+
+msgctxt "960436f0defb1b8e4e6d54ea740fcdce"
+msgid "아르누보 양식 창문[C]"
+msgstr ""
+
+msgctxt "558bbf791fa0ce58d095952bfdc75968"
+msgid "ID=880204071"
+msgstr "ID=880204071"
+
+msgctxt "d18432547ac25a6557c673372ae9ed63"
+msgid "아르누보 양식 매트[A]"
+msgstr ""
+
+msgctxt "441b3f5ecc25b4e8849a905a0d4b6e30"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 매트이다. 아르누보 "
+"양식 특유의 우아한 곡선과 자연미가 돋보인다."
+msgstr ""
+
+msgctxt "71dc07ef3bd444ade21136de1e52f803"
+msgid "ID=880204072"
+msgstr "ID=880204072"
+
+msgctxt "f7d684b1cee9dc3af9a38ce6fd008372"
+msgid "아르누보 양식 매트[B]"
+msgstr ""
+
+msgctxt "76e8bbf498afae6cac207522f9c589eb"
+msgid "ID=880204073"
+msgstr "ID=880204073"
+
+msgctxt "536da82ad7730f61fe03d3adf9e613f0"
+msgid "아르누보 양식 매트[C]"
+msgstr ""
+
+msgctxt "3bdd87134f98611d8def5d3dc4942a7f"
+msgid "ID=880204081"
+msgstr "ID=880204081"
+
+msgctxt "ad40ed54e7d095b23b62f46faac1b163"
+msgid "아르누보 양식 침대[A]"
+msgstr ""
+
+msgctxt "38ca3fd116e59852a7577f1be1a8f44b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 침대이다. 아르누보 "
+"양식을 잘 담아낸 장식이 인상적이나 잘못 잡으면 부러질 수도 있으니 주의."
+msgstr ""
+
+msgctxt "aa7029795b3c367a62dce1af7e5f2c03"
+msgid "ID=880204082"
+msgstr "ID=880204082"
+
+msgctxt "2d26a40c5a5a9f9dd7c64a054ddb8965"
+msgid "아르누보 양식 침대[B]"
+msgstr ""
+
+msgctxt "c59fc27c688fd0f1fe2989456eb611a2"
+msgid "ID=880204083"
+msgstr "ID=880204083"
+
+msgctxt "18bcae8bd387f7ef31d2b67c5592692c"
+msgid "아르누보 양식 침대[C]"
+msgstr ""
+
+msgctxt "d5a4abec662aec153585a64868955ec3"
+msgid "ID=880204091"
+msgstr "ID=880204091"
+
+msgctxt "728f2c1e62bc121dc3772005e78f06bb"
+msgid "아르누보 양식 의자[A]"
+msgstr ""
+
+msgctxt "a836ca1d178a5abe1ba6254192cac082"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 의자이다. 아르누보 "
+"양식 특유의 우아한 곡선과 자연미가 돋보인다."
+msgstr ""
+
+msgctxt "5b9c1d1388334ee7bec97620f65847fd"
+msgid "ID=880204092"
+msgstr "ID=880204092"
+
+msgctxt "c3e94018863293d44ac85a1f1b09e65f"
+msgid "아르누보 양식 의자[B]"
+msgstr ""
+
+msgctxt "d5301be77a3b58fdbc013e40c6ce9491"
+msgid "ID=880204093"
+msgstr "ID=880204093"
+
+msgctxt "69b22e4562e4f78558d74a8006f1ce83"
+msgid "아르누보 양식 의자[C]"
+msgstr ""
+
+msgctxt "c89459c7684fe88696ac9558d5719f41"
+msgid "ID=880204101"
+msgstr "ID=880204101"
+
+msgctxt "67a8521d7a3327c607ca8f0781a87001"
+msgid "아르누보 양식 테이블[A]"
+msgstr ""
+
+msgctxt "941117d87af16cb066f6fe462312be6f"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 테이블이다. 아르누보 "
+"양식 특유의 곡선과 자연미가 우아한 느낌을 준다."
+msgstr ""
+
+msgctxt "c90b068525a6fc0a1b64ed3ee3cab374"
+msgid "ID=880204102"
+msgstr "ID=880204102"
+
+msgctxt "c05dd729682df21b0e017084700c9682"
+msgid "아르누보 양식 테이블[B]"
+msgstr ""
+
+msgctxt "0024da5e0799d2a5941560199ca05e44"
+msgid "ID=880204103"
+msgstr "ID=880204103"
+
+msgctxt "1e6d1466da4f7657059e046758881518"
+msgid "아르누보 양식 테이블[C]"
+msgstr ""
+
+msgctxt "70b71e200c20db23ac87120df013f182"
+msgid "ID=880204111"
+msgstr "ID=880204111"
+
+msgctxt "969683994e6c6310fb0edcc4ce92923f"
+msgid "아르누보 양식 장식장[A]"
+msgstr ""
+
+msgctxt "7d700503ada87876afc8305d687b248e"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 장식장이다. 아르누보 "
+"양식 특유의 곡선과 자연미가 우아한 느낌을 준다."
+msgstr ""
+
+msgctxt "8d0cf1f8a9f41cb0f25b8d019b50caaf"
+msgid "ID=880204112"
+msgstr "ID=880204112"
+
+msgctxt "b42d69b9012e7899c261810c67bab8de"
+msgid "아르누보 양식 장식장[B]"
+msgstr ""
+
+msgctxt "297102e1a08932f1b68057701d94af18"
+msgid "ID=880204113"
+msgstr "ID=880204113"
+
+msgctxt "3af02174b8b7ce85c23dbf21fb19cc17"
+msgid "아르누보 양식 장식장[C]"
+msgstr ""
+
+msgctxt "ed45f1eb3d2b150b24de1941655f4034"
+msgid "ID=880204121"
+msgstr "ID=880204121"
+
+msgctxt "552f7ccf7825ef94121f3a4aa38f8216"
+msgid "아르누보 양식 철제 욕조[A]"
+msgstr ""
+
+msgctxt "19cd5e4129ea8feaad3135c82bafc69f"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 욕조이다. 철로 "
+"만들어져 있어 단단해 보인다. "
+msgstr ""
+
+msgctxt "8834326c8f654fa26d0c0156d5de0d85"
+msgid "ID=880204122"
+msgstr "ID=880204122"
+
+msgctxt "089e5c03f8d296e244a80fbb4e189f4a"
+msgid "아르누보 양식 철제 욕조[B]"
+msgstr ""
+
+msgctxt "77a8143a675f3fbc910af301e75fb86f"
+msgid "ID=880204123"
+msgstr "ID=880204123"
+
+msgctxt "fea24e24b3a153234afd064ba14ca53c"
+msgid "아르누보 양식 철제 욕조[C]"
+msgstr ""
+
+msgctxt "6fd00e5a49ada7aaa96e95f5d0080264"
+msgid "ID=880204141"
+msgstr "ID=880204141"
+
+msgctxt "49148715b394c6ebe6affd9b83e6599b"
+msgid "아르누보 양식 탁상 시계[A]"
+msgstr ""
+
+msgctxt "e45b9fe201830f77120fa3eb0d004079"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 탁상시계이다. 우아한 "
+"느낌의 아르누보 양식이 잘 담겨 있다."
+msgstr ""
+
+msgctxt "2001145ab09263716331afa79f5d5479"
+msgid "ID=880204142"
+msgstr "ID=880204142"
+
+msgctxt "88932de9497476ee50f8fe003f2868bf"
+msgid "아르누보 양식 탁상 시계[B]"
+msgstr ""
+
+msgctxt "561cb4353ab6479d2ac14a56d4a3bb96"
+msgid "ID=880204143"
+msgstr "ID=880204143"
+
+msgctxt "8b242229efc1d31c8e444cb93d057f26"
+msgid "아르누보 양식 탁상 시계[C]"
+msgstr ""
+
+msgctxt "d3d2dde72bf19d7441570154855fe933"
+msgid "ID=880204151"
+msgstr "ID=880204151"
+
+msgctxt "d48d1edf331f5cdb3456b00e67cf4a86"
+msgid "아르누보 양식 꽃병[A]"
+msgstr ""
+
+msgctxt "5f280a65b004b80e8059f2ac3f6fe9db"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 꽃병이다. 꽃에 꽃을 "
+"담아놓은 듯한 느낌이 인상적이다."
+msgstr ""
+
+msgctxt "19e966391e4d615b5ea981e2f6813fc1"
+msgid "ID=880204152"
+msgstr "ID=880204152"
+
+msgctxt "79ef5e60bcc9de1d0e6682196b1d6b83"
+msgid "아르누보 양식 꽃병[B]"
+msgstr ""
+
+msgctxt "4057e84e6ac37c27db90ad1616a4cf9f"
+msgid "ID=880204153"
+msgstr "ID=880204153"
+
+msgctxt "c9fee5d7d02ea9353f926e35539c5ccc"
+msgid "아르누보 양식 꽃병[C]"
+msgstr ""
+
+msgctxt "6771d68bcd1fee7b2e831196088edb25"
+msgid "ID=880204181"
+msgstr "ID=880204181"
+
+msgctxt "14aed602e3f742fa6d204d90fde41a75"
+msgid "아르누보 양식 천장[A]"
+msgstr ""
+
+msgctxt "d8ced6bb1ecdd567badaf0835eaa6ac4"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보의 천장이다. 아르누보 양식 "
+"특유의 우아한 곡선과 자연미가 돋보인다."
+msgstr ""
+
+msgctxt "61bceb9c1bc861e07948a70b0a5d58dc"
+msgid "ID=880204182"
+msgstr "ID=880204182"
+
+msgctxt "fcfb83374b83af33be549d75071c7f71"
+msgid "아르누보 양식 천장[B]"
+msgstr ""
+
+msgctxt "98304102b4ce10a617bba23d94b4df19"
+msgid "ID=880204183"
+msgstr "ID=880204183"
+
+msgctxt "2028df16fdaebf6d67c7480c95779765"
+msgid "아르누보 양식 천장[C]"
+msgstr ""
+
+msgctxt "d6e310f5a38e69a833dc285d7b45a636"
+msgid "ID=880204061"
+msgstr "ID=880204061"
+
+msgctxt "e546352d0d570bc64a56d109472c1ba2"
+msgid "아르누보 양식 현관문[A]"
+msgstr ""
+
+msgctxt "5f9806305731623e6b87a3385bef0ffc"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아르누보 시리즈의 현관문이다. 현관문 "
+"중앙의 장식이 아르누보 양식 특유의 곡선과 자연미를 담고 있어 우아한 느낌을 준다."
+msgstr ""
+
+msgctxt "aba12bedebbbff594455ceea056253eb"
+msgid "ID=880204062"
+msgstr "ID=880204062"
+
+msgctxt "cf4ab6ed9e55a70f76e3e8e3cab9267a"
+msgid "아르누보 양식 현관문[B]"
+msgstr ""
+
+msgctxt "b30ff8cd6ec344482f7f9cc05c15a279"
+msgid "ID=880204063"
+msgstr "ID=880204063"
+
+msgctxt "d099bb20f80ed28de427e9c464c81234"
+msgid "아르누보 양식 현관문[C]"
+msgstr ""
+
+msgctxt "670536c29590a044294016e82f37ef60"
+msgid "ID=880304011"
+msgstr "ID=880304011"
+
+msgctxt "f7887db02beb46c4edabfa749d1328c5"
+msgid "히에로글리프 사암석 벽지[A]"
+msgstr ""
+
+msgctxt "01f60ae1366fe85119375ae39cdab10b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 벽지이다. 사방을 "
+"둘러싼 사암석이 고대 유적 속에 있는 듯한 느낌을 준다."
+msgstr ""
+
+msgctxt "d764b913ac959c4f7e4e1bfccbd50e44"
+msgid "ID=880304012"
+msgstr "ID=880304012"
+
+msgctxt "01ae20e3edfeeabe052eab448c5b73b7"
+msgid "히에로글리프 사암석 벽지[B]"
+msgstr ""
+
+msgctxt "c1c320c95a9686ba416d66bc995fa031"
+msgid "ID=880304013"
+msgstr "ID=880304013"
+
+msgctxt "f1000c0d32a1f84160be7145ef39c823"
+msgid "히에로글리프 사암석 벽지[C]"
+msgstr ""
+
+msgctxt "e40630407c46c4926f36587e80365ee7"
+msgid "ID=880304021"
+msgstr "ID=880304021"
+
+msgctxt "168a139fee6a20843b82b6fc193a422d"
+msgid "고대 이집트 사암석 바닥[A]"
+msgstr ""
+
+msgctxt "ffea7582d73970e9a5ddbfead69d66ef"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 타일이다. "
+"사암석으로 되어 단열에 좋을 것 같지만 청소하기엔 조금 힘들 것 같기도 하다."
+msgstr ""
+
+msgctxt "e51c62b6eb3e3d896033475c9f9ed344"
+msgid "ID=880304022"
+msgstr "ID=880304022"
+
+msgctxt "d98196a62207c7aa5075c416a288dab4"
+msgid "고대 이집트 사암석 바닥[B]"
+msgstr ""
+
+msgctxt "9f041a8547d04a7f12d90b3332157e27"
+msgid "ID=880304023"
+msgstr "ID=880304023"
+
+msgctxt "7c288bca15c9e53e21d17a940c168f73"
+msgid "고대 이집트 사암석 바닥[C]"
+msgstr ""
+
+msgctxt "87743372cec79f7fb7307fb622c2dcc4"
+msgid "ID=880304031"
+msgstr "ID=880304031"
+
+msgctxt "766dd579d8b2736ba924364d885c3fab"
+msgid "고대 이집트 장식[A]"
+msgstr ""
+
+msgctxt "e7ebc411e98d1c7d97adba53f1dc5631"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 이집트 왕의 "
+"지팡이와 도리깨 장식이다. 고대 유적 속의 유물과 함께 생활하는 느낌을 받을 수 있게 만들어 준다."
+msgstr ""
+
+msgctxt "b2ffc0eecc2518ab8fec52a2c3e1ad94"
+msgid "ID=880304032"
+msgstr "ID=880304032"
+
+msgctxt "e604db0030f20d133bf3cec15e3b95f4"
+msgid "고대 이집트 장식[B]"
+msgstr ""
+
+msgctxt "06e7db2ea622a1f3e268e3a50cbd05a1"
+msgid "ID=880304033"
+msgstr "ID=880304033"
+
+msgctxt "627335be8c15fed16b3282f5cb6e10f0"
+msgid "고대 이집트 장식[C]"
+msgstr ""
+
+msgctxt "f32c8ef93ffcac6288f1838d5561b282"
+msgid "ID=880304041"
+msgstr "ID=880304041"
+
+msgctxt "c4bdaf1d3e5ca3a91c5b7c4acf1db77b"
+msgid "고대 이집트 테라스 도어[A]"
+msgstr ""
+
+msgctxt "6746b9c854a8ccdd22eb1be7198ac588"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 테라스 도어이다. "
+"문에 그려진 벽화가 이집트 특유의 분위기를 물씬 느낄 수 있게 만들어 준다."
+msgstr ""
+
+msgctxt "e08ff932018bc4d18e2c06a0a55631bc"
+msgid "ID=880304042"
+msgstr "ID=880304042"
+
+msgctxt "8c2b4a164badd4bc1ef049b0a68c7e3d"
+msgid "고대 이집트 테라스 도어[B]"
+msgstr ""
+
+msgctxt "d6af63f2ffeba5c1330cb2d2fe99bf2c"
+msgid "ID=880304043"
+msgstr "ID=880304043"
+
+msgctxt "f17d514ca290204256feb4471434c0db"
+msgid "고대 이집트 테라스 도어[C]"
+msgstr ""
+
+msgctxt "5d12e9c55f4061cbc168e058d0f69c25"
+msgid "ID=880304051"
+msgstr "ID=880304051"
+
+msgctxt "c52e056669e66b8587f8266dcf26cb92"
+msgid "고대 이집트 창문[A]"
+msgstr ""
+
+msgctxt "5a30f997660adfb4e6cf0cd2113c657d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 창문이다. 창문에 "
+"그려진 장식이 이집트 특유의 분위기를 물씬 느낄 수 있게 만들어 준다."
+msgstr ""
+
+msgctxt "176463241b283a848418f2d3fdd524f3"
+msgid "ID=880304052"
+msgstr "ID=880304052"
+
+msgctxt "9043f9d39e4b74938ad3f2f408704a7d"
+msgid "고대 이집트 창문[B]"
+msgstr ""
+
+msgctxt "91ec807aef1e95eb2e9684447119c13c"
+msgid "ID=880304053"
+msgstr "ID=880304053"
+
+msgctxt "a4bc3600e16470d720d9969b2c8b103b"
+msgid "고대 이집트 창문[C]"
+msgstr ""
+
+msgctxt "4421796492458877828894ed0022eb49"
+msgid "ID=880304071"
+msgstr "ID=880304071"
+
+msgctxt "1dd9787fb8b9b53a2a1c610ffa30e38e"
+msgid "얼룩무늬 러그[A]"
+msgstr ""
+
+msgctxt "bed47fd72d2574df3d632ba85ddccf3e"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 러그이다. "
+"얼룩무늬가 자연이 살아있는 듯한 느낌을 준다."
+msgstr ""
+
+msgctxt "1b0e20cda6be71c9d8dec6aba4446000"
+msgid "ID=880304072"
+msgstr "ID=880304072"
+
+msgctxt "5debc24d914abb18d6477bf05068fea0"
+msgid "얼룩무늬 러그[B]"
+msgstr ""
+
+msgctxt "d4b3a11bbc08961633498bf66ca3df48"
+msgid "ID=880304073"
+msgstr "ID=880304073"
+
+msgctxt "245c4c3e082e4092f88d5b9d3065e342"
+msgid "얼룩무늬 러그[C]"
+msgstr ""
+
+msgctxt "e5472902816669625b05bab607b78bb1"
+msgid "ID=880304081"
+msgstr "ID=880304081"
+
+msgctxt "645c9b3860cd43ec901fd57d7237940b"
+msgid "고대 이집트 왕의 관[A]"
+msgstr ""
+
+msgctxt "2d0c24d6b0972b292b33814666c87eb1"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 침대이다. 이집트 "
+"특유의 우아한 아름다움이 느껴진다. 자고 일어나면 미라가 되어 있을 것만 같다."
+msgstr ""
+
+msgctxt "8577dc8ab4444b557f55757a24c59122"
+msgid "ID=880304082"
+msgstr "ID=880304082"
+
+msgctxt "432d47aeb4433d89f8fb0497643ca691"
+msgid "고대 이집트 왕의 관[B]"
+msgstr ""
+
+msgctxt "1412213cd0f0f2204c9df7bc3243ff85"
+msgid "ID=880304083"
+msgstr "ID=880304083"
+
+msgctxt "f443827739b183dc916c54dbc178bfae"
+msgid "고대 이집트 왕의 관[C]"
+msgstr ""
+
+msgctxt "cfb85ec592a5c75d0e49fc7d4011b113"
+msgid "ID=880304091"
+msgstr "ID=880304091"
+
+msgctxt "a3e86c15b0165ed8c360034e0aa86b27"
+msgid "고대 이집트 마호가니 소파[A]"
+msgstr ""
+
+msgctxt "f813defe54af00941c69365a3dc52639"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 소파이다. 이집트 "
+"특유의 우아한 아름다움이 느껴진다. 앉아있으면 고대의 왕이 된 것 같은 느낌을 받을 수 있다."
+msgstr ""
+
+msgctxt "0fc912bff77b58dab1edadb88e0112ed"
+msgid "ID=880304092"
+msgstr "ID=880304092"
+
+msgctxt "f62212336aed4cd6a12756a8ce744c03"
+msgid "고대 이집트 마호가니 소파[B]"
+msgstr ""
+
+msgctxt "0eb866f49189a057f1adec35bfa9e348"
+msgid "ID=880304093"
+msgstr "ID=880304093"
+
+msgctxt "1e4568b6fbb82faa60e5f84a3cd63742"
+msgid "고대 이집트 마호가니 소파[C]"
+msgstr ""
+
+msgctxt "2933668e11222ccd1f5a94fe2b8b257a"
+msgid "ID=880304101"
+msgstr "ID=880304101"
+
+msgctxt "75b417c62467b7820c8fded890380274"
+msgid "고대 이집트 마호가니 탁상[A]"
+msgstr ""
+
+msgctxt "c4d5f2ee7941db5a3b330d30487683af"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 마호가니 탁상이다. "
+"대부분이 금빛으로 이루어져 이집트 특유의 우아한 아름다움이 느껴진다."
+msgstr ""
+
+msgctxt "2f7bbcb28a770f6d3c6365e217aa60b1"
+msgid "ID=880304102"
+msgstr "ID=880304102"
+
+msgctxt "929ae2d03260097ed7d6b6cec608b736"
+msgid "고대 이집트 마호가니 탁상[B]"
+msgstr ""
+
+msgctxt "612b7014bd8ca623056bbcf3a46006e4"
+msgid "ID=880304103"
+msgstr "ID=880304103"
+
+msgctxt "4aa25ec826bda3082560b46d8fd7e229"
+msgid "고대 이집트 마호가니 탁상[C]"
+msgstr ""
+
+msgctxt "870f2955c1b703fe4f85816c60686065"
+msgid "ID=880304111"
+msgstr "ID=880304111"
+
+msgctxt "32fcb55f1e63e285f86cceb910ee80a1"
+msgid "고대 이집트 마호가니 서랍장[A]"
+msgstr ""
+
+msgctxt "2f6a6efe791a85f614b60ef9ccc3c8b8"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 서랍장이다. 낮은 "
+"채도의 색감과 금빛이 적절히 이루어져 이집트 특유의 우아한 아름다움을 느낄 수 있게 한다. 안에 보물이 있을 것만 같다."
+msgstr ""
+
+msgctxt "65f67eae4fe444e999fd884e978a7f7e"
+msgid "ID=880304112"
+msgstr "ID=880304112"
+
+msgctxt "739296e6c6fecd13fdece11e9c93967d"
+msgid "고대 이집트 마호가니 서랍장[B]"
+msgstr ""
+
+msgctxt "de816c3200efbf0ed489a831494d91fc"
+msgid "ID=880304113"
+msgstr "ID=880304113"
+
+msgctxt "4d80abd505aa05db391fde1e3be1fc13"
+msgid "고대 이집트 마호가니 서랍장[C]"
+msgstr ""
+
+msgctxt "7462b6ea1f9e55a843b981f127767626"
+msgid "ID=880304121"
+msgstr "ID=880304121"
+
+msgctxt "262879f12ca6d60b151e2ff390339c18"
+msgid "스핑크스 욕조[A]"
+msgstr ""
+
+msgctxt "a19250c2d7dc9dc9e7e0d829a85252a3"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 욕조이다. 금빛 "
+"스핑크스 디자인이 인상적이다. 고대의 왕이 된 것 같은 느낌을 받을 수 있다."
+msgstr ""
+
+msgctxt "ccb250c0a05dd48957438930834a3ca5"
+msgid "ID=880304122"
+msgstr "ID=880304122"
+
+msgctxt "52af17a73206af1b468b80af85b8018d"
+msgid "스핑크스 욕조[B]"
+msgstr ""
+
+msgctxt "720153a78c2c2cf15647bdf682af9624"
+msgid "ID=880304123"
+msgstr "ID=880304123"
+
+msgctxt "029bb6c18faa98d864a10b2950151ce1"
+msgid "스핑크스 욕조[C]"
+msgstr ""
+
+msgctxt "e8d507eb35da2c0b92278e4411b4609c"
+msgid "ID=880304141"
+msgstr "ID=880304141"
+
+msgctxt "8c50094e77540cd7e4fe72607173a2c2"
+msgid "아누비스 상[A]"
+msgstr ""
+
+msgctxt "4af62643203d29a65579040d5fca6ca6"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 아누비스 동상이다. "
+"고대의 수호자와 함께 생활하는 느낌을 주어 좋을 수 있으나, 밤에 혼자서 움직일 것만 같기도 하다."
+msgstr ""
+
+msgctxt "ae4debc0e336d7e7d3d3d4a8311bde25"
+msgid "ID=880304142"
+msgstr "ID=880304142"
+
+msgctxt "f2a91180ec43459b86b6cded3d2f5650"
+msgid "아누비스 상[B]"
+msgstr ""
+
+msgctxt "61fdada247359e3045229e3649fe87d2"
+msgid "ID=880304143"
+msgstr "ID=880304143"
+
+msgctxt "8607f529d5a107670411ffee15899a74"
+msgid "아누비스 상[C]"
+msgstr ""
+
+msgctxt "940e2f5b2fe44959d728be3268da9c95"
+msgid "ID=880304151"
+msgstr "ID=880304151"
+
+msgctxt "aea764adf81ccbc3376e96b50dc230c8"
+msgid "호루스 상[A]"
+msgstr ""
+
+msgctxt "dda29237d98b158a17786b5848bbce72"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 호루스 동상이다. "
+"고대의 수호자와 함께 생활하는 느낌을 주어 좋을 수 있으나, 밤에 혼자서 움직일 것만 같기도 하다."
+msgstr ""
+
+msgctxt "defd6417d72cda45243636024671315c"
+msgid "ID=880304152"
+msgstr "ID=880304152"
+
+msgctxt "3f4c797407c4e71b065ddc52b7039a4d"
+msgid "호루스 상[B]"
+msgstr ""
+
+msgctxt "8d5f44b290821894e9f5b5658d135929"
+msgid "ID=880304153"
+msgstr "ID=880304153"
+
+msgctxt "0b165b2d2bafb43bb278b3c228b81d0f"
+msgid "호루스 상[C]"
+msgstr ""
+
+msgctxt "04e1a63cc648c9c924034fe99a8c6464"
+msgid "ID=880304161"
+msgstr "ID=880304161"
+
+msgctxt "c88efab599ebeb6ee240be50eded87c2"
+msgid "고대 이집트 왕의 의자[A]"
+msgstr ""
+
+msgctxt "824db151fed8e86239f0442d22c0bfe7"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 왕의 의자이다. "
+"이름 그대로 왕이 된 듯한 느낌을 받을 수 있다. "
+msgstr ""
+
+msgctxt "24cefca19a902bdc8d65c9e9979f60d3"
+msgid "ID=880304162"
+msgstr "ID=880304162"
+
+msgctxt "555572828d8751c706864b21d1d8edab"
+msgid "고대 이집트 왕의 의자[B]"
+msgstr ""
+
+msgctxt "36a2d370d0fcafb1f03c0988cefefbdd"
+msgid "ID=880304163"
+msgstr "ID=880304163"
+
+msgctxt "6ba4bfff1e8444d67ce012d7a790680b"
+msgid "고대 이집트 왕의 의자[C]"
+msgstr ""
+
+msgctxt "9cb37f9590a38736ecba41fc672ca5a0"
+msgid "ID=880304171"
+msgstr "ID=880304171"
+
+msgctxt "41067798f2e846f3b0312424085d1ea2"
+msgid "고대 이집트 샤워 부스[A]"
+msgstr ""
+
+msgctxt "6737ada66e33a68fbdea1d4663ba04d9"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 샤워부스이다. 낮은 "
+"채도의 색감과 금빛이 적절히 이루어져 이집트 특유의 우아한 아름다움을 느낄 수 있게 한다. 문을 열고 들어가면 보물이 숨겨져 있을 것만 "
+"같다."
+msgstr ""
+
+msgctxt "979112eb099841c02a7a575791491a86"
+msgid "ID=880304172"
+msgstr "ID=880304172"
+
+msgctxt "9f39bf969f4f516571f922c20197ab24"
+msgid "고대 이집트 샤워 부스[B]"
+msgstr ""
+
+msgctxt "29011dd432bae3f48024da3815113997"
+msgid "ID=880304173"
+msgstr "ID=880304173"
+
+msgctxt "c1cebd3143fd19778096f38b8de8c181"
+msgid "고대 이집트 샤워 부스[C]"
+msgstr ""
+
+msgctxt "b26e6dd9741aa1ac370f9ad3a92d3207"
+msgid "ID=880304181"
+msgstr "ID=880304181"
+
+msgctxt "a6187cc4feea9c47cf81b06b620ebd3b"
+msgid "고대 이집트 사암석 천장[A]"
+msgstr ""
+
+msgctxt "7d8d101f3f98779133ee8fc2ff16d20f"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 사암석 천장이다. "
+"암석으로 되어 단열에 좋을 것 같지만 자고 있다가 하늘에서 모래가루가 떨어질 것 같기도 하다."
+msgstr ""
+
+msgctxt "f1451053beba028e5dc2e8dcc1f56ce3"
+msgid "ID=880304182"
+msgstr "ID=880304182"
+
+msgctxt "187f2fd358196bc4ac3dbcf145faab52"
+msgid "고대 이집트 사암석 천장[B]"
+msgstr ""
+
+msgctxt "912310a093fbe06226db33b13f01a790"
+msgid "ID=880304183"
+msgstr "ID=880304183"
+
+msgctxt "49c3b1b7507992d5495f2afc116ce27d"
+msgid "고대 이집트 사암석 천장[C]"
+msgstr ""
+
+msgctxt "9295f6febfcdef2205ee0d33b0909cb0"
+msgid "ID=880304061"
+msgstr "ID=880304061"
+
+msgctxt "aa65260c97826f4009377bc2d9b38f48"
+msgid "고대 이집트 도어[A]"
+msgstr ""
+
+msgctxt "1ff6228ec9a3af19d943ef923017a0da"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n고대 이집트 시리즈의 문이다. 문에 "
+"그려진 벽화가 이집트 특유의 분위기를 물씬 느낄 수 있게 만들어 준다. 문이 열릴 때 건물을 울리는 진동과 함께 모래가 쏟아져 내릴 것 "
+"같기도 하다."
+msgstr ""
+
+msgctxt "a7c0cb139968cc9ce665cc763a53ec7b"
+msgid "ID=880304062"
+msgstr "ID=880304062"
+
+msgctxt "efba117cd3b5abdcdb6e8ef1669be83f"
+msgid "고대 이집트 도어[B]"
+msgstr ""
+
+msgctxt "9b152afc90666ed38723d01b87754859"
+msgid "ID=880304063"
+msgstr "ID=880304063"
+
+msgctxt "74ea074f18d698c2a367dcd3de7fd039"
+msgid "고대 이집트 도어[C]"
+msgstr ""
+
+msgctxt "6d75596c4e60e1b59b42c4625dc8578a"
+msgid "ID=880205011"
+msgstr "ID=880205011"
+
+msgctxt "950fc4cce55a97aa3d857a4b8bf6a090"
+msgid "한국풍 벽지[A]"
+msgstr ""
+
+msgctxt "545e9592e11bd69ff64407fbb9718b27"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍의 벽지이다. 낮은 채도로 이루어져 "
+"따뜻하고 안정적인 느낌을 준다."
+msgstr ""
+
+msgctxt "5f20b74b78f0b37f0a3ee646bce6f935"
+msgid "ID=880205012"
+msgstr "ID=880205012"
+
+msgctxt "11c7e73b437ad9d41391bdfd9ed2b320"
+msgid "한국풍 벽지[B]"
+msgstr ""
+
+msgctxt "08488c9fd3a28ce4d324e0e4e5e34489"
+msgid "ID=880205013"
+msgstr "ID=880205013"
+
+msgctxt "f10ac0777b4543268e6efbe503c84a4e"
+msgid "한국풍 벽지[C]"
+msgstr ""
+
+msgctxt "33ab32f25408ccf6b2e02cc4efbad7ec"
+msgid "ID=880205021"
+msgstr "ID=880205021"
+
+msgctxt "ae80e1ed40bb48d093b2f49a3279ebce"
+msgid "한국풍 바닥[A]"
+msgstr ""
+
+msgctxt "dcb6b33e808417d495ef66e382c68d67"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍의 바닥재이다. 낮은 채도와 매끈한 "
+"느낌이 평범하지만 따뜻하고 안정적인 느낌을 준다."
+msgstr ""
+
+msgctxt "ab2fdc4bf1069338c116c8da9da9ae32"
+msgid "ID=880205022"
+msgstr "ID=880205022"
+
+msgctxt "cd63dcac4e896ab674600d52355ff16e"
+msgid "한국풍 바닥[B]"
+msgstr ""
+
+msgctxt "aee6b040da53c2cf32c3fca74dadf5e7"
+msgid "ID=880205023"
+msgstr "ID=880205023"
+
+msgctxt "7070687c593d1078e3c6676d4edab3b1"
+msgid "한국풍 바닥[C]"
+msgstr ""
+
+msgctxt "015d9901ce787ebf0a2682bba241b63c"
+msgid "ID=880205031"
+msgstr "ID=880205031"
+
+msgctxt "b021eeb9e06b67c9ce495cd6b48a9f51"
+msgid "한국풍 족자[A]"
+msgstr ""
+
+msgctxt "176fa2e9a29a0f8c49cacc4320b954c7"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍의 난이 그려진 족자이다. 묵빛의 "
+"그림이 화려하진 않지만 집을 우아하게 만들어주는 포인트가 된다."
+msgstr ""
+
+msgctxt "e3cf410be68ab8a617cb9de5f251ce60"
+msgid "ID=880205032"
+msgstr "ID=880205032"
+
+msgctxt "70c6e37d278753948478a15249a2b68a"
+msgid "한국풍 족자[B]"
+msgstr ""
+
+msgctxt "d35e462eb77b7f8d9684b36662092477"
+msgid "ID=880205033"
+msgstr "ID=880205033"
+
+msgctxt "ab4147f91e097a3fe0deb5410bc47826"
+msgid "한국풍 족자[C]"
+msgstr ""
+
+msgctxt "e008abae2bb90249a6103aea6e0198eb"
+msgid "ID=880205041"
+msgstr "ID=880205041"
+
+msgctxt "9f43125e2162b33109a2d4cc703970dd"
+msgid "한국풍 테라스 문[A]"
+msgstr ""
+
+msgctxt "7c3413dbdcd78637971eeecb6dac8c6d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍의 테라스 도어이다. 낮은 채도의 "
+"창틀과 창호지가 묵직한 아름다움을 뽐내고 있다."
+msgstr ""
+
+msgctxt "ff573e917b49ec850740a1aedcc8d338"
+msgid "ID=880205042"
+msgstr "ID=880205042"
+
+msgctxt "8fb86da9a6571e152689e4c63d585f6d"
+msgid "한국풍 테라스 문[B]"
+msgstr ""
+
+msgctxt "9c685d5d7b46d895d628aea3e03240a2"
+msgid "ID=880205043"
+msgstr "ID=880205043"
+
+msgctxt "b0da2d0b387f0cfb208cccdd003ff5b6"
+msgid "한국풍 테라스 문[C]"
+msgstr ""
+
+msgctxt "733aab1fab2e8e1bef28dded779351ae"
+msgid "ID=880205051"
+msgstr "ID=880205051"
+
+msgctxt "a72c2f6b356027b14bf4a8ed44e7036a"
+msgid "한국풍 창문[A]"
+msgstr ""
+
+msgctxt "045ebf973dc8eaef896bc66d263f3140"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍의 창문이다. 낮은 채도의 창틀과 "
+"창호지가 묵직한 아름다움을 뽐내고 있다."
+msgstr ""
+
+msgctxt "16771f9cff27300ce73c5ab2583e02cf"
+msgid "ID=880205052"
+msgstr "ID=880205052"
+
+msgctxt "39a95fcd351db5a43a7693d86d9ec163"
+msgid "한국풍 창문[B]"
+msgstr ""
+
+msgctxt "45abaae832bf7eba713a710ec2d37d5a"
+msgid "ID=880205053"
+msgstr "ID=880205053"
+
+msgctxt "21c6a23fc0b5b0317bdb962985b9e877"
+msgid "한국풍 창문[C]"
+msgstr ""
+
+msgctxt "f6d10fc6479708752c8132ff4a5583d7"
+msgid "ID=880205071"
+msgstr "ID=880205071"
+
+msgctxt "462a28ae3bc0148f535d0c9bfa223599"
+msgid "한국풍 돗자리[A]"
+msgstr ""
+
+msgctxt "b36a979e7397669e11107686037ebcc9"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍의 돗자리이다. 특유의 소재가 "
+"여름에 누워있으면 매우 시원할 것 같다."
+msgstr ""
+
+msgctxt "bc34c2b769515051b8df49ee90f7192a"
+msgid "ID=880205072"
+msgstr "ID=880205072"
+
+msgctxt "c0507f1b334b9b03b7b73d1172520697"
+msgid "한국풍 돗자리[B]"
+msgstr ""
+
+msgctxt "06eb2cec6a9cbee4ff1fdcca61409083"
+msgid "ID=880205073"
+msgstr "ID=880205073"
+
+msgctxt "07bb451614ce226ca3ec34fa8213dec8"
+msgid "한국풍 돗자리[C]"
+msgstr ""
+
+msgctxt "40f37ef48d272391260c0fb144add9fe"
+msgid "ID=880205081"
+msgstr "ID=880205081"
+
+msgctxt "829dee48fd36a5d2a3ac7521598f56e3"
+msgid "한국풍 전통 침대[A]"
+msgstr ""
+
+msgctxt "e68aeae516a73a1cc331e603681adfab"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍의 전통 침대이다. 한쪽 면을 "
+"차지하는 병풍이 매우 인상적이다. 침대의 낮은 채도의 색깔과 화려한 문양이 대조되어 특유의 아름다움을 뽐내고 있다."
+msgstr ""
+
+msgctxt "6b4ce10bc477670553921167d4691cf1"
+msgid "ID=880205082"
+msgstr "ID=880205082"
+
+msgctxt "cc2ac42c33ca15c60c04a50353de32e0"
+msgid "한국풍 전통 침대[B]"
+msgstr ""
+
+msgctxt "f7fa82b88ed40c50b0732b07484570d8"
+msgid "ID=880205083"
+msgstr "ID=880205083"
+
+msgctxt "2e15623bb09ac23a5145be4cfa56d358"
+msgid "한국풍 전통 침대[C]"
+msgstr ""
+
+msgctxt "27bc891f0048e2bc268ba5e7ef51270e"
+msgid "ID=880205091"
+msgstr "ID=880205091"
+
+msgctxt "ba4e5f6f92bf20485bd9c40bbe9732fd"
+msgid "한국풍 전통 방석[A]"
+msgstr ""
+
+msgctxt "d2fa9726bca46517f0056ebe1630105e"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍의 전통 방석이다. 낮은 채도의 "
+"색깔과 화려한 문양이 대조되어 특유의 아름다움을 뽐내고 있다."
+msgstr ""
+
+msgctxt "2891fcdc741a4344be46cadb2be95352"
+msgid "ID=880205092"
+msgstr "ID=880205092"
+
+msgctxt "f7ef41310c7bfe2b018343ee2caf2a94"
+msgid "한국풍 전통 방석[B]"
+msgstr ""
+
+msgctxt "734ae814a2c7a9147c0ef23ad71c803c"
+msgid "ID=880205093"
+msgstr "ID=880205093"
+
+msgctxt "e29a9b547ab60ecec538c207fbee7e70"
+msgid "한국풍 전통 방석[C]"
+msgstr ""
+
+msgctxt "d8b0304f9c9375f23679a34927565564"
+msgid "ID=880205101"
+msgstr "ID=880205101"
+
+msgctxt "70ab28df7c85c904674aaa09f2381c42"
+msgid "한국풍 경상[A]"
+msgstr ""
+
+msgctxt "817c504e78266137d29406551dc7fc11"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍 테이블, 경상이다. 낮은 채도의 "
+"목재와 우아한 곡선을 담은 틀이 잘 어우러져 묵직한 아름다움을 뽐내고 있다."
+msgstr ""
+
+msgctxt "f8c1c28fe0fd9873de4ef49222c98f20"
+msgid "ID=880205102"
+msgstr "ID=880205102"
+
+msgctxt "59900c09a16720b92ed47f5d0907f4db"
+msgid "한국풍 경상[B]"
+msgstr ""
+
+msgctxt "ba14b3eeb80e9d7968957068d1314f0a"
+msgid "ID=880205103"
+msgstr "ID=880205103"
+
+msgctxt "4dc03feaf9cb2ddbfb6c7147f7bb2dfe"
+msgid "한국풍 경상[C]"
+msgstr ""
+
+msgctxt "a8a81637528621f7a5f876b14ef64307"
+msgid "ID=880205111"
+msgstr "ID=880205111"
+
+msgctxt "e4e49b80d10b605527cce51443851726"
+msgid "한국풍 책장[A]"
+msgstr ""
+
+msgctxt "249bc858d0b09455abc0ea3945cf228a"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍의 책장이다. 낮은 채도의 목재와 "
+"우아한 곡선을 담은 틀이 잘 어우러져 묵직한 아름다움을 뽐내고 있다."
+msgstr ""
+
+msgctxt "9b005ca48512bf6836f1ed29dbcd8c27"
+msgid "ID=880205112"
+msgstr "ID=880205112"
+
+msgctxt "92a4d7ab1880d1e9b9926304aef6d8f6"
+msgid "한국풍 책장[B]"
+msgstr ""
+
+msgctxt "051489967766deda70335ec0b3ccd466"
+msgid "ID=880205113"
+msgstr "ID=880205113"
+
+msgctxt "02a6a2474f4ace2a154d4fae42cc6c71"
+msgid "한국풍 책장[C]"
+msgstr ""
+
+msgctxt "3fdbfa0ef23b221c15796ebf2da428bd"
+msgid "ID=880205121"
+msgstr "ID=880205121"
+
+msgctxt "65ea9466b683ad1d30e0bcf47fe559f5"
+msgid "한국풍 나무 욕탕[A]"
+msgstr ""
+
+msgctxt "22751e041d481b48c11017d77771b43b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍의 나무 욕조이다. 낮은 채도의 "
+"목재와 우아한 곡선을 담은 틀이 잘 어우러져 묵직한 아름다움을 뽐내고 있다."
+msgstr ""
+
+msgctxt "baa78595b1fe5c632fdb62429adffa2b"
+msgid "ID=880205122"
+msgstr "ID=880205122"
+
+msgctxt "f639654b786564cf9f420ff185040235"
+msgid "한국풍 나무 욕탕[B]"
+msgstr ""
+
+msgctxt "884975401fe617248cdbe757485bec12"
+msgid "ID=880205123"
+msgstr "ID=880205123"
+
+msgctxt "32c097d51f42b16c62ff83a6f2dce3d7"
+msgid "한국풍 나무 욕탕[C]"
+msgstr ""
+
+msgctxt "32914a5d6de0cf8600bdf8cea01c4f28"
+msgid "ID=880205141"
+msgstr "ID=880205141"
+
+msgctxt "f44019f0276833e27aa0882266715b53"
+msgid "한국풍 전통 백자[A]"
+msgstr ""
+
+msgctxt "6b34afed14ab02e13339037eaa4d4a38"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍 전통 백자이다. 백자 특유의 "
+"하얗고 매끄러운 표면에 화려하지 않은 단색의 무늬가 잘 어우러져 우아한 아름다움을 뽐낸다."
+msgstr ""
+
+msgctxt "0fdfc08a4672abeaa29a5a95bc6d9e04"
+msgid "ID=880205142"
+msgstr "ID=880205142"
+
+msgctxt "743e9c92aef9c2c70d6a229a3550303e"
+msgid "한국풍 전통 백자[B]"
+msgstr ""
+
+msgctxt "db4b99a300d82ed0b6e39f3c0f74172c"
+msgid "ID=880205143"
+msgstr "ID=880205143"
+
+msgctxt "a4aa2fd8ec2366a949c5958e87b3a2b1"
+msgid "한국풍 전통 백자[C]"
+msgstr ""
+
+msgctxt "c3da033df8653dac4a29b08d827a86f5"
+msgid "ID=880205151"
+msgstr "ID=880205151"
+
+msgctxt "9446eb0bfa4124844c9993776577bc50"
+msgid "한국풍 호롱 불[A]"
+msgstr ""
+
+msgctxt "02b44a653a8311f8cc81bdc6996e6068"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍 호롱 불이다. 밤에 공부할때 켜면 "
+"매우 열심히 공부하는 느낌이 들것만 같다."
+msgstr ""
+
+msgctxt "8e737dae78cb59d7378ad8f99cbdf71f"
+msgid "ID=880205152"
+msgstr "ID=880205152"
+
+msgctxt "656d349ae70d204c00d7b07b3790340c"
+msgid "한국풍 호롱 불[B]"
+msgstr ""
+
+msgctxt "35e7f4efccac17899176feeab311c618"
+msgid "ID=880205153"
+msgstr "ID=880205153"
+
+msgctxt "aad97455e9ba10528f93d4a2ade9acd5"
+msgid "한국풍 호롱 불[C]"
+msgstr ""
+
+msgctxt "b36f48935b9193cc7f3e63d0eafe6d3b"
+msgid "ID=880205181"
+msgstr "ID=880205181"
+
+msgctxt "ab38c7ffd323df6d44ee011e280ce1ab"
+msgid "한국풍 천장[A]"
+msgstr ""
+
+msgctxt "a27c7f4b75e2b5feab13eaa0b1824154"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍의 천장이다. 낮은 채도의 색깔과 "
+"화려한 문양이 대조되어 특유의 아름다움을 뽐내고 있다."
+msgstr ""
+
+msgctxt "3b1283257a4ca6fda763cb67d94eeb5a"
+msgid "ID=880205182"
+msgstr "ID=880205182"
+
+msgctxt "760e053db63c7a4dfa565e24ac61f82a"
+msgid "한국풍 천장[B]"
+msgstr ""
+
+msgctxt "c2f9fa945b8a911f31cf4e283bd29caf"
+msgid "ID=880205183"
+msgstr "ID=880205183"
+
+msgctxt "a8b6e61125ba5dbf09554b3d3c0753df"
+msgid "한국풍 천장[C]"
+msgstr ""
+
+msgctxt "b0d9cf647bcd56c10371c62490bd41b9"
+msgid "ID=880205061"
+msgstr "ID=880205061"
+
+msgctxt "320ebd894c2245419539661d1add71d4"
+msgid "한국풍 현관문[A]"
+msgstr ""
+
+msgctxt "3c48908aa7e9326cabec2bb85659b1d5"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n한국풍의 현관문이다. 낮은 채도로 "
+"이루어진 나무 문이 인상적이다. 얼핏 보면 되게 무거울 것 같기도 하다."
+msgstr ""
+
+msgctxt "210e8b1cd7b8df5016d973e50db4fa18"
+msgid "ID=880205062"
+msgstr "ID=880205062"
+
+msgctxt "c36042b9af0bda0f8a40eb577c45b14a"
+msgid "한국풍 현관문[B]"
+msgstr ""
+
+msgctxt "319535bc0d59362d0229e38b75202b79"
+msgid "ID=880205063"
+msgstr "ID=880205063"
+
+msgctxt "dbfa6627bf652a3ee08d95fc0cbda059"
+msgid "한국풍 현관문[C]"
+msgstr ""
+
+msgctxt "b968e8f70c0bb0b395c37d2cb78d02a3"
+msgid "ID=880318031"
+msgstr "ID=880318031"
+
+msgctxt "2700bb2f5720748eaa3f06bbfef9625e"
+msgid "소울워커 포스터"
+msgstr ""
+
+msgctxt "d3505eb5bb6cbd3926c609844e97c019"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n청록색으로 물든 하늘. 무너진 도시. "
+"그곳에 피어난 작은 꽃들은 아름다운가, 서글픈가.\\n무너진 세계를 헤쳐 나가는 소년소녀들의 이야기. 소울워커."
+msgstr ""
+
+msgctxt "52dfc96a17bb4bdd64dca499e8c7c78c"
+msgid "ID=880318141"
+msgstr "ID=880318141"
+
+msgctxt "2f3be748f57d1248085c89fa8cf9fc5d"
+msgid "그루톤 머그컵"
+msgstr ""
+
+msgctxt "1e3e221687b87ad16ed30a2f45c127e3"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n환상의 동물이라 불리는 그루톤을 모티브로 "
+"삼은 머그 컵.\\n뚜껑이 그루톤의 머리로 되어 있어, 뚜껑을 열 때 그루톤의 머리가 퐁! 하고 빠진다. 귀여운 것인지 무서운 것인지 잘 "
+"모르겠다."
+msgstr ""
+
+msgctxt "bcee37f78136574853deebe12368d5e5"
+msgid "ID=880318151"
+msgstr "ID=880318151"
+
+msgctxt "b458e2e080c065c1a903979f348af23d"
+msgid "그루톤 쿠션"
+msgstr ""
+
+msgctxt "9247523a520e2fffb7e5c3f4a89d2bbd"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n환상의 동물이라 불리는 그루톤을 모티브로 "
+"삼은 쿠션.\\n푹신한 동물의 털에 파묻히는 건 모든 동물 애호가들의 로망이다. 진짜 동물은 아니지만 기분이라도 그렇게 느낄 수 있는 "
+"고마운 쿠션."
+msgstr ""
+
+msgctxt "1728323eb9f2648e2404e60da5bac244"
+msgid "ID=880318161"
+msgstr "ID=880318161"
+
+msgctxt "955807bb293933a71862635726654369"
+msgid "그루톤 탁상시계"
+msgstr ""
+
+msgctxt "a77579f03c08a84719c11367c59c693c"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n환상의 동물이라 불리는 그루톤을 모티브로 "
+"삼은 탁상시계.\\n그루톤이 들고 있는 시계가 현재의 시간을 정확히 알려준다. 하지만 건전지를 주지 않으면 알려주지 않는다."
+msgstr ""
+
+msgctxt "5e5c861708e1012bd5e2dc1e0545f1f1"
+msgid "ID=880314081"
+msgstr "ID=880314081"
+
+msgctxt "cd8fe7ef58fcbfeced3c4613763603dc"
+msgid "하루의 원형침대"
+msgstr ""
+
+msgctxt "6276d9988921ecfbd5938ff1f7e9f23d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n하루의 취향이 한껏 반영된 침대."
+"\\n왠지 모르게 좋은 향기가 날 것만 같다."
+msgstr ""
+
+msgctxt "004b33a31ed7ae00f04f002643f0bfdb"
+msgid "ID=880314091"
+msgstr "ID=880314091"
+
+msgctxt "d372a00ad548d3e14fb32e292db1908a"
+msgid "하루의 아침과 의자"
+msgstr ""
+
+msgctxt "1bbee20c88b02c9812d2706c1da0827a"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n하루의 취향이 한껏 반영된 아침 식사와 "
+"의자.\\n꾸벅꾸벅 졸며 의자에 앉아 식사하는 하루의 모습을 상상하니 흐뭇해진다."
+msgstr ""
+
+msgctxt "08039921a4eae1254fcd81961bbd9667"
+msgid "ID=880314141"
+msgstr "ID=880314141"
+
+msgctxt "182fcccf4145ef816ed74b6119363e84"
+msgid "하루 에스티아 피규어"
+msgstr ""
+
+msgctxt "95a6acbd0985373fe04274050f56f7bc"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n하루를 피규어화 시킨 것.\\n이것만 "
+"있으면 상시 하루와 같이 있는 듯한 느낌을 받을 수 있다."
+msgstr ""
+
+msgctxt "fcae84803bd99fd1bbcad679640ac066"
+msgid "ID=880314151"
+msgstr "ID=880314151"
+
+msgctxt "d08f196f61d90d8f425ca52b13f0a6aa"
+msgid "하루의 SD인형"
+msgstr ""
+
+msgctxt "a37b55849fcc5c2684d81137786d0ff6"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n하루를 S.D 화 시킨 인형."
+"\\n하루종일 품에 안고 놔주고 싶지 않다."
+msgstr ""
+
+msgctxt "b7a53553105760042e4ce92b28527fc4"
+msgid "ID=880314161"
+msgstr "ID=880314161"
+
+msgctxt "b8ad7fee15a62266cedd035c3a771244"
+msgid "하루의 장식용 입간판"
+msgstr ""
+
+msgctxt "d44268ae077705b0e55f603c0bb873e2"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n하루의 등신대 입간판.\\n방에 세워놓은 "
+"후, 외출을 나갔다 들어오면 하루가 반겨주는 듯한 느낌을 받을 수 있다. 때에 따라선 흠칫 놀랄 수도 있겠지만."
+msgstr ""
+
+msgctxt "f6940d4585468c296175850e5a4f79db"
+msgid "ID=880314071"
+msgstr "ID=880314071"
+
+msgctxt "c2db0d1bc4ebdb16add83f1e35d01bba"
+msgid "하루의 엠블렘 매트"
+msgstr ""
+
+msgctxt "9296caf47ddfef33fe43762ba80c935c"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n하루를 상징하는 엠블렘을 그려 넣은 매트."
+"\\n발을 닦으면 안될 것 같다."
+msgstr ""
+
+msgctxt "72c53088ca4e287af783f01a81e8a1bf"
+msgid "ID=880315081"
+msgstr "ID=880315081"
+
+msgctxt "b0e048f4b186e5f4d155de7162a29992"
+msgid "어윈의 어질러진 침대"
+msgstr ""
+
+msgctxt "b5148cdfd222e9066f7d7d45f9dfa70c"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n어윈의 취향이 한껏 반영된 침대."
+"\\n어질러져 있어 정신이 없다. 사람에 따라 안정감을 더 느낄 수 있을지도."
+msgstr ""
+
+msgctxt "d40aae252c86a6fb846cdea999b8bc5d"
+msgid "ID=880315091"
+msgstr "ID=880315091"
+
+msgctxt "ea47fb4ac12513b67eb326d35ee27aa9"
+msgid "어윈의 아침과 의자"
+msgstr ""
+
+msgctxt "782215c746682254ce154a9fac45f9bf"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n어윈의 취향이 한껏 반영된 아침 식사와 "
+"의자.\\n[아침부터 무슨 피자야!]라는 엄마의 외침이 들리는 것만 같다."
+msgstr ""
+
+msgctxt "430bad589d0f6cde7ba103b50524c377"
+msgid "ID=880315141"
+msgstr "ID=880315141"
+
+msgctxt "023047a86c8a49b893418351e099deb9"
+msgid "어윈 아크라이트 피규어"
+msgstr ""
+
+msgctxt "13aef083cb4594536e6c20aa3f9e450e"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n어윈을 피규어화 시킨 것.\\n이것만 "
+"있으면 상시 어윈과 같이 있는 듯한 느낌을 받을 수 있다."
+msgstr ""
+
+msgctxt "e8cf3adbc3769b841e3390b412ca01fc"
+msgid "ID=880315151"
+msgstr "ID=880315151"
+
+msgctxt "8ad0103cf3c2737e498d88d7425b50f6"
+msgid "어윈의 SD인형"
+msgstr ""
+
+msgctxt "92f40812d45622358c150c5d7accedf0"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n어윈을 S.D 화 시킨 인형."
+"\\n시건방진 표정을 짓고 있어 기분 나쁠 때 보면 안 될 것 같다."
+msgstr ""
+
+msgctxt "7923b0bc5e44aec0752e32f5e5bf6ffe"
+msgid "ID=880315161"
+msgstr "ID=880315161"
+
+msgctxt "704497b794772b4b6985d61dc81af2c4"
+msgid "어윈의 장식용 입간판"
+msgstr ""
+
+msgctxt "00890732461c372d3446a6d487bdd206"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n어윈의 등신대 입간판.\\n방에 세워놓은 "
+"후, 외출을 나갔다 들어오면 어윈이 반겨주는 듯한 느낌을 받을 수 있다. 때에 따라선 흠칫 놀랄 수도 있겠지만."
+msgstr ""
+
+msgctxt "4cfc9d74a0ef0fff0f41c798e89197b1"
+msgid "ID=880315071"
+msgstr "ID=880315071"
+
+msgctxt "0747169b2ad0183bb2eca8ff12830b5c"
+msgid "어윈의 엠블렘 매트"
+msgstr ""
+
+msgctxt "4a5ac4dfae6e8e5721f0e77b1ef64715"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n어윈을 상징하는 엠블렘을 그려 넣은 매트."
+"\\n발을 닦으면 안 될 것 같다."
+msgstr ""
+
+msgctxt "74dec415db3c19058eb6a978f08777c6"
+msgid "ID=880316081"
+msgstr "ID=880316081"
+
+msgctxt "81face7025b556f6e8aae6742067376d"
+msgid "릴리의 고귀한 침대"
+msgstr ""
+
+msgctxt "8bf8fe68e22fb6a4da9f1c08e61b909d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n릴리의 취향이 한껏 반영된 침대."
+"\\n감히 몸을 뉘여도 될까 싶을 정도로 고급스러운 느낌이다."
+msgstr ""
+
+msgctxt "f6928db4fd3602eed3845cd77098e30e"
+msgid "ID=880316091"
+msgstr "ID=880316091"
+
+msgctxt "3b6b878b9ae2d14b9aa08855c4dc4229"
+msgid "릴리의 아침과 의자"
+msgstr ""
+
+msgctxt "cfbbc413d05b526fececfcdecbe5394b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n릴리의 취향이 한껏 반영된 아침 식사와 "
+"의자.\\n도도한 표정으로 티타임을 가지는 릴리가 상상된다."
+msgstr ""
+
+msgctxt "eb519fe2528b02c2fd203306682431c7"
+msgid "ID=880316141"
+msgstr "ID=880316141"
+
+msgctxt "d96189a08e08cbe0f3c5514368993c1d"
+msgid "릴리 블룸메르헨 피규어"
+msgstr ""
+
+msgctxt "939ca1309bc4bd554bce6afc0fecd606"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n릴리를 피규어화 시킨 것.\\n이것만 "
+"있으면 상시 릴리와 같이 있는 듯한 느낌을 받을 수 있다."
+msgstr ""
+
+msgctxt "c59510cd7570c946162e7a9e16b21dea"
+msgid "ID=880316151"
+msgstr "ID=880316151"
+
+msgctxt "994c5276c647aed8b68f9eaece9cb049"
+msgid "릴리의 SD인형"
+msgstr ""
+
+msgctxt "cf27a3e791a0913e36c7e476f5a54f18"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n릴리를 S.D 화 시킨 인형.\\n묘하게 "
+"뚱한 표정이 매력적이다."
+msgstr ""
+
+msgctxt "f90527838f36abbad018d9d62289b117"
+msgid "ID=880316161"
+msgstr "ID=880316161"
+
+msgctxt "a6f0f8455bee092df72982eb3c6b3e14"
+msgid "릴리의 장식용 입간판"
+msgstr ""
+
+msgctxt "5e3e26834dee3a4cb142d13ba773f62d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n릴리의 등신대 입간판.\\n방에 세워놓은 "
+"후, 외출을 나갔다 들어오면 릴리가 반겨주는 듯한 느낌을 받을 수 있다. 때에 따라선 흠칫 놀랄 수도 있겠지만."
+msgstr ""
+
+msgctxt "c36fab7ed0d40d813cbcedb42c6a42ed"
+msgid "ID=880316071"
+msgstr "ID=880316071"
+
+msgctxt "afe3ea68de824eb330da7df27cf9f120"
+msgid "릴리의 엠블렘 매트"
+msgstr ""
+
+msgctxt "a375eaa54a8e7a78ae324493e342a653"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n릴리를 상징하는 엠블렘을 그려 넣은 매트."
+"\\n발을 닦으면 안 될 것 같다."
+msgstr ""
+
+msgctxt "ccc5cca53b7b17598c3d7e4412917348"
+msgid "ID=880317081"
+msgstr "ID=880317081"
+
+msgctxt "6503db5081eaad3fe65423970a197a53"
+msgid "스텔라의 유령 침대"
+msgstr ""
+
+msgctxt "9b0bc5f071332588840194f54e500c60"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n스텔라의 취향이 한껏 반영된 침대."
+"\\n…가위에 눌릴 것만 같다."
+msgstr ""
+
+msgctxt "2d15cea7d552c419505225da4eaa51a5"
+msgid "ID=880317091"
+msgstr "ID=880317091"
+
+msgctxt "4c6f0cf08f4a15d30a71757d7aec64d4"
+msgid "스텔라의 아침과 의자"
+msgstr ""
+
+msgctxt "129b50843d86ef90f8c1602f15c2ca72"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n스텔라의 취향이 한껏 반영된 아침 식사와 "
+"의자.\\n괴물에게 잡아먹히는 느낌과, 사탕의 달콤함을 동시에 느낄 수 있다."
+msgstr ""
+
+msgctxt "07ca53afbc3d325ca611f5057fee409f"
+msgid "ID=880317141"
+msgstr "ID=880317141"
+
+msgctxt "3af276ed4f98c413f2c1b7e9225c1cd8"
+msgid "스텔라 에스티아 피규어"
+msgstr ""
+
+msgctxt "87a54817392009b91657fc4a2233ab46"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n스텔라를 피규어화 시킨 것.\\n이것만 "
+"있으면 상시 스텔라와 같이 있는 듯한 느낌을 받을 수 있다."
+msgstr ""
+
+msgctxt "44d68339e64a26aa25c8b4807d71a73a"
+msgid "ID=880317151"
+msgstr "ID=880317151"
+
+msgctxt "ae8195c0ec4511dd1d87117eb134f42f"
+msgid "스텔라의 SD인형"
+msgstr ""
+
+msgctxt "78750ef434fcb188092460aa15be6dec"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n스텔라를 S.D 화 시킨 인형.\\n보고 "
+"있자니 잠이 솔솔 온다."
+msgstr ""
+
+msgctxt "a62f17397e6ee9397abd4b1f59fff15b"
+msgid "ID=880317161"
+msgstr "ID=880317161"
+
+msgctxt "b9064cb2187bb508f93fd9c82d4fc353"
+msgid "스텔라의 장식용 입간판"
+msgstr ""
+
+msgctxt "dc5de935f6802857f2246c6fe6a2f026"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n스텔라의 등신대 입간판.\\n방에 "
+"세워놓은 후, 외출을 나갔다 들어오면 스텔라가 반겨주는 듯한 느낌을 받을 수 있다. 때에 따라선 흠칫 놀랄 수도 있겠지만."
+msgstr ""
+
+msgctxt "b23fc1610b27e55b87f8a96d43dc240c"
+msgid "ID=880317071"
+msgstr "ID=880317071"
+
+msgctxt "c56c5b00c12d44ce3c8b0bf4ffd78db2"
+msgid "스텔라의 엠블렘 매트"
+msgstr ""
+
+msgctxt "158cb656c21d586e34f4607db40a986a"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n스텔라를 상징하는 엠블렘을 그려 넣은 "
+"매트.\\n발을 닦으면 안 될 것 같다."
+msgstr ""
+
+msgctxt "c5c68f5c6e3f71d6ea3b1801051f4068"
+msgid "ID=880321081"
+msgstr "ID=880321081"
+
+msgctxt "7adf7e3e130a9332beb5a653022ec56a"
+msgid "진의 운동부침대"
+msgstr ""
+
+msgctxt "ff3341b775e70313768818d0dec60b7f"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n진의 취향이 한껏 반영된 침대."
+"\\n자면서도 운동할 수 있을 것 같은 기분이 든다."
+msgstr ""
+
+msgctxt "dea10b957dd6b2722a8de50e90dc2ca7"
+msgid "ID=880321091"
+msgstr "ID=880321091"
+
+msgctxt "69d23ff6d645276a467e55c0328857a8"
+msgid "진의 아침과 의자"
+msgstr ""
+
+msgctxt "f3227a5b784a323c675dd516f40d0f8a"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n진의 취향이 한껏 반영된 아침 식사와 "
+"의자.\\n아침의 시작은 운동 그리고 근육 보충제와 함께해야죠!"
+msgstr ""
+
+msgctxt "cf06067ac8a72ec9286d1c1272fee801"
+msgid "ID=880321141"
+msgstr "ID=880321141"
+
+msgctxt "cef9923bd6ddc3e10bc8e6577830b575"
+msgid "진 세이파츠 피규어"
+msgstr ""
+
+msgctxt "7380d44a11049d753f13a21e8faa7c81"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n진을 피규어화 시킨 것.\\n이것만 "
+"있으면 상시 진과 같이 있는 듯한 느낌을 받을 수 있다."
+msgstr ""
+
+msgctxt "7d11382623c0738aced1a87fc11273f5"
+msgid "ID=880321151"
+msgstr "ID=880321151"
+
+msgctxt "0df5bc2120c4504b2e680cac6c19985e"
+msgid "진의 SD인형"
+msgstr ""
+
+msgctxt "0f2e4ffbd20552955a699574645e5804"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n진을 S.D 화 시킨 인형.\\n왠지 "
+"스승님! 하고 달려올 것만 같다."
+msgstr ""
+
+msgctxt "d9946283784aefe1d6f4c2e692eda47d"
+msgid "ID=880321161"
+msgstr "ID=880321161"
+
+msgctxt "0f822c7f05ed76863817020edeb79e2c"
+msgid "진의 장식용 입간판"
+msgstr ""
+
+msgctxt "3d5f8c2819c045675700cb1a6a5389c5"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n진의 등신대 입간판.\\n방에 세워놓은 "
+"후, 외출을 나갔다 들어오면 진이 반겨주는 듯한 느낌을 받을 수 있다. 때에 따라선 흠칫 놀랄 수도 있겠지만."
+msgstr ""
+
+msgctxt "d153817c2f3e2850827c582d5743b9c6"
+msgid "ID=880321071"
+msgstr "ID=880321071"
+
+msgctxt "ab9a6cf3a6a676f924bff05e49902047"
+msgid "진의 엠블렘 매트"
+msgstr ""
+
+msgctxt "026905d120cb51128d626af60be0dc10"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n진을 상징하는 엠블렘을 그려 넣은 매트."
+"\\n발을 닦으면 안 될 것 같다."
+msgstr ""
+
+msgctxt "d3297e7da7b9269f22f7a3b263913023"
+msgid "ID=880110141"
+msgstr "ID=880110141"
+
+msgctxt "4c637d31cbbc66726d6dc8bcd71aa621"
+msgid "더 씽 피규어"
+msgstr ""
+
+msgctxt "f796dfd6b6063f1b5d7a30ad9aae80ea"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n제 6 구역을 초토화시킨 더 씽을 "
+"참고하여 만든 피규어. 이 피규어를 만든 것은 그 때의 재해를 영원히 기억하고 두려워하기 위해서이다."
+msgstr ""
+
+msgctxt "8c688c3816ebc2f03a8a5e765b12e9dd"
+msgid "ID=880110142"
+msgstr "ID=880110142"
+
+msgctxt "baf17771e3d8f038668464eedc7ce1cb"
+msgid "첨탑 피규어"
+msgstr ""
+
+msgctxt "e32530c96acb056defcb976a4b5dd457"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n더 씽을 봉인해둔 첨탑을 참고하여 만든 "
+"피규어. 이 피규어를 만든 것은 그 때의 재해를 영원히 기억하고 두려워하기 위해서이다."
+msgstr ""
+
+msgctxt "37a179ec4cbe7b61f68691a377ef8e01"
+msgid "ID=880306011"
+msgstr "ID=880306011"
+
+msgctxt "26c0e3eb801c5b89211e966293456a18"
+msgid "해적선의 내부[A]"
+msgstr ""
+
+msgctxt "8703a493137b8f2b9388d3f5fefbdee0"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 벽지이다. 드넓은 "
+"바다를 항해 중인 배에 승선 한 것만 같다. 거친 해적의 느낌이 살아 있어서 벽에 손을 잘못 짚으면 손에 가시가 박힐 수 있으니 주의."
+msgstr ""
+
+msgctxt "76f7a31bddd50a4ddf390039eaeb12dd"
+msgid "ID=880306012"
+msgstr "ID=880306012"
+
+msgctxt "5cf02b3df2d820be17f54ed8f9ed6f44"
+msgid "해적선의 내부[B]"
+msgstr ""
+
+msgctxt "0f060654057e86f23c6a516ed81e094e"
+msgid "ID=880306013"
+msgstr "ID=880306013"
+
+msgctxt "ea97c997669e88f4dee48b18367b3f7f"
+msgid "해적선의 내부[C]"
+msgstr ""
+
+msgctxt "d3798e3823fd33166aceabdb528696d1"
+msgid "ID=880306021"
+msgstr "ID=880306021"
+
+msgctxt "f18349594b73ffc78b149f9450c5cccd"
+msgid "해적선의 바닥[A]"
+msgstr ""
+
+msgctxt "3aa2a1b83293daaea1480d8de82af6d8"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 타일이다. 드넓은 "
+"바다를 항해 중인 배에 승선 한 것만 같다. 밟으면 삐걱거려 시끄러울 수 있으니 주의."
+msgstr ""
+
+msgctxt "a1e03594e2ddd154f295f35a10a88151"
+msgid "ID=880306022"
+msgstr "ID=880306022"
+
+msgctxt "bbe35f6aeb221c209b3f171c086dd5aa"
+msgid "해적선의 바닥[B]"
+msgstr ""
+
+msgctxt "80bcf03436ee755dbcf776c473c9bf6b"
+msgid "ID=880306023"
+msgstr "ID=880306023"
+
+msgctxt "ba1e9ea2a80f846faf668c2b5051c8b9"
+msgid "해적선의 바닥[C]"
+msgstr ""
+
+msgctxt "be82df3b5e0e61848d75680690e7042e"
+msgid "ID=880306031"
+msgstr "ID=880306031"
+
+msgctxt "0481c69c5afb624a6698aef4ef37a56a"
+msgid "찢어진 해적기[A]"
+msgstr ""
+
+msgctxt "0b2ddfa09d873db4fb31c7cc1cc31733"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 해적 기이다. 해적의 "
+"거친 느낌이 잘 살아있다. 단, 잘못 걸어놓으면 매우 빈곤해 보일 수 있으니 주의."
+msgstr ""
+
+msgctxt "14e7c79bf995121458b7af8593e77adb"
+msgid "ID=880306032"
+msgstr "ID=880306032"
+
+msgctxt "9f9e870a2f72ca58903301100cc232ae"
+msgid "찢어진 해적기[B]"
+msgstr ""
+
+msgctxt "c2097e76ba7a07a6612a5b85433388d7"
+msgid "ID=880306033"
+msgstr "ID=880306033"
+
+msgctxt "a373d4fef6cafaf8537301a3d0be0151"
+msgid "찢어진 해적기[C]"
+msgstr ""
+
+msgctxt "a29fe10583edc7221325a9cd1e4cdc75"
+msgid "ID=880306041"
+msgstr "ID=880306041"
+
+msgctxt "ab6e56d07cd9806b7dde61f4798563dc"
+msgid "해적선의 부서진 테라스[A]"
+msgstr ""
+
+msgctxt "a3b837ec45ddbd818aa47d9df00751ca"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 테라스 도어이다. 마치 "
+"해적선에 적군이 침투해 들어와 한바탕 큰 소란이 있는 것만 같다."
+msgstr ""
+
+msgctxt "bc6b206707c4ecb535050153ffcbc60d"
+msgid "ID=880306042"
+msgstr "ID=880306042"
+
+msgctxt "f5c6984e036db6cb33777a94e6f2f42f"
+msgid "해적선의 부서진 테라스[B]"
+msgstr ""
+
+msgctxt "550316feb35c9e1e8f213044333973de"
+msgid "ID=880306043"
+msgstr "ID=880306043"
+
+msgctxt "e9a6273d86076722093893ba8300f352"
+msgid "해적선의 부서진 테라스[C]"
+msgstr ""
+
+msgctxt "192be94534c808f28511206a55fee4f9"
+msgid "ID=880306051"
+msgstr "ID=880306051"
+
+msgctxt "9be7c78654b13d2bd9e734e3b6a8710a"
+msgid "해적선의 원형 창문[A]"
+msgstr ""
+
+msgctxt "de809a4ce86c0e68f8173dff0752a23e"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 창문이다. 드넓은 "
+"바다를 항해 중인 배에 승선 한 것만 같다. 왠지 밖을 보고 있으면 뱃멀미가 나는 것 같기도 하다."
+msgstr ""
+
+msgctxt "d00d435802f03c998962a2ab032d6a4a"
+msgid "ID=880306052"
+msgstr "ID=880306052"
+
+msgctxt "e3ef1de8e4f581b064638ab46c2b8501"
+msgid "해적선의 원형 창문[B]"
+msgstr ""
+
+msgctxt "8cfd88caa0d3df521661fdac83582e00"
+msgid "ID=880306053"
+msgstr "ID=880306053"
+
+msgctxt "08caefaf009fcc2fa65d85347e3fe755"
+msgid "해적선의 원형 창문[C]"
+msgstr ""
+
+msgctxt "92967f12a984e706302ca20f1ef67e2d"
+msgid "ID=880306071"
+msgstr "ID=880306071"
+
+msgctxt "dafc0acb257ce2e7789e794aba450970"
+msgid "해적선의 찢어진 카펫[A]"
+msgstr ""
+
+msgctxt "7507cc0f54c35c8459ba7771df972a18"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 카펫이다. 해적의 거친 "
+"느낌이 잘 살아있다. 단, 잘못 깔아 놓으면 매우 빈곤해 보일 수 있으니 주의."
+msgstr ""
+
+msgctxt "965154b712367c8fe074513bf501945a"
+msgid "ID=880306072"
+msgstr "ID=880306072"
+
+msgctxt "c6d21cfadb9064c2268a51b7363d397e"
+msgid "해적선의 찢어진 카펫[B]"
+msgstr ""
+
+msgctxt "f7829df98b40f1412638a52f621310fd"
+msgid "ID=880306073"
+msgstr "ID=880306073"
+
+msgctxt "7643bc183bc74eb9cb32ff8d943476a4"
+msgid "해적선의 찢어진 카펫[C]"
+msgstr ""
+
+msgctxt "a0da52650479aae509f7f1ddab528016"
+msgid "ID=880306081"
+msgstr "ID=880306081"
+
+msgctxt "359a90f8c49dfce4bd19e52ce9a2cb16"
+msgid "해적선의 그물 침대[A]"
+msgstr ""
+
+msgctxt "23fe0eb97d5d7cd2d11009954eba2eae"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 침대이다. 해적의 거친 "
+"느낌이 잘 살아있다. 누워서 몸을 잘못 뒤척이면 공중에서 떨어질 수 있으니 주의."
+msgstr ""
+
+msgctxt "90be5ac1ab84ed02b218d4aec78ea2b0"
+msgid "ID=880306082"
+msgstr "ID=880306082"
+
+msgctxt "4530d680d42dc377740f4aa57d22877e"
+msgid "해적선의 그물 침대[B]"
+msgstr ""
+
+msgctxt "6a81f67ceb368b9a13f06c4fe7a35f78"
+msgid "ID=880306083"
+msgstr "ID=880306083"
+
+msgctxt "2a85c8ee3aca2e2657737b31431f7969"
+msgid "해적선의 그물 침대[C]"
+msgstr ""
+
+msgctxt "8b75968c936cd5df4ae628869460614f"
+msgid "ID=880306091"
+msgstr "ID=880306091"
+
+msgctxt "12e00db9842375081532c18983ef18fc"
+msgid "해적선의 나무 의자[A]"
+msgstr ""
+
+msgctxt "87314cc876a23e52271bc336b437d7e2"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 의자이다. 거친 해적의 "
+"느낌이 살아 있어서 의자에 손을 잘못 짚으면 손에 가시가 박힐 수 있으니 주의."
+msgstr ""
+
+msgctxt "1a57451d72922c3977e033c22f1e7fee"
+msgid "ID=880306092"
+msgstr "ID=880306092"
+
+msgctxt "3e22399969150d5c2cb84c5a8ba83907"
+msgid "해적선의 나무 의자[B]"
+msgstr ""
+
+msgctxt "f5a709de09ca597837d4a909354924c2"
+msgid "ID=880306093"
+msgstr "ID=880306093"
+
+msgctxt "395ded91c57abc8165e18c63f3fac9b4"
+msgid "해적선의 나무 의자[C]"
+msgstr ""
+
+msgctxt "2e32b4ad12c76fa737ec2e02723bd408"
+msgid "ID=880306101"
+msgstr "ID=880306101"
+
+msgctxt "86da2092e363cc5949089e8b3be42dd9"
+msgid "해적선의 나무 탁자[A]"
+msgstr ""
+
+msgctxt "8b559f14a06b86cd5ae19d74debf525c"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 책상이다. 거친 해적의 "
+"느낌이 살아 있다. 밤이 되면 책상 위에 럼주를 가득 올려놓고 연회를 벌일 것만 같다."
+msgstr ""
+
+msgctxt "c20a9e366143111b230f25fc787ebee7"
+msgid "ID=880306102"
+msgstr "ID=880306102"
+
+msgctxt "a3e25df76b8c6dc7103d38f8bf4a4f5c"
+msgid "해적선의 나무 탁자[B]"
+msgstr ""
+
+msgctxt "39f31ecc13abceef7a95185af31e4e1c"
+msgid "ID=880306103"
+msgstr "ID=880306103"
+
+msgctxt "1d009e766e24deacecd280a9352f92ff"
+msgid "해적선의 나무 탁자[C]"
+msgstr ""
+
+msgctxt "728737686c668f5691db1201d7de9800"
+msgid "ID=880306111"
+msgstr "ID=880306111"
+
+msgctxt "7b90c645b7a02b417c44f0bb6eda1e84"
+msgid "조타기 겸용 수납장[A]"
+msgstr ""
+
+msgctxt "1ab3c2046c6f21393f30f8b78a35902b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 조타핸들 서랍이다. "
+"핸들을 돌리면 정말로 집이 움직여서 항해를 시작할 것만 같다."
+msgstr ""
+
+msgctxt "fa9fb6644ce32995eb9c8bd36f7c6b84"
+msgid "ID=880306112"
+msgstr "ID=880306112"
+
+msgctxt "6b3bb25c9b1fd6d9c28c958757dfc974"
+msgid "조타기 겸용 수납장[B]"
+msgstr ""
+
+msgctxt "f07949cd4bf21b3da0ee3d83ed263d94"
+msgid "ID=880306113"
+msgstr "ID=880306113"
+
+msgctxt "7cd2ce6e7f3a33599a20873a0fd834a8"
+msgid "조타기 겸용 수납장[C]"
+msgstr ""
+
+msgctxt "9a238619cd1a0abb71d02b19c196b16f"
+msgid "ID=880306121"
+msgstr "ID=880306121"
+
+msgctxt "3b690af945b6c9d53f8c916bcd3ad224"
+msgid "해적선 욕조[A]"
+msgstr ""
+
+msgctxt "d2178a85931cab312d1eaf1dff6f571d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 욕조이다. 거친 해적의 "
+"느낌이 살아 있어서 잘못 몸을 누이면 몸에 가시가 박힐 수 있으니 주의."
+msgstr ""
+
+msgctxt "f5385a41a4e421b81de1f8b967a03218"
+msgid "ID=880306122"
+msgstr "ID=880306122"
+
+msgctxt "cf7c9e99c1ab07f48a687bc318896c59"
+msgid "해적선 욕조[B]"
+msgstr ""
+
+msgctxt "3bfd621295324648ac07d4e56b5327e3"
+msgid "ID=880306123"
+msgstr "ID=880306123"
+
+msgctxt "c1503c122403f08b306b21ed65c8e999"
+msgid "해적선 욕조[C]"
+msgstr ""
+
+msgctxt "ba9aa9b558794c7021077aa2b05203e5"
+msgid "ID=880306141"
+msgstr "ID=880306141"
+
+msgctxt "542e57c3a6896d991e94fa88b91d6006"
+msgid "해적의 보물[A]"
+msgstr ""
+
+msgctxt "99b0da826e5d5793170418ec44dadca3"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 보석상자이다. 부자가 "
+"된 것 같겠지만, 동전 하나조차 따로 들고 갈 수 없다. 그야말로 그림의 떡이다."
+msgstr ""
+
+msgctxt "a657eab65115fd51f4ef8838a50fe798"
+msgid "ID=880306142"
+msgstr "ID=880306142"
+
+msgctxt "e51ff5b551307dd0c10401f1742cdb59"
+msgid "해적의 보물[B]"
+msgstr ""
+
+msgctxt "ac47b0966ea67d2b74864fae436fcff6"
+msgid "ID=880306143"
+msgstr "ID=880306143"
+
+msgctxt "06c13f79a78f3e27f2543321cb990456"
+msgid "해적의 보물[C]"
+msgstr ""
+
+msgctxt "c56fdaadd8ee8627ff9d45cd9117d1bb"
+msgid "ID=880306151"
+msgstr "ID=880306151"
+
+msgctxt "86ff42cb49e18b1d4984eb41a95c342f"
+msgid "해적의 럼주통[A]"
+msgstr ""
+
+msgctxt "60d59023666cb67d5d3f82298e0c5c54"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 드럼통이다. 뾰족한 "
+"물건으로 찌르면 럼주가 솟구쳐 나올 것만 같다. 아니면 수염 해적이 튀어나온다거나…."
+msgstr ""
+
+msgctxt "f868af9a37e49cff1284c968772403f8"
+msgid "ID=880306152"
+msgstr "ID=880306152"
+
+msgctxt "ff3e841dd4c4c8bdc33566c85a5cbc1e"
+msgid "해적의 럼주통[B]"
+msgstr ""
+
+msgctxt "a25f294d1d58da5a953a2cfe5fa8924b"
+msgid "ID=880306153"
+msgstr "ID=880306153"
+
+msgctxt "4fcd37d9fbad0105bfd397ada1ae5d02"
+msgid "해적의 럼주통[C]"
+msgstr ""
+
+msgctxt "f120de30a77f2dbef97b20adfe55bc1f"
+msgid "ID=880306161"
+msgstr "ID=880306161"
+
+msgctxt "647102c70ef306cdc9278669e09a0ac8"
+msgid "해적의 나침반[A]"
+msgstr ""
+
+msgctxt "b5ce1d8cc5df102fa26117ce469d6e45"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 나침반이다. 나침반을 "
+"내려놓았는데 만약 나침반이 움직인다면 진짜 바다 위에 있는 것은 아닌지 의심해 봐야 할지도 모른다."
+msgstr ""
+
+msgctxt "f2661f2c61bea2b21ec7189f5b8c5275"
+msgid "ID=880306162"
+msgstr "ID=880306162"
+
+msgctxt "8978a718f6f5e42d03e2d9f9318dde70"
+msgid "해적의 나침반[B]"
+msgstr ""
+
+msgctxt "03bc62c7728b7968c66c6628eebcd171"
+msgid "ID=880306163"
+msgstr "ID=880306163"
+
+msgctxt "33583e2b3db33244e20c33c098f8f4dc"
+msgid "해적의 나침반[C]"
+msgstr ""
+
+msgctxt "90784b2b3516b788983de7cd02d6b7cc"
+msgid "ID=880306171"
+msgstr "ID=880306171"
+
+msgctxt "5303514e3cc051911581c4b77b97d432"
+msgid "해적의 럼주통 샤워부스[A]"
+msgstr ""
+
+msgctxt "913050840d4e5776c6c0a920a36dc8a2"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 샤워부스이다. 샤워기를 "
+"틀면 럼주가 쏟아져 나올 것만 같다. 취할 것 같다."
+msgstr ""
+
+msgctxt "970957ac858269f9788f6ee53676f290"
+msgid "ID=880306172"
+msgstr "ID=880306172"
+
+msgctxt "7cb71405a8fb29918411323350aa80e4"
+msgid "해적의 럼주통 샤워부스[B]"
+msgstr ""
+
+msgctxt "2d7c16c8597c3344fb2cd38bfa033fe4"
+msgid "ID=880306173"
+msgstr "ID=880306173"
+
+msgctxt "55b7a1edfb575020a374fe4d7f691178"
+msgid "해적의 럼주통 샤워부스[C]"
+msgstr ""
+
+msgctxt "e8740a9cbb2b1906d0ea7426ae3ae581"
+msgid "ID=880306181"
+msgstr "ID=880306181"
+
+msgctxt "7105588c0125645fee8cd5c8548d1970"
+msgid "해적선의 천장[A]"
+msgstr ""
+
+msgctxt "32d80515c68e3c349c7db8a6754f3197"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 천장이다. 드넓은 "
+"바다를 항해 중인 배에 승선 한 것만 같다. 거친 해적의 느낌이 살아 있어서 천장에 손을 잘못 짚으면 손에 가시가 박힐 수 있으니 주의."
+msgstr ""
+
+msgctxt "accdc9323cde85bf8f77ff9c44ed3c39"
+msgid "ID=880306182"
+msgstr "ID=880306182"
+
+msgctxt "349a4c5c7a366723c90cbc16aec9adee"
+msgid "해적선의 천장[B]"
+msgstr ""
+
+msgctxt "8e2782e79958f0479124ead2e92c6b6d"
+msgid "ID=880306183"
+msgstr "ID=880306183"
+
+msgctxt "ec015fd9aeae5574ae120f7ba2e1c872"
+msgid "해적선의 천장[C]"
+msgstr ""
+
+msgctxt "3d17f020a3b3bd144d4137b90a554b72"
+msgid "ID=880306061"
+msgstr "ID=880306061"
+
+msgctxt "d63dfd07a17f4515217e7018fa9f54c4"
+msgid "해적선의 문[A]"
+msgstr ""
+
+msgctxt "277500c2ed7c1a92c6db95dddf1d29d6"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n파이레츠 시리즈의 현관문이다. 문을 열면 "
+"바다 위를 항해할 수 있을 것만 같다. 어딜 봐도 일반 가정집 현관문 같지는 않다."
+msgstr ""
+
+msgctxt "eec2547ebca2696cf0433ee7fa34cd1f"
+msgid "ID=880306062"
+msgstr "ID=880306062"
+
+msgctxt "82f7331d00b9d3d9be99d708c5e4425c"
+msgid "해적선의 문[B]"
+msgstr ""
+
+msgctxt "3d9d05ba5c0ef788fb78b40a1b5bfed3"
+msgid "ID=880306063"
+msgstr "ID=880306063"
+
+msgctxt "f230f4004d844057b74d04f7793b4585"
+msgid "해적선의 문[C]"
+msgstr ""
+
+msgctxt "7144d9bd49cc0c2fe6a37e802ef506f2"
+msgid "ID=880308011"
+msgstr "ID=880308011"
+
+msgctxt "4d83f62a5e6b6f1be9400d4ff87d1215"
+msgid "블록 벽지[A]"
+msgstr ""
+
+msgctxt "79767e70e5b09841a0b04c8d33d0626c"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 벽지이다. 플라스틱 벽돌을 "
+"촘촘히 쌓아 놓은 듯한 느낌이 들어 장난감이 된 것만 같다."
+msgstr ""
+
+msgctxt "90bf9baf885fdae116ecf13866be08ed"
+msgid "ID=880308012"
+msgstr "ID=880308012"
+
+msgctxt "ad4e2c928169c3c8cbac2e322723f37d"
+msgid "블록 벽지[B]"
+msgstr ""
+
+msgctxt "80a48c2aab5d6dc86f8b7c4ee375ae9d"
+msgid "ID=880308013"
+msgstr "ID=880308013"
+
+msgctxt "5ec53048c60d30a8d774b7e748b5cd6b"
+msgid "블록 벽지[C]"
+msgstr ""
+
+msgctxt "4533864b3b894cdd140dd697a875f59e"
+msgid "ID=880308021"
+msgstr "ID=880308021"
+
+msgctxt "94037b7e2fbc8593163c6c50ab938fdc"
+msgid "블록 바닥[A]"
+msgstr ""
+
+msgctxt "de7881bccec7b151d4500aa64f68b5cc"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 타일이다. 가로세로 "
+"일률적으로 그려져 있는 선들이 물건을 배치할 때, 수직 수평으로 손쉽게 맞출 수 있게 만들어준다."
+msgstr ""
+
+msgctxt "52bfad599643d97650e390bcef90ed22"
+msgid "ID=880308022"
+msgstr "ID=880308022"
+
+msgctxt "f2555243d0b62c5e264514764610820b"
+msgid "블록 바닥[B]"
+msgstr ""
+
+msgctxt "cfc65775510d581a48bc6ca73d104f49"
+msgid "ID=880308023"
+msgstr "ID=880308023"
+
+msgctxt "27a93505c21090468c411d86fb90aa98"
+msgid "블록 바닥[C]"
+msgstr ""
+
+msgctxt "5518f45e15f4a960fbbb6c018b23d033"
+msgid "ID=880308031"
+msgstr "ID=880308031"
+
+msgctxt "b8d2b236ad6a693893a29608f59a860b"
+msgid "블록 선반 벽장식[A]"
+msgstr ""
+
+msgctxt "ff943a33ab497cd23f21f424a408a50b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 선반 벽 장식이다. 다양한 "
+"모양의 사각형틀이 공간을 다양하게 나눠주고 있어, 알뜰살뜰하게 사용할 수 있을 것만 같다."
+msgstr ""
+
+msgctxt "b57a7131066a3c50bb0744110a16cf54"
+msgid "ID=880308032"
+msgstr "ID=880308032"
+
+msgctxt "162f8d1799cac3b4deefc812b91a7af8"
+msgid "블록 선반 벽장식[B]"
+msgstr ""
+
+msgctxt "8dee01295edd964d64538b03cf183bf2"
+msgid "ID=880308033"
+msgstr "ID=880308033"
+
+msgctxt "3340da87008e92ba82c71ac83b85731b"
+msgid "블록 선반 벽장식[C]"
+msgstr ""
+
+msgctxt "384d68f56abee153ac1c09ddaee01a9e"
+msgid "ID=880308041"
+msgstr "ID=880308041"
+
+msgctxt "cf378b2981b81ca84f145914a96de7ac"
+msgid "블록 테라스 문[A]"
+msgstr ""
+
+msgctxt "15c893ea96c56ccfe61227a7f1c1c338"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 테라스 도어이다. 투명한 "
+"퍼즐 조각들을 모아서 만들어 놓은 것만 같다. 손가락으로 잘못 누르면 조각들끼리 어긋날 것 같기도 하다."
+msgstr ""
+
+msgctxt "1ff89299497012658eca4c383b15d47d"
+msgid "ID=880308042"
+msgstr "ID=880308042"
+
+msgctxt "972839acabb793b04690aac2d4a4e124"
+msgid "블록 테라스 문[B]"
+msgstr ""
+
+msgctxt "2864ecc49ccfc8a731a194cf32e771e6"
+msgid "ID=880308043"
+msgstr "ID=880308043"
+
+msgctxt "b824544b26f9031371e397cb5c9c7c35"
+msgid "블록 테라스 문[C]"
+msgstr ""
+
+msgctxt "9a2d8c65ef4a4dadce9b7d37943a3271"
+msgid "ID=880308051"
+msgstr "ID=880308051"
+
+msgctxt "f5a200bfc7964b74e35da95ead970d19"
+msgid "블록 창문[A]"
+msgstr ""
+
+msgctxt "4c846f4a580cd3096ec865496aaaea4d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 창문이다. 투명한 퍼즐 "
+"조각들을 모아서 만들어 놓은 것만 같다. 손가락으로 잘못 누르면 조각들끼리 어긋날 것 같기도 하다."
+msgstr ""
+
+msgctxt "d3341725ef34dc77612217177906d515"
+msgid "ID=880308052"
+msgstr "ID=880308052"
+
+msgctxt "baf449a923016b07115b20f39d7c5adf"
+msgid "블록 창문[B]"
+msgstr ""
+
+msgctxt "d66099f9fe4f2c48c49214a9b5670007"
+msgid "ID=880308053"
+msgstr "ID=880308053"
+
+msgctxt "4f9d5d7f352ce1346a4a6b1ca1e6a58b"
+msgid "블록 창문[C]"
+msgstr ""
+
+msgctxt "690373f9dae012289136fbb8aa5597fa"
+msgid "ID=880308071"
+msgstr "ID=880308071"
+
+msgctxt "d19da1eb57681b02a353a026191d9524"
+msgid "블록 매트[A]"
+msgstr ""
+
+msgctxt "fdccf0bfd6a836af5cf2cc0bc1d02e55"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 카펫이다. 카펫을 손으로 "
+"쓸어내리면 블록이 움직일 것만 같다."
+msgstr ""
+
+msgctxt "5b85b584b3d3cc5055c3b98032b25325"
+msgid "ID=880308072"
+msgstr "ID=880308072"
+
+msgctxt "c0132e52b5196e15edbc8b04082d1030"
+msgid "블록 매트[B]"
+msgstr ""
+
+msgctxt "cbb631d35c107a9edd3e8da6601c6344"
+msgid "ID=880308073"
+msgstr "ID=880308073"
+
+msgctxt "a476670b53936573cee64b0b84fbd2fa"
+msgid "블록 매트[C]"
+msgstr ""
+
+msgctxt "b76b7857d01274026ee1a51e5fcd59ec"
+msgid "ID=880308081"
+msgstr "ID=880308081"
+
+msgctxt "f9237b0b07858662a70ca01e578d66f9"
+msgid "블록 침대[A]"
+msgstr ""
+
+msgctxt "5b6d1a289818f31d9fc1c02a3ffffe41"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 침대이다. 동심을 마구마구 "
+"자극당한다. 등이 아플 것 같다."
+msgstr ""
+
+msgctxt "750715d63c1e44ca3ed155eb235de258"
+msgid "ID=880308082"
+msgstr "ID=880308082"
+
+msgctxt "c6b3f4ba9b38d8feb0703c72b78d3239"
+msgid "블록 침대[B]"
+msgstr ""
+
+msgctxt "342c53bd0d6ed079f08f6106009b8876"
+msgid "ID=880308083"
+msgstr "ID=880308083"
+
+msgctxt "75370ccbb08a72d20082dbf0538e95ed"
+msgid "블록 침대[C]"
+msgstr ""
+
+msgctxt "ed8a452532cc23a19b2d988584b9ae1d"
+msgid "ID=880308091"
+msgstr "ID=880308091"
+
+msgctxt "73a1242c160a76f72ea3b7ffc932538e"
+msgid "블록 소파[A]"
+msgstr ""
+
+msgctxt "1cb903e800105a9973f84928ce613b9e"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 의자이다. 동심을 마구마구 "
+"자극당한다. 엉덩이가 아플 것 같다."
+msgstr ""
+
+msgctxt "4b78d07caee45cefe96521c35b003a87"
+msgid "ID=880308092"
+msgstr "ID=880308092"
+
+msgctxt "8bf296b80a160477abb9583c2b86dc05"
+msgid "블록 소파[B]"
+msgstr ""
+
+msgctxt "cbf315c601cbe3842f3b2e7485ef014a"
+msgid "ID=880308093"
+msgstr "ID=880308093"
+
+msgctxt "2352571bc988c95efb5a4846d0e0561d"
+msgid "블록 소파[C]"
+msgstr ""
+
+msgctxt "1c358302d0eef9c9f9adedf6dd383897"
+msgid "ID=880308101"
+msgstr "ID=880308101"
+
+msgctxt "345d301ce4d439985c5ec2806fca1afc"
+msgid "블록 테이블[A]"
+msgstr ""
+
+msgctxt "448795512f37b5579bb9b229c176c6e9"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 책상이다. 잘못 건들면 "
+"다리가 무너져서 상판의 유리가 깨질 것만 같다. 조심해야 할 것 같다."
+msgstr ""
+
+msgctxt "f098a8b3b7057ccebf7f08fe134e2e2b"
+msgid "ID=880308102"
+msgstr "ID=880308102"
+
+msgctxt "111436f1ef746db8b7a854dc4c95dd80"
+msgid "블록 테이블[B]"
+msgstr ""
+
+msgctxt "27d932999aa15c52776a115e3243dc50"
+msgid "ID=880308103"
+msgstr "ID=880308103"
+
+msgctxt "a5aa4f8f18190c1bde0b8bbe8825cf3c"
+msgid "블록 테이블[C]"
+msgstr ""
+
+msgctxt "03e888d7d750c5e161290a287e811eed"
+msgid "ID=880308111"
+msgstr "ID=880308111"
+
+msgctxt "d2fa68786d9864fc23de9152b30911a3"
+msgid "블록 서랍장[A]"
+msgstr ""
+
+msgctxt "9fcdc2c02e8eaaa75405af753014b909"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 서랍장이다. 각각의 "
+"서랍들이 열리는 위치와 크기가 전부 제각각이라는 것이 매우 인상적이다."
+msgstr ""
+
+msgctxt "80b6bfba8087edaabcbe7f370d8537f8"
+msgid "ID=880308112"
+msgstr "ID=880308112"
+
+msgctxt "f5c46fbd7812209fee3a48aef36dd47c"
+msgid "블록 서랍장[B]"
+msgstr ""
+
+msgctxt "c54731dd0dc6459af834e3359d77b8b5"
+msgid "ID=880308113"
+msgstr "ID=880308113"
+
+msgctxt "7240f9af9edac8f1edc8ffba3a84efd9"
+msgid "블록 서랍장[C]"
+msgstr ""
+
+msgctxt "b185907d9e3481c32a2fd19d2481897e"
+msgid "ID=880308121"
+msgstr "ID=880308121"
+
+msgctxt "b385de294b3dff78a26451f20343278d"
+msgid "블록 욕조[A]"
+msgstr ""
+
+msgctxt "3c3488cd91064c6a56c548c50a7f5c0d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 욕조이다. 장난감 욕조에서 "
+"목욕을 즐길 수 있다. 매우 철이 없어 보일 것만 같다."
+msgstr ""
+
+msgctxt "abcc19702c99a4a5d45e482b1213f97d"
+msgid "ID=880308122"
+msgstr "ID=880308122"
+
+msgctxt "6eac96a9992de3bdcdb47fc1612d9934"
+msgid "블록 욕조[B]"
+msgstr ""
+
+msgctxt "b003e532e7bbb61076b701e1d02c4c76"
+msgid "ID=880308123"
+msgstr "ID=880308123"
+
+msgctxt "c73a5b1f55e102c53d499cf5c4dd99f5"
+msgid "블록 욕조[C]"
+msgstr ""
+
+msgctxt "4345b820214c4353a8c85102a8af9537"
+msgid "ID=880308141"
+msgstr "ID=880308141"
+
+msgctxt "1fc09ec17c15f6ebebdac0985fa298b7"
+msgid "블록 나무[A]"
+msgstr ""
+
+msgctxt "044a68f8e5702a896b61ea086a2f6cc0"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 나무이다. 그럴 리 "
+"없겠지만, 나무에 열린 열매를 집어 먹었다간 이가 부러질 수 있으니 주의."
+msgstr ""
+
+msgctxt "b0e03c2d6b894cd9815513121aeca68e"
+msgid "ID=880308142"
+msgstr "ID=880308142"
+
+msgctxt "c26ef91dd14a36cf9c6a325e2ebed93a"
+msgid "블록 나무[B]"
+msgstr ""
+
+msgctxt "a1c47eda3d316c4b02ce187eaba79d2c"
+msgid "ID=880308143"
+msgstr "ID=880308143"
+
+msgctxt "24a18688a783eabc2e293d87de59363d"
+msgid "블록 나무[C]"
+msgstr ""
+
+msgctxt "560fae2b952dad4868a00414de6f38e5"
+msgid "ID=880308151"
+msgstr "ID=880308151"
+
+msgctxt "baf5be416d6d9d63024aeb0a34dbf6ac"
+msgid "블록 그루톤 피규어[A]"
+msgstr ""
+
+msgctxt "c5780cf6f267bc96033dbae2a778b745"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 블록 그루톤 피규어이다. "
+"블록 장난감 특유의 느낌이 살아 있다. 실물보다 묘하게 날씬해진 것 같다."
+msgstr ""
+
+msgctxt "7e6de27f816d65d771e66bb52152633b"
+msgid "ID=880308152"
+msgstr "ID=880308152"
+
+msgctxt "60c3a57ac194a2351cc466c29e3809c9"
+msgid "블록 그루톤 피규어[B]"
+msgstr ""
+
+msgctxt "45667accc2852c5ab25448b371c1d2c8"
+msgid "ID=880308153"
+msgstr "ID=880308153"
+
+msgctxt "38fa64feea534cb583b8e60189408288"
+msgid "블록 그루톤 피규어[C]"
+msgstr ""
+
+msgctxt "58a068be626a3d248b00eb6e0d15d67b"
+msgid "ID=880308161"
+msgstr "ID=880308161"
+
+msgctxt "edb401ba2fb5dad782778c35c6f5c8d5"
+msgid "블록 램프[A]"
+msgstr ""
+
+msgctxt "95f6b4aea7d00f52f9bb747a0b1c1477"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 램프이다. 조명이 들어오는 "
+"블록이라니! 장난감 수집가들을 매우 자극하는 소품이 아닐 수 없다."
+msgstr ""
+
+msgctxt "4d85502321fe5180a4a437ec70792767"
+msgid "ID=880308162"
+msgstr "ID=880308162"
+
+msgctxt "05f46bc21d6d5c6b905276359fac3460"
+msgid "블록 램프[B]"
+msgstr ""
+
+msgctxt "9312341e35b3efcdc9fd3e38c5f5f91c"
+msgid "ID=880308163"
+msgstr "ID=880308163"
+
+msgctxt "3d6b386417d96c36a5962d9dba0c8b71"
+msgid "블록 램프[C]"
+msgstr ""
+
+msgctxt "58e2ede57d210458c6706cba57936d2d"
+msgid "ID=880308171"
+msgstr "ID=880308171"
+
+msgctxt "84498e33eb0dbe1baabc69261ca7dfc9"
+msgid "블록 샤워부스[A]"
+msgstr ""
+
+msgctxt "3b1b5797af6ae64f33445eb3cee1a9c5"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 샤워부스이다. 장난감 건물 "
+"안에서 샤워를 즐길 수 있다. 매우 철이 없어 보일 것만 같다."
+msgstr ""
+
+msgctxt "34ac74ab4c031814022e5f83becb88a1"
+msgid "ID=880308172"
+msgstr "ID=880308172"
+
+msgctxt "cb2663701815089210abf2195ff864d7"
+msgid "블록 샤워부스[B]"
+msgstr ""
+
+msgctxt "e8b44d505d0a3ad3f65f51d676aa0608"
+msgid "ID=880308173"
+msgstr "ID=880308173"
+
+msgctxt "b923427fffc0878e8d3e18626b340d52"
+msgid "블록 샤워부스[C]"
+msgstr ""
+
+msgctxt "98865a748d44fc99bf391e34d0454b1a"
+msgid "ID=880308181"
+msgstr "ID=880308181"
+
+msgctxt "ce76eb32d420880b961c5bf93097ea21"
+msgid "블록 천장[A]"
+msgstr ""
+
+msgctxt "0a650fa9e640c663d581e56c8c9765fb"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 천장이다. 한칸 한칸 "
+"버튼으로 되어 있는 것 같아 묘하게 누르고 싶어진다."
+msgstr ""
+
+msgctxt "348a12fc5540ddabf4014c01e186fe6b"
+msgid "ID=880308182"
+msgstr "ID=880308182"
+
+msgctxt "448300357f8092371bc51b65eeca0bc8"
+msgid "블록 천장[B]"
+msgstr ""
+
+msgctxt "dfb9928796c8d042ec7b2c456a82fc08"
+msgid "ID=880308183"
+msgstr "ID=880308183"
+
+msgctxt "59b62a48b4e5e50588774aa62aa9fec1"
+msgid "블록 천장[C]"
+msgstr ""
+
+msgctxt "54759fe37b6afa0cf6c89f0ac46a1126"
+msgid "ID=880308061"
+msgstr "ID=880308061"
+
+msgctxt "7e233b7decaadc9ad4d6fe1c07e526fd"
+msgid "블록 도어[A]"
+msgstr ""
+
+msgctxt "342533c8166087f5b00abe74398d5b94"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n블록 시리즈의 현관문이다. 플라스틱으로 "
+"되어 있어 잘못 잡아당기면 쉽게 망가질 수 있으니 주의."
+msgstr ""
+
+msgctxt "327aa503ad2c31a2681d0c49e94b0a7a"
+msgid "ID=880308062"
+msgstr "ID=880308062"
+
+msgctxt "726e8f1f6944e9a52c2aecd91b68d74e"
+msgid "블록 도어[B]"
+msgstr ""
+
+msgctxt "de3e3fb18c994f2ec3af6233d8726368"
+msgid "ID=880308063"
+msgstr "ID=880308063"
+
+msgctxt "d46af2a1db24c068905f3ab1763f1762"
+msgid "블록 도어[C]"
+msgstr ""
+
+msgctxt "3193f1e0cfd3d33848c69902b7da97ac"
+msgid "ID=880309011"
+msgstr "ID=880309011"
+
+msgctxt "733d1c41842c76c9ded61f54b43835ff"
+msgid "악보 벽지[A]"
+msgstr ""
+
+msgctxt "3ff9e426d12346d3437b254d151a4891"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 벽지이다."
+msgstr ""
+
+msgctxt "1956214bde57b353c25fc320b174ede4"
+msgid "ID=880309012"
+msgstr "ID=880309012"
+
+msgctxt "77175b045dcaf92457eb41589190fdf3"
+msgid "악보 벽지[B]"
+msgstr ""
+
+msgctxt "c9d74a09370d8df71f2a6e4bfc6f62bd"
+msgid "ID=880309013"
+msgstr "ID=880309013"
+
+msgctxt "4b1813d037074c1f702b57bc18ea80f0"
+msgid "악보 벽지[C]"
+msgstr ""
+
+msgctxt "697cb93e9c9f2b5be39d089ea64d7d9f"
+msgid "ID=880309021"
+msgstr "ID=880309021"
+
+msgctxt "2e2becd0c774263fcbb831341b80ccfc"
+msgid "무대 바닥[A]"
+msgstr ""
+
+msgctxt "43145496b31f3c35b85f0e17b9c01ef3"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 타일이다."
+msgstr ""
+
+msgctxt "4ff83265e7ca0e40b55e3d0c2f8d3978"
+msgid "ID=880309022"
+msgstr "ID=880309022"
+
+msgctxt "532de7f65bdcbede3f2daebc3ca7c22f"
+msgid "무대 바닥[B]"
+msgstr ""
+
+msgctxt "d94e77b0914d31851717ad1439921727"
+msgid "ID=880309023"
+msgstr "ID=880309023"
+
+msgctxt "c93239b27829276f080de628a6194e7c"
+msgid "무대 바닥[C]"
+msgstr ""
+
+msgctxt "b41480a6a6eca370f9741b27400e6fcb"
+msgid "ID=880309031"
+msgstr "ID=880309031"
+
+msgctxt "7df91c3203e6ab3bb8419e623e6c5124"
+msgid "커다란 트리 차임[A]"
+msgstr ""
+
+msgctxt "d62abf2e5c01c3a0a5f1447061fd7d28"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 벽 장식이다."
+msgstr ""
+
+msgctxt "053cbb1358796171f9a8a29978a32782"
+msgid "ID=880309032"
+msgstr "ID=880309032"
+
+msgctxt "e3bc5cd19f9f4aa0bff1e87839543c4d"
+msgid "커다란 트리 차임[B]"
+msgstr ""
+
+msgctxt "fcdd0661e123d4e65710601f712e9a18"
+msgid "ID=880309033"
+msgstr "ID=880309033"
+
+msgctxt "d904618e020f567dacad07f6e3f6d9e8"
+msgid "커다란 트리 차임[C]"
+msgstr ""
+
+msgctxt "346856e2f2768c575684ea85557c993a"
+msgid "ID=880309041"
+msgstr "ID=880309041"
+
+msgctxt "f42996156e238418ac844eccc4065895"
+msgid "16분음표 테라스 문[A]"
+msgstr ""
+
+msgctxt "0c9d2333b5a483fdba47f6b44903c553"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 테라스 도어이다."
+msgstr ""
+
+msgctxt "7d3cc650da26332189837c68b1b38beb"
+msgid "ID=880309042"
+msgstr "ID=880309042"
+
+msgctxt "0190b286cac6b67360b854fde31a6c5e"
+msgid "16분음표 테라스 문[B]"
+msgstr ""
+
+msgctxt "25ad66c4b76ab4ccd5de5e3e1ea5a9a9"
+msgid "ID=880309043"
+msgstr "ID=880309043"
+
+msgctxt "ee414da3d5673222a86e9d6e1b8036a0"
+msgid "16분음표 테라스 문[C]"
+msgstr ""
+
+msgctxt "ec49bc784d38dd670b85e4a231388862"
+msgid "ID=880309051"
+msgstr "ID=880309051"
+
+msgctxt "4a5fee2457abcf571f69779caa861225"
+msgid "8분음표 창문[A]"
+msgstr ""
+
+msgctxt "c64e62450a209e2282799271532e4e61"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 창문이다."
+msgstr ""
+
+msgctxt "f6045df45064efd88fd5801c6cdcb474"
+msgid "ID=880309052"
+msgstr "ID=880309052"
+
+msgctxt "be634776f6bbaa47320b1a0e806297c7"
+msgid "8분음표 창문[B]"
+msgstr ""
+
+msgctxt "cefe07301e95728c0357c10f290887bc"
+msgid "ID=880309053"
+msgstr "ID=880309053"
+
+msgctxt "d4409a5e29953d5cd2f29129efb70f72"
+msgid "8분음표 창문[C]"
+msgstr ""
+
+msgctxt "8bfa3d4f981dcaca38d082f90495bff6"
+msgid "ID=880309071"
+msgstr "ID=880309071"
+
+msgctxt "5956a119178e357d6b6f23079cb632b9"
+msgid "하프 러그[A]"
+msgstr ""
+
+msgctxt "e7a1570ae1b55b3de5a480cb0b6f9f6e"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 카펫이다."
+msgstr ""
+
+msgctxt "3bb4bec8c09ef215efcb25b2714325f6"
+msgid "ID=880309072"
+msgstr "ID=880309072"
+
+msgctxt "12a48c809f895bd2958ace618cb2e044"
+msgid "하프 러그[B]"
+msgstr ""
+
+msgctxt "26df8387147ea01e5ccb87c8ac04ce27"
+msgid "ID=880309073"
+msgstr "ID=880309073"
+
+msgctxt "2d9f3a872d8dd565e51b01fbfc9779e7"
+msgid "하프 러그[C]"
+msgstr ""
+
+msgctxt "23c27b00e7809d233edb327c3ab7ef55"
+msgid "ID=880309081"
+msgstr "ID=880309081"
+
+msgctxt "caa6c48ce129ab3fb68bb16badf4b797"
+msgid "커다란 드럼 침대[A]"
+msgstr ""
+
+msgctxt "bb4a0bf79065b9e899a1092408d86fd9"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 침대이다."
+msgstr ""
+
+msgctxt "64cdfd01cd57e5431a24666a15bb96f9"
+msgid "ID=880309082"
+msgstr "ID=880309082"
+
+msgctxt "2c40942580e5b5e11b7c6093ddb3fecf"
+msgid "커다란 드럼 침대[B]"
+msgstr ""
+
+msgctxt "b8b7f797bcbf5b782e1211ddd6faaebd"
+msgid "ID=880309083"
+msgstr "ID=880309083"
+
+msgctxt "4c931ed70ad3e49710c9065fe8d86db2"
+msgid "커다란 드럼 침대[C]"
+msgstr ""
+
+msgctxt "caec95884a7b3f61658b9926ef2a1466"
+msgid "ID=880309091"
+msgstr "ID=880309091"
+
+msgctxt "f797ac4e69a4973b9ae66273ad88151d"
+msgid "피아노 건반 소파[A]"
+msgstr ""
+
+msgctxt "ee27eca5218e154a417613073e860beb"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 의자이다."
+msgstr ""
+
+msgctxt "49791f13713b8bbc697c11daf1f45d34"
+msgid "ID=880309092"
+msgstr "ID=880309092"
+
+msgctxt "770e99ec27db0326085a1095acfb2eab"
+msgid "피아노 건반 소파[B]"
+msgstr ""
+
+msgctxt "16a906a4ac8e36eec20cd1e9b6800ecd"
+msgid "ID=880309093"
+msgstr "ID=880309093"
+
+msgctxt "3c9a3bfefaad81d6742bf7d4ede50748"
+msgid "피아노 건반 소파[C]"
+msgstr ""
+
+msgctxt "54cf289f3f78ff72f12d4eb3767bcb47"
+msgid "ID=880309101"
+msgstr "ID=880309101"
+
+msgctxt "2fe1bd8a832b6da94cfc62c1e30841af"
+msgid "피아노 테이블[A]"
+msgstr ""
+
+msgctxt "e5163de9d0cc79f31c8aacb6993a3a07"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 책상이다."
+msgstr ""
+
+msgctxt "33e99de5f092393c8206786ac8365793"
+msgid "ID=880309102"
+msgstr "ID=880309102"
+
+msgctxt "2c7f2661659c01457ee59c6f39d5fb68"
+msgid "피아노 테이블[B]"
+msgstr ""
+
+msgctxt "a4fe0aaf0bf108d104d7eab85697522d"
+msgid "ID=880309103"
+msgstr "ID=880309103"
+
+msgctxt "300293c9e1ea775f1f1f37b4b68789fa"
+msgid "피아노 테이블[C]"
+msgstr ""
+
+msgctxt "553758821e7b06b6d23b5f6f9feee7d5"
+msgid "ID=880309111"
+msgstr "ID=880309111"
+
+msgctxt "cb8e1a79ff60fb834e05d69460f03611"
+msgid "기타 행거[A]"
+msgstr ""
+
+msgctxt "84c8beb8655ecc7d9583d19e61fb47b9"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 기타들을 진열한 행거이다."
+msgstr ""
+
+msgctxt "69004a870af4aa6f67fe9b7f2b3bb858"
+msgid "ID=880309112"
+msgstr "ID=880309112"
+
+msgctxt "eb5c6ca2f80c4a37c8d1f2f1e2d9590c"
+msgid "기타 행거[B]"
+msgstr ""
+
+msgctxt "001a9a0792360c8e65d73f902e17edfb"
+msgid "ID=880309113"
+msgstr "ID=880309113"
+
+msgctxt "43fa24ef0f80f75bedda584b05eb967a"
+msgid "기타 행거[C]"
+msgstr ""
+
+msgctxt "c631e008b3c2a35232be02cc6f3193d3"
+msgid "ID=880309121"
+msgstr "ID=880309121"
+
+msgctxt "e38612991f69f06134db8cbe3506b566"
+msgid "드럼 욕조[A]"
+msgstr ""
+
+msgctxt "c43839c2a3d185532929cdc02ff89bf9"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 욕조이다."
+msgstr ""
+
+msgctxt "f5357b218c185023bc709d743f8dcc8a"
+msgid "ID=880309122"
+msgstr "ID=880309122"
+
+msgctxt "925ee5fa633509067e7542c63374769c"
+msgid "드럼 욕조[B]"
+msgstr ""
+
+msgctxt "068d67c0d3e9d7b689c7c125bbfaab3e"
+msgid "ID=880309123"
+msgstr "ID=880309123"
+
+msgctxt "5404d6155a8ff8b6c2dbddc4abd3fe10"
+msgid "드럼 욕조[C]"
+msgstr ""
+
+msgctxt "5e2d03119d1302901f65ea66a3fdbc82"
+msgid "ID=880309141"
+msgstr "ID=880309141"
+
+msgctxt "f0cc227ae54d9c35c315531a5a65ea54"
+msgid "키보드 기타[A]"
+msgstr ""
+
+msgctxt "7c979fa10284678fc50f2f9d42cac9a4"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 키보드 기타이다."
+msgstr ""
+
+msgctxt "134629d1a3df238875226b93c13f9ad0"
+msgid "ID=880309142"
+msgstr "ID=880309142"
+
+msgctxt "fa7a582489a298f014171a23a18e9d4e"
+msgid "키보드 기타[B]"
+msgstr ""
+
+msgctxt "ae33f8aff7d58dc8a5f7f338ab58151c"
+msgid "ID=880309143"
+msgstr "ID=880309143"
+
+msgctxt "7a5eb501bc3375b019d68e42bf148a13"
+msgid "키보드 기타[C]"
+msgstr ""
+
+msgctxt "a42473d76e0df539cb728b7142aeed9b"
+msgid "ID=880309151"
+msgstr "ID=880309151"
+
+msgctxt "67bc79425f025dca6e384afa4be987ba"
+msgid "클라리넷[A]"
+msgstr ""
+
+msgctxt "ac833ada96948f9d74ef943b76955742"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 클라리넷이다."
+msgstr ""
+
+msgctxt "f461d14326fa9d911bad6c0b32680377"
+msgid "ID=880309152"
+msgstr "ID=880309152"
+
+msgctxt "df3ab38c31836d716df8b47ef43bb6c7"
+msgid "클라리넷[B]"
+msgstr ""
+
+msgctxt "0173cf8cde28fd123bf942a2f6b3b034"
+msgid "ID=880309153"
+msgstr "ID=880309153"
+
+msgctxt "21f4803f1d8116a90c70c8564a9d5f40"
+msgid "클라리넷[C]"
+msgstr ""
+
+msgctxt "1b01f139178c70be7398345e5ed1ae38"
+msgid "ID=880309161"
+msgstr "ID=880309161"
+
+msgctxt "d8cf98571cefc09d0ebcdd797f70b9ae"
+msgid "바이올린과 스틱[A]"
+msgstr ""
+
+msgctxt "e7017e84e02d2dd4cb45785c6298e6b4"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 바이올린과 스틱이다."
+msgstr ""
+
+msgctxt "c95c03bdf68c1728b58d87b5b576e3c8"
+msgid "ID=880309162"
+msgstr "ID=880309162"
+
+msgctxt "1c22d934f6d39d19fc962545db880420"
+msgid "바이올린과 스틱[B]"
+msgstr ""
+
+msgctxt "5a6f8a8e8b27c0a3da02eb2e9c9cbd0c"
+msgid "ID=880309163"
+msgstr "ID=880309163"
+
+msgctxt "6d7a57b152da240a7a845dc33f2d5e91"
+msgid "바이올린과 스틱[C]"
+msgstr ""
+
+msgctxt "70aacb5c9bb5e48591234761da50ddea"
+msgid "ID=880309171"
+msgstr "ID=880309171"
+
+msgctxt "e3bf35581010f156f35fe8b63d4b3018"
+msgid "스테이지 샤워 부스[A]"
+msgstr ""
+
+msgctxt "f680fa55ce164cca8325ad032fde0377"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 샤워부스이다."
+msgstr ""
+
+msgctxt "932418497f7a5c590f84f67887c9f4d2"
+msgid "ID=880309172"
+msgstr "ID=880309172"
+
+msgctxt "8b5896d450748e0443c2b18d3c8975f2"
+msgid "스테이지 샤워 부스[B]"
+msgstr ""
+
+msgctxt "7acdf2421c803fcd3bc5890ea1dd5c97"
+msgid "ID=880309173"
+msgstr "ID=880309173"
+
+msgctxt "50af8f96c269a26d1b6305ff4cd1281c"
+msgid "스테이지 샤워 부스[C]"
+msgstr ""
+
+msgctxt "82f5a6832fc3bd7bc58368a393026830"
+msgid "ID=880309181"
+msgstr "ID=880309181"
+
+msgctxt "4bf4b05a27888f503773ffc13ea931e1"
+msgid "악보 천장[A]"
+msgstr ""
+
+msgctxt "954f86987906efd6754f746904f0ab94"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 천장이다."
+msgstr ""
+
+msgctxt "a5d759db143b518a8364e61029e4bd53"
+msgid "ID=880309182"
+msgstr "ID=880309182"
+
+msgctxt "957438ecaa72954b23245dc9ced3d540"
+msgid "악보 천장[B]"
+msgstr ""
+
+msgctxt "f3cce459cb955f270fa4f13aed71da63"
+msgid "ID=880309183"
+msgstr "ID=880309183"
+
+msgctxt "c167c1ef499214114ffaafeec35e8f0f"
+msgid "악보 천장[C]"
+msgstr ""
+
+msgctxt "1002827545cb8e800487d6dfbf0a16af"
+msgid "ID=880309061"
+msgstr "ID=880309061"
+
+msgctxt "4a75fa665a83b11f88a7a851dcb547d2"
+msgid "뮤직 도어[A]"
+msgstr ""
+
+msgctxt "b3888cfe1241e4b1e3bb8f1bc29a4e16"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n뮤직 시리즈의 현관문이다."
+msgstr ""
+
+msgctxt "284cd5d6f105ea56ef7256cabcd6e06a"
+msgid "ID=880309062"
+msgstr "ID=880309062"
+
+msgctxt "df1f60ccf2266390ce2d674bff66d582"
+msgid "뮤직 도어[B]"
+msgstr ""
+
+msgctxt "d858556793484666c8e1ffb7f19dc633"
+msgid "ID=880309063"
+msgstr "ID=880309063"
+
+msgctxt "3d0875bc26cef636f379191308e46067"
+msgid "뮤직 도어[C]"
+msgstr ""
+
+msgctxt "356014a1ad4624d0dd928e2f899fa1cf"
+msgid "ID=880104091"
+msgstr "ID=880104091"
+
+msgctxt "1f4bdd1d22a679782c2d0961b5a0bbef"
+msgid "황금의 왕좌"
+msgstr ""
+
+msgctxt "e15c7d0a5f38bec72d41beff117d22e9"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n금색으로 빛나는 왕좌. 앉아있으면 왕이 "
+"된 기분을 느낄 수 있다."
+msgstr ""
+
+msgctxt "41a60fea1c6ab61321ed14cc2b5ba4f4"
+msgid "ID=880105011"
+msgstr "ID=880105011"
+
+msgctxt "6bc77f284b16b36f374a3abddec2e460"
+msgid "스틸 그레이브 큐브"
+msgstr ""
+
+msgctxt "7e362849a01b69048eecf5e95ac38784"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n스틸 그레이브 10층을 돌파한 사람들에게 "
+"수여되는 장식용 가구. 어떤 원리인지는 알 수 없으나 공중에서 계속 회전하는 모습을 볼 수 있다."
+msgstr ""
+
+msgctxt "584ed60ca7ef0be7ab6799f39d71cd8b"
+msgid "ID=880160301"
+msgstr "ID=880160301"
+
+msgctxt "9e66e4db9bce4da3fdfc816c474c6c6f"
+msgid "こるり의 포스터"
+msgstr ""
+
+msgctxt "dc9da0d78eb3b3d0417cd4f167f52272"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"こるり의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "7f0cdc2f0f7b5429e3b1bed2b00dbfcc"
+msgid "ID=880160302"
+msgstr "ID=880160302"
+
+msgctxt "99a8d9c75a007a3f598f325700d5e209"
+msgid "あまからするめ의 포스터"
+msgstr ""
+
+msgctxt "36687ccb4cea70541ccad1d8ec2d7d05"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"あまからするめ의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "07042719c7dfe05d3f815f800cf3a0ef"
+msgid "ID=880160303"
+msgstr "ID=880160303"
+
+msgctxt "1d6f621ad2a58a1a6f45029e18529ede"
+msgid "狂Zip의 포스터"
+msgstr ""
+
+msgctxt "82b16846651026457f3ddac8b519b1eb"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"狂Zip의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "9e434a6188ae056f723240d322f595c1"
+msgid "ID=880160304"
+msgstr "ID=880160304"
+
+msgctxt "77c4a1338eccfffca24b424980b2cbfa"
+msgid "ケ?スワベ의 포스터"
+msgstr ""
+
+msgctxt "0d27a033c892225ffda7582d56a5cca9"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"ケ?スワベ의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "55ffc170264a2906b2930d7e54c1f782"
+msgid "ID=880160305"
+msgstr "ID=880160305"
+
+msgctxt "3283620a6eda27440caa7a69e9fb2209"
+msgid "ミノリ의 포스터"
+msgstr ""
+
+msgctxt "c36a0b4c1d4ebde95b79e51e4994d344"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"ミノリ의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "792bae895b2ea7543c1b2131bccab49d"
+msgid "ID=880160306"
+msgstr "ID=880160306"
+
+msgctxt "6c4c41b64ad8a680f9abe430cf2e2146"
+msgid "魔界の住民의 포스터"
+msgstr ""
+
+msgctxt "bee36ae55ea30b18449faeff99f61faa"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"魔界の住民의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "86a3e2546f79cccb7867ec0791dfeca3"
+msgid "ID=880160307"
+msgstr "ID=880160307"
+
+msgctxt "2eb34a70196195328300e60de992e043"
+msgid "雨宮ザザ의 포스터"
+msgstr ""
+
+msgctxt "5492ed9890eaa1fafd492471434de400"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"雨宮ザザ의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "db6f98c400066c280d4b53deef14b70c"
+msgid "ID=880160308"
+msgstr "ID=880160308"
+
+msgctxt "fefc3ba59afe92603c9f06c08a759e48"
+msgid "ぐらんで의 포스터"
+msgstr ""
+
+msgctxt "a8b2ad8b997ade33686ecbeea93a8047"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"ぐらんで의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "fe163de7aea358e1bd2807eb9e0e68d2"
+msgid "ID=880160309"
+msgstr "ID=880160309"
+
+msgctxt "1191c68a9ddaa068d164499651c40e51"
+msgid "左折의 포스터"
+msgstr ""
+
+msgctxt "eb75e94632f622cc27993db34d396499"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"左折의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "786005d4a72290314dda0b79bf8a0cad"
+msgid "ID=880160310"
+msgstr "ID=880160310"
+
+msgctxt "77cb7611837febb6664a6223b94f2995"
+msgid "深町なか의 포스터"
+msgstr ""
+
+msgctxt "7733ef1aa28a28869154c4f3126aac28"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"深町なか의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "a097ea083d36692c12188137c43397a6"
+msgid "ID=880160311"
+msgstr "ID=880160311"
+
+msgctxt "209b54c164a08476aba834ff0d40e9b3"
+msgid "plan의 포스터"
+msgstr ""
+
+msgctxt "fcfa65bf42b4c6faf61998a4cd2b7f30"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"plan의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "2d3bfb21479573b0d88eb55a1635d88b"
+msgid "ID=880160312"
+msgstr "ID=880160312"
+
+msgctxt "5f301351e9dc3d0f5d14f2a21ef47e89"
+msgid "ごまし의 포스터"
+msgstr ""
+
+msgctxt "7920c038c80548bf4547f365f06a787a"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"ごまし의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "86e0bd5ae74c1b74cb44517aba1ed3a3"
+msgid "ID=880160313"
+msgstr "ID=880160313"
+
+msgctxt "34d335ee6a7c52786b2ad7d31c4d5ba7"
+msgid "中音ナタ의 포스터"
+msgstr ""
+
+msgctxt "a1dea6f3bec01a339b5e173a0d32f417"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"中音ナタ의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "9b48e001008fdfb716998d356e6b216f"
+msgid "ID=880160314"
+msgstr "ID=880160314"
+
+msgctxt "661689fbddcae8c5d973c851ce1216f7"
+msgid "咲良ゆき의 포스터"
+msgstr ""
+
+msgctxt "205f2e18e6cb2a489beb421a76ba71f0"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"咲良ゆき의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "025095cc484fe2ce0cb31e2095237ed2"
+msgid "ID=880160315"
+msgstr "ID=880160315"
+
+msgctxt "a3c1119fb404bf398e910ea3e6fc7815"
+msgid "もりこっこ의 포스터"
+msgstr ""
+
+msgctxt "264b789c78cbed3524582e5e8f982c77"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"もりこっこ의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "bc64c77f4c7e9b16770bc34200c3a128"
+msgid "ID=880160316"
+msgstr "ID=880160316"
+
+msgctxt "938e684fe97b38feb3037e7cc50dc364"
+msgid "ica의 포스터"
+msgstr ""
+
+msgctxt "ae82050ca66605099339da0c490c25f1"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"ica의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "ac065690b0636422f3954723bdc00b68"
+msgid "ID=880160317"
+msgstr "ID=880160317"
+
+msgctxt "8ae52feac56f4270098e29292e7c9e24"
+msgid "がい子くじん의 포스터"
+msgstr ""
+
+msgctxt "be8630557858300ddaa6b95acd12d2ca"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"がい子くじん의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "5e20ecabcc424879be7813a060215afd"
+msgid "ID=880160318"
+msgstr "ID=880160318"
+
+msgctxt "419f1fb6a99ef91d46e9d2a313004f4a"
+msgid "草田草太의 포스터"
+msgstr ""
+
+msgctxt "c6fc81013beee88773db92c0b298c4b2"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"草田草太의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "73fa09e4c633dbb0e8b2ea8bc4a496e5"
+msgid "ID=880160319"
+msgstr "ID=880160319"
+
+msgctxt "9ef8bf05372f4157f0e034eb16edcb6a"
+msgid "草壁의 포스터"
+msgstr ""
+
+msgctxt "b99661e8546f14abf47dd4f0b6f6ab12"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"草壁의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "169b33e6cb3f60c1289d90f97c66a50c"
+msgid "ID=880160320"
+msgstr "ID=880160320"
+
+msgctxt "5bc1fa2ac1920ff390460b76e7c74bd0"
+msgid "bob의 포스터"
+msgstr ""
+
+msgctxt "096458899917fa826dc7e67ff99b4f70"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n카운트 다운 일러스트 이벤트에서 입상한 "
+"bob의 일러스트로 제작한 포스터."
+msgstr ""
+
+msgctxt "b4e83c0685d61b0054cea4b13e2fc532"
+msgid "ID=880107141"
+msgstr "ID=880107141"
+
+msgctxt "97d25c8f2542e51abb9abbfacfcae053"
+msgid "스몰리쉬 퍼펫 피규어"
+msgstr ""
+
+msgctxt "161a4bef60d5d47012063feb01472a36"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n이상 공백에서 발견된 인형을 참고하여 "
+"만든 피규어. 어느 누구의 센스인지는 알 수 없지만 적어도 정상은 아니리란 것 만큼은 알 수 있다."
+msgstr ""
+
+msgctxt "654f551c246942e400939731ae76f19a"
+msgid "ID=880107142"
+msgstr "ID=880107142"
+
+msgctxt "20dfc403429fe3194cd9844c40aa576d"
+msgid "퍼펫 에드가 피규어"
+msgstr ""
+
+msgctxt "ceeaf2d0d4162b5d16345e2bbd6c205f"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n광기에 가득 찬 에드가의 모습을 본 따 "
+"만들어진 인형의 피규어. 보고 있으면 광기로 물든 에드가의 웃음 소리가 들려올 것 만 같다."
+msgstr ""
+
+msgctxt "fb7a885c13aa8af5b8c5aac4eeefb8ea"
+msgid "ID=880107143"
+msgstr "ID=880107143"
+
+msgctxt "eafa518a5dd4c907f0f999b17032d014"
+msgid "바이올렛 머더리스 피규어"
+msgstr ""
+
+msgctxt "973c20c14c9497526b57fdfd5eb9e7a2"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여왕 거미 형태의 소울정크를 본 따 "
+"만들어진 피규어. 관능적인 상반신과 반대로 거미의 모습 그대로인 하반신은 기괴함을 적나라하게 드러내고 있다."
+msgstr ""
+
+msgctxt "20464b1ac8ce1f0db38a8ee6cb9f4ada"
+msgid "ID=880107144"
+msgstr "ID=880107144"
+
+msgctxt "5a5e90cc3a28675bec970c695421cd5c"
+msgid "비홀더 피규어"
+msgstr ""
+
+msgctxt "e5cbbf93cda192c0e55667ea2132544f"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n인공 각성체 비홀더를 본 따 만들어진 "
+"피규어. 비홀더의 거대한 눈알을 계속 보고 있으면 몸이 굳어버릴 수도 있다고 하니 조심하자."
+msgstr ""
+
+msgctxt "4f1d3bebb5dd45b8857cce1a9ab55d76"
+msgid "ID=880107145"
+msgstr "ID=880107145"
+
+msgctxt "11f8660f9baac8019b12b7d76939d8bf"
+msgid "헬 콜렉터 피규어"
+msgstr ""
+
+msgctxt "cd83b0120e166b17c3f708fcf9503eae"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n베시들의 중대장들 중 하나인 헬 콜렉터를 "
+"본 따 만든 피규어. 위압적인 눈빛을 보고있으면 영혼을 빼앗길 것만 같다."
+msgstr ""
+
+msgctxt "19148ae62b5490fc22ca38f18e67b74d"
+msgid "ID=880107146"
+msgstr "ID=880107146"
+
+msgctxt "41d9ac1d744d0f628f0311f1b0ea3036"
+msgid "팬텀 섀도우 피규어"
+msgstr ""
+
+msgctxt "ace83d0594efa188adb83776352b7f0e"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n암살 부대의 베시들을 이끌던 팬텀의 "
+"그림자 유체를 본 따 만든 피규어. 이걸 옆에 두면 잠자긴 힘들 것 같다."
+msgstr ""
+
+msgctxt "1e948d7311e64cdcbbf7951b5d8cfdd4"
+msgid "ID=880107147"
+msgstr "ID=880107147"
+
+msgctxt "6806853ce8ae4b73bac4601e8f0f292c"
+msgid "랜드 바이슨 피규어"
+msgstr ""
+
+msgctxt "e348d178ad742485b2478b93a685ac65"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n어떤 벽이라도 꿰뚫는 헤비기어즈의 중장비 "
+"중 하나인 랜드 바이슨을 본 따 만든 피규어. 이 피규어에는 그런 힘이 없으니 실수로라도 벽에 박지는 말자."
+msgstr ""
+
+msgctxt "e239fb3ce053d96553438458abd85a2c"
+msgid "ID=880107148"
+msgstr "ID=880107148"
+
+msgctxt "653dd17e418c901843e73dd43033664a"
+msgid "지크 프로토 제로 피규어"
+msgstr ""
+
+msgctxt "47b02d432139d415866ea186ca22ce72"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n지크 시스템의 프로토타입 중 설계도로만 "
+"남아있던 기체를 본 따 만든 피규어. 지크 프로토 시리즈 중 설계도로만 남아있던 환상의 기체답게 육중한 외형을 자랑한다."
+msgstr ""
+
+msgctxt "f4c7a179e3fc1d648530873990615887"
+msgid "ID=880107031"
+msgstr "ID=880107031"
+
+msgctxt "e214acc2762ef60f3d21f6143771d7b0"
+msgid "매드니스 퍼펫 에드가 포스터"
+msgstr ""
+
+msgctxt "5960ba8c4c8ebd27cddf3267e2b06c14"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n광기에 가득 찬 에드가의 모습을 본 따 "
+"만들어진 인형을 그린 포스터. 보고 있으면 광기로 물든 에드가의 웃음 소리가 들려올 것 만 같다."
+msgstr ""
+
+msgctxt "53f1d1686958192b19aec9d2061e7d3f"
+msgid "ID=880107032"
+msgstr "ID=880107032"
+
+msgctxt "4f1ee65d87f17719f69e3b4ab0e62cb0"
+msgid "바이올렛 머더리스 포스터"
+msgstr ""
+
+msgctxt "395c2ee3d14cac328ee0a725acf612b8"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여왕 거미 형태의 소울정크를 본 따 그린 "
+"포스터. 관능적인 상반신과 반대로 거미의 모습 그대로인 하반신은 기괴함을 적나라하게 드러내고 있다."
+msgstr ""
+
+msgctxt "88aaa63e9bfd3fb499dc23edfe98fac8"
+msgid "ID=880107033"
+msgstr "ID=880107033"
+
+msgctxt "b711aaee55b8d45fe593bf127db91714"
+msgid "팬텀 섀도우 포스터"
+msgstr ""
+
+msgctxt "0178bda1437a64d109d1a7a4cd4eaade"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n암살 부대의 베시들을 이끌던 팬텀의 "
+"그림자 유체를 본 따 그린 포스터. 이걸 벽에 걸어두면 잠자긴 힘들 것 같다."
+msgstr ""
+
+msgctxt "70b2a7ec87399d088056b7a3565b7ee8"
+msgid "ID=880107034"
+msgstr "ID=880107034"
+
+msgctxt "dea8c8691e68b5b8ac10878d6ecdc19c"
+msgid "지크 프로토 제로 포스터"
+msgstr ""
+
+msgctxt "fd9117fb0b42e5c87977c87476e6df6f"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n지크 시스템의 프로토타입 중 설계도로만 "
+"남아있던 기체를 본 따 그린 포스터. 지크 프로토 시리즈 중 설계도로만 남아있던 환상의 기체답게 육중한 외형을 자랑한다."
+msgstr ""
+
+msgctxt "6e61f222a3b273067507059ff6437948"
+msgid "ID=880108031"
+msgstr "ID=880108031"
+
+msgctxt "e885687b9b853cbde744d7b14429a93e"
+msgid "황금의 문"
+msgstr ""
+
+msgctxt "d73bfe7a067f7e8c203d9049d8bfc9ac"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n골든 시타델의 워프 게이트를 본 따 "
+"만들어진 피규어. 가만히 지켜보고 있으면 눈알이 핑핑 도는게 다른 공간으로 빨려 들어갈 것만 같다."
+msgstr ""
+
+msgctxt "f4297eadf044e33d836d3a3b9cd64050"
+msgid "ID=880108141"
+msgstr "ID=880108141"
+
+msgctxt "a8c9f374bdb32a666c7882cef0fba0a1"
+msgid "아포칼립스 피규어"
+msgstr ""
+
+msgctxt "7f86d9dac79876753e08aa508772b448"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n골든 시타델의 재앙의 관을 관장하고 있는 "
+"아포칼립스를 참고하여 만든 피규어. 몸체 주변에 떠있는 8개의 창날에 손이 베일 것만 같다."
+msgstr ""
+
+msgctxt "f57ab9b55cc0bea93c9bac32f28f4273"
+msgid "ID=880108142"
+msgstr "ID=880108142"
+
+msgctxt "e51763bcc679cbaf21aa03126e1d6dd3"
+msgid "이터니티 피규어"
+msgstr ""
+
+msgctxt "1e1330153d41b462e15dd3245dee9faa"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n골든 시타델의 영겁의 관을 관장하고 있는 "
+"이터니티를 참고하여 만든 피규어. 금빛으로 물든 슈트를 입어보고 싶은 욕구가 마구 생긴다."
+msgstr ""
+
+msgctxt "d93a816c684c223cc00f2f6397d32356"
+msgid "ID=880108143"
+msgstr "ID=880108143"
+
+msgctxt "d354edc1b6649d1fb9154c5dc11a9cb1"
+msgid "저거노트 피규어"
+msgstr ""
+
+msgctxt "c1d79a97b88e43cd8eb1306ca4d7bf24"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n골든 시타델의 격돌의 관을 관장하고 있는 "
+"저거노트를 참고하여 만든 피규어. 금으로 만든 송곳니가 매우 반짝거린다. 엄청 비싸보인다."
+msgstr ""
+
+msgctxt "ed06b236e0099ed85dbf7b3a59da4781"
+msgid "ID=880108144"
+msgstr "ID=880108144"
+
+msgctxt "cbb6a254a32ed8525fcf22779f0626ad"
+msgid "판데모니아 피규어"
+msgstr ""
+
+msgctxt "7f324f355063a73840cb867bc6cc0fb9"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n골든 시타델의 혼돈의 관을 관장하고 있는 "
+"판데모니아를 참고하여 만든 피규어. 금빛 날개가 마치 살아있는 것처럼 펄럭거리는 것 같다."
+msgstr ""
+
+msgctxt "09d6cefdc4a6396087f2e115a6f48c7f"
+msgid "ID=880501011"
+msgstr "ID=880501011"
+
+msgctxt "74fbe0df1b121127d8cd9de50ca2b877"
+msgid "싱크대_A"
+msgstr ""
+
+msgctxt "cd5e575793922e3ed10fc4aff9044a93"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n싱크대_A"
+msgstr ""
+
+msgctxt "83ce580122ff4b548e66f433eb3043fd"
+msgid "ID=880501012"
+msgstr "ID=880501012"
+
+msgctxt "bad263d42cb2a470a2b0ca765f609f46"
+msgid "싱크대_B"
+msgstr ""
+
+msgctxt "3294e9ce7b5cd67d8393f5ef4dd82ceb"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n싱크대_B"
+msgstr ""
+
+msgctxt "69e6bf77b2a99d37ff9af15ecd12ea46"
+msgid "ID=880501013"
+msgstr "ID=880501013"
+
+msgctxt "f1198ec0902e288c02b65e82388e2c25"
+msgid "싱크대_C"
+msgstr ""
+
+msgctxt "313222820b0902069b17763106a17904"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n싱크대_C"
+msgstr ""
+
+msgctxt "b2335527cc1567c6ee254a1efd5d94bc"
+msgid "ID=880501021"
+msgstr "ID=880501021"
+
+msgctxt "f772a25dcfa476ccc000b984b7b3377e"
+msgid "가스레인지_A"
+msgstr ""
+
+msgctxt "7c1150f7ba36cd2da849498e5349a905"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n가스레인지_A"
+msgstr ""
+
+msgctxt "bd2b5f15568da2fc3646d1d21f5c82b8"
+msgid "ID=880501022"
+msgstr "ID=880501022"
+
+msgctxt "876769769497279a99a359d106987a2e"
+msgid "가스레인지_B"
+msgstr ""
+
+msgctxt "7a647a459bdb03e61978466e0c2b5764"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n가스레인지_B"
+msgstr ""
+
+msgctxt "9bd1b4f6b9c16b1184332876518059f3"
+msgid "ID=880501023"
+msgstr "ID=880501023"
+
+msgctxt "4bccc4ff1a0cf4520e46ac3059896c6c"
+msgid "가스레인지_C"
+msgstr ""
+
+msgctxt "d682f2645e3fa9d91a996bd0ef8d1e46"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n가스레인지_C"
+msgstr ""
+
+msgctxt "d2fb45982f374f07f5b654abbc2e2a5f"
+msgid "ID=880501031"
+msgstr "ID=880501031"
+
+msgctxt "33c9fe5332acda2ab7c493e8ccf06904"
+msgid "오븐_A"
+msgstr ""
+
+msgctxt "03a64a46094c009c816dcaac712fbcdf"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n오븐_A"
+msgstr ""
+
+msgctxt "1ce3ce4a281c19cfa42a18f978cbb3c2"
+msgid "ID=880501032"
+msgstr "ID=880501032"
+
+msgctxt "5642c00735bc056116064aa6accaa429"
+msgid "오븐_B"
+msgstr ""
+
+msgctxt "ec4c3a0e8396d06cff9ba7ac8acaec31"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n오븐_B"
+msgstr ""
+
+msgctxt "19495a555cb4cd30a8b6764a9076dfd8"
+msgid "ID=880501033"
+msgstr "ID=880501033"
+
+msgctxt "c417c984d3299463c8417bddc289d05d"
+msgid "오븐_C"
+msgstr ""
+
+msgctxt "e4e58a7df8ff3e170bf7435a14cc459f"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n오븐_C"
+msgstr ""
+
+msgctxt "ee71ec1486901bfeeba76dc6e5463696"
+msgid "ID=880501041"
+msgstr "ID=880501041"
+
+msgctxt "8f9bdb2bb5db864f2ced50538134081f"
+msgid "냉장고_A"
+msgstr ""
+
+msgctxt "06c58dbd05552b19ebf73204b88400ac"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n냉장고_A"
+msgstr ""
+
+msgctxt "84d4834839abc2c923ed3292801d8284"
+msgid "ID=880501042"
+msgstr "ID=880501042"
+
+msgctxt "a7d83ace5e669bb3e43163dd855bb797"
+msgid "냉장고_B"
+msgstr ""
+
+msgctxt "369763b9824afe31b447da14b497307c"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n냉장고_B"
+msgstr ""
+
+msgctxt "f94baa375a971590a746d6e58f8240b7"
+msgid "ID=880501043"
+msgstr "ID=880501043"
+
+msgctxt "acbcbae5ecbb90f98fda3d410c554677"
+msgid "냉장고_C"
+msgstr ""
+
+msgctxt "a9a46b2f55433452807417b0eb1b2de6"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n냉장고_C"
+msgstr ""
+
+msgctxt "600aee8f3e4cc220f591ea10346d580c"
+msgid "ID=880501051"
+msgstr "ID=880501051"
+
+msgctxt "126e6d1cd7beb4e9203ba18fc322d540"
+msgid "식탁_A"
+msgstr ""
+
+msgctxt "deb575e699633538075b4557dc48c31d"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n식탁_A"
+msgstr ""
+
+msgctxt "ba8ea2b16e9cb30618996cc36d24177f"
+msgid "ID=880501052"
+msgstr "ID=880501052"
+
+msgctxt "584457d3b31ff27f40b4cfd43c21e77a"
+msgid "식탁_B"
+msgstr ""
+
+msgctxt "709782ef49f316aa3b336937efe4b873"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n식탁_B"
+msgstr ""
+
+msgctxt "3c63657e1df389ada18626c4afd61dcc"
+msgid "ID=880501053"
+msgstr "ID=880501053"
+
+msgctxt "7fae3327b1becf95f9630c75f8ecc120"
+msgid "식탁_C"
+msgstr ""
+
+msgctxt "d87067659f9e63ba3de30ac3442d138a"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n식탁_C"
+msgstr ""
+
+msgctxt "7be3be1ff1e802eb750e164df9111838"
+msgid "ID=880501061"
+msgstr "ID=880501061"
+
+msgctxt "f6599e6f59e06f1ad0bf6bc703547609"
+msgid "주방의자_A"
+msgstr ""
+
+msgctxt "d517e5da3be91280b9d4a1c53f91e000"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n주방의자_A"
+msgstr ""
+
+msgctxt "be4bf7ca18b110dfbb13688e3ef77261"
+msgid "ID=880501062"
+msgstr "ID=880501062"
+
+msgctxt "1b390596246379728558c7f6e1fac327"
+msgid "주방의자_B"
+msgstr ""
+
+msgctxt "a80cdd7b1569197ff9126fd695b248fd"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n주방의자_B"
+msgstr ""
+
+msgctxt "dd24cabe6988c76f28bde33c3bf0886c"
+msgid "ID=880501063"
+msgstr "ID=880501063"
+
+msgctxt "71d8430561b09b9ded76a7c6df1196df"
+msgid "주방의자_C"
+msgstr ""
+
+msgctxt "13a81faa9a12dbee2167d441abce484e"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n주방의자_C"
+msgstr ""
+
+msgctxt "233c55c41ee67dccb01e270fd6de3639"
+msgid "ID=880501071"
+msgstr "ID=880501071"
+
+msgctxt "4d9d6543168851f9ad374b7dacd6941f"
+msgid "주전자_A"
+msgstr ""
+
+msgctxt "0294258891af775f178a2cbb82f8043c"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n주전자_A"
+msgstr ""
+
+msgctxt "1f44e950b110eaab2bfb984a4881539b"
+msgid "ID=880501072"
+msgstr "ID=880501072"
+
+msgctxt "ea0c9e2b9812e9a14292f7a6bf418cfb"
+msgid "주전자_B"
+msgstr ""
+
+msgctxt "273b348fffd24f83cca96ab064d5abaf"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n주전자_B"
+msgstr ""
+
+msgctxt "d6ca8445170a98d43df5f38b354ddc5f"
+msgid "ID=880501073"
+msgstr "ID=880501073"
+
+msgctxt "374e272705a4092533039c734800fe89"
+msgid "주전자_C"
+msgstr ""
+
+msgctxt "d5b61f8c88a48f427565ab5479fe4f14"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n주전자_C"
+msgstr ""
+
+msgctxt "7eaa882184665ff5814f7b8115ddd400"
+msgid "ID=880501081"
+msgstr "ID=880501081"
+
+msgctxt "20d8efd7a19a317e8ae198423596eeb0"
+msgid "냄비_A"
+msgstr ""
+
+msgctxt "8f2fe3d9af6509ceb056bfeba6b052a7"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n냄비_A"
+msgstr ""
+
+msgctxt "555e6ca42c135b88a5d64c6705a73424"
+msgid "ID=880501082"
+msgstr "ID=880501082"
+
+msgctxt "853d770f4b006a3ee2178bd3ece4089c"
+msgid "냄비_B"
+msgstr ""
+
+msgctxt "75e860a965247d2dd6b79b2fa101bc4e"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n냄비_B"
+msgstr ""
+
+msgctxt "86495649d7bbd84f8f16c45f483e4f1b"
+msgid "ID=880501083"
+msgstr "ID=880501083"
+
+msgctxt "c2550b24f85f5af53e1100d7ba64476c"
+msgid "냄비_C"
+msgstr ""
+
+msgctxt "f27092c0f1366ea4d6f7c07910b0fb86"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n냄비_C"
+msgstr ""
+
+msgctxt "37a49eec1fe232feddfefa1688c4cb3c"
+msgid "ID=880501091"
+msgstr "ID=880501091"
+
+msgctxt "3700e305ccc08265c5d74990875cfa94"
+msgid "찻잔_A"
+msgstr ""
+
+msgctxt "39e22f84d050a2c35637da4163764c6e"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n찻잔_A"
+msgstr ""
+
+msgctxt "33127dac2e1cc947bf4f940f7c6b6176"
+msgid "ID=880501092"
+msgstr "ID=880501092"
+
+msgctxt "0900adfb9ab174a8dbc15a1be7ffe57b"
+msgid "찻잔_B"
+msgstr ""
+
+msgctxt "b926788bcc5849dd0d85df37245f60d5"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n찻잔_B"
+msgstr ""
+
+msgctxt "6f9dc2aac0ed03bc43a62d5768420b99"
+msgid "ID=880501093"
+msgstr "ID=880501093"
+
+msgctxt "bb783af04c72a4dd1dac7af0fd2f9652"
+msgid "찻잔_C"
+msgstr ""
+
+msgctxt "b19cd87e11b1d5e9d644c30cf4f539fa"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n찻잔_C"
+msgstr ""
+
+msgctxt "b909432f134266648c7c3e4650c13c3e"
+msgid "ID=880501101"
+msgstr "ID=880501101"
+
+msgctxt "c3e4366f7d538676b12977bd5555544f"
+msgid "그릇_A"
+msgstr ""
+
+msgctxt "851561805a1c71f19e720160e75664e3"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n그릇_A"
+msgstr ""
+
+msgctxt "c661e6de6ddfa0806699a504189fbaf4"
+msgid "ID=880501102"
+msgstr "ID=880501102"
+
+msgctxt "1cdf3fc7957f71c1b9dfb20ae9df9a34"
+msgid "그릇_B"
+msgstr ""
+
+msgctxt "2102ec62b5481f99600d8a914143f694"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n그릇_B"
+msgstr ""
+
+msgctxt "331db86053a23c1e0dc146963da60003"
+msgid "ID=880501103"
+msgstr "ID=880501103"
+
+msgctxt "cc703e637365de8e87f3822001eec41d"
+msgid "그릇_C"
+msgstr ""
+
+msgctxt "7f097df9f97246445beb022e3bb51434"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n그릇_C"
+msgstr ""
+
+msgctxt "a794e491cb84d747ffe3986855e46787"
+msgid "ID=880501111"
+msgstr "ID=880501111"
+
+msgctxt "88ec112965946adf32797fe86b13617e"
+msgid "조리도구_A"
+msgstr ""
+
+msgctxt "1e8ec008096d2af28f44cc048632e18c"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n조리도구_A"
+msgstr ""
+
+msgctxt "5551948e43b7f65bc5eef81abc2bc86e"
+msgid "ID=880501112"
+msgstr "ID=880501112"
+
+msgctxt "087ee9a55b8c1e28b82da23ca4e0f92b"
+msgid "조리도구_B"
+msgstr ""
+
+msgctxt "35738ed48838cfd62c5c05896dde507a"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n조리도구_B"
+msgstr ""
+
+msgctxt "b3e429a906a6e399e0b1a1d6ab3eaf17"
+msgid "ID=880501113"
+msgstr "ID=880501113"
+
+msgctxt "aafdf0e3ff62c384f80ad6f1f47f16fb"
+msgid "조리도구_C"
+msgstr ""
+
+msgctxt "138a3437ed18ccb8f29ad8108063556d"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n조리도구_C"
+msgstr ""
+
+msgctxt "60177a72a6ff2ce5eeed743e754f610a"
+msgid "ID=880501121"
+msgstr "ID=880501121"
+
+msgctxt "e9de70e30d571d02accba920a67e291f"
+msgid "주방걸이_A"
+msgstr ""
+
+msgctxt "50e783d05b3e3c8882851edf3bf615a6"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n주방걸이_A"
+msgstr ""
+
+msgctxt "431eeacdde7d47ebf03c088371d40547"
+msgid "ID=880501122"
+msgstr "ID=880501122"
+
+msgctxt "3a68355da738d1d6d635384b6e4b92a7"
+msgid "주방걸이_B"
+msgstr ""
+
+msgctxt "0a3a33b1e6c7f2d8866207764d9d5fdf"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n주방걸이_B"
+msgstr ""
+
+msgctxt "7eac76ac7b61a3e1cd183fbbb7476b12"
+msgid "ID=880501123"
+msgstr "ID=880501123"
+
+msgctxt "7e847c82adddb141f54a91534df200fe"
+msgid "주방걸이_C"
+msgstr ""
+
+msgctxt "18e1b57ccec46741d3b9b9fa42958acf"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n주방걸이_C"
+msgstr ""
+
+msgctxt "7c514ccfd88b6f36fbde58c6d6ab913f"
+msgid "ID=880319011"
+msgstr "ID=880319011"
+
+msgctxt "c0d2dbabd6ac5d68ce427e6903a8229c"
+msgid "썸머 바캉스 벽지"
+msgstr ""
+
+msgctxt "acb8f82adf5e4af2891ea0abbf5850f4"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"벽지. 벽을 바라보고 있으면 파도치는 소리가 들려올 것 같다."
+msgstr ""
+
+msgctxt "d0c8e2cdd425a610f39bd940e64c7197"
+msgid "ID=880319021"
+msgstr "ID=880319021"
+
+msgctxt "2cdc082d3dad7267d3f341685d9cace4"
+msgid "썸머 바캉스 바닥"
+msgstr ""
+
+msgctxt "2463a808a6d9abab51eec47ad5c24485"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"바닥재. 시원한 색상으로 칠해진 나무 바닥은 마치 휴양지의 별장에 온 것 같은 느낌을 준다."
+msgstr ""
+
+msgctxt "d28bfd7a8d124625f58d8bffbd144f1c"
+msgid "ID=880319041"
+msgstr "ID=880319041"
+
+msgctxt "84532d9d6e2f38a1632bbeaee703bad6"
+msgid "썸머 바캉스 테라스 도어"
+msgstr ""
+
+msgctxt "8fc350c5576559ac567e571ff5093a88"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"테라스 도어. 테라스 창문에 그려진 해변을 보고 있으면 정말로 여름 휴양을 온 것만 같은 기분이 들게 된다."
+msgstr ""
+
+msgctxt "7cf9ced67d7372719fd4677b81d451b7"
+msgid "ID=880319051"
+msgstr "ID=880319051"
+
+msgctxt "2425ac75762ee6abebf45e1a43bc8f37"
+msgid "썸머 바캉스 나무 창문"
+msgstr ""
+
+msgctxt "c29a3a6933d8e79c04c693c7e5248c10"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"나무 창문. 푸른 하늘과 하얀 구름이 유유자적한 여름 휴양의 풍미를 더해주고 있다."
+msgstr ""
+
+msgctxt "0b1898fcbc90f3a349d235e2828ce721"
+msgid "ID=880319061"
+msgstr "ID=880319061"
+
+msgctxt "e63b49e3c9b6d1c267cf200248b8a4a5"
+msgid "썸머 바캉스 도어"
+msgstr ""
+
+msgctxt "9edba66b47b5b2660e86e8feb504aa2c"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"도어. 산토로니라는 해양 도시의 전통 문으로 보고만 있어도 시원함이 느껴진다."
+msgstr ""
+
+msgctxt "c4f96cf5c0f138e288c66e57e1a7d3c3"
+msgid "ID=880319071"
+msgstr "ID=880319071"
+
+msgctxt "d26229eb0f20a77ca4e493653f4802d6"
+msgid "썸머 바캉스 매트"
+msgstr ""
+
+msgctxt "a3662e6d5f8cdd01058cafd44e052f85"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"매트. 모래사장으로 밀려드는 하얀 포말과 물결이 그려져 있다. 발을 올려놓는 것만으로도 시원함이 느껴진다."
+msgstr ""
+
+msgctxt "7342405be8be5a707f7df419763d0af4"
+msgid "ID=880319091"
+msgstr "ID=880319091"
+
+msgctxt "70a6107ad871ec58e2aecfc5e41b9145"
+msgid "서핑 보드 의자"
+msgstr ""
+
+msgctxt "d18351c0332b42a078c19c5ca0387ae7"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"보드 의자. 서핑 보드 형태로 만들어진 의자로 바 테이블과 같이 놓으면 해변의 바에 온 듯한 기분이 든다."
+msgstr ""
+
+msgctxt "41f9d2ec869951551c11eab7ccfddc0a"
+msgid "ID=880319101"
+msgstr "ID=880319101"
+
+msgctxt "605040c3e54b19c16dc5fb494a346d4c"
+msgid "서핑 보드 바 테이블"
+msgstr ""
+
+msgctxt "b31ada98b9a04181139f476f05e14d75"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"바 테이블. 서핑 보드 형태로 만들어진 바 테이블로 보드 의자와 칵테일 진열대를 놓으면 해변의 바에 온 듯한 기분이 든다."
+msgstr ""
+
+msgctxt "0c1045e6fa6f2c30aea3cf898421646d"
+msgid "ID=880319111"
+msgstr "ID=880319111"
+
+msgctxt "994f43328353465276b8c2d5cb62fd5f"
+msgid "서핑 보드 칵테일 진열대"
+msgstr ""
+
+msgctxt "760fc5b35c844b032637d9361c2a6057"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"칵테일 진열대. 서핑 보드 형태의 진열대로 여름에 어울리는 다양한 음료와 칵테일이 놓여있다. 직사광선에는 주의할 것."
+msgstr ""
+
+msgctxt "b34d6ec8ae43a9010484dfdbfa6c1c9b"
+msgid "ID=880319121"
+msgstr "ID=880319121"
+
+msgctxt "69b4322c731e5a1165c73a6e0490512b"
+msgid "썸머 바캉스 간이 수영장"
+msgstr ""
+
+msgctxt "c2ee01e86aa62ef17b66ec667df164e0"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"간이 수영장. 휴양지로 갈 수 없는 사람들을 위해 준비한 간이 수영장이지만 여러 사람이 이용하기엔 너무 좁다."
+msgstr ""
+
+msgctxt "fe5ab7b9f3a4b7af0386cc84de568519"
+msgid "ID=880319141"
+msgstr "ID=880319141"
+
+msgctxt "8c7c6e2280f0b9f187997f8c2e195634"
+msgid "썸머 바캉스 칵테일"
+msgstr ""
+
+msgctxt "4326f56343ac85e0abf0cc3f96284443"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"칵테일. 너무 많이 마시면 취할 수 있으니 주의할 필요가 있다."
+msgstr ""
+
+msgctxt "bd29d8a341d01acb6adc0f5cf2d42851"
+msgid "ID=880319161"
+msgstr "ID=880319161"
+
+msgctxt "13e1f0b63c12a3bd4ee5b4ce1735b33c"
+msgid "썸머 바캉스 야자수"
+msgstr ""
+
+msgctxt "acef032e8ca7da2c983a6d00e7d57035"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"야자수. 여름 휴양지의 야자수를 그대로 옮겨왔다. 살아있는 나무이므로 관리에 주의를 기울일 것."
+msgstr ""
+
+msgctxt "5607bb3281987554d9fc8581b5d58e89"
+msgid "ID=880319181"
+msgstr "ID=880319181"
+
+msgctxt "81502bb60e2c41532fb2407c201ec0ed"
+msgid "썸머 바캉스 천장"
+msgstr ""
+
+msgctxt "01d2c1226deeba4dcc2b724b05d8455b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n여름 휴양지에 온 것 같은 느낌을 주는 "
+"천장. 청명한 푸른 하늘이 그려진 천장을 보고 있으면 마음까지 청아해지는 것 같다."
+msgstr ""
+
+msgctxt "56a404afd5f100aaa22425ce88f260b9"
+msgid "ID=880313011"
+msgstr "ID=880313011"
+
+msgctxt "6dd741e0872b14e0b323ed82b5d1fb8a"
+msgid "아쿠아 벽지[A]"
+msgstr ""
+
+msgctxt "4e604dd1d76b092ebef93a7835a76d60"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 벽지이다. 마치 심해 "
+"속에서 잠수하고 있는 듯한 느낌이다. 잠수복만 있다면 더욱 완벽하다!"
+msgstr ""
+
+msgctxt "feba0a2605bbb90bd061f81593442186"
+msgid "ID=880313012"
+msgstr "ID=880313012"
+
+msgctxt "fee6d395a48f98bcb5ae76f815838541"
+msgid "아쿠아 벽지[B]"
+msgstr ""
+
+msgctxt "b5ae64a603b48bf7b21c9db5e82b5841"
+msgid "ID=880313013"
+msgstr "ID=880313013"
+
+msgctxt "d249ea50e0d814386b084ca6c9e776dc"
+msgid "아쿠아 벽지[C]"
+msgstr ""
+
+msgctxt "8fba33eaa2dcc65aaeddc6298e57f5a9"
+msgid "ID=880313021"
+msgstr "ID=880313021"
+
+msgctxt "08a9778a24cd97cbb05ce94d03e4023c"
+msgid "아쿠아 바닥[A]"
+msgstr ""
+
+msgctxt "27640430bd70b1763f25a0c4a4d7d354"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 바닥재다. 마치 심해 "
+"속에서 잠수하고 있는 듯한 느낌이다. 잠수복만 있다면 더욱 완벽하다!"
+msgstr ""
+
+msgctxt "f19d9c2bc17018153b2988ed5bede412"
+msgid "ID=880313022"
+msgstr "ID=880313022"
+
+msgctxt "436de5bc5d61a73a4e922750b11d1cde"
+msgid "아쿠아 바닥[B]"
+msgstr ""
+
+msgctxt "501ea5d4e245e978d272f0aea1cfbc16"
+msgid "ID=880313023"
+msgstr "ID=880313023"
+
+msgctxt "3f911ce7ea5ade9587d5de1ec8645f54"
+msgid "아쿠아 바닥[C]"
+msgstr ""
+
+msgctxt "f9a7ea9145b96137c327b3bc8550e16f"
+msgid "ID=880313031"
+msgstr "ID=880313031"
+
+msgctxt "484cf0dc0f66126582f949ac72759716"
+msgid "닷 장식[A]"
+msgstr ""
+
+msgctxt "9fb0759c493c0a98ffe637f3dec2f206"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 닷 장식이다. 오랫동안 "
+"바닷 속에 있었던 것인지 심하게 부식되어 있다."
+msgstr ""
+
+msgctxt "b8df72361c19d1c2b332cf4ce33c5b18"
+msgid "ID=880313032"
+msgstr "ID=880313032"
+
+msgctxt "371bb593243daccc4dee8955a9915ce5"
+msgid "닷 장식[B]"
+msgstr ""
+
+msgctxt "456ea81364cf18a58b847bed004f0d9b"
+msgid "ID=880313033"
+msgstr "ID=880313033"
+
+msgctxt "2c5384204d7074efbbdcec7d874d4021"
+msgid "닷 장식[C]"
+msgstr ""
+
+msgctxt "644bbe80a2c3bffb72201bb1ae93f7de"
+msgid "ID=880313041"
+msgstr "ID=880313041"
+
+msgctxt "6f2d41e37fbc48675fa471ec4db7e02d"
+msgid "수중 유적 테라스 도어[A]"
+msgstr ""
+
+msgctxt "e0a991d95792893be45246754c36a02b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 테라스 도어다. 오랜 "
+"기간 바닷 속에 잠겨 있던 유적을 그대로 옮겨 놓은 것 같다."
+msgstr ""
+
+msgctxt "d70aaf58d53aa05eb2053821f3ed03a8"
+msgid "ID=880313042"
+msgstr "ID=880313042"
+
+msgctxt "0a778bc512db96628881d29fa92f0bc4"
+msgid "수중 유적 테라스 도어[B]"
+msgstr ""
+
+msgctxt "f422d3ca3a6eada41bf6d1d7cfe7748d"
+msgid "ID=880313043"
+msgstr "ID=880313043"
+
+msgctxt "ee534665638086ab6b7f3041362ff711"
+msgid "수중 유적 테라스 도어[C]"
+msgstr ""
+
+msgctxt "237e25928ed242aeabc74b3f3ecefc87"
+msgid "ID=880313051"
+msgstr "ID=880313051"
+
+msgctxt "22f21f7ba9756457fda7362d1cfb9049"
+msgid "수중 유적 창문[A]"
+msgstr ""
+
+msgctxt "84780e352d76e00637e0f1e607091a3b"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 창문이다. 오랜 기간 "
+"바닷 속에 잠겨 있던 유적을 그대로 옮겨 놓은 것 같다."
+msgstr ""
+
+msgctxt "af684b708d4c75246a5f19e7ccd4e6d1"
+msgid "ID=880313052"
+msgstr "ID=880313052"
+
+msgctxt "538b2b71ac9b9f0cf8fbb94ca59e478a"
+msgid "수중 유적 창문[B]"
+msgstr ""
+
+msgctxt "0363b8c364adf6680af0b31dbc5a995e"
+msgid "ID=880313053"
+msgstr "ID=880313053"
+
+msgctxt "0f3b30b2d93121d39ef14bba6b39e1df"
+msgid "수중 유적 창문[C]"
+msgstr ""
+
+msgctxt "d8b6e1cdf65a4c1d3a92f6a9c14c54e5"
+msgid "ID=880313071"
+msgstr "ID=880313071"
+
+msgctxt "9ccb101ccf1fe344539b7660972fadb8"
+msgid "불가사리 매트[A]"
+msgstr ""
+
+msgctxt "83bd9f34c4f211d0235e99808d11c2dd"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 매트다. 바다 속이라면 "
+"어디든지 살아가는 불가사리처럼 어느 방에 놓아도 잘 어울릴 것 같다."
+msgstr ""
+
+msgctxt "6f1a8b6f29ee62dd8ca56da0bf4399a7"
+msgid "ID=880313072"
+msgstr "ID=880313072"
+
+msgctxt "ef8b3fc4dec19103a659a9457a2a9600"
+msgid "불가사리 매트[B]"
+msgstr ""
+
+msgctxt "22769fa11a0d4cf01f8950ce971c72d3"
+msgid "ID=880313073"
+msgstr "ID=880313073"
+
+msgctxt "1f861dc3cb0e76b3390d68d50fcd7bf9"
+msgid "불가사리 매트[C]"
+msgstr ""
+
+msgctxt "2a87d1d7bb20be520771772919edf4c1"
+msgid "ID=880313081"
+msgstr ""
+
+msgctxt "f268248f7a83a1b79c7ff7d4954107c2"
+msgid "오징어 침대[A]"
+msgstr ""
+
+msgctxt "e491446d47a5d7507308b00e643018a8"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 침대다. 대왕 오징어의 "
+"머리라면 충분히 잠들 수 있을 것 같지만 미끄러지지 않도록 주의가 필요하다."
+msgstr ""
+
+msgctxt "b52bca8e9776e99387669b0ea30a7050"
+msgid "ID=880313082"
+msgstr "ID=880313082"
+
+msgctxt "d031e6d182b6a77def75b72e942e87f7"
+msgid "오징어 침대[B]"
+msgstr ""
+
+msgctxt "59a506afc95622caf1a8df9493b84a86"
+msgid "ID=880313083"
+msgstr "ID=880313083"
+
+msgctxt "016704fd9bc41140504d0560114d58a1"
+msgid "오징어 침대[C]"
+msgstr ""
+
+msgctxt "2096cf060f4cfaabf533e35c3c095c9d"
+msgid "ID=880313091"
+msgstr "ID=880313091"
+
+msgctxt "cc32828f8218b8915320089e45b2cf0a"
+msgid "소라껍질 의자[A]"
+msgstr ""
+
+msgctxt "889af1ed1812ac4cca877f80fea1bf3a"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 의자다. 소라껍질 안에 "
+"앉아 있으면 생각보다 매우 아늑함을 느낄 수 있다!"
+msgstr ""
+
+msgctxt "bdd3b320f0a52507b0358cfa95e29802"
+msgid "ID=880313092"
+msgstr "ID=880313092"
+
+msgctxt "934379e1291801f2611554f9ba397871"
+msgid "소라껍질 의자[B]"
+msgstr ""
+
+msgctxt "2317bd6d0c69d312676a60832dc206e4"
+msgid "ID=880313093"
+msgstr "ID=880313093"
+
+msgctxt "19f5169a7b0b01089033b54f5cfcd32d"
+msgid "소라껍질 의자[C]"
+msgstr ""
+
+msgctxt "190b4f20ce7e0024ef3afa3fa79e731b"
+msgid "ID=880313101"
+msgstr "ID=880313101"
+
+msgctxt "d684863dd699a7985fb00d462e4a5a12"
+msgid "고래 테이블[A]"
+msgstr ""
+
+msgctxt "47428f918d86080ef002afef6ca62dfb"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 테이블이다. 고래의 "
+"모습이 어디서 많이 본 친숙한 과자의 느낌이 든다."
+msgstr ""
+
+msgctxt "5cbcc73c678f5de73431ed215d047303"
+msgid "ID=880313102"
+msgstr "ID=880313102"
+
+msgctxt "af24caf6d9ce60f67286ac25f8f47bdf"
+msgid "고래 테이블[B]"
+msgstr ""
+
+msgctxt "367b28eaf7e69486c50c8efba1015893"
+msgid "ID=880313103"
+msgstr "ID=880313103"
+
+msgctxt "410af00247afd71a6665658aa7e7572d"
+msgid "고래 테이블[C]"
+msgstr ""
+
+msgctxt "51f214c68a8d08cb79e1f63460f16d8d"
+msgid "ID=880313111"
+msgstr "ID=880313111"
+
+msgctxt "61fb7895603627ed4e6015e50c406153"
+msgid "산호초 장식장[A]"
+msgstr ""
+
+msgctxt "8f102f2bd0bd27d5a2d0b38db574d876"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 장식장이다. 다채로운 "
+"색상의 산호초가 심해 속에 숨겨진 아름다움을 보여준다."
+msgstr ""
+
+msgctxt "7b3ebb448a18f316ee1af1cc897a368e"
+msgid "ID=880313112"
+msgstr "ID=880313112"
+
+msgctxt "ec26b960391b13cb229764dfce3d979a"
+msgid "산호초 장식장[B]"
+msgstr ""
+
+msgctxt "b23d79bf825ef9934720ca599dc8c0fd"
+msgid "ID=880313113"
+msgstr "ID=880313113"
+
+msgctxt "c7969c286c7525eddf89a84081fbd827"
+msgid "산호초 장식장[C]"
+msgstr ""
+
+msgctxt "3118aed4f738b656820d6ac10a72f6fb"
+msgid "ID=880313121"
+msgstr "ID=880313121"
+
+msgctxt "630e44e36676e4db5c9e8252f6e10ce7"
+msgid "흰 수염 고래 욕조[A]"
+msgstr ""
+
+msgctxt "fbb28aba0207c0b846b8c7313a848831"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 욕조다. 가끔 물을 "
+"밖으로 내뿜기도 하니 이용에 주의할 것."
+msgstr ""
+
+msgctxt "bdb017ac07321b26c43d3d5cc301431d"
+msgid "ID=880313122"
+msgstr "ID=880313122"
+
+msgctxt "b904e5571bbc53cfc5216b863dd5d1a8"
+msgid "흰 수염 고래 욕조[B]"
+msgstr ""
+
+msgctxt "01621ed90789c10a33d12f44a26f701e"
+msgid "ID=880313123"
+msgstr "ID=880313123"
+
+msgctxt "597bfdaf4b7087569adb79d3f53815f3"
+msgid "흰 수염 고래 욕조[C]"
+msgstr ""
+
+msgctxt "5293fc21a779dab0f78986b22f3f5e3e"
+msgid "ID=880313141"
+msgstr "ID=880313141"
+
+msgctxt "0e6bc493fc1dd4552d18ffc9bbed9c3f"
+msgid "초롱 아귀 랜턴[A]"
+msgstr ""
+
+msgctxt "56ca5452553bfd85e54fc7eb65840615"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 랜턴이다. 이 랜턴은 "
+"불빛에 모여든 벌레들을 잡아먹는 기능이 있다고 하니 함부로 손을 대지 말자."
+msgstr ""
+
+msgctxt "979f733358fb88ddf6decdb995e89ec6"
+msgid "ID=880313142"
+msgstr "ID=880313142"
+
+msgctxt "9cf186166544b0e5c73eeaa223d63499"
+msgid "초롱 아귀 랜턴[B]"
+msgstr ""
+
+msgctxt "634be8791bdafce5a0dc5c0b23a54af9"
+msgid "ID=880313143"
+msgstr "ID=880313143"
+
+msgctxt "b24208b22b8c7f55e1104be8f539d685"
+msgid "초롱 아귀 랜턴[C]"
+msgstr ""
+
+msgctxt "05b6332fe0b769735c851e2bd77089b8"
+msgid "ID=880313151"
+msgstr ""
+
+msgctxt "007bff592428c09d4e3846c6be389b7a"
+msgid "펭귄 장식[A]"
+msgstr ""
+
+msgctxt "90abeaeb999764e36505df274571f43d"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 장식이다. 가끔 길 잃은 "
+"팽귄이 엉뚱한 곳에 나타난다는 소문이 있던데 심해 속이라니...."
+msgstr ""
+
+msgctxt "17c27454562e89e6515996e7c61a65c5"
+msgid "ID=880313152"
+msgstr "ID=880313152"
+
+msgctxt "867689f2ed515f98e92460851873a8a6"
+msgid "펭귄 장식[B]"
+msgstr ""
+
+msgctxt "b8dcc02453a5ba79300ab83c042bc6fa"
+msgid "ID=880313153"
+msgstr "ID=880313153"
+
+msgctxt "3ae9d220c8c242e82c7ae2093724a898"
+msgid "펭귄 장식[C]"
+msgstr ""
+
+msgctxt "197180767af96c0b0128b6cf4975f4b7"
+msgid "ID=880313161"
+msgstr "ID=880313161"
+
+msgctxt "d10583d56dc2fd151e678024046bd298"
+msgid "낡고 이끼 낀 보물 상자[A]"
+msgstr ""
+
+msgctxt "212feaa4577b6f4c0f1e90523fee1d85"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 장식이다. 수많은 "
+"해적들이 노리는 보물. 이것을 가지면 해적왕이 될 수 있다고 한다."
+msgstr ""
+
+msgctxt "7a6f2ae9589c623b46c6a4727bf585ed"
+msgid "ID=880313162"
+msgstr "ID=880313162"
+
+msgctxt "667742bf11328f9d05e4b40e9941dd22"
+msgid "낡고 이끼 낀 보물 상자[B]"
+msgstr ""
+
+msgctxt "c6723d6e6d0226375ddeb8ad2cd74bf7"
+msgid "ID=880313163"
+msgstr "ID=880313163"
+
+msgctxt "ee4b5d5d9bc1bba3534b83156a15dbfd"
+msgid "낡고 이끼 낀 보물 상자[C]"
+msgstr ""
+
+msgctxt "690851ab150bdaed57de7cc735c18cb7"
+msgid "ID=880313171"
+msgstr "ID=880313171"
+
+msgctxt "c43c2e24aea50d394fd441bec4fdb77f"
+msgid "문어 샤워 부스[A]"
+msgstr ""
+
+msgctxt "b04a74c09a5c2d65e9a15babbd7efff0"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 샤워 부스다. 먹물을 "
+"뿜지는 않으니 걱정하지 말고 샤워하자."
+msgstr ""
+
+msgctxt "4f650a0a63621e5a41e2d8ab43fe56f8"
+msgid "ID=880313172"
+msgstr "ID=880313172"
+
+msgctxt "606552612e79754718ff8b5cf39496ab"
+msgid "문어 샤워 부스[B]"
+msgstr ""
+
+msgctxt "8b00422cab074ef1152e8a32723dcba0"
+msgid "ID=880313173"
+msgstr "ID=880313173"
+
+msgctxt "4b2024bfe4f4cd2964402c3dad7f13b5"
+msgid "문어 샤워 부스[C]"
+msgstr ""
+
+msgctxt "3792bf284d8481ff9530a676cfddbef0"
+msgid "ID=880313181"
+msgstr "ID=880313181"
+
+msgctxt "3f8a4726ea4c8dbc65e455f793f4410e"
+msgid "아쿠아 천장[A]"
+msgstr ""
+
+msgctxt "727a94873319cb59643b107308698020"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 천장이다. 마치 심해 "
+"속에서 잠수하고 있는 듯한 느낌이다. 잠수복만 있다면 더욱 완벽하다!"
+msgstr ""
+
+msgctxt "e79d3220c587a2c86fb7eadefeb3bf7b"
+msgid "ID=880313182"
+msgstr "ID=880313182"
+
+msgctxt "f43844d32f28da0f4c2f20c727bb7dd9"
+msgid "아쿠아 천장[B]"
+msgstr ""
+
+msgctxt "d8bd1ba621b178543cf216841badfb75"
+msgid "ID=880313183"
+msgstr "ID=880313183"
+
+msgctxt "f3ca6341dca32545064671cb4ca08eae"
+msgid "아쿠아 천장[C]"
+msgstr ""
+
+msgctxt "2ebe54450f2799b8718bb77743d18cd9"
+msgid "ID=880313061"
+msgstr "ID=880313061"
+
+msgctxt "d9c2de8d0996d9a4c05fc86eb39aa6d6"
+msgid "수중 유적 도어[A]"
+msgstr ""
+
+msgctxt "793f397b9ed718af072bc398df3a99c6"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n아쿠아 시리즈의 도어다. 오랜 기간 바닷 "
+"속에 잠겨 있던 유적을 그대로 옮겨 놓은 것 같다."
+msgstr ""
+
+msgctxt "92e52929e270b12116bfa761465e80f3"
+msgid "ID=880313062"
+msgstr "ID=880313062"
+
+msgctxt "70fc6b5e5736ee32ab7793d579fabdfb"
+msgid "수중 유적 도어[B]"
+msgstr ""
+
+msgctxt "603f01975cececffdcdb0623a49afeb1"
+msgid "ID=880313063"
+msgstr "ID=880313063"
+
+msgctxt "751da0c46fdd374944bca4bbd0716913"
+msgid "수중 유적 도어[C]"
+msgstr ""
+
+msgctxt "10e8d36913168d43517c641740a73288"
+msgid "ID=880309146"
+msgstr "ID=880309146"
+
+msgctxt "45ecb3be4c03bb8bbd5f4a6316d77741"
+msgid "황금 트로피"
+msgstr ""
+
+msgctxt "5f85d1c3f9113340eff3b9e6f3680b1e"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n황금으로 만들어진 트로피. 마이룸을 가장 "
+"잘 꾸민 사람을 투표로 정하여 1등인 유저에게 수여하는 트로피이다."
+msgstr ""
+
+msgctxt "fd995d2add9807af3e2cc9e6ff8939e8"
+msgid "ID=880309147"
+msgstr "ID=880309147"
+
+msgctxt "4778dde9726c9118df6e512d68a8c1ce"
+msgid "은 트로피"
+msgstr ""
+
+msgctxt "0cf01f3cfa58c36c461f57e3f857a1af"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n은으로 만들어진 트로피. 마이룸을 가장 "
+"잘 꾸민 사람을 투표로 정하여 2등인 유저에게 수여하는 트로피이다."
+msgstr ""
+
+msgctxt "5501ccbc5d2b165561a512bf9d7eae34"
+msgid "ID=880309148"
+msgstr ""
+
+msgctxt "e0bbc5995cde42f60b02e490b002026c"
+msgid "동 트로피"
+msgstr ""
+
+msgctxt "3d8e2af510c2a14f720ae1e97d657311"
+msgid ""
+"<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n황동으로 만들어진 트로피. 마이룸을 가장 "
+"잘 꾸민 사람을 투표로 정하여 3등인 유저에게 수여하는 트로피이다."
+msgstr ""
+
+msgctxt "f3590836b8fca817458e6870287f1b50"
+msgid "ID=880307011"
+msgstr "ID=880307011"
+
+msgctxt "e0d53cd6bfca1acbe7cf32500a8e03d8"
+msgid "매지컬 벽지[A]"
+msgstr ""
+
+msgctxt "09b11c5f0d718a04e52099030e0e2add"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 벽지 [A]"
+msgstr ""
+
+msgctxt "5f0b2abdd4f3d498db15af59e7cfaace"
+msgid "ID=880307012"
+msgstr "ID=880307012"
+
+msgctxt "d4b33cb812f4fb2af91279c130b321cc"
+msgid "매지컬 벽지[B]"
+msgstr ""
+
+msgctxt "e77d325a7db423920815bc3f12de8437"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 벽지 [B]"
+msgstr ""
+
+msgctxt "1f9e66a5671df1632b96013da72e129c"
+msgid "ID=880307013"
+msgstr "ID=880307013"
+
+msgctxt "93e8611bece0157918bb737af9b135f6"
+msgid "매지컬 벽지[C]"
+msgstr ""
+
+msgctxt "10deeeaf9c5ea9edd6d8447a34beb615"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 벽지 [C]"
+msgstr ""
+
+msgctxt "748047ffb292d29205ed3f8a19397013"
+msgid "ID=880307021"
+msgstr "ID=880307021"
+
+msgctxt "ac2788dceb0e28d80d39142e21d0fb9f"
+msgid "매지컬 타일[A]"
+msgstr ""
+
+msgctxt "94b91df16dfe0327f0ee6e3eddaeaf04"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 타일 [A]"
+msgstr ""
+
+msgctxt "97da988d1d0001cf73e8ba06df00b448"
+msgid "ID=880307022"
+msgstr "ID=880307022"
+
+msgctxt "9ab05280818d66030bbc36326fdacd6c"
+msgid "매지컬 타일[B]"
+msgstr ""
+
+msgctxt "99927cc911278028c59c3eaa79e59d1c"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 타일 [B]"
+msgstr ""
+
+msgctxt "1acc435f8ee64015f61eca7b23e26dd2"
+msgid "ID=880307023"
+msgstr "ID=880307023"
+
+msgctxt "d15796944da6851e395c4129a604a51c"
+msgid "매지컬 타일[C]"
+msgstr ""
+
+msgctxt "d8130fa028813437797d9a8caf2cd4c6"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 타일 [C]"
+msgstr ""
+
+msgctxt "678d51c6a7ab5f07533fda8d308d6452"
+msgid "ID=880307031"
+msgstr "ID=880307031"
+
+msgctxt "ddbc482df0899a62a3d864fbbee8b06b"
+msgid "매지컬 미러[A]"
+msgstr ""
+
+msgctxt "fb7a3a807668f899205ffc4d379f069a"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 미러 [A]"
+msgstr ""
+
+msgctxt "a1f00154b5f8c61472e16495b9547604"
+msgid "ID=880307032"
+msgstr "ID=880307032"
+
+msgctxt "fd0e674bd450b530131d416c473e24d1"
+msgid "매지컬 미러[B]"
+msgstr ""
+
+msgctxt "0a2b4a71e54ac78fba39579130c771dc"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 미러 [B]"
+msgstr ""
+
+msgctxt "b06fd1a5ad235f07aefcda610de08e27"
+msgid "ID=880307033"
+msgstr "ID=880307033"
+
+msgctxt "0d4898a971a11cee47a219399ef41f1c"
+msgid "매지컬 미러[C]"
+msgstr ""
+
+msgctxt "c707641ed6c1ba17f47496ed7ea7e4f9"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 미러 [C]"
+msgstr ""
+
+msgctxt "5cebb49389353e3e4d1d5d49233e5b2a"
+msgid "ID=880307041"
+msgstr "ID=880307041"
+
+msgctxt "bd09abe2d9637bc6baa11433a2fa1126"
+msgid "매지컬 테라스문[A]"
+msgstr ""
+
+msgctxt "991da30aa849672ca6b4be21d95d48ed"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 테라스문 [A]"
+msgstr ""
+
+msgctxt "7a976134db969fb64d31e34a4a7229ec"
+msgid "ID=880307042"
+msgstr "ID=880307042"
+
+msgctxt "ce97cb6de57ac41a2bc0af3ee2594e26"
+msgid "매지컬 테라스문[B]"
+msgstr ""
+
+msgctxt "9d69e6cbe543fcd59254ea71550aaf70"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 테라스문 [B]"
+msgstr ""
+
+msgctxt "1e383c87d53b2438c54b1d913953f8b2"
+msgid "ID=880307043"
+msgstr "ID=880307043"
+
+msgctxt "30280905f369be13cd759a40469b0c67"
+msgid "매지컬 테라스문[C]"
+msgstr ""
+
+msgctxt "bb81892e98c472d8ae03658fe2d09fd4"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 테라스문 [C]"
+msgstr ""
+
+msgctxt "0b7b38eec713d3d73a6f09788e28ba72"
+msgid "ID=880307051"
+msgstr "ID=880307051"
+
+msgctxt "6478418d96f505b7bdf51289f7c07e54"
+msgid "매지컬 윈도우[A]"
+msgstr ""
+
+msgctxt "8b9d6dda383624fdef05889738c56e12"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 윈도우 [A]"
+msgstr ""
+
+msgctxt "ec8197b392ee17171e1879e2c18c98db"
+msgid "ID=880307052"
+msgstr "ID=880307052"
+
+msgctxt "1ddb0749ba0821f84f0fb5d1cc0a8d95"
+msgid "매지컬 윈도우[B]"
+msgstr ""
+
+msgctxt "d7c5ce700c77f28018e7b9feef683021"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 윈도우 [B]"
+msgstr ""
+
+msgctxt "c9764078986c6d4110919676494512c6"
+msgid "ID=880307053"
+msgstr "ID=880307053"
+
+msgctxt "da4f6e655fee453564f0346250664df2"
+msgid "매지컬 윈도우[C]"
+msgstr ""
+
+msgctxt "78f2e07b39e585f16ec829ddbf1de3ed"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 윈도우 [C]"
+msgstr ""
+
+msgctxt "b69613e359c5813dc043b0ed9b9c4a9f"
+msgid "ID=880307071"
+msgstr "ID=880307071"
+
+msgctxt "3a4c9d6fd1f873d02666823d05aba126"
+msgid "마법진 카펫[A]"
+msgstr ""
+
+msgctxt "1be8d831156d549c391017cb9f7d6af6"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n마법진 카펫 [A]"
+msgstr ""
+
+msgctxt "d430a4dbd8540a825bf78f6db8b325ff"
+msgid "ID=880307072"
+msgstr "ID=880307072"
+
+msgctxt "a30666550393ae2bc95a3286a713aeba"
+msgid "마법진 카펫[B]"
+msgstr ""
+
+msgctxt "3a18d344fea8a9db47f9c664434f4511"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n마법진 카펫 [B]"
+msgstr ""
+
+msgctxt "06c874f61bfc6b5409794ba01c1f2fc3"
+msgid "ID=880307073"
+msgstr "ID=880307073"
+
+msgctxt "e905ba639c6f8f5cdb28b3cd07cc54cc"
+msgid "마법진 카펫[C]"
+msgstr ""
+
+msgctxt "96be477e20e80d89ca4aadfeba23cea4"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n마법진 카펫 [C]"
+msgstr ""
+
+msgctxt "ad8d9844410c1529301e56a08d8ea4f2"
+msgid "ID=880307081"
+msgstr "ID=880307081"
+
+msgctxt "5c1c2c21e5deeedb5ef4d78249c0f403"
+msgid "매지컬 침대[A]"
+msgstr ""
+
+msgctxt "4b9ca48cbdc1ac1e812a41e245831380"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 침대 [A]"
+msgstr ""
+
+msgctxt "6e961a570ce2b9819dd9827f485d34ab"
+msgid "ID=880307082"
+msgstr "ID=880307082"
+
+msgctxt "e27ecf8d7fd121c9cf72de9779f13db5"
+msgid "매지컬 침대[B]"
+msgstr ""
+
+msgctxt "9145724671b664ec4b2472c7f3e3e90e"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 침대 [B]"
+msgstr ""
+
+msgctxt "b94061bea45be8f070f4c392fc13a0bb"
+msgid "ID=880307083"
+msgstr "ID=880307083"
+
+msgctxt "47dcceb73fb2bc6fa26d6cfe59092a38"
+msgid "매지컬 침대[C]"
+msgstr ""
+
+msgctxt "48d0f5e93c6efeb4f8e090b16b467205"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 침대 [C]"
+msgstr ""
+
+msgctxt "b4f061d22d1118b813fe78d9659936f2"
+msgid "ID=880307091"
+msgstr "ID=880307091"
+
+msgctxt "5392c4aea5e6cc3022e0004b4798ef64"
+msgid "매지컬 의자[A]"
+msgstr ""
+
+msgctxt "7303278f9c34587a33eda3d71e84694c"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 의자 [A]"
+msgstr ""
+
+msgctxt "578158cfded2fb9e063cc2e6ed183b61"
+msgid "ID=880307092"
+msgstr "ID=880307092"
+
+msgctxt "778b8958b7f5e652366168a8ab470a2d"
+msgid "매지컬 의자[B]"
+msgstr ""
+
+msgctxt "6b6d43525ac5ac56a08bd71c9a6736ac"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 의자 [B]"
+msgstr ""
+
+msgctxt "c8b235429bbe388cc7136336ce4e6e43"
+msgid "ID=880307093"
+msgstr "ID=880307093"
+
+msgctxt "613892f660458e383cca348c602d9e61"
+msgid "매지컬 의자[C]"
+msgstr ""
+
+msgctxt "f49a7618163014af10cbaa3b46951a5a"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 의자 [C]"
+msgstr ""
+
+msgctxt "c5070083c5b6a86e62f6293c25d1e9a3"
+msgid "ID=880307101"
+msgstr "ID=880307101"
+
+msgctxt "f552b592e6ab313f7172768352344641"
+msgid "매지컬 책상[A]"
+msgstr ""
+
+msgctxt "dba99a805539502d36c521da46b84a95"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 책상 [A]"
+msgstr ""
+
+msgctxt "d8cd3a199747ee28c4885055a31bf9eb"
+msgid "ID=880307102"
+msgstr "ID=880307102"
+
+msgctxt "ffc51e483a73e1bfd68535292610a179"
+msgid "매지컬 책상[B]"
+msgstr ""
+
+msgctxt "7dc45b96bc80be93c52d356ee0eca13f"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 책상 [B]"
+msgstr ""
+
+msgctxt "2221d009d332f9821fea42b10f11b6c5"
+msgid "ID=880307103"
+msgstr "ID=880307103"
+
+msgctxt "c4dbb146afb7722e3bc48c0d3645858a"
+msgid "매지컬 책상[C]"
+msgstr ""
+
+msgctxt "60c4ab1dbe92b2f2a032c0fe30565761"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 책상 [C]"
+msgstr ""
+
+msgctxt "c50e18f00d42f9d446a43238953aa538"
+msgid "ID=880307111"
+msgstr "ID=880307111"
+
+msgctxt "c2dc311fddc8533ac336ef12c1a419e0"
+msgid "매지컬 화장대[A]"
+msgstr ""
+
+msgctxt "4e1b9ea9634fbb742ba6a42dfd065b5a"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 화장대 [A]"
+msgstr ""
+
+msgctxt "43c4db5d6420ec23cdc57abe0c29185d"
+msgid "ID=880307112"
+msgstr "ID=880307112"
+
+msgctxt "67ba221cf89c342983d6f3e1d3e9cb9a"
+msgid "매지컬 화장대[B]"
+msgstr ""
+
+msgctxt "b130dc3505aef44219a22266768cbbe3"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 화장대 [B]"
+msgstr ""
+
+msgctxt "feefa84eb821edb195ea3ea9a052f319"
+msgid "ID=880307113"
+msgstr "ID=880307113"
+
+msgctxt "9a1f6123d8abf1513942283f7dedac98"
+msgid "매지컬 화장대[C]"
+msgstr ""
+
+msgctxt "c6df309f1ac497c9ec0566a71b73b364"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 화장대 [C]"
+msgstr ""
+
+msgctxt "c6d0bb39ff08de3e50554b76952ca900"
+msgid "ID=880307121"
+msgstr "ID=880307121"
+
+msgctxt "920bbbe19d50f48fa8da2695cd43dab1"
+msgid "매지컬 욕조[A]"
+msgstr ""
+
+msgctxt "ae593c9a22b01ee074d959132fae00d0"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 욕조 [A]"
+msgstr ""
+
+msgctxt "4fa96e77ef43c98b0bd4b8d52160fb44"
+msgid "ID=880307122"
+msgstr "ID=880307122"
+
+msgctxt "8fbfde349191cc9f132c71e86bc9be6d"
+msgid "매지컬 욕조[B]"
+msgstr ""
+
+msgctxt "9f3586b75223acd1abae29a2900003bc"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 욕조 [B]"
+msgstr ""
+
+msgctxt "553d43f3fdf07ed18e54e15a02c53d0b"
+msgid "ID=880307123"
+msgstr "ID=880307123"
+
+msgctxt "d772db1979c5305e9f4a6182460138f2"
+msgid "매지컬 욕조[C]"
+msgstr ""
+
+msgctxt "a77424accc03ae34f20f960bec4f98f7"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 욕조 [C]"
+msgstr ""
+
+msgctxt "3dc91d79f64d0ab0063b5785e94a7607"
+msgid "ID=880307141"
+msgstr "ID=880307141"
+
+msgctxt "d3b80b208b3f00c4399486df01e0d976"
+msgid "매지컬 보석상자[A]"
+msgstr ""
+
+msgctxt "fe2bd09fe5b800d163247dbec968c913"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 보석상자 [A]"
+msgstr ""
+
+msgctxt "2d4b83719ab969c351ded4cb589ad414"
+msgid "ID=880307142"
+msgstr "ID=880307142"
+
+msgctxt "c99fab1b6ffb47ae42ae9ffab26dac9c"
+msgid "매지컬 보석상자[B]"
+msgstr ""
+
+msgctxt "fb0254538bd7c066f707b663e745798d"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 보석상자 [B]"
+msgstr ""
+
+msgctxt "4e00f023fe4c2850f365391a3f203177"
+msgid "ID=880307143"
+msgstr "ID=880307143"
+
+msgctxt "162467812c5057e354822131e5b01240"
+msgid "매지컬 보석상자[C]"
+msgstr ""
+
+msgctxt "d7ecdc940f176eb1cca770a247a8e661"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 보석상자 [C]"
+msgstr ""
+
+msgctxt "f56e34fdde91b335e743ce526e16f753"
+msgid "ID=880307151"
+msgstr "ID=880307151"
+
+msgctxt "8f836456251c7f8e9e045dc4508a7c25"
+msgid "매지컬 크리스탈[A]"
+msgstr ""
+
+msgctxt "fc97b22e3523ab05e4ca79d9fc16dcaf"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 크리스탈 [A]"
+msgstr ""
+
+msgctxt "f6816defdc65e10eab62a83d33298b5b"
+msgid "ID=880307152"
+msgstr "ID=880307152"
+
+msgctxt "00952ea29c06ed430b014b066621a8c2"
+msgid "매지컬 크리스탈[B]"
+msgstr ""
+
+msgctxt "ac9836bdaf3969adea922ca4f4d7169e"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 크리스탈 [B]"
+msgstr ""
+
+msgctxt "702557c512c19cfdc52a4a00df16c476"
+msgid "ID=880307153"
+msgstr "ID=880307153"
+
+msgctxt "c48805b6eb63af96ad9511b3413d4576"
+msgid "매지컬 크리스탈[C]"
+msgstr ""
+
+msgctxt "f808be0a21ee1d132cd58cd313cb9797"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 크리스탈 [C]"
+msgstr ""
+
+msgctxt "75f408712e499fd5e9ad8c52fb1fb7be"
+msgid "ID=880307161"
+msgstr "ID=880307161"
+
+msgctxt "8b4ed5097cba94719d4ba3d34459eaa4"
+msgid "매지컬 유니콘 인형[A]"
+msgstr ""
+
+msgctxt "708be592897c2cc2743b96591b26aa94"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 유니콘 인형 [A]"
+msgstr ""
+
+msgctxt "7b628d8a1242cf9e4876161245da30eb"
+msgid "ID=880307162"
+msgstr "ID=880307162"
+
+msgctxt "8fcaf415bc7db1391b9bab72bfbca6d0"
+msgid "매지컬 유니콘 인형[B]"
+msgstr ""
+
+msgctxt "09ef7cce4ad3cf3938a0514972b784b1"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 유니콘 인형 [B]"
+msgstr ""
+
+msgctxt "0b10be6840f6a49c1871660cc79ad969"
+msgid "ID=880307163"
+msgstr "ID=880307163"
+
+msgctxt "b47bd02b5f3878e46bb8c627fbc93ca8"
+msgid "매지컬 유니콘 인형[C]"
+msgstr ""
+
+msgctxt "791841a10b487ba488622bc3bc9148dd"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 유니콘 인형 [C]"
+msgstr ""
+
+msgctxt "cbafb70a698083cbfdc597061f745ec2"
+msgid "ID=880307171"
+msgstr "ID=880307171"
+
+msgctxt "8336957e97876e59a64ebcaebd14a6a7"
+msgid "매지컬 샤워부스[A]"
+msgstr ""
+
+msgctxt "dbd3d64d47d5c416a6b2a3acac372c42"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 샤워부스 [A]"
+msgstr ""
+
+msgctxt "82bd0fefd6a891b03691eba3672334f2"
+msgid "ID=880307172"
+msgstr "ID=880307172"
+
+msgctxt "e113340988f167e645749e7025ca6506"
+msgid "매지컬 샤워부스[B]"
+msgstr ""
+
+msgctxt "58082aeea22e71e7ba7f8cbb5c15e65c"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 샤워부스 [B]"
+msgstr ""
+
+msgctxt "2313c043349a9102f688051ad2454fa1"
+msgid "ID=880307173"
+msgstr "ID=880307173"
+
+msgctxt "b85065be7c5fa0f13eca5c3e0513f3d3"
+msgid "매지컬 샤워부스[C]"
+msgstr ""
+
+msgctxt "b3a186c9f17bf4dbe48db9f879e91e70"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 샤워부스 [C]"
+msgstr ""
+
+msgctxt "8b454788e1d331cb170fcb7fcfc18cba"
+msgid "ID=880307181"
+msgstr "ID=880307181"
+
+msgctxt "89882ecda0942a8bc80fedcc9e387e5b"
+msgid "매지컬 천장[A]"
+msgstr ""
+
+msgctxt "df5623234cdaf7146aa78ba9cd405997"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 천장 [A]"
+msgstr ""
+
+msgctxt "a390f8d655dd5bb1b4886946384f79b3"
+msgid "ID=880307182"
+msgstr "ID=880307182"
+
+msgctxt "2ce29902d4debe54720392e942e12383"
+msgid "매지컬 천장[B]"
+msgstr ""
+
+msgctxt "8eefa27b1e92b9964469e4a6fae521f2"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 천장 [B]"
+msgstr ""
+
+msgctxt "72f36f8ca0de5d35bbd15d098994df6e"
+msgid "ID=880307183"
+msgstr "ID=880307183"
+
+msgctxt "47fb39382057c9eac6d99a85e801bf2b"
+msgid "매지컬 천장[C]"
+msgstr ""
+
+msgctxt "8b42453092cf34d7e933d8a78a08b3d2"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 천장 [C]"
+msgstr ""
+
+msgctxt "c3a1b2940ec33d9cdf08dc0439ce5c9e"
+msgid "ID=880307061"
+msgstr "ID=880307061"
+
+msgctxt "a6c00bb2c2939b3c55f164b17bfe1a7f"
+msgid "매지컬 도어[A]"
+msgstr ""
+
+msgctxt "bc36436067bdc3046fd161ac8f682536"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 도어 [A]"
+msgstr ""
+
+msgctxt "109fb45a00b9ebe42c07c0e14dd1ac0a"
+msgid "ID=880307062"
+msgstr "ID=880307062"
+
+msgctxt "0212d2759582d19bd2b9f0c337fe7f07"
+msgid "매지컬 도어[B]"
+msgstr ""
+
+msgctxt "61719765408bb92ee0e5768beef686fa"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 도어 [B]"
+msgstr ""
+
+msgctxt "8dc6bca0b5781f51a2fe4006402ef869"
+msgid "ID=880307063"
+msgstr "ID=880307063"
+
+msgctxt "7a9c430f3924d7bee2942bda74fe7bf9"
+msgid "매지컬 도어[C]"
+msgstr ""
+
+msgctxt "2000abd154c31677bb50fa245a841e58"
+msgid "<font color='#FFBA85'>[가구]<font color='#9D927B'>\\n\\n매지컬 도어 [C]"
+msgstr ""
+
+msgctxt "32cea5ee2134d0bb1bedca3c760398f8"
+msgid "ID=890012010"
+msgstr "ID=890012010"
+
+msgctxt "db4961756625259ea6a7026d6dbe2133"
+msgid "작물 농축기"
+msgstr ""
+
+msgctxt "770b90545a1dcbbeeaabf46f1a0516cc"
+msgid ""
+"<font color='#FFBA85'>[재배 보조 아이템]<font color='#9D927B'>\\n\\n작물이란 작물은 모조리 "
+"농축해버리는 신비의 기계. 어떤 원리인지는 모르겠지만 농축기 안에 들어간 작물은 모두 그 정수만 남기고 사라진다. 다른 것에도 사용할 수 "
+"있을까 실험해봤지만 전혀 말을 듣지 않았다. 말 그대로 작물 농축기인 셈이다."
+msgstr ""
+
+msgctxt "b333a62968e5a9f94fed61dd85ed0586"
+msgid "ID=890012020"
+msgstr "ID=890012020"
+
+msgctxt "ecfa449b795d6f575f74276a6aa253f7"
+msgid "수상한 첨가제"
+msgstr ""
+
+msgctxt "f9f65af690ee9ec71e73b2b5613a37b5"
+msgid ""
+"<font color='#FFBA85'>[재배 보조 아이템]<font color='#9D927B'>\\n\\n플라스크 안에서 찰랑이는 "
+"미지의 액체. 음식을 만들 때 부어주면 기가막힌 맛을 끌어낼 수 있다. 원재료가 무엇인지는 아무도 모른다. 혹시나 싶어 그냥 마셔봤지만 "
+"아무런 맛이 나지 않는다."
+msgstr ""
+
+msgctxt "17b5efff7f36ba6456431f4990559de8"
+msgid "ID=890012030"
+msgstr "ID=890012030"
+
+msgctxt "ab98c5dd9e5dce0ba1898122c46775be"
+msgid "모종 삽"
+msgstr ""
+
+msgctxt "3c4153a286b994304fbeeadb1e66e71a"
+msgid ""
+"<font color='#FFBA85'>[2-3 화분 사용 아이템] 일반 화분 사용권<font color="
+"'#9D927B'>\\n\\n원예에 특화된 작은 삽. 넓지 않은 규모의 흙을 파낼 때 매우 효율적이다."
+msgstr ""
+
+msgctxt "00968c41fc1d5d88d88091df3a55792b"
+msgid "ID=890012031"
+msgstr "ID=890012031"
+
+msgctxt "320ccf704756ecfb9a371a428d5c10e3"
+msgid "모종 삽(퀘스트)"
+msgstr ""
+
+msgctxt "169ad07a5a14e3c1fa9b03b92c113bb1"
+msgid ""
+"<font color='#FFBA85'>[1 화분 사용 아이템] 일반 화분 사용권<font color='#9D927B'>\\n\\n원예에 "
+"특화된 작은 삽. 넓지 않은 규모의 흙을 파낼 때 매우 효율적이다."
+msgstr ""
+
+msgctxt "6e1d6bba4a5a74e545866396547fee59"
+msgid "ID=890012040"
+msgstr "ID=890012040"
+
+msgctxt "669db828d90134ddb307c27acf6ea34c"
+msgid "빛나는 모종 삽"
+msgstr ""
+
+msgctxt "cc7c69b655f90906760045f6c84acf74"
+msgid ""
+"<font color='#FFBA85'>[4-6 화분 사용 아이템] 캐쉬 화분 사용권. 재배시간 40% 감소 효과<font color="
+"'#9D927B'>\\n\\n원예에 보다 특화된 작고 빛나는 삽. 넓지 않은 규모의 흙을 파낼 때 매우 효율적이다. 고급스러워 보이는 "
+"만큼 성능도 출중하다."
+msgstr ""
+
+msgctxt "dc56f01ecdc7c26a8135a5d32ef9ed6f"
+msgid "ID=890012050"
+msgstr "ID=890012050"
+
+msgctxt "6f047fa59cb1ee7b50725ee06675d4e0"
+msgid "영양제"
+msgstr ""
+
+msgctxt "d4a1e0842cf05a9624c2536673d91da2"
+msgid ""
+"<font color='#FFBA85'>[재배 보조 아이템]<font color='#9D927B'>\\n\\n작물이 보다 빠르게 자랄 수 "
+"있도록 도움을 주는 영양제. 쑥쑥 크는 모습을 보니 가슴이 다 흐뭇해진다.\\n\\n작물 재배 시간 30%감소"
+msgstr ""
+
+msgctxt "8d15db8d56d243acaca0cb908111eb31"
+msgid "ID=890012060"
+msgstr "ID=890012060"
+

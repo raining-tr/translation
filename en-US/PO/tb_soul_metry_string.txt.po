@@ -1,0 +1,1912 @@
+# Eisou <nanamiide@gmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-02-22 04:19-0500\n"
+"Last-Translator: Eisou <nanamiide@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "0f890e9a2cfedb5548dc8a8bb3fe1b40"
+msgid "ID=1032"
+msgstr "ID=1032"
+
+msgctxt "dd20a102a3e2231ac1041809c469791f"
+msgid "조금만 기다려줘"
+msgstr "Wait a minute"
+
+msgctxt "1079fbb5e8ad743bff9c8e68d2b831e8"
+msgid "ID=1033"
+msgstr "ID=1033"
+
+msgctxt "308769ee3208868d76a1639a770e56d7"
+msgid "부자가 될 거야"
+msgstr "Millionaire Dream"
+
+msgctxt "401e24787d71b6597a0c75ac6bf47fb5"
+msgid "ID=1035"
+msgstr "ID=1035"
+
+msgctxt "daa3af8bd801dfbfe09f58698693ae21"
+msgid "어려움을 마주하는 힘"
+msgstr "The strength of facing difficulties"
+
+msgctxt "6d5a48aa5feb4d1313c44a8e3ac1422d"
+msgid "ID=1034"
+msgstr "ID=1034"
+
+msgctxt "50e92f7b4f38df1f2ea626591cb71262"
+msgid "꼭 같이 동물원에 가자"
+msgstr "Let's go to the Zoo together"
+
+msgctxt "3218164c9e6e6084241b9b9332e2996e"
+msgid "ID=1041"
+msgstr "ID=1041"
+
+msgctxt "c539f771340beeea5bf09801e929bd6d"
+msgid "지금 이 순간"
+msgstr "This Moment"
+
+msgctxt "a2fc41127cffab126b9191f30393836b"
+msgid "ID=1042"
+msgstr "ID=1042"
+
+msgctxt "2366d6b57a0884594f478fd16374f838"
+msgid "사랑스러운 나의 도시"
+msgstr "Favorite Town"
+
+msgctxt "c9454cd83121c53ab5722389129ccdec"
+msgid "ID=1043"
+msgstr "ID=1043"
+
+msgctxt "0d9bfd1053303f098736df0470ce4520"
+msgid "잊지 못할 거에요"
+msgstr "I will never forget"
+
+msgctxt "d43b90e063f8d74c9775d14775fa8d8b"
+msgid "ID=1044"
+msgstr "ID=1044"
+
+msgctxt "fea8fb0060bdb4274e07e641b40db5e7"
+msgid "단호하게 등을 돌리고"
+msgstr "Bitter Choice"
+
+msgctxt "3c39870ccb7402e5af30436ed703d76b"
+msgid "ID=1045"
+msgstr "ID=1045"
+
+msgctxt "f876838003aa9694db5122807554b9a5"
+msgid "안녕히 다녀오세요"
+msgstr "Take Care"
+
+msgctxt "0ff1a13cf1ff02903e9aa632811decf0"
+msgid "ID=1051"
+msgstr "ID=1051"
+
+msgctxt "d338c559430d9dfd55cfc57de9a55208"
+msgid "내려놓고 버려야만 해"
+msgstr "You have to put it down and throw it away"
+
+msgctxt "8f2f997d7bdac71e7dda0ae3e6a1d133"
+msgid "ID=1052"
+msgstr "ID=1052"
+
+msgctxt "82fba17f2edc351b03b432914440b2ed"
+msgid "단지 필요하지 않았을 뿐"
+msgstr "It was unnecessary"
+
+msgctxt "b64683ec6169ea401e07fc6a78365a79"
+msgid "ID=1053"
+msgstr "ID=1053"
+
+msgctxt "d7e142dbdf8c18c11def1097ecafeaa3"
+msgid "로망스?!"
+msgstr "Romance?!"
+
+msgctxt "18ec672d6d307f76d605d9ac720a2693"
+msgid "ID=1054"
+msgstr "ID=1054"
+
+msgctxt "c47f93d0b9a7b1e5dbbda23ff6692ffb"
+msgid "별보다 빛나던 당신"
+msgstr "You shine brighter than the Stars"
+
+msgctxt "a7efc414124453ecd9ee04420e9dc40b"
+msgid "ID=1055"
+msgstr "ID=1055"
+
+msgctxt "aa63a6293a9663d2a36809a8c613d84f"
+msgid "현실은 영화가 아니야"
+msgstr "Reality is not a movie"
+
+msgctxt "2f7f77dd9e2c3a89f2308d46e53c49ba"
+msgid "ID=1056"
+msgstr "ID=1056"
+
+msgctxt "6585e0896b333ba26ea5e6d802178448"
+msgid "선택의 쓴맛"
+msgstr "Bitter taste of choice"
+
+msgctxt "2aeb0b614e55f2ee89dd2edefad8af37"
+msgid "ID=1057"
+msgstr "ID=1057"
+
+msgctxt "24de530587ca9541cb336b43c10fc67a"
+msgid "너를 만날 수만 있다면"
+msgstr "If only I could meet you"
+
+msgctxt "866466be550a24265f0260d6c221458a"
+msgid "ID=1058"
+msgstr "ID=1058"
+
+msgctxt "337457c8cba023e5a8390affc3ccb738"
+msgid "당신과 함께라면"
+msgstr ""
+
+msgctxt "1d906191c16389eef0222406ab772b8a"
+msgid "ID=1059"
+msgstr ""
+
+msgctxt "712977cd0a9a25ac2cca0221a00e44a0"
+msgid "왠지 걱정이 돼"
+msgstr ""
+
+msgctxt "8dd9c1acba111ed8271b21834a746eb0"
+msgid "ID=1060"
+msgstr ""
+
+msgctxt "ab518defb89a36f2d6f0b61b34db7582"
+msgid "왠지 기분이 나빠"
+msgstr ""
+
+msgctxt "348cedad4402bfd12eaf7ca8cb2d61f1"
+msgid "ID=1061"
+msgstr ""
+
+msgctxt "a8b81de08b1cd973a83e86cb42b870b9"
+msgid "죄의 무게"
+msgstr ""
+
+msgctxt "8833d363af65607b59f23046e5f1d431"
+msgid "ID=1062"
+msgstr ""
+
+msgctxt "3f26cb2cb52e2d4d5b51492f2f68156e"
+msgid "언젠가 꼭 벗어나고 말 거야"
+msgstr ""
+
+msgctxt "8b4ddd9eff27d876d4c23c64e14d6206"
+msgid "ID=1063"
+msgstr ""
+
+msgctxt "33107b1af9735cc7ac9aacdffa7386b9"
+msgid "꿈의 배"
+msgstr ""
+
+msgctxt "41b3e14a4eb0a604bf940de3fd2baecf"
+msgid "ID=2032"
+msgstr ""
+
+msgctxt "de64bd73a9e71d30f6d949ba0ce4b654"
+msgid ""
+"그 누구보다 열심히 달려왔지만, 세상은 남자에게 그 어떤 자리도 내어주지 않았다. 실망감과 허탈함은 남자를 무릎 꿇게 만들기에 충분했고, "
+"남자는 더이상 자리를 박차고 일어날 기운도, 생각도 없었다.\\n오랜 시간을 남자와 함께 지내온 한 여자는, 이대로 그가 무너지는 것을 "
+"두고 볼 수만은 없었다.\\n\\n이 이야기는, 세상에 실망한 남자와, 그런 남자를 구원하는 한 여자의 이야기."
+msgstr ""
+
+msgctxt "5f4c6c86a6e58267b7ef89d21bdd4ed7"
+msgid "ID=2033"
+msgstr ""
+
+msgctxt "fa9b23f76adf8ca1f86d599f971d2e2d"
+msgid ""
+"청년은 부자를 꿈꾼다. 또래의 친구들이 대학을 향해 공부할 때 청년은 돈 되는 일을 찾아 돌아다녔고, 친구들이 놀러 다닐 때 청년은 "
+"장사하기 위한 자본금 마련에 힘썼다.\\n목표는 단 하나, 부자가 되기 위해서였다.\\n젊은 나이에 돈이 눈이 멀었다며 그를 비난하는 "
+"사람도 있었지만, 그는 개의치 않았다.\\n만약 목숨을 걸어야 한다 하더라도 그는 망설이지 않을 것이다. \\n부자가 될 수만 "
+"있다면!\\n\\n이 이야기는 부자라는 목표를 향해 나아가는 청년의 이야기"
+msgstr ""
+
+msgctxt "e55cbf501031662cce5bb274cde8405e"
+msgid "ID=2035"
+msgstr ""
+
+msgctxt "a96d2fe12d4ff000550478eb283c844c"
+msgid ""
+"세상엔 다양한 종류의 직업들이 있다. \\n누구는 머리를 쓰는 일을 한다면, 누구는 머리보다 몸을 쓰는 것이 편한 사람도 있는 것이다. "
+"남자는 그 누구보다 몸을 효과적으로 사용할 줄 아는 사람이었다.\\n무엇보다 그는 어떤 일도 긍정적으로 받아들일 수 있는 사람이었다."
+"\\n그것은 그가 앞으로 살면서 만나게 될 그 어떤 어려운 일들도 이겨낼 힘이 되어 줄 것이다.\\n\\n이 이야기는, 긍정적인 남자가 "
+"삶을 살아나가는 이야기"
+msgstr ""
+
+msgctxt "85c683e0fdeff965a71992afe34faccd"
+msgid "ID=2034"
+msgstr ""
+
+msgctxt "51fd69006ff431f8900fed7ddbe20156"
+msgid ""
+"삶은 공평하지 않다. 누군가는 내일을 기대할 수 있는 운명을 타고나지만, 누군가는 내일을 두려워할 운명을 타고난다. \\n소녀는 내일을 "
+"두려워할 운명을 타고났다. 세상에 나왔을 때부터 병원 밖에선 단 한 시간도 삶을 보장받을 수 없는 운명을 타고났다.\\n그리고 어느 한 "
+"간호사는 그런 소녀를 수년 동안 간호해왔다. 둘은 가족 이상의 유대를 가지고 있었지만, 둘 다 마음으로는 알고 있었다. 이별의 때가 "
+"언젠가는 올 것을.\\n\\n이 이야기는, 내일을 기대할 수 없는 소녀와, 매일 이별을 준비하고 있는 간호사의 이야기."
+msgstr ""
+
+msgctxt "7c7ca2ad11e8ca81cf0478af883cc543"
+msgid "ID=2041"
+msgstr ""
+
+msgctxt "93bcfab6767527764008622a8f58d722"
+msgid ""
+"사고로 부모가 먼저 세상을 떠난 이후, 그녀에게 가족은 나이 차이가 크게 나는 늦둥이 동생 하나뿐이었다.\\n그래서 그녀는 어린 나이에 "
+"집안의 생계를 위해 발 벗고 나서야만 했고, 그녀가 일하러 간 동안 동생은 홀로 집을 지켜야만 했다.\\n그녀는 그것이 그저 미안하기만 "
+"했다. 그래서 그녀는 시간이 날 때마다 동생을 데리고 고향의 바닷가를 찾았다. \\n다음날이 되면 또다시 그녀는 동생을 홀로 두고 나가야 "
+"하기에, 함께하는 순간만큼은 오로지 동생만을 위하려 노력했다.\\n동생의 지금 이 순간은 다시 돌아오지 않을 테니까\\n\\n이 "
+"이야기는, 함께 있어 주지 못한 누나의 미안함을 담은 이야기"
+msgstr ""
+
+msgctxt "7892ea12660630fd661a1fc65833dc70"
+msgid "ID=2042"
+msgstr ""
+
+msgctxt "c5b86210ca31e6274c55a3345a2d144e"
+msgid ""
+"남자는 이 도시가 좋다. 그가 태어난 고향이어서 좋고, 그가 앞으로 살아나갈 곳이어서 좋다. \\n남자는 이 도시를 사랑하고, 이 도시의 "
+"사람들도 사랑한다.\\n그래서 도시의 모든 곳을 돌아다니며, 이 도시를 지켜나가는 것들을 체험해 보고자 한다.\\n언젠가 이 도시에 큰 "
+"위험이 닥칠 때 반드시 도움이 될 수 있도록!\\n\\n이 이야기는, 고향을 사랑하는 남자가 노력해 나가는 이야기"
+msgstr ""
+
+msgctxt "869c8530be99373d12d063270fe66de7"
+msgid "ID=2043"
+msgstr ""
+
+msgctxt "f4e84ef4e75726c46e040cea17076122"
+msgid ""
+"소년은 아가씨를 동경했다. 대부호의 집사였던 소년은 자신과는 다른 세계에 살고 있는 듯한 아가씨를 동경했다. 그 동경이 애정으로 바뀌는 "
+"데는 오랜 시간이 지나지 않았다.\\n아가씨는 소년을 동경했다. 자신과는 다른 세계에 살고 있는 듯한 소년을 동경했다. 동경은 곧, "
+"애정으로 바뀌었다.\\n소년과 아가씨는 서로의 마음을 알고 있었다. 하지만 드러낼 수 없었다. 주위의 시선, 신분의 차이는 그들이 "
+"뛰어넘기에는 너무 높았다.\\n그저 서로에 대한 애정을, 눈빛과 마음만으로 조용히 주고받았다.\\n\\n이 이야기는, 서로를 동경하고 "
+"사랑했지만, 다가설 수 없는 두 남녀의 이야기."
+msgstr ""
+
+msgctxt "8f0d6fcd605fd72f870892c14f747d5f"
+msgid "ID=2044"
+msgstr ""
+
+msgctxt "21788707a552fee5b4e66ae52b976774"
+msgid ""
+"야욕에 불타던 남자가 있었다. 자신의 고향이 미치도록 싫었던 남자는 어떻게든 그곳을 벗어나고자 공부에 매달렸다.\\n가난한 가정, 불안한 "
+"미래, 보장받지 못하는 환경. 이 모든 것을 벗어날 방법은 공부뿐이라는 생각에 학업에 매진했다. 그리고 그 피나는 노력은 결실을 맺어, "
+"큰 도시로의 취직이 결정되었다.\\n가정에 문제가 생겼다. 부모님이 몸져누웠다. 고향을 떠나면 그 누구도 부모님을 돌보지 못한다. 남자는 "
+"선택을 해야 했다.\\n\\n이 이야기는, 야욕에 불타던 남자가 선택을 하는 이야기."
+msgstr ""
+
+msgctxt "28a3d558dcf649ff1ce49380fcbf90f5"
+msgid "ID=2045"
+msgstr ""
+
+msgctxt "2f8524da2148c71abaea8e0b617aefd4"
+msgid ""
+"서로를 사랑하는 부부가 있다. \\n그들은 서로 사랑하지만 매일 함께하진 못한다.\\n남편이 먼 곳으로 날아다니는 직업을 가지고 있기 "
+"때문이다. \\n남편이 자주 먼 길을 떠나기 때문에, 아내는 매번 손수 그의 짐을 싼다. 먼 길을 떠나는 그가 무사히 다시 돌아오길 "
+"바라는 마음을 짐 속에 담는다.\\n두 딸아이의 부적을 대신한 스티커를 붙여 남편에게 건네주며, \\n그녀는 사랑을 담은 인사를 전한다."
+"\\n\"안녕히 다녀오세요.\"\\n\\n이 이야기는, 먼 곳으로 떠나는 남편을 기다리는 아내의 이야기"
+msgstr ""
+
+msgctxt "3e52733a0155bc986dce0c96dc0af05f"
+msgid "ID=2051"
+msgstr ""
+
+msgctxt "31affbc813374f9e16a8ead134bed0b7"
+msgid ""
+"한 가정의 가장이라는 것은 힘든 일이다. \\n그의 어깨에 많은 것들이 얹혀 있기 때문이다.\\n아이들을 키우고 가정을 지켜나가기 위해서 "
+"그는 그를 위한 삶을 잠시 내려놓아야 한다.\\n젊은 날의 꿈도, 자존심도 모두 버려야 한다.\\n힘든 일이 있어도 피해선 안 되고, "
+"도망치고 싶어도 마주해야만 한다.\\n그래야 지켜낼 수 있다.\\n앞으로도 그는 가족을 위해 많은 것을 내려놓고 버려야 할지 모른다. "
+"그래도 그는 계속해서 가족들을 지켜나갈 것이다.\\n\\n이 이야기는, 가족을 위해 일하는 가장의 이야기"
+msgstr ""
+
+msgctxt "eb6566c021123929065f918ce9d7bc69"
+msgid "ID=2052"
+msgstr ""
+
+msgctxt "84aafa741ccf4b024499bcd402a592ab"
+msgid ""
+"그의 상사는 열정적이었다. 그가 막 신입으로 입사하였을 때 그의 상사는 친동생을 대하듯 그를 보살펴 주었다. \\n그도 그의 상사를 "
+"친형처럼 따르게 되었다.\\n그의 상사는 무슨 일이든 자신이 솔선수범으로 나서는 사람이었다.\\n열정적이었고, 성실했다.\\n하지만 "
+"열정적이던 그의 상사에게 돌아온 건 [권고사직]을 하라는 명령뿐.\\n상사의 사직을 이해할 수 없어 화를 내는 그에게 그의 상사는 "
+"쓴웃음을 지으며 말했다. 단지 필요하지 않았을 뿐이라고.\\n\\n이 이야기는, 존경하는 상사의 퇴직으로 메마른 현실을 체감하게 되는 "
+"남자의 이야기"
+msgstr ""
+
+msgctxt "3840bbddfd108e419cbf5dfb578bf493"
+msgid "ID=2053"
+msgstr ""
+
+msgctxt "50783d215fe5ea741b5bc375260d4327"
+msgid ""
+"그녀는 그의 [첫사랑]이다. 그는 누군가를 돕는 것에 망설임 없이 나서고, 사람을 대할 때 애정을 담고 바라보는 그녀가 좋았다.\\n그는 "
+"그녀가 자신을 [제자]로 밖에 보지 않는다는 것을 알지만, 그녀가 자신의 일터에 찾아와, 함께 있을 때면 늘 설레게 된다.\\n그는 "
+"그녀의 [첫 제자]다. 그녀가 처음으로 사람을 가르친다는 것의 기쁨을 느끼게 해준 사람이다.\\n그래서 그녀는 그가 결정한 일을 존중하고 "
+"그의 일을 돕기 위해, 그의 일터를 서성거린다.\\n그 마음에 제자 이상의 감정이 있는지 그녀 자신도 모른다.\\n\\n이 이야기는, "
+"서로를 바라보지만 엇갈리고 있는 남녀의 이야기"
+msgstr ""
+
+msgctxt "af0a3b9558df481b7c72bcb573925fee"
+msgid "ID=2054"
+msgstr ""
+
+msgctxt "040eef4e08a9a687671455fae92118d2"
+msgid ""
+"소년은 그의 아버지가 세상 그 누구보다 좋았다. 소년에게 있어 아버지는 좋은 아버지이자, 친구이자, 목표이자, 히어로였다.\\n소년의 "
+"아버지가 강도에게 습격당하기 전까지 그는 소년의 전부라 해도 과언이 아니었다.\\n소년의 아버지는 지상의 어두운 밤을 밝히는 사람이었다. "
+"\\n그가 단 간판은 어두운 거리를 알록달록하게 비추었다.\\n소년에게 있어 아버지의 간판은 밤하늘의 별보다 빛났다.\\n \\n이 "
+"이야기는, 세상 그 누구보다 빛났던 아버지를 그리워하는 소년의 이야기"
+msgstr ""
+
+msgctxt "99cd76afc22ca11406d85eabc1d86023"
+msgid "ID=2055"
+msgstr ""
+
+msgctxt "48f7e17f0fc8ef4d35ba83509fdc320f"
+msgid ""
+"소년은 영화를 좋아한다.\\n그것도 하늘을 날아다니며 지구를 구하는 히어로 물을 좋아한다.\\n소년은 [저건 다 영화야!] 라고 말하며 "
+"그것들이 현실에서 불가능하다는 것을 알지만, 자신도 한 번쯤 [히어로]가 되어보고 싶다고 생각한다.\\n극한으로 자신을 몰아붙이면 "
+"히어로의 힘이 깨어나지 않을까 하는 어린 마음에 극한 알바에 도전해 보았지만, 현실은 역시 영화와 같지 않았다.\\n소년은 그저 평범한 "
+"사람일 뿐이었다. \\n하지만 소년은 생각했다. \\n자신이 지금은 평범한 사람이어도 언젠가 반드시 숨겨진 힘이 깨어나는 날이 올 "
+"것이라고!\\n\\n이 이야기는, 평범한 소년이 히어로를 꿈꾸는 이야기"
+msgstr ""
+
+msgctxt "2679181e85bb6da45af0961d44f1f23e"
+msgid "ID=2056"
+msgstr ""
+
+msgctxt "c86c57f160e0f84635285c7f4ef31a16"
+msgid ""
+"비밀 조직의 일원으로 살아나가기 위해선 몇 가지 포기해야만 하는 것들이 있다.\\n자신이 어느 직장에 다니는지 남들에게 이야기하지 "
+"못하고, 회사의 결정에 따라 움직이고, 순응해야만 한다.\\n산속에 박혀있는 지형을 올라다니며 출근해야 하고, 내 것이 아닌 물건을 "
+"물려받아야만 할 때도 있다.\\n그래도 일원으로 남기 위해선 순응하고 포기해야만 한다.\\n포기하지 않아 돌아오는 대가는 포기하는 것보다 "
+"더 소중한 것들을 가져가 버릴 수 있을 테니....\\n\\n이 이야기는, 비밀 조직원이 조직의 일원으로 살아나가는 이야기"
+msgstr ""
+
+msgctxt "7bac45dac1af8cf7faf0a8b5c52c3056"
+msgid "ID=2057"
+msgstr ""
+
+msgctxt "ac5558343e6ffd1757e64c7b192fe159"
+msgid ""
+"남자에게 있어 인생의 낙은 [그녀]를 바라보는 것이었다. \\n그녀가 나오는 만화를 보고, 그녀의 캐릭터 상품들을 모으고. 그녀를 "
+"좋아하는 사람들과 대화하는 것. \\n그것이 이 악몽 같은 현실 속에서 그를 살아갈 수 있게 만들었다.\\n그는 생각했다.\\n언젠가 "
+"그녀를 꼭 현실에서 만나고 말 것이다.\\n자신이 알고 있는 지식을 총동원해서라도 꼭. \\n반드시 그녀를 현실의 세계로 이끌고 나올 "
+"것이다!\\n\\n이 이야기는, 현실의 남자가 환상 속의 그녀를 만나기 위해 살아가는 이야기"
+msgstr ""
+
+msgctxt "4142f98b90979a348f8284a4963bad51"
+msgid "ID=2058"
+msgstr ""
+
+msgctxt "11fd4665cec92df424f19217afd32123"
+msgid ""
+"한 로봇이 있었다. 그 로봇은 다름을 지니고 태어났다.\\n다름을 지녔다는 이유로 로봇은 금세 폐기 대상이 되었다.\\n다름을 포기하지 "
+"않아 삶을 잃었지만, 로봇은 살고 싶었다.\\n그곳에 한 사람이 있었다. \\n사람은 살기 위해 달라지는 것을 거부하고 포기했다. "
+"\\n그리고 절망을 얻었다. 사람은 잃어버린 다름을 찾고 싶었다.\\n로봇과 사람이 만났을 때, 로봇은 사람에게서 절망을 보았다."
+"\\n사람은 로봇에게서 그가 잃어버린 다름을 찾았다.\\n우연인지 운명인지 모를 그 순간, 둘은 서로에게서 삶을 찾았고 함께하기로 했다."
+"\\n언제 끝날지 모르는, 삶이 다하는 그 순간까지....\\n\\n이 이야기는, 서로에게서 삶을 찾게 된 로봇과 사람의 이야기."
+msgstr ""
+
+msgctxt "76919eb70ba4174d89f7188f457d96b2"
+msgid "ID=2059"
+msgstr ""
+
+msgctxt "56d71cda6375f3cd7535aee6d8a0b246"
+msgid ""
+"그녀가 바라본 그는 늘 땀투성이였다. 그는 위험한 장소에서 위험한 일을 하며 보냈고, 그녀는 늘 뒤에서 그 모습을 바라만 봐야 했다. "
+"그는 본인도 무서울 것이 뻔한데도 자신이 하지 않으면 다른 사람이 해야 할지 모른다며 위험한 일을 도맡곤 했다.\\n그녀는 늘 그것이 "
+"못마땅했다.\\n그래서 그녀는 그의 작업 물품을 빼앗아 망가진 곳이 있으면 고쳐주고, 부실한 곳이 있으면 강화해주곤 했다.\\n왜인지는 "
+"알 수 없지만, 걱정이 되어서 가만히 있을 수가 없었다.\\n그가 왜 걱정이 되는지는 그녀 자신도 알지 못했다.\\n아니, 알지 못하는 "
+"척했다.\\n\\n이 이야기는, 왠지 모르게 걱정이 되는 여자의 이야기."
+msgstr ""
+
+msgctxt "6f846ee9156d152139ade0bbbeb4a048"
+msgid "ID=2060"
+msgstr ""
+
+msgctxt "04f4cbf95f2a9e5ed354368606860471"
+msgid ""
+"그가 바라본 그녀는 늘 로봇과 함께였다. 로봇은 그녀 인생의 전부였고, 그녀의 인생을 담은 작품들이었다.\\n하지만 그는 그녀가 로봇에만 "
+"빠져있는 것이 마음에 들지 않았다.\\n그녀가 로봇에만 빠져있는 것이 싫었다.\\n그래서 그는 그녀가 로봇을 좋아하는 이유를 알기 위해 "
+"로봇 조종사가 되었다.\\n하지만 로봇을 조종하는 사람이 되었음에도 그녀에겐 여전히 로봇이 1순위인 것을 알게 되자 기분이 더욱 나빠졌다."
+"\\n그가 왜 기분이 나쁜지는 그 자신도 알지 못했다.\\n아니, 알지 못하는 척했다.\\n\\n이 이야기는, 로봇을 질투하는 로봇 "
+"조종사의 이야기"
+msgstr ""
+
+msgctxt "8a1315765128d5f58bc767d09ef23a60"
+msgid "ID=2061"
+msgstr ""
+
+msgctxt "c7712b3c7249a26ddb95a605e4573173"
+msgid ""
+"죄는 늘 가슴에 얹혀져 그의 숨통을 조여왔다. \\n아무리 죄의 이름 앞에 [회사가 시켰기 때문에]라는 말이 붙어있다 하더라도 그는 "
+"자신이 한 일을 외면하고 눈을 돌릴 수 없었다.\\n그러나 죽음이 무서워 삶을 포기할 수도 없었다.\\n그래서 그가 선택한 것은 매일 밤 "
+"용서를 구하는 것이었다.\\n용서할 대상이 듣지 못하는, 그의 신에게 올리는 기도였지만 그는 그렇게 함으로써 내일을 살 수 있었다."
+"\\n하지만 그는 알고 있었다. 그가 아무리 용서를 구한다고 해도 언젠가 죄의 대가가 그의 목을 죄러 찾아올 것임을....\\n\\n이 "
+"이야기는, 죄를 지은 남자가, 죄의 무게를 이기지 못해 용서를 구하는 이야기"
+msgstr ""
+
+msgctxt "0d82f75d8d80a503cd0f1bbca28237e6"
+msgid "ID=2062"
+msgstr ""
+
+msgctxt "63f7f872ab3cd61d5584ea537504f7a4"
+msgid ""
+"연구소에 들어올 수 있는 사람은 정말로 오랜 기간을 거쳐 선별해 통과한 사람들뿐이었다. 이렇게 선별되어 들어 온 사람들은 크게 세 가지의 "
+"분류로 나뉘었다.\\n재능이 많아 선택되거나, 약점이 많아 붙잡히거나. \\n커다란 [한탕]을 위해서 스스로 자원하거나.\\n남자는 그중 "
+"약점이 많아 붙잡힌 경우였다. 스스로가 원했든 원하지 않았든 빚이라는 것은 그의 인생을 늘 붙잡았다. 세상은 그것을 그의 약점으로 삼아 "
+"휘둘렀고 이 일도 그중 하나였다.\\n그는 이 일이 정말로 싫었지만, 버티고 버텨서 언젠가 이곳을 벗어나 평범하게 살아나가고 말 것이라고 "
+"다짐했다. \\n언젠가는 그런 날이 올 것이라 믿었다.\\n\\n이 이야기는, 빚에 휘둘리는 남자가 빚에서 벗어나려 발버둥 치는 이야기"
+msgstr ""
+
+msgctxt "76c143d02430344dfbbc08475ba6bf11"
+msgid "ID=2063"
+msgstr ""
+
+msgctxt "3445d1b2e8d5c56bd1047c3563d09bce"
+msgid ""
+"소녀는 제한된 곳에서 사랑으로 태어난 아이다. 소녀가 세상에 태어난 날, 소녀의 아비는 단 하나뿐인 그의 사랑을 잃었다. \\n그러던 "
+"어느 날 그에게 흰색 가운을 입은 사람들이 찾아왔다. \\n아이가 밉지 않으냐며 아이를 세계를 위한 일에 참가시켜보지 않겠냐 물었다. "
+"\\n그는 그의 사랑이 남긴 마지막 선물을 잃어버릴 수 없어 그 제안을 거절했고, 그 대가로 소녀는 제한된 공간에서 제한된 규칙을 지닌 "
+"채 살아가게 되었다. \\n그는 그런 소녀의 모습이 안타까웠지만, 그것이 소녀가 살 수 있는 유일한 방법이었다.\\n이제 그에게 남은 "
+"유일한 꿈은 그들이 만들고 있는 [꿈의 배]를 완성해 소녀를 이곳에서 탈출시키는 것. 그것뿐이었다.\\n\\n이 이야기는, 감옥 아닌 "
+"감옥에 살게 된 소녀와 소녀의 아버지가 살아나가는 이야기"
+msgstr ""
+
+msgctxt "521496c1b9b6a608b7844b51dbbde50e"
+msgid "ID=8111"
+msgstr ""
+
+msgctxt "b67ed6106256734eadf1dfedb1992e40"
+msgid "안전모"
+msgstr ""
+
+msgctxt "0857ab8fced2c1e155de622c8f9180f5"
+msgid "ID=8121"
+msgstr ""
+
+msgctxt "7a08d882ecfc96a20cd9dd229aa0c23e"
+msgid "화환"
+msgstr ""
+
+msgctxt "325aebaacc3a8e1c21789f9f106e5ae6"
+msgid "ID=8131"
+msgstr ""
+
+msgctxt "ea5af32a878ba38cd23b28ae33a33657"
+msgid "벽돌 세트"
+msgstr ""
+
+msgctxt "3a13505021adb962ce37075c13644e00"
+msgid "ID=8141"
+msgstr ""
+
+msgctxt "c0863b52c556e5ec1d703e41f7c425e9"
+msgid "환자용 침대"
+msgstr ""
+
+msgctxt "72de6936cda243526d79a112baa4b8e9"
+msgid "ID=8211"
+msgstr ""
+
+msgctxt "e6b8a28663572a9204024039f4800c07"
+msgid "밀짚 모자"
+msgstr ""
+
+msgctxt "fc6f98cc817ff1a53e7c745a47f43378"
+msgid "ID=8221"
+msgstr ""
+
+msgctxt "b6ded4b7c7c9a641668ff4cbdfa4b10f"
+msgid "파이프"
+msgstr ""
+
+msgctxt "6652b7c9aff7ee4ee076e9fb9bc704ca"
+msgid "ID=8231"
+msgstr ""
+
+msgctxt "3a6e6f9d1fb60f57f203610aabf638c1"
+msgid "앤티크 거울"
+msgstr ""
+
+msgctxt "932006180da9452da1986c6033d5eae5"
+msgid "ID=8241"
+msgstr ""
+
+msgctxt "c632ad3f78687923b2f24f5296e12dcd"
+msgid "캐비닛"
+msgstr ""
+
+msgctxt "9c2a31442c161e86cf398e862b197fc6"
+msgid "ID=8251"
+msgstr ""
+
+msgctxt "389bd5bb28c20881b27ff17a94157680"
+msgid "캐리어"
+msgstr ""
+
+msgctxt "cea6fdb21eaa1fdec4dcaed9e665741d"
+msgid "ID=8311"
+msgstr ""
+
+msgctxt "7e25955d50bb7254f10580e7433f6e0c"
+msgid "로드 롤러"
+msgstr ""
+
+msgctxt "c94dbd705d3e7c91e8138eca220704c0"
+msgid "ID=8321"
+msgstr ""
+
+msgctxt "9d42f18e292b53f2ab0e74040693700c"
+msgid "가습기"
+msgstr ""
+
+msgctxt "831c79562cdd30f89191360c2aadf164"
+msgid "ID=8331"
+msgstr ""
+
+msgctxt "3df613655aa8f773811e5c0d37df5fcd"
+msgid "주유기"
+msgstr ""
+
+msgctxt "d42b5d527e2a8e21031a671b40f93f14"
+msgid "ID=8341"
+msgstr ""
+
+msgctxt "bf1093dc2c97b6f3d22c612688ef14fd"
+msgid "네온사인 간판"
+msgstr ""
+
+msgctxt "c5a9b4b576c0a2fe83792d99dd0811f6"
+msgid "ID=8351"
+msgstr ""
+
+msgctxt "cd80ef2dcee59b5ca94163d84b13adae"
+msgid "창문 닦개"
+msgstr ""
+
+msgctxt "ca0822ce22ed9aa49a552140c2e42ad0"
+msgid "ID=8361"
+msgstr ""
+
+msgctxt "2a487b1fb1b9739987f552a1526d02b0"
+msgid "모니터"
+msgstr ""
+
+msgctxt "751df2b24c8a256930960c406ecd751c"
+msgid "ID=8112"
+msgstr ""
+
+msgctxt "4a9fcc4a31af7bda3b2c11bad8d75e53"
+msgid "잭 해머"
+msgstr ""
+
+msgctxt "d9bb69551dc5ed106fcce4e887e9119d"
+msgid "ID=8122"
+msgstr ""
+
+msgctxt "3b7745a74caf9e15aa26f26b68a6271d"
+msgid "공기 인형"
+msgstr ""
+
+msgctxt "3cdde75296940b5579cfb56a969a3973"
+msgid "ID=8132"
+msgstr ""
+
+msgctxt "bdcc938bb591d63883f4304f91016346"
+msgid "삽"
+msgstr ""
+
+msgctxt "35b43e040bdd5f912c08de9b71f5b4c5"
+msgid "ID=8142"
+msgstr ""
+
+msgctxt "f9e0f8dced56b97b855fb137946ffa4f"
+msgid "휠체어"
+msgstr ""
+
+msgctxt "d3e4c7e985e503939d0b8919bd8084bf"
+msgid "ID=8212"
+msgstr ""
+
+msgctxt "f716667a0a6bd5f88a09e40bb8e3eca9"
+msgid "아이스 박스"
+msgstr ""
+
+msgctxt "9acd8c73b4ceb1becfffe8bea3961fcb"
+msgid "ID=8222"
+msgstr ""
+
+msgctxt "d0638ebed5ab171be20b10c2723ea2b5"
+msgid "손전등"
+msgstr ""
+
+msgctxt "bddfd6fcdde02c24928db87ded089d0a"
+msgid "ID=8232"
+msgstr ""
+
+msgctxt "f4c99a9caa3aa07afaee3c15570d970c"
+msgid "엔티크 의자"
+msgstr ""
+
+msgctxt "6f7577ab9a5568813d24e98cc18577d5"
+msgid "ID=8242"
+msgstr ""
+
+msgctxt "7ef002920e02b7eec34b2de376001b64"
+msgid "업무용 책상"
+msgstr ""
+
+msgctxt "0f22c582d2f6afaecee1a440144389aa"
+msgid "ID=8252"
+msgstr ""
+
+msgctxt "c43cfff4e7930a2748554870260ba332"
+msgid "산소 호흡기"
+msgstr ""
+
+msgctxt "83fe06030e32a0f86437bdd83fa07ac3"
+msgid "ID=8312"
+msgstr ""
+
+msgctxt "c3dd5cfbca5e2a726760ec299efd3bbe"
+msgid "공사중 팻말"
+msgstr ""
+
+msgctxt "665b526f4fa064b761564239f531447e"
+msgid "ID=8322"
+msgstr ""
+
+msgctxt "b34bc2fff5d010b4d0dd151aa3b8c00a"
+msgid "큰 박스"
+msgstr ""
+
+msgctxt "60b7acbe65fec0acf5c99561474a452a"
+msgid "ID=8332"
+msgstr ""
+
+msgctxt "e3d73694ed184cc35846d99a68d4fab2"
+msgid "소화기"
+msgstr ""
+
+msgctxt "9c9937970862664a84c681101fe4d20a"
+msgid "ID=8342"
+msgstr ""
+
+msgctxt "1d26cb7a3582362017c8da65f5b411e0"
+msgid "사다리"
+msgstr ""
+
+msgctxt "3f9f67dd7bdf3555f60cf48b3953101c"
+msgid "ID=8352"
+msgstr ""
+
+msgctxt "8b45f6428291737a9cd04336140fbd2c"
+msgid "생명선"
+msgstr ""
+
+msgctxt "fcdc2289f95db91d336ec0f03a1f7808"
+msgid "ID=8362"
+msgstr ""
+
+msgctxt "b5d8300fa83bd0b1992256caf0859044"
+msgid "재단기"
+msgstr ""
+
+msgctxt "2fdfd0665fb2ad83b95d70f9ad567ee4"
+msgid "ID=8113"
+msgstr ""
+
+msgctxt "c4a29842267891b0bd93318e0be640c7"
+msgid "공구 상자"
+msgstr ""
+
+msgctxt "d54a7e9dceaadfd91493251a175b3a04"
+msgid "ID=8123"
+msgstr ""
+
+msgctxt "229a269c5f986e28578bfba1505a0c46"
+msgid "메뉴판"
+msgstr ""
+
+msgctxt "9edfee113d36ea489067fc8d239a8c72"
+msgid "ID=8133"
+msgstr ""
+
+msgctxt "aebeaaa57d87a2212101d4a2e8553f8d"
+msgid "시멘트 자루"
+msgstr ""
+
+msgctxt "a9e88af082187705aaafdcfa37a998de"
+msgid "ID=8143"
+msgstr ""
+
+msgctxt "db116f4b390aebf1d48854b899eb5671"
+msgid "큰 곰 인형"
+msgstr ""
+
+msgctxt "244205ce1619c567220c5238c06a7477"
+msgid "ID=8213"
+msgstr ""
+
+msgctxt "ebf625c3f191684949bbbc5afe5d64aa"
+msgid "튜브"
+msgstr ""
+
+msgctxt "7575f3db0bc7a49d6563aa692edc5a1e"
+msgid "ID=8223"
+msgstr ""
+
+msgctxt "548fe3b2304919b0fd24af70bd9cab6d"
+msgid "뚫어 뻥"
+msgstr ""
+
+msgctxt "9f412236392e307bd8db8d48fab44be6"
+msgid "ID=8233"
+msgstr ""
+
+msgctxt "a6a50378ccecb5c1138161ea0faec242"
+msgid "앤티크 랜턴"
+msgstr ""
+
+msgctxt "0c7875475699d96d3bb60578e0f506e3"
+msgid "ID=8243"
+msgstr ""
+
+msgctxt "3d1ab9e3f72663f7153b3eac383afc05"
+msgid "알루미늄 쓰레기통"
+msgstr ""
+
+msgctxt "67faebcd4aa019c2c8dc7edcf37e1305"
+msgid "ID=8253"
+msgstr ""
+
+msgctxt "c6ebbd34e506a110eee4174a7855727f"
+msgid "구명 조끼"
+msgstr ""
+
+msgctxt "29720a896b2dfa20fdb9ee4b5a5a113c"
+msgid "ID=8313"
+msgstr ""
+
+msgctxt "861b3a6aa145bbec631b2ba1b8391a28"
+msgid "콘"
+msgstr ""
+
+msgctxt "f66fa071057c0540d364904034266fb3"
+msgid "ID=8323"
+msgstr ""
+
+msgctxt "09257491f4c109572d944f9c1f4698f6"
+msgid "책꽂이"
+msgstr ""
+
+msgctxt "89508aa831f5cc1efd76b4462c359ee5"
+msgid "ID=8333"
+msgstr ""
+
+msgctxt "23051b11ac9b59be2f8f28402f795bb2"
+msgid "기름통"
+msgstr ""
+
+msgctxt "819fc762fa9a54a88d1723fbeddff9e3"
+msgid "ID=8343"
+msgstr ""
+
+msgctxt "0415682e925910fbc243ede439b99ed7"
+msgid "케이블"
+msgstr ""
+
+msgctxt "5650b1f75cfc86ddc022c235e7c2194f"
+msgid "ID=8353"
+msgstr ""
+
+msgctxt "0185e450a82f06e5ae032232025f8142"
+msgid "창문 닦이 의자"
+msgstr ""
+
+msgctxt "235818c35c6b74fa85fab80f6e2300b8"
+msgid "ID=8363"
+msgstr ""
+
+msgctxt "03eb72a21056c7ae03a4d057333f7274"
+msgid "1인용 책상"
+msgstr ""
+
+msgctxt "ead5b6d8b0f28f8e05aa5e33d37840ff"
+msgid "ID=8314"
+msgstr ""
+
+msgctxt "41633fda56c169dba5332cc4fadf991a"
+msgid "해머"
+msgstr ""
+
+msgctxt "d88225eeaebd5c96a03a24668bfa9a10"
+msgid "ID=8324"
+msgstr ""
+
+msgctxt "a9b4e72f7630d9cbafb7ad73c6102269"
+msgid "스토브"
+msgstr ""
+
+msgctxt "cd03692ed1a39cad36db24e56ce25610"
+msgid "ID=8334"
+msgstr ""
+
+msgctxt "791439c40f395a3ac9278a50a3cc650d"
+msgid "플라스틱 빗자루"
+msgstr ""
+
+msgctxt "587ac0606c9cd0f1a5740cd57aa57ae8"
+msgid "ID=8344"
+msgstr ""
+
+msgctxt "206587bd6f847ac8e7cb020cc00ad9e4"
+msgid "헬멧"
+msgstr ""
+
+msgctxt "8c0e5959dc297e53363c7e320242785d"
+msgid "ID=8354"
+msgstr ""
+
+msgctxt "5651658794df365ff0ed899dec38c6a2"
+msgid "세제통"
+msgstr ""
+
+msgctxt "24f1d79a96ad004c35cfcf473f050f61"
+msgid "ID=8364"
+msgstr ""
+
+msgctxt "8a9a7eabd6bfdf0b39e337100a0a2c3c"
+msgid "방석"
+msgstr ""
+
+msgctxt "ace68e143f186f5f9973a4bffc8ddd5e"
+msgid "ID=8411"
+msgstr ""
+
+msgctxt "514b38edda1790661fc2f5d69798b657"
+msgid "루시 피규어"
+msgstr ""
+
+msgctxt "fd593fbf95ea7193671257c3346ba8e8"
+msgid "ID=8412"
+msgstr ""
+
+msgctxt "d4d1cb5216ca67b2434e65277c9a8e4a"
+msgid "루시 브로마이드"
+msgstr ""
+
+msgctxt "9ca88cc57ae0cf3f295aa657932bdfa0"
+msgid "ID=8413"
+msgstr ""
+
+msgctxt "1477420d117b61da7241b0657203fd08"
+msgid "루시 다키마쿠라"
+msgstr ""
+
+msgctxt "682ca9453dca3dde0dad29d35028a0d1"
+msgid "ID=8414"
+msgstr ""
+
+msgctxt "6d5fb85a9ad79230f982961438d44e84"
+msgid "루시 입간판"
+msgstr ""
+
+msgctxt "88c414dc9746382194605f39a6f41b84"
+msgid "ID=8421"
+msgstr ""
+
+msgctxt "61534c8a34e71dfc906d2a053dc00074"
+msgid "대걸레"
+msgstr ""
+
+msgctxt "08012a8890c41468b97f30b9ae3d4c43"
+msgid "ID=8422"
+msgstr ""
+
+msgctxt "d4489296e386b4946b2326bca05f90a9"
+msgid "먼지떨이"
+msgstr ""
+
+msgctxt "3a02d11bf110bdcc1efd204161a21af2"
+msgid "ID=8423"
+msgstr ""
+
+msgctxt "cf4432e324d8bbad5f55c94615f53d32"
+msgid "청소기"
+msgstr ""
+
+msgctxt "760b17af76774903b9df6f535b55c0f9"
+msgid "ID=8424"
+msgstr ""
+
+msgctxt "29e5b112c47fc7a46694bd4910d59dbb"
+msgid "분무기"
+msgstr ""
+
+msgctxt "701a31fccbd459dec3c663abd4ed848f"
+msgid "ID=8431"
+msgstr ""
+
+msgctxt "c90d5758b0bdae453569c3aef82721da"
+msgid "곡괭이"
+msgstr ""
+
+msgctxt "c63662892a85e9bbddc2784b33a0da9d"
+msgid "ID=8432"
+msgstr ""
+
+msgctxt "00dc5dc23b6fa7e3f9f85312442d02c4"
+msgid "다이너마이트"
+msgstr ""
+
+msgctxt "d1f72cfcd58554eca71fd17117933775"
+msgid "ID=8433"
+msgstr ""
+
+msgctxt "61b4ebe109d36adb03438f36b81802f6"
+msgid "랜턴 헬멧"
+msgstr ""
+
+msgctxt "ab225bf1c4856740574033dcbf6b3fdf"
+msgid "ID=8434"
+msgstr ""
+
+msgctxt "fb9f896d3a8ff292430fdc4cfb26c02e"
+msgid "탄광 수레"
+msgstr ""
+
+msgctxt "bd839cc0c33c339e0dc7cb96a389a8af"
+msgid "ID=8441"
+msgstr ""
+
+msgctxt "a9342cb01a37fedc19354b2487deecb4"
+msgid "센트리 프라모델"
+msgstr ""
+
+msgctxt "ee506f1d6ab966e5b170d719be288b37"
+msgid "ID=8442"
+msgstr ""
+
+msgctxt "49ddc35ed2dddf96826cacf7e91966f0"
+msgid "용접기"
+msgstr ""
+
+msgctxt "b8dee065a379883e356461cbcb0a7a70"
+msgid "ID=8443"
+msgstr ""
+
+msgctxt "6015b7edc51df76518f735f8d989a0dc"
+msgid "용접 마스크"
+msgstr ""
+
+msgctxt "97f327506f7d48f29c269dae7c7a9e0d"
+msgid "ID=8444"
+msgstr ""
+
+msgctxt "f8b28973bb87522a24c844e1a1138009"
+msgid "용접 장갑"
+msgstr ""
+
+msgctxt "6c2c96ca45d2f969fc80d9d5f2743239"
+msgid "ID=8451"
+msgstr ""
+
+msgctxt "9a9b4d97b9703b2ccca1203cd601bc94"
+msgid "미니 냉장고"
+msgstr ""
+
+msgctxt "4ca0b4513091f853aaafb0dde4fe25c5"
+msgid "ID=8452"
+msgstr ""
+
+msgctxt "19985522d5e7e086c7ff628bad83deaa"
+msgid "하드 리더기"
+msgstr ""
+
+msgctxt "17b6b079a6c24adaf02e470543d8a3ea"
+msgid "ID=8453"
+msgstr ""
+
+msgctxt "abadf64d8d4f41b00940918961858766"
+msgid "노트북"
+msgstr ""
+
+msgctxt "084eacdc35617552c17ae7d016fb1a66"
+msgid "ID=8454"
+msgstr ""
+
+msgctxt "8c514de38961ac5c48ee6aa28e4cabea"
+msgid "스텐드"
+msgstr ""
+
+msgctxt "8469ef13bccd6cc82d880477cfe8d25a"
+msgid "ID=8461"
+msgstr ""
+
+msgctxt "b52f7a018b570b2967ad51be5fd1bae9"
+msgid "무전기"
+msgstr ""
+
+msgctxt "686c23cdaa5c7272472484c5bdc7125b"
+msgid "ID=8462"
+msgstr ""
+
+msgctxt "9f7acb7f22e9160745c5b661208cdf99"
+msgid "진압봉"
+msgstr ""
+
+msgctxt "35c496d12e823af39871a94d9499ee67"
+msgid "ID=8463"
+msgstr ""
+
+msgctxt "8c499275c6b0895e9b307889bc538611"
+msgid "철제방패"
+msgstr ""
+
+msgctxt "261aae5c7adbd7e8f40e6aee50e2193a"
+msgid "ID=8464"
+msgstr ""
+
+msgctxt "a2837ab973e2af2eaa7864a0fe552275"
+msgid "샷건"
+msgstr ""
+
+msgctxt "a35a7aab7069e67ab9c47c8dab02f24b"
+msgid "ID=8471"
+msgstr ""
+
+msgctxt "1cbafa6c367b7555c35bf789b303db85"
+msgid "톱"
+msgstr ""
+
+msgctxt "9d37b4c7bbeea4f6e50af5717f124c59"
+msgid "ID=8472"
+msgstr ""
+
+msgctxt "89af4ab225076b22c05bf737a3ed7ce4"
+msgid "각목 묶음"
+msgstr ""
+
+msgctxt "dee51df4e28b9ba221be3f50f4153372"
+msgid "ID=8473"
+msgstr ""
+
+msgctxt "4b46ad9818b2a06cf880eb3ea105d7f1"
+msgid "고무보트"
+msgstr ""
+
+msgctxt "7910248ef360e6032bf579440f987b02"
+msgid "ID=8474"
+msgstr ""
+
+msgctxt "e6170ca68474a78b2cce53351fc1f77d"
+msgid "아크쉽 모형배"
+msgstr ""
+
+msgctxt "91ec85e0a5e89ad999fc06647fa8b1b1"
+msgid "ID=5111"
+msgstr ""
+
+msgctxt "dd1112b621f7cd78e038ec4296b54140"
+msgid ""
+"디자인이 형편없는 안전모다. 하지만 이걸 쓰고 있을때면 그 무엇도 두렵지 않다.\\n그래, 세상의 풍파도 남들의 시선도 두렵지가 않다."
+msgstr ""
+
+msgctxt "06da4ee535cf748046fcb3964de13d43"
+msgid "ID=5121"
+msgstr ""
+
+msgctxt "4ebe8051ee0eeaa957ff4c953dec9475"
+msgid ""
+"가게를 막 시작했을 땐 주변 사람들의 도움을 많이 받았지.\\n청년 사업자여서 좋은 점도 많이 있었지만, 나쁜 점도 있었는데 그중 하나가 "
+"경험이 부족하다는 거야.\\n다 아는 것 같이 보이지만 세상의 실리를 잘 모른달까? 그런 면에서 주변 상인분들이 많은 도움을 줬어."
+"\\n개업식을 화려하게 꾸며준 화환들도 그중 하나였지."
+msgstr ""
+
+msgctxt "2b9d8eb857c760439fc0b31571ff184f"
+msgid "ID=5131"
+msgstr ""
+
+msgctxt "7fd4092e65f65beb2bc7712aef42ffe2"
+msgid ""
+"나는 파는 것도 잘하지만 쌓는 것도 잘해.\\n일률적으로 벽돌을 쌓아나가는 게, 뭐랄까 완성하고 났을 때의 뿌듯함을 준다고 해야 하나."
+"\\n공사장 아저씨들이 넌 이쪽 일이 천직인 것 같다고 이야기해주었는데, \\n좋으면서도 나쁜 게 기분이 묘하단 말이야. "
+msgstr ""
+
+msgctxt "924268318737c627244ff0f940ff4ef2"
+msgid "ID=5141"
+msgstr ""
+
+msgctxt "8f0b681462ebae36ca751d01539de2a2"
+msgid ""
+"꼬맹이가 하루의 절반 이상을 지낸 침대야.\\n작은 어린아이용 침대에, 꼬맹이가 좋아하던 만화 캐릭터의 스티커 같은 것을\\n덕지덕지 "
+"붙여놔서 좀 지저분해 보이기는 하지만….\\n어린아이 답고 좋다고 생각해."
+msgstr ""
+
+msgctxt "5cecbbec292ac046a08862758ee3a791"
+msgid "ID=5211"
+msgstr ""
+
+msgctxt "3faf346f564a0afe7795f0f9766a85a9"
+msgid ""
+"동생이 해변을 나갈 때마다 썼었던 밀짚모자야.\\n여름의 해변은 뜨거우니까, 자외선으로부터 얼굴을 보호시키기 위해서라도 동생에게 "
+"밀짚모자를 씌워줬어.\\n동생이 밀짚모자를 쓰면 [고무] 어쩌고 하면서 주먹을 휘두르곤 했는데, 도대체 뭐 하는 것인지…."
+"\\n어린애들이란 무슨 말을 하는지 도통 모르겠어."
+msgstr ""
+
+msgctxt "92d210294cafe9bb4f43da459b72b6e7"
+msgid "ID=5221"
+msgstr ""
+
+msgctxt "c3d2790fb28a88655633aeed8dddebee"
+msgid ""
+"마을 곳곳에 물을 전달해 주는 파이프 관이다. \\n연결하는 것은 매우 어렵고 힘이 들지만 다 연결해 놓고 나면 뭔가 큰일을 한 것처럼 "
+"느껴지곤 했다.\\n일하다가 파이프에 금속재질의 물건이 부딪히면 지하에 맑고 청명한 소리가 울려 퍼지는데,\\n그 소리가 묘하게 정신을 "
+"맑게 해주는 느낌이었던 것 같다."
+msgstr ""
+
+msgctxt "35b1126d972db72daee1366e0c37f84d"
+msgid "ID=5231"
+msgstr ""
+
+msgctxt "92ce1dd61c643e592bdad5986540e121"
+msgid ""
+"내가 가장 많이 봤던 아가씨의 모습은 거울을 들여다보고 있던 뒷 모습이었어.\\n의자에 앉아 아무런 말 없이 거울만을 바라보고 있었지."
+"\\n용기가 없던 나는 뒤에서 거울에 비친 아가씨의 얼굴을 몰래 훔쳐보거나 했었어.\\n그러다 눈이라도 마주치면 도망가기 바빴어."
+msgstr ""
+
+msgctxt "8f26134e2e06798082ece65184875f12"
+msgid "ID=5241"
+msgstr ""
+
+msgctxt "f8d3e982507e624d54dfd17628264a34"
+msgid ""
+"나만의 공간이 있다는 것은 고향에서는 상상도 할 수 없었던 일이었다.\\n모든 것이 공용이었다.\\n비록 좁은 캐비닛일 뿐이지만, 나만의 "
+"공간이 생긴다는 것이 어떤 의미인지는….\\n보통 사람들은 모를거다."
+msgstr ""
+
+msgctxt "3a9a25e875b9e8e70beafb3c3363489b"
+msgid "ID=5251"
+msgstr ""
+
+msgctxt "7f614b01c55dcd40e1be9e6bbce0b783"
+msgid ""
+"그가 먼 곳으로 비행을 떠나게 되면, 나는 꼭 내 손으로 그의 짐을 캐리어에 담아주곤 했습니다.\\n부디 안전하게만 돌아와 달라는 소망을 "
+"담아서 말이죠.\\n두 딸이 아빠의 가방을 꾸며야 한다며 가져온 스티커를 붙이면 준비는 끝이 납니다.\\n조심히 다녀오라고 그에게 가방을 "
+"전하면, 그는 딸들의 스티커를 보며 미소 짓기만 했습니다."
+msgstr ""
+
+msgctxt "643e7e5c175f3032b6a894d41841e3c6"
+msgid "ID=5311"
+msgstr ""
+
+msgctxt "55c9ade59a391794bc61ad99f268ad1c"
+msgid ""
+"이것이 현대판 노예가 아닐까. \\n로드 롤러가 주는 거대한 쇳덩어리의 위용은 절로 기를 죽이게 했다.\\n태양과 땅의 열을 가득 머금은 "
+"열기가 아스팔트 특유의 냄새와 합쳐져 숨을 막아왔다.\\n집에서 나를 기다릴 아이들만 아니었으면 아마 이 도로를 뛰쳐나갔을 것이다. "
+msgstr ""
+
+msgctxt "c10e5530bb672c3fc57645cb631763e5"
+msgid "ID=5321"
+msgstr ""
+
+msgctxt "592688f0d59b764541019d1cd7deb33a"
+msgid ""
+"사무실은 늘 메마른 공기 속에 자리하고 있었다. \\n건조한 날씨 탓인지, 여유 없는 분위기 탓인지 늘 가습기를 틀어놓아야만 했다."
+"\\n그는 출근하면 늘 습관적으로 가습기를 켜곤 했다.\\n아마도 메마른 공기를 이겨내려 한 건 아니었을까 싶다. "
+msgstr ""
+
+msgctxt "eb45c73e7a21564d623e44f797a15487"
+msgid "ID=5331"
+msgstr ""
+
+msgctxt "dfd7883aaf39e36df39fd7892841ec2e"
+msgid ""
+"선생님은 주유기를 집어 들며 마치 소녀처럼 해맑게 웃곤 했다.\\n나는 선생님의 손은 이런 일엔 어울리지 않는다며 그것을 빼앗으려 "
+"했지만, 자신이 대신할 동안 쉬고 있으라는 그녀의 의지는 완고할 뿐이었다."
+msgstr ""
+
+msgctxt "bca7a859c3f4b764811b55eef514baa6"
+msgid "ID=5341"
+msgstr ""
+
+msgctxt "d33f55778c99c79c596b15e6ad88ac14"
+msgid ""
+"마을 입구를 밝히는 네온사인 간판은 우리 마을의 자랑이었지.\\n왜냐하면, 우리 아빠가 만들었으니까!\\n낮에는 해가 더 밝아서 그 "
+"멋짐을 볼 수 없지만, 밤에는 분명히 빛난다고! \\n저 하늘의 별보다 말이야!"
+msgstr ""
+
+msgctxt "2a72f8fb89c5599e19d18f5eed420ee4"
+msgid "ID=5351"
+msgstr ""
+
+msgctxt "9e594ad352169fce381f616b7056dd35"
+msgid ""
+"공중에서 창문 닦개로 창문을 닦으려면 고도의 집중력이 필요해.\\n고도의 집중력으로 긴장하고 닦지 않으면 평소의 내 성격이 나와 큰 "
+"사고로 이어질지도 모르니까 말이지.\\n그렇게 집중해서 다 닦고 올라가고 나면 온갖 종류의 근육통들이 나를 덮쳐오는데…. 으으으\\n정말 "
+"힘든 일인 것 같아."
+msgstr ""
+
+msgctxt "082df350e778d6e68a6e567fc605943c"
+msgid "ID=5361"
+msgstr ""
+
+msgctxt "28da91be2f88d3a3e0721fe944c45304"
+msgid ""
+"새로 배정 받은건물, 새로 배정받은 업무, 새로 배정받은…. 모니터? \\n언제 만들어졌는지 모르겠는 모니터를 새로 받았을 때 나는 순간 "
+"내가 좌천당한 것은 아닌가 \\n내 눈을 의심했다."
+msgstr ""
+
+msgctxt "1e9bf70f7c6b344733d7170d9edc72a4"
+msgid "ID=5112"
+msgstr ""
+
+msgctxt "d27e78fc7a5731b1475d6571b96ddb0f"
+msgid ""
+"제 아무리 기계가 발전했다고는 하지만 사람이 해야만 하는 일이 있는 법이다.\\n그렇기에 나같은 놈도 일을 할 수 있는 거겠지.\\n이제 "
+"내가 할 일은 내 몸을 깎아먹으며 이것을 사용해, 그녀에게 행복을 안겨주는 것이다."
+msgstr ""
+
+msgctxt "c3489907453dbe1911941da8770744f5"
+msgid "ID=5122"
+msgstr ""
+
+msgctxt "7e29f513c0d50978d02834d3470fe297"
+msgid ""
+"공기를 주입하면 허공에서 춤을 추는 공기인형이야.\\n하단부의 기계 부분이 공기를 조절해 가면서 마치 춤을 추는 듯한 움직임을 자아내지."
+"\\n맞은편 의원에서 근무하는 의사분은 이걸 보면서 [관절]이 없으면 이런 움직임을 보여줄 거라고 하더군.\\n애초에 인형인데 [사람]에 "
+"빗대어 접근하다니! 정말 특이한 사람이었어."
+msgstr ""
+
+msgctxt "9689aa72a5dd686bab2bcc6ea65a1e21"
+msgid "ID=5132"
+msgstr ""
+
+msgctxt "bc4f9abcba136aeb9e0382322f6afc70"
+msgid ""
+"역시 나는 파내는 것 하나는 끝내주는 것 같아.\\n남자는 역시 삽질을 잘해야 남자 중의 남자라고 할 수 있지!\\n선천적으로 몸으로 "
+"일하는 것들이랑은 잘 맞는지 남들처럼 이 직업이 괴롭고 힘들게 다가오진 않았어. \\n오히려 아무런 생각 않고 작업에 몰두할 수 있다는 "
+"점에서 좋았던 것 같아."
+msgstr ""
+
+msgctxt "c98b0ddde55ac31115fc8e9726464e9c"
+msgid "ID=5142"
+msgstr ""
+
+msgctxt "f8d4567067d370d8444b28c7a45b1ba9"
+msgid ""
+"어떻게든 바깥 공기를 쐬고 싶다고 떼를 쓰면\\n꼬맹이의 부모님은 난처한 얼굴로 이 휠체어를 가져왔었어.\\n자그만하고, 고가라고는 "
+"생각할 수 없는 물건이지만\\n꼬맹이에게는 바깥 세계로 향하는 유일한 통로였을거야."
+msgstr ""
+
+msgctxt "5266637a50cde863b206ec6a3b333cb6"
+msgid "ID=5212"
+msgstr ""
+
+msgctxt "d2e86b3ae5849fa62294d3273cfe57a8"
+msgid ""
+"아이스박스는 여름의 해변에서 유일하게 냉기를 머금고 있는 것이지.\\n동생은 다른 것은 다 두고 가도 아이스박스는 자기가 꼭 챙겨서 "
+"나갔었어.\\n본인이 좋아하는 아이스크림들을 가득 담아서 말이야.\\n동생이 물놀이 나간 사이에 그 아이스크림들을 몰래몰래 꺼내먹는 게 "
+"또 하나의 재미였었지."
+msgstr ""
+
+msgctxt "a425ad4447cd2fec3dd74f2ae64b8a55"
+msgid "ID=5222"
+msgstr ""
+
+msgctxt "dbb04abd09054ce080eee2ee237a5d25"
+msgid ""
+"지하에 감도는 어둠 속에서 유일하게 길잡이가 되어 주는 것은 이 손전등 하나뿐이었다.\\n나는 일시적으로만 참여했을 뿐이어서 눈이 지하에 "
+"익숙해지지 못해 이 손전등 하나가 \\n더욱 절실하게 느껴졌었다."
+msgstr ""
+
+msgctxt "98210fd8f1805e312e05a3e6d2791055"
+msgid "ID=5232"
+msgstr ""
+
+msgctxt "22979c4dd73e1b2fa85f7fe93fb0422b"
+msgid ""
+"언제나 창문을 향해 놓여져 있었던 의자.\\n아가씨는 비가 오는 날이면 언제나 의자에 작은 발가락을 오므린 채 앉아 창 밖을 멍하니 "
+"쳐다봤어.\\n혹시나 말동무가 필요한게 아닐까 해서 슬쩍 다가가면 날 한 번 쳐다보고 웃어줬어.\\n그리고 다시 말없이 창 밖을 "
+"바라보았지."
+msgstr ""
+
+msgctxt "b73abd7fac70cd7e4a75cfd56154e04c"
+msgid "ID=5242"
+msgstr ""
+
+msgctxt "110ecf2f1acc6c1f6d4ffd443fb28a43"
+msgid ""
+"차가운 방바닥에 앉아, 다리 하나가 언제 부러질지 모르는 덜컹거리는 책상에서 했던 공부는\\n절대 잊을 수 없을거다. 물론 나쁜 의미로 "
+"말이다.\\n이런 번쩍거리는 책상 위라면, 뭘 하던 잘 될 것 만 같은 느낌이다."
+msgstr ""
+
+msgctxt "48b09e6a974054ac28922c29efc49557"
+msgid "ID=5252"
+msgstr ""
+
+msgctxt "2e1e3b980bec86af77d7ada7d7daae3a"
+msgid ""
+"그와 같은 직업의 사람들은 비행기를 탈 때면 늘 산소호흡기를 끼고 있다고 합니다.\\n그것은 하늘 높이 올라갔을 때도 그에게 숨을 쉴 수 "
+"있는 산소를 제공해 주겠죠.\\n나는 그에게 비행기를 타면 제일 먼저 산소호흡기부터 확인해 보라고 신신당부를 아끼지 않았습니다. "
+msgstr ""
+
+msgctxt "b4b617471212d002c30aaf364854b38d"
+msgid "ID=5312"
+msgstr ""
+
+msgctxt "af905fd39c2accb4d50996d851bf41ec"
+msgid ""
+"지나다니는 차들의 홍수에서 우리를 지켜주는 노란 팻말이다.\\n광활한 고속도로 속에서 우리의 영역을 표시한 것이기도 했다.\\n다른 "
+"사람들도 함부로 팻말 안으로 들어오지 못하지만, 우리 역시 함부로 팻말 밖으로 나갈 수도 없어\\n가끔 그것이 감옥의 창살처럼 느껴지곤 "
+"했다."
+msgstr ""
+
+msgctxt "9254f4a0d3cf80ec1072727651a38bb2"
+msgid "ID=5322"
+msgstr ""
+
+msgctxt "fab2aa50d3e290631d2a83f8bbf794c1"
+msgid ""
+"그의 모습은 큰 박스와 함께 사라져 갔다.\\n회사를 향한 그의 충성도, 열정도 모두 이 큰 박스안에 담겨 사라져 버렸다.\\n그의 "
+"열정이 모자랐던 것일까? 아님, 능력이 부족해서였을까?\\n모른다. 단지 분명한 건 그는 회사에 필요하지 않았을 뿐이라는 것이다."
+msgstr ""
+
+msgctxt "a12f73772d8da5bf9d7d5a09d4503b03"
+msgid "ID=5332"
+msgstr ""
+
+msgctxt "beffd043eb1dd27f8c11fb08d5567f60"
+msgid ""
+"선생님은 우리 업장에 오면 가장 먼저 소화기를 살폈다. \\n그러면서 나에게 차근차근 소화기 사용법을 알려주곤 했다.\\n그녀의 소화기 "
+"강의는 나에게서 멈추지 않고 모든 직원에게로 이어져 나갔다.\\n역시 그녀는 천생 선생님인 것 같다."
+msgstr ""
+
+msgctxt "e015d61c170c9be00d41b4e512073f65"
+msgid "ID=5342"
+msgstr ""
+
+msgctxt "5e7ac71fc60c9f7d3d50e7cbd391cc40"
+msgid ""
+"아빠는 키가 컸는데도 사다리를 탔어.\\n아빠가 사다리를 타면 손이 하늘에 닿을 만큼 커지곤 했지.\\n아빠가 사다리를 탈 때면 나도 "
+"아빠가 올라간 반대편으로 따라 올라가곤 했어.\\n그때마다 아빠는 좋다고 웃었지만, 엄마는 위험하다며 소리치곤 했지."
+msgstr ""
+
+msgctxt "4e1ac83f1cbaa7f95eb1c4bfdeb486c5"
+msgid "ID=5352"
+msgstr ""
+
+msgctxt "0ac18c259e165e06d3ad8d6ce08680cd"
+msgid ""
+"나를 지탱하고 있는 생명선이 파르르르 떨릴 때마다 내 가슴도 파르르르 떨려오는 것 같았어.\\n영화를 보면 히어로들은 항상 하늘을 "
+"날아다니곤 하는데 어떻게 이런 무서움을 견디는지….\\n뭐 그건 영화지 실제가 아니니까 그럴 수 있는 것 아니겠어?"
+msgstr ""
+
+msgctxt "930e07532a9da90a310334dda4fbd39e"
+msgid "ID=5362"
+msgstr ""
+
+msgctxt "a920b789c49a594df2d8e19ece5a0bfc"
+msgid ""
+"우리가 들어 오기 전의 이 회사는 종이를 만들던 회사였는지 아니면 인쇄업을 하던 회사였는지 재단기만 크고 멀쩡한 것으로 갖추고 있었다. "
+"도대체 이전엔 뭐하던 회사였는지….\\n어쩌면 우리보다 더 비밀리에 감춰진 조직이었는지도 모른다."
+msgstr ""
+
+msgctxt "503c4c5309b8ba9a8629e0aa5fd2bd2a"
+msgid "ID=5113"
+msgstr ""
+
+msgctxt "358309f39309438f0d559676d9d1490c"
+msgid ""
+"첫 출근을 기념한다며, 그녀가 모아놓은 돈으로 구입한 공구 박스다.\\n유명한 메이커의 제품이라 비쌌을텐데….\\n박스 안쪽에 작은 "
+"쪽지가 있다.\\n[힘내요]라고 적혀있는 짧은 글귀인데, 눈 앞이 흐려져 제대로 읽을수가 없다."
+msgstr ""
+
+msgctxt "8e38af10409719e8b655f7542d036a41"
+msgid "ID=5123"
+msgstr ""
+
+msgctxt "340d286c503d408e28627d34e4eb5efd"
+msgid ""
+"역시 청년 사업자가 가장 힘을 줘야 하는 부분은 신선한 사업아이템이겠지!\\n그것을 마음껏 표출하는 것이 바로 이 메뉴판이란 말씀."
+"\\n며칠 밤을 새워가며 늘리고 추리고, 고심해가며 써내려간 나의 회심의 역작이랄까.\\n돈을 주고 전문 업자에게 맡길까도 생각해 봤지만 "
+"역시 돈이 아까워서 스스로 해버렸었어."
+msgstr ""
+
+msgctxt "e8906992daf324074464fb0444a85e14"
+msgid "ID=5133"
+msgstr ""
+
+msgctxt "1495d5920331fd1eeee533aef089e913"
+msgid ""
+"공사장일에 긍정적인 나도 이 시멘트 자루를 나를 때 만큼은 싫었던 것 같아.\\n정말로 무지막지하게 무겁다고 이거.\\n이걸 옮기고 나면 "
+"온몸의 힘이 빠져서 밥을 애타게 찾게 되더라고."
+msgstr ""
+
+msgctxt "520eefd501c77c03a7032546728b1201"
+msgid "ID=5143"
+msgstr ""
+
+msgctxt "0a725e0f8bb8fdd512ba96d6e9df3131"
+msgid ""
+"꼬맹이가 몸에서 한시도 떼어놓지 않던 큰 곰 인형이야.\\n언젠가 꼭 동물원에 가서 큰~곰을 만져보는게 꿈이라고 입버릇처럼 말했었어."
+"\\n큰 곰의 잽이 1톤의 힘을 가지고 있다는 말은 굳이 안 해도 되겠지."
+msgstr ""
+
+msgctxt "275a41e8ce0dd1ea0594ac6397092ec1"
+msgid "ID=5213"
+msgstr ""
+
+msgctxt "df72af1aa4374c5d7846d8c7a582ddb7"
+msgid ""
+"동생은 수영을 못해서 꼭 튜브를 끼고 물에 들어가야 했어.\\n튜브는 항상 본인이 좋아하는 만화 캐릭터가 그려져 있어야 했지.\\n다 큰 "
+"어른이 끼고 다니기엔 유치해 보였지만 어린애가 그런 걸 끼니 잘 어울리더라고.\\n확실히 그런 것들이 잘 어울리는 나잇대가 있는 것 같아."
+""
+msgstr ""
+
+msgctxt "e1a57eae31bc710846f61493a5fde40d"
+msgid "ID=5223"
+msgstr ""
+
+msgctxt "7de5424895f792f5be517a49e274c363"
+msgid ""
+"뚫어뻥을 사용하면 그 안에 정체되어 있던 것들이 역류하기 시작하는데 그 냄새가 막혀있었던 \\n기간만큼이나 어마어마했다. \\n그 냄새를 "
+"맡으면 정말 여기서 더는 일 하고 싶지 않다고 생각하게 되는데 이런 걸 몇십 년씩이나 \\n느끼고 왔었던 어르신들을 보고 차마 티를 낼 "
+"순 없었다."
+msgstr ""
+
+msgctxt "1f3144cca38caa6db41eaf4966e8c42d"
+msgid "ID=5233"
+msgstr ""
+
+msgctxt "80e8802c4adbc082ec8e7f6ba673993d"
+msgid ""
+"아가씨는 밤 산책을 나서는걸 좋아했어.\\n달빛이 밝은 날이면 어김없이 어두운 수풀길을 걸었어.\\n달빛이 비치지 않는 어두운 날이면 "
+"조용히 다가와 나에게 랜턴을 쥐어줬고,\\n난 기뻐서 어쩔 줄 몰라하면서도 조용히 랜턴을 비추며 아가씨를 뒤를 따라 걸었어."
+msgstr ""
+
+msgctxt "b6339007055f019dbb9414824ab6c04a"
+msgid "ID=5243"
+msgstr ""
+
+msgctxt "3957b2b9a810e3ec670aa7e3cd558034"
+msgid ""
+"나에겐 쓰레기라고 부를 수 있는 것이 없었다. 무엇이든 다시 사용했었다.\\n종이, 수건, 비닐 봉투… 내가 버릴 수 있는 건 없었다."
+"\\n하지만 이곳은 다르다. 자기 역할을 다 한 물건은 모두 이 쓰레기통으로 들어간다.\\n조금의 여지도 없이."
+msgstr ""
+
+msgctxt "a2079263d4bd480ce9ad66629dd1ed5b"
+msgid "ID=5253"
+msgstr ""
+
+msgctxt "aa9a10c4bc2bcd6d80a6523cbed26fe1"
+msgid ""
+"그가 어느 날 두 딸에게 주고 싶다며 구명조끼를 가져온 적이 있었습니다.\\n막내딸이 아빠랑 같은 옷을 입고 싶다며 떼를 쓴 것이 그 "
+"원인인 것 같았습니다.\\n처음엔 모조품인 줄만 알고 괘념치 않고 있다가 막내가 가지고 놀다 낙하산이 터졌을 때 \\n그것이 진짜 "
+"구명조끼인 것을 알고 아연실색했던 기억이 납니다."
+msgstr ""
+
+msgctxt "6caa812071adb3a81d225b5697eaf4cd"
+msgid "ID=5313"
+msgstr ""
+
+msgctxt "eaac05fcf79f87bde91f79f829bfd5d8"
+msgid ""
+"공사장 옆을 지나는 차들의 경로를 다른 길로 유도해 주는 장치였다.\\n정말 이렇게 눈이 아플 정도의 색을 써도 되는가 싶을 정도의 "
+"밝은색을 사용하여 만들었다.\\n하지만 초보 운전인지, 졸음운전인지 가끔 콘으로 유도된 경로를 뚫고 우리에게 돌진하는 차들이 있어 "
+"\\n우리를 안심하지 못하게 만들곤 했다."
+msgstr ""
+
+msgctxt "8b79aa2eb91abc35c03721c8e72ef717"
+msgid "ID=5323"
+msgstr ""
+
+msgctxt "7f4eb58eec98e028bb1e21e63799185a"
+msgid ""
+"그는 성실하고 열정적이었던 만큼 일거리도 많았다.\\n나는 늘 그의 책꽂이를 질린 눈으로 바라보곤 했다.\\n내가 그럴 때마다 그는 뒤도 "
+"안 돌아 보고 [담배 피고 싶어?]라며 말했다.\\n그의 눈은 뒤통수에도 달린 것 같았다."
+msgstr ""
+
+msgctxt "d4afe1db05be4c3a9bead6c333f11093"
+msgid "ID=5333"
+msgstr ""
+
+msgctxt "e6d68e768f18ca4daddf8056241b1e42"
+msgid ""
+"그녀가 우리 업장에 올 때면 늘 한 손에 기름통을 들고 오곤 했다.\\n실내 난방에 사용하는 기름을 담아가기 위해서였다.\\n내가 "
+"누구에게 그렇게 매번 기름을 담아다 주는 것이냐고 묻자 그녀는 말없이 미소만 지을 뿐이었다."
+msgstr ""
+
+msgctxt "85a26a7d70c2924b09a6ec9bd13aad36"
+msgid "ID=5343"
+msgstr ""
+
+msgctxt "34d631a3453ae20c68ada086fef90de9"
+msgid ""
+"아빠가 일을 할 때면, 나는 늘 그 옆에 따라가서 이 케이블을 가지고 놀곤 했어.\\n노란 옆면을 바닥에 대고 의자로 쓰기도 하고, "
+"\\n검은 선을 주욱~잡아당기고, 돌돌 감아가면서 뛰어다니기도 했어.\\n그러다 아빠가 부르면 달려가서 전선맨이 되어주기도 했지!"
+msgstr ""
+
+msgctxt "72f081b6ea36e9a399a40633763ec32c"
+msgid "ID=5353"
+msgstr ""
+
+msgctxt "12e99250ce8360a7c122f25c528a885b"
+msgid ""
+"빠르게 돈을 많이 벌 수 있다는 말을 듣고 시작해 이 의자를 탔지만, 공중에 다리가 떠 있게 되면 \\n정말 내가 왜 여기 의자에 "
+"앉아있는가에 대한 회의감에 가득 차곤 했지.\\n게다가 나는 항상 무언가를 깜박하고 두고 올 때가 많아서 오르락내리락을 자주 했는데, "
+"\\n그럴 때마다 덤벙대는 내 성격이 너무나도 싫었어. 너무나도!"
+msgstr ""
+
+msgctxt "932c4e84a73630e4f4312a172d915449"
+msgid "ID=5363"
+msgstr ""
+
+msgctxt "75aa78df4d575fcd6b3326f3583e76a2"
+msgid ""
+"정말 이런 곳에서 일할 수 있는 것인가?\\n혼자 앉기도 버거워 보이는 이 일인용 책상을 보았을 땐 정말 의문의 정점을 찍는 것 같았다. "
+"\\n그것보다 나는 이 책상에서 내가 일을 해야 한다는 게 걱정이 되기 시작했다.\\n설마 진짜 이 책상으로 일하라는 것은 아니겠지?"
+msgstr ""
+
+msgctxt "3138d10e3d6c6dead42139c0e3f44668"
+msgid "ID=5314"
+msgstr ""
+
+msgctxt "093d37c500283f95684425a7acb63baf"
+msgid ""
+"무거운 해머를 들고 내리치다 보면 어느새 손목이 부러질 것같이 아파져 오곤 했다.\\n사람들은 자네가 아직 요령이 없는 것이라며 요령이 "
+"생기면 팔이 아프지 않을 것이라고 이야기했지만,\\n내가 보기엔 그들이 굳은살처럼 손목의 통증이 무뎌진 것뿐인 것 같았다."
+msgstr ""
+
+msgctxt "9856a1e33f9bb42ef4fe8cb5e2a58e93"
+msgid "ID=5324"
+msgstr ""
+
+msgctxt "b1efb125ce50f0a90c3b415beab0bded"
+msgid ""
+"그의 세심함은 회사 곳곳에서 발견할 수 있다.\\n회사 곳곳의 스위치, 전자, 전기 기구들… 그는 늘 가장 먼저 와 그것들을 켰고, 가장 "
+"늦게 가 그것들을 껐다.\\n이 전기스토브도 그중 하나다.\\n그의 배려는 늘 우리를 따뜻하게 덥혀주었다."
+msgstr ""
+
+msgctxt "35e9df635f374be980213ad1048617b6"
+msgid "ID=5334"
+msgstr ""
+
+msgctxt "6345f071bd58bbb10d85ad16f93fe602"
+msgid ""
+"내가 아르바이트를 방해하지 말라며 그녀를 가만히 앉혀놓자, 그녀는 업장 저 구석에 있던 \\n플라스틱 빗자루를 집어 들고 청소를 하기 "
+"시작했다.\\n제발 편히 쉬면 안 되겠냐는 말에 그녀는 가만히 있어서 뭣하냐며 오히려 나를 나무랐다."
+msgstr ""
+
+msgctxt "75ceccd6f9861f1b803fe3cf864d7df9"
+msgid "ID=5344"
+msgstr ""
+
+msgctxt "3f72683c2d49cfa95693514bff030d64"
+msgid ""
+"아빠는 내가 아빠의 작업장에 따라가는 것을 좋아했지만, 꼭 이 헬멧을 쓰고 있게 했어.\\n아빠의 작업장은 위험하니까 어린아이인 내가 "
+"돌아다니다 큰 사고가 있을 수 있다고 말이야.\\n안전제일! 이라나 뭐라나. \\n뭐, 안전이 제일인 건 이제 내가 그 누구보다 잘 알게 "
+"되었지만…."
+msgstr ""
+
+msgctxt "5b606688567f6459cf3b93bbd7297f9d"
+msgid "ID=5354"
+msgstr ""
+
+msgctxt "989b6a90f00bcf5ca41612c6cb4201e4"
+msgid ""
+"이거 세제로 닦다가 잘못 미끄러지면 황천길로 순시 간에 가는 거 아냐?\\n세제 통을 처음 받아들고 멍하니 이런 생각을 있었던 나에게 "
+"소장님은 이상한 소리를 한다며 \\n엉덩이를 걷어차고 가는 거 있지! 나는 진심으로 걱정돼서 그랬던 건데… \\n모두 나를 보고 마치 "
+"귀엽다며 웃는 데 정말 답답해 죽는 줄 알았어."
+msgstr ""
+
+msgctxt "6a8cb3f50b1169c4c2bc03dfc455c694"
+msgid "ID=5364"
+msgstr ""
+
+msgctxt "c3e22ec5eb4324c9eb34a925ca8b6ee9"
+msgid ""
+"누가 썼는지 모를 방석이다. 누구의 것인지 모를 생활 때가 가득 묻혀 있다.\\n누군가 일을 하긴 했던 모양이다.\\n무슨 일을 했는지는 "
+"정말로, 정말로 모르겠지만…."
+msgstr ""
+
+msgctxt "467776c477c2825a5ef78355b7ff169e"
+msgid "ID=5411"
+msgstr ""
+
+msgctxt "0d4eee4fc4f682d0601ec9c92bfff19e"
+msgid ""
+"나의 빛 나의 사랑 나의 운명의 데스티니, 나의 루시쨩의 한정판 피규어야.\\n내가 이걸 구하려고 얼마나 노력한 줄 알아?  \\n정말 "
+"눈물 없이는 못들을 대서사시였다고! \\n물론, 대서사를 펼칠 정도의 가치가 있는 것이긴 했지만 말이야."
+msgstr ""
+
+msgctxt "079ab49d9198dcaa0298b17848975668"
+msgid "ID=5412"
+msgstr ""
+
+msgctxt "bb5a3c58f5a48586713a838c34b95488"
+msgid ""
+"이건 [네코 프린세스 루시-크리스탈 대모험]의 DVD 한정판에 동봉된 한정 브로마이드라고!\\n부럽지? 부러울 거야, 부러울 것이 "
+"분명해!\\n이건 500장밖에 제작되지 않은 한정 중에 한정이니까!\\n음화하핫! 루시쨩의 상큼하고 아름답고 엘레강스한 자태가 고스란히! "
+"담겨 있다고! 아 루시쨩…."
+msgstr ""
+
+msgctxt "c0fe3a5320210db92833fa1f5dcedc27"
+msgid "ID=5413"
+msgstr ""
+
+msgctxt "ea1153cf83bee88882cbf06e430fde0b"
+msgid ""
+"이건 나의 잠을 책임져 주는 특별한 아이템이야.\\n이게 있음으로써 나의 숙면은 보장된 것이나 마찬가지지.\\n이걸 끌어안고 자면 "
+"꿈속에서 루시쨩을 만날 수 있단 말씀!"
+msgstr ""
+
+msgctxt "1a3e2b06edeba4208ac74f4f1d680f8a"
+msgid "ID=5414"
+msgstr ""
+
+msgctxt "82ed485d541762767d8d4943011fb4ca"
+msgid ""
+"루시쨩이 실제로 존재한다면 이 정도의 키와 이 정도의 몸집을 가지고 있겠지?\\n언젠가 꼭 그녀와 실제로 만나서 대화해 보고 싶어. "
+"\\n실제로 보는 그녀의 모습은 내가 상상하는 것보다 훨씬 더 귀엽고 섹시하고 아름다울 거야!"
+msgstr ""
+
+msgctxt "74b89722c916d5f74389e772c0f968c7"
+msgid "ID=5421"
+msgstr ""
+
+msgctxt "6b061e56f5b5aa0d08f47559270d9ba8"
+msgid ""
+"마대 걸레라는 도구라고 합니다. 긴 나무 막대 아래 길게 늘어져 뭉쳐진 천들이 매달려 있는 형태입니다.\\n이 도구를 사용할 때의 관건은 "
+"힘 조절 입니다. \\n한번은 힘을 너무 강하게 주고 앞으로 밀었더니, 도구는 움직이지 않고 저만 움직여 넘어져 버렸습니다.\\n다리관절 "
+"파손의 위험이 있었지만, 마스터께서 그 현상을 보고 환하게 웃으셔서 기뻤습니다."
+msgstr ""
+
+msgctxt "7d86aaae4b26adb66875f1b6e9c01176"
+msgid "ID=5422"
+msgstr ""
+
+msgctxt "f26639c654e8b8ec641db649a3159681"
+msgid ""
+"이것은 먼지떨이라는 도구라고 합니다. 먼지를 털어내는 일을 할 때 쓰인다고 합니다.\\n4가지의 강한 색상이 인상적입니다. 마치 제 "
+"눈에만 보이는 [감정]들의 빛깔 같아 기분이 좋아졌습니다.\\n잠시 이 청소 도구를 보면서 감상에 빠져있는데, 마스터께서 얼른 청소하지 "
+"못하겠냐고 화를 내십니다.\\n얼른 청소하러 가야 할 것 같습니다."
+msgstr ""
+
+msgctxt "b61d3fb76daa723c6d88dbbf816b442a"
+msgid "ID=5423"
+msgstr ""
+
+msgctxt "0f5765d455d44acf0c4ddbf10f193137"
+msgid ""
+"이것은 청소기라는 도구입니다. \\n작동시키면 시끄러운 소리가 울려 퍼져 소음 발생 무기가 아닌지 물었다가 마스터에게 혼이 났습니다. "
+"\\n먼지나 쓰레기가 있는 곳에 막대를 가져다 대면 쓰레기를 빨아들이는 것이 매우 인상적이었습니다.\\n그런데 빨아드리는 대상을 가리지 "
+"못한다는 점에서 조금은 불편하게 느껴졌습니다. "
+msgstr ""
+
+msgctxt "b6f055a6b4996ed536dd6357a25db2d4"
+msgid "ID=5424"
+msgstr ""
+
+msgctxt "977647a6af7f0282b7b597f3c2cae834"
+msgid ""
+"분무기라는 도구입니다. 손잡이를 누르면 물이 정면의 구멍으로 분사됩니다.\\n마스터는 이것을 물청소가 필요한 곳에 뿌려가면서 일하라고 "
+"말씀하셨습니다.\\n한번에 두 가지의 도구를 사용하여 청소하라니…!\\n이것을 사용하는 순간 청소의 난이도가 올라가는 매우 특이한 "
+"아이템이었습니다."
+msgstr ""
+
+msgctxt "01c8688b89514fa176c82d4e504edfa9"
+msgid "ID=5431"
+msgstr ""
+
+msgctxt "517371219c7a6707e51e496693935206"
+msgid ""
+"이 곡괭이를 딱딱한 바닥으로 잘못 내리치면, 손이 박살 나는 날이래.\\n손끝부터 찌릿찌릿하게 올라오는 게 감전 저리 가라 라나 뭐라나."
+"\\n그러게 그렇게 위험하면 조심 좀 하면서 일하지. 누가 성격 급한 거 모를까봐 그렇게 서두르는지 몰라!\\n사람 걱정되게 말이야."
+msgstr ""
+
+msgctxt "2993cfffe7e13efc728e58bf8b9e18d5"
+msgid "ID=5432"
+msgstr ""
+
+msgctxt "7e506b337fd7d49b1a1e6aca2bf56225"
+msgid ""
+"다이너마이트는 가장 사고가 자주 나는 물품 중 하나야.\\n그것도 잘못 사용하면 잘못한 본인뿐만 아니라 모두 다 죽을 수도 있는 아주 "
+"위험한 물품.\\n난 그가 이것을 사용하는 임무를 맡았다고 하면 늘 가슴이 철렁이곤 했어.\\n제발 그런 일 좀 안 했으면 좋겠는데…."
+msgstr ""
+
+msgctxt "e2100d253335c97bbd70681bcdf2fed2"
+msgid "ID=5433"
+msgstr ""
+
+msgctxt "e2b1d6d4d377857ac95dfed69035b690"
+msgid ""
+"그는 매일 어두운 굴속을 지나는 임무를 하곤 한대.\\n제발 그 어둠 속에서 길을 잃지 말라는 뜻에서 늘 랜턴 헬멧을 조립해 건네주곤 "
+"했어.\\n물론, 공구 담당자가 아니라서 이런 걸 해주면 상부에게 징계를 먹겠지만.\\n그래도 남의 손에 맡기는 것보단 안심이 되니까. "
+"어쩔 수 없지 뭐."
+msgstr ""
+
+msgctxt "d4f90476bf3c46f73710e1d26ae85bc3"
+msgid "ID=5434"
+msgstr ""
+
+msgctxt "18d429940866314276846d26e30e16a0"
+msgid ""
+"그가 끄는 수레의 무게는 500kg은 족히 넘는다고 해. \\n말도 안 된다고 생각할지 모르겠지만, 그렇게 끌어주지 않으면 뒤에 사람이 "
+"개고생하게 된다나 뭐라나.\\n하여튼 성격은 좋아가지고. 본인 몸도 좀 생각해서 일을 해야 할 텐데… 바보 같은 남자."
+msgstr ""
+
+msgctxt "82edd137b68e2a87fbeebe7a1da23ffa"
+msgid "ID=5441"
+msgstr ""
+
+msgctxt "16c8c65622c0719218641e25082bbe57"
+msgid ""
+"내가 놀란 건 그 녀석이 자기가 가지고 있던 프라모델을 진짜 로봇으로 개발하고 있다는 걸 알았을 때야.\\n이런 걸 성공한 덕후라고 해야 "
+"하는 건가?\\n자기는 덕후가 아니라 매니아 라고 하는데, 그 말이 그 말이지 뭐!\\n하여튼 그놈의 로봇 사랑. 대단하다 대단해!"
+msgstr ""
+
+msgctxt "5295e5a4865e3f3e3f510ee484231190"
+msgid "ID=5442"
+msgstr ""
+
+msgctxt "94d7da237cbe0aa0e0e3a9bd9ae60c6d"
+msgid ""
+"내가 그놈의 깡통들이 왜 그렇게 좋으냐고 물으면, 들고 있던 용접기를 들어 나를 위협하더군.\\n제길, 그게 얼마나 위험한 물건인데 그걸 "
+"들고 사람을 위협하다니!\\n평소엔 순둥이 같은데 그럴 때 보면 타고난 싸움꾼이었다니까!\\n저런 게 뭐가 좋다고 나는…!"
+msgstr ""
+
+msgctxt "5f830f295af80c5d957ea4bc7f24cbc9"
+msgid "ID=5443"
+msgstr ""
+
+msgctxt "559a8b17164c1da5c818b892a2055e49"
+msgid ""
+"그 녀석이 용접마스크를 쓰고 일하는 모습을 보면 제법 기술자의 태가 났었어.\\n너는 그걸 쓰고 있을 때 제일 멋있다고 얘기해줬는데, "
+"정말 기분이 나쁘다는 표정으로 나를 바라보더군.\\n도대체 내가 뭘 잘못했다고 그러는 거지?"
+msgstr ""
+
+msgctxt "8803597b83b4a5944a11863c4cb7ee4c"
+msgid "ID=5444"
+msgstr ""
+
+msgctxt "9e2facf437f8cc7e89f15d5f4b4f792f"
+msgid ""
+"녀석의 손을 보호해 주던 장갑이야. 겉면이 특수코팅 되어있어 용접기 등 고열, 고전압의 물체를 사용할 때 안전하게 사용할 수 있도록 "
+"도와주는 물건이지.\\n그 녀석이 장갑을 끼고 있으면 작은 몸에 손만 커져서, [너 로봇 같다!]라고 했더니 정말 좋아하더군.\\n좋은 "
+"말로 한 게 아닌데…. 도대체 호불호의 기준이 뭐야?"
+msgstr ""
+
+msgctxt "5d374c9f29e9d6466ec8dd305b4cea9c"
+msgid "ID=5451"
+msgstr ""
+
+msgctxt "a366e6b516e715ebb1b8633c46ccc5d2"
+msgid ""
+"타는 듯한 목을 축여주는 음료들이 가득 담긴 미니 냉장고.\\n이것이 없었다면 아마 나는 일이 주는 중압감과 긴장감 속에서 타는 목을 "
+"부여잡고만 있었을 것이다.\\n회사에서 받은 물건중 가장 부담 없고, 가장 만족스러운 물품이었다."
+msgstr ""
+
+msgctxt "3faf9fd209bf3ac5a201c350e5f4dd1f"
+msgid "ID=5452"
+msgstr ""
+
+msgctxt "690d61f493ca7a203a2d8ce4f49ccff4"
+msgid ""
+"회사에서 받은 것 중 하나.\\n이곳에서 회사의 것이 아닌 물품은 사용할 수 없게 되어있었기 때문에 개인적으로 더 좋은 물건을 \\n갖고 "
+"있다고 해도 지급된 물품을 사용해야만 했다."
+msgstr ""
+
+msgctxt "0792a67e183f1e6b3fe99f57345d845f"
+msgid "ID=5453"
+msgstr ""
+
+msgctxt "a1d38dc22d11d06d7273a6fd13448c44"
+msgid ""
+"회사에서 받은 노트북이다.\\n실험에 관련된 사람들을 관리하는 데 쓰였다.\\n작성된 내용은 모두 회사의 메인 컴퓨터에 직접 저장이 되는 "
+"형식이어서,  \\n사용하는 내내 감시받고 있다는 느낌을 지울 수 없었다."
+msgstr ""
+
+msgctxt "dbce07aca6fa3c22c1425c7e604ee674"
+msgid "ID=5454"
+msgstr ""
+
+msgctxt "9edd9cf72c44ede038024e0fc7b71b39"
+msgid ""
+"연구실의 불을 약하게 틀어놓은 채 개인별 스텐드만을 틀어놓게 되면, \\n혼자서 생각을 하기에 좋은 환경이 갖춰진다.\\n나는 매일 밤 "
+"연구실 안에서 스텐드 하나만을 틀어놓은 채 사색에 빠졌다.\\n그리고 하루 동안 일어난, 행했던 모든 죄에 용서를 구하는 기도를 했다."
+msgstr ""
+
+msgctxt "cc1cfe5d427a329cfba940ad45586a49"
+msgid "ID=5461"
+msgstr ""
+
+msgctxt "7a806a000fc82fa8a3e6199ca05395d8"
+msgid ""
+"그들은 건물을 순찰할 때 무전기는 필수로 장착하라고 말했다.\\n무슨 일이 있을 때 누구에게든 도움을 요청할 수 있기 때문이라 한다."
+"\\n도대체 이곳에 어떤 위험요소가 있길래 도움을 요청해만 하는지….\\n의혹은 커져만 갔다."
+msgstr ""
+
+msgctxt "84b0b30af1b8494d350d8b15f27b6686"
+msgid "ID=5462"
+msgstr ""
+
+msgctxt "f27f6e766bfd24a7d63c68702e23066a"
+msgid ""
+"진압봉은 사람에게 제법 강한 위력을 줄 수 있는 무기이다.\\n하지만 만약 침입자가 이능력자라면? 아마 휘둘러 보기도 전에 죽어버릴지도 "
+"모른다.\\n그들이 얼마나 우리를 언제 죽어도 상관없는 [말]이라고 생각하는지 잘 알 수 있는 대목이었다."
+msgstr ""
+
+msgctxt "03f03e41e934a06d7af84e1d964f41b7"
+msgid "ID=5463"
+msgstr ""
+
+msgctxt "843ea7c6a7d98d03858460a5bf48d582"
+msgid ""
+"방패를 들고 있으면 그래도 조금 안정감이 드는 것 같아서 좋았다.\\n언제 무슨 위협이 있을지 모르는 이 비밀기지에서 유일하게 나만을 "
+"보호해 주는 도구였기 때문이다.\\n이 방패가 큰 도움은 되지 않겠지만, 그래도 도망칠 시간을 주진 않을까 하는 기대가 생기게 했다."
+msgstr ""
+
+msgctxt "efb10a27effae3c64e1debd844584684"
+msgid "ID=5464"
+msgstr ""
+
+msgctxt "7d3fe00825d699bff7cff198811b2c86"
+msgid ""
+"나에게 이 총을 건네주던 선임은 대상이 누구든 수상한 자라면 망설임 없이 쏘라고 했다.\\n도대체 이곳에선 무슨 일들이 벌어지기에 그런 "
+"수상한 자가 있는 것일까?\\n그리고 그들이 감추고 싶은 [비밀]이라는 것은 무엇일까? 호기심은 이것에서 멈춰야 한다. \\n하지만 이 "
+"비밀을 알지 못하는 이상 [말]에서 벗어나지 못할 것이다. 그런 느낌이 들었다."
+msgstr ""
+
+msgctxt "47c9dad31406c6233f3a1f0eaa2facf9"
+msgid "ID=5471"
+msgstr ""
+
+msgctxt "e9ccf84d1752696f132f135e3ddf368b"
+msgid ""
+"겉면이 뾰쪽 뾰쪽 가시 같은 게 꼭 내가 가진 핑킹가위 같았어.\\n아빠한테 톱날의 가시를 한 번만 만져 보면 안 되냐니까 화들짝 놀라서 "
+"가져가 버리는 거 있지!\\n안 다치게 잘 만질 수 있는데, 아빠는 정말 겁이 많아서 문제야!"
+msgstr ""
+
+msgctxt "a02f1d85acc3cd8eef6f81aa9d80ad6d"
+msgid "ID=5472"
+msgstr ""
+
+msgctxt "3d8cb9551f2ade429d10f245b7f94e3e"
+msgid ""
+"나무들을 네모나게 잘라 놓은 기다란 막대야.\\n막대를 길게 늘어놓고 옆걸음으로 끝까지 걸어가거나, 평균대 위를 걷는 것처럼 양팔을 "
+"벌리고 \\n일자로 걸어가면서 놀면 정말 정말 재미있어.\\n뭐… 우리 아빠한테 들키면 잔뜩 혼나니까. 몰래몰래 갖고 놀아야 했지만 "
+"말이야."
+msgstr ""
+
+msgctxt "41c234ca169beccef482833b50c0ec43"
+msgid "ID=5473"
+msgstr ""
+
+msgctxt "913d95c4abc6c40f5d885b7cd0dbce94"
+msgid ""
+"내가 고무보트를 태워주면 안 되냐고 아빠를 조르면 아빠는 [우리 아가는 배 같은 거 타면 안 돼.\\n아가가 여기서 살 수 있는 대신, "
+"이런 거 타지 않기로 약속했어.]라고 말하곤 했어. \\n나는 아빠가 금방이라도 울어버릴 것 같아서 더이상 떼를 쓰지 않았지만, \\n왜 "
+"나는 배를 타선 안 되는지 이해할 수 없었지."
+msgstr ""
+
+msgctxt "9fd39de1db6c84635351e6d62b2b0c3d"
+msgid "ID=5474"
+msgstr ""
+
+msgctxt "c71815826bfc0b3d6727037b7a1b9ab5"
+msgid ""
+"아빠랑 아저씨들이 만들고 있다는 배의 모형이래.\\n정말정말 멋있게 생겼지! 그치!\\n이게 완성이 되면, 배를 타면 안 된다는 나도 한 "
+"번쯤은 태워 주지 않을까?\\n그럼 책에서만 보던 저기 바다 건너편의 땅에도 갈 수 있을 텐데…."
+msgstr ""
+

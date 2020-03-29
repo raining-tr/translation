@@ -1,0 +1,6441 @@
+# Eisou <nanamiide@gmail.com>, 2020. #zanata
+# Emre <silentdix@hotmail.com>, 2020. #zanata
+# Raining <rainingdreams@protonmail.com>, 2020. #zanata
+# lava <alishaan999@gmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-03-12 11:51-0400\n"
+"Last-Translator: Raining <rainingdreams@protonmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "cfcd208495d565ef66e7dff9f98764da"
+msgid "0"
+msgstr "0"
+
+msgctxt "443355ef0b7425e6d9b6cc60c081b0aa"
+msgid "방어형 BSK : 아머"
+msgstr "Defensive BSK: Armor"
+
+msgctxt "d2443cf1e2c514c609b7a917954901d9"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 방어 능력 상승]<font color='#9D927B'>\\n\\n공격 능력 강화에 "
+"특화된 버서커(Berserker) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 최하급의 브로치이며, 방어 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+"<font color='#FFBA85'>[Brooch : Defence Boost]<font color='#9D927B'>\\n\\nA "
+"berserker brooch that boosts your defence. An upgrade that imbues normal "
+"materials with SoulForce. Items made with this give you life. We call it a "
+"brooch for ease of reference. A bottom-range brooch that boosts your defence."
+"\\n "
+
+msgctxt "e14e9d6b8323e1500f76990659599334"
+msgid "ID=160321002"
+msgstr "ID=160321002"
+
+msgctxt "fd6a9d0abb5441f00477d58c08dd996c"
+msgid "방어형 BSK : 블러"
+msgstr "Defensive BSK: Camouflage"
+
+msgctxt "5e466f8a513563a64892583d9dae7cf4"
+msgid "ID=160321003"
+msgstr "ID=160321003"
+
+msgctxt "4cbd716eb7f152b0cb7e295a1e7d0f57"
+msgid "방어형 BSK : 고스트"
+msgstr "Defensive BSK: Ghost"
+
+msgctxt "4e470d63fa8629cddee3a1f0aba2f25f"
+msgid "ID=160321004"
+msgstr "ID=160321004"
+
+msgctxt "e9755a1cc626777782421cbae8c32bf2"
+msgid "방어형 BSK : 골리앗"
+msgstr "Defensive BSK: Goliath"
+
+msgctxt "b006c631ba7c56ece5332c155b7396ad"
+msgid "ID=160321005"
+msgstr "ID=160321005"
+
+msgctxt "41cc0301b181021361dd56cabb147c75"
+msgid "방어형 BSK : 노틸러스"
+msgstr "Defensive BSK: Nautilus"
+
+msgctxt "bd6fd37cb5d6d875cf01d5e014a1f73c"
+msgid "ID=160321006"
+msgstr "ID=160321006"
+
+msgctxt "e57bd3d06c09bd8705b12c86f4349af3"
+msgid "방어형 BSK : 스페로우"
+msgstr "Defensive BSK: Sparrow"
+
+msgctxt "826333bbc6ee24aa6d98927837c7f0a6"
+msgid "ID=160321007"
+msgstr "ID=160321007"
+
+msgctxt "31f29773ae3a518df7986b01e7504b38"
+msgid "방어형 BSK : 크러스트"
+msgstr "Defensive BSK: Scab"
+
+msgctxt "f19d2efbe4525d8bd12808d0678d3f0f"
+msgid "ID=160321008"
+msgstr "ID=160321008"
+
+msgctxt "1853ecaf936614e556f950a275262157"
+msgid "방어형 BSK : 퓨리"
+msgstr "Defensive BSK: Hellcat"
+
+msgctxt "9e6ef6799bdec2306252b9f86a8b75a1"
+msgid "ID=160321009"
+msgstr "ID=160321009"
+
+msgctxt "ecd21f023f0018efac8be3ab424260f4"
+msgid "방어형 BSK : 드레드"
+msgstr "Defensive BSK: Terror"
+
+msgctxt "24877b6a4df3dc935c4833daa8c4973f"
+msgid "ID=160321010"
+msgstr "ID=160321010"
+
+msgctxt "e8b1e129b0fc9a8a10702295f8febb0d"
+msgid "방어형 BSK : 블러프"
+msgstr "Defensive BSK: Bluff"
+
+msgctxt "38a810c409598577768e953a7ea87269"
+msgid "ID=160321011"
+msgstr "ID=160321011"
+
+msgctxt "6cc04d4e8bef0cabd21db3c22ee42415"
+msgid "방어형 BSK : 프렌지"
+msgstr "Defensive BSK: Frenzy"
+
+msgctxt "f17faa9a5d84fd339c750bc09440954b"
+msgid "ID=160321012"
+msgstr "ID=160321012"
+
+msgctxt "5e88ccae5c7c05bd9d07e1d58bff2682"
+msgid "방어형 BSK : 헬브링어"
+msgstr "Defensive BSK: Hellbringer"
+
+msgctxt "e4426344bff0126e3d0c8f6b5a93b0a0"
+msgid "ID=160321013"
+msgstr "ID=160321013"
+
+msgctxt "2bd4a95a5d9d736295dd3feee80bdc31"
+msgid "방어형 BSK : 프로보크"
+msgstr "Defensive BSK: Provoke"
+
+msgctxt "4c0da94acd3d8b6732ead93b5aab5ea4"
+msgid "ID=160321014"
+msgstr "ID=160321014"
+
+msgctxt "2334ca1d52c42a397a8e58661691ca78"
+msgid "방어형 BSK : 다이하드"
+msgstr "Defensive BSK: Die Hard"
+
+msgctxt "7cd118f3796dca9557860c95d10b7705"
+msgid "ID=160321015"
+msgstr "ID=160321015"
+
+msgctxt "08bea6a949e0265c4d90c803975795f5"
+msgid "방어형 BSK : 라이노"
+msgstr "Defensive BSK: Rhino"
+
+msgctxt "cae4c0cba1d63e57845ccc4b9fd2fa69"
+msgid "ID=160321016"
+msgstr "ID=160321016"
+
+msgctxt "9366d30c3598cdd88cae4e2decd193a4"
+msgid "방어형 BSK : 인레이지"
+msgstr "Defensive BSK: White Heat"
+
+msgctxt "5e1b3e769e53527431d2546de86d8569"
+msgid "ID=160321017"
+msgstr "ID=160321017"
+
+msgctxt "f8de0ea04559a1bc328f0b278a587576"
+msgid "방어형 BSK : 버스터"
+msgstr "Defensive BSK: Buster"
+
+msgctxt "3ed92d782a7542e2c440947f771e36ed"
+msgid "ID=160322001"
+msgstr "ID=160322001"
+
+msgctxt "43ffd1b9a3bada15757960c269daf523"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 방어 능력 상승]<font color='#9D927B'>\\n\\n공격 능력 강화에 "
+"특화된 버서커(Berserker) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 하급의 브로치이며, 방어 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+"<font color='#FFBA85'>Brooch: Defense Boost<font color='#9D927B'>\\n\\nA "
+"berserker brooch that boosts your defense. An upgrade that imbues normal "
+"materials with SoulForce. Items made with this give you life. We call it a "
+"brooch for ease of reference. This low-range brooch boosts your defence.\\n"
+
+msgctxt "e4b41b85aabe39235a6bb7c2bc4ef42c"
+msgid "ID=160322002"
+msgstr "ID=160322002"
+
+msgctxt "f94b4abb6fcd5c350e5e6929fdf01d23"
+msgid "ID=160322003"
+msgstr "ID=160322003"
+
+msgctxt "ab02a284edac5b93eae17b44d61eeace"
+msgid "ID=160322004"
+msgstr "ID=160322004"
+
+msgctxt "8a40c8f8177348b94623dcc004ab7a48"
+msgid "ID=160322005"
+msgstr "ID=160322005"
+
+msgctxt "31a0d791a2f7553350797e0c8d97cbe7"
+msgid "ID=160322006"
+msgstr "ID=160322006"
+
+msgctxt "ceef450422d8e15151336f4e3852089e"
+msgid "ID=160322007"
+msgstr "ID=160322007"
+
+msgctxt "4409d0fa5ca7bd5fc7403aee7ddb33b2"
+msgid "ID=160322008"
+msgstr "ID=160322008"
+
+msgctxt "10ac96bee490f863c37df810292f696e"
+msgid "ID=160322009"
+msgstr "ID=160322009"
+
+msgctxt "00dd643c855e8709bc9aeebf4027a95f"
+msgid "ID=160322010"
+msgstr "ID=160322010"
+
+msgctxt "49c22396c01dfa40eba422d5c51389b5"
+msgid "ID=160322011"
+msgstr "ID=160322011"
+
+msgctxt "33c4de01b6ce9ae57b298d5851c224e9"
+msgid "ID=160322012"
+msgstr "ID=160322012"
+
+msgctxt "5565c051b32418e83874777190cd69e2"
+msgid "ID=160322013"
+msgstr "ID=160322013"
+
+msgctxt "cb0332373d81ab4bbf6434f6e6dc90e4"
+msgid "ID=160322014"
+msgstr "ID=160322014"
+
+msgctxt "b8717c21bbb45f9e999bd5583eca98c0"
+msgid "ID=160322015"
+msgstr "ID=160322015"
+
+msgctxt "4e5b032e413fbbe1ac120cc595bee04e"
+msgid "ID=160322016"
+msgstr "ID=160322016"
+
+msgctxt "f80281aedbf5f72d04377d892041aa5a"
+msgid "ID=160322017"
+msgstr "ID=160322017"
+
+msgctxt "a1796858c809ec93e3b59abd31ae5deb"
+msgid "ID=160323001"
+msgstr "ID=160323001"
+
+msgctxt "9ffb1d161feee55a2a93248b2fad3fa2"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 방어 능력 상승]<font color='#9D927B'>\\n\\n공격 능력 강화에 "
+"특화된 버서커(Berserker) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 중급의 브로치이며, 방어 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+"<font color='#FFBA85'>Brooch: Armor Boost<font color='#9D927B'>\\n\\nA "
+"berserker brooch that boosts your defence. An upgrade that imbues normal "
+"materials with SoulForce. Items made with this give you life. We call it a "
+"brooch for ease of reference. This low-range brooch boosts your defence.\\n"
+
+msgctxt "aa51bcec4146ba4a30eca4fbc73e8814"
+msgid "ID=160323002"
+msgstr "ID=160323002"
+
+msgctxt "97e7c95e5b1f1f29cc37603aad42e63d"
+msgid "ID=160323003"
+msgstr "ID=160323003"
+
+msgctxt "1221894e13706630340ab9d623d5f084"
+msgid "ID=160323004"
+msgstr "ID=160323004"
+
+msgctxt "de0d0b2ad404e55c2aa5f7ee553b698c"
+msgid "ID=160323005"
+msgstr "ID=160323005"
+
+msgctxt "cd0d022a3b9f95c4805dfd9b1e19d6ad"
+msgid "ID=160323006"
+msgstr "ID=160323006"
+
+msgctxt "8d3d991eb22724c589cb91c5dd5a6aaa"
+msgid "ID=160323007"
+msgstr "ID=160323007"
+
+msgctxt "a101e3c9dfbf0bcc4a36355d7b146473"
+msgid "ID=160323008"
+msgstr "ID=160323008"
+
+msgctxt "745d1731386b38b71031d3ae9296112b"
+msgid "ID=160323009"
+msgstr "ID=160323009"
+
+msgctxt "517c2899fd58f55a3c5a97e319b1e5d2"
+msgid "ID=160323010"
+msgstr "ID=160323010"
+
+msgctxt "9117f6fb106dcf55fd42a8220ac3a51b"
+msgid "ID=160323011"
+msgstr "ID=160323011"
+
+msgctxt "d3a23d79fdd885b2dfb5c8f543bca314"
+msgid "ID=160323012"
+msgstr "ID=160323012"
+
+msgctxt "af922dc0d890312a30f6f926666fa580"
+msgid "ID=160323013"
+msgstr "ID=160323013"
+
+msgctxt "db346fa1c5de7e163ed490003363e296"
+msgid "ID=160323014"
+msgstr "ID=160323014"
+
+msgctxt "cdcc4ac8c5e95bdf078bebdda7cee888"
+msgid "ID=160323015"
+msgstr "ID=160323015"
+
+msgctxt "d8d177a7f08e8d3649605500acbdd9d8"
+msgid "ID=160323016"
+msgstr "ID=160323016"
+
+msgctxt "fae5cac1d4745ecf1264cd75528805cd"
+msgid "ID=160323017"
+msgstr "ID=160323017"
+
+msgctxt "fa6681559dcd1f2a351e787f27d94d60"
+msgid "ID=160324001"
+msgstr "ID=160324001"
+
+msgctxt "b33fc8a3040852cbcd0d9c48da0052da"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 방어 능력 상승]<font color='#9D927B'>\\n\\n공격 능력 강화에 "
+"특화된 버서커(Berserker) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 상급의 브로치이며, 방어 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+
+msgctxt "ca79b36e0584a6119cf11e019a46ddef"
+msgid "ID=160324002"
+msgstr "ID=160324002"
+
+msgctxt "854e0baaa74bea54d0cc25de8db201a0"
+msgid "ID=160324003"
+msgstr "ID=160324003"
+
+msgctxt "d3184b77dba6624c9993c13336f3325a"
+msgid "ID=160324004"
+msgstr "ID=160324004"
+
+msgctxt "b18d67d101fe2b7cb609fef5e3873368"
+msgid "ID=160324005"
+msgstr "ID=160324005"
+
+msgctxt "3f80bbbc997d075d970fbfb080b09ea1"
+msgid "ID=160324006"
+msgstr "ID=160324006"
+
+msgctxt "0bdb4f50ad6ef2a665434c9ab437a838"
+msgid "ID=160324007"
+msgstr "ID=160324007"
+
+msgctxt "4418861a9a5b3c30e98d92a5d76674ab"
+msgid "ID=160324008"
+msgstr "ID=160324008"
+
+msgctxt "0a5ee1376a917b75375a456edc9f78ba"
+msgid "ID=160324009"
+msgstr "ID=160324009"
+
+msgctxt "e469f0a89a6d15decca8a05c3bd52f50"
+msgid "ID=160324010"
+msgstr "ID=160324010"
+
+msgctxt "7f2b4330e7c23a595ce2a71453ce021a"
+msgid "ID=160324011"
+msgstr "ID=160324011"
+
+msgctxt "4a9244cbabf36934498c1967b6ef6452"
+msgid "ID=160324012"
+msgstr "ID=160324012"
+
+msgctxt "4787664f03cd1ebb54cabf7d34b4a6ce"
+msgid "ID=160324013"
+msgstr "ID=160324013"
+
+msgctxt "51b951be893a4ed2c24f4a059fe109aa"
+msgid "ID=160324014"
+msgstr "ID=160324014"
+
+msgctxt "4e6c50adc6f7d91d7c380c6934288de8"
+msgid "ID=160324015"
+msgstr "ID=160324015"
+
+msgctxt "e035753415d5416059f54cef4dc06bfc"
+msgid "ID=160324016"
+msgstr "ID=160324016"
+
+msgctxt "64259f8947c59313d4a3d87e95ea0baa"
+msgid "ID=160324017"
+msgstr "ID=160324017"
+
+msgctxt "3b1b26a4bfb550f88cc51fb3747e9851"
+msgid "ID=160325001"
+msgstr "ID=160325001"
+
+msgctxt "8652c95193b7c7f86d33a36e8bc74609"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 방어 능력 상승]<font color='#9D927B'>\\n\\n공격 능력 강화에 "
+"특화된 버서커(Berserker) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 최상급의 브로치이며, 방어 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+
+msgctxt "f8a31c28484d9f10755573ca204d78ba"
+msgid "ID=160325002"
+msgstr "ID=160325002"
+
+msgctxt "4e4a51f7e8dcbc3e0baa25f281a4e0ce"
+msgid "ID=160325003"
+msgstr "ID=160325003"
+
+msgctxt "ec63e6ae24bfa7c35ed732532f0de9ba"
+msgid "ID=160325004"
+msgstr "ID=160325004"
+
+msgctxt "a7a786d610b852fdebeb66722116b4c1"
+msgid "ID=160325005"
+msgstr "ID=160325005"
+
+msgctxt "88be7005cc1d7a36501c62d6b9d9b74f"
+msgid "ID=160325006"
+msgstr "ID=160325006"
+
+msgctxt "762658ebf492747c31fdc72f9a0e058b"
+msgid "ID=160325007"
+msgstr "ID=160325007"
+
+msgctxt "e7b8211e48284bdadf2461771d9275bf"
+msgid "ID=160325008"
+msgstr "ID=160325008"
+
+msgctxt "14e83f0c5d36e81273e86ae01c88832d"
+msgid "ID=160325009"
+msgstr "ID=160325009"
+
+msgctxt "f2293ed43993fb5fa68a1da56593cd56"
+msgid "ID=160325010"
+msgstr "ID=160325010"
+
+msgctxt "fa97dd8ef7a10b1d61f3625e8528eab9"
+msgid "ID=160325011"
+msgstr "ID=160325011"
+
+msgctxt "b3c2ccb531e76601352c07f7d189e875"
+msgid "ID=160325012"
+msgstr "ID=160325012"
+
+msgctxt "22efa4c57e2e83c29805d0c0cb86d6ca"
+msgid "ID=160325013"
+msgstr "ID=160325013"
+
+msgctxt "2fcf477a000001c8423ae0e02f4cb214"
+msgid "ID=160325014"
+msgstr "ID=160325014"
+
+msgctxt "9a52f614b9e8c51086e5cc3922e76fea"
+msgid "ID=160325015"
+msgstr "ID=160325015"
+
+msgctxt "1fbf676d24d7819463de80f2b37104fa"
+msgid "ID=160325016"
+msgstr "ID=160325016"
+
+msgctxt "121a0f8e651f7abda8fc602b5f2d0db5"
+msgid "ID=160325017"
+msgstr "ID=160325017"
+
+msgctxt "b1f4a024ec7e3116d3356f29de0eb103"
+msgid "ID=160331001"
+msgstr "ID=160331001"
+
+msgctxt "809b53b5b9f6746f5af1e10714c07e36"
+msgid "기능형 BSK : 아다먼트"
+msgstr "Functional BSK: Adamant"
+
+msgctxt "5a22648512083334208a52f16d88d249"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 특수 능력 발동]<font color='#9D927B'>\\n\\n공격 능력 강화에 "
+"특화된 버서커(Berserker) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 최하급의 브로치이며, 특별한 능력의 발동이 가능해진다.\\n "
+msgstr ""
+
+msgctxt "a1b81c56ffb8a922ee55d49c65da8df5"
+msgid "ID=160331002"
+msgstr "ID=160331002"
+
+msgctxt "1cd8441267f5a8aa206a4fa5e067666d"
+msgid "기능형 BSK : 랩터"
+msgstr "Functional BSK: Raptor"
+
+msgctxt "af787fd590d234620221a8e2552ec01d"
+msgid "ID=160331003"
+msgstr "ID=160331003"
+
+msgctxt "18952a2b30c9a8956748fae054b39e1a"
+msgid "기능형 BSK : 마칭"
+msgstr "Functional BSK: Marching Orders"
+
+msgctxt "06b8e00da1ae616320667a3f3a15fb85"
+msgid "ID=160331004"
+msgstr "ID=160331004"
+
+msgctxt "ed01d3d2c4a571346aa2706e0ac8149a"
+msgid "기능형 BSK : 아이언"
+msgstr "Functional BSK: Iron"
+
+msgctxt "d02f0d3a6350169cd12679df9f5b2442"
+msgid "ID=160331005"
+msgstr "ID=160331005"
+
+msgctxt "9f64524dbbbc5a38b83dee83a8a7410f"
+msgid "기능형 BSK : 스웨이"
+msgstr "Functional BSK: Dominion"
+
+msgctxt "359e97f40c1896856c370d929b1a75d4"
+msgid "ID=160331006"
+msgstr "ID=160331006"
+
+msgctxt "ce51f82b8aff36e3c6c6ff2c4c3ec487"
+msgid "기능형 BSK : 릴리프"
+msgstr "Functional BSK: Relief"
+
+msgctxt "594fc78f8b25a6bfb25a4d7310660c43"
+msgid "ID=160331007"
+msgstr "ID=160331007"
+
+msgctxt "fc35f91ecc3a7a7ce2b47f671b30d911"
+msgid "기능형 BSK : 디파이언스"
+msgstr "Functional BSK: Disregard"
+
+msgctxt "fc27d6595806294bec098554afd20440"
+msgid "ID=160331008"
+msgstr "ID=160331008"
+
+msgctxt "fd7bb4df82d9ee231cef7ea5dd315dea"
+msgid "기능형 BSK : 스위프트"
+msgstr "Functional BSK: Swift"
+
+msgctxt "9df111520971b6380a3d5be79b77109f"
+msgid "ID=160331009"
+msgstr "ID=160331009"
+
+msgctxt "a4f2e7dd60325e18b9cd3b704781c5ec"
+msgid "기능형 BSK : 피버"
+msgstr "Functional BSK: Feverish"
+
+msgctxt "d9b6b1628635b5ae1f57187186b14b9b"
+msgid "ID=160331010"
+msgstr "ID=160331010"
+
+msgctxt "b0ac01823e6bd2aec8b008189f812c05"
+msgid "기능형 BSK : 리펜트"
+msgstr "Functional BSK: Regret"
+
+msgctxt "0b4b8701e832673883c8abb2b5327380"
+msgid "ID=160331011"
+msgstr "ID=160331011"
+
+msgctxt "4d046c1f5ac7c00500b4bd163db193e8"
+msgid "기능형 BSK : 헤비니스"
+msgstr "Functional BSK: Heavy"
+
+msgctxt "04b6dbd9e6e4a791ad0d979be9b9bbcc"
+msgid "ID=160331012"
+msgstr "ID=160331012"
+
+msgctxt "e04daf1c1f66b86fb8f2c245f454471d"
+msgid "기능형 BSK : 저거너트"
+msgstr "Functional BSK: Jaganath"
+
+msgctxt "84e7c265e253bb6fcafddf151c716a76"
+msgid "ID=160331013"
+msgstr "ID=160331013"
+
+msgctxt "f5389f02c5113d986be1fd2dae1889dd"
+msgid "기능형 BSK : 크래커"
+msgstr "Functional BSK: Cracker"
+
+msgctxt "54d39e571ceaffcb8e86f2615b10d503"
+msgid "ID=160331014"
+msgstr "ID=160331014"
+
+msgctxt "8bf280c0a917bda816e2c347f0cdbf9b"
+msgid "기능형 BSK : 차지드"
+msgstr "Functional BSK: Full Charge"
+
+msgctxt "2096521efb57c2670adc56a6c980373f"
+msgid "ID=160331015"
+msgstr "ID=160331015"
+
+msgctxt "24ce09c76aefd955b818eeba72423b50"
+msgid "기능형 BSK : 프랜틱"
+msgstr "Functional BSK: Tantrum"
+
+msgctxt "b963843eee0610f3bcdb76d5eb4b0426"
+msgid "ID=160331016"
+msgstr "ID=160331016"
+
+msgctxt "09822b34668353b7b15f1b8164ee4e02"
+msgid "기능형 BSK : 매니악"
+msgstr "Functional BSK: Manic"
+
+msgctxt "23d1996d7094ae485284242031731916"
+msgid "ID=160331017"
+msgstr "ID=160331017"
+
+msgctxt "ffed1c82b7dac65ce148badfc59f3e64"
+msgid "기능형 BSK : 엑스터시"
+msgstr "Functional BSK: Ecstasy"
+
+msgctxt "64fcc5d1b12e9f75c383144fd7a1135a"
+msgid "ID=160332001"
+msgstr "ID=160332001"
+
+msgctxt "f433d2d149318cd7dc443ad63025244a"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 특수 능력 발동]<font color='#9D927B'>\\n\\n공격 능력 강화에 "
+"특화된 버서커(Berserker) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 하급의 브로치이며, 특별한 능력의 발동이 가능해진다.\\n "
+msgstr ""
+
+msgctxt "bfb67e4cb8b3743561a6b165701954b2"
+msgid "ID=160332002"
+msgstr "ID=160332002"
+
+msgctxt "8e1b7ce000d837ee300c1770e85e5928"
+msgid "ID=160332003"
+msgstr "ID=160332003"
+
+msgctxt "d1de85b945907d0268ca88885f9c6897"
+msgid "ID=160332004"
+msgstr "ID=160332004"
+
+msgctxt "5bdac8dd00e162886122a01f64080565"
+msgid "ID=160332005"
+msgstr "ID=160332005"
+
+msgctxt "05af85061c38917462944fd2c5c91867"
+msgid "ID=160332006"
+msgstr "ID=160332006"
+
+msgctxt "329fb685c088fd934b2bbf0cc70aed1c"
+msgid "ID=160332007"
+msgstr "ID=160332007"
+
+msgctxt "83d11f36c655b863a2aedfa8d8208e5b"
+msgid "ID=160332008"
+msgstr "ID=160332008"
+
+msgctxt "d493e6a8803a3e4198072c0b3290f80e"
+msgid "ID=160332009"
+msgstr "ID=160332009"
+
+msgctxt "da225459ef997b175e7dacec6909bf6e"
+msgid "ID=160332010"
+msgstr "ID=160332010"
+
+msgctxt "c6cb5f22a776b511d804c4e2b27c3e05"
+msgid "ID=160332011"
+msgstr "ID=160332011"
+
+msgctxt "4ecba0b793ab98cdefd0e8784fc337ea"
+msgid "ID=160332012"
+msgstr "ID=160332012"
+
+msgctxt "1f965c1bc9d0b1146837353c0c4f0099"
+msgid "ID=160332013"
+msgstr "ID=160332013"
+
+msgctxt "60dbd604d5cc522d14eede25edc7eb51"
+msgid "ID=160332014"
+msgstr "ID=160332014"
+
+msgctxt "8070f99687645ca51f046fca7abebd7e"
+msgid "ID=160332015"
+msgstr "ID=160332015"
+
+msgctxt "32dae82611d9a8c97b0193b4ab37e376"
+msgid "ID=160332016"
+msgstr "ID=160332016"
+
+msgctxt "a437bcf6fdb3ca9848b3fc0962efab2b"
+msgid "ID=160332017"
+msgstr "ID=160332017"
+
+msgctxt "5c69f778e5015f1b0810e11eeac76aeb"
+msgid "ID=160333001"
+msgstr "ID=160333001"
+
+msgctxt "a0432e7f0ee0c63e867031355f01e365"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 특수 능력 발동]<font color='#9D927B'>\\n\\n공격 능력 강화에 "
+"특화된 버서커(Berserker) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 중급의 브로치이며, 특별한 능력의 발동이 가능해진다.\\n "
+msgstr ""
+
+msgctxt "f6bbe4d12aff3667e7ba9f6e777e7c95"
+msgid "ID=160333002"
+msgstr "ID=160333002"
+
+msgctxt "cbe60e1db9c1618236b00f17ae7db667"
+msgid "ID=160333003"
+msgstr "ID=160333003"
+
+msgctxt "5ee7ac5bd5bce664d284ed48c4bf948d"
+msgid "ID=160333004"
+msgstr "ID=160333004"
+
+msgctxt "97e48d4ea1707020f3dccd73fa10639e"
+msgid "ID=160333005"
+msgstr "ID=160333005"
+
+msgctxt "df426124f0451f490cac762ebe0d2b01"
+msgid "ID=160333006"
+msgstr "ID=160333006"
+
+msgctxt "75871b4904f98ea7174c6d4ef9129de4"
+msgid "ID=160333007"
+msgstr "ID=160333007"
+
+msgctxt "f76a4b7528ac05d306e86227bf22632f"
+msgid "ID=160333008"
+msgstr "ID=160333008"
+
+msgctxt "527534e5a2afc38c43df1fffe4600ecc"
+msgid "ID=160333009"
+msgstr "ID=160333009"
+
+msgctxt "fa6d8502291c39a6ee23cf1209049f04"
+msgid "ID=160333010"
+msgstr "ID=160333010"
+
+msgctxt "788eff4d229553986c9618bd36c12930"
+msgid "ID=160333011"
+msgstr "ID=160333011"
+
+msgctxt "d679a04dcad8eace55bfe8b080232524"
+msgid "ID=160333012"
+msgstr "ID=160333012"
+
+msgctxt "4a127c59ad2cc18cec6b04f12337da5b"
+msgid "ID=160333013"
+msgstr "ID=160333013"
+
+msgctxt "d6c55ecb9b41229482c9fd6264d97abc"
+msgid "ID=160333014"
+msgstr "ID=160333014"
+
+msgctxt "34fc91219ca161e0927825c9fcdd7738"
+msgid "ID=160333015"
+msgstr "ID=160333015"
+
+msgctxt "bbaefed0712f00da99256c1a56d97900"
+msgid "ID=160333016"
+msgstr "ID=160333016"
+
+msgctxt "fae6c8657029836126b3ccd4d185331c"
+msgid "ID=160333017"
+msgstr "ID=160333017"
+
+msgctxt "913d51a862c8be770c15c27f003ef057"
+msgid "ID=160334001"
+msgstr "ID=160334001"
+
+msgctxt "a08cc93fabb4019c501b4f96adfaa0df"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 특수 능력 발동]<font color='#9D927B'>\\n\\n공격 능력 강화에 "
+"특화된 버서커(Berserker) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 상급의 브로치이며, 특별한 능력의 발동이 가능해진다.\\n "
+msgstr ""
+
+msgctxt "86b1df07fdfd7db1783d69ff0b4c6fe1"
+msgid "ID=160334002"
+msgstr "ID=160334002"
+
+msgctxt "5a593be8389ad6595c3b94d1218bbafc"
+msgid "ID=160334003"
+msgstr "ID=160334003"
+
+msgctxt "30b553e5e94bf946f63f16608dc1255a"
+msgid "ID=160334004"
+msgstr "ID=160334004"
+
+msgctxt "35688a50583dbf523d7ef22e91d9cf9f"
+msgid "ID=160334005"
+msgstr "ID=160334005"
+
+msgctxt "41c7af703e1a36c1124a1ee831e31ba8"
+msgid "ID=160334006"
+msgstr "ID=160334006"
+
+msgctxt "48e7a468ad30ceb28413c8b48cb690d0"
+msgid "ID=160334007"
+msgstr "ID=160334007"
+
+msgctxt "726a4ac08616276f4202879feff01938"
+msgid "ID=160334008"
+msgstr "ID=160334008"
+
+msgctxt "a1c33c9b585dc9461c8c94e4b99e908c"
+msgid "ID=160334009"
+msgstr "ID=160334009"
+
+msgctxt "b9ca4a6316c48688cfbe304483a5bd78"
+msgid "ID=160334010"
+msgstr "ID=160334010"
+
+msgctxt "3dc98ec433ba6b0b650e84a259ef9749"
+msgid "ID=160334011"
+msgstr "ID=160334011"
+
+msgctxt "e82807878ee6b069f89eef9f552c4c59"
+msgid "ID=160334012"
+msgstr "ID=160334012"
+
+msgctxt "9c7f3931c728e9fdad254282707b72bd"
+msgid "ID=160334013"
+msgstr "ID=160334013"
+
+msgctxt "208731280195968fd97cecf0aff9c7b2"
+msgid "ID=160334014"
+msgstr "ID=160334014"
+
+msgctxt "964cc490bcb5cb1ada09ae67f07cecda"
+msgid "ID=160334015"
+msgstr "ID=160334015"
+
+msgctxt "ca6c9d207dff7f94939c598478d3529f"
+msgid "ID=160334016"
+msgstr "ID=160334016"
+
+msgctxt "6352c145c12ba44bd6cf482b4ca437ee"
+msgid "ID=160334017"
+msgstr "ID=160334017"
+
+msgctxt "c43268e3f03b258f2181accb40104e74"
+msgid "ID=160335001"
+msgstr "ID=160335001"
+
+msgctxt "a2e6c577b6348c005597fcc0eaf66950"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 특수 능력 발동]<font color='#9D927B'>\\n\\n공격 능력 강화에 "
+"특화된 버서커(Berserker) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 최상급의 브로치이며, 특별한 능력의 발동이 가능해진다.\\n "
+msgstr ""
+
+msgctxt "4a62c53a446222ee9193e9cf49746c72"
+msgid "ID=160335002"
+msgstr "ID=160335002"
+
+msgctxt "614b2dc232c32a2668ad9cf8aba1fc10"
+msgid "ID=160335003"
+msgstr "ID=160335003"
+
+msgctxt "df39501afd4b4269a8f353d1a1cdfeaa"
+msgid "ID=160335004"
+msgstr "ID=160335004"
+
+msgctxt "a67f0e79a17c2022db02a77608854d6b"
+msgid "ID=160335005"
+msgstr "ID=160335005"
+
+msgctxt "ea9a4c4a365b98374942751793085698"
+msgid "ID=160335006"
+msgstr "ID=160335006"
+
+msgctxt "a1bee58e58a99d07b7973d66ababea07"
+msgid "ID=160335007"
+msgstr "ID=160335007"
+
+msgctxt "5b9cee1ce33afe1b385f70a855f0d0e6"
+msgid "ID=160335008"
+msgstr "ID=160335008"
+
+msgctxt "2319724c46edf2a6db67c2a0484bce96"
+msgid "ID=160335009"
+msgstr "ID=160335009"
+
+msgctxt "e6d6e9655f2493361461e1e97d636cbf"
+msgid "ID=160335010"
+msgstr "ID=160335010"
+
+msgctxt "b2ea913495b46dca920aa56908bb26c6"
+msgid "ID=160335011"
+msgstr "ID=160335011"
+
+msgctxt "6624141e7cf52a6d765ccb64fc579d3a"
+msgid "ID=160335012"
+msgstr "ID=160335012"
+
+msgctxt "83a124f04e25873107a5f8d9f177a5d1"
+msgid "ID=160335013"
+msgstr "ID=160335013"
+
+msgctxt "195980b45d0e44375ff0e3409e9f86c4"
+msgid "ID=160335014"
+msgstr "ID=160335014"
+
+msgctxt "f84f74e68b69d282f9dc562e267dcabb"
+msgid "ID=160335015"
+msgstr "ID=160335015"
+
+msgctxt "2348210336a58f027dab114f9a420a33"
+msgid "ID=160335016"
+msgstr "ID=160335016"
+
+msgctxt "76dad1314ff94be7ef86aa8a02d5d70c"
+msgid "ID=160335017"
+msgstr "ID=160335017"
+
+msgctxt "4859a6eace04d4b0b9953d9b9a7ffd4f"
+msgid "ID=811010601"
+msgstr "ID=811010601"
+
+msgctxt "721759a8f9a362f25d1173a42bc56797"
+msgid "[밀봉]핑크 레이스 언더웨어"
+msgstr "[Packaged] Pure Pink"
+
+msgctxt "d98812df56fa2a137fba002b522a4488"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n핑크 레이스 언더웨어가 포장되어 "
+"있는 패키지이다."
+msgstr ""
+
+msgctxt "9ba50ded91ba0b73908132cc82a7f3cc"
+msgid "ID=811020601"
+msgstr "ID=811020601"
+
+msgctxt "c988bcacb357fb326c10e1e9c37ff00f"
+msgid "[밀봉]레드 체크 언더웨어"
+msgstr "[Packaged] Brown Underwear"
+
+msgctxt "b0f24b5c7dfb57027527e6f1bd12a5be"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n레드 체크 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "a02a4c2fb3dddfa917575a8580bc0ce5"
+msgid "ID=811030601"
+msgstr "ID=811030601"
+
+msgctxt "9e3ecea7c0e5d83ae2811c7b196e8438"
+msgid "[밀봉]스타 블루 언더웨어"
+msgstr "[Packaged] Blue Underwear"
+
+msgctxt "4018df5af2d58c139067c37bc95bdf25"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n스타 블루 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "e9a3554cf2e2b5edd28ff17fe5e66138"
+msgid "ID=811040601"
+msgstr "ID=811040601"
+
+msgctxt "f8624a2ad23f1ed547c0b5b36041dfae"
+msgid "[밀봉]큐티 레이스 언더웨어"
+msgstr "[Packaged] Colorful underwear"
+
+msgctxt "7d363ad29ed5b268ca7e1f7225f5b1bc"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n큐티 레이스 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "65502a7ed677934a580e8378c34e6fa6"
+msgid "ID=811050601"
+msgstr "ID=811050601"
+
+msgctxt "d6c7526a9ca5e882024b7d62af6256ae"
+msgid "[밀봉]레오파드 언더웨어"
+msgstr "[Packaged] Red Underwear"
+
+msgctxt "c0a1ccd21fe646da423897ef0b4a1bd1"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n레오파드 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "ff11aac0e2ce824cc72fe0783b46eb41"
+msgid "ID=811060601"
+msgstr "ID=811060601"
+
+msgctxt "681f4a6998f39b809c53ba48421605b1"
+msgid "[밀봉]오랜지 언더웨어"
+msgstr "[Packaged] Orange Underwear"
+
+msgctxt "544958edfca0f767a1e53e45ac557439"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n오랜지 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "4c4faff5e958a9ce748f9969c9009d96"
+msgid "ID=811070601"
+msgstr "ID=811070601"
+
+msgctxt "08fd40d583c12b527e554b67281fecd8"
+msgid "[밀봉]바이올렛 언더웨어"
+msgstr "[Packaged] Violet Underwear"
+
+msgctxt "de4ba6f981803a278c6797518d7bd5ee"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n바이올렛 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "a2d0fd1eeacea44d421788e859a33ffd"
+msgid "ID=811080601"
+msgstr "ID=811080601"
+
+msgctxt "afa4df37c81366250a0915a1a2602ad0"
+msgid "[밀봉]블루 플라워 언더웨어"
+msgstr "[Packaged] Periwinkle Underwear"
+
+msgctxt "5461fcbb9808f5678211262c84a721a4"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n블루 플라워 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "5f81b348e2755282b52c22b8161f2d6e"
+msgid "ID=811090601"
+msgstr "ID=811090601"
+
+msgctxt "1a172c1eb4fdd69756ee4d2e84e98a2e"
+msgid "[밀봉]플라맹코 언더웨어"
+msgstr "[Packaged] Flamenco Underwear"
+
+msgctxt "7c1d024db90f33b8c3c4d4674dabdd38"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n플라맹코 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "f0ce5f535dd7be70e95501c7ee1ada33"
+msgid "ID=811100601"
+msgstr "ID=811100601"
+
+msgctxt "d46bd248c81d0843cf41c0b15e49895f"
+msgid "[밀봉]퓨어 핑크 언더웨어"
+msgstr "[Packaged] Pink Underwear"
+
+msgctxt "969a5827aaab77aef713ab1169900221"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n퓨어 핑크 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "83970757787660d0d9a7de7304a33245"
+msgid "ID=811110601"
+msgstr "ID=811110601"
+
+msgctxt "cee903fc76924dfb67905f69575fdbb2"
+msgid "[밀봉]퓨어 스카이 언더웨어"
+msgstr "[Packaged] Heavenly Underwear"
+
+msgctxt "6975f141df289f7a593c85c3af903a1f"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n퓨어 스카이 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "471a68c59e0e47b88f706fd8c6578e54"
+msgid "ID=811120601"
+msgstr "ID=811120601"
+
+msgctxt "a833a58994718e3ad566f6393315b16e"
+msgid "[밀봉]스트라이프 언더웨어"
+msgstr "[Packaged] Striped Underwear"
+
+msgctxt "0a1fda374dcd343dddb7907d3d5de305"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n스트라이프 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "0b5cb7d84a3fffbf693667a6df963e1b"
+msgid "ID=821010601"
+msgstr "ID=821010601"
+
+msgctxt "0afb5348ea10e558a081e8fbce8da216"
+msgid "[밀봉]체크 브라운 언더웨어"
+msgstr "[Seal] Check Brown Underwear"
+
+msgctxt "e1233ba924225ab0a640fb9d92f32325"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n체크 브라운 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "45d6eba054801ad381f338181f1a7e44"
+msgid "ID=821020601"
+msgstr "ID=821020601"
+
+msgctxt "344e8b622e207aa2c85acea682ddd181"
+msgid "[밀봉]스포츠 블루 언더웨어"
+msgstr "[Seal] Blue Sporty Underwear"
+
+msgctxt "af9a127081989545a927bd8f02f42f6b"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n스포츠 블루 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "647870c0efba1bf027dad1079194415f"
+msgid "ID=821030601"
+msgstr "ID=821030601"
+
+msgctxt "66b11e8af64b433f7df7924daa8f7661"
+msgid "[밀봉]베이워치 언더웨어"
+msgstr "[Seal] Red Sporty Underwear"
+
+msgctxt "9117738d0c6f191a1b6942ec2c9d13c3"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n베이워치 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "b775a3a772da34dec0723a1f622e8dec"
+msgid "ID=821040601"
+msgstr "ID=821040601"
+
+msgctxt "4f6404295779f93fe156b1efab3be740"
+msgid "[밀봉]프리즈너 언더웨어"
+msgstr "[Seal] Prisoner Underwear"
+
+msgctxt "bc50d76261241700b1ef76eb370cf788"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n프리즈너 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "8831ce5782b399c608dcf5e1387817f8"
+msgid "ID=821050601"
+msgstr "ID=821050601"
+
+msgctxt "ff8959d4d9e2b55bb2b0257886efd84e"
+msgid "ID=821060601"
+msgstr "ID=821060601"
+
+msgctxt "2cbc10bf2b8e730d9a84814bf41622ba"
+msgid "[밀봉]블루 트렁크 언더"
+msgstr "[Seal] Blue Boxers"
+
+msgctxt "d416297b88f775df29760f35288f1668"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n블루 트렁크 언더가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "37ffb6d20a5344aa82da3da948c495a3"
+msgid "ID=821070601"
+msgstr "ID=821070601"
+
+msgctxt "9e7345f39a0465b07ab9d57ced8cd79e"
+msgid "[밀봉]레드 트렁크 언더"
+msgstr "[Seal] Red Boxers"
+
+msgctxt "dd5524af2c26f46028fe4b239e1eb670"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n레드 트렁크 언더가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "a9d0d39f537a4ec7922912af122c5b07"
+msgid "ID=821080601"
+msgstr "ID=821080601"
+
+msgctxt "b2ebd6215d9608157212f954a4353b7c"
+msgid "[밀봉]옐로우 체크 언더"
+msgstr "[Seal] Yellow Plaid Underwear"
+
+msgctxt "4f10c82898d46949740f284081e861fc"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n옐로우 체크 언더가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "1d34139b25a0441a14817e009a93c2ca"
+msgid "ID=831010601"
+msgstr "ID=831010601"
+
+msgctxt "9cf7d8718169b3c2d7e7a11435e53d77"
+msgid "[밀봉]블랙 라인 언더웨어"
+msgstr "[Seal] Black Underwear"
+
+msgctxt "e548ef88fdb99c4a11aa8f223c0e3092"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n블랙 라인 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "9bea9569ae94cef03f8206b054759f9c"
+msgid "ID=831020601"
+msgstr "ID=831020601"
+
+msgctxt "4cb5d8460ff0de80bd91369fdf3b68fe"
+msgid "ID=831030601"
+msgstr "ID=831030601"
+
+msgctxt "3b73d554ec8096969c0beb6052829e0d"
+msgid "ID=831040601"
+msgstr "ID=831040601"
+
+msgctxt "e21004dc40a5f552545cb6755bac721c"
+msgid "ID=831050601"
+msgstr "ID=831050601"
+
+msgctxt "080d636e8c91808be41ac3d6d48ce1e0"
+msgid "ID=831060601"
+msgstr "ID=831060601"
+
+msgctxt "6abde9fa8e47b76014f873d593f48602"
+msgid "ID=831070601"
+msgstr "ID=831070601"
+
+msgctxt "3a25c99e6a98321871717a021627c692"
+msgid "ID=831080601"
+msgstr "ID=831080601"
+
+msgctxt "a9cf4d5a73abfd21d14b20497beef672"
+msgid "ID=831090601"
+msgstr "ID=831090601"
+
+msgctxt "32623baaa422e215cff50a7d1660ef56"
+msgid "ID=831100601"
+msgstr "ID=831100601"
+
+msgctxt "2dfa4e2df92e149c0ec8184331b6dbe3"
+msgid "ID=831110601"
+msgstr "ID=831110601"
+
+msgctxt "f2ceaa504462d0e368904f24685c01b7"
+msgid "ID=831120601"
+msgstr "ID=831120601"
+
+msgctxt "d1ec4241d2ca32d07897991f779deb28"
+msgid "ID=851010601"
+msgstr "ID=851010601"
+
+msgctxt "723dd12b69c51d4c000dacf46dcac0a9"
+msgid "[밀봉]더블 포인트 언더웨어"
+msgstr "[Packaged] Double Spots"
+
+msgctxt "bb8fc0f08677b74affed70e9e3311616"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n더블 포인트 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "784d0f8b65b736f9b3ebada77019a07c"
+msgid "ID=851020601"
+msgstr "ID=851020601"
+
+msgctxt "91fb08b7f9adabfc4d5fd6513041a59f"
+msgid "ID=851030601"
+msgstr "ID=851030601"
+
+msgctxt "3cbb5a481e3d3cedae6395a84c854291"
+msgid "ID=851040601"
+msgstr "ID=851040601"
+
+msgctxt "171a65905dc5b14be88a90d639cce599"
+msgid "ID=851050601"
+msgstr "ID=851050601"
+
+msgctxt "250626a0b6432817426045e055d620fa"
+msgid "ID=851060601"
+msgstr "ID=851060601"
+
+msgctxt "b61b9b501b65d9fd4300cbad543cec9b"
+msgid "ID=851070601"
+msgstr "ID=851070601"
+
+msgctxt "0885623efa7214f964267f282490db56"
+msgid "ID=851080601"
+msgstr "ID=851080601"
+
+msgctxt "4ef1909c488738ef026f8ff7d39a4958"
+msgid "ID=851090601"
+msgstr "ID=851090601"
+
+msgctxt "aae93aebb1ba19645479f736b345dbdd"
+msgid "ID=851100601"
+msgstr "ID=851100601"
+
+msgctxt "6fe4fe944f4cc9ee8338fa3855d8e7fc"
+msgid "ID=851110601"
+msgstr "ID=851110601"
+
+msgctxt "113fdca31914c8ae141be9eda1154e48"
+msgid "ID=851120601"
+msgstr "ID=851120601"
+
+msgctxt "0ede8baf70799845fc630ae7bff53973"
+msgid "ID=843011701"
+msgstr "ID=843011701"
+
+msgctxt "ecf27ff199e9c71616478a7af96bbd9e"
+msgid "[밀봉]밀리터리 언더웨어"
+msgstr "[Packaged] Army Arnie"
+
+msgctxt "9f7bd504c0c23e5f3356431931d0c24e"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n밀리터리 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "cbac4ca45a725d8c47894e34f6d68521"
+msgid "ID=843021701"
+msgstr "ID=843021701"
+
+msgctxt "85a217028df939001cd248a0f99dfe89"
+msgid "ID=843031701"
+msgstr "ID=843031701"
+
+msgctxt "44c3454de06ac695c3ee2964e159e3e2"
+msgid "ID=843041701"
+msgstr "ID=843041701"
+
+msgctxt "94a977f738599b8741786d30dd164d49"
+msgid "ID=843051701"
+msgstr "ID=843051701"
+
+msgctxt "5210f78e06ba2f9da178ff53561d83a9"
+msgid "ID=843061701"
+msgstr "ID=843061701"
+
+msgctxt "4426ab81f424e5351a67930566a25817"
+msgid "ID=843071701"
+msgstr "ID=843071701"
+
+msgctxt "e10944b53b68ddde3c3688c2c18112d3"
+msgid "ID=843081701"
+msgstr "ID=843081701"
+
+msgctxt "0c1fe261f2d3526f36238a7fa4ec1749"
+msgid "ID=836000182"
+msgstr "ID=836000182"
+
+msgctxt "f7407c4ed5fa3d894e681ff279069ded"
+msgid "상인 연합의 V.I.P 패키지"
+msgstr "V.I.P Package of Merchant Union"
+
+msgctxt "5206040b92d9a9c0b084d52bf7c8a91a"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n인벤토리 확장에 필요한 아이템이 "
+"들어있는 패키지. 인벤토리 확장권과 은행 계정 창고 확장권권이 들어있다.\\n-구성품-\\n인벤토리 확장권 x 5\\n은행 계정 창고 "
+"확장권권 x 1"
+msgstr ""
+
+msgctxt "b100d42d37b71ce9c7a85b5069e54767"
+msgid "ID=836000183"
+msgstr "ID=836000183"
+
+msgctxt "aad9d019ca51b712379ce417e5df8a84"
+msgid "트리샤의 V.I.P 패키지 I"
+msgstr "Trisha's V.I.P Package I"
+
+msgctxt "3a3ed3af3e325c7183c75d119a18bf83"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n아이템 강화 시 필요한 아이템이 "
+"들어있는 패키지. 강화 파괴 방지 장치와 강화 횟수 증가권이 들어있다. \\n-구성품-\\n강화 파괴 방지 장치 x 5\\n강화 횟수 "
+"증가권 x 1"
+msgstr ""
+
+msgctxt "d92fc272c3ad4be5555507e61472826b"
+msgid "ID=836000184"
+msgstr "ID=836000184"
+
+msgctxt "7333a81ee397e20a1694ff0d5a07a1de"
+msgid "트리샤의 V.I.P 패키지 II"
+msgstr "Trisha's V.I.P Package II"
+
+msgctxt "f82c7fa6a2c0233061ed70aad01fa10a"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n아이템 강화 시 필요한 아이템이 "
+"들어있는 패키지. 강화 파괴 방지 장치와 강화 횟수 증가권이 들어있다. \\n-구성품-\\n강화 파괴 방지 장치 x 11\\n강화 횟수 "
+"증가권 x 3"
+msgstr ""
+
+msgctxt "8fa3a8f76991114f92405500735fcd3f"
+msgid "ID=836000185"
+msgstr "ID=836000185"
+
+msgctxt "3704b2148d43477bb711dc7d5b6b1cde"
+msgid "소울워커의 성장 패키지"
+msgstr "SoulWorker Booster Package"
+
+msgctxt "977183d6141a968eb8fd3ef38070b687"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n소울워커의 세계에 적응하기 위한 "
+"아이템이 들어있는 패키지. 소울워커의 성장을 돕는 다양한 아이템들이 들어있다. \\n-구성품-\\n전투 교본[1H] x 10\\n보너스 "
+"카드 키 x 5\\n공격형 SD 브로치 전송기 x 3\\n방어형 SD 브로치 전송기 x 3\\n기능형 SD 브로치 전송기 x "
+"3\\n인벤토리 확장권 x 1\\n은행 계정 창고 확장권권 x 1\\n아카식레코드 전송기 x 2\\n스페셜 아카식레코드 전송기 x 1"
+msgstr ""
+
+msgctxt "dc3ff3d06743edfa12ed60a64e2ba242"
+msgid "ID=836000186"
+msgstr "ID=836000186"
+
+msgctxt "40bb3d3f49577f351474b6da69913959"
+msgid "소울워커의 성장 패키지 Lite"
+msgstr "SoulWorker Booster Package Lite"
+
+msgctxt "7384a482edb20ce5251a58c0c2f4ce7e"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n소울워커의 세계에 적응하기 위한 "
+"아이템이 들어있는 패키지. 소울워커의 성장을 돕는 다양한 아이템들이 들어있다. \\n-구성품-\\n전투 교본[1H] x 5\\n공격형 "
+"SD 브로치 전송기 x 1\\n방어형 SD 브로치 전송기 x 1\\n기능형 SD 브로치 전송기 x 1\\n인벤토리 확장권 x 1\\n은행 "
+"계정 창고 확장권권 x 1\\n아카식레코드 전송기 x 2"
+msgstr ""
+
+msgctxt "7c4f6f1d2a333f7ef76e8e17a9a82146"
+msgid "ID=836000187"
+msgstr "ID=836000187"
+
+msgctxt "60f660da7b270421f8b0db9b964cea20"
+msgid "교본 패키지"
+msgstr "Boost Package I"
+
+msgctxt "4a5fe9bc0ba3992a34f0a2e2016a1248"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n소울워커의 성장을 위한 교본 "
+"아이템이 들어있는 패키지. 전투 교본과 수집 지침 교본이 들어있다. \\n-구성품-\\n전투 교본[1H] x 15\\n수집 지침 "
+"교본[1H] x 5"
+msgstr ""
+
+msgctxt "8358469455c4cbc9662d8439ec95470f"
+msgid "ID=836000188"
+msgstr "ID=836000188"
+
+msgctxt "80a7316652fdf117610684dd41bc7515"
+msgid "상급 교본 패키지"
+msgstr "Boost Package II"
+
+msgctxt "1ef45e44079141046b7c28c1f90ca734"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n소울워커의 성장을 위한 교본 "
+"아이템이 들어있는 패키지. 상급 전투 교본과 상급 수집 지침 교본이 들어있다. \\n-구성품-\\n상급 전투 교본[1H] x "
+"15\\n상급 수집 지침 교본[1H] x 5"
+msgstr ""
+
+msgctxt "5a4ebded9d677cdbf31c5cbe2ab64bff"
+msgid "ID=720102023"
+msgstr "ID=720102023"
+
+msgctxt "662b4811f2ee2888b0ca9c82d8f6da51"
+msgid "침식석"
+msgstr "Hysteria Stone"
+
+msgctxt "46c9c4405b975da6af39f6f411130243"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n이상 공백의 에너지에 영향을 받아 "
+"변형된 트리타니움. 겉모습은 기존 트리타니움과 비슷해보이지만 이상 공백에서 발생한 특이 에너지를 흡수하여 기존의 광석들보다 훨씬 강력한 "
+"에너지를 품고 있기 때문에 더욱 강력한 장비를 만들 수 있다. 하지만 아직 연구가 필요한 시점인 단계라 그대로 사용이 불가능하기 때문에 "
+"가공하여야 한다. "
+msgstr ""
+
+msgctxt "4bb12264ea0142b31eadea4a3ab734fe"
+msgid "ID=720102024"
+msgstr "ID=720102024"
+
+msgctxt "81b1c773898eee118e71c1acad16f5d6"
+msgid "이상 공백의 웨폰 코어"
+msgstr "Weapon Core of the Blazing Void"
+
+msgctxt "19d4380297993da284b09793c54120d5"
+msgid ""
+"<font color='#FFBA85'>[제작 재료 : 소울 웨폰]<font color='#9D927B'>\\n\\n소울 웨폰의 중앙 "
+"동력부. 소울 에너지를 보정 및 증폭시키는 역할을 맡고 있다. 어떤 웨폰 코어를 사용하느냐에 따라 소울 웨폰의 기본 성능에 차이가 나는 "
+"만큼, 가장 중요한 파츠라 할 수 있다.\\n이상 공백의 에너지를 머금은 돌로 제작된 웨폰 코어로, 최상급 웨폰 코어를 압도하는 성능을 "
+"발휘한다."
+msgstr ""
+
+msgctxt "11eac3630331d1b15420bd183526c61c"
+msgid "ID=720102025"
+msgstr "ID=720102025"
+
+msgctxt "fac19978abec675ae44f86b8630c5086"
+msgid "이상 공백의 기어 코어"
+msgstr "Armour Core of the Blazing Void"
+
+msgctxt "dabc7790f763e9b9c233e02e7e991b47"
+msgid ""
+"<font color='#FFBA85'>[제작 재료 : 기어]<font color='#9D927B'>\\n\\n기어의 중앙 동력부. 소울 "
+"에너지를 보정 및 증폭시키는 역할을 맡고 있다. 어떤 기어 코어를 사용하느냐에 따라 기어의 기본 성능에 차이가 나는 만큼, 기어를 "
+"구성하는 파츠 중, 가장 중요한 파츠라 할 수 있다.\\n이상 공백의 에너지를 머금은 기어 코어로, 최상급 기어 코어를 압도하는 성능을 "
+"발휘한다."
+msgstr ""
+
+msgctxt "5960d898726568ce5e2cc581710afacb"
+msgid "ID=720102026"
+msgstr "ID=720102026"
+
+msgctxt "91fae5054a2812a55192f441a9102a9b"
+msgid "보랏빛 원시 혼"
+msgstr "Violet Ur-Hon"
+
+msgctxt "2b0aaf0225e5eacbca60989701c14a2a"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n소울워커만이 추출할 수 있고 물질로 "
+"다룰 수 있는 특별한 물질. 통칭 [공백 물질]이라 불린다. 특수한 소울 웨폰과 기어를 제작하는데 필수적인 재료로, 쉽게 얻을 수 없다. "
+"공백의 영향을 어떻게 받았느냐에 따라 물질의 특성이 달라지기 때문에, 장소에 특정해서 생성되는 경우가 많다. 더 프라이멀을 처치할 시 "
+"입수할 수 있다."
+msgstr ""
+
+msgctxt "ca6cde8c754921e464e7c6d31b9b68e3"
+msgid "ID=720102027"
+msgstr "ID=720102027"
+
+msgctxt "50bcaa9afd28f6060a827fa6f5beaa47"
+msgid "검은빛 원시 혼"
+msgstr "Black Ur-Hon"
+
+msgctxt "0d5c486d5c13c187fc8bcebad4451479"
+msgid "ID=213379101"
+msgstr "ID=213379101"
+
+msgctxt "d3ca6a78fb76cd6c24a8df7495476c85"
+msgid "다크 아비터 슈트"
+msgstr "Suit of the Dark Lord"
+
+msgctxt "cc004db535c0adfc60c50d73bf34b7e5"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n공백 내부를 탐사하기 위해 만들어진 슈트."
+" 공백에 대해 해명된 것이 아무것도 없었음에도 불구하고 설계도가 존재하는 것인지 알 수 없다. 어쩌면 다른 시간 축에서 만들어진 "
+"설계도일지도.... "
+msgstr ""
+
+msgctxt "82fc9466a8b630a6c5d803da586ad25c"
+msgid "ID=213371901"
+msgstr "ID=213371901"
+
+msgctxt "e4543c5a022c15af1bd4b71968820389"
+msgid "다크 아비터 헤드기어"
+msgstr "Helm of the Dark Lord"
+
+msgctxt "78b25af6c15d6d2deb23a26494310ad9"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n공백 내부를 탐사하기 위해 만들어진 헤드 "
+"기어. 공백에 대해 해명된 것이 아무것도 없었음에도 불구하고 설계도가 존재하는 것인지 알 수 없다. 어쩌면 다른 시간 축에서 만들어진 "
+"설계도일지도.... "
+msgstr ""
+
+msgctxt "b7e48954acab38753ef57fa1d2766dd0"
+msgid "ID=223379101"
+msgstr "ID=223379101"
+
+msgctxt "6d49110e0983a5efd0bd69883f12bc00"
+msgid "ID=223371901"
+msgstr "ID=223371901"
+
+msgctxt "cc2ff5dea3b6a398abc937622c851e16"
+msgid "ID=233379101"
+msgstr "ID=233379101"
+
+msgctxt "8f34a0ae35e897a76e7ee92e9f67ebe8"
+msgid "ID=233371901"
+msgstr "ID=233371901"
+
+msgctxt "71813d09e0957c0cf2c064720fafb2cd"
+msgid "ID=243379101"
+msgstr "ID=243379101"
+
+msgctxt "6d37c574ff90f2273c2223f43471049f"
+msgid "ID=243371901"
+msgstr "ID=243371901"
+
+msgctxt "32ca07dc57f94d7b929705387af902b3"
+msgid "ID=253379101"
+msgstr "ID=253379101"
+
+msgctxt "69b0c03a4b81c9143531fa944d755572"
+msgid "ID=253370201"
+msgstr "ID=253370201"
+
+msgctxt "4bd67e646a52b38366922239113af4a3"
+msgid "ID=111555351"
+msgstr "ID=111555351"
+
+msgctxt "76e5f4d7f43cdd0a718eb0f5485f74cd"
+msgid "디바우러스 둠"
+msgstr ""
+
+msgctxt "9001fe7e667f852547c81172853e029d"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\\n\\n<font color="
+"'#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\\n소울워커 전용 무기. 더 "
+"프라이멀의 에너지가 융합된 잔해로 제작한 무기로 이상 공백의 특이 에너지를 흡수하여 종래의 무기와는 다른 강력한 힘을 가지고 있다. 다만 "
+"주의하지 않는다면 힘에 먹혀버릴 수 있어 취급에 주의가 필요하다. 하루 에스티아가 사용한다.\\n\\n그 앞에서는 아무도 이길 가망이 "
+"없어, 본 것 만으로도 공포와 광기에 가득 차 맞설 수 없으리니...\\n- ??? -"
+msgstr ""
+
+msgctxt "c17ce8dfea367dbe354d0a6f65d8f1a8"
+msgid "ID=112555351"
+msgstr "ID=112555351"
+
+msgctxt "944677cd03afdc129781e08777b7649a"
+msgid "디바우러스 루스"
+msgstr ""
+
+msgctxt "36762669a1f42e1d0a4e2f42a0c77de3"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\\n\\n<font color="
+"'#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\\n소울워커 전용 무기. 더 "
+"프라이멀의 에너지가 융합된 잔해로 제작한 무기로 이상 공백의 특이 에너지를 흡수하여 종래의 무기와는 다른 강력한 힘을 가지고 있다. 다만 "
+"주의하지 않는다면 힘에 먹혀버릴 수 있어 취급에 주의가 필요하다. 어윈 아크라이트가 사용한다.\\n\\n입에서 내뿜는 저 불길을 보라. "
+"그 앞에서 우리가 겪을 것은 피할 수 없는 재난일 뿐이니....\\n- ??? -"
+msgstr ""
+
+msgctxt "8a87857bb1f090d3d54ed15689125f1e"
+msgid "ID=113555351"
+msgstr "ID=113555351"
+
+msgctxt "b32cc114e8fc503134246b683a6c0bdb"
+msgid "디바우러스 앵기쉬"
+msgstr ""
+
+msgctxt "bff55f3b50d884e10363308ec528ffdc"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n<font color="
+"'#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\\n소울워커 전용 무기. 더 "
+"프라이멀의 에너지가 융합된 잔해로 제작한 무기로 이상 공백의 특이 에너지를 흡수하여 종래의 무기와는 다른 강력한 힘을 가지고 있다. 다만 "
+"주의하지 않는다면 힘에 먹혀버릴 수 있어 취급에 주의가 필요하다. 릴리 블룸메르헨이 사용한다.\\n\\n그 앞에서 우리는 비통한 삶을 "
+"끝내기를 바랄 뿐이다.\\n- ??? -"
+msgstr ""
+
+msgctxt "68ddfc3c0f9a5cb447f6b4ca392a5cd3"
+msgid "ID=114555351"
+msgstr "ID=114555351"
+
+msgctxt "af450fa55d845358d4d1d511451b7d6b"
+msgid "디바우러스 인듀어"
+msgstr ""
+
+msgctxt "c9e78ab6450e633e3c2c36bc0d9ad71a"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n<font color="
+"'#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\\n소울워커 전용 무기. 더 "
+"프라이멀의 에너지가 융합된 잔해로 제작한 무기로 이상 공백의 특이 에너지를 흡수하여 종래의 무기와는 다른 강력한 힘을 가지고 있다. 다만 "
+"주의하지 않는다면 힘에 먹혀버릴 수 있어 취급에 주의가 필요하다. 진 세이파츠가 사용한다.\\n\\n우리는 인내하지 않으리라. 이제 "
+"세상에 두 발로 서 있지 않으리니....\\n- ??? -"
+msgstr ""
+
+msgctxt "8aba45c00ed877880e6a1fd0982fcb1b"
+msgid "ID=115555351"
+msgstr "ID=115555351"
+
+msgctxt "26dd2bb183ee7734b136862ddd07f1e6"
+msgid "디바우러스 레이스"
+msgstr ""
+
+msgctxt "b5f0350f599c82b4f5b2aa997d1f1c41"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n<font color="
+"'#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\\n소울워커 전용 무기. 더 "
+"프라이멀의 에너지가 융합된 잔해로 제작한 무기로 이상 공백의 특이 에너지를 흡수하여 종래의 무기와는 다른 강력한 힘을 가지고 있다. 다만 "
+"주의하지 않는다면 힘에 먹혀버릴 수 있어 취급에 주의가 필요하다. 스텔라 유니벨이 사용한다.\\n\\n우리의 영혼은 영원히 괴물의 입 "
+"속에 살리라.\\n- ??? -"
+msgstr ""
+
+msgctxt "58238734ffd473772e9f28e6dcab04c7"
+msgid "ID=510555351"
+msgstr "ID=510555351"
+
+msgctxt "fa0cbcda686982305bb1d9869b3a4f61"
+msgid "디바우러스 바일 헤드"
+msgstr ""
+
+msgctxt "03ac351a0ca09cfaeb9dfcc06dc327ea"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n<font color="
+"'#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\\n소울워커 전용 방어구. 이상 "
+"공백의 깊숙한 곳에서 더 프라이멀의 잔해로 만들어졌다. 모든 것을 집어삼킬 것 같았던 존재의 힘은 대부분 사라졌지만 그 의식은 아직도 "
+"남아있는 것 같다. 머리에 착용할 수 있다.\\n\\n흐음, 이렇게 만들어 놓고 보니까 말이지... 왠지 사람이 쓸 물건은 아닌거 같아."
+"\\n- 제니스 -"
+msgstr ""
+
+msgctxt "eb8498150ea65006864ccce32afc732f"
+msgid "ID=520555351"
+msgstr "ID=520555351"
+
+msgctxt "ab1740f8c976290d21c42f823396862f"
+msgid "디바우러스 바일 숄더"
+msgstr ""
+
+msgctxt "31b54bef574e3e65c797a1befa88787b"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n<font color="
+"'#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\\n소울워커 전용 방어구. 이상 "
+"공백의 깊숙한 곳에서 더 프라이멀의 잔해로 만들어졌다. 모든 것을 집어삼킬 것 같았던 존재의 힘은 대부분 사라졌지만 그 의식은 아직도 "
+"남아있는 것 같다. 어깨에 착용 할 수 있다.\\n\\n흐음, 이렇게 만들어 놓고 보니까 말이지... 왠지 사람이 쓸 물건은 아닌거 같아."
+"\\n- 제니스 -"
+msgstr ""
+
+msgctxt "42fbf1ec50d3eec2641019d3959215ff"
+msgid "ID=530555351"
+msgstr "ID=530555351"
+
+msgctxt "4440daa8ff414ebd44cd73a61de22a15"
+msgid "디바우러스 바일 바디"
+msgstr ""
+
+msgctxt "1b0012c0a91515db88a34aa7311c3422"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n<font color="
+"'#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\\n소울워커 전용 방어구. 이상 "
+"공백의 깊숙한 곳에서 더 프라이멀의 잔해로 만들어졌다. 모든 것을 집어삼킬 것 같았던 존재의 힘은 대부분 사라졌지만 그 의식은 아직도 "
+"남아있는 것 같다. 가슴에 착용 할 수 있다.\\n\\n흐음, 이렇게 만들어 놓고 보니까 말이지... 왠지 사람이 쓸 물건은 아닌거 같아."
+"\\n- 제니스 -"
+msgstr ""
+
+msgctxt "7487610896912592949e4b3b53a40de8"
+msgid "ID=540555351"
+msgstr "ID=540555351"
+
+msgctxt "a8ab59e87c1c7178f2c11012aef09644"
+msgid "디바우러스 바일 레그"
+msgstr ""
+
+msgctxt "0b9ab4d73d442fdecb2b32bbb4aee186"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n<font color="
+"'#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\\n소울워커 전용 방어구. 이상 "
+"공백의 깊숙한 곳에서 더 프라이멀의 잔해로 만들어졌다. 모든 것을 집어삼킬 것 같았던 존재의 힘은 대부분 사라졌지만 그 의식은 아직도 "
+"남아있는 것 같다. 다리에 착용 할 수 있다.\\n\\n흐음, 이렇게 만들어 놓고 보니까 말이지... 왠지 사람이 쓸 물건은 아닌거 같아."
+"\\n- 제니스 -"
+msgstr ""
+
+msgctxt "b560e23df3b2e0b79cfe53875bc5ef8d"
+msgid "ID=410555351"
+msgstr "ID=410555351"
+
+msgctxt "002577afaf17627d5e88b7cb593920fd"
+msgid "디바우러스 트로피 팬던트"
+msgstr ""
+
+msgctxt "ca56c3e27301e35514ad2ad3eb44f1c4"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"이상 공백의 깊숙한 곳에서 더 프라이멀의 잔해 속에서 발견된 것으로 이상 공백의 강대한 에너지가 안에 담겨 있다. 모든 것을 집어삼킬 것 "
+"같았던 존재의 힘은 대부분 사라졌지만 그 의식은 아직도 이 안에 남아있는 것 같다. 목에 착용할 수 있다.\\n\\n...이러한 존재가 "
+"어찌하여 존재할 수 있던 것인지 알고 있는 이는 아무도 없다. 이 세계를 만든 창조자라면 알고 있을까?\\n- 이오 -"
+msgstr ""
+
+msgctxt "fd20d7001b8c10324d4bb4fd2f9e261e"
+msgid "ID=430555351"
+msgstr "ID=430555351"
+
+msgctxt "d1d5be8ffe887b8d43f8782d00f702dc"
+msgid "디바우러스 트로피 이어링"
+msgstr ""
+
+msgctxt "d44d966dcaacc255a330a69a7183be25"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"이상 공백의 깊숙한 곳에서 더 프라이멀의 잔해 속에서 발견된 것으로 이상 공백의 강대한 에너지가 안에 담겨 있다. 모든 것을 집어삼킬 것 "
+"같았던 존재의 힘은 대부분 사라졌지만 그 의식은 아직도 이 안에 남아있는 것 같다. 귀에 착용할 수 있다.\\n\\n...이러한 존재가 "
+"어찌하여 존재할 수 있던 것인지 알고 있는 이는 아무도 없다. 이 세계를 만든 창조자라면 알고 있을까?\\n- 이오 -"
+msgstr ""
+
+msgctxt "81e9c2679e99fed841c04ac02c500bd0"
+msgid "ID=440555351"
+msgstr "ID=440555351"
+
+msgctxt "1d13aaa8619db96f77d55c7f990e4b74"
+msgid "디바우러스 시즈 링"
+msgstr ""
+
+msgctxt "bbffcb8727309499e4ffffd19a82ec9d"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. 이상 "
+"공백의 깊숙한 곳에서 더 프라이멀의 잔해 속에서 발견된 것으로 이상 공백의 강대한 에너지가 안에 담겨 있다. 모든 것을 집어삼킬 것 "
+"같았던 존재의 힘은 대부분 사라졌지만 그 의식은 아직도 이 안에 남아있는 것 같다. 손가락에 착용할 수 있다.\\n\\n...이러한 "
+"존재가 어찌하여 존재할 수 있던 것인지 알고 있는 이는 아무도 없다. 이 세계를 만든 창조자라면 알고 있을까?\\n- 이오 -"
+msgstr ""
+
+msgctxt "fbdb8aea72aaf33aee58b95abc690135"
+msgid "ID=440555352"
+msgstr "ID=440555352"
+
+msgctxt "64acd05998deafd389cfbfe6b06052c9"
+msgid "디바우러스 그리드 링"
+msgstr ""
+
+msgctxt "e9183d810032db74f9a455b703f12e14"
+msgid "ID=213389101"
+msgstr "ID=213389101"
+
+msgctxt "29af2066d097ea4c80c4a8d076c323e4"
+msgid "[설계도]다크 아비터 슈트"
+msgstr "[Blueprint] Suit of the Dark Lord"
+
+msgctxt "b263ff3a8328e50e4a7e7b71e249a868"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n다크 아비터 슈트를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "4b2b5f17efd9d6e8be2bfca538eeecea"
+msgid "ID=213381901"
+msgstr "ID=213381901"
+
+msgctxt "f59bc190b97311df86e07f34ffe4134f"
+msgid "[설계도]다크 아비터 헤드기어"
+msgstr "[Blueprint] Helm of the Dark Lord"
+
+msgctxt "4e469f8b09fc804c17a2ae2db4e8ade2"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n다크 아비터 헤드기어를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "047be340d4c90a78780fa19662c588a0"
+msgid "ID=223389101"
+msgstr "ID=223389101"
+
+msgctxt "4910bfe0c830d88a4c9d2b06f5fa6f10"
+msgid "ID=223381901"
+msgstr "ID=223381901"
+
+msgctxt "94dedc2267d2b6d9332a0c5a6131f704"
+msgid "ID=233389101"
+msgstr "ID=233389101"
+
+msgctxt "41170fd1484ea9c7d521183fa37f8c45"
+msgid "ID=233381901"
+msgstr "ID=233381901"
+
+msgctxt "53b4e44ceaea4da300702ff2f9fb27e4"
+msgid "ID=243389101"
+msgstr "ID=243389101"
+
+msgctxt "c85bddf1a1f6bb45340fcde76018bc8a"
+msgid "ID=243381901"
+msgstr "ID=243381901"
+
+msgctxt "3aea2f5259923ccc1ac243b71af8ddf6"
+msgid "ID=253389101"
+msgstr "ID=253389101"
+
+msgctxt "a0536cd875123027c1561f30c1bcae6c"
+msgid "ID=253381901"
+msgstr "ID=253381901"
+
+msgctxt "fe5b80adbb209b7f153b6b61dc7aa850"
+msgid "ID=711555314"
+msgstr "ID=711555314"
+
+#, fuzzy
+msgctxt "edca868144b282e127661703517a8762"
+msgid "[설계도]디바우러스 둠"
+msgstr "[Blueprint] Devasaurus Doom"
+
+msgctxt "5930a4f694543a7164bd3a6bdc8baa24"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디바우러스 둠을 만들 수 있는 설계도."
+msgstr ""
+
+msgctxt "9f2a8d0b72d7e6ccf923e006cc8dfe61"
+msgid "ID=712555314"
+msgstr "ID=712555314"
+
+#, fuzzy
+msgctxt "67909a7619f79584578443a94d439a77"
+msgid "[설계도]디바우러스 루스"
+msgstr ""
+"[Blueprint] Devasaurus ???? [lava note:am too tired to make sense outta it]"
+
+msgctxt "ddb5b3c097d2d000560aced3c8721a9f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디바우러스 루스를 만들 수 있는 설계도."
+""
+msgstr ""
+
+msgctxt "4b7e002edaab095a9facdec524ec50ca"
+msgid "ID=713555314"
+msgstr ""
+
+msgctxt "fab21b19fbcaea6e09d629819cbf2b2c"
+msgid "[설계도]디바우러스 앵기쉬"
+msgstr ""
+
+msgctxt "f80f9c850860fe66c1e4c27e1c22a181"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디바우러스 앵기쉬를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "54a03444d8285b6adb809e7d1787ec4f"
+msgid "ID=714555314"
+msgstr ""
+
+msgctxt "8c417ddd23d7018970cd40f03a652ce9"
+msgid "[설계도]디바우러스 인듀어"
+msgstr ""
+
+msgctxt "be1f500386c8b30f5c62535e0cfe83ec"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디바우러스 인듀어를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "77e3c93b7df9aee0a6ee8af8df51f89d"
+msgid "ID=715555314"
+msgstr ""
+
+msgctxt "453bf8cbca6e0d1a8923e398cc69272f"
+msgid "[설계도]디바우러스 레이스"
+msgstr ""
+
+msgctxt "f32d648658e06b6b932620f396aa0d7e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디바우러스 레이스를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "92cb9c6124a8425c5fd5fac1df6a06cd"
+msgid "ID=710555334"
+msgstr ""
+
+msgctxt "16938d650e583d820c6077acf986aa5f"
+msgid "[설계도]디바우러스 바일 헤드"
+msgstr ""
+
+msgctxt "adc0aa0205f4cdc74a3fa0f262a04659"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디바우러스 바일 헤드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "a41e16cd8e09fdf270a7a99a3d9d8267"
+msgid "ID=710555344"
+msgstr ""
+
+msgctxt "1f8ccd33900da8e6d1cd87b23d488e8e"
+msgid "[설계도]디바우러스 바일 숄더"
+msgstr ""
+
+msgctxt "b1965aca096f3ad8162502fae1d1b416"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디바우러스 바일 숄더를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "ffcb941a70d9157d44a6bc0952cee66a"
+msgid "ID=710555354"
+msgstr ""
+
+msgctxt "400d622b1422d7c805f9dea5de7b0476"
+msgid "[설계도]디바우러스 바일 바디"
+msgstr ""
+
+msgctxt "6940b0317d8933c426eab2bc05bf96cd"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디바우러스 바일 바디를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "dad289d13512c1ebb79c535fe3c9832d"
+msgid "ID=710555364"
+msgstr ""
+
+msgctxt "64716a245734e1dbaf8056cdf99ee3ab"
+msgid "[설계도]디바우러스 바일 레그"
+msgstr ""
+
+msgctxt "0f696d206ee4ceea9872662ccadf7290"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디바우러스 바일 레그를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "b2cb5bc8ec85c0ac2f8737d879586435"
+msgid "ID=800006010"
+msgstr ""
+
+msgctxt "a2f8db6e7279a640b3bdbaa0b645fd18"
+msgid "[수행증]공백의 가장 깊숙한 곳"
+msgstr ""
+
+msgctxt "d20ad4f4c090af6e39b516f1822c032f"
+msgid ""
+"<font color='#FFBA85'>[더 프라이멀 레이드 입장권]<font color='#9D927B'>\\n\\n더 프라이멀이 "
+"존재하는 공간으로 진입하기 위해 필요한 카드. 이유는 알 수 없지만, 골든 시타델의 적들을 처치하면 획득할 수 있다.\\n자신들을 이길 "
+"수 있는 존재가 아니면 진입할 수 없도록 만든 장치일지도...."
+msgstr ""
+
+msgctxt "aac89134e9ff9f6fff34e1d1fc095650"
+msgid "ID=800006011"
+msgstr ""
+
+msgctxt "4909c2ac2d5483baf4e2bf25aa815535"
+msgid "[허가증] 더 프라이멀"
+msgstr ""
+
+msgctxt "d98ebe2bf1ce704e05f57ae932ec54be"
+msgid ""
+"<font color='#FFBA85'>[더 프라이멀 레이드 입장 횟수 초기화]<font color='#9D927B'>\\n\\n더 "
+"프라이멀이 존재하는 공간을 다시 진입할 수 있도록 초기화하는 특별수행증. 특별 위험 지역이기 때문에 제 아무리 소울워커라 하더라도 특별한 "
+"허가를 받지 않으면 안된다.\\n한 번 사용하면 그 즉시 파기되므로 진입 후 필요한 물품은 미리 미리 준비하는 것이 중요하다."
+msgstr ""
+
+msgctxt "7c949fdaef84efe9ecb3fd0730c8f37b"
+msgid "ID=800006012"
+msgstr ""
+
+msgctxt "d2f54c949019ab2f4345fa03f0f2c92d"
+msgid "[허가증]디멘션 셔터"
+msgstr ""
+
+msgctxt "3f0d3882addf940a3a8ceab90a27c7d7"
+msgid ""
+"<font color='#FFBA85'>[오퍼레이션 : 디멘션 셔터 입장 횟수 초기화]<font color="
+"'#9D927B'>\\n\\n오퍼레이션 : 디멘션 셔터의 공간을 다시 진입할 수 있도록 초기화하는 허가증. 특수 임무를 위한 지역이기 "
+"때문에 제 아무리 소울워커라 하더라도 특별한 허가를 받지 않으면 안된다.\\n한 번 사용하면 그 즉시 파기되므로 진입 후 필요한 물품은 "
+"미리 미리 준비하는 것이 중요하다."
+msgstr ""
+
+msgctxt "b9ce70a5f24cfba351a6f4237b232289"
+msgid "ID=710100201"
+msgstr "ID=710100201"
+
+msgctxt "80b2b73455382be0dddcd0aa158eda5c"
+msgid "멜팅 매터 : 정화"
+msgstr "Smelting Material: Purification"
+
+msgctxt "c4f19e80c5cebc1c99d62e421ceaead9"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n공백의 가장 깊숙한 곳에서 얻은 "
+"잔해를 정화하는데 필요한 촉매제. 공백의 다양한 에너지에 의해 오염된 물질을 녹이다시피하여 정화하는 제품으로 막대한 양의 잔해를 사용해야 "
+"단 하나의 정화된 재료를 얻을 수 있다.\\n어째서 이런 물품을 가지고 있는 것인지는 모르겠지만 자이트에게서 구입할 수 있다."
+"\\n\\n<font color='#FF0000'>※ 해당 아이템은 더 이상 제작 재료로 사용되지 않습니다. 상점에 판매해주세요."
+"<font color='#9D927B'>"
+msgstr ""
+
+msgctxt "090dfacde26929f9cce332969702f53e"
+msgid "ID=710100301"
+msgstr "ID=710100301"
+
+msgctxt "b62e40f3758fc4ca5ee7e21b696a687f"
+msgid "더 프라이멀의 수정 조각"
+msgstr "The Primal's Crystal Shard"
+
+msgctxt "094d57677ec2c08741974e599a88bf41"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n더 프라이멀의 머리에 달려있던 "
+"수정의 조각. 부서졌기 때문에 본래의 빛과 힘은 많이 사라졌다.\\n오히려 다행일지도 모른다. 그런 막대한 힘을 사람이 만졌다가는 무슨 "
+"일이 일어날지 모르니까."
+msgstr ""
+
+msgctxt "a84d845df0b134ceb44a0c3f6cec47c2"
+msgid "ID=710100302"
+msgstr "ID=710100302"
+
+msgctxt "83e3821c386c177f2692fc2608d0ecb2"
+msgid "검은 촉수 덩어리"
+msgstr "Black Lump of Tentacles"
+
+msgctxt "13d06ba3cbed2e589ba72297a2098a7d"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n더 프라이멀의 팔에서 떨어져 나온 "
+"촉수의 덩어리. 이미 본체에서 떨어져 나온지 시간이 오래되었음에도 불구하고 기분 나쁘게 꿈틀거리고 있다. 왠만하면 만지지는 말자."
+msgstr ""
+
+msgctxt "fbcd1a2eff549e5c27f29ea9ed13377b"
+msgid "ID=710100303"
+msgstr "ID=710100303"
+
+msgctxt "5cb1f1cc8e444a0359bf855bd9df3bcf"
+msgid "검게 타버린 강철"
+msgstr "Blackened Steel"
+
+msgctxt "feef7da92a87352cf6111929454f88e2"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n더 프라이멀의 신체를 구성하고 있던 "
+"강철. 더 프라이멀이 쓰러지면서 발생한 엄청난 고열에 의해 강철임에도 까맣게 타버렸다. 아직도 그 온기가 느껴지는 것 같다."
+msgstr ""
+
+msgctxt "b78ff62e18f12aaaebfe111f86b44d45"
+msgid "ID=710100304"
+msgstr "ID=710100304"
+
+msgctxt "b529f70a338de831102944eabf1ba403"
+msgid "정화된 보랏빛 수정체"
+msgstr "Purified Violet Crystal"
+
+msgctxt "b11baeb65002e239c4211ed9806d6b98"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n더 프라이멀의 수정 조각을 정화하여 "
+"만들어진 수정체. 이상 공백의 에너지에 오염되었던 수정체가 정화되자 영롱한 빛을 내뿜고 있다."
+msgstr ""
+
+msgctxt "e0f2e8a2c83174cee7cc1535c5551131"
+msgid "ID=710100305"
+msgstr "ID=710100305"
+
+msgctxt "32afa27afd307beffbe864de6f039573"
+msgid "정화된 유기 섬유"
+msgstr "Purified Organic Material"
+
+msgctxt "f126352af5f1f7ebea9857555003c46c"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n더 프라이멀의 검은 촉수 덩어리를 "
+"정화하여 만들어진 유기 섬유. 아직도 뭔가 꿈틀거리는 기분이 든다."
+msgstr ""
+
+msgctxt "a00764a303ac8c48774d8a1ec915e4ed"
+msgid "ID=710100306"
+msgstr "ID=710100306"
+
+msgctxt "d9b14f4c6c8e24b7dd1ebfd9889ef01a"
+msgid "정화된 탄소 섬유"
+msgstr "Purified Carbon"
+
+msgctxt "1c1e5e1c8750b7837ceecd65bd9e36f4"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n더 프라이멀의 검게 타버린 강철을 "
+"정화하여 만들어진 탄소 섬유. 이상 공백의 에너지에 오염되었던 강철과 섬유가 융합되면서 강철보다 단단한 섬유가 만들어졌다."
+msgstr ""
+
+msgctxt "191bfcb9c906283166cadc5ea97f7862"
+msgid "ID=820000018"
+msgstr "ID=820000018"
+
+msgctxt "845db2465f8d33458a301592a5bc2103"
+msgid "배틀 코트 전리품 상자"
+msgstr "Ariarena Cube"
+
+msgctxt "fe73ccd230ed7892fce03469a1ee519f"
+msgid ""
+"<font color='#FFBA85'>[배틀 코트 승리 보상]<font color='#9D927B'>\\n\\n소울워커들을 위한 전용 "
+"전투 훈련장에서 일정 수의 승리를 달성하였을 시 주어지는 보상. 다양한 재료가 들어있다."
+msgstr ""
+
+msgctxt "f49f5097bc55187245f80a137f28e59f"
+msgid "ID=820000019"
+msgstr "ID=820000019"
+
+msgctxt "39506ac16c4f5f8da1a1f821d12a4574"
+msgid "배틀 코트 전리품 상자 [입장권]"
+msgstr "Ariarena Cube [Pass]"
+
+msgctxt "7fcf3d4e83fe97575405ea231ccb05a0"
+msgid ""
+"<font color='#FFBA85'>[배틀 코트 승리 보상]<font color='#9D927B'>\\n\\n소울워커들을 위한 전용 "
+"전투 훈련장에서 일정 수의 승리를 달성하였을 시 주어지는 보상. 다양한 허가증과 수행증이 들어있다."
+msgstr ""
+
+msgctxt "31bf5c2de408b05b6a6f13e6cab589ee"
+msgid "ID=810001091"
+msgstr "ID=810001091"
+
+msgctxt "629f7ea5a7720cb79a501983b5080452"
+msgid "진의 스포티 룩 상자"
+msgstr ""
+
+msgctxt "ea00f546c390841143efd51efcb68793"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n진의 스포티 룩이 모두 담긴 "
+"패키지이다.\\n-구성품-"
+msgstr ""
+
+msgctxt "74c8b78840a4a2f2008f8c76340217fe"
+msgid "ID=810001092"
+msgstr "ID=810001092"
+
+msgctxt "e1e0a6b31a1573c36f48776fe42997fd"
+msgid "[코스튬 박스]핸섬 스쿨 룩"
+msgstr "[Packaged] Attractive School Look"
+
+msgctxt "84e1fc8156bb1d0cfb634d403baf25b6"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n진의 핸섬 스쿨 룩이 모두 담긴 "
+"패키지이다.\\n-구성품-\\n[핸섬 스쿨 룩] 의상 x 1\\n[핸섬 스쿨 룩] 안경 x 1\\n[핸섬 스쿨 룩] 시계 x "
+"1\\n[핸섬 스쿨 룩] 신발 x 1"
+msgstr ""
+
+msgctxt "8a30cf46ff57064d9740214fdaaee18b"
+msgid "ID=810001094"
+msgstr "ID=810001094"
+
+msgctxt "0d1fc52eecfbe379cd597421973cce06"
+msgid "[코스튬 박스]탐정 학원 룩"
+msgstr "[Packaged] Detectives Academy Uniform"
+
+msgctxt "21448b14c700730d4ca4a924e3e697c2"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n진의 탐정 학원 룩이 모두 담긴 "
+"패키지이다.\\n-구성품-\\n[탐정 학원 교복] 빵모자 x 1\\n[탐정 학원 교복] 의상 x 1\\n[탐정 학원 교복] 신사 콧수염 "
+"x 1\\n[탐정 학원 교복] 구두 x 1"
+msgstr ""
+
+msgctxt "079c14c929a62050f2ded67a02a9a137"
+msgid "ID=384006401"
+msgstr "ID=384006401"
+
+msgctxt "1267cef701e4f0cecdb76b2a23554b33"
+msgid "노아"
+msgstr "Noah"
+
+msgctxt "2040160a2fb68680b0c77c465115f5c5"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n노아의 역사가 새겨진 아카식레코드. "
+"우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "dcd2ced7058c807b9a7d56100c1eccd4"
+msgid "ID=384006402"
+msgstr "ID=384006402"
+
+msgctxt "736cc18fc78b9c490c41e9cd71102bf4"
+msgid "바람의 친구 노아"
+msgstr "Noah +1"
+
+msgctxt "90a14fd7567580c76c15699baede50c4"
+msgid "ID=384006403"
+msgstr "ID=384006403"
+
+msgctxt "5b497ddc3cbf0d57670b14ce8bd7a7cf"
+msgid "폭풍의 수호자 노아"
+msgstr "Noah +2"
+
+msgctxt "b17f056bf3106c7e9e7a14b6095c8de4"
+msgid "ID=384006501"
+msgstr "ID=384006501"
+
+msgctxt "0e854b4a170ffe0b2cc49aef6b3c28ae"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n노아 [H]의 역사가 새겨진 "
+"아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "0b910bf6d543296c67f09712363aa0ff"
+msgid "ID=384006502"
+msgstr "ID=384006502"
+
+msgctxt "343c6117a2381f6d6f04b4a6dfbfb119"
+msgid "ID=384006503"
+msgstr "ID=384006503"
+
+msgctxt "879ba9fa5a7a5d00bde3d3649a5ba196"
+msgid "ID=384006601"
+msgstr "ID=384006601"
+
+msgctxt "827f09a41c8640aca02c487f2b2a45a9"
+msgid "에녹"
+msgstr "Enoch"
+
+msgctxt "c6f64cf653c1a26b3a0d1213523b44bd"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n에녹의 역사가 새겨진 아카식레코드. "
+"우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "2607880e9d2e5a8f4bc25eb4b457cedc"
+msgid "ID=384006602"
+msgstr "ID=384006602"
+
+msgctxt "9a0ec4451b067726e24fdf33217f00c8"
+msgid "원반의 요정 에녹"
+msgstr "Enoch +1"
+
+msgctxt "7e9a0b4f485fbc1cc07b15b4da0ad692"
+msgid "ID=384006603"
+msgstr "ID=384006603"
+
+msgctxt "78f3a6b15ab90ee6b7cdbb5165ef8ac8"
+msgid "원반의 여왕 에녹"
+msgstr "Enoch +3"
+
+msgctxt "0159b97c2291eb91498fceb4edabe1ad"
+msgid "ID=384006701"
+msgstr "ID=384006701"
+
+msgctxt "219e6563bb88b98efb2589d938212038"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n에녹 [H]의 역사가 새겨진 "
+"아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "8fe446e6c1b2d6520b26f197e178f9d9"
+msgid "ID=384006702"
+msgstr "ID=384006702"
+
+msgctxt "3f64c8d33766bd8c30e90f65ca5c9998"
+msgid "ID=384006703"
+msgstr "ID=384006703"
+
+msgctxt "c4b4d6c92eeb7cef56b6368a180981dd"
+msgid "ID=384006801"
+msgstr ""
+
+msgctxt "f027abe4eafd3e6c8f97c9b91529e7d7"
+msgid "시온"
+msgstr ""
+
+msgctxt "e44ab38a02a8164f9d2e8bde56cd3ccc"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n시온의 역사가 새겨진 아카식레코드. "
+"우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "569784b8bd0889589254004d75b4ff70"
+msgid "ID=384006802"
+msgstr ""
+
+msgctxt "b7560c00ad169b81d37c70b88011091e"
+msgid "비트의 주인 시온"
+msgstr ""
+
+msgctxt "63b801183d178823c93efbe1dda703b1"
+msgid "ID=384006803"
+msgstr ""
+
+msgctxt "641f0ee45b334bb0bc163dcaf41007a5"
+msgid "칼날 여왕 시온"
+msgstr ""
+
+msgctxt "eb9cd74d9a24beb64db02e09a974b0e6"
+msgid "ID=384006901"
+msgstr ""
+
+msgctxt "9cfdc0a3dd13ab348ebfbfd78d26e5bd"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n시온 [H]의 역사가 새겨진 "
+"아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "d878b045ac4a93412d69855bf2e096f2"
+msgid "ID=384006902"
+msgstr ""
+
+msgctxt "f00db582d00396c843cb4de715b3e4e0"
+msgid "ID=384006903"
+msgstr ""
+
+msgctxt "34ce6fb1e5766633cd8a06edf413d081"
+msgid "ID=384007001"
+msgstr ""
+
+msgctxt "26a58ee2538422f369e80abf93f27d9f"
+msgid "요미"
+msgstr ""
+
+msgctxt "3aac9cfa15fd33f5eaf9cfea468b0f4a"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n업계의 큰손 요미의 역사가 새겨진 "
+"아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "c73094cdd62716516a44fe687a82b26f"
+msgid "ID=384007002"
+msgstr ""
+
+msgctxt "ac9b112451c75db76241541cb8611d06"
+msgid "상인연합 요미"
+msgstr ""
+
+msgctxt "6b99f11998bb5ac994827dd911a4a1ad"
+msgid "ID=384007003"
+msgstr ""
+
+msgctxt "663416db275b3134c126479619989ba4"
+msgid "까칠한 요미"
+msgstr ""
+
+msgctxt "446ae695fe63a48d3d59a234d1dbc863"
+msgid "ID=384007101"
+msgstr ""
+
+msgctxt "98717b0fd5e2c31aaba8c1bd979132dd"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n업계의 큰손 요미 [H]의 역사가 "
+"새겨진 아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "9b2bb420c28913577457217b6e622bbc"
+msgid "ID=384007102"
+msgstr ""
+
+msgctxt "941eb9e3a78e3dbc7800e94d7f3f95e6"
+msgid "ID=384007103"
+msgstr ""
+
+msgctxt "eb20a1bedcb63a8f22c81bb823f7064d"
+msgid "ID=384007201"
+msgstr ""
+
+msgctxt "475ab19fffa9dc2c27ecc7bb0dfb96cb"
+msgid "캐서린"
+msgstr ""
+
+msgctxt "7a1640e34015a87c7eefb22dab71182e"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n멸망속의 꽃 캐서린의 역사가 새겨진 "
+"아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "7040161ceac5354acdedf650c700d118"
+msgid "ID=384007202"
+msgstr ""
+
+msgctxt "fd530bd266445acc8dbf866042a71634"
+msgid "순진무구 캐서린"
+msgstr ""
+
+msgctxt "c444b59b9852ab22977f1213ad864861"
+msgid "ID=384007203"
+msgstr ""
+
+msgctxt "10644b0cbba8f6342ddd62e5e6faff92"
+msgid "천방지축 캐서린"
+msgstr ""
+
+msgctxt "961f105602089ee029604c7a4feea764"
+msgid "ID=384007301"
+msgstr ""
+
+msgctxt "3e7cf7ea7a8ceacd0c60163f8b5fac93"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n멸망속의 꽃 캐서린 [H]의 역사가 "
+"새겨진 아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "439b3bc39715a62e41f8204cce30ac37"
+msgid "ID=384007302"
+msgstr ""
+
+msgctxt "3fb9ad7d8099602b4444ef7b50d2b3c9"
+msgid "ID=384007303"
+msgstr ""
+
+msgctxt "58493d2030855964736ff4a6dd2bafc6"
+msgid "ID=384007401"
+msgstr ""
+
+msgctxt "86a08b6426d57f23ac765cef75cfaadd"
+msgid "준위 아만다"
+msgstr ""
+
+msgctxt "d04c35f031f06fc62d600d370d3b53d2"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n전파를 잇는 아만다의 역사가 새겨진 "
+"아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "7fa51cc9fc42f29afd406df2b470b90a"
+msgid "ID=384007402"
+msgstr ""
+
+msgctxt "b97ae831fbd67af1f58ee67ef3e15275"
+msgid "통신장교 아만다"
+msgstr ""
+
+msgctxt "af202406df16903c3de8550cecf55bc2"
+msgid "ID=384007403"
+msgstr ""
+
+msgctxt "f3a94459ebd3ba36d9493265e1cfe802"
+msgid "긴급통신 아만다"
+msgstr ""
+
+msgctxt "0e24ce5bd9b51512e0b03afa83971e1a"
+msgid "ID=384007501"
+msgstr ""
+
+msgctxt "6ef0dadd6c14c1ebd246dfdbe9994188"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n전파를 잇는 아만다 [H]의 역사가 "
+"새겨진 아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "b9bb4ca4b61ca0356781a5ba83a0050a"
+msgid "ID=384007502"
+msgstr ""
+
+msgctxt "d10c7a0764304b591dd1b9363537bc38"
+msgid "ID=384007503"
+msgstr ""
+
+msgctxt "ccfd6436ead5a7fce1edcad10b900a70"
+msgid "ID=384008101"
+msgstr ""
+
+msgctxt "1373b47d4469cfe490931a2d649d7508"
+msgid "루시"
+msgstr ""
+
+msgctxt "b3031baf7518dc371e089dda88e6e11a"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n기계무덤의 파수꾼 루시의 역사가 새겨진 "
+"아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "977df6a1ae90df517353dd68e13181ae"
+msgid "ID=384008102"
+msgstr ""
+
+msgctxt "7ad187fe0f4849f08a681aff717d6e5e"
+msgid "전뇌소녀 루시"
+msgstr ""
+
+msgctxt "2958806eb84da08f8a8ccfee65b3a4b1"
+msgid "ID=384008103"
+msgstr ""
+
+msgctxt "aa78f7b487020e36f70de6cce6f71656"
+msgid "기계무덤의 파수꾼 루시"
+msgstr ""
+
+msgctxt "4e3393d94d2a66d0390b80d7eb0e38d1"
+msgid "ID=384008201"
+msgstr ""
+
+msgctxt "fc6ba4ee136391e41bba62a45a327eaf"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n기계무덤의 파수꾼 루시 [H]의 역사가 "
+"새겨진 아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "9a2fc74324c19817bca108d51962dfc0"
+msgid "ID=384008202"
+msgstr ""
+
+msgctxt "2d2e75a3b8d568e4584f7e9fd2db9de2"
+msgid "ID=384008203"
+msgstr ""
+
+msgctxt "75b072254573431a8b6cde33daca5f26"
+msgid "ID=384008301"
+msgstr ""
+
+msgctxt "c7cdcfc61b3fe223e97317d84414f2dd"
+msgid "세니아"
+msgstr ""
+
+msgctxt "af4deea2899b72a78b9480b105f71fe9"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n역전혁명의 군사 세니아의 역사가 새겨진 "
+"아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "390f5c0a18bb852a576c00c57fbd5bc9"
+msgid "ID=384008302"
+msgstr ""
+
+msgctxt "0f3111b5247657cbfd95de29253c29d4"
+msgid "강압적인 보좌관 세니아"
+msgstr ""
+
+msgctxt "a2a5915718a9481c24f723fe2b1f2c91"
+msgid "ID=384008303"
+msgstr ""
+
+msgctxt "c0b20fe35d5a7913034816021b6255e6"
+msgid "역전혁명의 군사 세니아"
+msgstr ""
+
+msgctxt "9a97e9a600cc69d86c87b193671f2f8f"
+msgid "ID=384008401"
+msgstr ""
+
+msgctxt "760cd15f849c991b191e2840f060a5e0"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n역전혁명의 군사 세니아 [H]의 역사가 "
+"새겨진 아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "06dcad1a40104cae56775ee531335fab"
+msgid "ID=384008402"
+msgstr ""
+
+msgctxt "db46ec51404f4f97f91e48318ba1faeb"
+msgid "ID=384008403"
+msgstr ""
+
+msgctxt "8acac88f0b02c984a93b3ec82e02fe6e"
+msgid "ID=384008501"
+msgstr ""
+
+msgctxt "0e016a5ac59b3fc2b84323b4e795bc93"
+msgid "세듀린"
+msgstr ""
+
+msgctxt "8bad0b619f3d859f558802b7d3a7a5fb"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n말살지향 공학도 세듀린의 역사가 새겨진 "
+"아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "0d8bc6e8aa4e5c7eb7b1c7eacde3762e"
+msgid "ID=384008502"
+msgstr ""
+
+msgctxt "fd94055bbb9e1dd62da1d7cd50bb4748"
+msgid "피곤한 공학소녀 세듀린"
+msgstr ""
+
+msgctxt "42c3dd5776e63c02c71bf3b38a65534d"
+msgid "ID=384008503"
+msgstr ""
+
+msgctxt "523eb0c0b3bb33da8a962b6dc37fe52a"
+msgid "말살지향 공학도 세듀린"
+msgstr ""
+
+msgctxt "ecb751144e2170fefc6c70b73fc8b1d4"
+msgid "ID=384008601"
+msgstr ""
+
+msgctxt "40b6a859b02b72f0c46cede8af463a92"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n말살지향 공학도 세듀린 [H]의 역사가 "
+"새겨진 아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "8943440183de6138182e497308075017"
+msgid "ID=384008602"
+msgstr ""
+
+msgctxt "4afdf9025cb163ac2857ee9c3dafec56"
+msgid "ID=384008603"
+msgstr ""
+
+msgctxt "6862005be20a016e5ab4825d39e1886c"
+msgid "ID=384007601"
+msgstr ""
+
+msgctxt "d54262e8b8d49e4e54198dc1f56bc207"
+msgid "배고픈 그루톤"
+msgstr ""
+
+msgctxt "03ce212352508ad498260d6690e1fc64"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드]<font color='#9D927B'>\\n배고픈 그루톤의 역사가 새겨진 "
+"아카식레코드. 우클릭으로 사용 가능하며, 사용 시 해당 역사를 흡수한다. 흡수한 역사는 [아카식레코드] 메뉴에서 확인할 수 있다."
+msgstr ""
+
+msgctxt "c47cb3a22f3049e1916beb5a255088fd"
+msgid "ID=384007602"
+msgstr ""
+
+msgctxt "d5b2266b6f8d1bcbfcb85ead5eeba6e3"
+msgid "ID=384007603"
+msgstr ""
+
+msgctxt "48d11eaf0123cf65ac33b221b384048e"
+msgid "ID=384007604"
+msgstr ""
+
+msgctxt "7830e94d8165170217567533dd87886b"
+msgid "ID=384007605"
+msgstr ""
+
+msgctxt "e6c1af6d7c9b45e6c6c5d8885879c6d8"
+msgid "ID=837011000"
+msgstr ""
+
+msgctxt "fe85c3e32bc675bd6e5c91690c63691f"
+msgid "코스튬 전송기 패키지 I"
+msgstr ""
+
+msgctxt "4250664613128f8cc2031e000b9f9d64"
+msgid ""
+"<font color='#FFBA85'>[코스튬 전송기 패키지]<font color='#9D927B'>\\n\\n코스튬 전송기가 들어있는 "
+"상자. 개봉하면 코스튬 전송기 16개를 얻을 수 있다. \\n- 구성품 -\\n코스튬 전송기 x 16"
+msgstr ""
+
+msgctxt "3229a78fa84d7b2d089f56c31902bab1"
+msgid "ID=837011001"
+msgstr ""
+
+msgctxt "cdf3c932e0288997c01e3748f63eabeb"
+msgid "코스튬 전송기 패키지 II"
+msgstr ""
+
+msgctxt "bd4362ed89f3a64a69c0cda89cb5c725"
+msgid ""
+"<font color='#FFBA85'>[코스튬 전송기 패키지]<font color='#9D927B'>\\n\\n[코스튬 전송기 "
+"패키지]\\n- 구성품 -\\n코스튬 전송기 x 33"
+msgstr ""
+
+msgctxt "1a61efeee86d381608112f1862beac96"
+msgid "ID=906015601"
+msgstr ""
+
+msgctxt "6991e9b9f0b26683999576c72c87b795"
+msgid "괴이한 파편"
+msgstr ""
+
+msgctxt "47b757ce54434b49730a4dd07e08da10"
+msgid ""
+"<font color='#FFBA85'>[퀘스트 아이템]<font color='#9D927B'>\\n\\n제6구역에 모인 소울정크에게서 "
+"얻은 파편. 정체를 알 수 없는 보랏빛을 내뿜고 있다. 가지고 있는 것만으로도 굉장히 불쾌한 기분이 들고 있다."
+msgstr ""
+
+msgctxt "78aceb081c635c291740db7459bf2bee"
+msgid "ID=837200004"
+msgstr ""
+
+msgctxt "e235df6d1df8fcdab0ea6c227e76d5d3"
+msgid "한정판 아카식레코드 전송기"
+msgstr ""
+
+msgctxt "d257f534cd29d20706f558c3a74eba41"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드 획득 아이템] 아카식레코드 무작위 획득\\n# 특별한 일러스트를 가진 노아, 에녹, "
+"시온의 아카식레코드를 획득할 수 있는 아이템<font color='#9D927B'>\\n\\n아카식레코드를 획득할 수 있는 전송 장치. "
+"소울리스트들이 오랜 시간에 걸쳐 기록한 아카식레코드를 전송 받을 수 있는 장치로 이 장치를 이용하면 지금까지 볼 수 없었던 매우 특별한 "
+"아카식레코드를 얻을 수 있다고 한다.\\n액티브 타입의 아카식레코드는 [제 6구역]에서 사용할 수 없으니 주의."
+msgstr ""
+
+msgctxt "19acfa2d4a06682f415dc84e2accacf7"
+msgid "ID=834000015"
+msgstr ""
+
+msgctxt "bf2b92620a3f0308381d2d2a9efbfd5d"
+msgid "에너지 컨버터"
+msgstr ""
+
+msgctxt "1aa1c85befd0637d645f0f38b7f0cc89"
+msgid ""
+"<font color='#FFBA85'>[장비 옵션 변경 아이템]<font color='#9D927B'>\\n\\n소울웨폰이나 기어, "
+"액세서리에 담긴 에너지의 성질을 강제로 변환시키는 장치. 이 장치를 사용하면 각각의 장비에 적용된 에너지의 성질을 변환시킬 수 있다. "
+"다만 장비가 가진 에너지가 클수록 더욱 많은 장치가 필요하며 변환된 에너지의 성질은 무작위로 설정되기 때문에 사용에 주의를 가질 필요가 "
+"있다."
+msgstr ""
+
+msgctxt "61db002535b6bbaac22c531bf7cdc841"
+msgid "ID=211881901"
+msgstr ""
+
+msgctxt "b1475e96d7a1b787c23944c8a6435727"
+msgid "감시자의 눈"
+msgstr ""
+
+msgctxt "7063a5cdcc2bb4f9bd6234adee4d9634"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n더 씽을 저지하는데 지대한 공헌을 한 "
+"인물에게 주어지는 헤드 기어. 전 세계에서 손에 꼽을 만큼의 수 밖에 만들어지지 않았는데 그나마도 대부분이 유실되어 어딘가로 사라져 "
+"버렸다."
+msgstr ""
+
+msgctxt "c65166c5031278db61959c3b2c8a4020"
+msgid "ID=221881901"
+msgstr ""
+
+msgctxt "c4aa6a64092f9b2a45bd99919afdbdea"
+msgid "ID=231881901"
+msgstr ""
+
+msgctxt "282bd3e08b513fd0841e58fdfd0dd5e0"
+msgid "ID=241881901"
+msgstr ""
+
+msgctxt "36afc6c9683173b4c6d0460a871e0b73"
+msgid "ID=251881901"
+msgstr ""
+
+msgctxt "aec86444405e590c3016a20e8768beb2"
+msgid "ID=213390701"
+msgstr ""
+
+msgctxt "1fa707dcaca8450c9bb9c88de4658c74"
+msgid "바리케이드 라인 자켓"
+msgstr ""
+
+msgctxt "db683a74dd1699d2c0e54bf48e14b6a2"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n주황색 벨트로 감싸진 검은 후드 자켓. "
+"함부로 접근하지 말아야 할 것 같다."
+msgstr ""
+
+msgctxt "b45e4c8c197d418fba5dd66a84cecf10"
+msgid "ID=213390801"
+msgstr ""
+
+msgctxt "302d5b2732de591ff49584fd0197d260"
+msgid "바리케이드 라인 반바지"
+msgstr ""
+
+msgctxt "0abd70c971541e140b85088770e69071"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n주황색 라인의 회색 반바지. 함부로 "
+"접근하지 말아야 할 것 같다."
+msgstr ""
+
+msgctxt "2905fa78ea11880217b7d232cb182531"
+msgid "ID=213391601"
+msgstr ""
+
+msgctxt "ded7a465b4a53c06079330f95d533469"
+msgid "바리케이드 라인 헤드셋"
+msgstr ""
+
+msgctxt "0abd89a4d7eba95c900dd2f147a58a7e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n비밀 요원처럼 보이기 위해 마련된 헤드셋."
+" 아무런 기능은 없지만 함부로 접근하지 말아야 할 것 같다."
+msgstr ""
+
+msgctxt "a619ba8d67f74ee573e9d68dba6a8f3b"
+msgid "ID=213390501"
+msgstr ""
+
+msgctxt "037cd32a4617b92be59ce212fa2c0bf9"
+msgid "바리케이드 라인 장갑"
+msgstr ""
+
+msgctxt "121dd8ddfd71b76ba300a2b36a507a09"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n손가락 부분이 완전히 개방된 장갑. "
+"함부로 접근하지 말아야 할 것 같다."
+msgstr ""
+
+msgctxt "107330c64382da690d92cc88a6042598"
+msgid "ID=213391201"
+msgstr ""
+
+msgctxt "64f1f6436b20c45d0571a29fbd9418a1"
+msgid "바리케이드 라인 운동화"
+msgstr ""
+
+msgctxt "905eff39b3b180aa1563e56daba0b7f6"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n주황색 벨트의 하이탑 운동화. 마치 구속 "
+"신발 같은 느낌이 든다. 함부로 접근하지 말아야 할 것 같다."
+msgstr ""
+
+msgctxt "e352ac7b80d7205e008f8c71da218b57"
+msgid "ID=223390701"
+msgstr ""
+
+msgctxt "6a4182a707a72810e1a45990632e6681"
+msgid "ID=223390801"
+msgstr ""
+
+msgctxt "b3243dd6477b96e4d3ac2b2b78c152db"
+msgid "바리케이드 라인 바지"
+msgstr ""
+
+msgctxt "b1cebdedcca8211bd7ea6bd36efd2b37"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n주황색 라인의 회색 바지. 함부로 "
+"접근하지 말아야 할 것 같다."
+msgstr ""
+
+msgctxt "08730868c0527a9faac38b3004f54b57"
+msgid "ID=223391601"
+msgstr ""
+
+msgctxt "cf322893d865221a917654007261ebfc"
+msgid "ID=223390501"
+msgstr ""
+
+msgctxt "c0f43e7354a9449e9eb8c41047e3b5c8"
+msgid "ID=223391201"
+msgstr ""
+
+msgctxt "60d414e8ef141a25c012fd830b72be7c"
+msgid "ID=233390701"
+msgstr ""
+
+msgctxt "176375b0e43466bb426a656e875fd0f0"
+msgid "ID=233390801"
+msgstr ""
+
+msgctxt "49e8e9d0e3a77fd97ac56f0c59e410c1"
+msgid "ID=233391601"
+msgstr ""
+
+msgctxt "057faf46bf13901a5c4c97c1d5843b16"
+msgid "ID=233390501"
+msgstr ""
+
+msgctxt "d9bac01c4b792878149337c822f2ee77"
+msgid "ID=233391201"
+msgstr ""
+
+msgctxt "a6f592c804601c1816fef29b4d2ef572"
+msgid "ID=243390701"
+msgstr ""
+
+msgctxt "9db80ddce9e4eda9bd736840c8d72723"
+msgid "ID=243390801"
+msgstr ""
+
+msgctxt "fec4e84b9b7f316017de09cc0fa91601"
+msgid "ID=243391601"
+msgstr ""
+
+msgctxt "a57ff7956e6bbcf7ec73e323a556ad5e"
+msgid "ID=243390501"
+msgstr ""
+
+msgctxt "6dee125a34f460a9b8f01ac8673ea6d8"
+msgid "ID=243391201"
+msgstr ""
+
+msgctxt "c1fe285aa4810564c622811f70c71fa4"
+msgid "ID=253390701"
+msgstr ""
+
+msgctxt "2bab0648c1afaca8da9e35012ad6ac44"
+msgid "ID=253390801"
+msgstr ""
+
+msgctxt "fb64981f3ad15c6c642191a5fce6317d"
+msgid "ID=253391601"
+msgstr ""
+
+msgctxt "b482db248608fa1ced510c1bd88f86b5"
+msgid "ID=253390501"
+msgstr ""
+
+msgctxt "210495a9b0a8e4db98f7748c89346733"
+msgid "ID=253391201"
+msgstr ""
+
+msgctxt "803006dce6dfd09d318f18c9d031ce0b"
+msgid "ID=243090902"
+msgstr ""
+
+msgctxt "a086ca966d85a2a6943ea43a72b1ccfa"
+msgid "[EV][핸섬 스쿨 룩]의상"
+msgstr ""
+
+msgctxt "c9b777bc9810461cf45738b4f9aecf2a"
+msgid ""
+"<font color='#FFBA85'>[이벤트 전용 코스튬]<font color='#9D927B'>\\n\\n만화 속 사립학교에서나 "
+"입을 것 같은 교복의 의상. 왠지 가격도 일반 교복보다 훨씬 비쌀 것 같다. 상-하의를 동시에 착용할 수 있다."
+msgstr ""
+
+msgctxt "ba40c476ffae6c6ad1a13fa3f430b97e"
+msgid "ID=243092802"
+msgstr ""
+
+msgctxt "c2c74eb305e9747fb970ec41544be759"
+msgid "ID=243090302"
+msgstr ""
+
+msgctxt "0f1c3ae8e55f8c4c4749ebe5936a601c"
+msgid "[EV][핸섬 스쿨 룩]안경"
+msgstr ""
+
+msgctxt "dc9e7f82d92f878d76915d494b5df7f3"
+msgid ""
+"<font color='#FFBA85'>[이벤트 전용 코스튬]<font color='#9D927B'>\\n\\n만화 속 사립학교에서나 "
+"입을 것 같은 교복의 안경. 왠지 가격도 일반 교복보다 훨씬 비쌀 것 같다."
+msgstr ""
+
+msgctxt "26ea5aa234abc63bcdc5b8c75df5c50c"
+msgid "ID=243090502"
+msgstr ""
+
+msgctxt "14f7cc4124a730e86103cc424fa411df"
+msgid "[EV][핸섬 스쿨 룩]시계"
+msgstr ""
+
+msgctxt "e0c96814b5ead65767ecb5e827dc051a"
+msgid ""
+"<font color='#FFBA85'>[이벤트 전용 코스튬]<font color='#9D927B'>\\n\\n만화 속 사립학교에서나 "
+"입을 것 같은 교복의 시계. 왠지 가격도 일반 교복보다 훨씬 비쌀 것 같다."
+msgstr ""
+
+msgctxt "4afd24e08c01b95375a6c5986e757804"
+msgid "ID=243091202"
+msgstr ""
+
+msgctxt "f9517c40123170b612be4bbe98c6fb69"
+msgid "[EV][핸섬 스쿨 룩]신발"
+msgstr ""
+
+msgctxt "777f7fad5af98988d1962bde6447c208"
+msgid ""
+"<font color='#FFBA85'>[이벤트 전용 코스튬]<font color='#9D927B'>\\n\\n만화 속 사립학교에서나 "
+"입을 것 같은 교복의 신발. 왠지 가격도 일반 교복보다 훨씬 비쌀 것 같다."
+msgstr ""
+
+msgctxt "ecf205e352c6d053ec8919cc2f00b956"
+msgid "ID=836000108"
+msgstr ""
+
+msgctxt "f9e30c4ed4881ed03920f327c1d66e28"
+msgid "아름다운 교복 패키지 I"
+msgstr ""
+
+msgctxt "fb5646c0d4920ad9eb872d5a5feacefa"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n아름답고 멋진 교복 스타일의 "
+"의상이 들어있는 상자. 여성 캐릭터의 경우 뷰티 스쿨 룩 의상을, 남성 캐릭터의 경우 핸섬 스쿨 룩 의상을 입수할 수 있다. 해당 "
+"패키지에만 진의 핸섬 스쿨 룩 코스튬이 포함되어 있다."
+msgstr ""
+
+msgctxt "e5212def9ebfd39371ea6ce045f82f2f"
+msgid "ID=836000109"
+msgstr ""
+
+msgctxt "d78b7993e49db78094260fc10ab650ce"
+msgid "아름다운 교복 패키지 II"
+msgstr ""
+
+msgctxt "4b54082cc407718b0d2a833cf001c691"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n아름답고 멋진 교복 스타일의 "
+"액세서리가 들어있는 상자. 여성 캐릭터의 경우 뷰티 스쿨 룩 모자를, 남성 캐릭터의 경우 핸섬 스쿨 룩 시계를 입수할 수 있다. 해당 "
+"패키지에만 진의 핸섬 스쿨 룩 코스튬이 포함되어 있다."
+msgstr ""
+
+msgctxt "9c826dc9eca1add1816f819fb21411ac"
+msgid "ID=836000110"
+msgstr ""
+
+msgctxt "ac0aca176fc557eeb3bfc0591c1904a6"
+msgid "아름다운 교복 패키지 III"
+msgstr ""
+
+msgctxt "ab17e8167404642e481a09471dd1dc0d"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n아름답고 멋진 교복 스타일의 "
+"액세서리가 들어있는 상자. 여성 캐릭터의 경우 뷰티 스쿨 룩 스타킹과 신발을, 남성 캐릭터의 경우 핸섬 스쿨 룩 안경과 신발을 입수할 수 "
+"있다. 해당 패키지에만 진의 핸섬 스쿨 룩 코스튬이 포함되어 있다."
+msgstr ""
+
+msgctxt "b4d42d12e6f6820ec0d780f0b9944a1f"
+msgid "ID=837200005"
+msgstr ""
+
+msgctxt "c378087627ceaf1aa6ee98c28165b6a2"
+msgid "특수한정판 아카식레코드 전송기"
+msgstr ""
+
+msgctxt "08e82510347134d16f317fbdd5a7487f"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드 획득 아이템] 아카식레코드 무작위 획득\\n# 레어 2등급 및 히든 등급 이상의 "
+"아카식레코드를 확정 획득할 수 있으며, 특별한 일러스트를 가진 노아, 에녹, 시온의 아카식레코드를 획득할 수 있는 아이템<font "
+"color='#9D927B'>\\n\\n아카식레코드를 획득할 수 있는 전송 장치. 소울리스트들이 오랜 시간에 걸쳐 기록한 아카식레코드를 "
+"전송 받을 수 있는 장치로 이 장치를 이용하면 지금까지 볼 수 없었던 매우 특별한 아카식레코드를 얻을 수 있다고 한다.\\n액티브 타입의 "
+"아카식레코드는 [제 6구역]에서 사용할 수 없으니 주의."
+msgstr ""
+
+msgctxt "20d4aef41091c98cf478a474f92fd8c5"
+msgid "ID=837300016"
+msgstr ""
+
+msgctxt "56515ad58f5f4549dd4b726a0a7d1bb4"
+msgid "최후의 일격 큐브 전송기"
+msgstr ""
+
+msgctxt "64b2414c6081d7fd827383ebc06d9bf7"
+msgid ""
+"<font color='#FFBA85'>[최후의 일격 큐브 획득 아이템] 최후의 일격 큐브를 무작위로 획득<font color="
+"'#9D927B'>\\n\\n당신의 운을 시험하기 위해 만들어진 특별한 큐브 전송기. 전송기를 사용하면 당신의 현재 운세에 대응되는 "
+"큐브가 전송되어온다.\\n큐브에는 운에 걸맞는 다양하고 유용한 아이템이 들어있다."
+msgstr ""
+
+msgctxt "a2de44f5796b9e0c25e1aea8caf8b7d1"
+msgid "ID=820000020"
+msgstr ""
+
+msgctxt "0277016f11f76040a8278b51411b18ef"
+msgid "최후의 일격 큐브 [평]"
+msgstr ""
+
+msgctxt "dc01cb8b269dd03e8bca12e4ef74672e"
+msgid ""
+"<font color='#FFBA85'>[최후의 일격 큐브 아이템]<font color='#9D927B'>\\n\\n평범한 운을 가진 "
+"사람들이 뽑는 큐브. 큐브를 개봉하면 평의 운세에 걸맞는 아이템을 얻을 수 있다."
+msgstr ""
+
+msgctxt "dfa746e608184d0dce8dac0a8a1ea657"
+msgid "ID=820000021"
+msgstr ""
+
+msgctxt "5c63b626069f7b7e30d7d774db001cd5"
+msgid "최후의 일격 큐브 [소길]"
+msgstr ""
+
+msgctxt "96ad9ca66a8728ab15162362f0f01cde"
+msgid ""
+"<font color='#FFBA85'>[최후의 일격 큐브 아이템]<font color='#9D927B'>\\n\\n소길의 운을 가진 "
+"사람들이 뽑는 큐브. 큐브를 개봉하면 소길의 운세에 걸맞는 아이템을 얻을 수 있다."
+msgstr ""
+
+msgctxt "cf8fec23ba809a5dc887fcc8ab74ce14"
+msgid "ID=820000022"
+msgstr ""
+
+msgctxt "cace4b6e2d9d191dc69550c91a3ab416"
+msgid "최후의 일격 큐브 [중길]"
+msgstr ""
+
+msgctxt "75793dd5f88cd34a32d1c7626bff2979"
+msgid ""
+"<font color='#FFBA85'>[최후의 일격 큐브 아이템]<font color='#9D927B'>\\n\\n중길의 운을 가진 "
+"사람들이 뽑는 큐브. 큐브를 개봉하면 중길의 운세에 걸맞는 아이템을 얻을 수 있다."
+msgstr ""
+
+msgctxt "924a3ef65724f505002374529f718d5b"
+msgid "ID=820000023"
+msgstr ""
+
+msgctxt "95088729a86c1ae95a223f079b8ebc2b"
+msgid "최후의 일격 큐브 [길]"
+msgstr ""
+
+msgctxt "67f7adad77cb5dc10ec5d027d5aa4ae9"
+msgid ""
+"<font color='#FFBA85'>[최후의 일격 큐브 아이템]<font color='#9D927B'>\\n\\n뛰어난 운을 가진 "
+"사람들이 뽑을 수 있는 큐브. 큐브를 개봉하면 길의 운세에 걸맞는 아이템을 얻을 수 있다."
+msgstr ""
+
+msgctxt "58b86838a4a11eb99eadc0464cd2538f"
+msgid "ID=820000024"
+msgstr ""
+
+msgctxt "364dbe6fd23731112ee52ef71ac7ad41"
+msgid "최후의 일격 패키지"
+msgstr ""
+
+msgctxt "1bdcb6abe3a53f96dcef89ba1bf97442"
+msgid ""
+"<font color='#FFBA85'>[한정 패키지]<font color='#9D927B'>\\n\\n아카식레코드와 브로치를 얻을 수 "
+"있는 전송기와 운을 시험해볼 수 있는 최후의 일격 큐브가 들어 있는 \\n고가의 패키지.\\n-구성품-\\n공격형 SD 브로치 전송기 x "
+"1\\n방어형 SD 브로치 전송기 x 1\\n기능형 SD 브로치 전송기 x 1\\n아카식레코드 전송기 x 1\\n최후의 일격 큐브 전송기 "
+"x 1\\n"
+msgstr ""
+
+msgctxt "f22cfcd67dfdb799127697d58fbbc85f"
+msgid "ID=213400901"
+msgstr ""
+
+msgctxt "986e45b2ede0a02707529fd85fc4f3c0"
+msgid "[트윙클 바니걸]의상"
+msgstr ""
+
+msgctxt "24969c57b167de354ffcbc810bc1ee0a"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n하루의 톡톡 튀는 매력이 담긴 바니걸 "
+"의상. 하이레그 형태로 디자인 되어 있어, 의상만 입었을 때에는 수영복을 입은 것만 같다. 엉덩이 부분의 토끼털이 인상적이다.\\n이 "
+"의상을 입으면 바니복장 특유의 특별한 제스쳐를 취할 수 있다."
+msgstr ""
+
+msgctxt "5d656f53aee16f0e7c1ff13f1c2929cf"
+msgid "ID=213400101"
+msgstr ""
+
+msgctxt "f41450581cd0d3ecb78e9a3ede381ac2"
+msgid "[트윙클 바니걸]귀"
+msgstr ""
+
+msgctxt "6f450d3afae8634f4e0fe569dfa23a0e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n하루의 톡톡 튀는 매력이 담긴 바니걸 "
+"의상의 귀. 살짝 접힌 귀가 한층 더 매력을 돋구어준다."
+msgstr ""
+
+msgctxt "2c7728d8f55d9a08a80380f8671a60e3"
+msgid "ID=213400501"
+msgstr ""
+
+msgctxt "3481dd325769410f74f840494436b5ad"
+msgid "[트윙클 바니걸]팔찌"
+msgstr ""
+
+msgctxt "b3fe6d5a96565162f835f29452d9699b"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n하루의 톡톡 튀는 매력이 담긴 바니걸 "
+"의상의 팔찌. 의상과 어울리는 색상으로 디자인 되어 있다."
+msgstr ""
+
+msgctxt "065b6c1f6e856da9841f75fdac69d8b8"
+msgid "ID=213401101"
+msgstr ""
+
+msgctxt "21cc392f8c5a61deeb836e66ce230ad2"
+msgid "[트윙클 바니걸]스타킹"
+msgstr ""
+
+msgctxt "89a28c4861049e7dc98a4aaa36db7d69"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n하루의 톡톡 튀는 매력이 담긴 바니걸 "
+"의상의 스타킹. 바니걸 의상과 같은 하이레그에 어울리는 스타킹이다."
+msgstr ""
+
+msgctxt "ec298069bb930afdc37a2b0f29cef1b1"
+msgid "ID=213401201"
+msgstr ""
+
+msgctxt "54d329fe40ad7fd0f6a0a9833f4ea990"
+msgid "[트윙클 바니걸]구두"
+msgstr ""
+
+msgctxt "d8086906282241fb105e9a5392b1dc04"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n하루의 톡톡 튀는 매력이 담긴 바니걸 "
+"의상의 구두. 구두코 앞의 토끼털이 인상적이다."
+msgstr ""
+
+msgctxt "76545185797c7a287ae20d57f18fa2c9"
+msgid "ID=223400901"
+msgstr ""
+
+msgctxt "d9d21a87bb14fa9698e10d4be991155a"
+msgid "[트윙클 바니보이]의상"
+msgstr ""
+
+msgctxt "d3b2c630f4ec37cc8b38b9d68d907795"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n어윈의 깔끔한 매력이 담긴 바니보이 의상."
+" 핏을 극대화 시킨만큼 숨쉴때 주의할 것!\\n이 의상을 입으면 바니복장 특유의 특별한 제스쳐를 취할 수 있다."
+msgstr ""
+
+msgctxt "e1f03a0176d4495dd1e6056a630d9aca"
+msgid "ID=223400101"
+msgstr ""
+
+msgctxt "0ce41ac3bcefdca0ea38ec0224c00728"
+msgid "[트윙클 바니보이]귀"
+msgstr ""
+
+msgctxt "21074f5f20ca599992233720e7a4b3e5"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n어윈의 깔끔한 매력이 담긴 바니보이 "
+"의상의 귀. 살짝 접힌 귀가 한층 더 매력을 돋구어준다."
+msgstr ""
+
+msgctxt "22403c6b35bf0013eaaec0e21c459735"
+msgid "ID=223400501"
+msgstr ""
+
+msgctxt "9c009b410fe76c8f4fa2b57e9b88b2a8"
+msgid "[트윙클 바니보이]장갑"
+msgstr ""
+
+msgctxt "04ce206fb801795103d4da2e76053816"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n어윈의 깔끔한 매력이 담긴 바니보이 "
+"의상의 장갑. 의상과 어울리는 색상으로 디자인 되어 있다."
+msgstr ""
+
+msgctxt "b1e00ab593444d725f711beda62923e9"
+msgid "ID=223401201"
+msgstr ""
+
+msgctxt "f040e7b3666bb6330280d02acc253c11"
+msgid "[트윙클 바니보이]부츠"
+msgstr ""
+
+msgctxt "9c911b8950838b2cb9ffa6ccbff0d583"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n어윈의 깔끔한 매력이 담긴 바니보이 "
+"의상의 부츠. 구두코 부분의 도금이 인상적이다."
+msgstr ""
+
+msgctxt "0329bb8a291aad4d612fee9017df0fb6"
+msgid "ID=233400901"
+msgstr ""
+
+msgctxt "7a31745f4ad194d2e1063a5cbbb75a1f"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n릴리의 시크한 매력이 돋보이는 바니걸 "
+"의상. 하이레그 형태로 디자인 되어 있어, 의상만 입었을 때에는 수영복을 입은 것만 같다. 엉덩이 부분의 토끼털이 인상적이다. \\n이 "
+"의상을 입으면 바니복장 특유의 특별한 제스쳐를 취할 수 있다."
+msgstr ""
+
+msgctxt "ce8add85737fd56164515bf1a3ba7149"
+msgid "ID=233400101"
+msgstr ""
+
+msgctxt "0a11b01cfa47fdc409bd8402263c042c"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n릴리의 시크한 매력이 돋보이는 바니걸 "
+"의상의 귀. 살짝 접힌 귀가 한층 더 매력을 돋구어준다."
+msgstr ""
+
+msgctxt "c12010122ca5f29730b8ff2daae4dbf7"
+msgid "ID=233400501"
+msgstr ""
+
+msgctxt "830f5d32ac58ae76d5bc4a9402b54afa"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n릴리의 시크한 매력이 돋보이는 바니걸 "
+"의상의 팔찌. 의상과 어울리는 색상으로 디자인 되어 있다."
+msgstr ""
+
+msgctxt "b34f7a18a284772a77729dcb03249550"
+msgid "ID=233401101"
+msgstr ""
+
+msgctxt "930f7003cb982470ff7ce2906e4db434"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n릴리의 시크한 매력이 돋보이는 바니걸 "
+"의상의 스타킹. 바니걸 의상과 같은 하이레그에 어울리는 스타킹이다."
+msgstr ""
+
+msgctxt "e561e14ddc211cb98cbf7b9d62cf51a1"
+msgid "ID=233401201"
+msgstr ""
+
+msgctxt "aaa49fb6cea6807aa6f7bb4e41ca7afe"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n릴리의 시크한 매력이 돋보이는 바니걸 "
+"의상의 구두. 구두코 앞의 토끼털이 인상적이다."
+msgstr ""
+
+msgctxt "2e270ff3bdfc62defc38ced17860a82b"
+msgid "ID=243400901"
+msgstr ""
+
+msgctxt "708a50ede60487fac750510fdd266ee2"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n진의 젠틀한 매력이 담긴 바니보이 의상. "
+"핏을 극대화 시킨만큼 숨쉴때 주의할 것!\\n이 의상을 입으면 바니복장 특유의 특별한 제스쳐를 취할 수 있다."
+msgstr ""
+
+msgctxt "ee552198aacdcebb5d8c96891eb88fd5"
+msgid "ID=243400101"
+msgstr ""
+
+msgctxt "97ad7e183db8262b0d7cd9db409d11fa"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n진의 젠틀한 매력이 담긴 바니보이 의상의 "
+"귀. 살짝 접힌 귀가 한층 더 매력을 돋구어준다."
+msgstr ""
+
+msgctxt "b07a993723dbd1294f8af4dde1fa8aaa"
+msgid "ID=243400501"
+msgstr ""
+
+msgctxt "a1178152e9993f9becc6e1297aebbb86"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n진의 젠틀한 매력이 담긴 바니보이 의상의 "
+"장갑. 의상과 어울리는 색상으로 디자인 되어 있다."
+msgstr ""
+
+msgctxt "36fb4124848e369024ab4d5ff7b868ff"
+msgid "ID=243401201"
+msgstr ""
+
+msgctxt "f58a29e475ebbbc7520f8de783569c70"
+msgid "[트윙클 바니보이]신발"
+msgstr ""
+
+msgctxt "51ddd2a4e862941f8a5833399e493b17"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n진의 젠틀한 매력이 담긴 바니보이 의상의 "
+"부츠. 구두코 부분의 도금이 인상적이다."
+msgstr ""
+
+msgctxt "e16a7572de6fee2c5447dd169492d3da"
+msgid "ID=253400901"
+msgstr ""
+
+msgctxt "a66ab9e14a8f47221ebdfcd6e3215628"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n스텔라의 귀여운 매력이 돋보이는 바니걸 "
+"의상. 하이레그 형태로 디자인 되어 있어, 의상만 입었을 때에는 수영복을 입은 것만 같다. 엉덩이 부분의 토끼털이 인상적이다. \\n이 "
+"의상을 입으면 바니복장 특유의 특별한 제스쳐를 취할 수 있다."
+msgstr ""
+
+msgctxt "6ea2d52a08f799851a3cfbd7155d3a53"
+msgid "ID=253400101"
+msgstr ""
+
+msgctxt "5408b5edb53cc475345abedf2b33aab3"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n스텔라의 귀여운 매력이 돋보이는 바니걸 "
+"의상의 귀. 살짝 접힌 귀가 한층 더 매력을 돋구어준다."
+msgstr ""
+
+msgctxt "37481dd54db9a1db8ce5219b227c4364"
+msgid "ID=253400501"
+msgstr ""
+
+msgctxt "37feadf6e5fbcebb9d17973503439bdd"
+msgid "[트윙클 바니걸]장갑"
+msgstr ""
+
+msgctxt "bcfebab0ee5e7aa4feb944e16708ca8d"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n스텔라의 귀여운 매력이 돋보이는 바니걸 "
+"의상의 팔찌. 의상과 어울리는 색상으로 디자인 되어 있다."
+msgstr ""
+
+msgctxt "5ed4f2872b9711b79bfce1af6e192cad"
+msgid "ID=253401101"
+msgstr ""
+
+msgctxt "8edbf8c14a31b7add02f815250c315fe"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n스텔라의 귀여운 매력이 돋보이는 바니걸 "
+"의상의 스타킹. 바니걸 의상과 같은 하이레그에 어울리는 스타킹이다."
+msgstr ""
+
+msgctxt "e1fb944a5a3307789a8d3d8a8114300f"
+msgid "ID=253401201"
+msgstr ""
+
+msgctxt "f88463a640dbba08cf4bd52a2df4784a"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n스텔라의 귀여운 매력이 돋보이는 바니걸 "
+"의상의 구두. 구두코 앞의 토끼털이 인상적이다."
+msgstr ""
+
+msgctxt "bc82c21387399066162f8392bd5462cd"
+msgid "ID=836000102"
+msgstr ""
+
+msgctxt "944e1969e3401e8bf5d74eaf03010f15"
+msgid "에너지 컨버터 패키지"
+msgstr ""
+
+msgctxt "bed0e8e997e48e2b57bc0834ce2989e9"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n에너지 컨버터가 들어있는 패키지"
+msgstr ""
+
+msgctxt "0829bb56c22fd31d2036344a32626ecd"
+msgid "ID=820000025"
+msgstr ""
+
+msgctxt "671a2a60e3c2405757bdea97276258b7"
+msgid "잿빛 패밀리어 큐브"
+msgstr ""
+
+msgctxt "ad1914fba31dfc8837c9c8a60009825a"
+msgid ""
+"<font color='#FFBA85'>[패밀리어 상자]<font color='#9D927B'>\\n\\n부커스 핸드만이 판매하는 잿빛의 "
+"큐브.\\n낮은 확률로 진귀한 전투보조 패밀리어을 획득 할 수 있다.\\n"
+msgstr ""
+
+msgctxt "d09cd3ad899fcf4a9687107ac04c8b30"
+msgid "ID=836000113"
+msgstr ""
+
+msgctxt "df6ca97c534ac78433306828dadc46db"
+msgid " 100 BP 박스"
+msgstr ""
+
+msgctxt "f06a4fd435f22025f8b3638f65a01356"
+msgid ""
+"<font color='#FFBA85'>[BP 상자]<font color='#9D927B'>\\n\\n100BP를 획득 할 수 있는 박스"
+msgstr ""
+
+msgctxt "5cff25e60adcc8f524fd4dc0ba0646e5"
+msgid "ID=836000114"
+msgstr ""
+
+msgctxt "07068c211fa053b0d162a3630ed5ab7a"
+msgid " 300 BP 박스"
+msgstr ""
+
+msgctxt "24e4343e56b101d4f07b98baeb1f9fd1"
+msgid ""
+"<font color='#FFBA85'>[BP 상자]<font color='#9D927B'>\\n\\n300BP를 획득 할 수 있는 박스"
+msgstr ""
+
+msgctxt "f52095c9da97e51d9795ae8b759b0b03"
+msgid "ID=836000115"
+msgstr ""
+
+msgctxt "ad865eb16b6fe8f9198efa552333a580"
+msgid " 500 BP 박스"
+msgstr ""
+
+msgctxt "b437a7cfcbf583afe738b4abe619d80e"
+msgid ""
+"<font color='#FFBA85'>[BP 상자]<font color='#9D927B'>\\n\\n500BP를 획득 할 수 있는 박스"
+msgstr ""
+
+msgctxt "d4b3b0d48016f321f5b133374f1de78e"
+msgid "ID=836000116"
+msgstr ""
+
+msgctxt "da30bef3a458356426caeb28f7309adf"
+msgid " 1000 BP 박스"
+msgstr ""
+
+msgctxt "8be7cdd437b19b3ab43a1cd84924481c"
+msgid ""
+"<font color='#FFBA85'>[BP 상자]<font color='#9D927B'>\\n\\n1000BP를 획득 할 수 있는 "
+"박스"
+msgstr ""
+
+msgctxt "2932cfd1829782f985d6f50cd8d2667f"
+msgid "ID=836000117"
+msgstr ""
+
+msgctxt "8b38b31af687a3a42efc5843e173a1ce"
+msgid " 3000 BP 박스"
+msgstr ""
+
+msgctxt "035510dad03e8e0142916ce57ac9d742"
+msgid ""
+"<font color='#FFBA85'>[BP 상자]<font color='#9D927B'>\\n\\n3000BP를 획득 할 수 있는 "
+"박스"
+msgstr ""
+
+msgctxt "928c8f9a1be06a29779c3b29721aea12"
+msgid "ID=836000118"
+msgstr ""
+
+msgctxt "796eddc20acb34d09978c2be846f4e1f"
+msgid " 5000 BP 박스"
+msgstr ""
+
+msgctxt "fa1b30055173114c37ed22432cfbd790"
+msgid ""
+"<font color='#FFBA85'>[BP 상자]<font color='#9D927B'>\\n\\n5000BP를 획득 할 수 있는 "
+"박스"
+msgstr ""
+
+msgctxt "bbf03350e742b90f62fb25dd3edc350f"
+msgid "ID=836000119"
+msgstr ""
+
+msgctxt "beca05d2c2d2cc89a8121751da948620"
+msgid " 10000 BP 박스"
+msgstr ""
+
+msgctxt "915b59b34c518c400af4c8991a5ccb8c"
+msgid ""
+"<font color='#FFBA85'>[BP 상자]<font color='#9D927B'>\\n\\n10000BP를 획득 할 수 있는 "
+"박스"
+msgstr ""
+
+msgctxt "8899677fe35ef009bd2d66663bb70084"
+msgid "ID=410123351"
+msgstr ""
+
+msgctxt "b52742bebe12cb89090f3655f529ae70"
+msgid "소울 오브 세드니스 펜던트"
+msgstr ""
+
+msgctxt "fedf565c8c23e56f527a50e8e30038f1"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n목에 착용할 수 있다."
+"\\n\\n꼭., 살아서 돌아와라\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "308c6dfbd940b6b569fcd6cfc6fbbd49"
+msgid "ID=430123351"
+msgstr ""
+
+msgctxt "b8d6f9018d25a7a031f92d1b50b1584a"
+msgid "소울 오브 딜라이트 이어링"
+msgstr ""
+
+msgctxt "fee1d3c5f4485f89b53715edb958ccb3"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n귀에 착용할 수 있다."
+"\\n\\n꼭., 살아서 돌아와라\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "c703fa60a68031cdf399de7ce3e4fdcb"
+msgid "ID=440123351"
+msgstr ""
+
+msgctxt "4c8243f3dc17cf789a614fb3a6ce4e26"
+msgid "소울 오브 퓨리 링"
+msgstr ""
+
+msgctxt "7948699de6189b48cb39d63be14421ff"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n꼭., 살아서 돌아와라\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "3c9fe5a65978f1a2dd74b07b15caa02c"
+msgid "ID=440123352"
+msgstr ""
+
+msgctxt "86e3ccb62f854140804985e1d9217bfe"
+msgid "소울 오브 패션 링"
+msgstr ""
+
+msgctxt "c08a41b30894a78a66321cfd55dddad4"
+msgid "ID=440263352"
+msgstr ""
+
+msgctxt "8e375655e8ca22e895f9ae4df3477342"
+msgid "그리프 티어 레드 링"
+msgstr ""
+
+msgctxt "0851ce6a840ad85ce631bcaf9279168a"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다.."
+"\\n\\n캐서린… 미안하다… 미안하다…!\\n- 아론 -"
+msgstr ""
+
+msgctxt "30fe205cb1e763df69f1b739c68dd602"
+msgid "ID=440403352"
+msgstr ""
+
+msgctxt "2ccb33ad73fa1f75d64ef9ff86685333"
+msgid "비트레이어스 웨이브 링"
+msgstr ""
+
+msgctxt "82729f08e644dc1a7805e2d38f066871"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n라반, 일어나라. \\n싸울 시간이다.\\n- 헨리 -"
+msgstr ""
+
+msgctxt "f7884698f978463f966104299b126082"
+msgid "ID=440553352"
+msgstr ""
+
+msgctxt "da998ce6605ff5bcd27f11392d9b9ee7"
+msgid "글레어즈 샤드 에너지 링"
+msgstr ""
+
+msgctxt "2eb39ec96e1f5fe7904478530bdc49a6"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다.."
+"\\n\\n시온… 난 믿고 있었다.\\n그 이름 그대로 우리를 낙원으로 인도할 천사라고.\\n- 어느 연구원의 일지 중… -"
+msgstr ""
+
+msgctxt "b51b775934ac74be1a5050d59529786c"
+msgid "ID=440213351"
+msgstr ""
+
+msgctxt "0f42e88346a9c4accbc4669afa5944f4"
+msgid "노블리스 렐릭 링"
+msgstr ""
+
+msgctxt "609bcae80a77f34a33a71567a79d5c85"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n보고 내용 : 거미형태의 특이 개체 발견.\\n명칭, 아라크니스로 정정. 바큠베인 연구에 영향 가능성 다수, 포획 가치 있음."
+"\\n- 네드 컴퍼니 내부 보고 -"
+msgstr ""
+
+msgctxt "1d7267d359199c6b1f1ac34d0caae7a9"
+msgid "ID=440233351"
+msgstr ""
+
+msgctxt "4557d8e5034e7b9ed50bbe6ed9dfa61b"
+msgid "시크릿 디바이설 링"
+msgstr ""
+
+msgctxt "49afd05bfc1d389f8de47fc7709311f8"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\\n손가락에 착용할 수 있다."
+"\\n\\n연구소 내부의 비홀더라는 녀석이 있다.\\n우리가 만들어낸 인공 각성체지. 연구소 내부가 그렇게 된 것도 다 그 녀석 때문이다."
+"\\n- 헨리 -"
+msgstr ""
+
+msgctxt "7e1edfce2013ee9e4bf6d4b06da10a4d"
+msgid "ID=836000145"
+msgstr ""
+
+msgctxt "7ca38bf8df4f959777d173e6d79b5732"
+msgid "바리케이드 헤드셋 상자"
+msgstr ""
+
+msgctxt "d7e6e49813ac2530d6d39af0e6d0f352"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n바리케이드 스타일의 의상이 "
+"들어있는 상자. "
+msgstr ""
+
+msgctxt "71f8469942baa5c83745f753a1e84e7e"
+msgid "ID=836000146"
+msgstr ""
+
+msgctxt "fbb7f965c0b6b3adf24b1a81bd5b3b88"
+msgid "바리케이드 장갑 상자"
+msgstr ""
+
+msgctxt "4c53237de26ad74103ddfa39689d7a99"
+msgid "ID=836000147"
+msgstr ""
+
+msgctxt "adc7a55bd7aca938bd97a63f6066c527"
+msgid "바리케이드 자켓 상자"
+msgstr ""
+
+msgctxt "fa9f629edfe6f2d61b8847c735c6cd4d"
+msgid "ID=836000148"
+msgstr ""
+
+msgctxt "a36aedff058c06efbf4c6bad10b9a54e"
+msgid "바리케이드 바지 상자"
+msgstr ""
+
+msgctxt "ab521de0dd99241f56a156a4db3cd978"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n바리케이드 스타일의 의상이 "
+"들어있는 상자. 여성 캐릭터의 경우 바리케이드 반바지 의상을, 남성 캐릭터의 경우 바리케이드 바지 의상을 입수할 수 있다."
+msgstr ""
+
+msgctxt "e44bbd17e93bb3e7d8e3bb11f75b2218"
+msgid "ID=836000149"
+msgstr ""
+
+msgctxt "32f072a8b7e4845645e0e2fbec1332fc"
+msgid "바리케이드 신발 상자"
+msgstr ""
+
+msgctxt "e0a48d3ab12ec1cbf21db6528f984974"
+msgid "ID=813400901"
+msgstr ""
+
+msgctxt "2a9a96fe71794bff1021baecec8759ba"
+msgid "[밀봉][트윙클 바니걸]의상"
+msgstr ""
+
+msgctxt "124a3ea0c7514d4e0b5501e80261df0e"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 의상이 "
+"들어있는 패키지이다."
+msgstr ""
+
+msgctxt "7024046d4bf55d9b9cb6e5a8744612b8"
+msgid "ID=813400101"
+msgstr ""
+
+msgctxt "63fe682bd651e79d0039b35206cbbf3e"
+msgid "[밀봉][트윙클 바니걸]귀"
+msgstr ""
+
+msgctxt "9257d88dfe2811414dd7f9827b2f7a29"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 귀가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "a29969a3fd229fc0e1b0befc9e810403"
+msgid "ID=813400501"
+msgstr ""
+
+msgctxt "22e4f41eb76daf14edbfa08d3c4c8542"
+msgid "[밀봉][트윙클 바니걸]팔찌"
+msgstr ""
+
+msgctxt "792682992973b31a0778bc837e28069a"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 팔찌가 "
+"들어있는 패키지이다."
+msgstr ""
+
+msgctxt "496ac199e74a022bb393e6eeeaad403e"
+msgid "ID=813401101"
+msgstr ""
+
+msgctxt "5f992d705b8fb6c95ef50b11e490663c"
+msgid "[밀봉][트윙클 바니걸]스타킹"
+msgstr ""
+
+msgctxt "b12fc9fa8ce9ba198c1f0c61326fface"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 스타킹이 "
+"들어있는 패키지이다."
+msgstr ""
+
+msgctxt "de58461362a72ae3feb7e02cd09e16a4"
+msgid "ID=813401201"
+msgstr ""
+
+msgctxt "5010bd7505fb743ce1a80bfc8f982480"
+msgid "[밀봉][트윙클 바니걸]구두"
+msgstr ""
+
+msgctxt "645728827ad84dc924deaf6cd20b41e7"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 구두가 "
+"들어있는 패키지이다."
+msgstr ""
+
+msgctxt "e761576a1f47bfd164d410bdd524fb30"
+msgid "ID=823400901"
+msgstr ""
+
+msgctxt "0f4e20a51e0a67e541083e8f2103683a"
+msgid "[밀봉][트윙클 바니보이]의상"
+msgstr ""
+
+msgctxt "a1fef36085a85c2c8d8a8820b44d3afc"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니보이] 의상이 "
+"들어있는 패키지이다."
+msgstr ""
+
+msgctxt "2a54eff8e2af5b80447fbeede5decff7"
+msgid "ID=823400101"
+msgstr ""
+
+msgctxt "cae350856b163d52ebea7998e0c8f5d9"
+msgid "[밀봉][트윙클 바니보이]귀"
+msgstr ""
+
+msgctxt "44288c0cbeb22f547e14da67b13c9dfd"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니보이] 귀가 "
+"들어있는 패키지이다."
+msgstr ""
+
+msgctxt "31c5377520a96195db8db8dba2089fe5"
+msgid "ID=823400501"
+msgstr ""
+
+msgctxt "fac7121f94363bc4dfcd2587107385f0"
+msgid "[밀봉][트윙클 바니보이]장갑"
+msgstr ""
+
+msgctxt "846393aedeb1de02d212b00d971e5729"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니보이] 장갑이 "
+"들어있는 패키지이다."
+msgstr ""
+
+msgctxt "84c8e2f28a8c1e54773f1996a3f4374e"
+msgid "ID=823401201"
+msgstr ""
+
+msgctxt "fbbac9584cb45945dc8bad6011dc5fc4"
+msgid "[밀봉][트윙클 바니보이]부츠"
+msgstr ""
+
+msgctxt "e217fd32c4bfb8a6d035cda9d707ab6f"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니보이] 부츠가 "
+"들어있는 패키지이다."
+msgstr ""
+
+msgctxt "4149eb24b876b5df735d321b719431f4"
+msgid "ID=833400901"
+msgstr ""
+
+msgctxt "62be7acb0c3b7315858cff7722618ee1"
+msgid "ID=833400101"
+msgstr ""
+
+msgctxt "7b7bfd98800f917538357adf3ea1dbad"
+msgid "ID=833400501"
+msgstr ""
+
+msgctxt "548b0a47fea98d628a0efaeb20ec2e69"
+msgid "ID=833401101"
+msgstr ""
+
+msgctxt "8b2c60ff95f7a9c4f43b6d9127f5a15e"
+msgid "ID=833401201"
+msgstr ""
+
+msgctxt "e6463a09ca77556b0c587742ff7039e3"
+msgid "ID=843400901"
+msgstr ""
+
+msgctxt "2db158786b8fa7ecaa0121b15a9c7c68"
+msgid "ID=843400101"
+msgstr ""
+
+msgctxt "7cdd04fe0de9fc4ba46a00cbb2038236"
+msgid "ID=843400501"
+msgstr ""
+
+msgctxt "9e0bf1fecb2e63dbf43236f547f01679"
+msgid "ID=843401201"
+msgstr ""
+
+msgctxt "14354f6e0a408c310e1b4bc60c2e1387"
+msgid "ID=853400901"
+msgstr ""
+
+msgctxt "c29cb574abef186e0edb0db69611135d"
+msgid "ID=853400101"
+msgstr ""
+
+msgctxt "15d1c077dd7b491fb58111f9f32ee7b5"
+msgid "ID=853400501"
+msgstr ""
+
+msgctxt "99f09f5f48bd5355083611cd1a7c3224"
+msgid "[밀봉][트윙클 바니걸]장갑"
+msgstr ""
+
+msgctxt "f6a8ff6561b3ac40cbcd92b3accfdcca"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 장갑이 "
+"들어있는 패키지이다."
+msgstr ""
+
+msgctxt "02ebf8998d52560807e22fa855917c72"
+msgid "ID=853401101"
+msgstr ""
+
+msgctxt "b70341e65b9e176d85be21d592b9581d"
+msgid "ID=853401201"
+msgstr ""
+
+msgctxt "4e84bd46773a9a526141628aa782c19a"
+msgid "ID=810001102"
+msgstr ""
+
+msgctxt "b9992aa9b90112cecab0c464f45aa25b"
+msgid "[코스튬 박스]트윙클 바니걸"
+msgstr ""
+
+msgctxt "e79b847a6934ed219cc7894e180660a8"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 코스튬이 담긴 "
+"패키지로 해당 구성품은 하루만 착용할 수 있다.\\n\\n-구성품-\\n[트윙클 바니걸] 귀 x 1\\n[트윙클 바니걸] 의상 x "
+"1\\n[트윙클 바니걸] 팔찌 x 1\\n[트윙클 바니걸] 스타킹 x 1\\n[트윙클 바니걸] 구두 x 1"
+msgstr ""
+
+msgctxt "89530e122a5ecd6e5e1ac0bf84e5e9b7"
+msgid "ID=810001103"
+msgstr ""
+
+msgctxt "5eb2c4a8fd35f1171fe34a57e183a119"
+msgid "[코스튬 박스]트윙클 바니보이"
+msgstr ""
+
+msgctxt "161e3d6e723d254c62ed6bc7c6d5c7a5"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니보이] 코스튬이 "
+"담긴 패키지로 해당 구성품은 어윈만 착용할 수 있다.\\n\\n-구성품-\\n[트윙클 바니보이] 귀 x 1\\n[트윙클 바니보이] 의상 "
+"x 1\\n[트윙클 바니보이] 장갑 x 1\\n[트윙클 바니보이] 부츠 x 1"
+msgstr ""
+
+msgctxt "3b4ed4b90d2290ac41c6df0874af8aca"
+msgid "ID=810001104"
+msgstr ""
+
+msgctxt "5135779564fa06e566ce2128e475aa80"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 코스튬이 담긴 "
+"패키지로 해당 구성품은 릴리만 착용할 수 있다.\\n\\n-구성품-\\n[트윙클 바니걸] 귀 x 1\\n[트윙클 바니걸] 의상 x "
+"1\\n[트윙클 바니걸] 팔찌 x 1\\n[트윙클 바니걸] 스타킹 x 1\\n[트윙클 바니걸] 구두 x 1"
+msgstr ""
+
+msgctxt "e85d7876bbab181ce463ed46f1e09d88"
+msgid "ID=810001105"
+msgstr ""
+
+msgctxt "ef08b096d0cc0e8fcfd90f57561b6cea"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니보이] 코스튬이 "
+"담긴 패키지로 해당 구성품은 진만 착용할 수 있다.\\n\\n-구성품-\\n[트윙클 바니보이] 귀 x 1\\n[트윙클 바니보이] 의상 x "
+"1\\n[트윙클 바니보이] 장갑 x 1\\n[트윙클 바니보이] 부츠 x 1"
+msgstr ""
+
+msgctxt "82079510c957614e2ecf2f623de259de"
+msgid "ID=810001106"
+msgstr ""
+
+msgctxt "41bdb38992e7f53de5b9ff3c7ee02f66"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 코스튬이 담긴 "
+"패키지로 해당 구성품은 스텔라만 착용할 수 있다.\\n\\n-구성품-\\n[트윙클 바니걸] 귀 x 1\\n[트윙클 바니걸] 의상 x "
+"1\\n[트윙클 바니걸] 팔찌 x 1\\n[트윙클 바니걸] 스타킹 x 1\\n[트윙클 바니걸] 구두 x 1"
+msgstr ""
+
+msgctxt "c4e72ece1cd18132370e2f657d612536"
+msgid "ID=213410901"
+msgstr ""
+
+msgctxt "f66e710e8bc5eac6c42467be3fcb2d0f"
+msgid "[미리엄]의상"
+msgstr ""
+
+msgctxt "fbe0bf1b2d23c202662e05e9270aae67"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n로코 타운 마을에서 소울워커들에게 도움을 "
+"준 미리엄의 의상. 미리엄의 정갈한 매력이 돋보이는 짧은 원피스형으로 의상 곳곳에 배치된 녹색 포인트들이 의상을 더욱 돋보이게 한다. 이 "
+"의상을 입으면 마치 로코 타운 마을에 가만히 서있어야만 할 것 같다."
+msgstr ""
+
+msgctxt "1607e11818784d11ea0074e42f27e087"
+msgid "ID=213411101"
+msgstr ""
+
+msgctxt "7203723d7fb18ba5a85b839e4ebd5911"
+msgid "[미리엄]스타킹"
+msgstr ""
+
+msgctxt "6a709573fff909308b249a737d279aab"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n로코 타운 마을에서 소울워커들에게 도움을 "
+"준 미리엄이 착용했던 스타킹. 착용했을 시, 더욱 성숙한 매력을 어필할 수 있을 것만 같은 기분이 든다."
+msgstr ""
+
+msgctxt "403e40664d7d02b2ad2d3782cc2e92fc"
+msgid "ID=213411201"
+msgstr ""
+
+msgctxt "b7ab629e0223b1c6dbd75fb4b3fc142a"
+msgid "[미리엄]단화"
+msgstr ""
+
+msgctxt "b8d651095d69ca50dfb417fb89726d42"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n로코 타운 마을에서 소울워커들에게 도움을 "
+"준 미리엄이 착용했던 단화. 원피스의 의상 컬러와 매우 조화롭게 어우러져 있다. 오래 걸어도 발이 편안할 것만 같은 기분이 든다."
+msgstr ""
+
+msgctxt "886ca1aa8b4b3d590ebc5988608ee034"
+msgid "ID=223410901"
+msgstr ""
+
+msgctxt "e4da55348ee2aa2af37175e7e81a80e5"
+msgid "[에릭]의상"
+msgstr ""
+
+msgctxt "cd653c16e9683b91be67af82ac9ab5fd"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n로코 타운 마을에서 소울워커들에게 도움을 "
+"준 에릭의 의상. 정비공인 에릭의 활동적인 매력이 돋보이는 점프 수트형으로 상의와 하의가 하나로 연결되어 있다. 이 의상을 보면 마치 "
+"컨트롤 존 43에서 고립되어 떨고 있던 에릭이 떠오른다."
+msgstr ""
+
+msgctxt "3f552fd268a5b5039a0c319b63aa5cd6"
+msgid "ID=223412801"
+msgstr ""
+
+msgctxt "acc031f6b6c2e074733dabf094c846b5"
+msgid "ID=223411201"
+msgstr ""
+
+msgctxt "97e3c2043b4cc3f25bf3d1baaf2b47f1"
+msgid "[에릭]부츠"
+msgstr ""
+
+msgctxt "0b53268756637a3149ff8f94b1d98f76"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n로코 타운 마을에서 소울워커들에게 도움을 "
+"준 에릭이 착용했던 부츠. 목이 긴 하이탑 슈즈 스타일로 정비공이라는 직업을 예상할 수 있게 디자인되어 있다."
+msgstr ""
+
+msgctxt "93fa68822c05be76ed5fedd1eb583c14"
+msgid "ID=233410901"
+msgstr ""
+
+msgctxt "4f1acd50bd8edc0062310b7cbca82e79"
+msgid "[신시아]의상"
+msgstr ""
+
+msgctxt "e5c6d6b2505f7dbbe2ba5fee417c731c"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n캔더스 시티의 각종 뉴스를 취재하던 "
+"리포터 신시아의 의상. 강렬한 붉은 컬러의 매우 화려한 디자인으로 제작되어 있어 시민들의 주목을 단번에 끌 수 있다. 이 의상은 그레이스 "
+"시티의 유명한 디자이너인 \"쟝 드 끌로에\"가 10벌만 제작한 한정판 에디션이라고 한다."
+msgstr ""
+
+msgctxt "0afe7a2494528b0ea48fe574d597a836"
+msgid "ID=233411101"
+msgstr ""
+
+msgctxt "2f557f4a9864128511bbe29416279c79"
+msgid "[신시아]스타킹"
+msgstr ""
+
+msgctxt "ad6fbb603a405adefc2902468c340089"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n캔더스 시티의 각종 뉴스를 취재하던 "
+"리포터 신시아가 착용했던 스타킹. 짧은 미니 스커트에 잘 어울리는 매우 화려한 디자인의 스타킹이다."
+msgstr ""
+
+msgctxt "a0bebe36c29fc92b3e3c70e609485b32"
+msgid "ID=233411201"
+msgstr ""
+
+msgctxt "e8bfae2b513289b84cae9f10efd22039"
+msgid "[신시아]구두"
+msgstr ""
+
+msgctxt "b0c877f2560a8dc38ead7c9f1bf65610"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n캔더스 시티의 각종 뉴스를 취재하던 "
+"리포터 신시아가 착용했던 구두. 강렬한 레드 컬러 하이힐로서 무대 위에서 러시아 민속춤을 춰야 할 것만 같다."
+msgstr ""
+
+msgctxt "98a959c065976ec995449692be8c9ed6"
+msgid "ID=243410901"
+msgstr ""
+
+msgctxt "2ca8a4862cf9a5d271661e26235545f7"
+msgid "[케인바렐]의상"
+msgstr ""
+
+msgctxt "e42ca9184892892c9d5bc540bf536a96"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n별숲리그 공격부대 소속 \"난폭한 "
+"사냥꾼\" 케인바렐 중위의 의상. 케인 바렐의 단단한 근육을 감싸고 있는 소매 없는 아머가 매우 인상적이다. 신체 자체가 난폭한 근육질로 "
+"이루어진 케인바렐에게 굳이 이 의상은 필요가 없지 않았을까? "
+msgstr ""
+
+msgctxt "1794a029de4198ec73b3a6430e5d9ee1"
+msgid "ID=243412801"
+msgstr ""
+
+msgctxt "89742b451ac01fffa4423241778ae93c"
+msgid "ID=243410501"
+msgstr ""
+
+msgctxt "4607a52032c24f6962a624ec58e46311"
+msgid "[케인바렐]장갑"
+msgstr ""
+
+msgctxt "e95ef4d3b25e81380e50456d42a9e62f"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n별숲리그 공격부대 소속 \"난폭한 "
+"사냥꾼\" 케인바렐 중위가 착용했던 장갑. 전투를 더욱 원활하게 할 수 있도록 개조된 디자인이 매우 인상적이다."
+msgstr ""
+
+msgctxt "c5dd9c5a2090f7b1b29231b88dbcfe39"
+msgid "ID=243411201"
+msgstr ""
+
+msgctxt "2d8211bad42f492037d1b01222898275"
+msgid "[케인바렐]부츠"
+msgstr ""
+
+msgctxt "f3b064792bff7d2e2a43a0d1081e964c"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n별숲리그 공격부대 소속 \"난폭한 "
+"사냥꾼\" 케인바렐 중위가 착용했던 부츠. 빠른 시간 안에 탈 부착이 가능할 수 있도록 끈이 아닌 버클 형태로 이루어진 디자인이 매우 "
+"독특하다."
+msgstr ""
+
+msgctxt "a05314f3fa1e89f163527a83a3f2105f"
+msgid "ID=253410901"
+msgstr ""
+
+msgctxt "72babf48511c49d4b8723b8e23fda96f"
+msgid "[줄리]의상"
+msgstr ""
+
+msgctxt "a42557ccf7f247368b0fc6a3edcde6c3"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n그레이스 시티의 심술궂은 꼬맹이 줄리의 "
+"의상. 줄리의 톡톡 튀는 매력이 돋보이는 짧은 원피스형 의상. 귀엽고 사랑스러운 외모를 가진 스텔라가 착용해도 전혀 어색해 보이지 않는다."
+" 만약 이 옷을 입고 그레이스 시티를 돌아다닌다면 똑같은 옷을 입은 줄리를 피해 다녀야 할 것!"
+msgstr ""
+
+msgctxt "d22f90bb5b840f8c04647b091fd46753"
+msgid "ID=253411101"
+msgstr ""
+
+msgctxt "d29ae52c4b8e631ec337289ad2708829"
+msgid "[줄리]양말"
+msgstr ""
+
+msgctxt "9ea8762c933badf6e836d9d2cf2b5bc6"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n그레이스 시티의 심술궂은 꼬맹이 줄리가 "
+"착용했던 양말. 큐티한 디자인의 의상에 잘 어울리는 양말이다. 흰색 컬러의 양말은 항상 금방 더러워지므로 전장에는 되도록 신고 가지 "
+"말아야 할 듯."
+msgstr ""
+
+msgctxt "202b76eb1d156c6f5b38da50a19217fa"
+msgid "ID=253411201"
+msgstr ""
+
+msgctxt "082b23dc2d421a9ade99955a71c18559"
+msgid "[줄리]단화"
+msgstr ""
+
+msgctxt "88a83bec1c4bad0bc8d4fb8c6cb45472"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n그레이스 시티의 심술궂은 꼬맹이 줄리가 "
+"착용했던 단화. 귀여운 리본 장식이 돋보이는 플랫 슈즈 디자인으로 \"샤랄라\" 하며 이리저리 뛰어다니는 줄리가 떠오른다."
+msgstr ""
+
+msgctxt "12b1ae55144906784481b6b220b59af5"
+msgid "ID=213430901"
+msgstr ""
+
+msgctxt "38212b746296beb6930aa323e4895b5b"
+msgid "[스윗 하트]의상"
+msgstr ""
+
+msgctxt "a445d36af67f55886f24105eb0847156"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n과거 그레이스 시티의 가장 유명한 "
+"백화점에서 판매했던 여성용 캐쥬얼 춘추복 의상. 치마에 수놓아 있는 동물 얼굴 문양이 매우 귀여워 보인다."
+msgstr ""
+
+msgctxt "f8a55b3dbfeb4fd96895fb5ccfc83fff"
+msgid "ID=213431101"
+msgstr ""
+
+msgctxt "2f6550177a2b99017af1765cd81b51f1"
+msgid "[스윗 하트]삭스"
+msgstr ""
+
+msgctxt "986ca64558ee4e0ae3083c160f3103f5"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n과거 그레이스 시티의 가장 유명한 "
+"백화점에서 판매했던 여성용 캐쥬얼 춘추복 양말."
+msgstr ""
+
+msgctxt "0bcb9859bc3e107211c013929b0985c2"
+msgid "ID=213431201"
+msgstr ""
+
+msgctxt "c25c9f6fd05ede8e49e70c40815578bc"
+msgid "[스윗 하트]운동화"
+msgstr ""
+
+msgctxt "530f3701a5549b77bd634f877ce283bb"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n과거 그레이스 시티의 가장 유명한 "
+"백화점에서 판매했던 여성용 캐쥬얼 춘추복 운동화."
+msgstr ""
+
+msgctxt "70a865d180a4b8250b0ac205c5a95d65"
+msgid "ID=223430901"
+msgstr ""
+
+msgctxt "22d6427f70c881bdc8bbe9ac73c81794"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n과거 그레이스 시티의 가장 유명한 "
+"백화점에서 판매했던 남성용 캐쥬얼 춘추복 의상. 니트형 후드 자켓이 매우 스포티해 보인다."
+msgstr ""
+
+msgctxt "394b0f004dfc9c10cd072db417bf6789"
+msgid "ID=223431201"
+msgstr ""
+
+msgctxt "d00980e787ff32fb89c7d24d5150e897"
+msgid "[스윗 하트]하이탑 슈즈"
+msgstr ""
+
+msgctxt "e9e6b82cd92479e897b2f190e0ecf91a"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n과거 그레이스 시티의 가장 유명한 "
+"백화점에서 판매했던 남성용 캐쥬얼 춘추복 신발."
+msgstr ""
+
+msgctxt "2a69003ad53be07e49277c83f5d38736"
+msgid "ID=233430901"
+msgstr ""
+
+msgctxt "ee75133d01335fc2f486f4c131110885"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n과거 그레이스 시티의 가장 유명한 "
+"백화점에서 판매했던 여성용 캐쥬얼 춘추복 의상. 가슴에 달린 핑크색 리본 장식이 매우 사랑스러워 보인다."
+msgstr ""
+
+msgctxt "22f07270a682f7cbe76228e8c82ff1e3"
+msgid "ID=233431101"
+msgstr ""
+
+msgctxt "1384e5f0a60656d162656e1760df8dd2"
+msgid "ID=233431201"
+msgstr ""
+
+msgctxt "771d8144ff8417c28e6be9c49a4aeb8b"
+msgid "ID=243430901"
+msgstr ""
+
+msgctxt "44edc3543b015b43006cb7938d57449e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n과거 그레이스 시티의 가장 유명한 "
+"백화점에서 판매했던 남성용 캐쥬얼 춘추복 의상. 스타디움 자켓을 입으면 마치 대학생이 된 것만 같다."
+msgstr ""
+
+msgctxt "4b79bf0e598342e0a1d6b400856cb4d8"
+msgid "ID=243431201"
+msgstr ""
+
+msgctxt "a3382dbda54afab36fe2a61a43c439ac"
+msgid "ID=253430901"
+msgstr ""
+
+msgctxt "693c8882fa19f8aa58f8eadb4703c8fa"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n과거 그레이스 시티의 가장 유명한 "
+"백화점에서 판매했던 아동용 춘추복 의상. 분홍색 니트 안의 데님 멜빵바지가 매우 큐트해 보인다."
+msgstr ""
+
+msgctxt "dfc2a3178fc01c54415a297c3ea71d37"
+msgid "ID=253431101"
+msgstr ""
+
+msgctxt "3881f097e492b85976fcfa9c208055a1"
+msgid "[스윗 하트]니삭스"
+msgstr ""
+
+msgctxt "7a04425e1b9a5c5946dc327f78b4c697"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n과거 그레이스 시티의 가장 유명한 "
+"백화점에서 판매했던 아동용 춘추복 스타킹."
+msgstr ""
+
+msgctxt "c69002159802d24e5d88486ac80dd479"
+msgid "ID=253431201"
+msgstr ""
+
+msgctxt "c61a18b655545e545d1e21d117d82c05"
+msgid "[스윗 하트]단화"
+msgstr ""
+
+msgctxt "3de67aaaa9926fefd9136ed31f631545"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n과거 그레이스 시티의 가장 유명한 "
+"백화점에서 판매했던 아동용 춘추복 신발."
+msgstr ""
+
+msgctxt "92ca43bb7de1423a512d352c6c889fba"
+msgid "ID=243430528"
+msgstr ""
+
+msgctxt "a406402e660bfd842410aca882dee2d9"
+msgid "ID=813410901"
+msgstr ""
+
+msgctxt "9f984d13f254bbdf113d4762c9a4407a"
+msgid "[밀봉][미리엄]의상"
+msgstr ""
+
+msgctxt "abc22412b27fddaf55c6933b77b7f99a"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[미리엄] 의상이 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "a377ae9a9472752cd2e42464ed97dacb"
+msgid "ID=813411101"
+msgstr ""
+
+msgctxt "50e7d33bf7f13b2d4b5a567f71994aa3"
+msgid "[밀봉][미리엄]스타킹"
+msgstr ""
+
+msgctxt "f13427d6970cd9190644fa82505c7a46"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[미리엄] 스타킹이 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "e90638208fd9736e9bf01cc6013a1610"
+msgid "ID=813411201"
+msgstr ""
+
+msgctxt "8bb6895a42f13113ff9f995f7fb997e0"
+msgid "[밀봉][미리엄]단화"
+msgstr ""
+
+msgctxt "800be784009501ac4ffa033fd37d134b"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[미리엄] 단화가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "a0a6f45906b9f2b1131012bbb0c47bb1"
+msgid "ID=823410901"
+msgstr ""
+
+msgctxt "bf21f85c547b9c0c0c25a357ed2d7fbe"
+msgid "[밀봉][에릭]의상"
+msgstr ""
+
+msgctxt "1a445088bd4dedb5cd2b816e8f9c07c4"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[에릭] 의상이 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "2cc7300aa2285593eec6da85559c683e"
+msgid "ID=823411201"
+msgstr ""
+
+msgctxt "3ac66e9dd67bbac667472d128af9bbea"
+msgid "[밀봉][에릭]부츠"
+msgstr ""
+
+msgctxt "6878e30fc908cad43a02c749e29c18b8"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[에릭] 부츠가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "fbd9c3fe94af78a6d0861fe0795b2478"
+msgid "ID=833410901"
+msgstr ""
+
+msgctxt "90e27adedfe36168e7818a62686d0c82"
+msgid "[밀봉][신시아]의상"
+msgstr ""
+
+msgctxt "e6f81a3e6a62c6a75afe9eaff66de7de"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[신시아] 의상이 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "2a7726f8c8d9349b6e4ce969ea5bda81"
+msgid "ID=833411101"
+msgstr ""
+
+msgctxt "f0b33520bf770da4790908f8e93acb14"
+msgid "[밀봉][신시아]스타킹"
+msgstr ""
+
+msgctxt "a571b156bd0fd05553d569b8358845a1"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[신시아] 스타킹이 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "eafc503565ae36527d13ecbd3ae5b9dd"
+msgid "ID=833411201"
+msgstr ""
+
+msgctxt "152772b1e697e9b28e57e97e838b7ce6"
+msgid "[밀봉][신시아]구두"
+msgstr ""
+
+msgctxt "920a13cb75764c1100d7e89bbfb0af24"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[신시아] 구두가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "8d5361b4c72f71c5ae689c45ef13176e"
+msgid "ID=843410901"
+msgstr ""
+
+msgctxt "fd4253f0c8d1c68f146240fdc55902af"
+msgid "[밀봉][케인바렐]의상"
+msgstr ""
+
+msgctxt "72fb7901cac7ddf2ab2b1b7731d043bc"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[케인바렐] 의상이 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "10e59898a6c0cd89c5e908820bd05139"
+msgid "ID=843410501"
+msgstr ""
+
+msgctxt "c3f3c4fd6bb19f9916f969af50122683"
+msgid "[밀봉][케인바렐]장갑"
+msgstr ""
+
+msgctxt "487e3c28db8eec1e4d67ca353b567a35"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[케인바렐] 장갑이 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "54c9b410306d261a7cd9e7daa89a8ed6"
+msgid "ID=843411201"
+msgstr ""
+
+msgctxt "ff0e894ac5e4101e0c82d9d079a23691"
+msgid "[밀봉][케인바렐]부츠"
+msgstr ""
+
+msgctxt "eea8bc9be5e68faadf600564fa7cedd9"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[케인바렐] 부츠가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "d7281c602e12d555c6076650a642be9e"
+msgid "ID=853410901"
+msgstr ""
+
+msgctxt "6848c9ef40215042db52ab2a2bae568a"
+msgid "[밀봉][줄리]의상"
+msgstr ""
+
+msgctxt "0c339a09a160e1f0ebb6a44075c3c5c4"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[줄리] 의상이 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "9596f3d9662ae7792d25819dec9e52c2"
+msgid "ID=853411101"
+msgstr ""
+
+msgctxt "5ad92409288c694491df974783f3b1da"
+msgid "[밀봉][줄리]양말"
+msgstr ""
+
+msgctxt "b18a2c75223cefb09c2d71ec1bf3663f"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[줄리] 양말이 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "870772f42d78fe3fc35cd5a0af5bc29b"
+msgid "ID=853411201"
+msgstr ""
+
+msgctxt "6552b3ad70febb0ed36619e4ac744881"
+msgid "[밀봉][줄리]단화"
+msgstr ""
+
+msgctxt "8b8c8a3a0bec11512997c4aa2e1a56b9"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[줄리] 단화가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "51783b9b6a70e7b925338fa63d88a2bb"
+msgid "ID=823420801"
+msgstr ""
+
+msgctxt "f438aaf4ff82703261edf898d21db4bf"
+msgid "[밀봉][낮도깨비]의상"
+msgstr ""
+
+msgctxt "972a76edfa50dea58382716d43ec3dea"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[낮도깨비] 의상이 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "7518ce5fda46a81dd9e086035b745938"
+msgid "ID=843420801"
+msgstr ""
+
+msgctxt "29055a80b52573c9ae857f6cee1a6d78"
+msgid "[밀봉][열정단장]의상"
+msgstr ""
+
+msgctxt "6eb61d527df63a0eb046afb2135a889a"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[열정단장] 의상이 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "8f2433acaef756da87e4c68d36fc67a7"
+msgid "ID=843422801"
+msgstr ""
+
+msgctxt "28d5146f7f766d6c262b56d018c48fcb"
+msgid "ID=813430901"
+msgstr ""
+
+msgctxt "3b6fdc225670b761ca8d8ca8f0900af8"
+msgid "[밀봉][스윗 하트]의상"
+msgstr ""
+
+msgctxt "8206f3ca8978caacb385f19795fec2c1"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[스윗 하트] 의상이 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "6118a9d9aa27db6861c671b3d84915c5"
+msgid "ID=813431101"
+msgstr ""
+
+msgctxt "f4e09eaa8b3b0c6f542c0b4e7581853f"
+msgid "[밀봉][스윗 하트]삭스"
+msgstr ""
+
+msgctxt "939194a358861dad3b60d4da210ac69e"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[스윗 하트] 삭스가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "e83506ee3dcfb41fea804a5be0fb648a"
+msgid "ID=813431201"
+msgstr ""
+
+msgctxt "5afacee738ad109aa850d2f374eba7e4"
+msgid "[밀봉][스윗 하트]운동화"
+msgstr ""
+
+msgctxt "0c532ce3d7f14baf442d402d35de3af0"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[스윗 하트] 운동화가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "f9e701de96cc7e7b858ed0dd1fe90ffa"
+msgid "ID=823430901"
+msgstr ""
+
+msgctxt "9a914f0de3085e15ebf36039bc6e86a4"
+msgid "ID=823430528"
+msgstr ""
+
+msgctxt "752c3c6fb95351e084d2f69a452c8ba8"
+msgid "ID=823431201"
+msgstr ""
+
+msgctxt "430aaf75aaf60ad52ed450cdfc44722d"
+msgid "[밀봉][스윗 하트]하이탑 슈즈"
+msgstr ""
+
+msgctxt "f2eac345b9394762ce7a5a6e7196ef29"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[스윗 하트] 하이탑 슈즈가 "
+"들어있는 패키지이다."
+msgstr ""
+
+msgctxt "73d52acbbbc21354d535289c8c555738"
+msgid "ID=833430901"
+msgstr ""
+
+msgctxt "4dd5c2e810e54379ef4673fd8df532e9"
+msgid "ID=833431101"
+msgstr ""
+
+msgctxt "8945e3693e0abb51f7d05c3eb7642d75"
+msgid "ID=833431201"
+msgstr ""
+
+msgctxt "770644267bc048a775993831812c7444"
+msgid "ID=843430901"
+msgstr ""
+
+msgctxt "1c73c11d6bd8409437700edf31ea8781"
+msgid "ID=843430528"
+msgstr ""
+
+msgctxt "fd46e533715c35c287ebd7b10e4c81e2"
+msgid "ID=843431201"
+msgstr ""
+
+msgctxt "ab4e4b6fb0958db8beb1ca3ed5d4b968"
+msgid "ID=853430901"
+msgstr ""
+
+msgctxt "1874ea2815e172362fde0d9acc499b0f"
+msgid "ID=853431101"
+msgstr ""
+
+msgctxt "c28670c90af0788b48bd7736b9129ada"
+msgid "[밀봉][스윗 하트]니삭스"
+msgstr ""
+
+msgctxt "52e89df302d7a52ca9e3a09247dbd69a"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[스윗 하트] 니삭스가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "86840b321ce8da4274a3a5b2ac8c954d"
+msgid "ID=853431201"
+msgstr ""
+
+msgctxt "ccfa59721ad54686178d36dae2afb675"
+msgid "[밀봉][스윗 하트]단화"
+msgstr ""
+
+msgctxt "60d565b59c34f71b5bab385805e24684"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[스윗 하트] 단화가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "65ca351e1a0286c0a42aa0911621f0a5"
+msgid "ID=810001107"
+msgstr ""
+
+msgctxt "c9207cb6711918484ff95c1d8f30cd79"
+msgid "[코스튬 박스]미리엄"
+msgstr ""
+
+msgctxt "f00bbc622ff460c32f8b31d47f443b5b"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[미리엄] 코스튬이 담긴 "
+"패키지로 해당 구성품은 하루만 착용할 수 있다.\\n이 코스튬은 로코타운의 미리엄이 착용한 것과 동일하다.\\n-구성품-\\n[미리엄] "
+"의상 x 1\\n[미리엄] 스타킹 x 1\\n[미리엄] 단화 x 1"
+msgstr ""
+
+msgctxt "27bea08e701735c206e4f191035b8c0b"
+msgid "ID=810001108"
+msgstr ""
+
+msgctxt "aac858376c84e0bfe75377bd1a7a2806"
+msgid "[코스튬 박스]에릭"
+msgstr ""
+
+msgctxt "3e66d3a713070b92745d5b85afcbdb50"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[에릭] 코스튬이 담긴 패키지로 "
+"해당 구성품은 어윈만 착용할 수 있다.\\n이 코스튬은 로코타운의 에릭이 착용한 것과 동일하다.\\n-구성품-\\n[에릭] 의상 x "
+"1\\n[에릭] 부츠 x 1"
+msgstr ""
+
+msgctxt "f6cbed5f65ef00daa7fee2a9ceb8ccfb"
+msgid "ID=810001109"
+msgstr ""
+
+msgctxt "1ca496e7d7f02fbe6dac04addf718ed1"
+msgid "[코스튬 박스]신시아"
+msgstr ""
+
+msgctxt "682438a65d6281b67e3c2d7f282683c9"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[신시아] 코스튬이 담긴 "
+"패키지로 해당 구성품은 릴리만 착용할 수 있다.\\n이 코스튬은 캔더스 시티의 신시아가 착용한 것과 동일하다.\\n-구성품-"
+"\\n[신시아] 의상 x 1\\n[신시아] 스타킹 x 1\\n[신시아] 구두 x 1"
+msgstr ""
+
+msgctxt "dc61033bd0e75b9a04d0abfd7c77f64f"
+msgid "ID=810001110"
+msgstr ""
+
+msgctxt "a811026a6d03874154277ced1a3bf1d4"
+msgid "[코스튬 박스]케인바렐"
+msgstr ""
+
+msgctxt "bab40f8a90f5ad41191642e21f783075"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[케인바렐] 코스튬이 담긴 "
+"패키지로 해당 구성품은 진만 착용할 수 있다.\\n이 코스튬은 그레이스 시티의 케인바렐이 착용한 것과 동일하다.\\n-구성품-"
+"\\n[케인바렐] 의상 x 1\\n[케인바렐] 장갑 x 1\\n[케인바렐] 부츠 x 1"
+msgstr ""
+
+msgctxt "bb5447e7ae5a052633e31d8f174067f5"
+msgid "ID=810001111"
+msgstr ""
+
+msgctxt "f66230d5a9a0b38be41bc6723ad0e950"
+msgid "[코스튬 박스]줄리"
+msgstr ""
+
+msgctxt "74f4a403113ee8afdeeffbfdba2193ab"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[줄리] 코스튬이 담긴 패키지로 "
+"해당 구성품은 스텔라만 착용할 수 있다.\\n이 코스튬은 그레이스 시티의 줄리가 착용한 것과 동일하다.\\n-구성품-\\n[줄리] 의상 "
+"x 1\\n[줄리] 양말 x 1\\n[줄리] 부츠 x 1"
+msgstr ""
+
+msgctxt "de14e57bfb9026af86198c010f921c88"
+msgid "ID=810001112"
+msgstr ""
+
+msgctxt "2f3ba6e39b70d9a08ccf3c30192cfb49"
+msgid "[코스튬 박스]스윗 하트"
+msgstr ""
+
+msgctxt "97f82eca328ec72a827e19b6b990cc0f"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[스윗 하트] 코스튬이 담긴 "
+"패키지로 해당 구성품은 하루만 착용할 수 있다.\\n-구성품-\\n[스윗 하트] 의상 x 1\\n[스윗 하트] 삭스 x 1\\n[스윗 "
+"하트] 운동화 x 1"
+msgstr ""
+
+msgctxt "8fa47ccf41990a340b1375255995fd51"
+msgid "ID=810001113"
+msgstr ""
+
+msgctxt "6b4f7c1a4e1ec33c1dc12d0bd7598120"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[스윗 하트] 코스튬이 담긴 "
+"패키지로 해당 구성품은 어윈만 착용할 수 있다.\\n-구성품-\\n[스윗 하트] 의상 x 1\\n[스윗 하트] 하이탑 슈즈 x 1"
+msgstr ""
+
+msgctxt "13de1dfd20a1472a6cec6919801f3b7c"
+msgid "ID=810001114"
+msgstr ""
+
+msgctxt "8154a73e03428fa50e7f8c1999f372b8"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[스윗 하트] 코스튬이 담긴 "
+"패키지로 해당 구성품은 릴리만 착용할 수 있다.\\n-구성품-\\n[스윗 하트] 의상 x 1\\n[스윗 하트] 삭스 x 1\\n[스윗 "
+"하트] 운동화 x 1"
+msgstr ""
+
+msgctxt "bf44ef5833984375098299809162dad5"
+msgid "ID=810001115"
+msgstr ""
+
+msgctxt "b2b46654183a14e8efe807e336cc522e"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[스윗 하트] 코스튬이 담긴 "
+"패키지로 해당 구성품은 진만 착용할 수 있다.\\n-구성품-\\n[스윗 하트] 의상 x 1\\n[스윗 하트] 하이탑 슈즈 x 1"
+msgstr ""
+
+msgctxt "f844262f2dc4764c92534da6eae51f8f"
+msgid "ID=810001116"
+msgstr ""
+
+msgctxt "232e37af92ca69417c2d2113b3a4fc17"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[스윗 하트] 코스튬이 담긴 "
+"패키지로 해당 구성품은 스텔라만 착용할 수 있다.\\n-구성품-\\n[스윗 하트] 의상 x 1\\n[스윗 하트] 양말 x 1\\n[스윗 "
+"하트] 단화 x 1"
+msgstr ""
+
+msgctxt "6ffba4c1bd0019a40b7eba6f43ce0f7e"
+msgid "ID=116122701"
+msgstr ""
+
+msgctxt "6deed34202eb6f29d11f30ace3fcdf3f"
+msgid "소로우 킵세이크 해머"
+msgstr ""
+
+msgctxt "aa963f597b678a0b45ec8e2b89fcbb63"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"정체를 알 수 없는 괴물과 조우하자 강렬한 빛과 함께 손에 쥐어진 무기.\\n거대 해머의 형상을 하고 있으며, 마치 오래 전부터 함께한 "
+"것 같은 아련한 감정이 느껴진다.\\n이리스 유마가 사용한다.\\n\\n그 힘은… 당신 앞에 놓여진 운명을 달려나갈 힘.\\n터져나갈 것 "
+"같은 분노를 쏟아낼 매개체.\\n- 의문의 아이 -"
+msgstr ""
+
+msgctxt "968de2173e2c376f17bf005b9d51eb5f"
+msgid "ID=116052701"
+msgstr ""
+
+msgctxt "eda8374635260d1c9092b1baabe94be2"
+msgid "울프즈 해머"
+msgstr ""
+
+msgctxt "70a1de55916ecf2efdda5ffd2438aa47"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 거대 "
+"해머 형태의 무기로 육중한 무게 탓에 일반인들은 들어 올릴 수 없지만 소울워커의 소울 에너지에 반응해 그 무게는 한결 가벼워 진다고 한다."
+"\\n이리스 유마가 사용한다."
+msgstr ""
+
+msgctxt "59feb833d5ab15d2fc31ebb3bb402375"
+msgid "ID=116082701"
+msgstr ""
+
+msgctxt "c6eecd007c85d77670c5b7d499a30d1d"
+msgid "하트리스 해머"
+msgstr ""
+
+msgctxt "bd2d8175f9075f545fc70008032fec5e"
+msgid "ID=116011301"
+msgstr ""
+
+msgctxt "b874821a6744231655c411ecacdc466d"
+msgid "레머넌트 해머"
+msgstr ""
+
+msgctxt "99b151c5d0cee899453e1a74a8a74e6b"
+msgid "ID=116031301"
+msgstr ""
+
+msgctxt "8c3e6b5a6ef8b89339180ecaabf419be"
+msgid "하빙거 해머"
+msgstr ""
+
+msgctxt "13809b2bdcfe0c6a2d187e2d913ed839"
+msgid "ID=116042301"
+msgstr ""
+
+msgctxt "c45b035e95d59de551bfdf0b565ecf73"
+msgid "레니어리 해머"
+msgstr ""
+
+msgctxt "8f49ad067392fdd62147d89c0dad2ec7"
+msgid "ID=116043301"
+msgstr ""
+
+msgctxt "d19dca58247fecb10c5afe976a401f0d"
+msgid "래비드 팽 해머"
+msgstr ""
+
+msgctxt "cf80befc338ca4b42771689050c80577"
+msgid "ID=116053551"
+msgstr ""
+
+msgctxt "4ee708f70f9399b9539511c9e67d672f"
+msgid "드레드 울프 슬레지 해머"
+msgstr ""
+
+msgctxt "fb284d7c0a7adfb37766ecf63550287f"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 시추 "
+"현장에서 만난 소울정크의 각성체, 카인과의 전투 정보를 토대로 만든 거대 해머로 카인의 갈기를 참고하여 만들었다.\\n이리스 유마가 "
+"사용한다.\\n\\n훗… 지나가던 동네 변견이 너보다 잘 짖겠다.\\n- 이리스 유마 -"
+msgstr ""
+
+msgctxt "6c24b2111844a3f4eef23f31af0665e5"
+msgid "ID=116061301"
+msgstr ""
+
+msgctxt "66589776f4788dd63be32ceac8951337"
+msgid "스탠다드 해머"
+msgstr ""
+
+msgctxt "0f1bac2b6edd52b6588f7a94ecba02e1"
+msgid "ID=116062301"
+msgstr ""
+
+msgctxt "9349ad5a79b94a251675f4c75bfc27ea"
+msgid "스푸키 퍼펫 해머"
+msgstr ""
+
+msgctxt "94bcf94e4cbef171c5b9c3d6d47fb67f"
+msgid "ID=116073301"
+msgstr ""
+
+msgctxt "bad322dac4164c28aad75b87427f4f92"
+msgid "수어사이드 퍼펫 리액터"
+msgstr ""
+
+msgctxt "9db7d387b90b064d0b8fc4fa4c032a65"
+msgid "ID=116083551"
+msgstr ""
+
+msgctxt "5d0efc79a5f10d5153e07b2b96060ab8"
+msgid "해머 타입 퍼펫 블래스터"
+msgstr ""
+
+msgctxt "bd6458fc2466084bd1918244919de219"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. R "
+"스퀘어 광장에서 만난 거대한 인형, 빅 퍼펫과의 전투 정보를 토대로 만든 거대 해머로 빅 퍼펫의 폭발력이 담긴 에너지를 연료로 사용한다. "
+"실린더 발광장치에 담긴 숨겨진 힘은 무엇이든 짓이겨 버릴 정도로 매우 강력하다.\\n이리스 유마가 사용한다.\\n\\n거대 자폭 병기, "
+"빅 퍼펫 저지 작전 실시!\\n- 클로이 -"
+msgstr ""
+
+msgctxt "ef360b7ca1d90b0216df34e58aa43c69"
+msgid "ID=116091301"
+msgstr ""
+
+msgctxt "02d120fa97679b827373efadd65069df"
+msgid "브로드 해머"
+msgstr ""
+
+msgctxt "f5ee790c83f59d620feabe5768c1598b"
+msgid "ID=116092301"
+msgstr ""
+
+msgctxt "853e661da0828f392c104c890469566a"
+msgid "언체인드 퍼펫 해머"
+msgstr ""
+
+msgctxt "0d4ba6a4506b654235a19a7d1eee8308"
+msgid "ID=116103301"
+msgstr ""
+
+msgctxt "51fac86ff0c34c19bdc3143f7a453e83"
+msgid "트윈헤드 퍼펫 채리엇"
+msgstr ""
+
+msgctxt "f7ebaa92a17aa4a97c5dcb4dac9c1d98"
+msgid "ID=116113551"
+msgstr ""
+
+msgctxt "5c89e3155d6de5828f6abd62e39d9cc6"
+msgid "파나틱 디재스터 슬러그"
+msgstr ""
+
+msgctxt "4731a8954782920efde5d451403c6725"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"괴전파 발생 지역에서 만난 인형, 잭 더 킹과의 전투 정보를 토대로 만든 거대 해머. 이 해머를 들자 주변의 인형들이 이상하게 피하는 "
+"느낌이 든다.\\n이리스 유마가 사용한다.\\n\\n에드가님! 사랑합니다! 에드가님!!\\n- 잭 더 킹 -"
+msgstr ""
+
+msgctxt "3d839dd890ac3990d95e9f9dedd76f4e"
+msgid "ID=116111301"
+msgstr ""
+
+msgctxt "7420ec9cd1b279a21623371081f9bda5"
+msgid "플레이트 해머"
+msgstr ""
+
+msgctxt "f04cbf3bba79b76c124b46c9bf188756"
+msgid "ID=116112301"
+msgstr ""
+
+msgctxt "781db076ca88f64731ed600faf9b0ce2"
+msgid "슬로피 피에로 해머"
+msgstr ""
+
+msgctxt "9bc28fbd82936e5cfdec08b325eb99b1"
+msgid "ID=116123301"
+msgstr ""
+
+msgctxt "49f818bea5fd019218d634cd94de8778"
+msgid "루나틱 제스터 트릭 해머"
+msgstr ""
+
+msgctxt "7bf287393b3d2edfdd649646069965b4"
+msgid "ID=116133551"
+msgstr ""
+
+msgctxt "06c43a9edc796bf164b97c64de8326ad"
+msgid "매드니스 할리퀸 바이퍼"
+msgstr ""
+
+msgctxt "d155149f5e28e07c24812cadf3c4a161"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"버려진 병원에서 만난 인형들의 주인, 에드가와의 전투 정보를 토대로 만든 거대 해머이다. 에드가의 푸른 수정에 담긴 힘을 해석하여 무기에 "
+"구현하였지만 어찌된 것인지 인형들의 공격은 더욱 거세졌다.\\n이리스 유마가 사용한다.\\n\\n즐거운 쇼였습니다. 다음엔… 더 큰 "
+"무대에서.\\n- 에드가 -"
+msgstr ""
+
+msgctxt "ecdaa25471d342dddea103d4094a0d42"
+msgid "ID=116141301"
+msgstr ""
+
+msgctxt "7e562e4a688e1d9049c59545c9c6247d"
+msgid "인핸스드 해머"
+msgstr ""
+
+msgctxt "fc4796eafe8fff94815f8954ca8ade1d"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 거대 "
+"해머 형태의 무기로, 일반인들은 절대 들어 올릴 수 없게 제작되었다. 이로 인해 소울 에너지를 사용하는 소울워커가 아닌 이상 그 누구도 "
+"제대로 사용할 수 없다.\\n이리스 유마가 사용한다."
+msgstr ""
+
+msgctxt "7551d2151e5ea78a193e15e319a91e03"
+msgid "ID=116142301"
+msgstr ""
+
+msgctxt "b848ba2da2adb8ba53b9ef8981385d62"
+msgid "트래쉬 버스터 해머"
+msgstr ""
+
+msgctxt "fefd9c942e1a7166a08c8839d5f485cc"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 거대 "
+"해머 형태의 무기로 육중한 무게 탓에 일반인들은 들어 올릴 수 없지만 소울워커의 소울 에너지에 반응 할 때 그 무게는 한결 가벼워 진다고 "
+"한다.\\n이리스 유마가 사용한다."
+msgstr ""
+
+msgctxt "981910247cc33b42c158049581c09f1b"
+msgid "ID=116153301"
+msgstr ""
+
+msgctxt "170301883d1457f3c8a22a2cd29a7d83"
+msgid "어벤던드 트래쉬 리액터"
+msgstr ""
+
+msgctxt "bcc0139b31090966254f2aedb7e96b78"
+msgid "ID=116163551"
+msgstr ""
+
+msgctxt "8c52fd584fecfd6991704e0134bafbee"
+msgid "골렘 디스트로잉 해머"
+msgstr ""
+
+msgctxt "bde3e7f42d5727a9ce3ef6e22766b353"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"해안가 도로에 나타난 소울정크. 아스팔트 골렘과의 전투 정보를 토대로 만든 거대 해머로 아스팔트와 콘크리트가 거의 주 재료인지라 상당한 "
+"무게를 자랑한다. 드는 것 만으로도 힘에 부친다.\\n이리스 유마가 사용한다.\\n\\n이봐. 돌덩이~ \\n눈사람이 너보다 단단하겠다."
+"\\n- 이리스 유마 -"
+msgstr ""
+
+msgctxt "942b8c7a135b883e67511efaedead343"
+msgid "ID=116161301"
+msgstr ""
+
+msgctxt "266e4131e746ffe42fee58a659594c3b"
+msgid "포지드 해머"
+msgstr ""
+
+msgctxt "6a8855db763779faf3534a8091462303"
+msgid "ID=116162301"
+msgstr ""
+
+msgctxt "4d4beec22369c100d0e76129c3f5ba29"
+msgid "스팅키 뮤턴트 해머"
+msgstr ""
+
+msgctxt "ad3b7250790dabedce40a120e09ab2ee"
+msgid "ID=116173301"
+msgstr ""
+
+msgctxt "9b72dd216f01227e846135363b0fe466"
+msgid "테인티드 소울 슬로터"
+msgstr ""
+
+msgctxt "01c2fefb1f2933f44250bdb56b511e9f"
+msgid "ID=116183551"
+msgstr ""
+
+msgctxt "8f705bf4e51b5a185d3ac7f5070a6250"
+msgid "커럽티드 나이트 해머"
+msgstr ""
+
+msgctxt "2e2d302a17e5ade8622be5798aa6ee34"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 지하 "
+"수로에 나타난 소울정크, 정크 나이트와의 전투 정보를 토대로 만든 거대 해머로 정크 나이트가 되어버린 이름을 알 수 없는 소울워커의 한이 "
+"서려있다.\\n이리스 유마가 사용한다.\\n\\n인간!! 말살한다!!\\n- 정크 나이트 -"
+msgstr ""
+
+msgctxt "b3f1766ee9f53f6683858f4f138812c2"
+msgid "ID=116191301"
+msgstr ""
+
+msgctxt "3d889f44dc1c93c341a226495888b653"
+msgid "스미싱 해머"
+msgstr ""
+
+msgctxt "ba97008528a3e624b9196f91cd3209c7"
+msgid "ID=116192301"
+msgstr ""
+
+msgctxt "ce3e1e24a8aa1717d9e22b3122535f55"
+msgid "정크 인펙터 해머"
+msgstr ""
+
+msgctxt "f250dde75d3ae2c2bceb6effb6c3adce"
+msgid "ID=116203301"
+msgstr ""
+
+msgctxt "3c547d39faf69881f037d44f6960f8e3"
+msgid "퀸 스파이더 루인 해머"
+msgstr ""
+
+msgctxt "86b4657312740ca2b24a8e3db1adea7c"
+msgid "ID=116213551"
+msgstr ""
+
+msgctxt "fe25d3debf654789fa637c5abe2c0948"
+msgid "아라크니드 베니싱 해머"
+msgstr ""
+
+msgctxt "e512897619faf6dd833679645bb1ac79"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"버려진 저택에 나타난 소울정크, 아라크니스와의 전투 정보를 토대로 만든 거대 해머로 아라크니스의 갑각과 거대한 앞 발의 형태를 참고하여 "
+"만들었다. 이상하게 손에 착 달라붙는 듯한 기분이 든다.\\n이리스 유마가 사용한다.\\n\\n하… 하하… 역시… 와… 와주실 줄 "
+"알았어요. 하… 하하….\\n- 캐서린 -"
+msgstr ""
+
+msgctxt "272a246aefa57fb375d57c0818df3f19"
+msgid "ID=116211301"
+msgstr ""
+
+msgctxt "2801724470d8c597b04b0dace84c7157"
+msgid "러스티 런쳐"
+msgstr ""
+
+msgctxt "740da5bfe2fb124f2aee4c7056d55cd2"
+msgid "ID=116212301"
+msgstr ""
+
+msgctxt "3aa58cccaca1d3f51844b30a6c031b08"
+msgid "페일드 뮤턴트 런쳐"
+msgstr ""
+
+msgctxt "ce41d4da56e3e6bc68096d84f842099c"
+msgid "ID=116223301"
+msgstr ""
+
+msgctxt "209203086bc00e9b6e784df6a8bee032"
+msgid "헌티드 오버시어 채리엇"
+msgstr ""
+
+msgctxt "d7da2871afba345c679c7564820f8e1c"
+msgid "ID=116233551"
+msgstr ""
+
+msgctxt "e3bf422a981656977edef1ea7b9177cf"
+msgid "사일런트 위트니스 더스티어"
+msgstr ""
+
+msgctxt "8361cb8f608755f23b5ab8a253bc4fe7"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"N102 쉘터에 나타난 소울정크, 비홀더와의 전투 정보를 토대로 만든 거대 해머. 네드 컴퍼니의 연구에 의해 만들어진 인공 각성체, "
+"비홀더의 촉수와 칼날을 참고하여 만들어져 흉악한 외형을 자랑한다.\\n심각한 단점으로는 손잡이가 끈적끈적하다.\\n이리스 유마가 사용한다."
+"\\n\\n나왔다! 점액질… 점액질을 보자!\\n- 브록 -"
+msgstr ""
+
+msgctxt "02f7efc6e076e68028e1f62f6daf0c03"
+msgid "ID=116241301"
+msgstr ""
+
+msgctxt "39078e05bc50ec8fd1d13e9825043653"
+msgid "노말 런쳐"
+msgstr ""
+
+msgctxt "c14a1926b8cf8878d072e4c3efaddeb0"
+msgid "ID=116242301"
+msgstr ""
+
+msgctxt "5c259b9a550f9e3f5ef911c230c8f036"
+msgid "글루미 프레이터 런쳐"
+msgstr ""
+
+msgctxt "eeb5ae7c6d4e79e56fa2d44fb53a4599"
+msgid "ID=116253301"
+msgstr ""
+
+msgctxt "59cec735b2758105f6f47e4b068bc9e9"
+msgid "사일런트 리뎀션 해머"
+msgstr ""
+
+msgctxt "4bd575c77786466508d3dbe97d611ac3"
+msgid "ID=116263551"
+msgstr ""
+
+msgctxt "3e2a0a2eb7401ef42b7496fc314b8a54"
+msgid "그리프 스카이즈 채리엇"
+msgstr ""
+
+msgctxt "d1dec8ab2301cbfb848c0d1d96b9c121"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"캐서린을 흡수한 각성체, 아마릴리스와의 전투 정보를 토대로 만든 거대 해머로 검은색의 갑각이 하얀 프레임을 감싼 형태의 무기로 만들어졌다."
+" 왠지 모르게 캐서린의 슬픔과 고통이 전해진다.\\n이리스 유마가 사용한다.\\n\\n나와 맹세해요. 맹세하면 힘을 얻을 수 있어요. "
+"\\n저 아이가 겪고 있는 잔인한 악몽에서 깨어날 수 있게 할 힘을!\\n- 의문의 아이 -"
+msgstr ""
+
+msgctxt "1121ddc151ce89bc7d98a258c31877e4"
+msgid "ID=116261301"
+msgstr ""
+
+msgctxt "cec21bbc4fe967505750e303254f1539"
+msgid "리파인 붐스틱"
+msgstr ""
+
+msgctxt "2d03a274f306bc04d3388b3951bd52c1"
+msgid "ID=116262301"
+msgstr ""
+
+msgctxt "26b748b1d6e7f3fe41be0d752bf011ba"
+msgid "아웃로우즈 붐스틱"
+msgstr ""
+
+msgctxt "8d89b7a823877649472f2af4b9f92725"
+msgid "ID=116273301"
+msgstr ""
+
+msgctxt "5d1b433985da5866d3bd04fe76680e7e"
+msgid "브루탈 페인 슬로터"
+msgstr ""
+
+msgctxt "8903305a367e9d28ad1cb13d6d9aaba8"
+msgid "ID=116283551"
+msgstr ""
+
+msgctxt "23f4e3e7e3728f1db985e2e4a0e3979e"
+msgid "머시리스 나이트 하데스"
+msgstr ""
+
+msgctxt "2e7017ae52780ed1d35d6f5e9a5a8dfa"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"고가도로에 나타난 거대한 베시, 스카와의 전투 정보를 토대로 만든 거대 해머로 근접해서 싸우는 것이 나을 정도로 도끼에 가깝게 생겼다. "
+"손에 쥐고 있으면 굉장한 투쟁심이 끓어오른다.\\n이리스 유마가 사용한다.\\n\\n오랜만에 피가 들끓는군!\\n제법이다! 변종!\\n- "
+"스카 -"
+msgstr ""
+
+msgctxt "8e11aee289f3da1d87e5efe3a76b674a"
+msgid "ID=116281301"
+msgstr ""
+
+msgctxt "bf6f9e87f82f68040cc1f852e3d53d74"
+msgid "스틸 붐스틱"
+msgstr ""
+
+msgctxt "21a83c0181c45d13c36712ba61e175b3"
+msgid "ID=116282301"
+msgstr ""
+
+msgctxt "166755079b3fd81e07043b24b9ff353f"
+msgid "마샬 헌터 붐스틱"
+msgstr ""
+
+msgctxt "4782662abf2864264efc4d92c2f7fdb8"
+msgid "ID=116293301"
+msgstr ""
+
+msgctxt "f680ec37186be28551690b1c6370ab67"
+msgid "톡식 더 러스트 슬로터"
+msgstr ""
+
+msgctxt "4943f235d6a2c7659771207eb64d9313"
+msgid "ID=116303551"
+msgstr ""
+
+msgctxt "a6b57b968c0d643a0a76c84c292cc66a"
+msgid "페이탈 리플렉션 붐스틱"
+msgstr ""
+
+msgctxt "93b35ed298b305180f7d9ab93326ebdd"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 네드 "
+"컴퍼니를 습격한 베시, 포이즌과의 전투 정보를 토대로 만든 거대 해머로 조심하지 않으면 사용하는 사람을 다치게 하는 위험한 무기다."
+"\\n이리스 유마가 사용한다.\\n\\n부……. 러워.\\n저, 자연스러운 퍼펙트 바디~~~\\n- 이리스 유마 -"
+msgstr ""
+
+msgctxt "2e0f9d71f1ec82e0320881a432c051d8"
+msgid "ID=116301301"
+msgstr ""
+
+msgctxt "4e541e3919292075fd38c1cd06f9022d"
+msgid "러스티 레일건"
+msgstr ""
+
+msgctxt "14a345e52c0ad68ef77ae7c5ca916550"
+msgid "ID=116302301"
+msgstr ""
+
+msgctxt "2216aa70fc36826fe52286ddc95c696b"
+msgid "인텐션 레일건"
+msgstr ""
+
+msgctxt "a9f4c1be3e7b70be68e106c26986cb3a"
+msgid "ID=116313301"
+msgstr ""
+
+msgctxt "3df6eddb9721ec5d443d9acc8180b4c2"
+msgid "카발리어즈 오버 레일건"
+msgstr ""
+
+msgctxt "275337c2b8dbef06aa43560d30459ac3"
+msgid "ID=116323551"
+msgstr ""
+
+msgctxt "8c4e6ebd993c0e08c7bbf19e6bb6411d"
+msgid "가루라 나이트 레일건"
+msgstr ""
+
+msgctxt "58f8b69ea2d467876d7120ebf8ad2fc7"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 퀸 "
+"가루라를 탄 베시, 팔콘의 검을 토대로 만든 거대 해머로 퀸 가루라가 뿜는 화염으로 단련되기라도 한듯 뜨거운 기운이 느껴지고 있다."
+"\\n이리스 유마가 사용한다.\\n\\n저 투기… 검을 맞댈 상대로는 부족함이 없도다!\\n- 팔콘 -"
+msgstr ""
+
+msgctxt "9cbf1423804487a71ef8a0ad97b80de4"
+msgid "ID=116331301"
+msgstr ""
+
+msgctxt "929a4c38d2b264ade7a14cfb9469effb"
+msgid "노말 레일건"
+msgstr ""
+
+msgctxt "58da6c2d51b08c16f35bbf1c1749b3a8"
+msgid "ID=116332301"
+msgstr ""
+
+msgctxt "c3c27c8875b6822301033613ae161bdf"
+msgid "터네이셔스 데몬 사일로"
+msgstr ""
+
+msgctxt "83eeb0310a480d3e33d80428def61795"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 거대 "
+"해머 형태의 무기로 육중한 무게 탓에 일반인들은 들어 올릴 수 없지만 소울워커의 소울 에너지에 반응해 그 무게는 한결 가벼워 진다고 한다."
+"\\n이리스 유마가 사용한다.\\n\\n분노하라! 네 영혼을 모두 불태워 한 줌의 재로 재탄생할 때까지!\\n-??-"
+msgstr ""
+
+msgctxt "7ec8591e9ce03e4517fcfc562b2e241b"
+msgid "ID=116343301"
+msgstr ""
+
+msgctxt "f58ef8dba7e98e8ecf1594f6dd905a24"
+msgid "세비지드 액스 사일로"
+msgstr ""
+
+msgctxt "55b51141f2177e49af56b7b9c2245a7e"
+msgid "ID=116353551"
+msgstr ""
+
+msgctxt "5e7c78825b323e2f7d6cd2083be08f36"
+msgid "리바이브 워리어 채리엇"
+msgstr ""
+
+msgctxt "858c48c5abb7b0b23e84a70ce14a0c7c"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"복수를 위해 다시 돌아온 거대한 베시, 블러디 스카의 도끼를 토대로 만든 거대 해머. 복수를 위해 단련된 힘은 자신의 무기 또한 변형시켜 "
+"더욱 강대한 힘을 담았다. 투쟁심을 넘어 굉장한 복수심이 끓어오른다.\\n이리스 유마가 사용한다.\\n\\n이게… 너희 인간이 사용하는 "
+"힘인가….\\n그렇군… 너희가 왜 그렇게 강한지 조금은 알 것 같다.\\n- 블러디 스카 -"
+msgstr ""
+
+msgctxt "87ab10afb8c2a5e98b191660661bd975"
+msgid "ID=116361301"
+msgstr ""
+
+msgctxt "db3b38768b2f483bf53367aa1c40e8be"
+msgid "포지드 레일건"
+msgstr ""
+
+msgctxt "33eee28ab5a7959be3711dca6e414489"
+msgid "ID=116362301"
+msgstr ""
+
+msgctxt "a1261c21971e05f85496ae5787e8a5f9"
+msgid "섀도우즈 레일건"
+msgstr ""
+
+msgctxt "400be59283e7b65c5c89689513f5d801"
+msgid "ID=116373301"
+msgstr ""
+
+msgctxt "4f3e3e900d734faf4f35b085df4ac917"
+msgid "크림슨 섀도우 레일건"
+msgstr ""
+
+msgctxt "ff460dea87888563f2c2b0420a331a83"
+msgid "ID=116383551"
+msgstr ""
+
+msgctxt "d2cda93cb7e4947bf48a109e7369c4a0"
+msgid "해머 타입 베니싱 블러드"
+msgstr ""
+
+msgctxt "c72960e031dc724d9346bc48df0f26bf"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"래피드 플레임의 암살부대를 이끄는 베시, 팬텀의 검을 토대로 만든 거대 해머로 무기에 깃든 원한과 증오로 인해 정신이 나약한 자는 의지를 "
+"빼앗길 수 있으므로 유의하여야 한다.\\n이리스 유마가 사용한다.\\n\\n팬텀…!\\n녀석이 있었던 건가….\\n- 세니아 -"
+msgstr ""
+
+msgctxt "b0fb674e2f2e410debcdc1ae741bbee1"
+msgid "ID=116381301"
+msgstr ""
+
+msgctxt "82c95c422ff6b0f3cc18695089f44474"
+msgid "솔져스 레일건"
+msgstr ""
+
+msgctxt "64e39c4fbad5e366d1de6de83760c6c5"
+msgid "ID=116382301"
+msgstr ""
+
+msgctxt "f9df5606a2ddd8e46fc0a2f566733d60"
+msgid "퓨리 인듀서 사일로"
+msgstr ""
+
+msgctxt "0c4825b6a4cc5a61c9144ea5dcc755dd"
+msgid "ID=116393301"
+msgstr ""
+
+msgctxt "2101800025df9108bba139b597ab68dc"
+msgid "크래쉬 더 헌드레드 레일건"
+msgstr ""
+
+msgctxt "6942f9879a35355e03dca294b45b3761"
+msgid "ID=116403551"
+msgstr ""
+
+msgctxt "e1e55710271b2db2d8ba410da4bf3db9"
+msgid "해머 타입 할로우 벤전스"
+msgstr ""
+
+msgctxt "3d00e164275a6c1661aa9d7c52d2c46c"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커, 라반과의 전투 정보를 토대로 만든 거대 해머로 라반의 힘을 해석하는 과정에서 색상이 변화했지만 그 강력한 힘은 그대로 남아있다."
+"\\n\\n익시드. 헌드레드 소드 발동.\\n목표를 전력으로 섬멸합니다.\\n- 라반 -"
+msgstr ""
+
+msgctxt "5bf7debd7c17667a6dccb7e9e1417160"
+msgid "ID=116411301"
+msgstr ""
+
+msgctxt "56e6ff7062db50961439c340dfc9314d"
+msgid "아이언 벌컨"
+msgstr ""
+
+msgctxt "a32320b992f1e366d556176e6f7fcc35"
+msgid "ID=116412301"
+msgstr ""
+
+msgctxt "b933b31e713a9eb9959d9d1be1445b70"
+msgid "센티넬 벌컨"
+msgstr ""
+
+msgctxt "7fef76a348e2023e7cbb6d99065044a7"
+msgid "ID=116423301"
+msgstr ""
+
+msgctxt "d73f917ba34b8b7cfbbe0d61cf37ca4f"
+msgid "프로토타입 시저 벌컨"
+msgstr ""
+
+msgctxt "1459bf1aab766c7ad577020bdc962c5e"
+msgid "ID=116433551"
+msgstr ""
+
+msgctxt "4c0d7cacfe49a69feb4db267d51be1d6"
+msgid "헤비 메탈 데모닉"
+msgstr ""
+
+msgctxt "87fcc58afc0e54ed1d6e30300d724e6e"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 지크 "
+"프로젝트의 첫번째 시작형, 지크 프로토의 형태와 재질을 토대로 만들었기 때문에 굉장히 무거우며, 해머라기 보다는 지대공 미사일에 가깝다."
+"\\n\\n중앙 제어실 방어 프로세스 최종 단계 돌입.\\n지크 프로토, 가동.\\n- 루시 -"
+msgstr ""
+
+msgctxt "f7f1a1cfbf860d3ee9a6f797d230766a"
+msgid "ID=116431301"
+msgstr ""
+
+msgctxt "5f9a3d5017c1834f85d7dc92b3c9a019"
+msgid "크롬 벌컨"
+msgstr ""
+
+msgctxt "b222ccbe7b24ab9695782ab145721e7a"
+msgid "ID=116432301"
+msgstr ""
+
+msgctxt "76b91392c64d7a212a39806c5442ace3"
+msgid "도미니언 벌컨"
+msgstr ""
+
+msgctxt "c331aa09bec3ba260ba6331c90d0a24e"
+msgid "ID=116443301"
+msgstr ""
+
+msgctxt "9f1b736746d1114efbab1755c1a5b4ed"
+msgid "리벨레이터 머신 해머"
+msgstr ""
+
+msgctxt "72862258e1acb90539450e8db759ba0a"
+msgid "ID=116453551"
+msgstr ""
+
+msgctxt "355fd68d769d64f4516d82255017302e"
+msgid "해머 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "bcd94c88f07be703d9b5dc32d7f37fd2"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커, 노아의 무기를 참고하여 만든 거대 해머로 노아의 이능이 깃들어 사용자의 소울 에너지로 바람을 발생시키는 힘을 가지고 있다."
+"\\n\\n제 이름은 노아.\\n오리지널인 당신의 힘. 제가 직접 확인해보겠습니다.\\n- 노아 -"
+msgstr ""
+
+msgctxt "8ca97a851f4069be4d384e76afc0b8b1"
+msgid "ID=116451301"
+msgstr ""
+
+msgctxt "d74e74b1bd15fb447cd3d59d962cb6d2"
+msgid "메탈 벌컨"
+msgstr ""
+
+msgctxt "c74115b1734ae2352188e9cdc07d63d0"
+msgid "ID=116452301"
+msgstr ""
+
+msgctxt "2db93e1d922ed252207fa1c0cf565e83"
+msgid "메탈비스트 벌컨"
+msgstr ""
+
+msgctxt "26aac1a47a4c9d7bdc577f8653ca49f6"
+msgid "ID=116463301"
+msgstr ""
+
+msgctxt "a8fab56318412d090db48235040efb9e"
+msgid "어센셔너 머신 해머"
+msgstr ""
+
+msgctxt "2297d4e98cfb511dea7d9a6f981c9418"
+msgid "ID=116473551"
+msgstr ""
+
+msgctxt "a1823f66c35a6c7f077c408ee808aea3"
+msgid "에어리얼 림 디멘터"
+msgstr ""
+
+msgctxt "0dd70df311cf3ebd515381bb5797c175"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커, 에녹의 무기를 참고하여 만든 거대 해머로 공기를 빨아들여 운동 에너지로 전환, 자신의 힘으로 만드는 기능을 가지고는 있다."
+"\\n\\n아아~ 억울해! 나 아직 더 싸울 수 있는데!\\n오리지널! 다음엔 안 봐줄거야!\\n- 에녹 -"
+msgstr ""
+
+msgctxt "4dfa949e50df0eea73ccc6b0b70ad623"
+msgid "ID=116471301"
+msgstr ""
+
+msgctxt "1c0841903ca30bd6055223b84c32635d"
+msgid "샤프니스 벌컨"
+msgstr ""
+
+msgctxt "6000c6486bc9539a9255e5f2e1b61b4a"
+msgid "ID=116472301"
+msgstr ""
+
+msgctxt "9262d69e1fb0c4ddb3b26016b18b6d77"
+msgid "퍼니셔스 벌컨"
+msgstr ""
+
+msgctxt "da8dbd41274750417ed5d8c744467698"
+msgid "ID=116483301"
+msgstr ""
+
+msgctxt "50dfe66716c1633f8cf4ff8aaaf4994b"
+msgid "슈퍼 메카 브레이브 해머"
+msgstr ""
+
+msgctxt "4deeeba5f1f78295194076adfa321f0a"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 거대 "
+"해머 형태의 무기로 육중한 무게 탓에 일반인들은 들어 올릴 수 없지만 소울워커의 소울 에너지에 반응해 그 무게는 한결 가벼워 진다고 한다."
+"\\n이리스 유마가 사용한다.\\n\\n빨간건 3배……. 아니다.\\n-??-"
+msgstr ""
+
+msgctxt "0260c932cc1855884b4a3f6d52338d86"
+msgid "ID=116493551"
+msgstr ""
+
+msgctxt "bdb63a384c7e828b42ef25e239edc435"
+msgid "기간테스 코어 채리엇"
+msgstr ""
+
+msgctxt "0c313405469a689477b2b45d701baa5f"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"무기고에 숨겨져 있던 거대 병기, 슈퍼 아벨의 정보를 토대로 만든 거대 해머로 알 수 없는 용기가 흘러나와 사용자로 하여금 어떠한 적이든 "
+"상대할 수 있을 것만 같은 기분이 들게 한다.\\n\\n가자! 슈퍼 아벨!\\n우리의 힘을 보여주는거야!\\n- 아벨 -"
+msgstr ""
+
+msgctxt "643aeb3be599f768fe54537e66dca84f"
+msgid "ID=116491301"
+msgstr ""
+
+msgctxt "28fabcc6a957a4ff93b0cb38d132dd96"
+msgid "카본 데몰리셔"
+msgstr ""
+
+msgctxt "1c2c319d922872b40a9b96b6f7c39bc5"
+msgid "ID=116492301"
+msgstr ""
+
+msgctxt "b736a2cac08572d8d927a010b079b302"
+msgid "스틸 고스트 데몰리셔"
+msgstr ""
+
+msgctxt "3904d362ab38f6e10124724fa7241888"
+msgid "ID=116503301"
+msgstr ""
+
+msgctxt "f429e7c5b1a93d8213a15bdbbcf26235"
+msgid "어웨이큰 마네스 해머"
+msgstr ""
+
+msgctxt "39cd984437cd6d006a515649312be733"
+msgid "ID=116513551"
+msgstr ""
+
+msgctxt "54e5a141d4b5898f7f2609408a9cf66a"
+msgid "해머 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "002da37d0ec3ef9ed856440a0888b296"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커 노아의 익시드, 퀸 오브 플라워를 참고하여 만든 거대 해머. 질량형 홀로그램을 구현하기 위해서는 막대한 소울 에너지가 필요하기 "
+"때문에 아무리 소울워커라도 일정 능력을 가지지 않는 이상 사용할 수 없는 무기이다.\\n\\n이것이 제 익시드. 질랑형 홀로그램 퀸 오브 "
+"플라워입니다. 아름답죠?\\n- 노아 -"
+msgstr ""
+
+msgctxt "12e00fae853f00fa0410b4b1f5949794"
+msgid "ID=116511301"
+msgstr ""
+
+msgctxt "73d94d6be40f3064133a3771852e38ca"
+msgid "컴포짓 데몰리셔"
+msgstr ""
+
+msgctxt "7fc20bd7c45568a91a255cf2a71b0e12"
+msgid "ID=116512301"
+msgstr ""
+
+msgctxt "42f89ca8c13e06895f6414983133ceec"
+msgid "어썰트 데몰리셔"
+msgstr ""
+
+msgctxt "51d7125ea872bd86c6a66292cc674cb8"
+msgid "ID=116523301"
+msgstr ""
+
+msgctxt "4a55d2ebf8755993e3fae16f831a4dce"
+msgid "인피니트 림 슬로터"
+msgstr ""
+
+msgctxt "d020759d347682e3de4ba2bd4e6dc89f"
+msgid "ID=116533551"
+msgstr ""
+
+msgctxt "cc9be93b8dafbedb6f296b4e37cf4a87"
+msgid "넘버리스 레이 채리엇"
+msgstr ""
+
+msgctxt "06d29a4051a6360f966ef8c23f9c3aac"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 니어 "
+"소울워커 에녹의 익시드, 넘버리스 림을 참고하여 만든 거대 해머로 장치를 통해 공기를 빨아들여 강력한 운동 에너지로 전환시킨다."
+"\\n\\n그 이름하여 넘버리스 림!\\n수십개의 자율 공격 비트가 그대를 유린할지니!\\n- 에녹 -"
+msgstr ""
+
+msgctxt "4bd7a68a64da214b7c0b2e9f8aa54953"
+msgid "ID=116531301"
+msgstr ""
+
+msgctxt "bd7aebd97ae435e423521677fee25a15"
+msgid "티탄 데몰리셔"
+msgstr ""
+
+msgctxt "c22c2caeff6b2a8d3e33e500cd15b578"
+msgid "ID=116532301"
+msgstr ""
+
+msgctxt "baa0ef6dd96d072da9d8a5f453c5c381"
+msgid "메탈 버스터 데몰리셔"
+msgstr ""
+
+msgctxt "c43694c9ccdda632084dd5d62a601163"
+msgid "ID=116543301"
+msgstr ""
+
+msgctxt "a411c24e962bca0834286a5f298b15c2"
+msgid "씰드 레이지 채리엇"
+msgstr ""
+
+msgctxt "5d449be258efbfc8cfde3dea70e743ca"
+msgid "ID=116553551"
+msgstr ""
+
+msgctxt "eb5643ff854d90261b1faff57eae4e5e"
+msgid "글레어즈 포스 리액터"
+msgstr ""
+
+msgctxt "77e344ef0f98d1724ac64670c42a53b7"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"최초, 최강의 니어 소울워커, 시온과의 전투 정보를 토대로 만든 거대 해머로 시온은 이미 사라졌지만 해머의 실린더 안에서 알 수 없는 "
+"박동이 느껴지고 있다.\\n이리스 유마가 사용한다.\\n\\n…뭐, 상관없다.\\n나에게 적의를 드러내는 건 모두 죽이면 돼.\\n- "
+"시온 -"
+msgstr ""
+
+msgctxt "bd2276fa89f339e2d66a097f09b8a8d9"
+msgid "ID=116354451"
+msgstr ""
+
+msgctxt "d8f08d2539a663380ccd41ac1f5f8b2e"
+msgid "그레이브 키퍼 데몰리셔"
+msgstr ""
+
+msgctxt "e2cfdab468de2ef5ed6036f8330cff9f"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발된 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 아직 개발 중인 무기로 개선의 여지가 남아 있다.\\n이리스 유마가 사용한다."
+msgstr ""
+
+msgctxt "a755b1cb2af2ed36b84b7644a1f05754"
+msgid "ID=116454451"
+msgstr ""
+
+msgctxt "1d378ef3eb814c661aa3112fd805e953"
+msgid "그레이브 키퍼 데몰리셔 MKII"
+msgstr ""
+
+msgctxt "6eefc87a20ec96fc69b85f8699500d30"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발된 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 아직 개발 중인 무기로 개선의 여지가 남아 있다.\\n이리스 유마가 사용한다.\\n\\n5년 만이로군. 기록이 갈아엎어진 게."
+"\\n케인바렐 이후로 처음인가.\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "c705305b37b357908f66997f7fce3766"
+msgid "ID=116554451"
+msgstr ""
+
+msgctxt "99b329db3ea58bbe7daf031c5742257c"
+msgid "그레이브 키퍼 데몰리셔 MKIII"
+msgstr ""
+
+msgctxt "3e59646e2cc3bdbd181903dff5095cb1"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발된 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 최종 완성형 무기로 스틸 그레이브의 연구원들은 그 어디에서도 이 이상의 무기를 만들 수 없다고 자부하고 있다.\\n이리스 "
+"유마가 사용한다.\\n\\n저기… 이거 하루만 빌려주면 안될까? 아, 분해하진 않을게!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "8b3821090cccc0c331f40514f7b1988c"
+msgid "ID=116043251"
+msgstr ""
+
+msgctxt "8625e13425caa605e74d554085d90af7"
+msgid "제니스 커스텀 해머"
+msgstr ""
+
+msgctxt "cc84387a1c76e851c613a2ef0da44ddf"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 중포 "
+"형태의 무기로, 크기에 비해 가벼워서 누구나 사용할 수 있는 것처럼 보인다. 하지만 소울워커만이 무기에 담긴 모든 힘을 끌어낼 수 있기 "
+"때문에 아무나 사용할 수 없다.\\n제니스가 직접 설계했다.\\n이리스 유마가 사용한다."
+msgstr ""
+
+msgctxt "eef8092ad3d27fd7e9679be3a9db689e"
+msgid "ID=116554351"
+msgstr ""
+
+msgctxt "adbfcfe994eebdabc189aef7418e4f9a"
+msgid "브루탈 레이지"
+msgstr ""
+
+msgctxt "d5036304226b650e886d41402c349ab1"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 거대한 철포는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다."
+" 대신 강력한 힘에 취해 자신에게 소홀해진다면 깊숙한 곳에 감춰진 마음이 겉으로 드러날 수 있기 때문에 사용에 유의하여야 한다. 이리스 "
+"유마가 사용한다.\\n\\n모든 걸 쏟아부어서... 가루도 남기지 않겠어…!\\n너도... 나도…!\\n\\n- 이리스 유마 - "
+msgstr ""
+
+msgctxt "3955b1e92ea5c9b5ed365d42de71ea60"
+msgid "ID=116554651"
+msgstr ""
+
+msgctxt "13c50598d4be13d04d619092c3c902a7"
+msgid "아우리트 퓨리"
+msgstr ""
+
+msgctxt "01694f7b9693f029e634d6a09baa3936"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n<font color="
+"'#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\\n소울워커 전용 무기. "
+"금색으로 빛나는 하늘에서 가져온 물질로 제작되었다. 마치 빠져들 것만 같은 찬란한 금색과 압도적인 힘은, 마치 사용자에게 신이 된 것만 "
+"같은 기분을 느끼게 해준다. 그 힘에 취해 조금씩, 조금씩 금색으로 물들어갈 것만 같다. 몸도, 마음도….\\n이리스 유마가 사용한다."
+"\\n\\n예로부터 금색은 사람의 마음을 잡아먹는 존재.\\n금색에 물들지 마십시오.\\n- 이오 -"
+msgstr ""
+
+msgctxt "cdbaec418191789758e39db5ddc0de47"
+msgid "ID=116554251"
+msgstr ""
+
+msgctxt "7cbb709c4777d5ef77cb78e3ef5d5140"
+msgid "블러디 인페르노"
+msgstr ""
+
+msgctxt "260f1e96b6cc64724de18b026c31d0f4"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 더 "
+"씽의 잔해로 만들어진 무기로 더 씽에게 희생된 수많은 사람의 원한과 분노가 깃들어 있다. 그로 인한 것인지 완성된 후 시간이 지나자 "
+"저절로 무기가 검고 붉은색으로 변해버렸다. 이리스 유마가 사용한다.\\n\\n우리의 죽음이 살아남은 사람들에게 전해질 수 있기를...."
+"\\n- ??? -"
+msgstr ""
+
+msgctxt "5c323e8e92f1bb5d3f5124b9ac9103ad"
+msgid "ID=116553651"
+msgstr ""
+
+msgctxt "d141fd05f619a6b163e6fc7578fac5a2"
+msgid "데이브레이크 해머"
+msgstr ""
+
+msgctxt "f41cc200b2c09f5394b03e137a5c1cde"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 검 "
+"형태의 무기로, 크기에 비해 가벼워서 누구나 사용할 수 있는 것처럼 보인다. 하지만 소울워커만이 무기에 담긴 모든 힘을 끌어낼 수 있기 "
+"때문에 아무나 사용할 수 없다.\\n이리스 유마가 사용한다."
+msgstr ""
+
+msgctxt "02b1cd61349f24d949685fb83bf86a24"
+msgid "ID=116555351"
+msgstr ""
+
+msgctxt "f1e18f74c792e8118168b7bf165fba38"
+msgid "디바우러스 모나크"
+msgstr ""
+
+msgctxt "6534ad48b58114573fd7f8e29ab89f9c"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n<font color="
+"'#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\\n소울워커 전용 무기. 더 "
+"프라이멀의 에너지가 융합된 잔해로 제작한 무기로 이상 공백의 특이 에너지를 흡수하여 종래의 무기와는 다른 강력한 힘을 가지고 있다. 다만 "
+"주의하지 않는다면 힘에 먹혀버릴 수 있어 취급에 주의가 필요하다. 이리스 유마가 사용한다.\\n\\n절망의 늪에서 허우적거리는 나의 "
+"그림자를 보았다.\\n- ??? -"
+msgstr ""
+
+msgctxt "c21ea3a655f0f9108f09ff63f7e89735"
+msgid "ID=263050702"
+msgstr ""
+
+msgctxt "0f4d34afc02199b8d21e060753cfaff6"
+msgid "[수선된 이리스의 교복 A]상의"
+msgstr ""
+
+msgctxt "b0dfbd87f00d0f7a84f9db22d1b52e53"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n찢어져 있던 이리스의 뷰로넨 고교 하복 "
+"상의를 수선한 옷이다. 새것 같지는 않지만, 이전보다는 나은 것 같다."
+msgstr ""
+
+msgctxt "3a18f5b265cb6d3b2996d0b15976e505"
+msgid "ID=263050802"
+msgstr ""
+
+msgctxt "2f8ae6f358866160f37cb0f74834bab5"
+msgid "[수선된 이리스의 교복 A]치마"
+msgstr ""
+
+msgctxt "1bae5f9d6406a8802b649c9352deb9d0"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n찢어져 있던 이리스의 뷰로넨 고교 하복 "
+"치마를 수선한 옷이다. 새것 같지는 않지만, 이전보다는 나은 것 같다."
+msgstr ""
+
+msgctxt "fe588ffe82848ca3afb031a121bb8a56"
+msgid "ID=263051102"
+msgstr ""
+
+msgctxt "a1f7348355f6b10600da98f74fd3ae13"
+msgid "[수선된 이리스의 교복 A]니삭스"
+msgstr ""
+
+msgctxt "e2d234c960ee5a92354d0d564b7246da"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n찢어져 있던 이리스의 뷰로넨 고교 하복 "
+"니삭스를 수선한 옷이다. 새것 같지는 않지만, 이전보다는 나은 것 같다."
+msgstr ""
+
+msgctxt "0fee4ff0fcc324aefdbf871e94a83def"
+msgid "ID=261010601"
+msgstr ""
+
+msgctxt "354bb1e5bee0dffeba3034d913e9c962"
+msgid "핑크 레이스 언더웨어"
+msgstr ""
+
+msgctxt "728f23386cc4a64067b252fc81172ec0"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 핑크 레이스 언더웨어. 왜인지는 "
+"모르지만, 이리스만 입을 수 있다.\\n\\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\\n또한, 마이룸의 가구 중 "
+"욕조와 샤워 부스 사용 시에도 확인할 수 있다."
+msgstr ""
+
+msgctxt "b1d6d8d3ab4a409ffdf90966891c75d1"
+msgid "ID=261011701"
+msgstr ""
+
+msgctxt "4d9014ef00a112c035d1cc6d253c3eaa"
+msgid "ID=261020601"
+msgstr ""
+
+msgctxt "1a1414ac934f83b7b661a0e0c928654e"
+msgid "레드 체크 언더웨어"
+msgstr ""
+
+msgctxt "6c2930d17c4dd0a5de607664cac204fd"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 레드 체크 언더웨어. 왜인지는 "
+"모르지만, 이리스만 입을 수 있다.\\n\\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\\n또한, 마이룸의 가구 중 "
+"욕조와 샤워 부스 사용 시에도 확인할 수 있다."
+msgstr ""
+
+msgctxt "e1f8dbb745a263f2f2b0bed90a4aeeb3"
+msgid "ID=261021701"
+msgstr ""
+
+msgctxt "87ac034dbbbf0b843d38f803c1aadac0"
+msgid "ID=261030601"
+msgstr ""
+
+msgctxt "b56f5431584c40d35c59024b3cd4b86b"
+msgid "스타 블루 언더웨어"
+msgstr ""
+
+msgctxt "d6c32dea695fe921a3e9eef326d8b72a"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 스타 블루 언더웨어. 왜인지는 "
+"모르지만, 이리스만 입을 수 있다.\\n\\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\\n또한, 마이룸의 가구 중 "
+"욕조와 샤워 부스 사용 시에도 확인할 수 있다."
+msgstr ""
+
+msgctxt "c1158ee22147385cf4f406024d95b6cf"
+msgid "ID=261031701"
+msgstr ""
+
+msgctxt "a2660ceb3c36da7c4c59f0465eacc52c"
+msgid "ID=261040601"
+msgstr ""
+
+msgctxt "50cc8c70a0631ddf225ef2a409cd7397"
+msgid "큐티 레이스 언더웨어"
+msgstr ""
+
+msgctxt "f96e2af661c5049b6baaf625b4755250"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 큐티 레이스 언더웨어. 왜인지는 "
+"모르지만, 이리스만 입을 수 있다.\\n\\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\\n또한, 마이룸의 가구 중 "
+"욕조와 샤워 부스 사용 시에도 확인할 수 있다."
+msgstr ""
+
+msgctxt "6afc08de6c89e6c8a227e9de7d007c56"
+msgid "ID=261041701"
+msgstr ""
+
+msgctxt "3307507e65c7ad855ecc2e43f30662ca"
+msgid "ID=261050601"
+msgstr ""
+
+msgctxt "79fd59a7c0775f7f9ce013945f543b15"
+msgid "레오파드 언더웨어"
+msgstr ""
+
+msgctxt "7c04dfa8913c72110494285d568be9bb"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 레오파드 언더웨어. 왜인지는 "
+"모르지만, 이리스만 입을 수 있다.\\n\\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\\n또한, 마이룸의 가구 중 "
+"욕조와 샤워 부스 사용 시에도 확인할 수 있다."
+msgstr ""
+
+msgctxt "75056c29ff48d44f48a1fa73daf44545"
+msgid "ID=261060601"
+msgstr ""
+
+msgctxt "9b77a6ca5b145eda2dabe1e1f21c1ffc"
+msgid "오랜지 언더웨어"
+msgstr ""
+
+msgctxt "9fe1fce0b9d1e4c8df64f70c260dc12a"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 오렌지 언더웨어. 왜인지는 "
+"모르지만, 이리스만 입을 수 있다.\\n\\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\\n또한, 마이룸의 가구 중 "
+"욕조와 샤워 부스 사용 시에도 확인할 수 있다."
+msgstr ""
+
+msgctxt "a89c22a55b0f236dd75cb0043f40563a"
+msgid "ID=261070601"
+msgstr ""
+
+msgctxt "d2f2ba28367767cd4c6238b48e7a2647"
+msgid "바이올렛 언더웨어"
+msgstr ""
+
+msgctxt "8d99ed0bcece2487bbb1f3a987c271f6"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 바이올렛 언더웨어. 왜인지는 "
+"모르지만, 이리스만 입을 수 있다.\\n\\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\\n또한, 마이룸의 가구 중 "
+"욕조와 샤워 부스 사용 시에도 확인할 수 있다."
+msgstr ""
+
+msgctxt "dd83512e4e49d5fb01882027cffb2db6"
+msgid "ID=261080601"
+msgstr ""
+
+msgctxt "45b20bd31f88bda799d28de3b02242e9"
+msgid "블루 플라워 언더웨어"
+msgstr ""
+
+msgctxt "08559a1e97ae20d2a6259fd9c23504a4"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 블루 플라워 언더웨어. 왜인지는 "
+"모르지만, 이리스만 입을 수 있다.\\n\\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\\n또한, 마이룸의 가구 중 "
+"욕조와 샤워 부스 사용 시에도 확인할 수 있다."
+msgstr ""
+
+msgctxt "3cc23c000967169ab7f044dddbc7e7db"
+msgid "ID=261090601"
+msgstr ""
+
+msgctxt "3400d13e1317d686a1f71e3d52cfc30d"
+msgid "플라맹코 언더웨어"
+msgstr ""
+
+msgctxt "0c30bc6c4a743568008c749bcad2c654"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 플라맹코 언더웨어. 왜인지는 "
+"모르지만, 이리스만 입을 수 있다.\\n\\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\\n또한, 마이룸의 가구 중 "
+"욕조와 샤워 부스 사용 시에도 확인할 수 있다."
+msgstr ""
+
+msgctxt "43f14d955f2ec3cb34a153699d51e0fc"
+msgid "ID=261100601"
+msgstr ""
+
+msgctxt "324c299e0fc053a8c6953ef10bcf5d87"
+msgid "퓨어 핑크 언더웨어"
+msgstr ""
+
+msgctxt "b8e28bf89ee17ae9ce337bb192c3ea11"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 퓨어 핑크. 왜인지는 모르지만, "
+"이리스만 입을 수 있다.\\n\\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\\n또한, 마이룸의 가구 중 욕조와 샤워 "
+"부스 사용 시에도 확인할 수 있다."
+msgstr ""
+
+msgctxt "3b2122aa918edb038dc331dceeb7e890"
+msgid "ID=261110601"
+msgstr ""
+
+msgctxt "446c1b9727c8788ba1f889ec1bb31607"
+msgid "퓨어 스카이 언더웨어"
+msgstr ""
+
+msgctxt "dd5e0e768f59d8b4b8e64c3afe41ab32"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 퓨어 스카이. 왜인지는 "
+"모르지만, 이리스만 입을 수 있다.\\n\\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\\n또한, 마이룸의 가구 중 "
+"욕조와 샤워 부스 사용 시에도 확인할 수 있다."
+msgstr ""
+
+msgctxt "d1833b152d8f3d1cde63190a9d08d37c"
+msgid "ID=261120601"
+msgstr ""
+
+msgctxt "4506dcb488f242d80e7f6ec3c10d9e33"
+msgid "스트라이프 언더웨어"
+msgstr ""
+
+msgctxt "42102866a7030af02130c0b84047d01b"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 스트라이프 언더웨어. 왜인지는 "
+"모르지만, 이리스만 입을 수 있다.\\n\\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\\n또 한, 마이룸의 가구 중 "
+"욕조와 샤워 부스 사용 시에도 확인할 수 있다."
+msgstr ""
+
+msgctxt "bc21c5c3c10c78916e22eafbe70d9ec0"
+msgid "ID=261010701"
+msgstr ""
+
+msgctxt "00fce69b3dae0940092b8e6a7628f762"
+msgid "[이리스의 교복 A]상의"
+msgstr ""
+
+msgctxt "1f803c8252ff646e9168d4cf7aa828bb"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 고등학교, 뷰로넨 고교의 하복 "
+"상의이다. 공백에서 떨어질 때 입고 있던 옷답게 찢어져 있다."
+msgstr ""
+
+msgctxt "2dbeeaf6c4bae3017cdaf0333452a295"
+msgid "ID=261010801"
+msgstr ""
+
+msgctxt "96916f3a5a922fe4e8416f5584211d1c"
+msgid "[이리스의 교복 A]치마"
+msgstr ""
+
+msgctxt "6e5b2fe6eb936402f8dd82bd3895988c"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 고등학교, 뷰로넨 고교의 하복 "
+"치마이다. 공백에서 떨어질 때 입고 있던 옷답게 찢어져 있다."
+msgstr ""
+
+msgctxt "226906fe304c2bd3b4dc121300cb3d55"
+msgid "ID=261011101"
+msgstr ""
+
+msgctxt "f159a791417c5f2fbfd8ad32581620fe"
+msgid "[이리스의 교복 A]니삭스"
+msgstr ""
+
+msgctxt "f38b9f0692ccb77c3aad87f542307853"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 고등학교, 뷰로넨 고교의 하복 "
+"니삭스이다. 공백에서 떨어질 때 입고 있던 옷답게 찢어져 있다."
+msgstr ""
+
+msgctxt "1ed502b72831a478cf89d246ef7d0e66"
+msgid "ID=261011201"
+msgstr ""
+
+msgctxt "143dca8a8062c5acb6c27bd0b7adde41"
+msgid "[이리스의 교복 A]구두"
+msgstr ""
+
+msgctxt "6466bbb3496d7f00ef8b1656e4936161"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 고등학교, 뷰로넨 고교의 하복 "
+"구두이다. 공백에서 떨어질 때 신고 있던 것치곤 보존이 잘되어 있다."
+msgstr ""
+
+msgctxt "7c529bfb1aeb43afe9cd13091be7db2a"
+msgid "ID=261020701"
+msgstr ""
+
+msgctxt "5b4bb4e18d43ebe48df29acdac6d73d1"
+msgid "[이리스의 교복 B]상의"
+msgstr ""
+
+msgctxt "c5da46cd92481e85772994a94b791e46"
+msgid "ID=261020801"
+msgstr ""
+
+msgctxt "424586cb712fe4cf2ab50f248196cb23"
+msgid "[이리스의 교복 B]치마"
+msgstr ""
+
+msgctxt "06072a7e8ddc1f1b80b2e11dc9e5092d"
+msgid "ID=261021101"
+msgstr ""
+
+msgctxt "f530864e92ea53972afb1a2107830f1c"
+msgid "[이리스의 교복 B]니삭스"
+msgstr ""
+
+msgctxt "b405769f59583c2bc57787042726bffc"
+msgid "ID=261021201"
+msgstr ""
+
+msgctxt "6ab96bc85282456cac8a60e149f20322"
+msgid "[이리스의 교복 B]구두"
+msgstr ""
+
+msgctxt "adf1bd72733a98c5f47eba95194c3e6a"
+msgid "ID=261030701"
+msgstr ""
+
+msgctxt "66551b59ca258ae9777d3519ab41d866"
+msgid "[이리스의 교복 C]상의"
+msgstr ""
+
+msgctxt "e40c95a1cdcbbe836303596dce0c5827"
+msgid "ID=261030801"
+msgstr ""
+
+msgctxt "711bebc69e836804505b67d37feed986"
+msgid "[이리스의 교복 C]치마"
+msgstr ""
+
+msgctxt "c02a89086e23285fa6553f6dcf1e88c8"
+msgid "ID=261031101"
+msgstr ""
+
+msgctxt "96e4649dc62860a4d14b78da17cd603a"
+msgid "[이리스의 교복 C]니삭스"
+msgstr ""
+
+msgctxt "ce7dc4b97061faefc2e5e2150cb87db9"
+msgid "ID=261031201"
+msgstr ""
+
+msgctxt "7d2ed9b4a94c49cc3d514389d6674532"
+msgid "[이리스의 교복 C]구두"
+msgstr ""
+
+msgctxt "19c61253097a3fa15c5989133e7523b8"
+msgid "ID=261040701"
+msgstr ""
+
+msgctxt "e9b631d4becb97f810b0f4c2bdb1737d"
+msgid "[이리스의 교복 D]상의"
+msgstr ""
+
+msgctxt "ba4918bbff5eb729ba71900661132588"
+msgid "ID=261040801"
+msgstr ""
+
+msgctxt "8bafd61dc81f1c2f4779db7b0dae8f9b"
+msgid "[이리스의 교복 D]치마"
+msgstr ""
+
+msgctxt "1838c930d3a0b2aceea6be248cb08876"
+msgid "ID=261041101"
+msgstr ""
+
+msgctxt "9f89d785bd054ac9bf9cea096a4ca3b4"
+msgid "[이리스의 교복 D]니삭스"
+msgstr ""
+
+msgctxt "25092515aaf30c027e28a68ddf7593c5"
+msgid "ID=261041201"
+msgstr ""
+
+msgctxt "3cbf549e9c0fdfcd1f88b25e45f92fc1"
+msgid "[이리스의 교복 D]구두"
+msgstr ""
+
+msgctxt "7d99b23bc66741d2bf12f600ccb18e01"
+msgid "ID=261050901"
+msgstr ""
+
+msgctxt "59608135ce33ec18001efc775dd70ad3"
+msgid "[해방된 분노의 망치]의상"
+msgstr ""
+
+msgctxt "78f49c249292b9db7917c9f4f42e8bfd"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 소울 에너지가 극대화되어 담긴 "
+"의상. 상-하의를 동시에 착용할 수 있다.\\n어째서인지 인벤토리에 보관 후 3일이 지나면 사라져버린다."
+msgstr ""
+
+msgctxt "05fd9123b062aa193588a7ffe25575dc"
+msgid "ID=261050801"
+msgstr ""
+
+msgctxt "bb0359ba1a4db8745e487d6829421777"
+msgid "[해방된 분노의 망치]하의 "
+msgstr ""
+
+msgctxt "d4d7d3d797e7d78f80a4ce1509632071"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 소울 에너지가 극대화되어 담긴 "
+"의상의 하의.\\n어째서인지 인벤토리에 보관 후 3일이 지나면 사라져버린다."
+msgstr ""
+
+msgctxt "9f0540f69b921203844b47a762183344"
+msgid "ID=261051101"
+msgstr ""
+
+msgctxt "6bd6a2a8bee7fa900f3b6f829e8aa23d"
+msgid "[해방된 분노의 망치]니삭스"
+msgstr ""
+
+msgctxt "1e1ab4914556e31f1e7486b955b96593"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 소울 에너지가 극대화되어 담긴 "
+"의상의 양말.\\n어째서인지 인벤토리에 보관 후 3일이 지나면 사라져버린다."
+msgstr ""
+
+msgctxt "2426cefc9518b540578382e55fd2c57d"
+msgid "ID=261051201"
+msgstr ""
+
+msgctxt "5bdfaf4687847015e5e79c34d07c7a18"
+msgid "[해방된 분노의 망치]부츠"
+msgstr ""
+
+msgctxt "4b3d754a10950a9cdf98251d641f2bd2"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n이리스의 소울 에너지가 극대화되어 담긴 "
+"의상의 신발.\\n어째서인지 인벤토리에 보관 후 3일이 지나면 사라져버린다."
+msgstr ""
+
+msgctxt "b9f427a67ad27558c95a77be415491f1"
+msgid "ID=261060101"
+msgstr ""
+
+msgctxt "641a795453cb3954823f67d55226cc77"
+msgid "[상인연합 유니폼]캡모자"
+msgstr ""
+
+msgctxt "95efa21cfef1d74f2fe178bc888ba312"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n상인연합이 친애의 의미로 준 의상의 "
+"캡모자. 이걸 입으면 왠지 상인연합에서 아르바이트해야만 할 것 같은 기분이 든다.\\n어째서인지 인벤토리에 보관 후 3일이 지나면 "
+"사라져버린다."
+msgstr ""
+
+msgctxt "0d5ad0536a54e708cdfced37d05b99c7"
+msgid "ID=261060701"
+msgstr ""
+
+msgctxt "117fdfcedae253d295ada865646d8d36"
+msgid "[상인연합 유니폼]상의"
+msgstr ""
+
+msgctxt "c649e3bbcf44ee8226799166453b6d1f"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n상인연합이 친애의 의미로 준 의상의 상의."
+" 이걸 입으면 왠지 상인연합에서 아르바이트해야만 할 것 같은 기분이 든다.\\n어째서인지 인벤토리에 보관 후 3일이 지나면 사라져버린다."
+msgstr ""
+
+msgctxt "533f8788fd1521bd4ba3a2c9d91394ef"
+msgid "ID=261060801"
+msgstr ""
+
+msgctxt "5fe44b7a09848b5ca8945c614bee21a0"
+msgid "[상인연합 유니폼]치마"
+msgstr ""
+
+msgctxt "c0e3e7ccb2c4d5cb2e4a1e70b4a96288"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n상인연합이 친애의 의미로 준 의상의 치마."
+" 이걸 입으면 왠지 상인연합에서 아르바이트해야만 할 것 같은 기분이 든다.\\n어째서인지 인벤토리에 보관 후 3일이 지나면 사라져버린다."
+msgstr ""
+
+msgctxt "9bb52cb3b06436b7532502223ff26613"
+msgid "ID=261061101"
+msgstr ""
+
+msgctxt "59a9dfbd7a96000aa367f30f82729154"
+msgid "[상인연합 유니폼]니삭스"
+msgstr ""
+
+msgctxt "1fe5505f240eec248defff2be3f9ec16"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n상인연합이 친애의 의미로 준 의상의 "
+"니삭스. 이걸 입으면 왠지 상인연합에서 아르바이트해야만 할 것 같은 기분이 든다.\\n어째서인지 인벤토리에 보관 후 3일이 지나면 "
+"사라져버린다."
+msgstr ""
+
+msgctxt "3a06f0aac4a0614d043bf5dfc4a7ef71"
+msgid "ID=261061201"
+msgstr ""
+
+msgctxt "5a24ad64e6065e577e6b0c8a75bad277"
+msgid "[상인연합 유니폼]운동화"
+msgstr ""
+
+msgctxt "60e917aa82d3b59e5c1d1330b1f59460"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n상인연합이 친애의 의미로 준 의상의 "
+"운동화. 이걸 입으면 왠지 상인연합에서 아르바이트해야만 할 것 같은 기분이 든다.\\n어째서인지 인벤토리에 보관 후 3일이 지나면 "
+"사라져버린다."
+msgstr ""
+
+msgctxt "e0852b14afd2f7e97f2845e441830578"
+msgid "ID=261070701"
+msgstr ""
+
+msgctxt "afb38769450a0e6be2c646720d4fbd01"
+msgid "[별숲리그 구식 군복]상의"
+msgstr ""
+
+msgctxt "93acd3c93695aaca7dd1437431e4a272"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n별숲리그에서 준 구식 군복의 상의. "
+"구식이어서 그런지 오래된 느낌이 든다.\\n어째서인지 인벤토리에 보관 후 3일이 지나면 사라져버린다."
+msgstr ""
+
+msgctxt "a69168a91dbd3920a5edc34281736f5e"
+msgid "ID=261070801"
+msgstr ""
+
+msgctxt "778adb3eed3af10b02f99e494bde229a"
+msgid "[별숲리그 구식 군복]치마"
+msgstr ""
+
+msgctxt "bffa69ee8b4c46e118e4d5ad1b1f5161"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n별숲리그에서 준 구식 군복의 치마. "
+"구식이어서 그런지 오래된 느낌이 든다.\\n어째서인지 인벤토리에 보관 후 3일이 지나면 사라져버린다."
+msgstr ""
+
+msgctxt "f211214d56eb4dbc66c1760151ac6594"
+msgid "ID=261071201"
+msgstr ""
+
