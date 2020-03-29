@@ -1,0 +1,3351 @@
+0
+
+[Star Forest League Old Military Uniform] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\n Old Fashioned military boots given by Star forest league. It's old fashioned, so it feels old.\n For some reason, they disappear after 3 days of use from the inventory.
+
+ID=261080101
+
+[Fresh Starter] Hat
+
+<font color='#FFBA85'>[Appearence]<font color='#9D927B'>\n\n A hat that may make you look like a fresh newbie as if you were just entering kindergarten.
+
+ID=261081001
+
+[Fresh Starter] Randosel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRandosel might make her look like a fresh newbie, just as if she had just entered kindergarten.
+
+ID=262010101
+
+[Miner's Clothing] Safety Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hat that is worn by miners.
+
+ID=262010401
+
+[Miner's Clothing] Dust Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is a dust mask, a mask worn by miners.
+
+ID=262010901
+
+[Miner's Clothing] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is a costume worn by miners. Top and bottom can be worn at the same time.
+
+ID=262010501
+
+[Miner's Clothing] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThes are gloves worn by miners.
+
+ID=262011201
+
+[Miner's Clothing] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA pair of boots worn by miners.
+
+ID=262011301
+
+[Miner's Clothing] Accessory
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt is a hip accessory worn by miners.
+
+ID=262020301
+
+[Ned Company Mercenary Outfit] Goggles
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGoggles worn by Ned Company mercenaries. They're strong like the Ned Company is.
+
+ID=262020401
+
+[Ned Company Mercenary Outfit] Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nMask worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=262020901
+
+[Ned Company Mercenary Outfit] Costume 
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nNed Company Mercenary costume. It is strong like the Ned Company is. Top and bottom can be worn at the same time.
+
+ID=262020501
+
+[Ned Company Mercenary Outfit] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=262021201
+
+[Ned Company Mercenary Outfit] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=262021301
+
+[Ned Company Mercenary Outfit] Walkie Talkie Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA walkie talkie bag worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=262030101
+
+[Star Forest League Regular Uniform] Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCeremony Cap of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=262030701
+
+[Star Forest League Regular Uniform] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular military uniform given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=262030801
+
+[Star Forest League Regular Uniform] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular Military bottom given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=262030301
+
+[Star Forest League Regular Uniform] Officer Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOfficer's Glasses of the Regular Military Uniform given by Star Forest League. If you put it on, I think I can make a good punch.
+
+ID=262030501
+
+[Star Forest League Regular Uniform] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=262031101
+
+[Star Forest League Regular Uniform] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStockings of regular military uniforms given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=262031201
+
+[Star Forest League Regular Uniform] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular Military Shoes given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=262031601
+
+[Star Forest League Regular Uniform] Officer's Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOfficer's Hat from the Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=262031001
+
+[Star Forest League Regular Uniform] Communication Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCommunication Bag of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=263030701
+
+[Modern Casual] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nTops of modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=263030801
+
+[Modern Casual] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe bottom of the modern casual girls clothes which are likely to be worn by trendy women. It's alright but it can look nice.
+
+ID=263031101
+
+[Modern Casual] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStockings of modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=263030501
+
+[Modern Casual] Bracelets
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBracelets of modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=263031201
+
+[Modern Casual] Casual Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCasual shoes in modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=263050701
+
+[Iris's Repaired Uniform A] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIris's repaired high school uniform top. It doesn't look new but it looks better than before.
+
+ID=263050801
+
+[Iris's Repaired Uniform A] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIris's repaired high school uniform skirt. It doesn't look new but it looks better than before.
+
+ID=263051101
+
+[Iris's Repaired Uniform A] Knee socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIris's repaired high school uniform Knee socks. It doesn't look new but it looks better than before.
+
+ID=263060701
+
+[Iris's Repaired Uniform B] Top
+
+ID=263060801
+
+[Iris's Uniform B] Skirt
+
+ID=263061101
+
+[수선된 이리스의 교복 B]니삭스
+
+ID=263070701
+
+[수선된 이리스의 교복 C]상의
+
+ID=263070801
+
+[수선된 이리스의 교복 C]치마
+
+ID=263071101
+
+[수선된 이리스의 교복 C]니삭스
+
+ID=263080701
+
+[수선된 이리스의 교복 D]상의
+
+ID=263080801
+
+[수선된 이리스의 교복 D]치마
+
+ID=263081101
+
+[수선된 이리스의 교복 D]니삭스
+
+ID=263090901
+
+[뷰티 스쿨 룩]의상
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n만화 속 사립학교에서나 입을 것 같은 교복의 의상. 왠지 가격도 일반 교복보다 훨씬 비쌀 것 같다. 상-하의를 동시에 착용할 수 있다.
+
+ID=263090101
+
+[뷰티 스쿨 룩]모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n만화 속 사립학교에서나 입을 것 같은 교복의 모자. 왠지 가격도 일반 교복보다 훨씬 비쌀 것 같다.
+
+ID=263091101
+
+[뷰티 스쿨 룩]스타킹
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n만화 속 사립학교에서나 입을 것 같은 교복의 스타킹. 왠지 가격도 일반 교복보다 훨씬 비쌀 것 같다.
+
+ID=263091201
+
+[뷰티 스쿨 룩]신발
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n만화 속 사립학교에서나 입을 것 같은 교복의 신발. 왠지 가격도 일반 교복보다 훨씬 비쌀 것 같다.
+
+ID=263100901
+
+[해방된 분노의 망치]의상
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이리스의 소울 에너지가 극대화되어 담긴 의상. 상-하의를 동시에 착용할 수 있다.
+
+ID=263100801
+
+[해방된 분노의 망치]하의
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이리스의 소울 에너지가 극대화되어 담긴 의상의 하의.
+
+ID=263101101
+
+[해방된 분노의 망치]니삭스
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이리스의 소울 에너지가 극대화되어 담긴 의상의 양말.
+
+ID=263101201
+
+[해방된 분노의 망치]부츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이리스의 소울 에너지가 극대화되어 담긴 의상의 신발.
+
+ID=263110101
+
+[상인연합 유니폼]캡모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n상인연합이 친애의 의미로 준 의상의 캡모자. 이걸 입으면 왠지 상인연합에서 아르바이트해야만 할 것 같은 기분이 든다.
+
+ID=263110701
+
+[상인연합 유니폼]상의
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n상인연합이 친애의 의미로 준 의상의 상의. 이걸 입으면 왠지 상인연합에서 아르바이트해야만 할 것 같은 기분이 든다.
+
+ID=263110801
+
+[상인연합 유니폼]치마
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n상인연합이 친애의 의미로 준 의상의 치마. 이걸 입으면 왠지 상인연합에서 아르바이트해야만 할 것 같은 기분이 든다.
+
+ID=263111101
+
+[상인연합 유니폼]니삭스
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n상인연합이 친애의 의미로 준 의상의 니삭스. 이걸 입으면 왠지 상인연합에서 아르바이트해야만 할 것 같은 기분이 든다.
+
+ID=263111201
+
+[상인연합 유니폼]운동화
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n상인연합이 친애의 의미로 준 의상의 운동화. 이걸 입으면 왠지 상인연합에서 아르바이트해야만 할 것 같은 기분이 든다.
+
+ID=263120701
+
+[별숲리그 구식 군복]상의
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n별숲리그에서 준 구식 군복의 상의. 구식이어서 그런지 오래된 느낌이 든다.
+
+ID=263120801
+
+[별숲리그 구식 군복]치마
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n별숲리그에서 준 구식 군복의 치마. 구식이어서 그런지 오래된 느낌이 든다.
+
+ID=263121201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n별숲리그에서 준 구식 군복의 부츠. 구식이어서 그런지 오래된 느낌이 든다.
+
+ID=261691001
+
+[EV]그루톤 백팩
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n그루톤을 본떠 만든 백팩. 얼핏 보면 귀여워 보일 수 있으나, 제대로 보면 정말로 살아있는 그루톤 같아서 무시무시하게 느껴질 수도 있다.
+
+ID=263210901
+
+[파자마]나른한 파자마
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n입고 있으면 잠이 와서 견딜 수가 없을 것 같은 파자마. 매우 편해 보인다. 그저 눕고 싶다.
+
+ID=263211201
+
+[파자마]실내용 슬리퍼
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n실내용 슬리퍼. 이걸 신은 채 화장실과 방 사이를 왔다 갔다 하진 말아줬으면 좋겠다.
+
+ID=261090701
+
+흰색 반팔 티셔츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n매우 일반적인 느낌을 강조하는 흰색 반팔 티셔츠. 매우 일반적이지만 이 일반적인 옷을 입고도 예뻐 보이면 정말 미인이라는 말이 있다. 미인에 도전해 보자.
+
+ID=261100701
+
+체크 남방
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n매우 일반적인 느낌을 강조하는 체크 남방. 함께 착용하는 하의와 액세서리에 따라 최악의 패션과 최고의 패션을 넘나들 수 있다.
+
+ID=261110701
+
+스트라이프 티셔츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n매우 일반적인 느낌을 강조하는 스트라이프 티셔츠. 기본 티를 이야기할 때 빠지지 않고 랭크에 등장하는 데에는 다 이유가 있는 법이다. 화려한 옷들 사이에서 수수한 매력을 강조할 수 있다. 
+
+ID=261120801
+
+아이보리 스키니 진
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n아이보리색의 스키니 진. 피부색이 바지 색과 같다면 얼핏 봤을 때 안입고 있는 것처럼 보일지도 모르니 피부색에 따라 착용에 유의하여야 한다.
+
+ID=261130801
+
+브라운 면 반바지
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n짐이 가득 담긴 배낭을 메고 탐험을 떠나야만 할 것 같은 브라운 면 반바지. 매우 시원해 보인다.
+
+ID=261140801
+
+블랙 슬랙스
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n잘 입으면 패션 피플, 잘 못 입으면 패션 테러리스트가 될 수 있는 블랙 슬랙스. 잘만 입으면 세련돼 보일 수 있다.
+
+ID=261142701
+
+ID=261150101
+
+초록 새싹
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n매우 싱싱해 보이는 초록 새싹. 머리 위에 흙이 있는 게 아닌지 의심이 될 수 있다.
+
+ID=261160101
+
+별 머리띠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n크리스마스트리에 달아야 할 것만 같은 별이 달린 머리띠. 착용 시 귀여워 보이긴 하지만 사람에 따라 다를 수 있으니 주의.
+
+ID=261170101
+
+민들레 꽃
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n매우 싱싱해 보이는 민들레 꽃. 머리의 양분을 먹고 자라는 것이 아닌지 의심이 되지 않을 수 없다.
+
+ID=261180101
+
+미니 우산
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n칵테일 잔에 꽂아 놓아야 할 것만 같은 미니 우산. 머리 위에 꽂아 놓긴 했지만 비를 막아 줄 것 같진 않다.
+
+ID=261190101
+
+왕 리본
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n어느 동화세계의 여성형 생쥐의 머리에 있을 것만 같은 왕 리본. 성별을 불문하고 착용 시 매우 부담스러워 보일 수 있다.
+
+ID=261200301
+
+하트 모양 안경
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n놀이동산에 놀러 가야 할 것만 같은 하트 모양의 안경. 쓰는 이에 따라 매우 웃겨 보일 수도 귀엽게 보일 수도 있다.
+
+ID=261210301
+
+별 모양 안경
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n놀이동산에 놀러 가야 할 것만 같은 별 모양의 안경. 행사를 진행하는 아르바이트생으로 오해받을 수 있으니 주의.
+
+ID=261220301
+
+음모를 꾸미는 안경
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n착용하면 음모를 꾸밀 것만 같이 느껴지는 안경이다. 왠지 반짝하고 빛이 나면서 BGM이 흘러나올 것만 같다.
+
+ID=261230301
+
+직각 네모 안경
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n너무 직각이어서 일반적이지 못한 직각 네모 안경이다. 각진 얼굴형이 착용하면 더 각져 보일 수 있으므로 주의.
+
+ID=261240301
+
+코주부 안경
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n개그용으로 자주 사용되는 코주부 안경이다. 아무리 잘생기고 예뻐도 이것을 착용하면 망가질 수 있다.
+
+ID=261251301
+
+갈색 가죽 힙색
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n고급 가죽으로 만들어진 힙색이다. 재질은 고급이나 멀리서 보면 무난하게 느껴진다.
+
+ID=261261301
+
+원통형 힙색
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n갈색의 원통형 힙색이다. 떨어뜨리면 쉽게 굴러가 버릴지도 모르니 주의.
+
+ID=261271301
+
+음료수 캔
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n음료수 캔을 담아 둘 수 있는 힙색. 음료를 다 마시지 않고 캔을 넣어두면 엉덩이에 대참사가 일어날 수 있으니 주의.
+
+ID=261281301
+
+종이 뭉치
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n중요한 전달사항이나 지도가 그려져 있을 것만 같은 종이 뭉치. 하지만 실상은 아무런 내용도 쓰여있지 않다.
+
+ID=261291301
+
+니트 힙색
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n니트 소재로 만들어진 힙색. 무거운 물건을 넣어놓으면 쉽게 늘어질 수 있으니 주의 요망.
+
+ID=261300501
+
+큐어 젤리 팔찌
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n큐어 젤리 모양의 펜던트가 달린 팔찌. 왠지 모르게 치유가 되는 느낌이 든다.
+
+ID=261311301
+
+메디 박스 힙색
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n메디 박스를 쉽게 가지고 이동할 수 있도록 만든 메디 박스 힙색. 언제 어디서든 다친 곳을 치료할 수 있을 것만 같다.
+
+ID=261320101
+
+돈 보따리 모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n착용하면 머리가 무겁고 목 디스크가 걸릴 것 같지만 왠지 모르게 부자가 된 느낌이 드는 돈 보따리 모자.
+
+ID=261330101
+
+VVIP 아이콘
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n상인연합에서 특별 고객으로 우대하기 위해 선물한 VVIP 아이콘. 영광스럽기는 하는데, 그동한 사용한 돈이 떠올라서 조금 서글퍼진다.
+
+ID=261341301
+
+나노 키트 힙색
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n나노 키트를 쉽게 가지고 이동할 수 있도록 만든 나노 키트 힙색. 언제 어디서든 고장 난 물품을 수리할 수 있을 것 같다.
+
+ID=261351001
+
+특대형 몽키 스패너
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n평소 수리를 많이 하여 수리의 끝을 본 사람만이 가질 수 있는 특대형 몽키 스패너. 정말 유능한 기술자로 보일 수 있다.
+
+ID=261360501
+
+부활 장치 팔찌
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n부활 장치를 펜던트로 사용한 팔찌. 죽은 사람도 되살릴 수 있을 것만 같다.
+
+ID=261370101
+
+엔젤 링
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n너무 많은 사망을 경험하여 경지에 오른 이에게 선사되는 엔젤링. 착용 시 천사가 된 것만 같은 느낌을 준다.
+
+ID=261380101
+
+정크 나이트의 모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n수많은 소울 정크들을 처치하여 수집한 데이터로 만든 정크 나이트의 모자. 착용 시 정크 나이트의 기분을 맛볼 수 있다.
+
+ID=261392001
+
+퍼펫 머리 가면
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n수많은 인형들을 처치하여 수집한 데이터로 만든 퍼펫 머리 가면. 착용 시 퍼펫으로 오해받을 수 있다.
+
+ID=261400501
+
+네드 컴퍼니 소속 팔찌　
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n수많은 네드 컴퍼니 소속의 적들을 처치하여 수집한 데이터로 만든 팔찌. 네드 컴퍼니 소속으로 위장할 수 있을 것만 같다.
+
+ID=261410101
+
+레피드 플레임의 뿔
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n수많은 레피드 플레임의 베시들을 처치하여 수집한 데이터로 만든 뿔. 레피드 플레임의 베시로 위장할 수 있을 것만 같다.
+
+ID=261420101
+
+머리 위의 드론
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n수많은 로봇들을 처치하여 수집한 데이터로 만든 드론. 머리 위에 동동 떠다니면서 엄청난 기능을 수행할 것만 같지만 실상은 머리 위에 떠있을 뿐 아무런 기능이 없다.
+
+ID=261430301
+
+라반의 선글라스
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n니어 소울워커 라반이 착용하고 있던 선글라스를 본떠 만든 선글라스. 니어 소울워커들과의 수많은 전투에 대한 공헌으로 별숲리그에서 제작해 주었다.
+
+ID=261440501
+
+깨진 방패 팔찌
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n수많은 적들의 방패를 부순 공헌을 치하하고자 만들어진 깨진 방패 모양의 팔찌. 방패라고는 하나 깨져 있어서 방어에는 큰 도움이 될 것 같지 않다.
+
+ID=261451001
+
+깨진 방패 가방
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n수많은 적들의 방패를 부순 공헌을 치하하고자 만들어진 깨진 방패 모양의 가방. 방패라고는 하나 깨져 있어서 방어에는 큰 도움이 될 것 같지 않다.
+
+ID=261460101
+
+Combo 아이콘
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n콤보 수치가 높은 수준에 다다라, Combo 기록 장치가 과열되면서 허공에 고정된 Combo 아이콘. ST-Lab에서 편히 들고 다닐 수 있도록 머리띠 형태의 정제장치에 넣어 주었다. 착용하면 콤보를 더 잘 할 수 있을 것만 같다.
+
+ID=261470101
+
+파란 물음표 아이콘
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n사람들의 부탁을 들어준 공헌을 치하하고자 만들어진 파란색 물음표 아이콘. 소울워커가 아니라 일반 마을 사람으로 착각하고 누군가가 의뢰를 완료하러 갈 수도 있으니 주의.
+
+ID=261480101
+
+파란 느낌표 아이콘
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n수많은 사람들의 부탁을 들어준 공헌을 치하하고자 만들어진 파란색 느낌표 아이콘. 소울워커가 아니라 일반 마을 사람으로 착각하고 누군가가 의뢰를 받으러 갈 수도 있으니 주의.
+
+ID=261490501
+
+나침반 팔찌
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n임무지역을 쉬지 않고 돌아다닌 공로를 치하하고자 하사된 나침반 팔찌. 착용하면 어디서든 길을 잃지 않을 수 있을 것만 같다.
+
+ID=261501001
+
+탐험가의 가방
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n임무지역을 수없이 많이 돌아다닌 공로를 치하하고자 하사된 모험가의 배낭 가방. 착용하면 어디서든 살아남을 수 있을 것만 같다.
+
+ID=261510101
+
+식지 않은 술잔
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n술잔에 술을 따라 놓고 임무를 다녀와도 술이 식지 않을 정도로 빨리 임무를 수행한 것을 기념하기 위해 만든 머리띠. 임무 도중 목이 마르면 술잔의 술을 마셔도 좋을 것 같다.
+
+ID=261520101
+
+식지 않은 카레 라이스
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n3분 카레를 전자레인지에 넣어 놓고 임무를 다녀오면 갓 조리된 카레를 먹을 수 있을 정도로 빨리 임무를 수행한 것을 기념하지 위해 만든 머리띠. 임무 도중 배가 고프면 머리 위의 카레를 먹어도 좋을 것 같다.
+
+ID=261530101
+
+SS 아이콘
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n임무 수행 랭크 SS를 많이 달성 한 것을 기념하기 위해 만들어진 머리 장식. SS의 랭크답게 멀리서 봐도 빛이 날 것만 같다.
+
+ID=261540101
+
+프리미엄 SS 아이콘
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n임무 수행 랭크 SS를 수없이 많이 달성 한 것을 기념하기 위해 만들어진 머리 장식. 화려함을 더하는 날개가 추가되었다. SS의 랭크답게 멀리서 봐도 빛이 날 것만 같다.
+
+ID=261550101
+
+F 아이콘
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n임무 수행 랭크 F를 많이 달성한 것을 기념하기 위해 만들어진 머리장식. 멀리서 봐도 알아볼 수 있도록 F 펜던트가 낙인처럼 붉게 빛나고 있다.
+
+ID=261560101
+
+프리미엄 F 아이콘
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n임무 수행 랭크 F를 수없이 많이 달성한 것을 기념하기 위해 만들어진 머리장식. 일부러라도 하기 힘든 것을 해냈다는 의미로 기존의 붉은색 F 펜던트에 악마의 날개를 달아주었다. 
+
+ID=261570501
+
+동전 펜던트 팔찌
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n동전 수집을 좋아하는 이들을 위해 만들어진 동전 펜던트 팔찌. 차고 있으면 동전을 더 잘 주울 수 있을 것만 같다.
+
+ID=261580101
+
+돼지 저금통 모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n동전 수집을 너무 좋아하는 이들을 위해, 수집한 동전을 바로바로 저금하라고 만들어진 돼지 저금통 모자. 비상시 돼지 배를 갈라서 사용해도 좋을 것 같다.
+
+ID=261590501
+
+에텔 팔찌
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n에텔 수집을 좋아하는 이들을 위해 에텔을 정제하여 만든 에텔 팔찌. 차고 있으면 에텔을 더 많이 모을 수 있을 것만 같다.
+
+ID=261600301
+
+에텔 모양 안경
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n에텔 수집을 너무 좋아하는 이들을 위해 에텔을 정제하여 만든 안경. 착용하면 왠지 에텔이 없어도 에텔을 볼 수 있을 것만 같다.
+
+ID=261611301
+
+모래시계 힙색
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n소울워커가 오랜 시간 세계에 머물러 정제된 기록의 힘으로 생성된 모래시계. 힙색의 형태로 사용할 수 있다.
+
+ID=261621001
+
+알람시계 가방
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n소울워커가 오랜 시간 세계에 머물러 정제된 기록의 힘으로 생성된 알람 시계. 가방의 형태로 사용할 수 있다.
+
+ID=261630101
+
+꿈나라로 향하는 모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n피로가 많이 쌓여 보이는 이들을 위해, 숙면을 취하라고 만들어진 모자. 착용하자마자 바로 잠에 들 수 있을 것만 같다.
+
+ID=261641001
+
+잠은 인형과 함께
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n피로가 정말 많이 쌓인 듯 보이는 이들을 위해 숙면을 취하라고 만들어진 인형. 휴대할 수 있도록 가방의 형태로 만들어졌다. 착용하면 바로 잠에 들 수 있을 것만 같다.
+
+ID=261650301
+
+트리샤의 해킹 고글
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n강화를 자주 이용해 준 대가로 트리샤가 만들어 준 해킹 고글. 트리샤의 친애의 의미가 담겨 있다. 오직 모양만을 본떠 만든 것으로 해킹의 기능을 가지고 있진 않다.
+
+ID=261661301
+
+트리샤의 해킹 모듈
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n강화를 자주 이용해 준 대가로 트리샤가 만들어 준 해킹 모듈. 트리샤의 친애의 의미가 담겨 있다. 오직 모양만을 본떠 만든 것으로 해킹의 기능을 가지고 있지는 않다.
+
+ID=261672001
+
+제니스의 고양이 가면
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n제작을 자주 이용해 준 대가로 제니스가 만들어 준 고양이 가면. 제니스의 친애의 의미가 담겨 있다.
+
+ID=261681001
+
+제니스의 만물 가방
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n제작을 자주 이용해 준 대가로 제니스가 만들어 준 만물 가방. 만물 가방이라고는 하지만 가방 속은 텅텅 비어있다. 제니스의 친애의 의미가 담겨 있다.
+
+ID=262040101
+
+[네드 개량 군복]제식 모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n네드 컴퍼니의 엘리트 용병들이 쓰는 모자. 적의 것이지만 멋진 건 어쩔 수 없다.
+
+ID=262040102
+
+[네드 개량 군복]헤드셋
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n네드 컴퍼니의 엘리트 용병들이 쓰는 헤드셋. 최신식이다. 음악이 나오고 있진 않지만 왠지 흥얼거리게 된다.
+
+ID=262040701
+
+[네드 개량 군복]상의
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n네드 컴퍼니의 엘리트 용병들이 입는 군복의 상의. 목 부분이 털로 덮여 있어 따뜻하다.
+
+ID=262040801
+
+[네드 개량 군복]바지
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n네드 컴퍼니의 엘리트 용병들이 입는 군복의 바지. 매끈한 라인이 일품이다.
+
+ID=262040301
+
+[네드 개량 군복]통신 안경
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n네드 컴퍼니의 엘리트 용병들이 쓰는 통신용 안경. 호오… 전투력이 올라가는군요?
+
+ID=262040501
+
+[네드 개량 군복]장갑
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n네드 컴퍼니의 엘리트 용병들이 입는 군복의 장갑. 적의 것이지만 멋진 건 어쩔 수 없다.
+
+ID=262041001
+
+[네드 개량 군복]노트북 가방
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n네드 컴퍼니의 엘리트 용병들이 휴대하고 다니는 노트북 가방. 역시 엘리트는 달라도 다르다.
+
+ID=262041201
+
+[네드 개량 군복]부츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n네드 컴퍼니의 엘리트 용병들이 입는 군복의 부츠. 통풍성이 좋다.
+
+ID=261011401
+
+할로우 라이트 해머
+
+<font color='#FFBA85'>[소울 웨폰 홀로그램 : 해머]<font color='#9D927B'>\n\n이상 공백 내부에서 발견한 낡은 망치를 홀로그램 화 시킨 것. 어째서인지 화려한 불을 내뿜을 것 같다. 방사선이 뿜어져 나오는 것 같지만 홀로그램이니까 인체에는 무해할 것이다.
+
+ID=261702001
+
+마리오네트 마스크
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n에드가의 가면이 멀쩡했다면 이런 모습이었을 것 같은 마스크. 감정을 효과적으로 숨길 수 있을 것 같다.
+
+ID=261712001
+
+스파이더 퀸 마스크
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n바이올렛 머더리스의 머리를 참고해 만든 가면. 수상한 파티에 어울릴 것 같은 느낌이다.
+
+ID=261722001
+
+팬텀 마스크
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n팬텀의 마스크를 참고해 만든 가면. 눈구멍이 여러 개지만 실제로 시야가 확장되거나 하진 않으니 주의.
+
+ID=261732001
+
+모노 아이 마스크
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n로봇의 상징, 모노 아이를 옮겨놓은 가면. 시선에 따라 모노 아이가 징징 하며 움직일 것 같다.
+
+ID=261010602
+
+핑크 레이스 언더웨어
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이리스의 핑크 레이스 언더웨어. 왜인지는 모르지만, 이리스만 입을 수 있다.\n착용 후 3일이 지나면 사라져버린다. 신기한 노릇이다.\n\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\n또한, 마이룸의 가구 중 욕조와 샤워 부스 사용 시에도 확인할 수 있다.
+
+ID=261020602
+
+레드 체크 언더웨어
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이리스의 레드 체크 언더웨어. 왜인지는 모르지만, 이리스만 입을 수 있다.\n착용 후 3일이 지나면 사라져버린다. 신기한 노릇이다.\n\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\n또한, 마이룸의 가구 중 욕조와 샤워 부스 사용 시에도 확인할 수 있다.
+
+ID=261030602
+
+스타 블루 언더웨어
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이리스의 스타 블루 언더웨어. 왜인지는 모르지만, 이리스만 입을 수 있다.\n착용 후 3일이 지나면 사라져버린다. 신기한 노릇이다.\n\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\n또한, 마이룸의 가구 중 욕조와 샤워 부스 사용 시에도 확인할 수 있다.
+
+ID=261040602
+
+큐티 레이스 언더웨어
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이리스의 큐티 레이스 언더웨어. 왜인지는 모르지만, 이리스만 입을 수 있다.\n착용 후 3일이 지나면 사라져버린다. 신기한 노릇이다.\n\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\n또한, 마이룸의 가구 중 욕조와 샤워 부스 사용 시에도 확인할 수 있다.
+
+ID=261050602
+
+레오파드 언더웨어
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이리스의 레오파드 언더웨어. 왜인지는 모르지만, 이리스만 입을 수 있다.\n착용 후 3일이 지나면 사라져버린다. 신기한 노릇이다.\n\n속옷의 모습은 치마 형태의 코스튬 착용 시에 확인할 수 있다.\n또한, 마이룸의 가구 중 욕조와 샤워 부스 사용 시에도 확인할 수 있다.
+
+ID=261740101
+
+씨앗 화분
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n작물을 많이 심은 사람에게 주는 머리 장식. 씨앗이 담겨 있는 화분이지만 물을 뿌려도 싹이 트진 않는다.
+
+ID=261750101
+
+새싹 화분
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n작물 심기의 달인이 된 사람에게 주는 머리 장식. 새싹이 나 있는 화분이지만 물을 뿌려도 성장하진 않는다.
+
+ID=261760101
+
+밀짚모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n작물 수확을 많이 한 사람에게 주는 모자. 허수아비한테 씌어 줄 법한 외형으로 밀짚이 삐죽삐죽 튀어나와 있다.
+
+ID=261770101
+
+새알 밀짚모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n농부라고 해도 손색이 없는 사람에게 주는 모자. 새가 알을 낳아도 모를 정도로 열중했다는 것은 그야말로 농부의 증거다.
+
+ID=261780101
+
+시든 새싹
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n작물을 시들게 만든 사람에게 주는 머리 장식. 관리 부족으로 새싹이 누렇게 시들어 버렸다. 반성 하자.
+
+ID=261790101
+
+머리 위에 모종삽
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n작물을 망친 사람에게 주는 머리 장식. 실제로 머리에 박힌 것은 아니니 뽑으려고 하지 말자.
+
+ID=261800501
+
+실버 핸드
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n다른 사람의 작물을 돌봐준 사람에게 주는 장갑. 당신의 손으로 인해 많은 작물들이 생명을 얻었습니다.
+
+ID=261810501
+
+갓 핸드
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n다른 사람의 작물도 자신의 작물처럼 돌봐준 사람에게 주는 장갑. 당신의 손길이야말로 생명을 꽃피우는 신의 손입니다.
+
+ID=261822001
+
+황금 가면
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n황금의 가면. 쓰고 있으면 매우 부유해진 것 같은 느낌이다.
+
+ID=261830101
+
+내 머리 위의 타워
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n머리위에 아슬아슬하게 서 있는 타워. 낮은 통로를 지나갈 때 주의가 필요하다.
+
+ID=261330102
+
+ID=261861001
+
+[EV]나른한 그루톤 백팩
+
+<font color='#FFBA85'>[이벤트 보상 코스튬]<font color='#9D927B'>\n\n고된 노동으로 지쳐 잠이든 그루톤의 모습을 본떠 만든 백팩. 안고 있으면 금새 잠이 들게 된다.
+
+ID=261850101
+
+[활기찬 새내기]모자
+
+<font color='#FFBA85'>[이벤트 보상 코스튬]<font color='#9D927B'>\n\n마치 유치원에 갓 입학한 것처럼 활기찬 새내기로 보이게 만들지도 모르는 모자.
+
+ID=261851001
+
+[활기찬 새내기]란도셀
+
+<font color='#FFBA85'>[이벤트 보상 코스튬]<font color='#9D927B'>\n\n마치 유치원에 갓 입학한 것처럼 활기찬 새내기로 보이게 만들지도 모르는 란도셀.
+
+ID=262280701
+
+핑크 라이더 자켓
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n바람을 즐기는 여성들이 입는 분홍색 라이더 자켓. 여성스러움과 동시에 달리고자하는 욕망으로 가득 찬 야생마와 같은 감성이 숨어있다.
+
+ID=262280801
+
+핑크 벨티드 핫팬츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n분홍색 벨트로 장식된 핫팬츠. 여성스러움과 동시에 달리고자하는 욕망으로 가득 찬 야생마와 같은 감성이 숨어있다.
+
+ID=262281201
+
+앵클 부츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n발목까지 가려지는 여성용 구두. 신발 바닥이 마찰이 강한 소재로 되어 있어 라이딩에 최적화되어 있다.
+
+ID=262290701
+
+옐로우 라이더 자켓
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n바람을 즐기는 여성들이 입는 노란색 라이더 자켓. 여성스러움과 동시에 달리고자하는 욕망으로 가득 찬 야생마와 같은 감성이 숨어있다.
+
+ID=262290801
+
+옐로우 벨티드 핫팬츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n노란색 벨트로 장식된 핫팬츠. 여성스러움과 동시에 달리고자하는 욕망으로 가득 찬 야생마와 같은 감성이 숨어있다.
+
+ID=262291201
+
+ID=261871001
+
+이퀄리브리엄 표식
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이퀄리브리엄의 존재를 상징하는 표식. 이것을 가졌다는 것은 그들에 준하는 힘을 가졌다는 증거이기도 하다.
+
+ID=263340701
+
+블랙 베스트 셔츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n검은 베스트를 껴입은 하얀색 셔츠 의상. 언뜻 보면 꽃집에서 일하는 아르바이트 학생 같은 느낌이 든다.
+
+ID=263340801
+
+블랙 플레어 스커트
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n치마 단에 주름이 생기는 검은 스커트. 보통의 플레어 스커트보다 많이 짧아서 뛰어다닐 때 조심해야 할 것 같다.
+
+ID=263341101
+
+블랙 보드삭스
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n무릎 바로 아래까지 올려 신는 두꺼운 양말. 운동을 좋아하거나 많이 뛰어다니는 여학생들이 주로 신는다.
+
+ID=263341201
+
+브라운 레더 스니커즈
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n가죽으로 만든 스니커즈 형태의 신발. 주변에서 흔하게 신고 다니는 것을 볼 수 있다.
+
+ID=263350701
+
+화이트 베스트 셔츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n하얀 베스트를 껴입은 검은색 셔츠 의상. 언뜻 보면 카페에서 일하는 아르바이트 학생 같은 느낌이 든다.
+
+ID=263350801
+
+화이트 플레어 스커트
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n치마 단에 주름이 생기는 하얀 스커트. 보통의 플레어 스커트보다 많이 짧아서 뛰어다닐 때 조심해야 할 것 같다.
+
+ID=263379101
+
+다크 아비터 슈트
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n공백 내부를 탐사하기 위해 만들어진 슈트. 공백에 대해 해명된 것이 아무것도 없었음에도 불구하고 설계도가 존재하는 것인지 알 수 없다. 어쩌면 다른 시간 축에서 만들어진 설계도일지도.... 
+
+ID=263371901
+
+다크 아비터 헤드기어
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n공백 내부를 탐사하기 위해 만들어진 헤드 기어. 공백에 대해 해명된 것이 아무것도 없었음에도 불구하고 설계도가 존재하는 것인지 알 수 없다. 어쩌면 다른 시간 축에서 만들어진 설계도일지도.... 
+
+ID=261880101
+
+감시자의 눈
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n더 씽을 저지하는데 지대한 공헌을 한 인물에게 주어지는 헤드 기어. 전 세계에서 손에 꼽을 만큼의 수 밖에 만들어지지 않았는데 그나마도 대부분이 유실되어 어딘가로 사라져 버렸다.
+
+ID=837001016
+
+[기간제]해방된 분노의 망치
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n이리스가 입을 수 있는 [해방된 분노의 망치] 코스튬이 모두 들어있는 패키지. 패키지 안의 옷들은 3일 동안만 입을 수 있으니 주의하자.\n-구성품-\n[해방된 분노의 망치] 의상\n[해방된 분노의 망치] 니삭스\n[해방된 분노의 망치] 부츠
+
+ID=837001017
+
+[기간제]상인연합 유니폼
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n이리스가 입을 수 있는 [상인현합 유니폼] 코스튬이 모두 들어있는 패키지. 패키지 안의 옷들은 3일 동안만 입을 수 있으니 주의하자.\n-구성품-\n[상인연합 유니폼] 상의\n[상인연합 유니폼] 치마\n[상인연합 유니폼] 니삭스\n[상인연합 유니폼] 운동화
+
+ID=837001018
+
+[기간제]별숲리그 구식 군복
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n이리스가 입을 수 있는 [별숲리그 구식 군복] 코스튬이 모두 들어있는 패키지. 패키지 안의 옷들은 3일 동안만 입을 수 있으니 주의하자.\n-구성품-\n[별숲리그 구식 군복] 상의\n[별숲리그 구식 군복] 치마\n[별숲리그 구식 군복] 부츠
+
+ID=826010001
+
+이리스 초심자 물품상자
+
+<font color='#FFBA85'>[눈을 뜬 자를 위한 패키지]<font color='#9D927B'>\n\n이리스 캐릭터 생성 시 지급 받는 전투 지원 패키지. 개봉 시 유용한 물건들을 얻을 수 있다.
+
+ID=861050001
+
+이리스 5레벨 보상 패키지
+
+<font color='#FFBA85'>[레벨 달성 보상 패키지]<font color='#9D927B'>\n\n이리스의 5레벨 달성 시 지급 받는 전투 지원 패키지. 개봉 시 유용한 물건들을 얻을 수 있다.
+
+ID=861100001
+
+이리스 10레벨 보상 패키지
+
+<font color='#FFBA85'>[레벨 달성 보상 패키지]<font color='#9D927B'>\n\n이리스의 10레벨 달성 시 지급 받는 전투 지원 패키지. 개봉 시 유용한 물건들을 얻을 수 있다.
+
+ID=861160001
+
+이리스 15레벨 보상 패키지
+
+<font color='#FFBA85'>[레벨 달성 보상 패키지]<font color='#9D927B'>\n\n이리스의 15레벨 달성 시 지급 받는 전투 지원 패키지. 개봉 시 유용한 물건들을 얻을 수 있다.
+
+ID=861220001
+
+이리스 20레벨 보상 패키지
+
+<font color='#FFBA85'>[레벨 달성 보상 패키지]<font color='#9D927B'>\n\n이리스의 20레벨 달성 시 지급 받는 전투 지원 패키지. 개봉 시 유용한 물건들을 얻을 수 있다.
+
+ID=861290001
+
+이리스 25레벨 보상 패키지
+
+<font color='#FFBA85'>[레벨 달성 보상 패키지]<font color='#9D927B'>\n\n이리스의 25레벨 달성 시 지급 받는 전투 지원 패키지. 개봉 시 유용한 물건들을 얻을 수 있다.
+
+ID=861300001
+
+이리스 30레벨 보상 패키지
+
+<font color='#FFBA85'>[레벨 달성 보상 패키지]<font color='#9D927B'>\n\n이리스의 30레벨 달성 시 지급 받는 전투 지원 패키지. 개봉 시 유용한 물건들을 얻을 수 있다.
+
+ID=861360001
+
+이리스 35레벨 보상 패키지
+
+<font color='#FFBA85'>[레벨 달성 보상 패키지]<font color='#9D927B'>\n\n이리스의 35레벨 달성 시 지급 받는 전투 지원 패키지. 개봉 시 유용한 물건들을 얻을 수 있다.
+
+ID=861400001
+
+이리스 40레벨 보상 패키지
+
+<font color='#FFBA85'>[레벨 달성 보상 패키지]<font color='#9D927B'>\n\n이리스의 40레벨 달성 시 지급 받는 전투 지원 패키지. 개봉 시 유용한 물건들을 얻을 수 있다.
+
+ID=861450001
+
+이리스 45레벨 보상 패키지
+
+<font color='#FFBA85'>[레벨 달성 보상 패키지]<font color='#9D927B'>\n\n이리스의 45레벨 달성 시 지급 받는 전투 지원 패키지. 개봉 시 유용한 물건들을 얻을 수 있다.
+
+ID=861500001
+
+이리스 50레벨 보상 패키지
+
+<font color='#FFBA85'>[레벨 달성 보상 패키지]<font color='#9D927B'>\n\n이리스의 50레벨 달성 시 지급 받는 전투 지원 패키지. 개봉 시 유용한 물건들을 얻을 수 있다.
+
+ID=861550001
+
+이리스 55레벨 보상 패키지
+
+<font color='#FFBA85'>[레벨 달성 보상 패키지]<font color='#9D927B'>\n\n이리스의 55레벨 달성 시 지급 받는 전투 지원 패키지. 개봉 시 유용한 물건들을 얻을 수 있다.
+
+ID=820010008
+
+제니스의 재료 상자
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n제니스 커스텀 해머를 만들 수 있는 재료가 들어있는 박스. 제니스가 특별히 선물해줬다.\n\n-구성품-\n[설계도]제니스 커스텀 해머 x 1\n빛을 잃은 웨폰 코어 x 3\n메탈 스톤 x 5
+
+ID=836000189
+
+이리스에게 주는 클로이의 선물[LV.15]
+
+<font color='#FFBA85'>[물품 상자]<font color='#9D927B'>\n\n클로이가 이리스에게 주는 특별한 선물. 클로이에게 내용물이 무엇인지 물어보았지만 절대 가르쳐주질 않았다. 클로이가 말하길, 선물이라는 것은 열어보기 전까지 내용물을 모르는 것이 묘미라나.
+
+ID=836000190
+
+이리스에게 주는 클로이의 선물[LV.5]
+
+ID=836000191
+
+클로이의 선물 [외형]
+
+<font color='#FFBA85'>[물품 상자]<font color='#9D927B'>\n\n클로이가 주는 특별한 선물. 클로이에게 내용물이 무엇인지 물어보았지만 절대 가르쳐주질 않았다. 클로이가 말하길, 선물이라는 것은 열어보기 전까지 내용물을 모르는 것이 묘미라나.
+
+ID=836000192
+
+ID=839140004
+
+투블럭 펌 헤어 : 진
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n진의 투블럭 펌 헤어. 당연하겠지만 진만 착용할 수 있다.
+
+ID=839140005
+
+네츄럴 핏 헤어 : 진
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n진의 네츄럴 핏 헤어. 당연하겠지만 진만 착용할 수 있다.
+
+ID=839140006
+
+롱 샤기 컷 헤어 : 진
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n진의 롱 샤기 컷 헤어. 당연하겠지만 진만 착용할 수 있다.
+
+ID=839140007
+
+댄디 컷 헤어 : 진
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n진의 댄디 컷 헤어. 당연하겠지만 진만 착용할 수 있다.
+
+ID=839140008
+
+아이롱 펌 헤어 : 진
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n진의 아이롱 펌 헤어. 당연하겠지만 진만 착용할 수 있다.
+
+ID=880111141
+
+잭오랜턴 마차
+
+<font color='#FFBA85'>[가구]<font color='#9D927B'>\n\n할로윈 데이를 즐기기 위해 그레이스 시티 기념품 가게에서 직접 만든 장식품.\n마차에 달린 잭오랜턴 안에서 빛이 새어나오는 고퀄리티 장식품이다.
+
+ID=213510101
+
+[할로윈 펌킨]모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n과거 그레이스 시티의 가장 유명한 백화점에서 할로윈 데이를 기념하기 위해 판매하고 있는 모자.\n할로윈 데이를 대표하는 펌킨을 모티브로 제작되었다.
+
+ID=223540101
+
+ID=233450101
+
+ID=243550101
+
+ID=253500101
+
+ID=800000009
+
+할로윈 코인
+
+<font color='#FFBA85'>[특수 화폐]<font color='#9D927B'>\n\n할로윈 데이 기념 주화. 보상을 받을 때까지는 소중하게 보관해 두자.
+
+ID=837400045
+
+[칭호 : 접미]해피 할로윈
+
+<font color='#FFBA85'>[칭호 획득 아이템] 접미<font color='#9D927B'>\n\n할로윈 이벤트를 진행한 유저에게 주어지는 칭호를 획득할 수 있는 아이템입니다.\n아이템 사용 시 해당 칭호를 획득하실 수 있습니다.
+
+ID=837400046
+
+[칭호 : 접미] GM의 친구
+
+<font color='#FFBA85'>[칭호 획득 아이템] 접미<font color='#9D927B'>\n\nGM 육성보조 이벤트를 진행한 유저에게 주어지는 칭호를 획득할 수 있는 아이템입니다.\n아이템 사용 시 해당 칭호를 획득하실 수 있습니다.
+
+ID=834000016
+
+브로치 추출기
+
+<font color='#FFBA85'>[브로치 추출 아이템]<font color='#9D927B'>\n\n코스튬에 장착된 브로치에서 강력한 자기장을 발생시켜 브로치의 신호를 변경하는 장치.\n이 칩을 사용할 시, 기존 코스튬에 장착되어 있던 브로치를 추출해 낼 수 있다. \n※ 주의 : 여러 코스튬 부위의 브로치를 추출하기에는 내구성이 약해 보인다.\n단 한 부위에 장착된 브로치만 추출할 수 있게 설계되어 있다.
+
+ID=810001117
+
+[코스튬 박스]큐티 사쿠라
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[큐티 사쿠라] 코스튬이 담긴 패키지로 해당 구성품은 하루만 착용할 수 있다.\n이 코스튬 디자인은 일본 아바타 컨테스트에서 유저 "ちんぱん"이 제작하였다.\n\n-구성품-\n[큐티 사쿠라] 의상 x 1\n[큐티 사쿠라] 모자 x 1\n[큐티 사쿠라] 스타킹 x 1\n[큐티 사쿠라] 부츠 x 1
+
+ID=810001118
+
+[코스튬 박스]낮도깨비
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[낮도깨비] 코스튬이 담긴 패키지로 해당 구성품은 어윈만 착용할 수 있다.\n이 코스튬 디자인은 일본 아바타 컨테스트에서 유저 "デウス ジンマキナ"가 제작하였다.\n\n-구성품-\n[낮도깨비] 의상 x 1\n[낮도깨비] 뿔 x 1\n[낮도깨비] 팔찌 x 1\n[낮도깨비] 신발 x 1
+
+ID=810001119
+
+[코스튬 박스]페어리 퀸
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[페어리 퀸] 코스튬이 담긴 패키지로 해당 구성품은 릴리만 착용할 수 있다.\n이 코스튬 디자인은 일본 아바타 컨테스트에서 유저 "ブラックリリ"가 제작하였다.\n\n-구성품-\n[페어리 퀸] 의상 x 1\n[페어리 퀸] 머리핀 x 1\n[페어리 퀸] 팔찌 x 1\n[페어리 퀸] 스타킹 x 1\n[페어리 퀸] 부츠 x 1
+
+ID=810001120
+
+[코스튬 박스]열정단장
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[열정단장] 코스튬이 담긴 패키지로 해당 구성품은 진만 착용할 수 있다.\n이 코스튬 디자인은 일본 아바타 컨테스트에서 유저 "haru_283"이 제작하였다.\n\n-구성품-\n[열정단장] 의상 x 1\n[열정단장] 머리띠 x 1\n[열정단장] 장갑 x 1\n[열정단장] 구두 x 1
+
+ID=810001121
+
+[코스튬 박스]알프스 소녀
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[알프스 소녀] 코스튬이 담긴 패키지로 해당 구성품은 스텔라만 착용할 수 있다.\n이 코스튬 디자인은 일본 아바타 컨테스트에서 유저 "なるせみ"가 제작하였다.\n\n-구성품-\n[알프스 소녀] 의상 x 1\n[알프스 소녀] 모자 x 1\n[알프스 소녀] 장갑 x 1\n[알프스 소녀] 양말 x 1\n[알프스 소녀] 부츠 x 1
+
+ID=810001122
+
+[코스튬 박스]트윙클 바니걸
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[트윙클 바니걸] 코스튬이 담긴 패키지로 해당 구성품은 이리스만 착용할 수 있다.\n\n-구성품-\n[트윙클 바니걸] 귀 x 1\n[트윙클 바니걸] 의상 x 1\n[트윙클 바니걸] 팔찌 x 1\n[트윙클 바니걸] 스타킹 x 1\n[트윙클 바니걸] 구두 x 1
+
+ID=800009998
+
+디멘션 포인트
+
+<font color='#FFBA85'>[특수 화폐]<font color='#9D927B'>\n\n특수한 임무를 완수한 소울워커에게 지급하는 별숲리그에서 발행하는 특수한 화폐. 별숲리그에서 제공하는 각종 편의 제품을 구입할 수 있다. 스페셜 미션 클리어 시 습득 가능하다.
+
+ID=213420901
+
+[큐티 사쿠라]의상
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n과거와 현재가 공존하는 경이로운 디자인의 기모노 의상. 기존 기모노 의상과 달리 치마의 길이가 짧아 매우 패셔너블하다. 이 의상은 현대식 디자인으로 이루어져 있는 반면, 의상에 수놓아 있는 벚꽃문양으로 전통을 계승하려는 의지를 강조하고 있다.
+
+ID=213420101
+
+[큐티 사쿠라]머리핀
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n큐티 사쿠라 의상에 어울릴 수 있도록 제작된 머리핀. 의상의 포인트인 벚꽃을 모티브로 제작되었다.
+
+ID=213421101
+
+[큐티 사쿠라]스타킹
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n큐티 사쿠라 의상에 어울릴 수 있도록 제작된 스타킹. 의상의 컬러에 조화롭게 어울릴 수 있도록 제작되었다.
+
+ID=213421201
+
+[큐티 사쿠라]부츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n큐티 사쿠라 의상에 어울릴 수 있도록 제작된 신발. 의상 디자인과 조화롭게 어울릴 수 있도록 제작되었다.
+
+ID=223420901
+
+[낮도깨비]의상
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n인간세계의 것으로 보여지지 않는 독특한 디자인으로 이루어진 의상. 모든 부위의 의상을 착용했을 시에 마치 의로운 도깨비와 같아 보인다. 등에 달린 커다란 금빛 장식이 매우 유니크해 보인다.
+
+ID=223421601
+
+[낮도깨비]뿔
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n인간세계의 것으로 보여지지 않는 독특한 디자인으로 이루어진 머리 장식. 금빛 뿔 장식과 그 곁을 감싸고 있는 깃털 장식이 선과 악을 동시에 표현하고 있는 것만 같다.
+
+ID=223420501
+
+[낮도깨비]팔찌
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n인간세계의 것으로 보여지지 않는 독특한 디자인으로 이루어진 팔찌. 금빛 팔찌에 달린 깃털장식 때문에 착용했을 시, 어떤 무거운 무기도 자유자재로 다룰 수 있을 것만 같다.
+
+ID=223421201
+
+[낮도깨비]신발
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n인간세계의 것으로 보여지지 않는 독특한 디자인으로 이루어진 신발. 마치 발찌와 같은 디자인으로서 깃털장식 때문에 착용했을 시, 천리길도 단번에 날아갈 수 있을 것만 같다.
+
+ID=233460901
+
+[페어리 퀸]의상
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n판타지 세계에 살고 있는 요정들이 입고 있을 것만 같은 화려한 원피스.\n원피스 곳곳의 은은한 보라빛 장식물들로 인해 의상이 더욱 화려하게 돋보인다. 
+
+ID=233470101
+
+[페어리 퀸]머리핀
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n페어리 퀸 의상 디자인에 어울릴 수 있도록 제작된 머리핀. 의상의 포인트인 꽃봉우리를 모티브로 제작되었다.
+
+ID=233480501
+
+[페어리 퀸]팔찌
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n페어리 퀸 의상 디자인에 어울릴 수 있도록 제작된 팔찌. 의상의 컬러에 조화롭게 어울릴 수 있도록 제작되었다.
+
+ID=233491101
+
+[페어리 퀸]스타킹
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n페어리 퀸 의상 디자인에 어울릴 수 있도록 제작된 스타킹. 양쪽 길이가 비대칭되어 디자인이 더욱 유니크해 보인다.
+
+ID=233501201
+
+[페어리 퀸]부츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n페어리 퀸 의상 디자인에 어울릴 수 있도록 제작된 부츠. 꽃봉우리 장식물들이 부츠를 더욱 돋보이게 만든다.
+
+ID=243420901
+
+[열정단장]의상
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n열정적인 응원단장의 의상. 교복을 리폼한 디자인으로서 바닥에 닿을 듯한 롱자켓이 매우 인상적이다. 어깨와 한쪽 팔에 달린 붉은 끈장식과 완장, 배에 감겨있는 붕대가 열혈 응원단장의 특징을 더욱 부각시킨다.
+
+ID=243420201
+
+[열정단장]머리띠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n열정적인 응원단장의 머리띠. 강렬한 레드 컬러의 머리가 응원단장의 특징을 더욱 부각시킨다.
+
+ID=243420501
+
+[열정단장]장갑
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n열정적인 응원단장의 장갑. 흰색 컬러의 장갑이 응원단장의 특징을 더욱 부각시킨다.
+
+ID=243421201
+
+[열정단장]구두
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n열정적인 응원단장의 구두. 교복을 리폼한 의상과 부합될 수 있게 검은 컬러의 구두가 응원단장의 특징을 더욱 부각시킨다.
+
+ID=253420901
+
+[알프스 소녀]의상
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n만화에서 등장할 것만 같은 러블리한 원피스 의상. 알프스 산맥에 뒤덮인 하얀 눈꽃과 계곡에 흐르는 계곡물의 컬러를 그대로 의상에 반영하였다. 이 의상을 보면 마치 알프스 정상 오두막에 살고 있는 아름다운 소녀를 연상시킨다.
+
+ID=253420101
+
+[알프스 소녀]모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n알프스 소녀 의상 디자인에 어울릴 수 있도록 제작된 모자. 이 모자는 알프스 산에 살고 있는 토끼를 모티브로 제작되었다.
+
+ID=253420501
+
+[알프스 소녀]장갑
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n알프스 소녀 의상 디자인에 어울릴 수 있도록 제작된 장갑. 이 장갑은 알프스 산맥에 뒤덮인 하얀 눈꽃을 모티브로 제작되었다.
+
+ID=253421101
+
+[알프스 소녀]양말
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n알프스 소녀 의상 디자인에 어울릴 수 있도록 제작된 양말. 이 양말은 알프스 산맥에 뒤덮인 하얀 눈꽃을 모티브로 제작되었다.
+
+ID=253421201
+
+[알프스 소녀]부츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n알프스 소녀 의상 디자인에 어울릴 수 있도록 제작된 신발. 이 신발은 알프스 산에 살고 있는 토끼를 모티브로 제작되었다.
+
+ID=813420901
+
+[밀봉][큐티 사쿠라]의상
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[큐티 사쿠라] 의상이 들어있는 패키지이다.
+
+ID=813420101
+
+[밀봉][큐티 사쿠라]머리핀
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[큐티 사쿠라] 머리핀이 들어있는 패키지이다.
+
+ID=813421101
+
+[밀봉][큐티 사쿠라]스타킹
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[큐티 사쿠라] 스타킹이 들어있는 패키지이다.
+
+ID=813421201
+
+[밀봉][큐티 사쿠라]부츠
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[큐티 사쿠라] 부츠가 들어있는 패키지이다.
+
+ID=823420901
+
+[밀봉][낮도깨비]의상
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[낮도깨비] 의상이 들어있는 패키지이다.
+
+ID=823421601
+
+[밀봉][낮도깨비]뿔
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[낮도깨비] 뿔이 들어있는 패키지이다.
+
+ID=823420501
+
+[밀봉][낮도깨비]팔찌
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[낮도깨비] 팔찌가 들어있는 패키지이다.
+
+ID=823421201
+
+[밀봉][낮도깨비]신발
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[낮도깨비] 신발이 들어있는 패키지이다.
+
+ID=833460901
+
+[밀봉][페어리 퀸]의상
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[페어리 퀸] 의상이 들어있는 패키지이다.
+
+ID=833470101
+
+[밀봉][페어리 퀸]머리핀
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[페어리 퀸] 머리핀이 들어있는 패키지이다.
+
+ID=833480501
+
+[밀봉][페어리 퀸]팔찌
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[페어리 퀸] 팔찌가 들어있는 패키지이다.
+
+ID=833491101
+
+[밀봉][페어리 퀸]스타킹
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[페어리 퀸] 스타킹이 들어있는 패키지이다.
+
+ID=833501201
+
+[밀봉][페어리 퀸]부츠
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[페어리 퀸] 부츠가 들어있는 패키지이다.
+
+ID=843420901
+
+[밀봉][열정단장]의상
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[열정단장] 의상이 들어있는 패키지이다.
+
+ID=843420201
+
+[밀봉][열정단장]머리띠
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[열정단장] 머리띠가 들어있는 패키지이다.
+
+ID=843420501
+
+[밀봉][열정단장]장갑
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[열정단장] 장갑이 들어있는 패키지이다.
+
+ID=843421201
+
+[밀봉][열정단장]구두
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[열정단장] 구두가 들어있는 패키지이다.
+
+ID=853420901
+
+[밀봉][알프스 소녀]의상
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[알프스 소녀] 의상이 들어있는 패키지이다.
+
+ID=853420101
+
+[밀봉][알프스 소녀]모자
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[알프스 소녀] 모자가 들어있는 패키지이다.
+
+ID=853420501
+
+[밀봉][알프스 소녀]장갑
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[알프스 소녀] 장갑이 들어있는 패키지이다.
+
+ID=853421101
+
+[밀봉][알프스 소녀]양말
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[알프스 소녀] 양말이 들어있는 패키지이다.
+
+ID=853421201
+
+[밀봉][알프스 소녀]부츠
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[알프스 소녀] 부츠가 들어있는 패키지이다.
+
+ID=837000159
+
+공격형 BSK 브로치 x 5
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n공격형 BSK 브로치 전송기 x 5
+
+ID=837000160
+
+공격형 BSK 브로치 x 10 (보너스)
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n공격형 BSK 브로치 전송기 x 10개 \n공격형 BSK 브로치 전송기 x 1개 (보너스) \n브로치 합성기 x 3개 (보너스)
+
+ID=837000161
+
+공격형 BSK 브로치 x 30 (보너스)
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n공격형 BSK 브로치 전송기 x 30개 \n공격형 BSK 브로치 전송기 x 3개 (보너스) \n브로치 합성기 x 5개 (보너스)
+
+ID=837000162
+
+공격형 BSK 브로치 x 50 (보너스)
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n공격형 BSK 브로치 전송기 x 50개 \n공격형 BSK 브로치 전송기 x 7개 (보너스) \n브로치 합성기 x 10개 (보너스)
+
+ID=837000163
+
+방어형 BSK 브로치 x 5
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n방어형 BSK 브로치 전송기 x 5
+
+ID=837000164
+
+방어형 BSK 브로치 x 10 (보너스)
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n방어형 BSK 브로치 전송기 x 10개 \n방어형 BSK 브로치 전송기 x 1개 (보너스) \n브로치 합성기 x 3개 (보너스)
+
+ID=837000165
+
+방어형 BSK 브로치 x 30 (보너스)
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n방어형 BSK 브로치 전송기 x 30개 \n방어형 BSK 브로치 전송기 x 3개 (보너스) \n브로치 합성기 x 5개 (보너스)
+
+ID=837000166
+
+방어형 BSK 브로치 x 50 (보너스)
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n방어형 BSK 브로치 전송기 x 50개 \n방어형 BSK 브로치 전송기 x 7개 (보너스) \n브로치 합성기 x 10개 (보너스)
+
+ID=837000167
+
+기능형 BSK 브로치 x 5
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n기능형 BSK 브로치 전송기 x 5
+
+ID=837000168
+
+기능형 BSK 브로치 x 10 (보너스)
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n기능형 BSK 브로치 전송기 x 10개 \n기능형 BSK 브로치 전송기 x 1개 (보너스) \n브로치 합성기 x 3개 (보너스)
+
+ID=837000169
+
+기능형 BSK 브로치 x 30 (보너스)
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n기능형 BSK 브로치 전송기 x 30개 \n기능형 BSK 브로치 전송기 x 3개 (보너스) \n브로치 합성기 x 5개 (보너스)
+
+ID=837000170
+
+기능형 BSK 브로치 x 50 (보너스)
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n기능형 BSK 브로치 전송기 x 50개 \n기능형 BSK 브로치 전송기 x 7개 (보너스) \n브로치 합성기 x 10개 (보너스)
+
+ID=837000171
+
+썸머페스티벌 1탄 보상 패키지
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n아카식 레코드 전송기 x 5개
+
+ID=837300009
+
+공격형 BSK 브로치 전송기
+
+<font color='#FFBA85'>[브로치 획득 아이템] 공격형 BSK 브로치 무작위 획득<font color='#9D927B'>\n\n[섬유 강화 디바이스 : 브로치]를 획득할 수 있는 특별한 전송 장치. 공격형 BSK 브로치의 식별 코드가 장치에 적혀 있지만 지정 코드가 파손되어 어떤 공격형 BSK 브로치가 나올지 알 수 없다.
+
+ID=837300010
+
+방어형 BSK 브로치 전송기
+
+<font color='#FFBA85'>[브로치 획득 아이템] 방어형 BSK 브로치 무작위 획득<font color='#9D927B'>\n\n[섬유 강화 디바이스 : 브로치]를 획득할 수 있는 특별한 전송 장치. 방어형 BSK 브로치의 식별 코드가 장치에 적혀 있지만 지정 코드가 파손되어 어떤 방어형 BSK 브로치가 나올지 알 수 없다.
+
+ID=837300011
+
+기능형 BSK 브로치 전송기
+
+<font color='#FFBA85'>[브로치 획득 아이템] 기능형 BSK 브로치 무작위 획득<font color='#9D927B'>\n\n[섬유 강화 디바이스 : 브로치]를 획득할 수 있는 특별한 전송 장치. 기능형 BSK 브로치의 식별 코드가 장치에 적혀 있지만 지정 코드가 파손되어 어떤 기능형 BSK 브로치가 나올지 알 수 없다.
+
+ID=837300012
+
+BSK 브로치 전송기 : 하급
+
+<font color='#FFBA85'>[브로치 획득 아이템] BSK 브로치 중 하나를 무작위 획득<font color='#9D927B'>\n\n[섬유 강화 디바이스 : BSK브로치]를 획득할 수 있는 특별한 전송 장치. BSK 브로치의 식별 코드가 장치에 적혀 있지만 지정 코드가 파손되어 어떤 종류의, 어떤 등급의 BSK 브로치가 나올지 알 수 없다.
+
+ID=837300013
+
+공격형 BSK 브로치 전송기 : 하급
+
+<font color='#FFBA85'>[브로치 획득 아이템] 공격형 BSK 브로치 무작위 획득<font color='#9D927B'>\n\n[섬유 강화 디바이스 : 브로치]를 획득할 수 있는 특별한 전송 장치. 공격형 BSK 브로치의 식별 코드가 장치에 적혀 있지만 지정 코드가 파손되어 어떤 브로치가 나올지 알 수 없다. 단 식별 코드상 매우 구형 모델일 것은 분명하다.
+
+ID=837300014
+
+방어형 BSK 브로치 전송기 : 하급
+
+<font color='#FFBA85'>[브로치 획득 아이템] 방어형 BSK 브로치 무작위 획득<font color='#9D927B'>\n\n[섬유 강화 디바이스 : 브로치]를 획득할 수 있는 특별한 전송 장치. 방어형 BSK 브로치의 식별 코드가 장치에 적혀 있지만 지정 코드가 파손되어 어떤 브로치가 나올지 알 수 없다. 단 식별 코드상 매우 구형 모델일 것은 분명하다.
+
+ID=837300015
+
+기능형 BSK 브로치 전송기 : 하급
+
+<font color='#FFBA85'>[브로치 획득 아이템] 기능형 BSK 브로치 무작위 획득<font color='#9D927B'>\n\n[섬유 강화 디바이스 : 브로치]를 획득할 수 있는 특별한 전송 장치. 기능형 BSK 브로치의 식별 코드가 장치에 적혀 있지만 지정 코드가 파손되어 어떤 브로치가 나올지 알 수 없다. 단 식별 코드상 매우 구형 모델일 것은 분명하다.
+
+ID=111164351
+
+메카니컬 쵸퍼
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 제작 과정에서 과학자의 욕심 덕분에 이것저것 덧붙여진 모습이지만 의외로 괜찮게 조합되어 위력을 낼 수 있다.
+
+ID=112164351
+
+드레드노트
+
+<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\n\n소울워커 전용 무기. 제작 과정에서 과학자의 욕심 덕분에 이것저것 덧붙여진 모습이지만 의외로 괜찮게 조합되어 위력을 낼 수 있다.
+
+ID=113164351
+
+그라인더
+
+<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n소울워커 전용 무기. 제작 과정에서 과학자의 욕심 덕분에 이것저것 덧붙여진 모습이지만 의외로 괜찮게 조합되어 위력을 낼 수 있다.
+
+ID=114164351
+
+프레서
+
+<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n소울워커 전용 무기. 제작 과정에서 과학자의 욕심 덕분에 이것저것 덧붙여진 모습이지만 의외로 괜찮게 조합되어 위력을 낼 수 있다.
+
+ID=115164351
+
+헤비메탈
+
+<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n소울워커 전용 무기. 제작 과정에서 과학자의 욕심 덕분에 이것저것 덧붙여진 모습이지만 의외로 괜찮게 조합되어 위력을 낼 수 있다.
+
+ID=116164351
+
+퓨빌라이져
+
+<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n소울워커 전용 무기. 제작 과정에서 과학자의 욕심 덕분에 이것저것 덧붙여진 모습이지만 의외로 괜찮게 조합되어 위력을 낼 수 있다.
+
+ID=111264351
+
+블러드 이터
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 야수의 뼈에서 착안된 디자인으로 그 외형만으로 상대에게 위협을 가할 수 있다.
+
+ID=112264351
+
+트윈 크로커
+
+<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\n\n소울워커 전용 무기. 야수의 뼈에서 착안된 디자인으로 그 외형만으로 상대에게 위협을 가할 수 있다.
+
+ID=113264351
+
+리퍼 본
+
+<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n소울워커 전용 무기. 야수의 뼈에서 착안된 디자인으로 그 외형만으로 상대에게 위협을 가할 수 있다.
+
+ID=114264351
+
+크로울러
+
+<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n소울워커 전용 무기. 야수의 뼈에서 착안된 디자인으로 그 외형만으로 상대에게 위협을 가할 수 있다.
+
+ID=115264351
+
+킬러 노이즈
+
+<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n소울워커 전용 무기. 야수의 뼈에서 착안된 디자인으로 그 외형만으로 상대에게 위협을 가할 수 있다.
+
+ID=116264351
+
+드레드풀 아이
+
+<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n소울워커 전용 무기. 야수의 뼈에서 착안된 디자인으로 그 외형만으로 상대에게 위협을 가할 수 있다.
+
+ID=111404351
+
+소울커터
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 사용자의 감정을 영혼까지 끌어내어 강대한 힘을 현실화 시킨다. 항상 파랗고 은은한 기운이 감돈다.
+
+ID=112404351
+
+소울스플리터
+
+<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\n\n소울워커 전용 무기. 사용자의 감정을 영혼까지 끌어내어 강대한 힘을 현실화 시킨다. 주인과 공명하기 때문에 항상 파랗고 은은한 기운이 감돈다.
+
+ID=113404351
+
+소울슬라이서
+
+<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n소울워커 전용 무기. 사용자의 감정을 영혼까지 끌어내어 강대한 힘을 현실화 시킨다. 주인과 공명하기 때문에 항상 파랗고 은은한 기운이 감돈다.
+
+ID=114404351
+
+소울비터
+
+<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n소울워커 전용 무기. 사용자의 감정을 영혼까지 끌어내어 강대한 힘을 현실화 시킨다. 주인과 공명하기 때문에 항상 파랗고 은은한 기운이 감돈다.
+
+ID=115404351
+
+소울브링어
+
+<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n소울워커 전용 무기. 사용자의 감정을 영혼까지 끌어내어 강대한 힘을 현실화 시킨다. 주인과 공명하기 때문에 항상 파랗고 은은한 기운이 감돈다.
+
+ID=116404351
+
+소울디스트로이어
+
+<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n소울워커 전용 무기. 사용자의 감정을 영혼까지 끌어내어 강대한 힘을 현실화 시킨다. 주인과 공명하기 때문에 항상 파랗고 은은한 기운이 감돈다.
+
+ID=111554351
+
+윌 오브 뱅가드
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 이름없는 영웅이 아무도 보지 않는 곳에서 죽어가며 남긴 마지막 유산, 검은 주인을 그리워하듯 빛나고 있지만 이제 어디에도 이 검의 주인의 이름을 기억하는 자는 남아있지 않다.\n\n미안해… 항상 나와 싸워줬는데… 결국 이름 하나 붙여주지 못하고 먼저 가버리네…\n-??-
+
+ID=112554351
+
+홀리 나이트 플라이어
+
+<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\n\n소울워커 전용 무기. 가끔 제 의지를 갖고 밤 하늘을 날며 그 모습을 뽐내는 모습이 주변 사람들에 의해 목격된다. 너무 자만하듯 빛을 내어 되려 사용자의 시야를 방해하지만 그 점을 감수하더라도 성능만큼은 발군이다.\n\n밤 하늘을 날며 빛을 흩뿌리는 자유로운 혼, 그 모습이 아름다워 모두들 성스러운 밤을 휘날리며 비행한다는 뜻에서 이 이름을 붙여줬지.\n-제니스-
+
+ID=113554351
+
+하베스터
+
+<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n소울워커 전용 무기. 그 자체로 의지를 갖고 있어 사용자의 정신을 조금씩 침식하여 생명체의 목숨을 거두는 사명을 담담히 수행하도록 만든다. 평범한 사람이라면 충동에 침식당해 미쳐버리겠지만 매일 같이 싸우며 여러 목숨을 거두는 소울워커와는 궁합이 좋다.\n\n낫은 원래 수확을 위한 도구야. 그러니 걱정 마. 넌 제대로 사용하고 있어.\n-어디선가 들리는 활기찬 목소리-
+
+ID=114554352
+
+피지컬 피어
+
+<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n소울워커 전용 무기. 겉으로 봐선 별 다를 것 없는 평범한 무기지만 직접적인 물리적 피해를 입었을 때 새겨지는 공포는 피해자의 육체에 영원히 남아 커다란 트라우마를 만든다고 한다.\n\n오지마… 오지마! 오지마!!!.\n-불운의 피해자-
+
+ID=115554351
+
+로스트 오브 원더러
+
+<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n소울워커 전용 무기. 과거 소울워커이자 전 세계를 방랑하던 유랑악사가 애용하던 악기의 복제본. 원본을 잃어버리고 그를 그리워하던 유랑악사가 고독히 늙어가며 제작법을 남겼고 그것이 조금씩 개량되어 지금의 모습이 되었다.\n\n그녀는 나를 사랑했고, 나를 기억했고, 나를 위해 노래했지만 나는 그녀를 버렸다. 그녀를 배신한 죄는 죽어서도 갚지 못 할걸 알기에 여기, 그녀를 그리워하며 그린 그림을 남긴다\n-유랑악사-
+
+ID=116554352
+
+이그노어
+
+<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n소울워커 전용 무기. 그 육중한 몸체로부터 나오는 위압감이 모두의 입을 다물게 한다는 뜻에서 붙여진 이름. 그 위압감은 과학자들의 연구 대상이 될 만큼 강대하지만 방대한 힘의 원천을 밝혀낸 사람은 없다고 한다.\n\n마치 입다물고 쳐다보기만 하라고 자기주장을 하는 듯한 느낌 탓에 모두가 사용을 꺼려 제대로 다루는 사람은 없었다. 그저 존재하는 것 만으로 소울정크에게 큰 위협이 됐기에 마을 입구에 토템처럼 굳건히 세워 파리를 내쫓는 신세로 만든 것은 안타깝다.\n-소울 웨폰 연구자-
+
+ID=111554353
+
+피어풀 제노사이더
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n별 다른 이유 없이 순수하게 학살을 즐기는 자를 위해 특별 제작되어 증여되는 검.\n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다. \n하루 에스티아가 사용한다.
+
+ID=112554353
+
+피어풀 데스페라도
+
+<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\n\n자신의 즐거움을 위해 모든걸 버릴 준비가 된 자를 위해 특별 제작되어 증여되는 권총.\n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다. \n어윈 아크라이트가 사용한다.
+
+ID=113554353
+
+피어풀 블러디메리
+
+<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n피를 뒤집어 쓰는 것을 일생의 행복으로 여기는 자를 위해 특별 제작되어 증여되는 낫.\n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다. \n릴리 블룸메르헨이 사용한다.
+
+ID=114554353
+
+피어풀 도미네이터
+
+<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n자신의 주먹으로 모든걸 지배하려는 자를 위해 특별 제작되어 증여되는 권갑.\n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다. \n진 세이파츠가 사용한다.
+
+ID=115554353
+
+피어풀 새너토리움
+
+<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n전장의 상처입은 자를 위로하는 자를 위해 특별 제작되어 증여되는 기타.\n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다. \n스텔라 유니벨이 사용한다.
+
+ID=116554353
+
+피어풀 아포칼립스
+
+<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n자신을 방해하는 모든 것을 궤멸시키는 자를 위해 특별 제작되어 증여되는 해머.\n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다. \n이리스 유마가 사용한다.
+
+ID=510554353
+
+피어풀 헤드
+
+<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 투구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n하루 에스티아가 착용할 수 있다.
+
+ID=520554353
+
+피어풀 숄더
+
+<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 어깨 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n하루 에스티아가 착용할 수 있다.
+
+ID=530554353
+
+피어풀 바디
+
+<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 전신 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n하루 에스티아가 착용할 수 있다.
+
+ID=540554353
+
+피어풀 레그
+
+<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 이족 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n하루 에스티아가 착용할 수 있다.
+
+ID=510554354
+
+<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 투구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n어윈 아크라이트가 착용할 수 있다.
+
+ID=520554354
+
+<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 어깨 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n어윈 아크라이트가 착용할 수 있다.
+
+ID=530554354
+
+<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 전신 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n어윈 아크라이트가 착용할 수 있다.
+
+ID=540554354
+
+<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 이족 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n어윈 아크라이트가 착용할 수 있다.
+
+ID=510554355
+
+<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 투구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n릴리 블룸메르헨이 착용할 수 있다.
+
+ID=520554355
+
+<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 어깨 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n릴리 블룸메르헨이 착용할 수 있다.
+
+ID=530554355
+
+<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 전신 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n릴리 블룸메르헨이 착용할 수 있다.
+
+ID=540554355
+
+<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 이족 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n릴리 블룸메르헨이 착용할 수 있다.
+
+ID=510554356
+
+<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 투구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n진 세이파츠가 착용할 수 있다.
+
+ID=520554356
+
+<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 어깨 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n진 세이파츠가 착용할 수 있다.
+
+ID=530554356
+
+<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 전신 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n진 세이파츠가 착용할 수 있다.
+
+ID=540554356
+
+<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 이족 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n진 세이파츠가 착용할 수 있다.
+
+ID=510554357
+
+<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 투구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n스텔라 유니벨이 착용할 수 있다.
+
+ID=520554357
+
+<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 어깨 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n스텔라 유니벨이 착용할 수 있다.
+
+ID=530554357
+
+<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 전신 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n스텔라 유니벨이 착용할 수 있다.
+
+ID=540554357
+
+<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 이족 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n스텔라 유니벨이 착용할 수 있다.
+
+ID=510554358
+
+<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 투구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n이리스 유마가 착용할 수 있다.
+
+ID=520554358
+
+<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 어깨 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n이리스 유마가 착용할 수 있다.
+
+ID=530554358
+
+<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 전신 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n이리스 유마가 착용할 수 있다.
+
+ID=540545358
+
+<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n승부욕이 강한 자들을 위해 특별히 제작되어 증여되는 이족 방어구. \n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.\n이리스 유마가 착용할 수 있다.
+
+ID=410554353
+
+피어풀 넥클리스
+
+<font color='#FFBA85'>[액세서리 : 팬던트]<font color='#9D927B'>\n\n수 많은 전장에서 살아남은 자들을 기리기 위하여 증정되는 목걸이.\n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.
+
+ID=430554353
+
+피어풀 이어링
+
+<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\n\n수 많은 전장에서 살아남은 자들을 기리기 위하여 증정되는 귀걸이.\n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.
+
+ID=440554353
+
+피어풀 레드링
+
+<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\n\n수 많은 전장에서 살아남은 자들을 기리기 위하여 증정되는 반지.\n인간을 상대로 할 때의 승부욕에만 에너지가 반응하므로 일반적인 전투에선 능력치가 현저히 떨어진다.
+
+ID=440554354
+
+피어풀 블루링
+
+ID=711555353
+
+[설계도]드레드풀 제노사이더
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울웨폰 [드레드풀 제노사이더]의 제작에 필요한 설계도
+
+ID=712555353
+
+[설계도]드레드풀 데스페라도
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울웨폰 [드레드풀 데스페라도]의 제작에 필요한 설계도
+
+ID=713555353
+
+[설계도]드레드풀 블러디메리
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울웨폰 [드레드풀 블러디메리]의 제작에 필요한 설계도
+
+ID=714555353
+
+[설계도]드레드풀 도미네이터
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울웨폰 [드레드풀 도미네이터]의 제작에 필요한 설계도
+
+ID=715555353
+
+[설계도]드레드풀 새너토리움
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울웨폰 [드레드풀 새너토리움]의 제작에 필요한 설계도
+
+ID=716555353
+
+[설계도]드레드풀 아포칼립스
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울웨폰 [드레드풀 아포칼립스]의 제작에 필요한 설계도
+
+ID=710555353
+
+[설계도]드레드풀 헤드
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n헤드기어 [드레드풀 헤드]의 제작에 필요한 설계도
+
+ID=720555353
+
+[설계도]드레드풀 숄더
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n숄더기어 [드레드풀 숄더]의 제작에 필요한 설계도
+
+ID=730555353
+
+[설계도]드레드풀 바디
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n바디기어 [드레드풀 바디]의 제작에 필요한 설계도
+
+ID=740555353
+
+[설계도]드레드풀 레그
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n레그기어 [드레드풀 레그]의 제작에 필요한 설계도
+
+ID=710555359
+
+ID=720555354
+
+ID=730555354
+
+ID=740555354
+
+ID=710555355
+
+ID=720555355
+
+ID=730555355
+
+ID=740555355
+
+ID=710555356
+
+ID=720555356
+
+ID=730555356
+
+ID=740555356
+
+ID=710555357
+
+ID=720555357
+
+ID=730555357
+
+ID=740555357
+
+ID=710555358
+
+ID=720555358
+
+ID=730555358
+
+ID=740555358
+
+ID=213590201
+
+[핫썸머 수영복]모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 모자. 하루 에스티아가 착용할 수 있다.
+
+ID=213590901
+
+[핫썸머 수영복]의상
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 의상. 하루 에스티아가 착용할 수 있다.
+
+ID=213591201
+
+[핫썸머 수영복]신발
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 신발. 하루 에스티아가 착용할 수 있다.
+
+ID=223580901
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 의상. 어윈 아크라이트가 착용할 수 있다.
+
+ID=223581201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 신발. 어윈 아크라이트가 착용할 수 있다.
+
+ID=233660201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 모자. 릴리 블룸메르헨이 착용할 수 있다.
+
+ID=233660901
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 의상. 릴리 블룸메르헨이 착용할 수 있다.
+
+ID=233661201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 신발. 릴리 블룸메르헨이 착용할 수 있다.
+
+ID=243560901
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 의상. 진 세아피츠가 착용할 수 있다.
+
+ID=243561201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 신발. 진 세아피츠가 착용할 수 있다.
+
+ID=253580201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 모자. 스텔라 유니벨이 착용할 수 있다.
+
+ID=253580901
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 의상. 스텔라 유니벨이 착용할 수 있다.
+
+ID=253581201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 신발. 스텔라 유니벨이 착용할 수 있다.
+
+ID=263580201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 모자. 이리스 유마가 착용할 수 있다.
+
+ID=263580901
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 의상. 이리스 유마가 착용할 수 있다.
+
+ID=263581201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n즐거운 해변을 안전하게 만드는 자들이 애용하는 신발. 이리스 유마가 착용할 수 있다.
+
+ID=813590201
+
+[밀봉][핫썸머 수영복]모자
+
+[핫썸머 수영복] 모자가 들어있는 패키지이다.
+
+ID=813590901
+
+[밀봉][핫썸머 수영복]의상
+
+[핫썸머 수영복] 의상이 들어있는 패키지이다.
+
+ID=813591201
+
+[밀봉][핫썸머 수영복]신발
+
+[핫썸머 수영복] 신발이 들어있는 패키지이다.
+
+ID=823580901
+
+ID=823581201
+
+ID=833660201
+
+ID=833660901
+
+ID=833661201
+
+ID=843560901
+
+ID=843561201
+
+ID=853580201
+
+ID=853580901
+
+ID=853581201
+
+ID=863580201
+
+ID=863580901
+
+ID=863581201
+
+ID=813590203
+
+[코스튬 박스]핫썸머 수영복
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[핫썸머 수영복] 코스튬이 담긴 패키지로 해당 구성품은 하루만 착용할 수 있다.\n\n-구성품-\n[핫썸머 수영복] 모자 x 1\n[핫썸머 수영복] 의상 x 1\n[핫썸머 수영복] 신발 x 1
+
+ID=823580903
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[핫썸머 수영복] 코스튬이 담긴 패키지로 해당 구성품은 어윈만 착용할 수 있다.\n\n-구성품-\n[핫썸머 수영복] 의상 x 1\n[핫썸머 수영복] 신발 x 1
+
+ID=833660203
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[핫썸머 수영복] 코스튬이 담긴 패키지로 해당 구성품은 릴리만 착용할 수 있다.\n\n-구성품-\n[핫썸머 수영복] 모자 x 1\n[핫썸머 수영복] 의상 x 1\n[핫썸머 수영복] 신발 x 1
+
+ID=843560903
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[핫썸머 수영복] 코스튬이 담긴 패키지로 해당 구성품은 진만 착용할 수 있다.\n\n-구성품-\n[핫썸머 수영복] 의상 x 1\n[핫썸머 수영복] 신발 x 1
+
+ID=853580203
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[핫썸머 수영복] 코스튬이 담긴 패키지로 해당 구성품은 스텔라만 착용할 수 있다.\n\n-구성품-\n[핫썸머 수영복] 모자 x 1\n[핫썸머 수영복] 의상 x 1\n[핫썸머 수영복] 신발 x 1
+
+ID=863580203
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[핫썸머 수영복] 코스튬이 담긴 패키지로 해당 구성품은 이리스만 착용할 수 있다.\n\n-구성품-\n[핫썸머 수영복] 모자 x 1\n[핫썸머 수영복] 의상 x 1\n[핫썸머 수영복] 신발 x 1
+
+ID=711554353
+
+[설계도]피어풀 제노사이더
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울웨폰 [피어풀 제노사이더]의 제작에 필요한 설계도
+
+ID=712554353
+
+[설계도]피어풀 데스페라도
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울웨폰 [피어풀 데스페라도]의 제작에 필요한 설계도
+
+ID=713554353
+
+[설계도]피어풀 블러디메리
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울웨폰 [피어풀 블러디메리]의 제작에 필요한 설계도
+
+ID=714554353
+
+[설계도]피어풀 도미네이터
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울웨폰 [피어풀 도미네이터]의 제작에 필요한 설계도
+
+ID=715554353
+
+[설계도]피어풀 새너토리움
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울웨폰 [피어풀 새너토리움]의 제작에 필요한 설계도
+
+ID=716554353
+
+[설계도]피어풀 아포칼립스
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울웨폰 [피어풀 아포칼립스]의 제작에 필요한 설계도
+
+ID=710554353
+
+[설계도]피어풀 헤드
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n헤드기어 [피어풀 헤드]의 제작에 필요한 설계도
+
+ID=720554353
+
+[설계도]피어풀 숄더
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n숄더기어 [피어풀 숄더]의 제작에 필요한 설계도
+
+ID=730554353
+
+[설계도]피어풀 바디
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n바디기어 [피어풀 바디]의 제작에 필요한 설계도
+
+ID=740554353
+
+[설계도]피어풀 레그
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n레그기어 [피어풀 레그]의 제작에 필요한 설계도
+
+ID=710554359
+
+ID=720554354
+
+ID=730554354
+
+ID=740554354
+
+ID=710554355
+
+ID=720554355
+
+ID=730554355
+
+ID=740554355
+
+ID=710554356
+
+ID=720554356
+
+ID=730554356
+
+ID=740554356
+
+ID=710554357
+
+ID=720554357
+
+ID=730554357
+
+ID=740554357
+
+ID=710554358
+
+ID=720554358
+
+ID=730554358
+
+ID=740545358
+
+ID=511164351
+
+머신 기어 헤드
+
+<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 제작 과정에서 과학자의 욕심 덕분에 이것저것 덧붙여진 모습이지만 의외로 괜찮게 조합되어 위력을 낼 수 있다.
+
+ID=511264351
+
+비스트 팽
+
+<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 야수의 몸에서 착안된 디자인으로 그 외형만으로 상대에게 위협을 가할 수 있다.
+
+ID=511404351
+
+스피릿 헤드
+
+<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 사용자의 감정을 영혼까지 끌어내어 강대한 힘을 현실화 시킨다. 항상 파랗고 은은한 기운이 감돈다.
+
+ID=511554351
+
+어사인드 위즈덤
+
+<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 과거에 활약했던 소울워커들이 남긴 유산이자 미래, 그 하나하나의 파츠에 강대한 힘이 잠들어 있다.\n\n제가 여러분들에게 넘겨주는 것은 싸움으로 얻은 지식과 지혜. 부디 여러분들의 지식으로 더욱 풍요로운 세상을 만들어 주길 바랄게요.\n-선대 소울워커-
+
+ID=521164351
+
+머신 기어 숄더
+
+<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 제작 과정에서 과학자의 욕심 덕분에 이것저것 덧붙여진 모습이지만 의외로 괜찮게 조합되어 위력을 낼 수 있다.
+
+ID=521264351
+
+크루얼 차져
+
+<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 야수의 몸에서 착안된 디자인으로 그 외형만으로 상대에게 위협을 가할 수 있다.
+
+ID=521404351
+
+스피릿 숄더
+
+<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 사용자의 감정을 영혼까지 끌어내어 강대한 힘을 현실화 시킨다. 항상 파랗고 은은한 기운이 감돈다.
+
+ID=521554351
+
+어사인드 듀티
+
+<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 과거에 활약했던 소울워커들이 남긴 유산이자 미래, 그 하나하나의 파츠에 강대한 힘이 잠들어 있다.\n\n내가 너희들에게 넘겨주는 것은 사람들로부터 받은 책임과 의무. 강대함과 무거움을 그 어깨로 느껴 너희들이 선 자리가 어디인지 알기를 바란다.\n-선대 소울워커-
+
+ID=531164351
+
+머신 기어 바디
+
+<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 제작 과정에서 과학자의 욕심 덕분에 이것저것 덧붙여진 모습이지만 의외로 괜찮게 조합되어 위력을 낼 수 있다.
+
+ID=531264351
+
+이볼빙 셸
+
+<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 야수의 몸에서 착안된 디자인으로 그 외형만으로 상대에게 위협을 가할 수 있다.
+
+ID=531404351
+
+스피릿 바디
+
+<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 사용자의 감정을 영혼까지 끌어내어 강대한 힘을 현실화 시킨다. 항상 파랗고 은은한 기운이 감돈다.
+
+ID=531554351
+
+어사인드 포스
+
+<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 과거에 활약했던 소울워커들이 남긴 유산이자 미래, 그 하나하나의 파츠에 강대한 힘이 잠들어 있다.\n\n이 몸이 제군들에게 넘겨줄 것은 것은 힘과 권력이다! 너희들의 몸을 바쳐 지키고자 하는 것들을 위해 이 힘 얼마든지 이용하도록 해라!\n-선대 소울워커-
+
+ID=541164351
+
+머신 기어 레그
+
+<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 제작 과정에서 과학자의 욕심 덕분에 이것저것 덧붙여진 모습이지만 의외로 괜찮게 조합되어 위력을 낼 수 있다.
+
+ID=541264351
+
+래피드 풋
+
+<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 야수의 몸에서 착안된 디자인으로 그 외형만으로 상대에게 위협을 가할 수 있다.
+
+ID=541404351
+
+스피릿 레그
+
+<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 사용자의 감정을 영혼까지 끌어내어 강대한 힘을 현실화 시킨다. 항상 파랗고 은은한 기운이 감돈다.
+
+ID=541554351
+
+어사인드 로드
+
+<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n소울워커 전용 방어구. 과거에 활약했던 소울워커들이 남긴 유산이자 미래, 그 하나하나의 파츠에 강대한 힘이 잠들어 있다.\n\n제… 제가 여러분께 넘겨드릴 것은 소울워커의 길과 미래에요... 부디 두 다리를 통해 똑바른 길로 향하여 올바른 미래를 얻길 바랄게요...\n-선대 소울워커-
+
+ID=213450101
+
+[러블리 데이트 룩]모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 모자. 하루만이 장비할 수 있다.
+
+ID=213450701
+
+[러블리 데이트 룩]니트
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 니트. 하루만이 장비할 수 있다.
+
+ID=213450801
+
+[러블리 데이트 룩]치마
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 치마. 하루만이 장비할 수 있다.
+
+ID=213451101
+
+[러블리 데이트 룩]니삭스
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 니삭스. 하루만이 장비할 수 있다.
+
+ID=213451201
+
+[러블리 데이트 룩]부츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 부츠. 하루만이 장비할 수 있다.
+
+ID=213460901
+
+[스팀펑크 룩]의상
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n서로 다른 시대의 패션을 맞물리는 스팀펑크의 느낌을 내는 의상. 재킷과 양복의 조합이 예상외의 어른스러움을 풍겨낸다.
+
+ID=213460101
+
+[스팀펑크 룩]모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n서로 다른 시대의 패션을 맞물리는 스팀펑크의 느낌을 내는 모자. 머리에 썻다기 보단 얹었다는 표현이 어울린다.
+
+ID=213460501
+
+[스팀펑크 룩]장갑
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n서로 다른 시대의 패션을 맞물리는 스팀펑크의 느낌을 내는 장갑. 행동에 제약을 받지 않도록 손등만 감싸는 디자인이다.
+
+ID=213461101
+
+[스팀펑크 룩]스타킹
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n서로 다른 시대의 패션을 맞물리는 스팀펑크의 느낌을 내는 스타킹. 작은 방울 무늬가 포인트.
+
+ID=213461201
+
+[스팀펑크 룩]부츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n서로 다른 시대의 패션을 맞물리는 스팀펑크의 느낌을 내는 부츠. 고급 가죽 재질이라 광택이 난다.
+
+ID=223450101
+
+[하이틴 록스타]모자
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n방황하며 즐기는 10대 소년의 한 때를 그려놓은 듯한 모자. 어윈만이 장비할 수 있다
+
+ID=223450701
+
+[하이틴 록스타]상의
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n방황하며 즐기는 10대 소년의 한 때를 그려놓은 듯한 상의. 어윈만이 장비할 수 있다
+
+ID=223450801
+
+[하이틴 록스타]하의
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n방황하며 즐기는 10대 소년의 한 때를 그려놓은 듯한 하의. 어윈만이 장비할 수 있다
+
+ID=223452701
+
+ID=223451201
+
+[하이틴 록스타]부츠
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n방황하며 즐기는 10대 소년의 한 때를 그려놓은 듯한 부츠. 어윈만이 장비할 수 있다
+
+ID=223460901
+
+ID=223460101
+
+ID=223460501
+
+ID=223461201
+
+ID=233510101
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 모자. 릴리만이 장비할 수 있다.
+
+ID=233510701
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 니트. 릴리만이 장비할 수 있다.
+
+ID=233510801
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 치마. 릴리만이 장비할 수 있다.
+
+ID=233511101
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 니삭스. 릴리만이 장비할 수 있다.
+
+ID=233511201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 부츠. 릴리만이 장비할 수 있다.
+
+ID=233520901
+
+ID=233520101
+
+ID=233520501
+
+ID=233521101
+
+ID=233521201
+
+[스팀펑크 룩]신발
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n서로 다른 시대의 패션을 맞물리는 스팀펑크의 느낌을 내는 신발. 고급 가죽 재질이라 광택이 난다.
+
+ID=243450101
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n방황하며 즐기는 10대 소년의 한 때를 그려놓은 듯한 모자. 진만이 장비할 수 있다
+
+ID=243450701
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n방황하며 즐기는 10대 소년의 한 때를 그려놓은 듯한 상의. 진만이 장비할 수 있다
+
+ID=243450801
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n방황하며 즐기는 10대 소년의 한 때를 그려놓은 듯한 하의. 진만이 장비할 수 있다
+
+ID=243452701
+
+ID=243451201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n방황하며 즐기는 10대 소년의 한 때를 그려놓은 듯한 부츠. 진만이 장비할 수 있다
+
+ID=243460901
+
+ID=243460101
+
+ID=243460501
+
+ID=243461201
+
+ID=253450101
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 모자. 스텔라만이 장비할 수 있다.
+
+ID=253450701
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 니트. 스텔라만이 장비할 수 있다.
+
+ID=253450801
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 치마. 스텔라만이 장비할 수 있다.
+
+ID=253451101
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 니삭스. 스텔라만이 장비할 수 있다.
+
+ID=253451201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 부츠. 스텔라만이 장비할 수 있다.
+
+ID=253460901
+
+ID=253460101
+
+ID=253460501
+
+ID=253461101
+
+ID=253461201
+
+ID=263450101
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 모자. 이리스만이 장비할 수 있다.
+
+ID=263450701
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 니트. 이리스만이 장비할 수 있다.
+
+ID=263450801
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 치마. 이리스만이 장비할 수 있다.
+
+ID=263451101
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 니삭스. 이리스만이 장비할 수 있다.
+
+ID=263451201
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n데이트에 들뜬 소녀의 감성과 기합이 충만하게 들어가있는 부츠. 이리스만이 장비할 수 있다.
+
+ID=263460901
+
+ID=263460101
+
+ID=263460501
+
+ID=263461101
+
+ID=263461201
+
+ID=880103038
+
+크리스마스 트리와 장식
+
+<font color='#FFBA85'>[가구]<font color='#9D927B'>\n\n즐겁고 행복한 크리스마스를 보내기 위한 거대한 크리스마스 트리. 꼭대기에 걸린 모자는 아무도 걸어놓은 기억이 없다고 한다.
+
+ID=880103039
+
+크리스마스 트리
+
+<font color='#FFBA85'>[가구]<font color='#9D927B'>\n\n즐겁고 행복한 크리스마스를 보내기 위한 거대한 크리스마스 트리. 수 많은 꼬마전구가 밤하늘과 같이 빛나고 있다
+
+ID=880103040
+
+크리스마스 장식
+
+<font color='#FFBA85'>[가구]<font color='#9D927B'>\n\n즐겁고 행복한 크리스마스를 보내기 위한 원형 벽걸이 장식.
+
+ID=836000150
+
+그레이브 키퍼 무기 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 무기를 획득할 수 있는 아이템 상자. 가끔 달그락거리는 소리가 난다
+
+ID=836000151
+
+그레이브 키퍼 소드 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 소드를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 난다
+
+ID=836000193
+
+그레이브 키퍼 배럴 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 배럴을 획득할 수 있는 상자. 가끔 달그락거리는 소리가 난다
+
+ID=836000194
+
+그레이브 키퍼 사이드 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 사이드을 획득할 수 있는 상자. 가끔 달그락거리는 소리가 난다
+
+ID=836000195
+
+그레이브 키퍼 건틀렛 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 건틀렛을 획득할 수 있는 상자. 가끔 달그락거리는 소리가 난다
+
+ID=836000196
+
+그레이브 키퍼 코드 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 코드를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 난다
+
+ID=836000197
+
+그레이브 데몰리셔 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 데몰리셔를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 난다
+
+ID=836000198
+
+그레이브 키퍼 MK.II 무기 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 MK.II 무기를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 두 번 난다
+
+ID=836000199
+
+그레이브 키퍼 소드 MK.II 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 소드 MK.II를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 두 번 난다
+
+ID=836000200
+
+그레이브 키퍼 배럴 MK.II 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 배럴 MK.II를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 두 번 난다
+
+ID=836000210
+
+그레이브 키퍼 사이드 MK.II 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 사이드 MK.II를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 두 번 난다
+
+ID=836000211
+
+그레이브 키퍼 건틀렛 MK.II 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 건틀렛 MK.II를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 두 번 난다
+
+ID=836000212
+
+그레이브 키퍼 코드 MK.II 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 코드 MK.II를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 두 번 난다
+
+ID=836000213
+
+그레이브 키퍼 데몰리셔 MK.II 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 데몰리셔 MK.II를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 두 번 난다
+
+ID=836000214
+
+그레이브 키퍼 MK.III 무기 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 MK.III 무기를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 세 번 난다
+
+ID=836000215
+
+그레이브 키퍼 소드 MK.III 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 소드 MK.III를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 세 번 난다
+
+ID=836000216
+
+그레이브 키퍼 배럴 MK.III 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 배럴 MK.III를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 세 번 난다
+
+ID=836000217
+
+그레이브 키퍼 사이드 MK.III 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 사이드 MK.III를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 세 번 난다
+
+ID=836000218
+
+그레이브 키퍼 건틀렛 MK.III 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 건틀렛 MK.III를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 세 번 난다
+
+ID=836000219
+
+그레이브 키퍼 코드 MK.III 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 코드 MK.III를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 세 번 난다
+
+ID=836000220
+
+그레이브 키퍼 데몰리셔 MK.III 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 데몰리셔 MK.III를 획득할 수 있는 상자. 가끔 달그락거리는 소리가 세 번 난다
+
+ID=836000221
+
+그레이브 키퍼 방어구 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 방어구를 모두 획득할 수 있는 상자. 달그락거리는 소리가 엄청 난다\n-구성품-\n그레이브 키퍼 헤드 x 1\n그레이브 키퍼 숄더 x 1\n그레이브 키퍼 바디 x 1\n그레이브 키퍼 레그 x 1
+
+ID=836000222
+
+그레이브 키퍼 MK.II 방어구 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 MK.II 방어구를 모두 획득할 수 있는 상자. 달그락거리는 소리가 두 배로 난다\n-구성품-\n그레이브 키퍼 헤드 MK.II x 1\n그레이브 키퍼 숄더 MK.II x 1\n그레이브 키퍼 바디 MK.II x 1\n그레이브 키퍼 레그 MK.II x 1
+
+ID=836000223
+
+그레이브 키퍼 MK.III 방어구 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n그레이브 키퍼 MK.III 방어구를 모두 획득할 수 있는 상자. 달그락거리는 소리가 세 배로 난다\n-구성품-\n그레이브 키퍼 헤드 MK.III x 1\n그레이브 키퍼 숄더 MK.III x 1\n그레이브 키퍼 바디 MK.III x 1\n그레이브 키퍼 레그 MK.III x 1
+
+ID=836000224
+
+글레어즈 액세서리 2종(목걸이, 귀걸이)
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n2종의 글레어즈 액세서리를 획득할 수 있는 상자. 안으로부터 따스하고 은은한 빛이 흘러 나오고 있다.\n-구성품-\n글레어즈 샤드 팬던트 x 1\n글레어즈 샤드 이어링 x 1
+
+ID=836000225
+
+글레어즈 액세서리 2종(반지 2개)
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n2종의 글레어즈 샤드 링을 획득할 수 있는 상자. 안으로부터 따스하고 은은한 빛이 흘러 나오고 있다.\n-구성품-\n글레어즈 샤드 링 x 1\n글레어즈 샤드 에너지 링 x 1
+
+ID=836000226
+
+제니 5만 상자
+
+<font color='#FFBA85'>[아이템 패키지]<font color='#9D927B'>\n\n5만 제니를 획득할 수 있는 상자. 큰 도움은 안되겠지만 기본 살림에 보태 쓰자
+
+ID=836000227
+
+[뷰티스쿨룩]박스
+
+ID=836000228
+
+아카식 3성 히든 전용 전송기
+
+<font color='#FFBA85'>[아카식레코드 전송기]<font color='#9D927B'>\n\n3성 히든 아카식레코드를 획득할 수 있는 전송기. 무엇이 나올지는 아무도 모른다.
+
+ID=836000229
+
+이리스의 속옷 상자
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n속옷이 곱게 포장되어 있는 패키지. \n이리스의 [핑크 레이스 언더웨어] 속옷을 획득할 수 있다.
+
+ID=263390701
+
+바리케이드 라인 자켓
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n주황색 벨트로 감싸진 검은 후드 자켓. 함부로 접근하지 말아야 할 것 같다.
+
+ID=263390801
+
+바리케이드 라인 반바지
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n주황색 라인의 회색 반바지. 함부로 접근하지 말아야 할 것 같다.
+
+ID=263391601
+
+바리케이드 라인 헤드셋
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n비밀 요원처럼 보이기 위해 마련된 헤드셋. 아무런 기능은 없지만 함부로 접근하지 말아야 할 것 같다.
+
+ID=263390501
+
+바리케이드 라인 장갑
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n손가락 부분이 완전히 개방된 장갑. 함부로 접근하지 말아야 할 것 같다.
+
+ID=263391201
+
+바리케이드 라인 운동화
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n주황색 벨트의 하이탑 운동화. 마치 구속 신발 같은 느낌이 든다. 함부로 접근하지 말아야 할 것 같다.
+
+ID=711164314
+
+[설계도]메카니컬 쵸퍼
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n메카니컬 쵸퍼 설계도 이다
+
+ID=712164314
+
+[설계도]드레드노트
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n드레드노트 설계도 이다
+
+ID=713164314
+
+[설계도]그라인더
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n그라인더 설계도 이다
+
+ID=714164314
+
+[설계도]프레서
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n프레서 설계도 이다
+
+ID=715164314
+
+[설계도]헤비메탈
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n헤비메탈 설계도 이다
+
+ID=716164314
+
+[설계도]퓨빌라이져
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n퓨빌라이져 설계도 이다
+
+ID=711264314
+
+[설계도]블러드 이터
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n블러드 이터 설계도 이다
+
+ID=712264314
+
+[설계도]트윈 크로커
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n트윈 크로커 설계도 이다
+
+ID=713264314
+
+[설계도]리퍼 본
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n리퍼 본 설계도 이다
+
+ID=714264314
+
+[설계도]크로울러
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n크로울러 설계도 이다
+
+ID=715264314
+
+[설계도]킬러 노이즈
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n킬러 노이즈 설계도 이다
+
+ID=716264314
+
+[설계도]드레드풀 아이
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n드레드풀 아이 설계도 이다
+
+ID=711404314
+
+[설계도]소울커터
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울커터 설계도 이다
+
+ID=712404314
+
+[설계도]소울스플리터
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울스플리터 설계도 이다
+
+ID=713404314
+
+[설계도]소울슬라이서
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울슬라이서 설계도 이다
+
+ID=714404314
+
+[설계도]소울비터
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울비터 설계도 이다
+
+ID=715404314
+
+[설계도]소울브링어
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울브링어 설계도 이다
+
+ID=716404314
+
+[설계도]소울디스트로이어
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n소울디스트로이어 설계도 이다
+
+ID=711554314
+
+[설계도]윌 오브 뱅가드
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n윌 오브 뱅가드 설계도 이다
+
+ID=712554314
+
+[설계도]홀리 나이트 플라이어
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n홀리 나이트 플라이어 설계도 이다
+
+ID=713554314
+
+[설계도]하베스터
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n하베스터 설계도 이다
+
+ID=714554314
+
+[설계도]피지컬 피어
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n피지컬 피어 설계도 이다
+
+ID=715554314
+
+[설계도]로스트 오브 원더러
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n로스트 오브 원더러 설계도 이다
+
+ID=716554314
+
+[설계도]이그노어
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n이그노어 설계도 이다
+
+ID=711164334
+
+[설계도]머신 기어 헤드
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n머신 기어 헤드 설계도 이다
+
+ID=712164334
+
+ID=713164334
+
+ID=714164334
+
+ID=715164334
+
+ID=716164334
+
+ID=711264334
+
+[설계도]비스트 팽
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n비스트 팽 설계도 이다
+
+ID=712264334
+
+ID=713264334
+
+ID=714264334
+
+ID=715264334
+
+ID=716264334
+
+ID=711404334
+
+[설계도]스피릿 헤드
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n스피릿 헤드 설계도 이다
+
+ID=712404334
+
+ID=713404334
+
+ID=714404334
+
+ID=715404334
+
+ID=716404334
+
+ID=711554334
+
+[설계도]어사인드 위즈덤
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n어사인드 위즈덤 설계도 이다
+
+ID=712554334
+
+ID=713554334
+
+ID=714554334
+
+ID=715554334
+
+ID=716554334
+
+ID=711164344
+
+[설계도]머신 기어 숄더
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n머신 기어 숄더 설계도 이다
+
+ID=712164344
+
+ID=713164344
+
+ID=714164344
+
+ID=715164344
+
+ID=716164344
+
+ID=711264344
+
+[설계도]크루얼 차져
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n크루얼 차져 설계도 이다
+
+ID=712264344
+
+ID=713264344
+
+ID=714264344
+
+ID=715264344
+
+ID=716264344
+
+ID=711404344
+
+[설계도]스피릿 숄더
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n스피릿 숄더 설계도 이다
+
+ID=712404344
+
+ID=713404344
+
+ID=714404344
+
+ID=715404344
+
+ID=716404344
+
+ID=711554344
+
+[설계도]어사인드 듀티
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n어사인드 듀티 설계도 이다
+
+ID=712554344
+
+ID=713554344
+
+ID=714554344
+
+ID=715554344
+
+ID=716554344
+
+ID=711164354
+
+[설계도]머신 기어 바디
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n머신 기어 바디 설계도 이다
+
+ID=712164354
+
+ID=713164354
+
+ID=714164354
+
+ID=715164354
+
+ID=716164354
+
+ID=711264354
+
+[설계도]이볼빙 셸
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n이볼빙 셸 설계도 이다
+
+ID=712264354
+
+ID=713264354
+
+ID=714264354
+
+ID=715264354
+
+ID=716264354
+
+ID=711404354
+
+[설계도]스피릿 바디
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n스피릿 바디 설계도 이다
+
+ID=712404354
+
+ID=713404354
+
+ID=714404354
+
+ID=715404354
+
+ID=716404354
+
+ID=711554354
+
+[설계도]어사인드 포스
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n어사인드 포스 설계도 이다
+
+ID=712554354
+
+ID=713554354
+
+ID=714554354
+
+ID=715554354
+
+ID=716554354
+
+ID=711164364
+
+[설계도]머신 기어 레그
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n머신 기어 레그 설계도 이다
+
+ID=712164364
+
+ID=713164364
+
+ID=714164364
+
+ID=715164364
+
+ID=716164364
+
+ID=711264364
+
+[설계도]래피드 풋
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n래피드 풋 설계도 이다
+
+ID=712264364
+
+ID=713264364
+
+ID=714264364
+
+ID=715264364
+
+ID=716264364
+
+ID=711404364
+
+[설계도]스피릿 레그
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n스피릿 레그 설계도 이다
+
+ID=712404364
+
+ID=713404364
+
+ID=714404364
+
+ID=715404364
+
+ID=716404364
+
+ID=711554364
+
+[설계도]어사인드 로드
+
+<font color='#FFBA85'>[설계도]<font color='#9D927B'>\n어사인드 로드 설계도 이다
+
+ID=712554364
+
+ID=713554364
+
+ID=714554364
+
+ID=715554364
+
+ID=716554364
+
+ID=263090902
+
+[EV][뷰티 스쿨 룩]의상
+
+ID=263090102
+
+[EV][뷰티 스쿨 룩]모자
+
+ID=263091102
+
+[EV][뷰티 스쿨 룩]스타킹
+
+ID=263091202
+
+[EV][뷰티 스쿨 룩]신발
+
+ID=836000230
+
+[바리케이드 라인]헤드셋 상자
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n이리스의 바리케이드 라인 헤드셋 코스튬이 들어있는 상자
+
+ID=836000231
+
+[바리케이드 라인]신발 상자
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n이리스의 바리케이드 라인 신발이 들어있는 상자
+
+ID=836000232
+
+[바리케이드 라인]장갑 상자
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n이리스의 바리케이드 라인 장갑이 들어있는 상자
+
+ID=836000233
+
+[바리케이드 라인]의상 상자
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n이리스의 바리케이드 라인 의상이 들어있는 상자
+
+ID=111054451
+
+울브즈 팽
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 소울워커에게 죽어간 늑대들의 원한이 담겨있는 검.\n\n아이러니하네, 인간에게 향했던 원한을 그 인간이 사용하다니.\n-미리엄-
+
+ID=111084451
+
+퍼펫 나이프
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 거대 인형이 들던 식칼을 개조하였다. 거대 인형에겐 식칼이지만 사람이 대검으로 쓰기엔 적당하다.\n\n그 섬뜩한 걸 들고 다니는건가...\n-벤자민-
+
+ID=111114451
+
+템프테이션 슬라이스
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 베시의 자원인 템프테이션 스톤을 개조하여 만들었다.\n\n걱정 마라, 고유한 파장은 이미 지웠다.\n-벤자민-
+
+ID=111134451
+
+문나이트
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 에드거가 사라지고 난 뒤에 수색한 병동에서 쪽지와 함께 발견되었다.\n\n다음엔 더욱 화려한 무대에서! 더욱 아름다운 게스트와 함께!\n-에드거-
+
+ID=111164451
+
+브릭 투핸더 소드
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 도로에 부서져있든 소울 정크의 파편들을 모아 개조하였다. 날이 뭉툭해서 검이라기보단 몽둥이에 가깝다.\n\n소울정크화 되었던 돌맹이는 분자의 밀도가 높아져 상당한 경도를 지니게 되죠.\n-빅터-
+
+ID=111184451
+
+폴루티드 디바이더
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 본래는 평범한 무기였지만 지하수로 안에서 오염되어 스스로 진화해 버렸다.\n\n으아… 썩은내… 저리 치워!\n-브록-
+
+ID=111214451
+
+타란튤라
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 저택에 있던 단단한 거미줄이 응축되었다. 음산한 분위기를 풍겨내면서 가끔 거미줄을 뽑는다.\n\n거미줄이 엄청 나오네요, 이것도 소울정크화의 부작용일까요?\n-빅터-
+
+ID=111234451
+
+캐미스트리 커터
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 화학 작용을 이용하여 대상을 깔끔하게 절단한다 .\n\n우와 굉장해요! 당근은 커녕 도마까지 깔끔하게 썰려요!\n-신시아, 방송을 하며-
+
+ID=111264451
+
+트레지디 오브 스워드
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 어째서인지 떨어져 있었다. 누가, 어떻게, 어째서 남긴 것일까?\n\n베어… 줘… 제…발…\n-???-
+
+ID=111284451
+
+프론트라인 디펜더
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 최전방으로 나서는 대원을 위하여 특별 제조되었다.\n\n검은 검을수록 검지\n-토오루-
+
+ID=111304451
+
+톡신 블레이드
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 포이즌의 강습 부대에게서 강탈한 무기. 독은 없지만 그녀의 이름을 모티브로 이름지어졌다.
+
+ID=111324451
+
+안티에어 세이버
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 소울 에너지를 검기로 바꾸어 날릴 수 있어 공중을 날고 있는 적에 대한 살상력이 뛰어나다고 한다.\n\n하늘은 맡기겠다, 내 무기는 투척용이 아니니 말이지.\n-케인바렐-
+
+ID=111354452
+
+포스리전 스트롱거
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 내재하고 있는 소울 에너지가 점점 강해져 상당한 잠재력을 갖추고 있다.\n\n힘이 잠겨 있을 뿐 무한 동력은 아니야… 언젠가는 한계에 부딪힐 걸?\n-세듀린-
+
+ID=111384451
+
+엑스큐터
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 소울에너지와 함께 처형자의 혼이 담겨있어 동화되어 버리면 어쩐지 죄악감을 느끼지 않은 채 적을 베어버릴 수도 있다.\n\n이 무기는 정신적으로 위험하니까 사용에 신중을 가하도록 해.\n-세니아-
+
+ID=111404451
+
+라반:블레이더 폼
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 니어 소울워커 라반을 연구하여 만들어졌다. 라반 본인을 닮아 어쩐지 나사 빠진 듯 하지만 성능 만큼은 기대할 만 하다.\n\n라반… 검으로… 칩니다...\n-라반-
+
+ID=111434451
+
+홀릭스워드
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 컨트롤 베이스의 안에서 발견한 병기를 소울워커 무기로 개조하였다.\n\n이상합니다, 어째서인지 동류의 냄새가 납니다.\n-제시-
+
+ID=111454452
+
+버스터 건블레이드
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 버스터코어의 기술이 결집되어 무기로써 재탄생했다. 체감할 수는 없을 정도지만 상대를 절단할 때 소량의 폭발을 일으켜 더욱 확실히 베어넘긴다.\n\n버스터코어… 과학자로써 가장 흥미로우면서도 동시에 가장 두려운 존재로군요. \n-사라-
+
+ID=111474451
+
+워머신 디바이더
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 기계를 상대로 강한 성능을 내도록 특수 제작된 무기. 단순 성능도 뛰어나지만 소울에너지에 의해 발현되는 재밍 효과는 기계들의 명령체계에 혼선을 줄 수 있다. \n\n엄청난 방해음파… 제 능력도 방해받으니까 멀리 떨어져 주세요.\n-아만다-
+
+ID=111494451
+
+슈퍼 빔소드
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 슈퍼 아벨로부터 떨어져나온 부품을 소울워커 무기로 개조했다. 네이밍은 원본을 따라 촌스럽지만 능력은 확실히 슈퍼하다. \n\n응, 오리지널. 슈퍼아벨의 위대함을 깨달았구나?\n-아벨-
+
+ID=111514451
+
+블러썸 화이트릴리
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 능력을 개화한 노아를 모티브로 만들어진 대검. 무거워 보이지만 의외로 경량화가 잘 되어 다루기는 쉽다. \n\n청순하고 가련한 모습은 한 송이의 백합이군요...\n-노아-
+
+ID=111534451
+
+링 오브 리벤지
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 익시드를 발현한 에녹을 모티브로 만들어졌다. 자유롭고 구속받지 않는 그녀의 성격을 따라 내제하고 있는 소울에너지의 원천이 되는 감정이 간섭받아 날뛰는 듯 하다.\n\n왜 그렇게 화가 나 있는거야? 뭐가 널 그리 화나게 했는데?\n-에녹-
+
+ID=111554453
+
+더 세이비어
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 현대 과학으로 설명할 수 없는 기술을 갖고 있기에 많은 것이 그저 불명으로 묵인되어있다. 다룰 수는 없지만, 세계를 구원하는 힘을 갖고 있는 듯 하다.\n\n종말한 세상의 모습을 본 당신이라면… 세계를 구원할 의지 또한 생겨나겠죠.\n-???-
+
+ID=112054451

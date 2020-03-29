@@ -1,0 +1,3910 @@
+ID=839280048
+
+0
+
+Umber Brown: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can dye Ephnel's head with Umber Brown.
+
+ID=839280049
+
+Ash Brown: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can dye Ephnel's head with Ash Brown.
+
+ID=839280050
+
+Cedar Brown: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can dye Ephnel's head with Cedar Brown.
+
+ID=839280051
+
+Burgundy Red: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can dye Ephnel's head with Burgundy Red.
+
+ID=839280052
+
+Citrus Green: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can dye Ephnel's head with Citrus Green.
+
+ID=839280053
+
+Hot Pink: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can dye Ephnel's head with Hot Pink.
+
+ID=839280054
+
+Passion Red: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can dye Ephnel's head with Passion Red.
+
+ID=839280055
+
+Fuchsia Pink: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nou can dye Ephnel's head with Fuchsia Pink.
+
+ID=839280056
+
+Marigold: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can dye Ephnel's head with Marigold.
+
+ID=839280057
+
+Blackberry Black: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can dye Ephnel's head with Blackberry Black.
+
+ID=839280058
+
+Snow White: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can dye Ephnel's head with Snow White
+
+ID=839180001
+
+One Sided Pony Tail: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOne Sided Pony tail. Of course, only Ephnel can wear it.
+
+ID=839180002
+
+Blooming Spear Hair 2
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlooming Spear Hair 2
+
+ID=839180003
+
+Blooming Spear Hair 3
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlooming Spear Hair 3
+
+ID=839180004
+
+Waveside Tail: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWaveside tail. Of course, only Ephnel can wear it.
+
+ID=839180005
+
+Cute Bang Side Tail: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCute bang side tail. Of course, only Ephnel can wear it.
+
+ID=839180006
+
+Natural Straight Hair: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nNatural straight hair. Of course, only Ehpnel can wear it.
+
+ID=839180007
+
+Blooming Spear Hair 7
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlooming Spear Hair 7
+
+ID=839180008
+
+Blooming Spear Hair 8
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlooming Spear Hair 8
+
+ID=839180009
+
+Blooming Spear Hair 9
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlooming Spear Hair 9
+
+ID=839180010
+
+Blooming Spear Hair 10
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlooming Spear Hair 10
+
+ID=839180011
+
+Blooming Spear Hair 11
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlooming Spear Hair 11
+
+ID=839180012
+
+Blooming Spear Hair 12
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlooming Spear Hair 12
+
+ID=839180013
+
+Desire Hair: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nDesire Hair: Ephnel
+
+ID=839380001
+
+Violet: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Violet.
+
+ID=839380002
+
+Marine Blue: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Marine Blue.
+
+ID=839380003
+
+Golden Yellow: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Golden Yellow.
+
+ID=839380004
+
+Real Red: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Real Red.
+
+ID=839380005
+
+Real Brown: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Real Brown.
+
+ID=839380006
+
+Heart Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Heart Eyes.
+
+ID=839380007
+
+Star Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Star Eyes.
+
+ID=839380008
+
+Red Heart Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Red Heart Eyes.
+
+ID=839380009
+
+Red Star Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Red Star Eyes.
+
+ID=839380010
+
+Yellow Heart Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Heart Eyes.
+
+ID=839380011
+
+Yellow Star Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Yellow Star Eyes.
+
+ID=839380012
+
+Blue Heart Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Blue Heart Eyes.
+
+ID=839380013
+
+Blue Star Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Blue Star Eyes.
+
+ID=839380014
+
+Brown Heart Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Brown Heart Eyes.
+
+ID=839380015
+
+Brown Star Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Brown Star Eyes.
+
+ID=839380016
+
+Dice Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Dice Eyes.
+
+ID=839380017
+
+Black Glooming Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Black Glooming Eyes.
+
+ID=839380018
+
+Blue Glooming Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Blue Glooming Eyes.
+
+ID=839380019
+
+Green Glooming Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Green Glooming Eyes.
+
+ID=839380020
+
+Red Glooming Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Red Glooming Eyes.
+
+ID=839380021
+
+Yellow Glooming Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Yellow Glooming Eyes.
+
+ID=839380022
+
+Desire Eyes: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Ephnel's eye color to Desire Eyes.
+
+ID=839480001
+
+Bright Skin: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEphnel's Bright Skin tone.
+
+ID=839480002
+
+Normal Skin: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\Ephnel's Normal Skin tone.
+
+ID=839480003
+
+Sunlight Skin: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEphnel's Sunlight Skin tone.
+
+ID=839480005
+
+Cream Brown Tanning Skin: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEphnel's Cream Brown Tanning Skin tone.
+
+ID=839480006
+
+Honey Bronze Tanning Skin: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEphnel's Honey Bronze Tanning Skin tone.
+
+ID=839480007
+
+Bright Brown Tanning Skin: Ephnel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEphnel's Bright Brown Tanning Skin tone.
+
+ID=283008071
+
+[Star Forest League Old Military Uniform] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned military uniform given by Star Forest League. It's old fashioned, so it feels old.
+
+ID=283008081
+
+[Star Forest League Old Military Uniform] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned Military Uniform Skirt from Star Forest League. It's old fashioned, so it feels old.
+
+ID=283008121
+
+[Star Forest League Old Military Uniform] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots of the Old-fashioned Military Uniform given by Star Forest League. It's old fashioned, so it feels old.
+
+ID=883008071
+
+[Seal] [Star Forest League Old Military Uniform] Top
+
+[Star Forest League Old Military Uniform] This package contains the Top.
+
+ID=883008081
+
+[Seal] [Star Forest League Old Military Uniform] Skirt
+
+[Star Forest League Old Military Uniform] This package contains the Skirt.
+
+ID=883008121
+
+[Seal] [Star Forest League Old Military Uniform] Boots
+
+[Star Forest League Old Military Uniform] This package contains the Boots.
+
+ID=883008072
+
+[Costume Package] Star Forest League Old Military Uniform
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of Star Forest Uniform for Ephnel. These items can only be worn by Ephnel.\n-Components-\n[Star Forest Uniform] Top x 1\n[Star Forest Uniform] Skirt x 1\n[Star Forest Uniform] Boots x 1
+
+ID=282003191
+
+[Miner's Clothing] Working Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hat that is worn by miners.
+
+ID=282003041
+
+[Miner's Clothing] Dust Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is a dust mask, a mask worn by miners.
+
+ID=282003091
+
+[Miner's Outfit] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is a costume worn by miners. Top and bottom can be worn at the same time.
+
+ID=282003051
+
+[Miner's Outfit] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThes are gloves worn by miners.
+
+ID=282003121
+
+[Miner's Outfit] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA pair of boots worn by miners.
+
+ID=282003131
+
+[Miner's Outfit] Hip Accessory
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt is a hip accessory worn by miners.
+
+ID=282004031
+
+[Ned Company Mercenary Outfit] Goggles
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGoggles worn by Ned Company mercenaries. They're strong like the Ned Company is.
+
+ID=282004041
+
+[Ned Company Mercenary Outfit] Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nMask worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=282004091
+
+[Ned Company Mercenary Outfit] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nNed Company Mercenary costume. It is strong like the Ned Company is. Top and bottom can be worn at the same time.
+
+ID=282004051
+
+[Ned Company Mercenary Outfit] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves worn by Ned Company mercenaries. It is strong like Ned Company is.
+
+ID=282004121
+
+[Ned Company Mercenary Outfit] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=282004131
+
+[Ned Company Mercenary Outfit] Walkie Talkie Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA walkie talkie bag worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=282005021
+
+[Star Forest League Regular Uniform] Ceremonial Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCeremonial Cap of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=282005071
+
+[Star Forest League Regular Uniform] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular military uniform given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=282005081
+
+[Star Forest League Regular Uniform] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular Military bottom given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=282005031
+
+[Star Forest League Regular Uniform] Officer Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOfficer's Glasses of the Regular Military Uniform given by Star Forest League. If you put it on, I think I can make a good punch.
+
+ID=282005051
+
+[Star Forest League Regular Uniform] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=282005111
+
+[Star Forest League Regular Uniform] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStockings of regular military uniforms given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=282005121
+
+[Star Forest League Regular Uniform] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular Military Shoes given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=282005011
+
+[Star Forest League Regular Uniform] Officer's Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOfficer's Hat from the Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=282005101
+
+[Star Forest League Regular Uniform] Communication Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCommunication Bag of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=282006021
+
+[Ned Improved Military Uniform] Ceremonial Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hat worn by elite mercenaries of Ned Company. It's an enemy, but you can't help being cool.
+
+ID=282006011
+
+[Ned Improved Military Uniform] Headset
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHeadset worn by elite mercenaries of Ned Company. It is state of the art. Music is not coming out, but somehow humming.
+
+ID=282006071
+
+[Ned Improved Military Uniform] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA military uniform worn by the elite mercenaries of Ned Company. The neck is covered with fur and warm.
+
+ID=282006081
+
+[Ned Improved Military Uniform] Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nTrousers worn by elite mercenaries of the Ned Company. The smooth line is a gem.
+
+ID=282006031
+
+[Ned Improved Military Uniform] Communication Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGlasses worn by elite mercenaries of the Ned Company. It's a good place to stay. Are you going to have more combat power?
+
+ID=282006051
+
+[Ned Improved Military Uniform] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves of military uniform worn by elite mercenaries of Ned Company. It's an enemy, but you can't help being cool.
+
+ID=282006101
+
+[Ned Improved Military Uniform] Laptop Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA laptop bag carried by the elite mercenaries of Ned Company. Elite, after all, is different.
+
+ID=282006121
+
+[Ned Improved Military Uniform] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots of military uniform worn by elite mercenaries of Ned Company. Good ventilation
+
+ID=283007021
+
+[Trader's Union Uniform] Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe cap of the costume given by the trader's union in the meaning of cherish. This makes me feel like I have to work part-time in the Trader's Union.
+
+ID=283007071
+
+[Trader's Union Uniform] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA jacket given by the trader's Union in the sense of cherish. This makes me feel like I have to work part-time at the Trader's Union.
+
+ID=283007081
+
+[Trader's Union Uniform] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe skirt of the costume which Trader's Union gave in the meaning of cherish. This makes me feel like I have to work part-time in the Trader's Union.
+
+ID=283007111
+
+[Trader's Union Uniform] Knee Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nKnee Socks of the costume which trader's union gave in meaning of cherish. This makes me feel like I have to work part-time in the Trade Union.
+
+ID=283007121
+
+[Trader's Union Uniform] Sneakers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe sneakers of the costumes which trader's union gave in the meaning of cherish. This makes me feel like I have to work part-time at the Trade Union.
+
+ID=883007021
+
+[Seal] [Trader's Union Uniform] Cap
+
+[Trader's Union Uniform] This package contains the Cap.
+
+ID=883007071
+
+[Seal] [Trader's Union Uniform] Top
+
+[Trader's Union Uniform] This package contains the Top.
+
+ID=883007081
+
+[Seal] [Trader's Union Uniform] Skirt
+
+[Trader's Union Uniform] This package contains the Skirt.
+
+ID=883007111
+
+[Seal] [Trader's Union Uniform] Knee Socks
+
+[Trader's Union Uniform] This package contains the Knee Socks.
+
+ID=883007121
+
+[Seal] [Trader's Union Uniform] Sneakers
+
+[Trader's Union Uniform] This package contains the Sneakers.
+
+ID=883007072
+
+[Costume Package] Ephnel's Trader's Union Uniform
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains [Trader's Union Uniform] costume and can only be worn by Ephnel.\n\n-Component-\n[Trader's Union Uniform] Cap x 1\n[Trader's Union Uniform] x 1\n[Trader's Union Uniform] Skirt x 1\n[Trader's Union Uniform] Knee Socks x 1\n[Trader's Union Uniform] Sneakers x 1
+
+ID=718146322
+
+[Blueprint] [Miner's Clothing] Working Hat
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Miner's Safety Hat.
+
+ID=718146312
+
+[Blueprint] [Miner's Clothing] Dust Mask
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Miner's Dust Mask.
+
+ID=718146313
+
+[Blueprint] [Miner's Clothing] Costume
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Miner's Costume.
+
+ID=718146314
+
+[Blueprint] [Miner's Clothing] Gloves
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Miner's Gloves.
+
+ID=718146317
+
+[Blueprint] [Miner's Clothing] Boots
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Miner's Boots.
+
+ID=718246311
+
+[Blueprint] [Ned Company Mercenary Outfit] Goggles
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Googles of the NED Company Mercenary Outfit.
+
+ID=718246312
+
+[Blueprint] [Ned Company Mercenary Outfit] Mask
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting the Mask of the NED Company Mercenary Outfit.
+
+ID=718246313
+
+[Blueprint] [Ned Company Mercenary Outfit] Costume
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting the Costume of the NED Company Mercenary Outfit.
+
+ID=718246314
+
+[Blueprint] [Ned Company Mercenary Outfit] Gloves
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Gloves of the NED Company Mercenary Outfit.
+
+ID=718246317
+
+[Blueprint] [Ned Company Mercenary Outfit] Boots
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Boots of the NED Company Mercenary Outfit.
+
+ID=718406323
+
+[Blueprint] [Star Forest League Regular Uniform] Ceremonial Cap
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting the Ceremonial Cap of the Star Forest League Uniform.
+
+ID=718406313
+
+[Blueprint] [Star Forest League Regular Uniform] Top
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting the Top of the Star Forest League Uniform.
+
+ID=718406315
+
+[Blueprint] [Star Forest League Regular Uniform] Skirt
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting the Skirt of the Star Forest League Uniform.
+
+ID=718406311
+
+[Blueprint] [Star Forest League Regular Uniform] Officer Glasses
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Officer Glasses of the Star Forest League Uniform.
+
+ID=718406314
+
+[Blueprint] [Star Forest League Regular Uniform] Gloves
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Gloves of the Star Forest League Uniform.
+
+ID=718406318
+
+[Blueprint] [Star Forest League Regular Uniform] Stockings
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Stockings of the Star Forest League Uniform.
+
+ID=718406317
+
+[Blueprint] [Star Forest League Regular Uniform] Shoes
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Shoes of the Star Forest League Uniform.
+
+ID=718406324
+
+[Blueprint] [Star Forest League Regular Uniform] Officer's Hat
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Officer's Hat of the Star Forest League Uniform.
+
+ID=718406319
+
+[Blueprint] [Star Forest League Regular Uniform] Communication Bag
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting the Communication Bag of the Star Forest League Uniform.
+
+ID=718120101
+
+[Blueprint] [Ned Improved Military Uniform] Ceremonial Cap
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting NED's Improved Military Uniform Ceremonial Cap.
+
+ID=718120102
+
+[Blueprint] [Ned Improved Military Uniform] Headset
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting NED's Improved Military Uniform Headset.
+
+ID=718120701
+
+[Blueprint] [Ned Improved Military Uniform] Top
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting NED's Improved Military Uniform Top.
+
+ID=718120801
+
+[Blueprint] [Ned Improved Military Uniform] Pants
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting NED's Improved Military Uniform Pants.
+
+ID=718120301
+
+[Blueprint] [Ned Improved Military Uniform] Communication Glasses
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting NED's Improved Military Uniform Communication Glasses.
+
+ID=718120501
+
+[Blueprint] [Ned Improved Military Uniform] Gloves
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting NED's Improved Military Uniform Gloves.
+
+ID=718121001
+
+[Blueprint] [Ned Improved Military Uniform] Laptop Bag
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting NED's Improved Military Uniform Laptop Bag.
+
+ID=718121201
+
+[Blueprint] [Ned Improved Military Uniform] Boots
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting NED's Improved Military Uniform Boots.
+
+ID=281060101
+
+[Trader's Union Uniform] Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe cap of the costume given by the Trader's Union in the meaning of cherish. This makes me feel like I have to work part-time in the Trade Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=281060701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe jacket of the costume given by the Trader's Union in the meaning of cherish.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=281060801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe skirt of the costume which Trader's Union gave in the meaning of cherish. I feel like I should have a part-time job at the Trader's Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=281061101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nKnee Socks which trader's union gave in the meaning of cherish. This makes me feel like I have to work part-time at the Trade Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=281061201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe sneakers of the costumes which Trader's Union gave in the meaning of cherish. This makes me feel like I have to work part-time in the Trader's Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=881061272
+
+[Temporary] Trader's Union Uniform
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nA package containing all of the [Trader's Union Uniform] costumes that Ephnel can wear. Please note that clothes in the package can only be worn for 3 days.\n\n-Components-\n[Trader's Union Uniform] Top\n[Trader's Union Uniform] Skirt\n[Trader's Union Uniform] Knee Socks\n[Trader's Union Uniform] Sneakers
+
+ID=281070701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned military uniform given by Star Forest League. It's old fashioned, so it feels old.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=281070801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned military uniform skirt from Star Forest League. It's old fashioned, so it feels old.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=281071201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\n Old Fashioned military boots given by Star forest league. It's old fashioned, so it feels old.\n For some reason, they disappear after 3 days of use from the inventory.
+
+ID=881071272
+
+[Temporary] Star Forest League Old Military Uniform
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nThis package contains all pieces of the Star Forest League Costume, can only be worn by Ephnel. Please note that clothes in the package can only be worn for 3 days.\nComponents-\n[Star Forest League Old Military Uniform] Top\n[Star Forest League Old Military Uniform] Skirt\n[Star Forest League Old Military Uniform] Boots
+
+ID=718112070
+
+[Blueprint] Marionette Mask
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Marionette Mask.
+
+ID=718112071
+
+[Blueprint] Spider Queen Mask
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Spider Queen Mask.
+
+ID=718112072
+
+[Blueprint] Phantom Mask
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Phantom Mask.
+
+ID=718112073
+
+[Blueprint] Mono Eye Mask
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Mono Eye Mask.
+
+ID=718110530
+
+[Blueprint] Cure Jelly Bracelet
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Cure Jelly Bracelet.
+
+ID=718111331
+
+[Blueprint] Medical Box Pouch
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Medical Box Pouch.
+
+ID=718110132
+
+[Blueprint] Money Bag 
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Money Bag.
+
+ID=718110133
+
+[Blueprint] VVIP Icon
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting VVIP Icon.
+
+ID=718111334
+
+[Blueprint] Nano Kit Pouch
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting a Nano Kit Pouch.
+
+ID=718111035
+
+[Blueprint] Extra Large Monkey Wrench
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting an Extra Large Monkey Wrench.
+
+ID=718110536
+
+[Blueprint] Revive Device Bracelet
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Revive Device Bracelet.
+
+ID=718110137
+
+[Blueprint] Angel Ring
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Angel Ring.
+
+ID=718110138
+
+[Blueprint] Junk Knight's Mask
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Junk Knight's Mask.
+
+ID=718112039
+
+[Blueprint] Puppet Mask
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Puppet's Mask.
+
+ID=718110540
+
+[Blueprint] NED Company Bracelet
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting NED Company Bracelet.
+
+ID=718110141
+
+[Blueprint] Rapid Flame Horns
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBluepting for crafting Rapid Flame Horns.
+
+ID=718110142
+
+[Blueprint] Drone Hat
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprting for crafting a Drone Hat.
+
+ID=718110343
+
+[Blueprint] Laban's Sunglasses
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Laban's Sunglasses.
+
+ID=718110544
+
+[Blueprint] Broken Shield Bracelet
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Broken Shield Bracelet.
+
+ID=718111045
+
+[Blueprint] Broken Shield Bag
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Broken Shield Bag.
+
+ID=718110146
+
+[Blueprint] Combo Icon
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Combo Icon.
+
+ID=718110147
+
+[Blueprint] Blue Question Mark Icon
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Blue Question Mark Icon.
+
+ID=718110148
+
+[Blueprint] Blue Exclamation Mark Icon
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Blue Exclamation Mark Icon.
+
+ID=718110549
+
+[Blueprint] Compass Bracelet
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Compass Bracelet.
+
+ID=718111050
+
+[Blueprint] Explorer's Bag
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Explorer's Bag.
+
+ID=718110151
+
+[Blueprint] Cold Wine Glass
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Cold Wine Glass.
+
+ID=718110152
+
+[Blueprint] Never Cold Curry Rice
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Never Cold Curry Rice.
+
+ID=718110153
+
+[Blueprint] SS Icon
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting SS Icon.
+
+ID=718110154
+
+[Blueprint] Premium SS Icon
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Premium SS Icon.
+
+ID=718110155
+
+[Blueprint] F Symbol
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting F Symbol.
+
+ID=718110156
+
+[Blueprint] Premium F Symbol
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Premium F Symbol.
+
+ID=718110557
+
+[Blueprint] Coin Bracelet
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Coin Bracelet.
+
+ID=718110158
+
+[Blueprint] Piggy Bank Hairband
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Piggy Bank Hairband.
+
+ID=718110559
+
+[Blueprint] Ether Bracelet
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Ether Bracelet.
+
+ID=718110360
+
+[Blueprint] Ether Shape Glasses
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Ether Shape Glasses.
+
+ID=718111361
+
+[Blueprint] Hourglass Pouch
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Hourglass Pouch.
+
+ID=718111062
+
+[Blueprint] Alarm Clock Bag
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Alarm Clock Bag.
+
+ID=718110163
+
+[Blueprint] Dreamland Hat
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Dreamland Hat.
+
+ID=718111064
+
+[Blueprint] Teddy Bear Bag
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Teddy Bear Bag.
+
+ID=718110365
+
+[Blueprint] Trisha's Hacking Goggles
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Trisha's Hacking Goggles.
+
+ID=718111366
+
+[Blueprint] Trisha's Hacking Module
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Trisha's Hacking Module.
+
+ID=718112067
+
+[Blueprint] Zenith's Cat Mask
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Zenith's Cat Mask.
+
+ID=718111068
+
+[Blueprint] Zenith's Deluxe Bag
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Zenith's Deluxe Bag.
+
+ID=781740101
+
+[Blueprint] Seed Flowerpot
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Seed Flowerpot.
+
+ID=781750101
+
+[Blueprint] Sprout Flowerpot
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Sprout Flowerpot.
+
+ID=781760101
+
+[Blueprint] Straw Hat
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Straw Hat.
+
+ID=781770101
+
+[Blueprint] Egg Straw Hat
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Egg Sraw Hat.
+
+ID=781780101
+
+[Blueprint] Withered Sprout
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Withered Sprout.
+
+ID=781790101
+
+[Blueprint] Shovel on the head
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Shovel on the head.
+
+ID=781800501
+
+[Blueprint] Silver Gloves
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Silver Gloves.
+
+ID=781810501
+
+[Blueprint] Fresh Gloves
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Fresh Gloves.
+
+ID=781830101
+
+[Blueprint] Tower above the head
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Tower above the head.
+
+ID=781822001
+
+[Blueprint] Golden Mask
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Golden Mask.
+
+ID=281702001
+
+Marionette Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIf Edgar's mask was intact, he would have looked like this. I think I can hide my feelings effectively.
+
+ID=281712001
+
+Spider Queen Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nMask made with reference to Violet Motherless's head. It feels like a suspicious party.
+
+ID=281722001
+
+Phantom Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nMask made with reference to phantom mask. Note that there are multiple eyes, but the view is not actually extended.
+
+ID=281732001
+
+Mono Eye Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe mask that replaced the symbol of the robot, the mono eye. It is likely that the mono eye will move whining along the line of sight.
+
+ID=281300501
+
+Cure Jelly Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBracelet with a cure jelly shaped pendant. Somehow it feels like it's healing.
+
+ID=281311301
+
+Medical Box Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA Medical Box Pouch that makes it easy to carry your first aid kit. Anytime, anywhere seems to be able to cure the injured.
+
+ID=281320101
+
+Money Bag 
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's a heavier head and a neck disk, but I don't know how to get rich.
+
+ID=281330101
+
+VVIP Icon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nVVIP icon presented to Trader's union as a special customer. It's glorious, but I'm a little sad because of the money I spent.
+
+ID=281341301
+
+Nano Kit Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nNano Kit Pouch made for easy carrying. It seems that it can repair broken goods anytime and anywhere.
+
+ID=281351001
+
+Extra Large Monkey Wrench
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAn Extra Large Monkey Wrench that only people who have done a lot of repairs and who have seen the end of repairs can have. It may seem like a really good technician.
+
+ID=281360501
+
+Revive Device Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBracelet with a revive device as a pendant. It seems like the dead can be revived.
+
+ID=281370101
+
+Angel Ring
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAngel Ring is given to a person who has experienced so many deaths. When worn, it feels like an angel.
+
+ID=281380101
+
+Junk Knight's Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA Junk Knight Mask made from data collected by killing many soul junks. You can sense the feeling of junk knight when worn.
+
+ID=281392001
+
+Puppet Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPuppet's head mask made from data collected by defeating numerous dolls. It can be misunderstood as a puppet when worn.
+
+ID=281400501
+
+Ned Company Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA bracelet made of data collected by defeating many enemies of Ned Company. I think I can be disguised as a Ned Company.
+
+ID=281410101
+
+Rapid Flame Horns
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHorns made from data collected by defeating numerous Firestream Batallion. I think I can be disguised as one of them.
+
+ID=281420101
+
+Drone Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA drone made of data collected by defeating numerous robots. Floating above the head seems to perform a tremendous function, but in fact it is floating above the head has no function.
+
+ID=281430301
+
+Laban's Sunglasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSunglasses made to look like the sunglasses worn by Blood Soul Worker Laban. Made by Star Forest League as a contribution to numerous battles with Blood Soul Worker.
+
+ID=281440501
+
+Broken Shield Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBroken shield-shaped bracelet made to honor the contributions of many enemies. The shield is broken, but it doesn't seem to help a lot.
+
+ID=281451001
+
+Broken Shield Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA broken shield shaped bag made to commemorate the countless enemy shields. The shield is broken, but it doesn't seem to help a lot.
+
+ID=281460101
+
+Combo Icon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCombo icon fixed in midair as Combo recorder overheated. ST-Lab put it in a headband type tablet device so that you can easily carry it around. I think you can do a better combo if you wear it.
+
+ID=281470101
+
+Blue Question Mark Icon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlue question mark icon designed to honor a contribution that has been asked by people. Beware that you are mistaken as a normal villager, not a soul worker, and someone may go to complete the quest.
+
+ID=281480101
+
+Blue Exclamation Mark Icon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA blue exclamation point icon designed to honor the contribution bought by many people. Be careful you may be mistaken for a regular villager and not a soulworker, someone might go for a commission.
+
+ID=281490501
+
+Compass Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA compass bracelet designed to congratulate you for wandering around the mission area. If you wear it, you won't get lost anywhere.
+
+ID=281501001
+
+Explorer's Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAn adventurer's backpack bag, dedicated to commemorating numerous mission areas. Wearing it you seem to be able to survive anywhere.
+
+ID=281510101
+
+Cold Wine Glass
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA headband made to remind the fulfillment of the mission so fast that the alcohol does not cool down even after the pour in the glass. If you're thirsty during the mission, it might be a good drink.
+
+ID=281520101
+
+Never Cold Curry Rice
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA headband made to remind the mission of serving three minutes of curry in a microwave so that you can eat freshly cooked curry when you go on a mission. If you're hungry during a mission, you might want to eat a curry over your head.
+
+ID=281530101
+
+SS Icon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHead accessory made to remind accomplishing a lot of rank rank SS. Like the SS rank, it seems to shine even from a distance.
+
+ID=281540101
+
+Premium SS Icon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA head accessory made to remind the accomplishment of mission rank SS. Added wings to add glamor. Like the SS rank, it seems to shine even from a distance.
+
+ID=281550101
+
+F Symbol
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA head accessory made to remind the achievement of Rank F. The F pendant shines red like a stigma so you can see it from afar.
+
+ID=281560101
+
+Premium F Symbol
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA head accessory made to remind the accomplishment of mission rank F. Devil's wings were attached to the existing red F pendant, meaning that he did something that he couldn't do on purpose.
+
+ID=281570501
+
+Coin Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCoin bracelet made for those who like to collect coins. If you are kicking, I think I can pick up coins better.
+
+ID=281580101
+
+Piggy Bank Hairband
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nFor those who love to collect coins, a piggy bank hat designed to save the collected coins right away. It may be good to use a pig belly in an emergency.
+
+ID=281590501
+
+Ether Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEther Bracelet made by refining Ether for those who like it. If you are wearing it, you will be able to collect more ethers.
+
+ID=281600301
+
+Ether Shape Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGlasses made by refining ether for those who love to collect it. If you wear it, you can see the ether without it..
+
+ID=281611301
+
+Hourglass Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSoul Worker has been in the world for a long time, created by the power of refined records. It can be used in the form of a accessory.
+
+ID=281621001
+
+Alarm Clock Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAn alarm clock created by Soulworker for a long time in the world and with the power of refined records. Can be used in the form of a bag.
+
+ID=281630101
+
+Dreamland Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nFor those who seem to have a lot of fatigue, a hat made to sleep well. As soon as you wear it, you'll be able to fall asleep.
+
+ID=281641001
+
+Teddy Bear Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis doll is made for a good night's sleep for those who seem to have accumulated a lot of fatigue. It is made in the form of a bag for carrying. If you wear it, you will be able to fall asleep immediately.
+
+ID=281650301
+
+Trisha's Hacking Goggles
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hacking goggle made by Tricia in exchange for frequent use of reinforcement. Trisha's dear meaning is included. It is modeled simply and does not have the function of hacking.
+
+ID=281661301
+
+Trisha's Hacking Module
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hacking module created by Trisha in exchange for frequent use of enhancement Trisha's dear meaning is included. It is modeled simply and does not have the function of hacking.
+
+ID=281672001
+
+Zenith's Cat Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA cat mask made by Zenith in exchange for his frequent use of the craft. Zenith's dear meaning is contained.
+
+ID=281681001
+
+Zenith's Deluxe Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe bag made by Zenith in exchange for making frequent use. Although it is a bag of everything, the bag is empty. Zenith's dear meaning is contained.
+
+ID=281740101
+
+Seed Flowerpot
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'> \n\nHeaddress to a person who planted a lot of crops. It's a pot of seeds, but it doesn't sprout when you spray it.
+
+ID=281750101
+
+Sprout Flower Pots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'> \n\nHeaddress to the person who became a master of planting crops. It is a flowerpot with sprouts, but it does not grow even if it is sprayed with water.
+
+ID=281760101
+
+Straw Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'> \n\nA hat that's given to a person who harvest a lot of crops. The straw is sticking out of the shape and you can use it for the scarecrow.
+
+ID=281770101
+
+Egg Straw Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'> \n\nHat given to a person who is good as farmer. The fact that the bird was so engrossed as to the laying of eggs is evidence of the farmer.
+
+ID=281780101
+
+Withered Sprout
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'> \n\nA headdress given to the person who has withered the crop. The buds wilted yellow due to lack of management. Let's reflect.
+
+ID=281790101
+
+Shovel on the head
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'> \n\nHeaddress for the person who ruined the crop. Don't try to pull it out because it's not really in your head.
+
+ID=281800501
+
+Silver Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'> \n\nGloves given to someone who takes care of another's crop. Many crops have been saved by your hands.
+
+ID=281810501
+
+Fresh Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'> \n\nGloves given to someone who takes care of other crops like their own. Your hand is God's hand that blooms life.
+
+ID=281822001
+
+Golden Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'> \n\nA Golden Mask. It feels very rich when worn.
+
+ID=281830101
+
+Tower above your head
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'> \n\nA tower standing above your head. Care should be taken when passing low passages.
+
+ID=282028101
+
+Proof of Torch
+
+<font color='#FFBA85'>[Costume]<font color='#9D927B'>\n\nWings left by the great beings as proof to those who played such hot flames. Over a short period of time, the heat in the wings cools down and turns into a plain pile of straw.\nIt can be worn by Ephnel.
+
+ID=282029101
+
+Proof of Perforation
+
+<font color='#FFBA85'>[Costume]<font color='#9D927B'>\n\nWings left as proof by a great being to those who have the ability to challenge the sky. It is shattered by the wind and fades away, eventually extinguishing.\nIt can be worn by Ephnel.
+
+ID=282030101
+
+Proof of Dark Night
+
+<font color='#FFBA85'>[Costume]<font color='#9D927B'>\n\nWings that great beings have left as proof to those who have endless powers. Every night over the course of a few days, a little bit of the night air is finally lost.\It can be worn by Ephnel.
+
+ID=282085101
+
+Dark Arbiter Suit
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA suit made to explore the interior of the void. It is not known whether a blueprint exists even though nothing has been explained about the void. Maybe it's a blueprint created on a different time axis...
+
+ID=282085911
+
+Dark Arbiter Headgear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHead gear made to explore the interior of the void. It is not known whether the blueprint exists even though nothing has been explained about the void. Maybe it's a blueprint created on a different time axis...
+
+ID=282086101
+
+Golden Arbiter Suit
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe lacquer was added to the suit made to explore the inside of the void. Nothing developed better than the original spear silver, but the bright golden color that surrounds your body will surely envy others.
+
+ID=282086911
+
+Golden Arbiter Headgear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe addition of a lacquer to the headgear made for exploring the interior of the void. Nothing developed better than the original spear silver, but the bright golden color that surrounds your body will surely envy others.
+
+ID=283087071
+
+Barricade Line Jacket
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBarricade Line Jacket. I don't think we should approach it.
+
+ID=283087081
+
+Barricade Line Shorts
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBarricade Line Shorts. I don't think we should approach it.
+
+ID=283087051
+
+Barricade Line Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBarricade Line Gloves. I don't think we should approach it.
+
+ID=283087121
+
+Barricade Line Sneakers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBarricade Line Sneakers. I don't think we should approach it.
+
+ID=283077071
+
+Pink Rider Jacket
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA pink rider's jacket worn by women who enjoy the wind. The sensibility is like a wild horse is full of femininity and the desire to run.
+
+ID=283077081
+
+Pink Belted Hot Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHot pants with pink belts. The sensibility is like a wild horse is full of femininity and the desire to run.
+
+ID=283077121
+
+Ankle Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWomen's shoe that covers your ankles. The sole of the shoe is made of high friction material, which is optimized for riding.
+
+ID=283078071
+
+Yellow Rider Jacket
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA yellow rider's jacket worn by women who enjoy the wind. The sensibility is like a wild horse is full of femininity and the desire to run.
+
+ID=283078081
+
+Yellow Belted Hot Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA yellow belted hot pants worn by women who enjoy the wind. The sensibility is like a wild horse is full of femininity and the desire to run.
+
+ID=283078121
+
+ID=281150101
+
+Green Sprout
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGreen sprout that looks very fresh. You may be wondering if there is dirt on your head.
+
+ID=281160101
+
+Star Headband
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA headband with a star that seems to be attached to a Christmas tree. It may look cute when worn, but it may vary from person to person.
+
+ID=281170101
+
+Dandelion Flower
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA very fresh looking dandelion flower. You can't doubt whether you're eating food from your head.
+
+ID=281180101
+
+Mini Umbrella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA mini umbrella that seems to be stuck in a cocktail glass. I put it on my head, but I don't think it will stop the rain.
+
+ID=281190101
+
+Royal Ribbon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA royal ribbon that seems to be on the head of a female mouse in a fairy tale world. Regardless of gender, it can seem very difficult to wear.
+
+ID=281100301
+
+Heart Shape Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHeart-shaped glasses that seem to go to the amusement park. Depending on the writing, it can look very funny or cute.
+
+ID=281110301
+
+Star Shape Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStar-shaped glasses that seem to go to the amusement park. Please note that you may be mistaken as a part-time student.
+
+ID=281120301
+
+Nerdy Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWhen worn, these glasses feel like you'll be intrigued. For some reason, it seems that BGM will flow out while shining and shining..
+
+ID=281130301
+
+Square Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's too square, so it's unusual. Be careful as the angled face may look more angled when worn.
+
+ID=281140301
+
+Big Nose Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is often used as a gag. No matter how handsome and pretty you wear it, you can break it.
+
+ID=281151301
+
+Brown Leather Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBottom part made of fine leather. The material is high quality but feels alright when viewed from afar.
+
+ID=281161301
+
+Cylindrical Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt is a brown cylindrical pouch. Note that it may roll off easily if dropped.
+
+ID=281171301
+
+Drink Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAccessory to hold soda cans. If you leave the can without drinking it all, it can cause catastrophic events in your stomach.
+
+ID=281181301
+
+Paper Bundle
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA bundle of paper, that seems to have an important message or map drawn on it. In reality, however, nothing is written.
+
+ID=281191301
+
+Knitted Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPouch made of knitted material. If you put a heavy object, it can easily hang.
+
+ID=281010601
+
+Pink Lace Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPink Lace Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281020601
+
+Red Check Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRed Check Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281030601
+
+Star Blue Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStar Blue Underwear for Ephnel . I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281040601
+
+Cutie Lace Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCutie Lace Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281130601
+
+Pure White Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPure White Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281140601
+
+Pinky White Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPinky White Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281150601
+
+Slim Purple Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSlim Purple Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281160601
+
+Green Line Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGreen Line Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281170601
+
+Pink Line Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPink Line Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281050601
+
+Leopard Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLeopard Underwear for Ephnel.\n\nYou can see the look of the underwear when you wear a skirt-like costume.\nYou can also check the furniture in the bath room and the shower booth.
+
+ID=281060601
+
+Orange Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOrange Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281070601
+
+Violet Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nViolet Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281080601
+
+Blue Flower Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlue Flower Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281090601
+
+Flamengo Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nFlamengo Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=283009061
+
+Red Rose Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRed Rose Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=283010061
+
+Black Rose Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlack Rose Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=283011061
+
+White Rose Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWhite Rose Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=881010601
+
+[Seal] Pink Lace Underwear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Pink Lace Underwear.
+
+ID=881020601
+
+[Seal] Red Check Underwear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Red Check Underwear.
+
+ID=881030601
+
+[Seal] Star Blue Underwear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Star Blue Underwear.
+
+ID=881040601
+
+[Seal] Cutie Lace Underwear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Cutie Lace Underwear.
+
+ID=881100601
+
+[Seal] Pure Pink Underwear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Pure Pink Underwear.
+
+ID=881110601
+
+[Seal] Pure Sky Underwear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Pure Sky Underwear.
+
+ID=881120601
+
+[Seal] Striped Underwear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Striped Underwear.
+
+ID=881130601
+
+[Seal] Deep Dark Underwear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Deep Dark Underwear.
+
+ID=881140601
+
+[Seal] Pinky White Underwear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Pinky White Underwear.
+
+ID=881150601
+
+[Seal] Slim Purple Underwear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Slim Purple Underwear.
+
+ID=881160601
+
+[Seal] Green Line Underwear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Green Line Underwear.
+
+ID=881170601
+
+[Seal] Pink Line Underwear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Pink Line Underwear.
+
+ID=883009061
+
+[Seal] Red Rose Underwear
+
+This package contains Red Rose Underwear.
+
+ID=883010061
+
+[Seal] Black Rose Underwear
+
+This package contains Black Rose Underwear.
+
+ID=883011061
+
+[Seal] White Rose Underwear
+
+This package contains White Rose Underwear.
+
+ID=282010602
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEphnel's Pink Lace Underwear. I don't know why, but only Ephnel can wear it.\nIt will disappear 3 days after you wear it. It's a mystery.\n\nYou can see how your underwear looks when you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booths of My Room's furniture.
+
+ID=282020602
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEphnel's Red Check Underwear. I don't know why, but only Ephnel can wear it.\nIt will disappear three days after wearing. It's a mystery.\n\nYou can see the look of your underwear when you wear a skirt-like costume.\nYou can also see your room's bath and shower booth.
+
+ID=282030602
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEphnel's Star Blue Underwear. I don't know why, but only Ephnel can wear it.\nIt will disappear three days after wearing. It's a mystery.\n\nYou can see the look of your underwear when you wear a skirt-like costume.\nYou can also see your room's bath and shower booth.
+
+ID=282040602
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEphnel's Cutie Lace Underwear. I don't know why, but only Ephnel can wear it.\nIt will disappear 3 days after you wear it. It's a mystery.\n\nYou can see how your underwear looks when you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booths of My Room's furniture.
+
+ID=282050602
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\nEphnel's Leopard underwear. The leopard pattern is beautiful.\nIt will disappear 3 days after wearing. It's a mystery.\n\nYou can see the look of your underwear when you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booths of My Room's furniture.
+
+ID=281088081
+
+Star Earrings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGlittering starlight earrings.\nEphnel can wear it.
+
+ID=281089081
+
+Heart Earrings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEarrings with a lovely heart shape.\nEphnel can wear them.
+
+ID=281090081
+
+Sakura Earrings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEarrings inspired by cherry blossoms.\nEphnel can wear it.
+
+ID=281091081
+
+Circle Earrings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEarrings believed to bring monetary luck.\nEphnel can wear them.
+
+ID=281092041
+
+Black Belt Choker
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThere are chokers around the neck, and details of the neckline.\nEphnel can wear them.
+
+ID=281093041
+
+Red Velvet Choker
+
+ID=281094041
+
+Silver Ring Choker
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA choker around the neck, a small silver ring, can be worn by Ephnel.
+
+ID=281095041
+
+Pacifier
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPacifier where babies play in their mouths. Even if an adult asks, it is addictive. It is also good for tartar prevention.\nEphnel can wear it.
+
+ID=281096031
+
+Striped glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt is not the glasses of this world. Glasses that can make you feel stylish just by putting on. Sight gave up for style.\nEphnel can wear it.
+
+ID=281097031
+
+Bad Sunglasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe glasses seemed too strong. It has the effect of making your face look smaller.\nEphnel can wear it.
+
+ID=281881901
+
+Eye of the Watcher
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe headgear is given to a person who has made a significant contribution to stopping The Thing. It was made in another world, but most of it was lost and disappeared somewhere.
+
+ID=283087601
+
+Barricade Line Headset
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA headset designed to look like a secret agent. It doesn't have any function, but I don't think it should be approached.
+
+ID=281100601
+
+Pure Pink Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPure Pink Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281110601
+
+Pure Sky Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPure Sky Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=281120601
+
+Striped Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStriped Underwear for Ephnel. I don't know why, but only Ephnel can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=283389101
+
+[Blueprint] Dark Arbiter Suit
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Dark Arbiter Suit.
+
+ID=283381901
+
+[Blueprint] Dark Arbiter Headgear
+
+<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\n\nBlueprint for crafting Dark Arbiter Headgear.
+
+ID=980000108
+
+Shape of Wind
+
+<font color='#FFBA85'>[Costume]<font color='#9D927B'>\n\nThe vast colors of freedom are visibly materialized and shaped like wings.
+
+ID=980000208
+
+Shape of Flames
+
+<font color='#FFBA85'>[Costume]<font color='#9D927B'>\n\nThe colors of the hot ups were visibly materialized and shaped like wings.
+
+ID=980000308
+
+Shape of Light
+
+<font color='#FFBA85'>[Costume]<font color='#9D927B'>\n\nBrilliant colors of honor are visibly materialized and shaped like wings.
+
+ID=281090701
+
+White short sleeved T-Shirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWhite short-sleeved T-shirt that emphasizes a very general feel. It's very common, but if you look pretty in this general outfit, you are said to be beautiful. Let's challenge beauty.
+
+ID=281100701
+
+Checkered Shirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCheckered Shirt to emphasize a very common feel. Depending on the bottoms and accessories you wear together, you can cross between the worst and best fashions.
+
+ID=281110701
+
+Striped T-Shirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStriped t-shirt that emphasizes a very general feel. When talking about the basic target, there is a reason to appear in the ranks. Emphasize the glamorous charm among the colorful clothes.
+
+ID=281120801
+
+Ivory Skinny Jeans
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIvory skinny jeans. If your skin color is the same as your pants, it may seem that you are not wearing it at first glance.
+
+ID=281130801
+
+Brown Cotton Shorts
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBrown cotton shorts that seem to go on exploration with a backpack full of luggage. Looks very cool.
+
+ID=281140801
+
+Black Vanta
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIf you wear it well, you can become a fashion people, if you wear it badly, you can become a fashion terrorist. If you wear it well, you can look stylish.
+
+ID=283003021
+
+[Sacred Judgment] Veil
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA veil of one who is endowed with the role of a judge to condemn evil with the sanctity of body and spirit.\nReading in godly prayers is essential before sacred judgment.\nEphnel can wear it.
+
+ID=283003091
+
+[Sacred Judgment] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA costume of one who is endowed with the role of a judge to condemn evil with the sanctity of body and spirit.\nReading in godly prayers is essential before sacred judgment.\nEphnel can wear it.
+
+ID=283003051
+
+[Sacred Judgment] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves of the one who is endowed with the role of judge to condemn evil with the sanctity of body and spirit.\nReading in godly prayers before the sacred judgment is mandatory.\nEphnel can wear it.
+
+ID=283003111
+
+[Sacred Judgment] Knee Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nKnee Socks of the one who is endowed with the role of judge to condemn evil with the sanctity of body and spirit.\nReading in godly prayers before the sacred judgment is mandatory.\nEphnel can wear it.
+
+ID=283003121
+
+[Sacred Judgment] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes of the one who is endowed with the role of judge to condemn evil with the sanctity of body and spirit.\nReading in godly prayers before the sacred judgment is mandatory.\nEphnel can wear it.
+
+ID=283008141
+
+[Sacred Judgment] Judge's Spear
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Spear]<font color='#9D927B'>\n\nA spear of a person who is endowed with the role of a judge to condemn evil by the sacredness of body and spirit.\nIt only adds an image to the soul weapon that it has. Ephnel can wear it.
+
+ID=883003021
+
+[Seal] [Sacred Judgment] Veil
+
+[Sacred Judgement] This package cotains the Veil.
+
+ID=883003091
+
+[Seal] [Sacred Judgement] Costume
+
+[Sacred Judgement] This package cotains the Costume.
+
+ID=883003051
+
+[Seal] [Sacred Judgment] Gloves
+
+[Sacred Judgment] This package cointains Gloves.
+
+ID=883003111
+
+[Seal] [Sacred Judgment] Knee Socks
+
+[Sacred Judgment] This package cointains Knee Socks.
+
+ID=883003121
+
+[Seal] [Sacred Judgment] Shoes
+
+[Sacred Judgment] This package cointains Shoes.
+
+ID=883008141
+
+[Seal] [Sacred Judgment] Judge's Spear
+
+[Sacred Judgment] This package cointains Judge's Spear.
+
+ID=883003072
+
+[Costume Package] Ephnel's Sacred Judgment
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Ephnel's Holy Judgment] costume that can only be worn by Ephnel.\n\n-Component- \ n [Sacred Judgment] Veil X 1\n[Sacred Judgment] Costume X 1\n[Sacred Judgment] Knee Socks X 1 \n[Sacred Judgment] Gloves X 1\n[Sacred Judgment] Shoes X 1\n[Sacred Judgment] Judge's Spear X 1
+
+ID=283004141
+
+[Unbreakable Spear] Weapon
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Spear]<font color='#9D927B'>\n\nA spear created by Ephnel with the most familiar and comfortable design for her hand.\nIt doesn't do anything extra powerful because it only overlays the image shape on the soul weapon that it has.\nEphnel can wear it.
+
+ID=283034021
+
+Black Cat Ear Headband
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlack cat ears headband for those who want to follow the cute black cat.\n
+
+ID=283034121
+
+Black Cat Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlack cat shoes for those who want to follow a cute black cat.\n
+
+ID=283034051
+
+Black Cat Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlack cat gloves for those who want to follow a cute black cat.\n
+
+ID=283035051
+
+Fluffy Glutton Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves made of soft Glutton hands.\nIt's so cute that it's so hearty and popular.
+
+ID=283035121
+
+Fluffy Glutton Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes made of soft Glutton feet.\nIt's so cute that it's very hearty and popular.
+
+ID=283036051
+
+White Fluffy Glutton Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPure white Gloves made from the soft hands of Gluttons.
+
+ID=283036121
+
+White Fluffy Glutton Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPure white Shoes that looks like Glutton soft feet.
+
+ID=282037101
+
+Shape of Horror
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIn the past, when the fear of unbearable horror was lost, the glory of courage has been lost, resulting in the appearance of dark bloody wings. \nEphnel can wear it.
+
+ID=282038101
+
+Shape of Pain
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA terrible agony of the past, which has lost the glory of patience, has resulted in dark purple wings.\nEphnel can wear it.
+
+ID=282039101
+
+Shape of Destruction
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nUnsurpassed destruction, the glorious past, lost the glory of peace and took the form of a dark golden wing.\nEphnel can wear it.
+
+ID=282040101
+
+Shape of Hatred
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEndless hatred has lost the glory of charity in the past, giving it a dark blue wing.\nEphnel can wear it.
+
+ID=282041101
+
+Shape of Anguish
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nUnprecedented anguish, the glorious past lost the glory of freedom and took the form of a dark white wing.\nEphnel can wear it.
+
+ID=282042021
+
+Outing
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPerfect for a hanbok with a relaxed flavour.\nIt's designed to be easy to use on outside outings.\nEphnel can wear it.
+
+ID=282043911
+
+Glutton Doll Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA doll mask with a glutton-like appearance that can be seen everywhere in the Cloudream.\nIt comfortably wraps around your head and shows a comfortable fit. \nEphnel can wear it.
+
+ID=281044911
+
+Chloe Doll Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA doll mask in the form of Chloe with two eyes smiling cutely.\nIt comfortably wraps your head for a snug fit.\nEphnel can wear it.
+
+ID=283045021
+
+Cat Ear Headband
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCat ear headbands for lovers of cute cats.\n
+
+ID=282046031
+
+8-Bit Pixel Sunglasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nUnique 8-bit pixel-type sunglasses.\nThere are no functional elements that can be used as glasses.\nEphnel can wear it.
+
+ID=898800008
+
+[Ephnel's Sacred Judgment] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nPhoto taken of Ephnel in a sacred referee costume.\nThis photo can be posted on the Star Forest League profile and is of great interest to many talents. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898810008
+
+[Ephnel's Sacred Judgment] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nPhoto taken of Ephnel in a sacred referee costume.\nThis photo can be posted on the Star Forest League profile and is of great interest to many talents. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.\n<font color='#3162F5'>1D<font color='#9D927B'>Can be used for.
+
+ID=281001091
+
+[Unbreakable Spear] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCostume materialized from Ephnel's Soul Energy. Top and Pants can be worn at the same time.
+
+ID=281001051
+
+[Unbreakable Spear] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves materialized from Ephnel's Soul Energy.
+
+ID=281001121
+
+[Unbreakable Spear] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes materialized from Ephnel's Soul Energy.
+
+ID=281001111
+
+[Unbreakable Spear] Barcode Tattoo
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEphnel's Barcode Tattoo on her thigh. 
+
+ID=281001031
+
+[Unbreakable Spear] Eye Makeup
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEphnel's eye makeup.
+
+ID=881001091
+
+[Seal] [Unbreakable Spear] Costume
+
+[Unbreakable Spear] This package contains the Costume.
+
+ID=881001051
+
+[Seal] [Unbreakable Spear] Gloves
+
+[Unbreakable Spear] This package contains Gloves.
+
+ID=881001121
+
+[Seal] [Unbreakable Spear] Shoes
+
+[Unbreakable Spear] This package contains Shoes.
+
+ID=881001111
+
+[Seal] [Unbreakable Spear] Barcode Tattoo
+
+[Unbreakable Spear] This package contains Barcode Tattoo.
+
+ID=881001031
+
+[Seal] [Unbreakable Spear] Eye Makeup
+
+[Unbreakable Spear] This package contains Eye Makeup.
+
+ID=881001072
+
+[Costume Package] Unbreakable Spear
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\A package containing Ephnel's Unbreakable Spear Costume\n-Component-\n[Unbreakable Spear] Costume x 1 \n[Unbreakable Spear] Gloves x 1\n[Unbreakable Spear] Shoes x 1 \n[Unbreakable Spear] Barcode Tattoo x 1
+
+ID=281002091
+
+[Unbreakable Spear B] Costume
+
+ID=281002051
+
+[Unbreakable Spear B] Gloves
+
+ID=281002121
+
+[Unbreakable Spear B] Shoes
+
+ID=281002111
+
+[Unbreakable Spear B] Barcode Tattoo
+
+ID=881002091
+
+[Seal] [Unbreakable Spear B] Costume
+
+[Unbreakable Spear B] This package contains the Costume.
+
+ID=881002051
+
+[Seal] [Unbreakable Spear B] Gloves
+
+[Unbreakable Spear B] This package contains Gloves.
+
+ID=881002121
+
+[Seal] [Unbreakable Spear B] Shoes
+
+[Unbreakable Spear B] This package contains Shoes.
+
+ID=881002111
+
+[Seal] [Unbreakable Spear B] Barcode Tattoo
+
+[Unbreakable Spear B] This package contains Barcode Tattoo.
+
+ID=881002072
+
+[Costume Package ] Unbreakable Spear B
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\A package containing Ephnel's Unbreakable Spear B Costume\n-Component-\n[Unbreakable Spear B] Costume x 1 \n[Unbreakable Spear B] Gloves x 1\n[Unbreakable Spear B] Shoes x 1 \n[Unbreakable Spear B] Barcode Tattoo x 1
+
+ID=282010291
+
+[Invisible Costume] Head
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou wear it and feel nothing but only see it!\nAn essential item to get closer to your most natural appearance.\nEphnel can wear it.
+
+ID=282010292
+
+[Invisible Costume] Costume
+
+ID=282010293
+
+[Invisible Costume] Gloves
+
+ID=282010294
+
+[Invisible Costume] Shoes
+
+ID=718111401
+
+[Blueprint] Hollow Light Stinger
+
+<font color='#FFBA85'>[Costume Blueprint]<font color='#9D927B'>\n\nBlueprint for creating Hollow Light Stinger.
+
+ID=281011401
+
+Hollow Light Stinger
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Spear]<font color='#9D927B'>\n\nThis is a hologram of an old spear found inside a blank space. Even though it's a hologram, I feel like I'm going to pierce the iron plate just by pushing it.
+
+ID=836000715
+
+[Rocco Town] Conquest Box
+
+<font color='#FFBA85'>[Reward Package]<font color='#9D927B'>\nPackage for the user who achieved 100% progress of Rocco Town.\n\n-Component-\nAkashik Record Transmitter of the Observer x 3\n[Miner's Clothing] Costume x 1
+
+ID=836000716
+
+[Candus City] Conquest Box
+
+<font color='#FFBA85'>[Reward Package]<font color='#9D927B'>\nPackage given to user who has achieved 100% progress of Candus City.\n\n-Component-\nAkashik Record Transmitter of the Observer x 5\n[Ned Company Mercenary Clothes] Costume x 1
+
+ID=836000717
+
+[Grace City] Conquest Box
+
+<font color='#FFBA85'>[Reward Package]<font color='#9D927B'>\nPackage for the user who has achieved 100% pogress of Grace City.\n\n-Component-\nAkashik Record Transmitter of the Observer x 10\n[Star Forest League Regular Uniform] x 1
+
+ID=836000718
+
+[Ruin Fortress] Conquest Box
+
+<font color='#FFBA85'>[Reward Package]<font color='#9D927B'>\nPackage for the user who has achieved 100% progress of Ruin Fortress.\n\n-Component-\nAkashik Record Transmitter of the Observer x 15\n[Ned Improved Military Uniform] x 1
+
+ID=836000719
+
+[Casual Raid] Conquest Box
+
+<font color='#FFBA85'>[Reward Package]<font color='#9D927B'>\nPackage for users who have achieved 100% progress of Casual Raid\n\n-Component-\nAkashik Record Transmitter of the Observer x 20\nHollow Light Stinger x 1
+
+ID=836000720
+
+[Grass Cover Camp] Conquest Box
+
+<font color='#FFBA85'>[Reward Package]<font color='#9D927B'>\nPackage given to the user who achieved 100% progress of Grass Cover Camp\n\n-Component-\nAkashik Record Transmitter of the nObserver x 20\nAll Skill Reset Ticket x 1\nSkill Reset Ticket x 5
+
+ID=836000721
+
+[Dipluce Horizon] Conquest Box
+
+<font color='#FFBA85'>[Reward Package]<font color='#9D927B'>\nPackage for a user who achieves 100% progress of Dipluce Horizon\n\nComponent-\nAkashik Record Transmitter of the nObserver x 20\n All Skill Reset Ticket x 1\nEnergy Converter x 3\nHigh-Grade Attack Type Tags Transmitter II x 3\nHigh-Grade Defensive Tag Transmitter II x 3
+
+ID=281047021
+
+Chloe on the Head
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nKatsusha feels like always with Chloe. Ephnel only.\n'Operator Chloe!'
+
+ID=282048101
+
+Haru Backpack
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA cute character backpack that's based on your cute Haru.\nEphnel can wear it.
+
+ID=282049101
+
+Erwin Backpack
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA cute character backpack based on Erwin's confident look.\nEphnel can wear it.
+
+ID=282050101
+
+Stella Backpack
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA cute character backpack that's based on Stella's everyday life.\nEphnel can wear it.
+
+ID=282051101
+
+Lily Backpack
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA cute character backpack that's based on Lily's everyday life.\nEphnel can wear it.
+
+ID=283004021
+
+[Winter Breeze] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCold air and warm winter, but a warm hat that will withstand such a cold.\nThe cold winter wind blows, but I want to spend it warm and cozy.\nEphnel can wear it.
+
+ID=283004071
+
+[Winter Breeze] Jacket
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA warm jacket to withstand the cold air and cold winter, but it's cold.\nThe cold winter wind blows, but I want to spend it warm and cozy.\nEphnel can wear it.
+
+ID=283004072
+
+[Winter Breeze] Tops
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's cold air and warm winter, but it's a warm top that will withstand such a cold.\nThe cold winter wind blows, but I want to spend it warm and cozy.\nEphnel can wear it.
+
+ID=283004081
+
+[Winter Breeze] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCold air and warm winters, but the warm bottoms that will withstand such a cold.\nThe cold winter winds blow, but I want to spend a warm, cozy day.\nEphnel can wear it.
+
+ID=283004051
+
+[Winter Breeze] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCold air and warm winters, but warm gloves to withstand such a cold.\nThe cold winter winds blow, but I want to spend a warm, cozy day.\nEphnel can wear it.
+
+ID=283004111
+
+[Winter Breeze] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's cold air and warm winter, but it's warm tights that will withstand the cold.\nThe cold winter wind blows, but I want to spend it warm and cozy.\nEphnel can wear it.
+
+ID=283004121
+
+[Winter Breeze] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's cold air and warm winter, but it's warm enough to withstand the cold.\nThe cold winter wind blows, but I want to spend it warm and cozy.\nEphnel can wear it.
+
+ID=883004021
+
+[Seal] [Winter Breeze] Hat
+
+[Winter Breeze] This package contains the Hat.
+
+ID=883004071
+
+[Seal] [Winter Breeze] Jacket
+
+[Winter Breeze] This package contains the Jacket.
+
+ID=883004070
+
+[Seal] [Winter Breeze] Top
+
+[Winter Breeze] This package contains the Top.
+
+ID=883004081
+
+[Seal] [Winter Breeze] Bottom
+
+[Winter Breeze] This package contains the Bottom.
+
+ID=883004051
+
+[Seal] [Winter Breeze] Gloves
+
+[Winter Breeze] This package contains the Gloves.
+
+ID=883004111
+
+[Seal] [Winter Breeze] Stockings
+
+[Winter Breeze] This package contains Stockings.
+
+ID=883004121
+
+[Seal] [Winter Breeze] Boots
+
+[Winter Breeze] This package contains Boots.
+
+ID=883004072
+
+[Costume Package] Ephnel's Winter Breeze
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains [Ephnel's Winter Breeze] costume and can only be worn by Ephnel.\n\n-Component-\n[Winter Breeze] Hat x 1\n[Winter Breeze] Jacket x 1\n[Winter Breeze] Top x 1\n[Winter Breeze] Bottom x 1\n[Winter Breeze] Gloves x 1\n[Winter Breeze] Stockings x 1\n[Winter Breeze] Boots x 1
+
+ID=898810019
+
+[Ephnel's Winter Breeze] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nPhoto taken of Ephnel in a Winter Breeze outfit.\nThis photo can be posted on the Star Forest League profile and has attracted a lot of talent. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.\n<font color='#3162F5'>1D<font color='#9D927B'>Can be used for.
+
+ID=898800019
+
+[Ephnel's Winter Breeze] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nPhoto taken of Ephnel in a Winter Breeze outfit.\nThis photo can be posted on the Star Forest League profile and has attracted a lot of talent. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=282052101
+
+Blue Fairy Wings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nTiny fairy wings made of holograms that seem to come out of imagination or fairy tales.\nEven if worn, you can't fly, but you can feel like a cute fairy.
+
+ID=980000008
+
+Shape of the Monarch
+
+<font color='#FFBA85'>[Costume]<font color='#9D927B'>\n\nThe color of the gigantic dress was materialized to be visible and shaped like a wing.
+
+ID=880108047
+
+Ephnel Poster
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nA poster depicting the lively appearance of Ephnel.
+
+ID=993000881
+
+[Costume Package] Ephnel's Blue Fairy Wings
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\n[Ephnel's Blue Fairy Wings] This package contains the costume. The component can only be worn by Ephnel.\n\n-Component-\nBlue Fairy Wings X 1
+
+ID=993000890
+
+[Costume Package] Ephnel's Shape of Horror
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\n[Ephnel's Shape of Horror] This package contains the costume, which can only be worn by Ephnel.\n\n-Component-\nShape of Horror X 1
+
+ID=993000891
+
+[Costume Package] Ephnel's Glutton Doll Mask
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\n[Ephnel's Glutton Doll Mask] This costume contains a costume that can only be worn by Ephnel.\n\n-Component-\nGlutton Doll Mask X 1
+
+ID=882043021
+
+[Costume Package] Ephnel's Outing
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\n[Ephnel's Outing] This is a package containing costumes that can only be worn by Ephnel.\n\n-Components- \n Outing X 1
+
+ID=882049101
+
+[Costume Package] Haru Backpack
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Ephnel's Haru Backpack] A costume-packed package, the component can only be worn by Ephnel.\n\n-Component-\nHaru Backpack x 1
+
+ID=882050101
+
+[Costume Package] Erwin Backpack
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Ephnel's Erwin Backpack] A costume-packed package, the component can only be worn by Ephnel.\n\n-Component-\nErwin Backpack x 1
+
+ID=882053101
+
+[Costume Package] Stella Backpack
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Ephnel's Stella Backpack] A costume-packed package, the component can only be worn by Ephnel.\n\n-Component-\nStella Backpack x 1
+
+ID=882054101
+
+[Costume Package] Lily Backpack
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Ephnel's Lily Backpack] A costume-packed package, the component can only be worn by Ephnel.\n\n-Component-\nLily Backpack x 1
+
+ID=993000893
+
+Tutorial Reward Package
+
+<font color='#FFBB85'>[Package]<font color='#9D927B'>\n\nPackage for users who have completed the tutorial.\n\n-Components-\nRessurection Device X 10\nBit Medibox X 50\nHalf Soul Injection X 50
+
+ID=820000026
+
+ID=218555351
+
+Golden Devourers Immortal
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Spear]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. Hologram shape with a more booty form, taking the form of a devourers weapon using Primal's power.\nIt only adds the image shape to the soul weapon that you have, so it does not show strong power separately.
+
+ID=273051021
+
+[Magical Magic] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA must-have Hat for the Magical Girl to create spectacular miracles. No contract is needed to use power.\nChii can wear it.
+
+ID=273051091
+
+[Magical Magic] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA must-have Costume for the Magical Girl to create gorgeous miracles. No contract is needed to use power.\nChii can wear it.
+
+ID=273051051
+
+[Magical Magic] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA must-have Gloves for the Magical Girl to create gorgeous miracles. No contract is needed to use power.\nChii can wear it.
+
+ID=273051111
+
+[Magical Magic] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA must-have Stockings for the Magical Girl to create gorgeous miracles. No contract is needed to use power.\nChii can wear it.
+
+ID=273051121
+
+[Magical Magic] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA must-have Shoes for the Magical Girl to create gorgeous miracles. No contract is needed to use power.\nChii can wear it.
+
+ID=273006141
+
+[Magical Magic] Magical Halve Scissors
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Katana]<font color='#9D927B'>\n\nA magical girl's magic tool to accomplish miracle magic. Open your halves and renovate, so let's cut off the enemies hindered by this magic weapon for the miracle you want to accomplish.
+
+ID=873051021
+
+[Seal] [Magical Magic] Hat
+
+[Magical Magic] This package contains the Hat.
+
+ID=873051091
+
+[Seal] [Miracle Magic] Costume
+
+[Magical Magic] This package contains the Costume.
+
+ID=873051051
+
+[Seal] [Miracle Magic] Gloves
+
+[Miracle Magic] This package contains Gloves.
+
+ID=873051111
+
+[Seal] [Miracle Magic] Stockings
+
+[Miracle Magic] This package contains Stockings.
+
+ID=873051121
+
+[Seal] [Miracle Magic] Shoes
+
+[Miracle Magic] This package contains Shoes.
+
+ID=873006141
+
+[Seal] [Magical Magic] Magical Halve Scissors
+
+[Magical Magic] This package contains Magical Halve Scissors.
+
+ID=873051072
+
+[Costume Package] Chii's Miracle Magic
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nPackage containing [Miracle Magic] Costume that can only be worn by Chii.\n\n-Component-\n [Miracle Magic] Hat X 1\n[Miracle Magic] Costume X 1\n[ Miracle Magic] Gloves X 1\n[Miracle Magic] Stockings X 1\n[Miracle Magic] Shoes X 1\n[Miracle Magic] Miracle Half Scissors X 1
+
+ID=828010001
+
+Ephnel's Beginner Box
+
+<font color='#FFBA85'>[Beginner's Box]<font color='#9D927B'>\n\nA package received after creating Ephnel character to support you in your battles. Open it to obtain useful items.
+
+ID=828160001
+
+Ephnel's Level 15 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Ephnel reaches level 15 to support you in your battles. Open it to obtain useful items.
+
+ID=828220001
+
+Ephnel's Level 20 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Ephnel reaches level 20 to support you in your battles. Open it to obtain useful items.
+
+ID=828290001
+
+Ephnel's Level 25 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Ephnel reaches level 25 to support you in your battles. Open it to obtain useful items.
+
+ID=828300001
+
+Ephnel's Level 30 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Ephnel reaches level 30 to support you in your battles. Open it to obtain useful items.
+
+ID=828360001
+
+Ephnel's Level 35 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Ephnel reaches level 35 to support you in your battles. Open it to obtain useful items.
+
+ID=828400001
+
+Ephnel's Level 40 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Ephnel reaches level 40 to support you in your battles. Open it to obtain useful items.
+
+ID=828450001
+
+Ephnel's Level 45 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Ephnel reaches level 45 to support you in your battles. Open it to obtain useful items.
+
+ID=828500001
+
+Ephnel's Level 50 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Ephnel reaches level 50 to support you in your battles. Open it to obtain useful items.
+
+ID=828550001
+
+Ephnel's Level 55 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Ephnel reaches level 55 to support you in your battles. Open it to obtain useful items.
+
+ID=828600001
+
+Ephnel's Level 60 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Ephnel reaches level 60 to support you in your battles. Open it to obtain useful items.
+
+ID=118011301
+
+Remnant Stinger
+
+<font color='#FFBA85'>[Soul Weapon: Spear]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. When faced with an unknown monster, it's a weapon in your hand.\nIt's shaped like a spear with mechanical parts attached to it. do.
+
+ID=991000609
+
+Grave Guard Spear Box
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA box from which you can obtain Grave Guard Spears. Double click to open.
+
+ID=991000610
+
+Grave Guard Spear MK.II Box
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\n\nA box from which you can obtain Grave Guard Spear MK.II. Double click to open.
+
+ID=991000611
+
+Grave Guard Spear MK.III Box
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\n\nA box from which you can obtain Grave Guard Spear MK.III. Double click to open.
+
+ID=898110020
+
+[Haru's Miracle Magic] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Haru dressed in a miracle magic outfit.\nThis picture can be posted on the Star Forest League's profile. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.\n<font color='#3162F5'>1D<font color='#9D927B'>Can be used for 1 day.
+
+ID=898310020
+
+[Lily's Miracle Magic] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Lily dressed in a miracle magic outfit.\nThis picture can be posted on the Star Forest League's profile. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.\n<font color='#3162F5'>1D<font color='#9D927B'>Can be used for 1 day.
+
+ID=898510020
+
+[Stella's Miracle Magic] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Stella dressed in a miracle magic outfit.\nThis picture can be posted on the Star Forest League's profile. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.\n<font color='#3162F5'>1D<font color='#9D927B'>Can be used for 1 day.
+
+ID=898610020
+
+[Iris's Miracle Magic] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Iris dressed in a miracle magic outfit.\nThis picture can be posted on the Star Forest League's profile. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.\n<font color='#3162F5'>1D<font color='#9D927B'>Can be used for 1 day.
+
+ID=898710020
+
+[Chii's Miracle Magic] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Chii dressed in a miracle magic outfit.\nThis picture can be posted on the Star Forest League's profile. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.\n<font color='#3162F5'>1D<font color='#9D927B'>Can be used for 1 day.
+
+ID=898100020
+
+[Haru's Miracle Magic] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Haru dressed in a miracle magic outfit.\nThis picture can be posted on the Star Forest League's profile. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898300020
+
+[Lily's Miracle Magic] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Lily dressed in a miracle magic outfit.\nThis picture can be posted on the Star Forest League's profile. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898500020
+
+[Stella's Miracle Magic] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Stella dressed in a miracle magic outfit.\nThis picture can be posted on the Star Forest League's profile. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898600020
+
+[Iris Miracle Magic] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Iris dressed in a miracle magic outfit.\nThis picture can be posted on the Star Forest League's profile. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898700020
+
+[Chii's Miracle Magic] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Chii dressed in a miracle magic outfit.\nThis picture can be posted on the Star Forest League's profile. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=883003073
+
+[Costume + Photo Package] Ephnel's Sacred Judgment
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\n[Ephnel's Sacred Judgment] A costume and photo package that only contains Ephnel.\n\n-Component-\n[Sacred Judgment] Veil X 1\n[Sacred Judgment] Costume X 1\n[Sacred Judgment] Stockings X 1\n[Sacred Judgment] Gloves X 1\n[Sacred Judgment] Shoes X 1\n[Sacred Judgment] Judge's Spear X 1\n[Ephnel's Sacred Judgment] Photo X 1
+
+ID=883004073
+
+[Costume + Photo Box] Ephnel's Winter Breeze
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\n[Ephnel's Winter Breeze] A costume and photo package that only Ephnel can wear.\n\n-Component-\n[Winter Breeze] Hat x 1\n[Winter Breeze] Jacket x 1\n[Winter Breeze] Top x 1\n[Winter Breeze] Bottom x 1\n[Winter Breeze] Gloves x 1\n[Winter Breeze] Stockings x 1 \ n [Winter Breeze] Boots x 1\n[Ephnel Winter Breeze] Photos x 1
+
+ID=873051073
+
+[Costume + Photo Package] Chii's Miracle Magic
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Miracle Magic] A costume and photo package that can only be worn by Chii.\n\n-Component-\n[Miracle Magic] Hat X 1\n[Miracle Magic] Costume X 1\n[Miracle Magic] Gloves X 1\n[Miracle Magic] Stockings X 1\n[Miracle Magic] Shoes X 1\n[Miracle Magic] Miracle Half Scissors X 1\n[Chii's Miracle Magic Photo] X 1
+
+ID=993000900
+
+Disorders +9 Selective Option
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nSelect and learn one of the strongest item Disorders weapons.
+
+ID=993000901
+
+Disorders Hollow +9 Selective Option
+
+ID=993000902
+
+Disorders Blitz +9 Selective Option
+
+ID=993000903
+
+Disorders Massacre +9 Selective Option
+
+ID=993000904
+
+Disorders Rampage +9 Selective Option
+
+ID=993000905
+
+Disorders Opera +9 Selective Option
+
+ID=993000906
+
+Disorders Disaster +9 Selective Option
+
+ID=993000907
+
+Disorders Calamity +9 Selective Option
+
+ID=993000908
+
+Disorders Extinction +9 Selective Option
+
+ID=111604673
+
+Disorders Hollow I +9
+
+<font color='#FFBA85'>[Soul Weapon: Sword]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The soul of Yorhaka, who devours everything into the void, is made in the form of a sword, almost preserving the eroded debris, and specializes in treating the existence itself as a foreign object and erasing it rather than cutting the opponent. It sucks and moves the soul energy of the user, so if the general public touches it, it is sucked into the soul, leaving only the shell. Used by Haru Estia.
+
+\nIt will shave your soul away. But it would be fine if you were a soul worker who instantly recovered soul energy.
+
+\nIf you get used to it for a long time, you'll feel like fighting without a soul. Then just throw yourself into the emptiness and fight. A monster will appear as long as you want to run for you.
+
+\n- Zenith-
+
+ID=111604674
+
+Disorders Hollow II +9
+
+<font color='#FFBA85'>[Soul Weapon: Sword]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The soul of Yorhaka, who devours everything into the void, is made in the form of a sword, almost preserving the eroded debris, and specializes in treating the existence itself as a foreign object and erasing it rather than cutting the opponent. It sucks and moves the soul energy of the user, so if the general public touches it, it is sucked into the soul, leaving only the shell. Used by Haru Estia.\n
+
+Use it and your soul will be shaved. But it would be fine if you were a soul worker who instantly recovered soul energy.
+
+ID=112604673
+
+Disorders Blitz I +9
+
+<font color='#FFBA85'>[Soul Weapon: Gun]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The soul of Yorhaka, which devours everything in vain, is made in the form of a gun, almost preserving the eroded debris. It sucks and moves the soul energy of the user, so if the general public touches it, it is sucked into the soul, leaving only the shell. Used by Erwin Arclight.
+
+ID=112604674
+
+Disorders Blitz II +9
+
+ID=113604673
+
+Disorders Massacre I +9 
+
+<font color='#FFBA85'>[Soul Weapon: Scythe]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The soul of the Yorhaka, which devours everything in vain, is made in the form of a sickle, almost preserving the eroded debris, and specializes in devastating and exterminating the being itself rather than cutting the opponent. It sucks and moves the soul energy of the user, so if the general public touches it, it is sucked into the soul, leaving only the shell. Used by Lily Bloommerchen.
+
+ID=113604674
+
+Disorders Massacre II +9 
+
+ID=114604673
+
+Disorders Rampage I +9
+
+<font color='#FFBA85'>[Soul Weapon: Gauntlet]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The soul of Yorhaka, who devours everything into the void, is made in the form of a handcuff, almost preserving the eroded debris, and specializes in crushing and shattering the being itself rather than knocking on the opponent. It sucks and moves the soul energy of the user, so if the general public touches it, it is sucked into the soul, leaving only the shell. Used by Jin Seipatsu.
+
+ID=114604674
+
+Disorders Rampage II +9
+
+ID=115604673
+
+Disorders Opera I +9
+
+<font color='#FFBA85'>[Soul Weapon: Guitar]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The soul of Yorhaka, which devours everything in vain, is specialized in blurring and extinguishing the other person's existence rather than playing it in the form of a guitar with almost preserved eroded debris. It sucks and moves the soul energy of the user, so if the general public touches it, it is sucked into the soul, leaving only the shell. Used by Stella Unibell.
+
+ID=115604674
+
+Disorders Opera II +9
+
+ID=116604673
+
+Disorders Disaster I +9
+
+<font color='#FFBA85'>[Soul Weapon: Hammer]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The soul of the Yorhaka, which devours everything in vain, is made in the form of a hammer, almost preserving the eroded debris. It sucks and moves the soul energy of the user, so if the general public touches it, it is sucked into the soul, leaving only the shell. Iris Yuma uses it.
+
+ID=116604674
+
+Disorders Disaster II +9
+
+ID=117604673
+
+Disorders Calamity I + 9
+
+<font color='#FFBA85'>[Soul Weapon: Katana]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The soul of the Yorhaka, which devours everything into the void, is made in the form of a katana that almost preserves the eroded debris and specializes in denying and destroying the being itself rather than destroying it. It sucks and moves the soul energy of the user, so if the general public touches it, it is sucked into the soul, leaving only the shell. Chi Aruel uses it.
+
+ID=117604674
+
+Disorders Calamity II + 9
+
+ID=118604673
+
+Disorders Extinction I + 9
+
+<font color='#FFBA85'>[Soul Weapon: Spear]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The soul of Yorhaka, which devours everything into voids, is made in the form of a spear, almost preserving the eroded debris. It sucks and moves the soul energy of the user, so if the general public touches it, it is sucked into the soul, leaving only the shell. Ephnel uses it.
+
+ID=118604674
+
+Disorders Extinction II + 9
+
+ID=993000909
+
+[Costume Package] Wandering Revenge
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains all the Wandering Revenge Costume Sets.\n-Component-\n[Wandering Revenge] Outfit x 1\n[Wandering Revenge] Knee Socks x 1\n[Wandering Revenge] Boots x 1
+
+ID=993000910
+
+[Costume Package] Bullet of Smiling Pleasure
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nErwin's Bullet of Smiling Pleasure package, contains all pieces.\n-Components-\n[Bullet of Smiling Pleasure] Costume x 1\n[Bullet of Smiling Pleasure] Bracelet x 1\n[Bullet of Smiling Pleasure] Boots x 1
+
+ID=993000911
+
+[Costume Package] Swinging Axe
+
+<font color='#FFBA85'>[Costume Package] Swinging Axe<font color='#9D927B'>\n\nA Package containing the Swinging Axe outfit.\n-Components-\n[Swinging Axe] Costume  x 1\n[Swinging Axe] Stockings x 1\n[Swinging Axe] Boots x 1
+
+ID=993000912
+
+[Costume Package] Fist of Blazing Passion
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains all of the Fist of Blazing Passion costume pieces.\n-Component-\n[Fist of Blazing Passion] Costume x 1\n[Fist of Blazing Passion] Gloves x 1\n[Fist of Blazing Passion] Shoes x 1
+
+ID=993000913
+
+[Costume Package] Song of Sorrow
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Stella's Song of Sorrow costume.\n-Components-\n[Song of Sorrow] Costume x 1\n[Song of Sorrow] Stockings x 1\n[Song of Sorrow] Shoes x 1
+
+ID=993000914
+
+[Costume Package] Hammer Stole of Rage
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains all of Iris's Hammer Stole of Rage.\n-Component-\n[Hammer Stole of Rage] Costume x 1\n[Hammer Stole of Rage] Knee Socks x 1\n[Hammer Stole of Rage] Boots x 1
+
+ID=993000915
+
+[Costume Package] Blade of Screaming Eager B
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains all pieces of Chii's Blade of Screaming Eager B set.\n-Component-\n[Blade of Screaming Eager B] Hood X 1\n[Blade of Screaming Eager B] Outfit X 1\n[Blade of Screaming Eager B] Stocking X 1\n[Blade of Screaming Eager B] Shoes X 1
+
+ID=993000916
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing Ephnel's Unbreakable Spear Costume.\-Component-\n[Unbreakable Spear B] Costume x 1\n[Unbreakable Spear B] Gloves x 1\n[Unbreakable Spear B] Shoes x 1\n[Unbreakable Spear B] Barcode Tattoo x 1
+
+ID=993000917
+
+[Costume Package] Representative Costume [7 Days]
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains the representative clothes of each character. Costumes will be given for the characters used.\nThe costumes will disappear after a certain period of time.
+
+ID=993000918
+
+Disorder's Option
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nPlease select one item you need from disorder's set.
+
+ID=993000919
+
+Unique Void + 9 Equipment Set Package
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nA box containing a level 60 unique equipment set that can be obtained from Altar of Void (Hard).\n\n<font color='#FF0000'>You can't put the equipment into the bank, so decide carefully what character to acquire it on.</font>
+
+ID=993000920
+
+ID=993000921
+
+ID=993000922
+
+Ephnel Launch Celebrate Package I
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA package designed to celebrate the appearance of the new SoulWorker Ephnel.\n\n-Component-\n[Costume + Photo Box] Ephnel's Sacred Judgement x 1\nShape of Wind x 1\nChallenger Package III x 1
+
+ID=993000923
+
+Ephnel Launch Celebrate Package II
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nPackage designed to celebrate the appearance of the new SoulWorker Ephnel.\n\n-Component-\n[Costume + Photo Box] Ephnel's Winter Breeze x 1\nChallenger Package II x 1
+
+ID=993000924
+
+Ephnel Growth Support Package
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA package designed to support the growth of new Soul Worker Ephnel.\n\n-Component-\nAdvanced Combat Manual [1H] x 5\nAdvanced Money Management Manual [1H] x 5\nLucky Day D [1H x 5\nUltra High Concentrated Vitamin Z x 5\nAnti-Destruction x 10 \nAnti-Limiter x 5\nInventory Expansion Ticket x 10\nEther 100,000
+
+ID=993000925
+
+Attack Legend / Heroic Tag Package
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nPackage consisting of Attack Tag Transmitter.\n\n-Component-\nAttack Tag Transmitter x 30\n[Grade 5-6] Attack Tag Transmitter x 3
+
+ID=993000926
+
+Defensive Legend / Heroic Tag Package
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nPackage consisting of a Defensive Tag Transmitter.\n\n-Component-\nDefensive Tag Transmitter x 30\n[Grade 5-6] Defensive Tag Transmitter x 3
+
+ID=993000927
+
+Integrated Attack Tera Brooch Package
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nPackage consisting of Attack Integrated Brooch Transmitter.\n\n-Components-\nAttack Integrated Brooch Transmitter x 55 \nBrooch Synthesizer x 5\nIntegrated Attack Tera Brooch Transmitter x 3
+
+ID=993000928
+
+Integrated Defensive Tera Brooch Package
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nPackage consisting of Defensive Integrated Brooch Transmitter.\n\n-Components-\nDefensive Integrated Brooch Transmitter x 55 \nBrooch Synthesizer x 5\nIntegrated Defensive Tera Brooch Transmitter x 3
+
+ID=993000929
+
+Integrated Utility Tera Brooch Package
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nPackage consisting of Utility Integrated Brooch Transmitter.\n\n-Components-\nUtility Integrated Brooch Transmitter x 55 \nBrooch Synthesizer x 5\nIntegrated Utility Tera Brooch Transmitter x 3
+
+ID=282055051
+
+Christmas Fur Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWarm Fur Gloves worn to play with cold snow\nEphnel can wear it.
+
+ID=882055072
+
+[Costume Package] Ephnel's Christmas Fur Gloves
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\n[Ephnel's Christmas Fur Gloves] A package containing a costume that only Ephnel can wear.\n\n-Components-\nChristmas Fur Gloves x 1
+
+ID=898210020
+
+[Erwin's Fist of Justice] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nPicture taken of Erwin in the fist costume of Justice.\nThis photo can be posted on the Star Forest League profile and has attracted a lot of talent. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.\n<font color='#3162F5'>1D<font color='#9D927B'>Can be used for 1 day.
+
+ID=898410020
+
+[Jin's Fist of Justice] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nPicture taken of Jin in the fist costume of Justice.\nThis photo can be posted on the Star Forest League profile and has attracted a lot of talent. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.\n<font color='#3162F5'>1D<font color='#9D927B'>Can be used for 1 day.
+
+ID=898200020
+
+[Erwin's Fist of Justice] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nPicture taken of Erwin in the fist costume of Justice.\nThis photo can be posted on the Star Forest League profile and has attracted a lot of talent. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898400020
+
+[Fist of Justice] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nPicture taken of Jin in the fist costume of Justice.\nThis picture can be posted on Star Forest League's profile and is of great interest to many talents. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=283004142
+
+ID=883004142
+
+[Seal] [Unbreakable Spear] Weapon
+
+[Unbreakable Spear] This package contains a Weapon.
+
+ID=881002073
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\Ephnel's Unbreakable Spear B. A Box containing Costume.\n-Component-\n[Unbreakable Spear B] Costume x 1\n[Unbreakable Spear B] Gloves x 1\n[Unbreakable Spear B] Shoes x 1\n[Unbreakable Spear B] Barcode Tattoo x 1\n[Unbreakable Spear] Weapon x 1
+
+ID=882010291
+
+[Seal] [Invisible Costume] Hat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Invisible Costume] This package contains the Hat.
+
+ID=882010292
+
+[Seal] [Invisible Costume] Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Invisible Costume] This package contains the Costume.
+
+ID=882010293
+
+[Seal] [Invisible Costume] Gloves
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Invisible Costume] This package contains the Gloves.
+
+ID=882010294
+
+[Seal] [Invisible Costume] Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Invisible Costume] This package contains the Shoes.
+
+ID=384012701
+
+Rosca
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\n\nAkashik Record of star which carved out the history of Rosca. Right-click to use and absorb its history when used. The absorbed history can be checked in the Akashik Records tab by pressing the [K] key.
+
+ID=384012702
+
+Observer Roska
+
+ID=384012703
+
+Watcher Roska
+
+ID=384012704
+
+ID=384012705
+
+ID=384012706
+
+ID=994000050
+
+[EV] O, X Quiz Count Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nThere's a box for 14 days of O and X quiz.\nIt contains a box where you can take the O, X quiz for 14 days.\nThe questions may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000051
+
+[EV] Day 1 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 1.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000052
+
+[EV] Day 2 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 2.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000053
+
+[EV] Day 3 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 3.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000054
+
+[EV] Day 4 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 4.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000055
+
+[EV] Day 5 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 5.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000056
+
+[EV] Day 6 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 6.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000057
+
+[EV] Day 7 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 7.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000058
+
+[EV] Day 8 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 8.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000059
+
+[EV] Day 9 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 9.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000060
+
+[EV] Day 10 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 10.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000061
+
+[EV] Day 11 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 11.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000062
+
+[EV] Day 12 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 12.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000063
+
+[EV] Day 13 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 13.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000064
+
+[EV] Day 14 Quiz Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nContains a box to take the O and X quiz for Day 14.\nThe question may not be easy, but if you take the quiz, you can get good rewards.
+
+ID=994000065
+
+[EV] O Selection Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nIt's a box with an O shape.\nWhat is the right answer?Seemingly unknown, you only need to open it to know.
+
+ID=994000066
+
+ID=994000067
+
+ID=994000068
+
+ID=994000069
+
+ID=994000070
+
+ID=994000071
+
+ID=994000072
+
+ID=994000073
+
+ID=994000074
+
+ID=994000075
+
+ID=994000076
+
+ID=994000077
+
+ID=994000078
+
+ID=994000079
+
+[EV] X Selection Box
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nIt's a box with a X shape.\nWhat is the right answer? Seemingly unknown, you only need to open it to know.
+
+ID=994000080
+
+ID=994000081
+
+ID=994000082
+
+ID=994000083
+
+ID=994000084
+
+ID=994000085
+
+ID=994000086
+
+ID=994000087
+
+ID=994000088
+
+ID=994000089
+
+ID=994000090
+
+ID=994000091
+
+ID=994000092
+
+ID=994000100
+
+3rd Anniversary Special Coin
+
+<font color='#FFBA85'>[Event Items]<font color='#9D927B'>\n\nA commemorative coin made for the 3rd anniversary of SoulWorker.\n3rd Anniversary Equipment Items can be used to enhance or exchange Ether.
+
+ID=994000101
+
+[Limited Time] Refiner
+
+<font color='#FFBA85'>[Refiner]\nChange Item Grade between (0% ~ 100%)<font color='#9D927B'>\n\nA special stone that changes its value in response to Soul Worker's equipment.\nDue to the moody nature of the stone theme, there is no guarantee that it will make a better item.\n\n<font color='#FFBA85'>Due to the mass production form, the effect of smelting stone can only be maintained for a certain period of time. After that, it can no longer be used as a smelt, so it must be used within the validity period.\nEffectiveness period: January 22, 2020 </font>
+
+ID=994000102
+
+[Limited Time] Enhanced Refiner
+
+<font color='#FFBA85'>[Refiner]\nChange the Item Grade between (41% ~ 100%)<font color='#9D927B'>\n\nA special stone that changes its value in response to Soul Worker's equipment.\nBy taming and reinforcing smelting stones, the chance of further whims is lowered.\n\n<font color='#FFBA85'>Due to the mass production form, the effect of smelting stone can only be maintained for a certain period of time. After that, it can no longer be used as a smelt, so it must be used within the validity period.\nEffectiveness period: January 22, 2020 </font>
+
+ID=994000103
+
+[Limited Time] Special Refiner
+
+<font color='#FFBA85'>[Refiner]\n아이템을 상급~최상급 내의 등급으로 변경 (61%~100%)<font color='#9D927B'>\n\nA special stone that changes its value in response to Soul Worker's equipment.\nThat has further reduced the chance of a bad whim by further tamping the Enhanced Refiner.\n\n<font color='#FFBA85'>Due to the mass production form, the effect of smelting stone can only be maintained for a certain period of time. After that, it can no longer be used as a smelt, so it must be used within the validity period.\nEffectiveness period: January 22, 2020 </font>
+
+ID=994000104
+
+[Limited Time] Energy Converter
+
+<font color='#FFBA85'>[Equipment Option Change Item]<font color='#9D927B'>\n\nA device that forcibly converts the properties of energy contained in soul weapons, gears, and accessories. This device allows you to convert the properties of the energy applied to each piece of equipment. However, the more energy the equipment has, the more equipment is needed, and the nature of the converted energy is set randomly, so you need to be careful about its use.\n\n<font color='#FFBA85'>Due to mass production payments, the effect of energy converters can only be maintained for a certain period of time. After that, it is no longer needed as an energy converter and must be used within the validity period.\nEffective maintenance period: January 22, 2020 </font>
+
+ID=994000105
+
+[Limited Time] Anti-Destruction 
+
+<font color='#FFBA85'>[Anti-Destruction Item]<font color='#9D927B'>\n\nA special device that prevents equipment from being destroyed when reinforcing a certain number of pieces of equipment. When forcing a self-destruct signal that occurs when the output of the machine is abnormally large, it is forced to drag to itself to prevent the machine's self-destruct.\n When used to prevent reinforcement destruction, it consumes one per item, regardless of whether the item is destroyed or not.\n\n<font color='#FFBA85'>Because it is a form of mass production payment, the effects of the hardening anti-destruction device can only be maintained for a certain period of time. Since then, it is no longer available as a hardening anti-destruction device and therefore must be used within the validity period.\n-effect retention period: January 22, 2020 </font>
+
+ID=994000106
+
+[EV] Small and Medium Serum Selection Box
+
+ID=994000107
+
+[EV] Small, Medium, Large Serum Selection Box
+
+ID=994000108
+
+[Limited] Grade Protection Device
+
+<font color='#FFBA85'>[Grade Protection Item]<font color='#9D927B'>\n\nSpecial device that prevents derating of equipment when refining. Due to the low energy output of the smelting stone, if the equipment is expected to be degraded during the smelting process, the work is stopped immediately to prevent degrading. To consume.\n\n<font color='#FFBA85'>Due to mass production payments, the effectiveness of derating protection can only be maintained for a certain period of time. After that, it is no longer required to be used as a fall protection device, so it must be used within the validity period.\nEffectiveness Duration: January 22, 2020 </font>
+
+ID=994000110
+
+[EV] 3rd Anniversary 30000 Ether Box
+
+<font color='#FFBA85'>[Ether Box] Acquire 30,000 Ether when you open the box<font color='#9D927B'>\n\nBox containing catalyst Ether used to power equipment. It's a secret how you put the Ether that only Soul Worker can recognize and materialize. You'll gain 30,000 Ether when you open it.
+
+ID=994000111
+
+3rd Anniversary 300 Glutton Coin Box
+
+ID=994000112
+
+3rd Anniversary Energy Converter Parts Box [Low]
+
+ID=994000113
+
+3rd Anniversary Energy Converter Parts Box [Advanced]
+
+ID=994000114
+
+[EV] Lower Soulstone Shard Box
+
+<font color='#FFBA85'>[Lower Soulstone Shard Box]<font color='#9D927B'>\n\nObtained by selecting 200 Lower Soulstone Fragments of the required attribute.
+
+ID=994000115
+
+[EV] Intermediate Soulstone Shard Box
+
+<font color='#FFBA85'>[Intermediate Soulstone Shard Box]<font color='#9D927B'>\n\nObtained by selecting 20 Intermediate Soulstone Fragments of the required attribute.
+
+ID=994000116
+
+[EV] Advanced Soulstone Fragment Box
+
+<font color='#FFBA85'>[Advanced Soulstone Shard Box]<font color='#9D927B'>\n\nObtained by selecting 2 Advanced Soulstone Fragments with the required attributes.
+
+ID=994000117
+
+[EV] Type A Kiss Of Purification 
+
+<font color='#FFBA85'>[Purification Box]<font color='#9D927B'>\n\nObtain 1 Kiss of Purification.
+
+ID=994000118
+
+[EV] Type B Kiss Of Containment
+
+<font color='#FFBA85'>[Containment Box]<font color='#9D927B'>\n\nObtain 1 Kiss of Containment.
+
+ID=994000119
+
+[EV] Type C Kiss Of Darkness
+
+<font color='#FFBA85'>[Darkness Box]<font color='#9D927B'>\n\nObtain 1 Kiss of Darkness.
+
+ID=994000120
+
+[EV] 3rd Anniversary Glutton Matryoshka Doll
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nMatryoshka dolls modeled after Glutton. There may be a gift inside, or there may be another matryoshka.\n<font color='#F6BB43'>Rumor has it that the probability is about half and half.</font>
+
+ID=994000121
+
+[EV] 3rd Anniversary Small Glutton Matryoshka Doll
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nMatryoshka dolls modeled after Glutton. It's a bit smaller than the doll you've opened before. There may be a gift inside, there may be another matryoshka
+.\n<font color='#F6BB43'>Rumor has it that the probability is about half and half.</font>
+
+ID=994000122
+
+[EV] 3rd Anniversary Glutton Matryoshka Doll
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nMatryoshka dolls modeled after Glutton. There is no end yet. There may be a gift inside, there may be another matryoshka.\n<font color='#F6BB43'>Rumor has it that the probability is about half and half.</font>
+
+ID=994000123
+
+[EV] 3rd Anniversary Tiny Matryoshka Doll
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\n.Matryoshka dolls modeled after Glutton\n<font color='#F6BB43'>Rumor has it that about half of people are in deep agony after opening the doll.</font>
+
+ID=994000124
+
+[EV] 3rd Anniversary Last Glutton Matryoshka Doll
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nMatryoshka dolls modeled after Glutton. This really seems to be the last.\n<font color='#F6BB43'>Rumor has it that four out of five opened the doll and wept.</font>
+
+ID=994000125
+
+[EV] Mamoa Gift Box Lv1
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA gift box in Matryoshka doll. Feeling crude. If you win this box, you're out of luck or you're...\n\n- Component-\nGlutton Coin x 20\nBP x 100
+
+ID=994000126
+
+[EV] Mamoa Gift Box Lv2
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA gift box in Matryoshka doll. It's a shame on the outside but powerful inside.\n\n- Components-\nRespawner x 2\nBP x 200
+
+ID=994000127
+
+[EV] Mamoa Gift Box Lv3
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA gift box in Matryoshka doll. Packaging is desperate.\n\n- Component-\nAnti-Destruction x 1\nBP x 400
+
+ID=994000128
+
+[EV] Mamoa Gift Box Lv4
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA gift box in Matryoshka doll. I feel a bit uncomfortable looking.\n\n- Components-\nAkashik Record Transmitter x 1\nBP x 800
+
+ID=994000129
+
+[EV] Mamoa Gift Box Lv5
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nGift box obtained as the last choice. For someone this choice would have been best.\n\n- Components-\nEnergy Converter x 1\nBP x 1600
+
+ID=994000130
+
+[EV] Mamoa Gift Box Max Lv
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA gift box in Matryoshka doll. Power is also good.\n\n- Components-\nEnergy Converter x 5\nOperator's Akashik Record Transmitter x 1\nAnti-Destruction x 1\nGlutton Coin x 300
+
+ID=994000131
+
+[EV] Last Selection
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nWhere do you want to go?\n\n- Components-\n[EV] Mamoa Gift Box Lv5 x 1\n[EV] Last Glutton Matryoshka x 1\nChoose 1
+
+ID=906037001
+
+3rd Anniversary Package [Rocco Town] I
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nPackage delivered by Star Forest League to commemorate the third anniversary.\nContains a letter telling you to go to a place related to 3.\n\nWhen used <font color='#5FD546'>3rd Anniversary [Rocco Town] I<font color='#9D927B'>  Can receive quests.
+
+ID=906037051
+
+3rd Anniversary Package [Rocco Town] II
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nPackage delivered by Star Forest League to commemorate the third anniversary.\nContains a letter telling you to go to a place related to 3.\n\nWhen used <font color='#5FD546'>3rd Anniversary [Rocco Town] II<font color='#9D927B'>  Can receive quests.
+
+ID=906037101
+
+3rd Anniversary Package [Candus City] I
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nPackage delivered by Star Forest League to commemorate the third anniversary.\nContains a letter telling you to go to a place related to 3.\n\nWhen used <font color='#5FD546'>3rd Anniversary [Candus City] I<font color='#9D927B'>  Can receive quests.
+
+ID=906037151
+
+3rd Anniversary Package [Candus City] II
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nPackage delivered by Star Forest League to commemorate the third anniversary.\nContains a letter telling you to go to a place related to 3.\n\nWhen used <font color='#5FD546'>3rd Anniversary [Candus City] II<font color='#9D927B'>  Can receive quests.
+
+ID=906037201
+
+3rd Anniversary Package [Grace City] I
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nPackage delivered by Star Forest League to commemorate the third anniversary.\nContains a letter telling you to go to a place related to 3.\n\nWhen used <font color='#5FD546'>3rd Anniversary [Grace City] I<font color='#9D927B'>  Can receive quests.
+
+ID=906037251
+
+3rd Anniversary Package [Grace City] II
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nPackage delivered by Star Forest League to commemorate the third anniversary.\nContains a letter telling you to go to a place related to 3.\n\nWhen used <font color='#5FD546'>3rd Anniversary [Grace City] II<font color='#9D927B'>  Can receive quests.
+
+ID=906037301
+
+3rd Anniversary Package [Ruin Fortress] I
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nPackage delivered by Star Forest League to commemorate the third anniversary.\nContains a letter telling you to go to a place related to 3.\n\nWhen used <font color='#5FD546'>3rd Anniversary [Ruin Fortress] I<font color='#9D927B'>  Can receive quests.
+
+ID=906037351
+
+3rd Anniversary Package [Ruin Fortress] II
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nPackage delivered by Star Forest League to commemorate the third anniversary.\nContains a letter telling you to go to a place related to 3.\n\nWhen used <font color='#5FD546'>3rd Anniversary [Ruin Fortress] II<font color='#9D927B'>  Can receive quests.
+
+ID=906037401
+
+3rd Anniversary Package [Grass Cover Camp] I
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nPackage delivered by Star Forest League to commemorate the third anniversary.\nContains a letter telling you to go to a place related to 3.\n\nWhen used <font color='#5FD546'>3rd Anniversary [Grass Cover Camp] I<font color='#9D927B'>  Can receive quests.
+
+ID=906037451
+
+3rd Anniversary Package [Grass Cover Camp] II
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nPackage delivered by Star Forest League to commemorate the third anniversary.\nContains a letter telling you to go to a place related to 3.\n\nWhen used <font color='#5FD546'>3rd Anniversary [Grass Cover Camp] II<font color='#9D927B'>  Can receive quests.
+
+ID=906037501
+
+3rd Anniversary Package [Dipluce Horizon] I
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nPackage delivered by Star Forest League to commemorate the third anniversary.\nContains a letter telling you to go to a place related to 3.\n\nWhen used <font color='#5FD546'>3rd Anniversary [Dipluce Horizon] I<font color='#9D927B'>  Can receive quests.
+
+ID=906037551
+
+3rd Anniversary Package [Dipluce Horizon] II
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nPackage delivered by Star Forest League to commemorate the third anniversary.\nContains a letter telling you to go to a place related to 3.\n\nWhen used <font color='#5FD546'>3rd Anniversary [Dipluce Horizon] II<font color='#9D927B'>  Can receive quests.
+
+ID=994000141
+
+[EV] Leona's Gift Box
+
+<font color='#FFBA85'>[VIP Reward Package]<font color='#9D927B'>\n\nA box that can be obtained by continuously making Glutton Matryoshka Doll with Leona's 3rd Anniversary coin during the event.
+
+ID=994000142
+
+[EV] Aamanda's Gift Box
+
+<font color='#FFBA85'>[VIP Reward Package]<font color='#9D927B'>\n\nA box that can be obtained by continuously making Glutton Matryoshka Doll with Amanda's 3rd Anniversary coin during the event.
+
+ID=994000143
+
+[EV] Sedurin's Gift Box
+
+<font color='#FFBA85'>[VIP Reward Package]<font color='#9D927B'>\n\nA box that can be obtained by continuously making Glutton Matryoshka Doll with Sedurin's 3rd Anniversary coin during the event.
+
+ID=994000145
+
+[EV] 3rd Anniversary Event Quest Selection
+
+<font color='#FFBA85'>[Event item]<font color='#9D927B'>\n\n3rd Anniversary Quest Event Start item can be selected.
+
+ID=994000146
+
+[EV] Candus City Event Quest Reward
+
+<font color='#FFBA85'>[Event Item]<font color='#9D927B'>\n\nAwarded for completing Candus City quests during the 3rd Anniversary quest.
+
+ID=994000147
+
+[EV] Grace City Event Quest Reward
+
+<font color='#FFBA85'>[Event Item]<font color='#9D927B'>\n\nAwarded for completing Grace City quests during the 3rd Anniversary quest.
+
+ID=994000148
+
+[EV] Ruin Fortress Event Quest Reward
+
+<font color='#FFBA85'>[Event Item]<font color='#9D927B'>\n\nAwarded for completing Ruin Fortress quests during the 3rd Anniversary quest.
+
+ID=994000149
+
+[EV] Grass Cover Camp Event Quest Reward
+
+<font color='#FFBA85'>[Event Item]<font color='#9D927B'>\n\nAwarded for completing Grass Cover Camp quests during the 3rd Anniversary quest.
+
+ID=994000150
+
+[EV] Dipluce Horizon Event Quest Reward
+
+<font color='#FFBA85'>[Event Item]<font color='#9D927B'>\n\nAwarded for completing Dipluce Horizon quests during the 3rd Anniversary quest.
+
+ID=994000151
+
+[EV] Hidden Quest Reward Options
+
+<font color='#FFBA85'>[Event Item]<font color='#9D927B'>\n\nCompletion of the Hidden Quests for the 3rd Anniversary Quest.
+
+ID=994000152
+
+[EV] 50000 Ether Box
+
+<font color='#FFBA85'>[Ether Box] Acquire 50,000 Ether when you open the box<font color='#9D927B'>\n\nBox containing catalyst Ether used to power equipment. It's a secret how you put the Ether that only Soul Worker can recognize and materialize. You'll gain 50,000 Ether when you open it.
+
+ID=994000153
+
+[PC Room] Daily 60 Minutes Package
+
+<font color='#FFBA85'>[Package]<font color='#9D927B'>\n\nIf you spend 60 minutes of Cloudream once a day in your PC Room, you can use\npackages to get useful items for Cloudream Travel.\n\ n-Components-\nAnti-Destruction x 1\n[PC Room] Parfum Package x 1\n[EV] 3rd Anniversary Quest Event Location
+
+ID=994000154
+
+[Connection Reward] 3rd Anniversary Package
+
+<font color='#FFBB85'>[Connection Reward]<font color='#9D927B'>\n\nThis is the package you will receive if you stay connected.\nYou can earn additional 3rd Anniversary Quest Start items.
+
+ID=670555517
+
+Tag Modification Chip: Rusty
+
+<font color='#FFBA85'>[Tag Modification Chip: Rusty]\n\n<font color='#9D927B'>The official name is [Special Tuning Unit]. A chip that has the same shape as a tag attached to an object, but can be implanted into the soul workers equipment simply by connecting the chip to gears and soul weapons. Trisha can handle your gear with expert handling.\n\nThat event tag is ineffective.\n\n<font color='#FCFCFC'>[Tag] Rusty<font color='#9D927B'>\nIncreased Weapon Damage + 252\nIncreased On Miss Damage [%] +2%
+
+ID=670555518
+
+Tag Modification Chip: Misty
+
+<font color='#FFBA85'>[Tag Modification Chip: Misty]\n\n<font color='#9D927B'>The official name is [Special Tuning Unit]. A chip that has the same shape as a tag attached to an object, but can be implanted into the soul workers equipment simply by connecting the chip to gears and soul weapons. Trisha can handle your gear with expert handling.\n\nThat event tag is ineffective.\n\n<font color='#FCFCFC'>[Tag] Misty<font color='#9D927B'>\nIncrease Armor [%] +4%\nOn Kill Effect: HP Recovery +10
+
+ID=670555519
+
+Tag Modification Chip: Rusty
+
+<font color='#FFBA85'>[Tag Modification Chip: Rusty]\n\n<font color='#9D927B'>The official name is [Special Tuning Unit]. A chip that has the same shape as a tag attached to an object, but can be implanted into the soul workers equipment simply by connecting the chip to gears and soul weapons. Trisha can handle your gear with expert handling.\n\nThat event tag is ineffective.\n\n<font color='#F94A6F'>[Tag] Rusty<font color='#9D927B'>\nIncrease Weapon Damage +404\nIncrease On Miss Damage [%] + 4%
+
+ID=670555520
+
+Tag Modification Chip: Misty
+
+<font color='#FFBA85'>[Tag Modification Chip: Misty]\n\n<font color='#9D927B'>The official name is [Special Tuning Unit]. A chip that has the same shape as a tag attached to an object, but can be implanted into the soul workers equipment simply by connecting the chip to gears and soul weapons. Trisha can handle the equipment professionally.\n\nThat event tag is ineffective.\n\n<font color='#F94A6F'>[Tag] Misty<font color='#9D927B'>\nIncrease Armor [%] +5%\nOn Kill Effect: HP Recovery +20
+
+ID=670555521
+
+Tag Modification Chip: Rusty
+
+<font color='#FFBA85'>[Tag Modification Chip: Rusty]<font color='#9D927B'>\n\nThe official name is [Special Tuning Unit]. A chip that has the same shape as a tag attached to an object, but can be implanted into the soul workers equipment simply by connecting the chip to gears and soul weapons. Trisha can handle your gear with expert handling.\n\nThat event tag is ineffective.\n\n<font color='#AC4CD4'>[Tag] Rusty<font color='#9D927B'>\nIncreased Weapon Damage + 541\nIncreased On Miss Damage [%] +5%
+
+ID=670555522
+
+Tag Modification Chip: Misty
+
+<font color='#FFBA85'>[Tag Modification: Misty]<font color='#9D927B'>\n\nThe official name is [Special Tuning Unit]. A chip that has the same shape as a tag attached to an object, but can be implanted into the soul workers equipment simply by connecting the chip to gears and soul weapons. Trisha can handle your gear with expert handling.\n\nThat event tag is ineffective.\n\n<font color='#AC4CD4'>[Tag] Misty<font color='#9D927B'>\nIncrease Armor [%] +6%\nOn Kill Effect: HP Recovery +30
+
+ID=994000132
+
+[Elementary School 3rd Grader Student] Photo Package
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA reward box containing a photo of a former character's third year of elementary school.\nThere's content for your class, so don't worry and open it.
+
+ID=994000133
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nReward box containing a picture of 3rd grader Haru.\n\n-Component-\n[Haru's Elementary School 3rd Grader] Photo X 1
+
+ID=994000134
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nReward box containing photographs of 3rd grader Erwin.\n\n-Component-\n[Erwin's Elementary School 3rd Grader] Photo X 1
+
+ID=994000135
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nReward box containing a picture of 3rd grader Lily.\n\n-Component-\n[Lily's Elementary School 3rd Grader] Photo X 1
+
+ID=994000136
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nReward box containing a picture of 3rd grader Jin.\n\n-Component-\n[Jin's Elementary School 3rd Grader] Photo X 1
+
+ID=994000137
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nReward box containing a picture of 3rd grader Stella.\n\n-Component-\n[Stella's Elementary School 3rd Grader] Photo X 1
+
+ID=994000138
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nReward box containing a picture of 3rd grader Iris.\n\n-Component-\n[Iris's Elementary School 3rd Grader] Photo X 1
+
+ID=994000139
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nReward box containing a picture of 3rd grader Chii.\n\n-Component-\n[Chii's Elementary School 3rd Grader] Photo X 1
+
+ID=994000140
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nReward box containing a picture of 3rd grader Ephnel.\n\n-Component-\n[Ephnel's Elementary School 3rd Grader] Photo X 1
+
+ID=898110023
+
+[Haru's 3rd Grader Elementary School] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture taken of Haru in a 3rd Grader Elementary School costume.The photos that can be posted on the profile of the Star Forest League are of great interest to a large number of talented people. It is a popular item that can express your taste and personality in a desolate profile that you check every day.\n<font color='#3162F5'>1 Day<font color='#9D927B'>Can be used for.
+
+ID=898210023
+
+[Erwin's 3rd Grader Elementary School] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture taken of Erwin in a 3rd Grader Elementary School costume.The photos that can be posted on the profile of the Star Forest League are of great interest to a large number of talented people. It is a popular item that can express your taste and personality in a desolate profile that you check every day.\n<font color='#3162F5'>1 Day<font color='#9D927B'>Can be used for.
+
+ID=898310023
+
+[Lily's 3rd Grader Elementary School] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture taken of Lily in a 3rd Grader Elementary School costume.The photos that can be posted on the profile of the Star Forest League are of great interest to a large number of talented people. It is a popular item that can express your taste and personality in a desolate profile that you check every day.\n<font color='#3162F5'>1 Day<font color='#9D927B'>Can be used for.
+
+ID=898410023
+
+[Jin's 3rd Grader Elementary School] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture taken of Jin in a 3rd Grader Elementary School costume.The photos that can be posted on the profile of the Star Forest League are of great interest to a large number of talented people. It is a popular item that can express your taste and personality in a desolate profile that you check every day.\n<font color='#3162F5'>1 Day<font color='#9D927B'>Can be used for.
+
+ID=898510023
+
+[Stella's 3rd Grader Elementary School] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture taken of Stella in a 3rd Grader Elementary School costume.The photos that can be posted on the profile of the Star Forest League are of great interest to a large number of talented people. It is a popular item that can express your taste and personality in a desolate profile that you check every day.\n<font color='#3162F5'>1 Day<font color='#9D927B'>Can be used for.
+
+ID=898610023
+
+[Iris's 3rd Grader Elementary School] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture taken of Iris in a 3rd Grader Elementary School costume.The photos that can be posted on the profile of the Star Forest League are of great interest to a large number of talented people. It is a popular item that can express your taste and personality in a desolate profile that you check every day.\n<font color='#3162F5'>1 Day<font color='#9D927B'>Can be used for.
+
+ID=898710023
+
+[Chii's 3rd Grader Elementary School] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture taken of Chii in a 3rd Grader Elementary School costume.The photos that can be posted on the profile of the Star Forest League are of great interest to a large number of talented people. It is a popular item that can express your taste and personality in a desolate profile that you check every day.\n<font color='#3162F5'>1 Day<font color='#9D927B'>Can be used for.
+
+ID=898810023
+
+[Ephnel's 3rd Grader Elementary School] Photo [1D]
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture taken of Ephnel in a 3rd Grader Elementary School costume.The photos that can be posted on the profile of the Star Forest League are of great interest to a large number of talented people. It is a popular item that can express your taste and personality in a desolate profile that you check every day.\n<font color='#3162F5'>1 Day<font color='#9D927B'>Can be used for.
+
+ID=898100023
+
+[Haru's 3rd Grader Elementary School] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Haru when he was in her third year of elementary school.\nThis photo can be posted on the Star Forest League profile, and has attracted a great deal of interest from many talented people. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898200023
+
+[Erwin's 3rd Grader Elementary School] Photo 
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Erwin when he was in his third year of elementary school.\nThis photo can be posted on the Star Forest League profile, and has attracted a great deal of interest from many talented people. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898300023
+
+[Lily's 3rd Grader Elementary School] Photo 
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Lily when he was in her third year of elementary school.\nThis photo can be posted on the Star Forest League profile, and has attracted a great deal of interest from many talented people. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898400023
+
+[Jin's 3rd Grader Elementary School] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Jin when he was in his third year of elementary school.\nThis photo can be posted on the Star Forest League profile, and has attracted a great deal of interest from many talented people. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898500023
+
+[Stella's 3rd Grader Elementary School] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Stella when he was in her third year of elementary school.\nThis photo can be posted on the Star Forest League profile, and has attracted a great deal of interest from many talented people. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898600023
+
+[Iris's 3rd Grader Elementary School] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Iris when he was in her third year of elementary school.\nThis photo can be posted on the Star Forest League profile, and has attracted a great deal of interest from many talented people. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898700023
+
+[Chii's 3rd Grader Elementary School] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Chii when he was in her third year of elementary school.\nThis photo can be posted on the Star Forest League profile, and has attracted a great deal of interest from many talented people. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=898800023
+
+[Ephnel's 3rd Grader Elementary School] Photo
+
+<font color='#FFBA85'>[Profile Portrait]<font color='#9D927B'>\n\nA picture of Ephnel when he was in her third year of elementary school.\nThis photo can be posted on the Star Forest League profile, and has attracted a great deal of interest from many talented people. If you are a talented star of Star Forest League, you can express your own taste and personality on a bleak profile that you check every day.
+
+ID=994000155
+
+[EV] Small Serum Pack I
+
+<font color='#FFBB85'>[Serum Package Items]<font color='#9D927B'>\n\n1 Small Serum can be obtained.
+
+ID=994000156
+
+[EV] Medium Serum Pack I
+
+<font color='#FFBB85'>[Serum Package Items]<font color='#9D927B'>\n\n1 Medium Serum can be obtained.
+
+ID=994000157
+
+[EV] Large Serum Pack I
+
+<font color='#FFBB85'>[Serum Package Items]<font color='#9D927B'>\n\n1 Large Serum can be obtained.
+
+ID=994000158
+
+[EV] Small Serum Pack II
+
+<font color='#FFBB85'>[Serum Package Items]<font color='#9D927B'>\n\n2 Small Serum can be obtained.
+
+ID=994000159
+
+[EV] Medium Serum Pack II
+
+<font color='#FFBB85'>[Serum Package Items]<font color='#9D927B'>\n\n2 Medium Serum can be obtained.
+
+ID=994000160
+
+[EV] Large Serum Pack Ⅱ
+
+<font color='#FFBB85'>[Serum Package Items]<font color='#9D927B'>\n\n2 Large Serum can be obtained.
+
+ID=994000161
+
+[EV] 3rd Anniversary Glutton Matryoshka Package Phase 1
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nThis package contains Gluton Matryoshka, which can be obtained by raising 1st Favor.
+
+ID=994000162
+
+[EV] 3rd Anniversary Glutton Matryoshka Package Phase 2
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nThis package contains Glutton Matryoshka, which can be obtained by raising 2nd Favor.
+
+ID=994000163
+
+[EV] 3rd Anniversary Glutton Matryoshka Package Phase 3
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nThis package contains Glutton Matryoshka, which can be obtained by raising 3rd Favor.
+
+ID=994000164
+
+[EV] 3rd Anniversary Glutton Matryoshka Package Phase 4
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nThis package contains Glutton Matryoshka, which can be obtained by raising 4th Favor.
+
+ID=994000165
+
+[EV] 3rd Anniversary Glutton Matryoshka Package Phase 5
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nThis package contains Glutton Matryoshka, which can be obtained by raising 5th Favor.
+
+ID=994000166
+
+[EV] 5 Small Serum Packages
+
+<font color='#FFBB85'>[Serum Item Package]<font color='#9D927B'>\n\n5 Small Serum can be obtained.
+
+ID=994000167
+
+[EV] 3 Medium Serum Packages
+
+<font color='#FFBB85'>[Serum Item Package]<font color='#9D927B'>\n\n3 Medium Serum can be obtained.
+
+ID=994000168
+
+[EV] 5 Medium Serum Packages
+
+<font color='#FFBB85'>[Serum Item Package]<font color='#9D927B'>\n\n5 Medium Serum can be obtained.
+
+ID=994000169
+
+[EV] 5 Large Serum Packages
+
+<font color='#FFBB85'>[Serum Item Package]<font color='#9D927B'>\n\n5 Large Serum can be obtained.

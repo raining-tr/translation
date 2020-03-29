@@ -1,0 +1,873 @@
+ID=15
+
+Stamina Recovery
+
+The amount of stamina that is recovered per second
+
+ID=18
+
+Movement Speed
+
+Increases the movement speed of the player
+
+ID=19
+
+Attack Speed
+
+Increases the attack speed of the player
+
+ID=21
+
+Attack
+
+The minimum and maximum damage you can deal
+
+ID=24
+
+Defense
+
+Reduce damage by a ratio dependent on the enemy's attack.\nDamage reduction against the same level enemy: {0}%\nReduction will vary based on the enemy's level.
+
+ID=26
+
+Accuracy
+
+Reduces the chances of your attack being evaded.
+
+ID=28
+
+Evaded Attack Damage
+
+The damage applied to an evaded attack.
+
+ID=29
+
+Critical Hit
+
+Critical attack chance and additional damage when a critical attack applies (based on maximum damage)
+
+ID=31
+
+Critical Resistance
+
+Reduces the chance of receiving critical damage
+
+ID=35
+
+Critical Damage
+
+Additional Damage for a critical attack.
+
+ID=38
+
+Damage Reduction
+
+Reduces damage from enemy attacks
+
+ID=43
+
+Evasion
+
+Increases the chance that an enemy's attack will miss
+
+ID=47
+
+Penetration
+
+Ignores the enemy's armor by the given value
+
+ID=49
+
+Resistance: Burn
+
+Decreases the chance of getting the effect Burn
+
+ID=50
+
+Resistance: Poison
+
+Decreases the chance of getting the effect Poison
+
+ID=51
+
+Resistance: Shock
+
+Decreases the chance of getting the effect Shock
+
+ID=52
+
+Resistance: Bleed
+
+Decreases the chance of getting the effect Bleed
+
+ID=53
+
+Resistance: Stun
+
+Decreases the chance of getting the effect Stun
+
+ID=54
+
+Resistance: Paralyse
+
+Decreases the chance of getting the effect Paralyse
+
+ID=11000
+
+Greetings
+
+Take a greeting gesture
+
+ID=11001
+
+Laugh
+
+Take a laughing gesture
+
+ID=11002
+
+Sad
+
+Take a sad gesture
+
+ID=11003
+
+Cheer
+
+Take a cheering gesture
+
+ID=11004
+
+Sit
+
+A gesture to sit
+
+ID=11005
+
+Dancing
+
+Take a dancing gesture
+
+ID=11006
+
+Taunt
+
+Take a taunting gesture
+
+ID=11007
+
+Boast
+
+Take a proud gesture
+
+ID=11008
+
+Idol
+
+Take an idol gesture
+
+ID=11009
+
+Maid
+
+Take a Maid gesture
+
+ID=11010
+
+Butler
+
+Take a Butler gesture
+
+ID=11011
+
+Swimsuit
+
+Take a swimsuit gesture
+
+ID=11012
+
+Sunbed
+
+Take a Sunbed gesture
+
+ID=11013
+
+School Swimsuit
+
+Take a School Swimsuit gesture
+
+ID=11014
+
+Bunny
+
+Take a Bunny gesture
+
+ID=11015
+
+Christmas
+
+Take a Christmas gesture
+
+ID=11016
+
+Yukata
+
+Take a festive gesture
+
+ID=11017
+
+Hanbok
+
+Take a Hanbok gesture
+
+ID=11018
+
+Patissier
+
+Take a Patissier gesture
+
+ID=11019
+
+Spiral 1
+
+Take Spiral 1 gesture
+
+ID=11020
+
+Spiral 2
+
+Take Spiral 2 gesture
+
+ID=11021
+
+White Day
+
+Take a White Day gesture
+
+ID=11022
+
+Steampunk
+
+Take a Steampunk gesture
+
+ID=11023
+
+Sexy Maid 1
+
+Take a Sexy Maid 1 gesture
+
+ID=11024
+
+Sexy Maid 2
+
+Take a Sexy Maid 2 gesture
+
+ID=11025
+
+Hot Summer
+
+Take a Hot Summer gesture
+
+ID=20000
+
+Inventory
+
+Open or close the inventory window\nYou can see and use the list of items you have.
+
+ID=20001
+
+Character Information
+
+Open or close the character info window.\nYou can check character stats, titles, profile, equipment and costumes.
+
+ID=20003
+
+Skill
+
+Open or close the Skill window.\nYou can register skills, Akashas and gestures in quick slots.
+
+ID=20008
+
+Quest
+
+Open or close the quest window.\nYou can check the quests in progress or already finished quests.
+
+ID=20016
+
+ID=20023
+
+Community
+
+Open or close the community window.\nYou can see information about friends, guild, member and blocks.
+
+ID=20034
+
+Memorial
+
+Open or close the memorial window.\nYou can view the memorial information of items you collected.
+
+ID=20036
+
+System Menu
+
+Display the System Menu.
+
+ID=20038
+
+Progress Information
+
+Open or close the Progress Info window.\nYou can view your achievements and Clearance information and as well your rewards.
+
+ID=20045
+
+Find Party / Force
+
+Open or close the Find Party/Force window.\nYou can find a party or a force.
+
+ID=20053
+
+Supporter
+
+Open or close the Supporter window.\nYou can enable/disable a supporter.
+
+ID=20055
+
+Guild
+
+Open or close the Guild window.
+
+ID=20064
+
+Market
+
+Shows the Exchange Market window.
+
+ID=20065
+
+Ranking
+
+Shows the Rankings window.
+
+ID=20080
+
+Vehicle
+
+Open or close the Vehicle window.
+
+ID=20100
+
+My Room
+
+Enter my room.
+
+ID=21000
+
+Experience
+
+You will receive {0} EXP.
+
+ID=21001
+
+Zenny
+
+You will receive {0} Zenny.
+
+ID=21002
+
+Battle Points
+
+Obtained {0} Battle Points
+
+ID=21003
+
+Ether
+
+Earn {0} Ether.
+
+ID=21004
+
+Title
+
+[{0}] obtained [{1}].
+
+ID=30000
+
+Potion Registration
+
+A quick slot used for registering potions to instantly consume within combat.
+
+ID=30001
+
+Minimap/World Map
+
+Identify key information such as Quest type and progress or NPC names with the maps.
+
+ID=30002
+
+Quest UI
+
+Recall the relevant quest information from your quest journal.
+
+ID=30003
+
+UI Mode Toggle
+
+Use the [ALT] key to switch to UI mode, which allows you to check various information with the mouse.
+
+ID=30004
+
+Ether Related
+
+Ether is a key resource that is found from defeating monsters. It is used for item enhancement and evolution.
+
+ID=30005
+
+Soul Vapor related
+
+Recycled Soul Vapor is obtained from defeating monsters and destroying objects.\n(Available on Quest Completion)
+
+ID=30006
+
+Combo Related
+
+By gaining combo length, additional bonuses and effects can be applied.
+
+ID=30007
+
+Items Related
+
+The cube can be a general cube and a rare cube that has better valuables.\nMany items can be earned from one cube.
+
+ID=30008
+
+Break Skill Related
+
+Upon reaching a certain Soul Vapor threshold, you can use the Break Skill.
+
+ID=30009
+
+Create Party/Party Play
+
+When entering a dungeon with a party, additional boosts will be applied and combat will be easier.
+
+ID=30010
+
+Skillpoints
+
+By using Skillpoints, you can learn new skills or enhance their attributes and abilities.
+
+ID=30011
+
+Shop
+
+Items that can be purchased or sold within shops.
+
+ID=30012
+
+Mail Related
+
+You can send a message to a friend or attach an item.
+
+ID=30013
+
+Bank Related
+
+The Bank allows you to store items and Zenny.
+
+ID=30014
+
+Crafting Related
+
+Collect blueprints and prerequisite materials to craft usable items.
+
+ID=30015
+
+Enhance
+
+You can upgrade your equipment with enhancement materials, Ether and Zenny.
+
+ID=30016
+
+Dismantle
+
+Unnecessary items can be dismantled into materials.
+
+ID=30017
+
+Special Mission Related
+
+In the daily mission, you can earn coins. You can use the coins at the coin shop or the vending machine.
+
+ID=30018
+
+Hidden Mission
+
+In some areas of the dungeon, sometimes a hidden event will start. If you finish the hidden event, you get additional rewards. 
+
+ID=30019
+
+Achievement Related
+
+Achievements can be claimed in the progress window.
+
+ID=30020
+
+Memorial Related
+
+Some Dungeons containing Memorials, you can check the progress info window if you missing some.
+
+ID=30021
+
+Clearance
+
+The Clearance increases each time you clear a dungeon. This will also increase the associated town's Clearance. 
+
+ID=30022
+
+Title
+
+You can express your personality by compounding titles together.
+
+ID=30023
+
+Fatigue
+
+Fatigue is consumed in proportion to the difficulty level and absolute level of the dungeon for each map; when none remains, you may not enter the dungeon.
+
+ID=30024
+
+Help Related
+
+Click the Help icon to display relevant information associated with the UI panel or window.
+
+ID=30025
+
+VIP Level
+
+A particular feature of NPCs. Increase their favor by using their services or making purchases. As it rises, additional benefits can be obtained.
+
+ID=30026
+
+Supporter Related
+
+As you progress through the story, you'll gain a variety of supporters. Supporter enters the battle to help the user.
+
+ID=30027
+
+My Room
+
+A personal room for Soulworkers only, it is fully customizable. It is a hospitable place for guests and friends to enjoy.
+
+ID=30028
+
+Guild
+
+A guild can be used to extend contact, share info and increase the gaming experience.
+
+ID=30029
+
+Item Durability
+
+As the item's durability decreases, so do its effectiveness.
+
+ID=30030
+
+Sub Weapon
+
+You can equip a subweapon to increase status and add actions.
+
+ID=30031
+
+Artifact
+
+By collecting and wearing various artifacts, you can improve your character's abilities.
+
+ID=30032
+
+Familiar
+
+An item that is especially rate that can be socked into Soul Weapons to increase their effectiveness, the Familiar.
+
+ID=30033
+
+Akashas
+
+By combining a blank card and an Akashic Key Item, you can get an Akasha or craft them to a higher rank.
+
+ID=30034
+
+Obtaining Akashas
+
+When acquired using Akashic Records, it is listed in the Skill Window. Once a card is registered, it cannot be unregistered.
+
+ID=30035
+
+Akasha Registration and Use
+
+Akashas can be used in comba or as a passive card.
+
+ID=30036
+
+End Content
+
+The Remaining Content
+
+ID=30037
+
+Item Achievement
+
+Item Achievements Completion Rate: {0}%
+
+ID=30038
+
+Dungeon Achievement
+
+Dungeon Achievements Completion Rate: {0}%
+
+ID=30039
+
+Combat Achievement
+
+Combat Achievements Completion Rate: {0}%
+
+ID=30040
+
+Quest Achievement
+
+Quest Achievements Completion Rate: {0}%
+
+ID=30041
+
+Play Achievement
+
+Play Achievements Completion Rate: {0}%
+
+ID=30042
+
+Community Achievement
+
+Community Achievements Completion Rate: {0}%
+
+ID=30043
+
+Supporter Usage
+
+Supporters can be used by pressing the [F3] key in a dungeon or by summoning them from supporter's window [Y].
+
+ID=30044
+
+Raid Achievement
+
+Raid Achievements Completion Rate: {0}%
+
+ID=21005
+
+Goods used in-game shops and exchanges.\nCan be obtained from monster and Clearance rewards.
+
+ID=21006
+
+This item is used to enhance and refine items.\nYou can obtain this item from monster, clearance and dismantling.
+
+ID=21007
+
+B.P
+
+This is the currency used in certain special shops.\nIt can be obtained by killing powerful monsters or via various rewards.
+
+ID=21008
+
+Raining Coins
+
+This is the currency used to purchase items in the Item Mall.\nIt can be obtained via the Website.
+
+ID=11026
+
+Reindeer Transforamtion
+
+Transform into Rudolph.
+
+ID=11027
+
+Hanbok B
+
+Take Hanbok B gesture
+
+ID=11028
+
+Skating
+
+Take a figure skating gesture.
+
+ID=11029
+
+Ying & Yang
+
+Take a Yin & Yang gesture.
+
+ID=11030
+
+Yukata B
+
+Take a Yukata B gesture
+
+ID=11031
+
+Glu-Glu-Gluton
+
+Take the Gluton gesture
+
+ID=11032
+
+Agent
+
+Take the Agent gesture
+
+ID=11033
+
+Sea Sounds 1
+
+Take the Sea Sound 1 gesture
+
+ID=11034
+
+Sea Sound 2
+
+Take the Sea Sound 2 gesture
+
+ID=11035
+
+Military Band
+
+Take the Military Band gesture
+
+ID=11036
+
+Holy 
+
+Take the Holy gesture
+
+ID=11037
+
+Blooming Dress
+
+Take the Blooming Dress gesture.
+
+ID=11038
+
+Holy Knight
+
+Take the Holy Knight gesture
+
+ID=11039
+
+Blooming Dress
+
+Take the Blooming Dress gesture
+
+ID=11040
+
+Silver Knight
+
+Take the Silver Knight gesture
+
+ID=11041
+
+Animal Pajamas
+
+Take the Animal Pajamas gesture
+
+ID=11042
+
+Servant
+
+Take the Servant gesture
+
+ID=11043
+
+Sailor
+
+Take the Sailor gesture
+
+ID=1000
+
+Level Experience
+
+{0} / {1} ({2}%)
+
+ID=1001
+
+Rank Experience (Yourself)
+
+{0}\n{1} / {2} ({3}%)
+
+ID=1002
+
+Rank (others)
+
+{0}
+
+ID=10
+
+HP
+
+The health of the character. DIes if the HP reaches zero.
+
+ID=14
+
+Stamina
+
+This is the amount you spend each time you dodge or skill.
+
+ID=103
+
+Enemy Additional Damage: Normal
+
+Percentage of the bonus damage that is dealt against the normal type.
+
+ID=104
+
+Enemy Extra Damage: Boss / Named
+
+Percentage of the bonus damage that is dealt against the Boss type.
+
+ID=100
+
+Cooldown Reduction
+
+Percentage of the amount that reduces the cooldown further.
+
+ID=11044
+
+Desire Worker
+
+Take the Desire Workerr gesture.
+
+ID=11045
+
+Desire Awakening
+
+Take the Desire Awake Gesture.
+
+ID=11046
+
+Enemy Festa
+
+Enemy Festa takes a gesture.
+
+ID=11047
+
+Big Cat
+
+Take a big cat gesture.
+
+ID=11048
+
+Nightmare
+
+Take Nightmare Gestures.
+
+ID=21023
+
+Mileage Points
+
+----
