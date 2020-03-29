@@ -1,0 +1,3159 @@
+Defensive FOT : Attrition
+
+<font color='#FFBA85'>[Brooch: Defense-type]<font color='#9D927B'>\n\nThe most basic and widespread Fortress-themed brooch. This fiber expansion device which makes soul energy flow through ordinary clothing and makes it a living costume. It is called a brooch for convenience's sake. A low-level brooch that increases your defense-related abilities.\n
+
+ID=160522009
+
+0
+
+Defensive FOT : Solid
+
+ID=160522010
+
+Defensive FOT : Unjustice
+
+ID=160523001
+
+Defensive FOT : Trench
+
+<font color='#FFBA85'>[Brooch : Defense-type]<font color='#9D927B'>\n\nThe most basic and widespread (Fortress)-themed brooch. The fiber expansion device which makes soul energy flow through ordinary fiber and makes it a kind of life fiber. For convenience, it is called brooch. Intermediate brooch that increases your defense-related abilities.\n
+
+ID=160523002
+
+Defensive FOT : Besiege
+
+ID=160523003
+
+Defensive FOT : Defend
+
+ID=160523004
+
+Defensive FOT : Atlas
+
+ID=160523005
+
+Defensive FOT : Rampart
+
+ID=160523006
+
+Defensive FOT : Stay
+
+ID=160523007
+
+Defensive FOT : Stronghold
+
+ID=160523008
+
+ID=160523009
+
+ID=160523010
+
+ID=160524001
+
+<font color='#FFBA85'>[Brooch : Defense-type]<font color='#9D927B'>\n\nThe most basic and widespread (Fortress)-themed brooch. The fiber expansion device which makes soul energy flow through ordinary fiber and makes it a kind of life fiber. For convenience, it is called brooch. An advanced brooch that increases your defensive power.\n
+
+ID=160524002
+
+ID=160524003
+
+ID=160524004
+
+ID=160524005
+
+ID=160524006
+
+ID=160524007
+
+ID=160524008
+
+ID=160524009
+
+ID=160524010
+
+ID=160525001
+
+<font color='#FFBA85'>[Brooch : Defense-type]<font color='#9D927B'>\n\nThe most basic and widespread (Fortress)-themed brooch. The fiber expansion device which makes soul energy flow through ordinary fiber and makes it a kind of life fiber. For convenience, it is called brooch. Superb brooch, which increases your defense skills.\n
+
+ID=160525002
+
+ID=160525003
+
+ID=160525004
+
+ID=160525005
+
+ID=160525006
+
+ID=160525007
+
+ID=160525008
+
+ID=160525009
+
+ID=160525010
+
+ID=160531001
+
+Utility FOT : Sweep
+
+<font color='#FFBA85'>[Brooch : Utility-type]<font color='#9D927B'>\n\nThe most basic and widespread (Fortress)-themed brooch. The fiber expansion device which makes soul energy flow through ordinary fiber and makes it a kind of life fiber. For convenience, it is called brooch. It is the lowest brooch, enabling special abilities to be triggered.\n
+
+ID=160531002
+
+Utility FOT : Tactics
+
+ID=160531003
+
+Utility FOT : Formation
+
+ID=160531004
+
+Utility FOT : Retreat
+
+ID=160531005
+
+Utility FOT : Incubation
+
+ID=160531006
+
+Utility FOT : Snipe
+
+ID=160531007
+
+Utility FOT : Disturb
+
+ID=160531008
+
+Utility FOT : Recon
+
+ID=160531009
+
+Utility FOT : Counterplan
+
+ID=160531010
+
+Utility FOT : Protection
+
+ID=160532001
+
+<font color='#FFBA85'>[Brooch : Utility-type]<font color='#9D927B'>\n\nThe most basic and widespread (Fortress)-themed brooch. The fiber expansion device which makes soul energy flow through ordinary fiber and makes it a kind of life fiber. For convenience, it is called brooch. It is a lower brooch, enabling special abilities to be triggered.\n
+
+ID=160532002
+
+ID=160532003
+
+ID=160532004
+
+ID=160532005
+
+ID=160532006
+
+ID=160532007
+
+ID=160532008
+
+ID=160532009
+
+ID=160532010
+
+ID=160533001
+
+<font color='#FFBA85'>[Brooch : Utility-type]<font color='#9D927B'>\n\nThe most basic and widespread (Fortress)-themed brooch. The fiber expansion device which makes soul energy flow through ordinary fiber and makes it a kind of life fiber. For convenience, it is called brooch. Intermediate brooch, enabling special abilities to be triggered.\n
+
+ID=160533002
+
+ID=160533003
+
+ID=160533004
+
+ID=160533005
+
+ID=160533006
+
+ID=160533007
+
+ID=160533008
+
+ID=160533009
+
+ID=160533010
+
+ID=160534001
+
+<font color='#FFBA85'>[Brooch : Utility-type]<font color='#9D927B'>\n\nThe most basic and widespread (Fortress)-themed brooch. The fiber expansion device which makes soul energy flow through ordinary fiber and makes it a kind of life fiber. For convenience, it is called brooch. An advanced brooch, enabling special abilities to be triggered.\n
+
+ID=160534002
+
+ID=160534003
+
+ID=160534004
+
+ID=160534005
+
+ID=160534006
+
+ID=160534007
+
+ID=160534008
+
+ID=160534009
+
+ID=160534010
+
+ID=160535001
+
+<font color='#FFBA85'>[Brooch : Utility-type]<font color='#9D927B'>\n\nThe most basic and widespread (Fortress)-themed brooch. The fiber expansion device which makes soul energy flow through ordinary fiber and makes it a kind of life fiber. For convenience, it is called brooch. It is a superb brooch, enabling special abilities to be triggered.\n
+
+ID=160535002
+
+ID=160535003
+
+ID=160535004
+
+ID=160535005
+
+ID=160535006
+
+ID=160535007
+
+ID=160535008
+
+ID=160535009
+
+ID=160535010
+
+ID=837311001
+
+Attack SIN Brooch Transmitter
+
+<font color='#FFBA85'>[Brooch Item] Random Attack SIN Brooch<font color='#9D927B'>\n\nA special transmitter that can acquire [Fiber Reinforcement Device: Brooch]. The identification code of the attacking SIN brooch is written on the device, but the designation code is broken and it is not known which attacking SIN brooch will result.
+
+ID=837311002
+
+Defensive SIN Brooch Transmitter
+
+<font color='#FFBA85'>[Brooch Item] Random Defensive SIN Brooch<font color='#9D927B'>\n\nA special transmitter that can randomly acquire Defensive SIN Brooches [Fiber Reinforcement Device: Brooches]. The identification code of the defensive SIN brooch is written on the device, but the designation code is broken and it is not known which defensive SIN brooch will be produced.
+
+ID=837311003
+
+Utility SIN Brooch Transmitter
+
+<font color='#FFBA85'>[Brooch Item] Random Utility SIN Brooch<font color='#9D927B'>\n\nSpecial transmitter device that can acquire [Fiber Reinforcement Device: Brooch]. The identification code of the utility SIN brooch is written on the device, but the designation code is broken and it is not known which functional SIN brooch will come out.
+
+ID=837311004
+
+SIN Brooch Transmitter : Inferior
+
+<font color='#FFBA85'>[Brooch Item] Random Defensive SIN Brooch<font color='#9D927B'>\n\nSpecial transmitter device that can acquire [Fiber Reinforcement Device: SIN Brooch]. The identification code of the SIN brooch is written on the device, but the designation code is broken so that it is impossible to know what kind of grade and SIN brooch will be produced.
+
+ID=837311005
+
+Attack SIN Brooch Transmitter : Inferior
+
+<font color='#FFBA85'>[Brooch Item] Random Attack SIN Brooch<font color='#9D927B'>\n\nSpecial transmitter device that can acquire [Fiber Reinforcement Device: Brooch]. The identification code of the attacking SIN brooch is written on the device, but the designation code is broken and it is not known which broach will come out. It is obvious that the identification code is a very old model.
+
+ID=837311006
+
+Defensive SIN Brooch Transmitter : Inferior
+
+<font color='#FFBA85'>[Brooch Item] Random Defensive SIN Brooch<font color='#9D927B'>\n\nSpecial transmitter device that can acquire [Fiber Reinforcement Device: Brooch]. The identification code of the defensive SIN brooch is written on the device, but the designation code is broken and it is not known which brooch will come out. It is obvious that the identification code is a very old model.
+
+ID=837311007
+
+Utility SIN Brooch Transmitter : Inferior
+
+<font color='#FFBA85'>[Brooch Item] Random Utility SIN Brooch<font color='#9D927B'>\n\nSpecial transmitter device that can acquire [Fiber Reinforcement Device: Brooch]. The identification code of the functional SIN brooch is written on the device, but the designation code is broken and it is not known which brooch will come out. It is obvious that the identification code is a very old model.
+
+ID=837311008
+
+Attack FOT Brooch Transmitter
+
+<font color='#FFBA85'>[Brooch Item] Random Attack FOT Brooch<font color='#9D927B'>\n\nSpecial transmitter device that can acquire [Fiber Reinforcement Device: Brooch]. The identification code of the attacking FOT brooch is written on the device, but the designation code is broken and it is not known which attacking FOT brooch will come out.
+
+ID=837311009
+
+Defensive FOT Brooch Transmitter
+
+<font color='#FFBA85'>[Brooch Item] Random Defensive FOT Brooch<font color='#9D927B'>\n\nSpecial transmitter device that can acquire [Fiber Reinforcement Device: Brooch]. The identification code of the protective FOT brooch is written on the device, but the designation code is broken and it is not known which protective FOT brooch will come out.
+
+ID=837311010
+
+Utility FOT Brooch Transmitter
+
+<font color='#FFBA85'>[Brooch Item] Random Utility FOT Brooch<font color='#9D927B'>\n\nSpecial transmitter device that can acquire [Fiber Reinforcement Device: Brooch]. The identification code of the functional FOT brooch is written on the device, but the designation code is broken and it is not known which functional FOT brooch will come out.
+
+ID=837311011
+
+FOT Brooch Transmitter: Inferior
+
+<font color='#FFBA85'>[Brooch Item] Random FOT Brooch<font color='#9D927B'>\n\nSpecial transmitter device capable of acquiring [Fiber reinforcement device: FOT brooch]. The identification code of the FOT brooch is written on the device, but the designation code is broken so that it is not possible to know what kind of grade and FOT brooch will come out.
+
+ID=837311012
+
+Attack FOT Brooch Transmitter : Inferior
+
+<font color='#FFBA85'>[Brooch Item] Random Attack FOT Brooch<font color='#9D927B'>\n\nSpecial transmitter device that can acquire [Fiber Reinforcement Device: Brooch]. The identification code of the attacking FOT brooch is written on the device, but the designation code is broken and it is not known which brooch will come out. It is obvious that the identification code is a very old model.
+
+ID=837311013
+
+Defensive FOT Brooch Transmitter : Inferior
+
+<font color='#FFBA85'>[Brooch Item] Random Defensive FOT Brooch<font color='#9D927B'>\n\nSpecial transmitter device that can acquire [Fiber Reinforcement Device: Brooch]. The identification code of the defensive FOT brooch is written on the device, but the designation code is broken and it is not known which brooch will come out. It is obvious that the identification code is a very old model.
+
+ID=837311014
+
+Utility FOT Brooch Transmitter : Inferior
+
+<font color='#FFBA85'>[Brooch Item] Random Utility FOT Brooch<font color='#9D927B'>\n\nSpecial transmitter device that can acquire [Fiber Reinforcement Device: Brooch]. The identification code of the functional FOT brooch is written on the device, but the designation code is broken and it is not known which brooch will come out. It is obvious that the identification code is a very old model.
+
+ID=837311015
+
+SIN Brooch Transmitter
+
+<font color='#FFBA85'>[Brooch Item] Random High-grade SIN Brooch<font color='#9D927B'>\n\nSpecial transmitter device that can acquire [Fiber Reinforcement Device: SIN Brooch]. The identification code of the SIN brooch is written on the device, but the designation code is broken so that it is impossible to know what kind of grade and SIN brooch will be produced.
+
+ID=837311016
+
+FOT Brooch Transmitter
+
+<font color='#FFBA85'>[Brooch Item] Random High-grade FOT Brooch<font color='#9D927B'>\n\nSpecial transmitter device capable of acquiring [Fiber reinforcement device: FOT brooch]. The identification code of the FOT brooch is written on the device, but the designation code is broken so that it is not possible to know what kind of grade and FOT brooch will come out.
+
+ID=836001629
+
+Thanksgiving Package I
+
+<font color='#FFBA85'>[Thanksgiving Package]<font color='#9D927B'>\n\nA box full of merchandise for the holiday season.\n\n-Components- \nFOT Brooch Transmitter x 20\nHP Recovery Kit x 20\nUltra High Concentration Vitamin G x 2\nRessurection Device x 20\nAkashik Record Transmitter x 10\nAnti-Destruction x 5
+
+ID=836001630
+
+Haru's Thanksgiving Package II
+
+<font color='#FFBA85'>[Thanksgiving Package]<font color='#9D927B'>\n\nA box full of merchandise for the holiday season.\n\n-Components-\nFOT Brooch Transmitter x 5\nHP Recovery Kit x 20\nUltra High Concentration Vitamin G x 1\nRessurection Devicex 10\n [Costume Box] Hanbok Costume x 1\n\n-Costume Box Component-\n[Hanbok Costume] Leg x 1\n[Hanbok Costume] Costume x 1\n[Hanbok Costume] Gloves x 1\n[Hanbok] Stockings x 1\n[Hanbok] Flower God x 1
+
+ID=836001631
+
+Erwin's Thanksgiving Package II
+
+<font color='#FFBA85'>[Thanksgiving]<font color='#9D927B'>\n\nA box full of merchandise for the holiday season.\n\n-Components-\nFOT Brooch Transmitter x 5\nHP Recovery Kit x 20\nUltra High Concentration Vitamin G x1\nRessurection Device x 10\n[Costume Box] Hanbok Costume x 1\n\n- Costume Box Components-\n[Hanbok Costume] Costume x 1\n[Hanbok Costume] Shoes x 1
+
+ID=836001632
+
+Lily's Thanksgiving Package II
+
+ID=836001633
+
+Jin's Thanksgiving Package II
+
+ID=836001634
+
+Stella's Thanksgiving Package II
+
+ID=836001635
+
+Iris Thanksgiving Package II
+
+ID=836001636
+
+[Furniture Package] Korea [A]
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA collection of Korean-style A-type packages for people dreaming of a cozy and calm home. It is composed of furniture only in order to keep the weight limit of the transmission device. You can enjoy the warm furniture of the Korean series when used.\n\n-Components-\nKorean-style mat [A] x 1\nKorean-style traditional bed [A] x 1\nKorean-style traditional cushion [A] x 1\nKorean Style landscape  [A] x 1\nKorean Style wooden bath [A] x 1
+
+ID=836001637
+
+[Furniture Package] Korea [B]
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA collection of Korean-style B-type packages for people dreaming of a cozy and calm home. It is composed of furniture only in order to keep the weight limit of the transmission device. You can enjoy the warm furniture of the Korean series when used.\n\n-Components-\nKorean-style mat [B] x 1\nKorean-style traditional bed [B] x 1\nKorean-style traditional cushion [B] x 1\nKorean Style landscape [B] x 1\nKorean Style wooden bath [B] x 1
+
+ID=836001638
+
+[Furniture Package] Korea [C]
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA collection of Korean-style C-type packages for people dreaming of a cozy and calm home. It is composed of furniture only in order to keep the weight limit of the transmission device. You can enjoy the warm furniture of the Korean series when used.\n\n-Components-\nKorean-style mat [C] x 1\nKorean-style traditional bed [C] x 1\nKorean-style traditional cushion [C] x 1\nKorean Style landscape [C] x 1\nKorean Style wooden bath [C] x 1
+
+ID=836001639
+
+[Interior Package] Korea [A]
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA collection of interior materials from the Korean-style A-type package for those who dream of a cozy and calm home. It is constructed solely of interior materials to ensure weight limitations on the transmission device. You can enjoy the warm furniture of the Korean series when used.\n\n-Components-\nKorean style wallpaper [A] x 1\nKorean style floor [A] x 1\nKorean style terrace door [A] x 1\nKorean style window [A] x 1\nKorean style ceiling [A] x 1\nKorean style front door [A] x 1
+
+ID=836001640
+
+[Interior Package] Korea [B]
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA collection of interior materials from the Korean-style B-type package for those who dream of a cozy and calm home. It is constructed solely of interior materials to ensure weight limitations on the transmission device. You can enjoy the warm furniture of the Korean series when used.\n\n-Components-\nKorean style wallpaper [B] x 1\nKorean style floor [B] x 1\nKorean style terrace door [B] x 1\nKorean style window [B] x 1\nKorean style ceiling [B] x 1\nKorean style entrance door [B] x 1
+
+ID=836001641
+
+[Interior Package] Korea [C]
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA collection of interior materials from the Korean-style B-type package for those who dream of a cozy and calm home. It is constructed solely of interior materials to ensure weight limitations on the transmission device. You can enjoy the warm furniture of the Korean series when used.\n\n-Components-\nKorean style wallpaper [C] x 1\nKorean style floor [C] x 1\nKorean style terrace door [C] x 1\nKorean style window [C] x 1\nKorean style ceiling [C] x 1\nKorean style entrance door [C] x 1
+
+ID=836001642
+
+[Decoration Package] Korea [A]
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA collection of ornaments in a Korean-style series A-type package for those who dream of a cozy and calm home. It consists only of ornaments to keep the weight limit of the transmission device. You can enjoy the warm furniture of the Korean series when used.\n\n-Components-\nKorean scrolls [A] x 1\nKorean-style bookshelves [A] x 1\nKorean-style traditional white porcelain [A] x 1\nKorean-style Horong fire [A] x 1
+
+ID=836001643
+
+[Decoration Package] Korea [B]
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA collection of ornaments in a Korean-style B-type package for people dreaming of a cozy and calm home. It consists only of ornaments to keep the weight limit of the transmission device. You can enjoy the warm furniture of the Korean series when used.\n\n-Components-\nKorean scrolls [B] x 1\nKorean-style bookshelves [B] x 1\nKorean-style traditional white porcelain [B] x 1\nKorean-style horong fire [B] x1
+
+ID=836001644
+
+[Decoration Package] Korea [C]
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA collection of ornaments in a Korean-style C-type package for people dreaming of a cozy and calm home. It consists only of ornaments to keep the weight limit of the transmission device. You can enjoy the warm furniture of the Korean series when used.\n\n-Components-\nKorean scrolls [C] x 1\nKorean-style bookshelves [C] x 1\nKorean-style traditional white porcelain [C] x 1\nKorean-style horong fire [C] x1
+
+ID=837000179
+
+[EV] Combat Manual [1H]
+
+<font color='#FFBA85'>[Battle EXP Increase Item] Increase EXP gain by 10% for 1 hour, 60 seconds cooldown.<font color='#9D927B'>\n\nA textbook that teaches you how to fight effectively.\nThis book contains the contents and how to deal with various situations for Soul Worker and talented players in the Star Forest League. It's a very important document that isn't available to anyone, but rumors have been circulating on the black market recently.\nReading the same book lasts longer, but be careful as reading another book changes it.\n\nChapter 1 [Soul Worker's Ability]\nSoul Worker's ability is basically beyond human. It is comfortable to think that it has magical powers based on a strong body.\n- Battle Manual 1, 16p-
+
+ID=837000180
+
+Combat Manual [1H]
+
+<font color='#FFBA85'>[Battle EXP Increase Item] Increase EXP gain by 30% for 1 hour, 60 seconds cooldown.<font color='#9D927B'>\n\nA textbook that teaches you how to fight effectively.\nThis book contains the contents and how to deal with various situations for Soul Worker and talented players in the Star Forest League. It's a very important document that isn't available to anyone, but rumors have been circulating on the black market recently.\nReading the same book lasts longer, but be careful as reading another book changes it.\n\nChapter 1 [Soul Worker's Ability]\nSoul Worker's ability is basically beyond human. It is comfortable to think that it has magical powers based on a strong body.\n- Battle Manual 1, 16p-
+
+ID=836001645
+
+[New User Package] Gift Box
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA gift box prepared for Soul Worker's who entered the world of Cloudream for the first time. A variety of items needed for battle or life.\n\n-Configuration-\nInventory Expansion x 1\nBank Expansion x 1\nOperator's Akashik Record Transmitter x 5\n[EV] Combat Manual [1H] x 5\nGlutton Coin x 600
+
+ID=837000202
+
+Attack FOT Brooch x5
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nAttack FOT Brooch Transmitter x5
+
+ID=837000203
+
+Attack FOT Brooch x 10 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nAttack FOT Brooch Transmitter x 10\nAttack FOT Brooch Transmitter x 1 (bonus)\nBrooch Synthesizer x 3 (bonus)
+
+ID=837000204
+
+Attack FOT Brooch x 30 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nAttack FOT Brooch Transmitter x 30\nAttack FOT Brooch Transmitter x 3 (bonus)\nBrooch Synthesizer x 5 (bonus)
+
+ID=837000205
+
+AttackFOT Brooch x 50 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nAttack FOT Brooch Transmitter x 50\nAttack FOT Brooch Transmitter x 7 (bonus)\nBrooch Synthesizer x 10 (bonus)
+
+ID=837000206
+
+Defensive FOT Brooch x 5
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nDefensive FOT Brooch Transmitter x 5
+
+ID=837000207
+
+Defensive FOT Brooch x 10 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nDefensive FOT Brooch Transmitter x 10\nDefensive FOT Brooch Transmitter x 1 (bonus)\nBrooch Synthesizer x 3 (bonus)
+
+ID=837000208
+
+Defensive FOT Brooch x 30 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nDefensive FOT Brooch Transmitter x 30\nDefensive FOT Brooch Transmitter x 3 (bonus)\nBrooch Synthesizer x 5 (bonus)
+
+ID=837000209
+
+Defensive FOT Brooch x 50 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nDefensive FOT Brooch Transmitter x 50\nDefensive FOT Brooch Transmitter x 7 (bonus)\nBrooch Synthesizer x 10 (bonus)
+
+ID=837000210
+
+Utility FOT Brooch x 5
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nUtility FOT Brooch Transmitter x 5
+
+ID=837000211
+
+Utility FOT Brooch x 10 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nUtility FOT Brooch Transmitter x 10\nUtility FOT Brooch Transmitter x 1 (bonus)\nBrooch Synthesizer x 3 (bonus)
+
+ID=837000212
+
+Utility FOT Brooch x 30 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nUtility FOT Brooch Transmitter x 30\nUtility FOT Brooch Transmitter x 3 (bonus)\n Brooch Synthesizer x 5 (bonus)
+
+ID=837000213
+
+Utility FOT Brooch x 50 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nUtility FOT Brooch Transmitter x 50\nUtility FOT Brooch Transmitter x 7 (bonus)\nBrooch Synthesizer x 10 (bonus)
+
+ID=837000214
+
+Attack SIN Brooch x5
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nAttack SIN Brooch Transmitter x 5
+
+ID=837000215
+
+Attack SIN Brooch x10 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nAttack SIN Brooch Transmitter x 10\nAttack SIN Brooch Transmitter x 1 (bonus)\nBrooch Synthesizer x 3 (bonus)
+
+ID=837000216
+
+Attack SIN Brooch x30 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nAttack SIN Brooch Transmitter x 30\nAttack SIN Brooch Transmitter x 3 (bonus)\nBrooch Synthesizer x 5 (bonus)
+
+ID=837000217
+
+Attack SIN Brooch x50 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nAttack SIN Brooch Transmitter x 50\nAttack SIN Brooch Transmitter x 7 (bonus)\nAttack Synthesizer x 10 (bonus)
+
+ID=837000218
+
+Defensive SIN Brooch x5
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nDefensive SIN Brooch Transmitter x 5
+
+ID=837000219
+
+Defensive SIN Brooch x10 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nDefensive SIN Brooch Transmitter x 10\nDefensive SIN Brooch Transmitter x 1 (Bonus) \nBrooch Synthesizer x 3 (bonus)
+
+ID=837000220
+
+Defensive SIN Brooch x30 (Bonus)
+
+<font color='#FFBA85'>>[Item Package]<font color='#9D927B'>\n\nDefensive SIN Brooch Transmitter x 30\nDefensive SIN Brooch Transmitter x 3 (bonus)\nBrooch Synthesizer x 5 (bonus)
+
+ID=837000221
+
+Defensive SIN Brooch x50 (Bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nDefensive SIN Brooch Transmitter x 50\nDefensive SIN Brooch Transmitter x 7 (bonus)\nBrooch Synthesizer x 10 (bonus)
+
+ID=837000222
+
+Utility SIN Brooch x5
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nUtility SIN Brooch Transmitter x 5
+
+ID=837000223
+
+Utility SIN brooch x10 (bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nUtility SIN Brooch Transmitter x 10\nUtility SIN Brooch Transmitter x 1 (Bonus)\nBrooch Synthesizer x 3 (bonus)
+
+ID=837000224
+
+Utility SIN brooch x30 (bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nUtility SIN Brooch Transmitter x 30\nUtility SIN Brooch Transmitter x 3 (bonus)\nBrooch Synthesizer x 5 (bonus)
+
+ID=837000225
+
+Utility SIN brooch x50 (bonus)
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nUtility SIN Brooch Transmitter x 50\nUtility SIN Brooch Transmitter x 7 (Bonus)\nBrooch Synthesizer x 10 (bonus)
+
+ID=231521401
+
+[Chain of The Beating Lodge] Weapon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAn avatar weapon that allows Lily to use her new powers more efficiently in order to use her energy more efficiently.\nThis reflects the determination to fight for her precious life.
+
+ID=231631901
+
+[Chain of The Beating Lodge] Hair
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt reflects the determination of the association to dedicate a precious life to the hair.\nCreated to reflect the growth of lily bloommerchen with new powers.
+
+ID=231630901
+
+[Chain of The Beating Lodge] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA costume that allows Lily to use his new energy more efficiently to utilize his energy a little more efficiently.\nThis reflects the determination of the fight to dedicate his life.
+
+ID=231630501
+
+[Chain of The Beating Lodge] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\nGloves that allows Lily to use her new body's power efficiently to take advantage of her energy a little more efficiently.\nThis is reflected in the determination to fight for your precious life.
+
+ID=231631101
+
+[Chain of The Beating Lodge] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\nStockings that allow Lily to use his new energy more efficiently in order to use his energy a little more efficiently.\nThis reflects the determination of the fight to dedicate his life.
+
+ID=231631201
+
+[Chain of The Beating Lodge] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots that allows Lily to use his new energy in order to use his energy a little more efficiently.\nThis reflects the determination to fight for his precious life.
+
+ID=831521401
+
+[Sealing] [Chain of The Beating Lodge] Weapon
+
+[Attaching Chain] A package containing a weapon.
+
+ID=831631901
+
+[Sealing] [Chain of The Beating Lodge] Hair
+
+[Blooding Chain] This package contains hair.
+
+ID=831630901
+
+[Sealing] [Chain of The Beating Lodge] Costume
+
+[Chain of The Beating Lodge] This package contains costume(s).
+
+ID=831630501
+
+[Sealed] [Chain of The Beating Lodge] Gloves
+
+[Chain of The Beating Lodge] A package containing glove(s).
+
+ID=831631101
+
+[Sealed] [Strengthening Lodge Chain] Stocking
+
+[Attaching Chain] This package contains stockings.
+
+ID=831631201
+
+[Sealed] [Blowing Chain] Shoes
+
+[Chain of The Beating Lodge] A package containing shoes.
+
+ID=831630903
+
+[Costume Box] Chain of The Beating Lodge
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Chain of The Beating Lodge] This package contains the costume that only the Lily can wear.\n\n-Component- \n[Chain of The Beating Lodge] Weapon x 1\n[Chain of The Beating Lodge] Hair x 1\n[Chain of The Beating Lodge] Costume x 1\n[Chain of The Beating Lodge] Gloves x 1\n[Chain of The Beating Lodge] Stockings x 1\n[Chain of The Beating Lodge] Shoes x One
+
+ID=231521402
+
+ID=231631902
+
+ID=231630902
+
+ID=231630502
+
+ID=231631102
+
+ID=231631202
+
+ID=831521402
+
+ID=831631902
+
+ID=831630902
+
+ID=831630502
+
+ID=831631102
+
+ID=831631202
+
+ID=831630904
+
+ID=213611901
+
+[Cheongsam] hair
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHair that allows you to fully enjoy Chinese culture and energy. Can be worn by Haru Estia.
+
+ID=213610901
+
+[Chipao] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA costume that allows you to fully enjoy Chinese culture and energy. Can be worn by Haru Estia.
+
+ID=213611201
+
+[Chipao] shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes that allow you to fully enjoy Chinese culture and energy. Can be worn by Haru Estia.
+
+ID=233671901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHair that allows you to fully enjoy Chinese culture and energy. Can be worn by Lily Bloommerchen.
+
+ID=233670901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA costume that allows you to fully enjoy Chinese culture and energy. Can be worn by Lily Bloommerchen.
+
+ID=233671201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes that can fully enjoy Chinese culture and energy. Can be worn by Lily Bloommerchen.
+
+ID=253591901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHair that can fully enjoy Chinese culture and energy. It can be worn by Iris Yuma.
+
+ID=253590901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA costume that allows you to fully enjoy Chinese culture and energy. It can be worn by Iris Yuma.
+
+ID=253591201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nChinese culture and the shoes can enjoy the aura to the whole body. It can be worn by Iris Yuma.
+
+ID=263591901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hair that can enjoy the culture and energy of China. It can be worn by Iris Yuma.
+
+ID=263590901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA costume that allows you to enjoy the culture and energy of China. It can be worn by Iris Yuma.
+
+ID=263591201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes that can enjoy the culture and energy of China. It can be worn by Iris Yuma.
+
+ID=813611901
+
+[Sealing] [Chipao] Hair
+
+[Chipao] This package contains hair.
+
+ID=813610901
+
+[Sealing] [Chipao] costume
+
+[Chipao] This package contains the costume.
+
+ID=813611201
+
+[Sealing] [Chipao] shoes
+
+[Chipao] This is the package that contains the shoes.
+
+ID=833671901
+
+ID=833670901
+
+ID=833671201
+
+ID=853591901
+
+ID=853590901
+
+ID=853591201
+
+ID=863591901
+
+ID=863590901
+
+ID=863591201
+
+ID=813610903
+
+[Costume Box] Chipao Haru
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\nIn a package containing the [Chipao] costume, the components can only be worn one day.\n\n-components-\n[Chipao] Hair x 1\n[Chipao] Costume x 1\n[Chipao] Shoe x 1
+
+ID=833670903
+
+[Costume Box] Lily's Chipao
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nIn a package containing [Lily's Chipao] costume, the components can only be worn by Lily.\n\n-Components-\n[Chipao] Hair x 1\n[Chipao] Costume x 1\n[Chipao] Shoes x 1
+
+ID=853590903
+
+[Costume Box] Stella's Chipao
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\n[Stella's Chipao] costume package can only be worn by Stella.\n\n-components-\n[Chipao] Hair x 1\n[Chipao] Costume x 1\n[Chipao] Shoes x 1
+
+ID=863590903
+
+[Costume Box] Iris's  Chipao
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\nIn a package containing the [Iiris's Chipao] costume, the components can only be worn by Iris.\n\n-components-\n[Chipao] Hair x 1\n[Chipao] Costume x 1\n[Chipao] Shoes x 1
+
+ID=213631901
+
+[Big Bunny] Haru Bunny Head
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt can be worn by Haru Estia.\n For those who are not satisfied with touching rabbits and want to become rabbits.
+
+ID=213639101
+
+[Big Bunny]  Bunny Body 
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt can be worn by Haru Estia.\n For those who are not satisfied with touching rabbits and want to become rabbits.
+
+ID=223601901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt can be worn by Erwin Arclight.\nFor those who are not satisfied with touching rabbits and want to become rabbits.
+
+ID=223609101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt can be worn by Erwin Arclight.\nFor those who are not satisfied with touching rabbits and want to become rabbits.
+
+ID=223611901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hair that can enjoy the culture and energy of China. Can be worn by Erwin Arclight.
+
+ID=223610901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA Costume that can enjoy the culture and energy of China. Can be worn by Erwin Arclight.
+
+ID=223611201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes that can enjoy the culture and energy of China. Can be worn by Erwin Arclight.
+
+ID=233691901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt can be worn by Lily Bloommerchen.n\ For those who are not satisfied with touching the rabbit and want to become a rabbit.
+
+ID=233699101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt can be worn by Lily Bloommerchen.\n For those who are not satisfied with touching rabbits and want to become rabbits.
+
+ID=243581901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt can be worn by Jin Seipatsu.\n For those who are not satisfied with touching rabbits and want to become rabbits.
+
+ID=243589101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt can be worn by Jin Seipatsu.\n For those who are not satisfied with touching rabbits and want to become rabbits.
+
+ID=243591901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hair that can enjoy the culture and energy of China. Jin Seipatsu can wear it.
+
+ID=243590901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA costume that allows you to enjoy the culture and energy of China. Jin Seipatsu can wear it.
+
+ID=243591201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes that can enjoy the culture and energy of China. Jin Seipatsu can wear it.
+
+ID=253611901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt can be worn by Stella Unibel.\n For those who are not satisfied with touching rabbits and want to become rabbits.
+
+ID=253619101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt can be worn by Stella Unibel.\n For those who are not satisfied with touching rabbits and want to become rabbits.
+
+ID=263611901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt can be worn by Iris Yuma.\n For those who are not satisfied with touching rabbits and want to become rabbits.
+
+ID=263619101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt can be worn by Iris Yuma.\n For those who are not satisfied with touching rabbits and want to become rabbits.
+
+ID=813631901
+
+[Seal] [Big Bunny] Bunny Mask
+
+[Big Bunny] A package containing a Bunny mask.
+
+ID=813639101
+
+[Seal] [Big Bunny] Bunny Body
+
+[Big Bunny] This package contains Bunny Body.
+
+ID=823601901
+
+ID=823609101
+
+ID=823611901
+
+ID=823610901
+
+ID=823611201
+
+ID=833691901
+
+ID=833699101
+
+ID=843581901
+
+ID=843589101
+
+ID=843591901
+
+ID=843590901
+
+ID=843591201
+
+ID=853611901
+
+ID=853619101
+
+ID=863611901
+
+ID=863619101
+
+ID=813639103
+
+[Costume Box] Big Bunny of the Day
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\nIn a package containing Haru's [Big Bunny] costume, the components can only be worn Haru.\n\n[Big Bunny] Bunny Mask x 1\n[Big Bunny] Bunny Body x 1
+
+ID=823609103
+
+[Costume Box] Erwin's Big Bunny
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\nIn a package containing Erwin's Big Bunny costume, the components can only be worn by Erwin.\n\n-Component-\n[Big Bunny] Bunny Mask x 1\n[Big Bunny] Bunny Body x 1
+
+ID=823610903
+
+[Costume Box] Erwin's Chipao
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\nIn a package containing Erwin's Chipao costume, the components can only be worn by Erwin.\n\n-Components-\n[Chipao] Hair x 1\n[Chipao] Costume x 1\n[Chipao] Shoes x 1
+
+ID=833699103
+
+[Costume Box] Lily's Big Bunny
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\nIn a package containing Lily's Big Bunny costume, the components can only be worn by Lily.\n\n-components-\n [Big Bunny] Bunny Mask x 1\n[Big Bunny] Bunny Body x 1
+
+ID=843589103
+
+[Costume Box] Jin's Big Bunny
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\nA package containing costume may only be worn by gin.\n\n-Component-\n[Big Bunny] Bunny Mask x 1\n[Big Bunny] Bunny Body x 1
+
+ID=843590903
+
+[Costume Box] Jin's Chipao
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\nIn a package containing the [Chipao] costume, the components can only be worn byJin.\n\n-components-\n[Chipao] Hair x 1\n[Chipao] Costume x 1\n[Chipao] Shoe x 1
+
+ID=853619103
+
+[Costume Box] Stella's Big Bunny
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\nIn a package containing [Big Bunny] costume, the components can only be worn by Stella.\n\n-component-\n[Big Bunny] Buuny Mask x 1\n[Big Bunny] Bunny Body x 1
+
+ID=863619103
+
+[Costume Box] Iris's Big Bunny
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\nA package containing the [Big Bunny] costume, the components can only be worn by Iris.\n\n-components-\n[Big Bunny] Bunny Mask x 1\n[Big Bunny] Bunny Body x 1
+
+ID=836001646
+
+[Furniture Package] Halloween [A]
+
+<font color='#FFBA85'>[Furniture package] Halloween [A]<font color='#9D927B'>\n\nIt is a collection of furniture from the Halloween series A-type packages where ghosts are likely to pop out soon. It consists of only furniture to maintain the weight limit of the transmission device. You can enjoy the Halloween atmosphere when you use it.\n\n-Component-\nHalloween bed [A] x 1\nHalloween bed [A] x 1\nHalloween table [A] x 1\nHalloween bathtub [A] x 1\n<font color='#A566FF'>Jack o lanternX 15<font color='#9D927B'>
+
+ID=836001647
+
+[Furniture Package] Halloween [B]
+
+<font color='#FFBA85'>[Furniture package] Halloween [B]<font color='#9D927B'>\n\nIt is a collection of furniture from the Halloween series B-type packages that are likely to pop out soon. It consists of only furniture to maintain the weight limit of the transmission device. You can enjoy the Halloween atmosphere when you use it.\n\n-Component-\nHalloween bed [B] x 1\nHalloween table [B] x 1\nHalloween bathtub [B] x 1\n<font color='#A566FF'>Jack o lantern X 15<font color='#9D927B'>
+
+ID=836001648
+
+[Furniture Package] Halloween [C]
+
+<font color='#FFBA85'>[Furniture package] Halloween [C]<font color='#9D927B'>\n\nIt is a collection of furniture from the Halloween series C-type packages that are likely to pop out soon. It consists of only furniture to maintain the weight limit of the transmission device. You can enjoy the Halloween atmosphere when you use it.\n\n-Component-\nHalloween bed [C] x 1\nHalloween table [C] x 1\nHalloween bathtub [C] x 1\n<font color='#A566FF'>Jack o lantern X 15<font color='#9D927B'>
+
+ID=836001649
+
+[interior material package] Halloween [A]
+
+<font color='#FFBA85'>[interior material package] Halloween [A]<font color='#9D927B'>\n\nThis is a collection of internal materials from the Halloween series A-type packages where ghosts are likely to pop out soon. It consists of only internal materials to maintain the weight limit of the transmission device. You can enjoy the Halloween atmosphere when you use it.\n\n-Component-\nHalloween tiles[A] x 1\nHalloween terrace door [A] x 1\nHalloween window x 1\nHalloween front door[A]\n<font color='#A566FF'>Jack o lantern X 15<font color='#9D927B'>
+
+ID=836001650
+
+[interior material package] Halloween [B]
+
+<font color='#FFBA85'>[interior material package] Halloween [B]<font color='#9D927B'>\n\nThis is a collection of internal materials from the Halloween series B-type packages that are likely to pop out soon. It consists of only internal materials to maintain the weight limit of the transmission device. You can enjoy the Halloween atmosphere when you use it.\n\n-Component-\nHalloween tiles[B] x 1\nHalloween terrace door [B] x 1\nHalloween window x 1\nHalloween front door [B]<font color='#A566FF'>Jack o lantern X 15<font color='#9D927B'>
+
+ID=836001651
+
+[interior material package] Halloween [C]
+
+<font color='#FFBA85'>[[interior material package] Halloween [C]<font color='#9D927B'>\n\nThis is a collection of internal materials from the Halloween series B-type packages that are likely to pop out soon. It consists of only internal materials to maintain the weight limit of the transmission device. You can enjoy the Halloween atmosphere when you use it.\n\n-Component-\nHalloween tiles[B] x 1\nHalloween terrace door [B] x 1\nHalloween window x 1\nHalloween front door [B]\n<font color='#A566FF'>Jack o lantern X 15<font color='#9D927B'>
+
+ID=213641901
+
+[Trick or Treat] Facial Bandage
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's not about looking sick! It is fashion!\nA little tinkering with the mummy face bandage.\nCan be worn by Haru Estia
+
+ID=213640901
+
+[Trick or Treat] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's not about looking sick! It's a fashion! \nA little tinkering with the mummy costume.\nCan be worn by Haru Estia
+
+ID=213641101
+
+[Trick or Treat] Leg Bandage
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nI'm not trying to look sick! Fashion is!\nA little Tinky mummy leg bandage.\nCan be worn by Haru Estia
+
+ID=213640501
+
+[Trick or Treat] Hand Bandage
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nI'm not trying to look sick! It's a fashion!\nThe mummy's hand band that looks a little clumsily.\nCan be worn by Haru Estia
+
+ID=213641201
+
+[Trick Or Treat] Leg Bandage
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nI'm not trying to look sick! Fashion is!\n a little Tinky mummy Bandage.\nCan be worn by Haru Estia.
+
+ID=223630901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nVampire costume for Halloween night.\nCan be worn by Erwin Arclight.
+
+ID=223630501
+
+[Trick or Treat] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nVampire Gloves for Halloween night.\nCan be worn by Erwin Arclight.
+
+ID=223631201
+
+[Trick or Treat] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nVampire Shoes for Halloween night.\nCan be worn by Erwin Arclight.
+
+ID=233720201
+
+[Trick or Treat] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nVampire Hat for Halloween night.\nCan be worn by Erwin Arclight.
+
+ID=233720901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe Witch costume for Halloween night.\nCan be worn by Lily bloommerchen.
+
+ID=233720501
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWitch Gloves for Halloween night.\nCan be worn by Lily bloommerchen.
+
+ID=233721101
+
+[Trick or Treat] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWitch Stockings for Halloween night.\nCan be worn by Lily bloommerchen.
+
+ID=233721201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWitch Shoes for Halloween night.\nCan be worn by Lily bloommerchen.
+
+ID=243610901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nExorcist Costume for Halloween night.\nCan be worn by jin seipatsu.
+
+ID=243610501
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nExorcist Gloves for Halloween night.\nCan be worn by Jin seipatsu.
+
+ID=243611201
+
+[Trick or Treat] Shoes
+
+<font color='#FFBA85'>[Apperance]<font color='#9D927B'>\n\nExorcist Shoes for Halloween night.\nCan be worn by Jin seipatsu.
+
+ID=253630201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA wizard hat for Halloween night.\nCan be worn by Stella Unibell
+
+ID=253630901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA wizard Costume for Halloween night.\nCan be worn by Stella Unibell
+
+ID=253630501
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWizard Gloves for Halloween night.\nCan be worn by Stella Unibell
+
+ID=253631101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWizard Stockings for Halloween night.\nCan be worn by Stella Unibell
+
+ID=253631201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWizard Shoes for Halloween night.\nCan be worn by Stella Unibell
+
+ID=263631901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nI'm not trying to look sick! Fashion is!\nA little clumsy mummy face bandage.\nIris yuma can wear it.
+
+ID=263630901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's not about looking sick! fashion is!\nA little Tinky with the mummy outfit.\nCan be worn by Iris Yuma.
+
+ID=263630101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's not about looking sick! fashion is!\nA little Tinky with the mummy legs.\nCan be worn by Iris Yuma.
+
+ID=263630501
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's not about looking sick! fashion is!\nA little Tinky with the mummy gloves.\nCan be worn by Iris Yuma.
+
+ID=263631201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's not about looking sick! fashion is!\nA little Tinky with the mummy legs.\nCan be worn by Iris Yuma.
+
+ID=813641901
+
+[Seal] [Trick Or Treat] Facial Bandage
+
+[Trick or Treat] This package contains a facial bandage.
+
+ID=813640901
+
+[Seal] [Trick Or Treat] Costume
+
+[Trick or Treat] This package contains costumes.
+
+ID=813641101
+
+[Seal] [Trick Or Treat] Leg Bandage
+
+[Trick or Treat] This package contains leg bandages.
+
+ID=813640501
+
+[Seal] [Trick Or Treat] Hand Bandage
+
+[Trick or Treat] This package contains a hand bandage.
+
+ID=813641201
+
+[Seal] [Trick Or Treat] Leg Bandage
+
+[Trick or Treat] This package contains Leg Bandage
+
+ID=823630901
+
+ID=823630501
+
+[Seal] [Trick Or Treat] Gloves
+
+[Trick or Treat] A package containing gloves.
+
+ID=823631201
+
+[Seal] [Trick Or Treat] Shoes
+
+[Trick or Treat] This package contains shoes.
+
+ID=833720201
+
+[Seal] [Trick Or Treat] Hat
+
+[Trick or Treat] This package contains a hat.
+
+ID=833720901
+
+ID=833720501
+
+ID=833721101
+
+[Sealed] [Trick Or Treat] Stockings
+
+[Trick or Treat] This package contains stockings.
+
+ID=833721201
+
+ID=843610901
+
+ID=843610501
+
+ID=843611201
+
+[Seal] [Trick Or Treat] Shoes
+
+[Trick or Treat] This package contains shoes.
+
+ID=853630201
+
+ID=853630901
+
+ID=853630501
+
+ID=853631101
+
+ID=853631201
+
+ID=863631901
+
+ID=863630901
+
+ID=863631101
+
+ID=863630501
+
+ID=863631201
+
+ID=813640903
+
+[Costume Package] Trick Or Treat of the Day
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\n[Trick or treat] the package with the costume can be worn by Haru Estia.\n\n-components-\n[trick or treat] Face Bandages x 1\n[trick or treat] Costume x 1\n[trick or treat] Hand Bandages x 1\n[trick or treat] Leg Bandages x 1\n<font color='#A566FF'>Jack o lantern X 15<font color='#9D927B'>
+
+ID=823630903
+
+[Costume Package] Erwin's Trick Or Treat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nErwin's [Trick or Treat] Costume contains a package that Erwin can wear.\n\n-components-\n[Trick or Treat] Costume x 1\n[Trick or Treat] Gloves x 1\n[Trick or Treat] Shoes x 1\n<font color='#A566FF'>Jack o lantern X 15<font color='#9D927B'>
+
+ID=833720903
+
+[Costume Package] Lily's Trick Or Treat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nLily's [Trick or Treat] Costume contains a package that Lily can wear.\n\n-components-\n[Trick or Treat] Hat x 1\n[Trick or Treat] Costume x 1\n[Trick or Treat] Gloves x 1\n[Trick or Treat] Stockings x 1\n[Trick or Treat] Shoes x 1\n<font color='#A566FF'>Jack o lantern X 15<font color='#9D927B'>
+
+ID=843610903
+
+[Costume Package] Jin's Trick Or Treat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nJin's [Trick or Treat] Costume contains a package that Jin can wear.\n\n-components-\n[Trick or Treat] costume x 1\n[Trick or Treat] Gloves x 1\n[Trick or Treat] Shoes x 1\n<font color='#A566FF'>Jack o lantern X 15<font color='#9D927B'>
+
+ID=853630903
+
+[Costume Package] Stella's Trick Or Treat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nStella's [Trick or Treat] Costume contains a package that Stella can wear .\n\n-components-\n[Trick or Treat] Hat x 1\n[Trick or Treat] Costume x 1\n[Trick or Treat] Gloves x 1\n[Trick or Treat] Stockings x 1\n[Trick or Treat] Shoes x 1\n<font color='#A566FF'>Jack o lantern X 15<font color='#9D927B'>
+
+ID=863630903
+
+[Costume Package] Iris's Trick Or Treat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nIris [Trick or Treat] contains a package that Iris can wear.\n\n-components-\n[Trick or Treat] Head x 1\n[Trick or Treat] Costume x 1\n[Trick or Treat] Hands x 1\n[Trick or Treat] Legs x 1\n<font color='#A566FF'>Jack o lantern X 15<font color='#9D927B'>
+
+ID=991000047
+
+Pumpkin seeds
+
+<font color='#FFBA85'>[HP Recovery Event Item] Recovers 3000 HP, 1 second Cooldown<font color='#9D927B'>\n\nRecovery items offered as a Halloween celebration.\nJack O'lantern is also used as a material for growing envelopes.\n\n<font color='#ff0000'>The item is deleted in batches after the end of the event.<font color='#9D927B'>
+
+ID=890011502
+
+Jack O 'Lantern Growing Envelope
+
+<font color='#FFBA85'>[Event planting items]<font color='#9D927B'>\n\nAs a Halloween event celebration cultivation item, you can acquire Jack O'lantern to produce Halloween event items.\n\n<font color='#ff0000'>The item is deleted in batches after the end of the event.<font color='#9D927B'>
+
+ID=890011511
+
+Jack o lantern
+
+<font color='#FFBA85'>[Event items]<font color='#9D927B'>\n\nAs an item to celebrate the Halloween event, you can harvest it using a jack o lantern growing envelope, or create an item from Zenith.\n\n\n<font color='#FF0000'>※ The event has ended. Please sell it to the store.<font color='#9D927B'>
+
+ID=991000048
+
+Halloween Stamina Ringer
+
+<font color='#FFBA85'>[ST Recovery Item] 25% ST instantly restored. 10 seconds of cooldown<font color='#9D927B'>\n\nStamina recovery items for Halloween.\n
+
+ID=991000049
+
+Halloween strength ringer
+
+<font color='#FFBA85'>[Attack Buff Item] Attack power increased by 7% for 5 minutes. Cooldown 5 Minutes<font color='#9D927B'>\n\nAn attack buff item that is available for Halloween.\n
+
+ID=991000050
+
+Halloween Critical Ringer
+
+<font color='#FFBA85'>[Crit Buff Item] 6% chance of crit for 5 minutes. Cooldown 5 Minutes<font color='#9D927B'>\n\nCritical Buff Item that is available for Halloween.\n
+
+ID=991000051
+
+Halloween Event Title Jack O 'Lantern
+
+<font color='#FFD700'>[Color Title Acquisition Item] Suffix<font color='#9D927B'>\n\nColor title items sold exclusively for Halloween\n\n-Title-\n<font color='#5F00FF'>Jack o lantern</font>\n\n-effect-\nIncreases Stamina 3000
+
+ID=991000052
+
+Coin Random Box [50 ~ 2500]
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nRandom 50 to 2500 Glutton Coins
+
+ID=991000055
+
+Halloween Hair Decoration Box
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing the Halloween Pumpkin hat for each character.
+
+ID=991000062
+
+Halloween event item_costume_moonlight headband_link
+
+ID=263500101
+
+[Halloween Pumpkin] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIn the past, Grace City's most famous department store used to sell hats to commemorate Halloween's day.
+
+ID=991000054
+
+Halloween Furniture Random Box
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nHalloween-themed furniture decorations and boxes to acquire furniture
+
+ID=991000053
+
+Halloween Healthy Ringer
+
+<font color='#FFBA85'>[HP Recovery Event Item] Instantly recovers 20% of HP. 10 sec cooldown<font color='#9D927B'>\n\nA recovery item provided in commemoration of Halloween.\n
+
+ID=991000069
+
+Jack O 'Lantern Nutrition Package I
+
+<font color='#FFBA85'>Jack O 'Lantern Nutrition Package I<font color='#9D927B'>\n\nA nutritional package sold for Halloween Day cultivation events, specializing in Jack O'Lantern cultivation, and boasts rapid growth.\n\nCan only be purchased 3 times per character\n\n-Components-\nNutrients X 14\n<font color='#A566FF'>Jack o lantern X 10<font color='#9D927B'>
+
+ID=991000070
+
+Jack O 'Lantern Nutrition Package II
+
+<font color='#FFBA85'>Jack O 'Lantern Nutrition Package II<font color='#9D927B'>\n\nA nutritional package sold for Halloween Day cultivation events, specializing in Jack O'Lantern cultivation, and boasts rapid growth.\n\nCan only be purchased 3 times per character\n\n-Components-\nNutrients X 30\n<font color='#A566FF'>Jack o lantern X 20<font color='#9D927B'>
+
+ID=837311017
+
+Giga FOT Brooch Transmitter
+
+<font color='#FFBA85'>[Brooch Drop Item] Gain one of the Giga FOT Brooches randomly<font color='#9D927B'>\n\nA special transmission device capable of obtaining [fiber reinforcement device: FOT brooch]. The identification code for the FOT brooch is written on the device, but the specified code is broken and it is not known what kind of FOT brooch will come out.
+
+ID=837311018
+
+Tera FOT Brooch Transmitter
+
+<font color='#FFBA85'>[Brooch Drop item] Gain one of Tera FOT brooches randomly<font color='#9D927B'>\n\nA special transmission device capable of obtaining [fiber reinforcement device: FOT brooch]. The identification code for the FOT brooch is written on the device, but the specified code is broken and it is not known what kind of FOT brooch will come out.
+
+ID=991000072
+
+Character poster box
+
+<font color='#FFBA85'>[My Room Goods Package]<font color='#9D927B'>\n\nYou can get a poster depicting each class.\n
+
+ID=991000079
+
+Autumn weekly package
+
+Final compensation for the weekly mission for the departing autumn\n\n[Package item]\n-Components-\n<font color='#E04465'>Giga FOT Brooch Transmitter X 3\n<font color='#FF6C6C'>Transcendental Smelter X 1<font color='#9D927B'>\nAdvanced FOT brooch transmitter X 20\nBrooch synthesizer X 5\nGlutton Coin X 1500
+
+ID=840002002
+
+[EV] Ultra High Concentrated Vitamin Z
+
+<font color='#FFBA85'>[Action Recovery Item]<font color='#9D927B'>\nIt's hard to tell who invented it, but it's a highly enriched vitamin that relieves all the fatigue in the body at once as soon as possible. It was so highly enriched that people who had tried it said it felt like they were chewing solid food. As soon as I drink it, I feel like I'm reborn as a new person. There are even no side effects, so there is no limit to the number of times you eat. Money is the best. The name Z is attached to the name, meaning "revolution of the vitamin world, the ultimate king." The action of \n\n 100 is immediately restored.
+
+ID=263231901
+
+[Lovely Maid] Hair
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHair band that pretty maids wear. I can accept any mistake.\nOnly Iris Yuma can wear it
+
+ID=263230901
+
+[Lovely Maid] Costume
+
+<font color='#FFBA85'>[Special Costume] Gesture Available<font color='#9D927B'>\n\nCostumes worn by lovely maids. I can accept any mistake.\nOnly Iris Yuma can wear it
+
+ID=263230501
+
+[Lovely Maid] Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe bracelet which pretty maids wear. I can accept any mistake.\nOnly Iris Yuma can wear it.
+
+ID=263231101
+
+Lovely Maid Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStockings worn by lovely maids. I can accept any mistake.\nOnly Iris Yuma can wear it
+
+ID=263231201
+
+[Lovely Maid] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes worn by lovely maids. I can accept any mistake.\nOnly Iris Yuma can wear it
+
+ID=863231901
+
+[Seal] [Lovely Maid] Hair
+
+[Lovely Maid] This package contains hair.
+
+ID=863230901
+
+[Seal] [Lovely Maid] Costume
+
+[Lovely Maid] This package contains clothes.
+
+ID=863230501
+
+[Seal] [Lovely Maid] Bracelet
+
+[Lovely Maid] This package contains a bracelet.
+
+ID=863231101
+
+[Seal] [Lovely Maid] Stockings
+
+[Lovely Maid] This package contains stockings.
+
+ID=863231201
+
+[Sealed] [Lovely Maid] Shoes
+
+[Lovely Maid] This is a package that contains shoes.
+
+ID=863230903
+
+[Costume Package] Lovely Maid
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lovely Maid] This is a package containing costumes. The components can only be worn by Iris.\n\n-Components-\n[Lovely Maid] Hair x 1\n[Lovely Maid] Costume x 1\n[Lovely maid] bracelet x 1\n[Lovely Maid] Stockings x 1\n[Lovely Maid] Shoes x 1
+
+ID=837001101
+
+December Enhanced Monthly Package
+
+<font color='#FFBA85'>[Monthly package]<font color='#9D927B'>\n\nThis is the first series of monthly packages, consisting of items to help you enhance your items.\n\n[Package items]\n-Components-\nAnti-Destruction Device x 15\nArmor Restorer x 1
+
+ID=111571301
+
+Decom Sword
+
+<font color='#FFBA85'>[Soul Weapon: Sword]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. As a sword-shaped weapon, it is lighter than it looks and can be used by anyone. But no one can use it because only a soul worker can draw all the power contained in the weapon.\nIs used by Haru Estia.
+
+ID=112571301
+
+Decom Shooter
+
+<font color='#FFBA85'>[Soul Weapon: Pistol]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. A weapon in the form of a pistol, but it does not use normal bullets, but it uses bullet energy to make bullets that cannot be used properly unless it is a soul worker.\nUsed by Erwin Arclight.
+
+ID=113571301
+
+Decomside
+
+<font color='#FFBA85'>[Soul Weapon: Scythe]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. A giant scythe weapon with special powers that no one can use. The shape may change depending on the application.\nUsed by Lily Bloommerchen.
+
+ID=114571301
+
+Decom Gauntlets
+
+<font color='#FFBA85'>[Soul Weapon: Gauntlets]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. A weapon in the form of a a hand-held, armor-type weapon around the arm, which is used as a protective device for the general public.\nUsed by Jin Seipatsu
+
+ID=115751301
+
+Decom Whipper
+
+<font color='#FFBA85'>[Soul Weapon: Guitar]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. Other types of weapons are said to make strange sounds when used by ordinary people, but when used by Soul Worker, special forces are expressed.\nUsed by Stella Unibell
+
+ID=116571301
+
+Decom Demolitioner
+
+<font color='#FFBA85'>[Soul Weapon: Hammer]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. A giant hammer-like weapon, it can't lift a heavy weight, but it responds to the soul energy of a soul Worker and makes its weight lighter.\nUsed by Iris Yuma
+
+ID=510571301
+
+Rib Head
+
+<font color='#FFBA85'>[Gears: Head]<font color='#9D927B'>\n\nA Soul Worker it has the ability to protect the wearer's body by instantaneously generating invisible Shields in response to external attacks. It can be worn on the head.
+
+ID=520571301
+
+Rib Shoulder
+
+<font color='#FFBA85'>[Gears: Shoulder]<font color='#9D927B'>\n\nSoul Worker only armor. It has the ability to protect the wearer's body by instantaneously generating invisible Shields in response to external attacks. Can be worn on the shoulders.
+
+ID=530571301
+
+Rib Body
+
+<font color='#FFBA85'>[Gear: Body]<font color='#9D927B'>\n\nSoulWorker armor. It has the ability to protect the user's body by generating an invisible shield instantaneously in response to external attacks. It can be worn on the chest.
+
+ID=540571301
+
+Rib Legs
+
+<font color='#FFBA85'>[Gear: Leg]<font color='#9D927B'>\n\nSoulworker armor. It has the ability to protect the user´s body by generating an invisible shield instantaneously in response to external attacks. It can be worn on the legs.
+
+ID=111572301
+
+Coffs Sword
+
+ID=112572301
+
+Discontinued Pistol
+
+ID=113572301
+
+Discontinued Scythe
+
+ID=114572301
+
+Discontinued Gauntlets
+
+ID=115752301
+
+Discontinued Guitar
+
+ID=116572301
+
+Discontinued Demolisher
+
+ID=410572301
+
+Seed Pendant
+
+<font color='#FFBA85'>[Accessories: Pendant]<font color='#9D927B'>\n\nSoulWorker exclusive accessories. Like a normal accessory, it's a valuable accessory that creates a unique soul energy wave that enhances the holder's ability.\nCan be worn around your neck.
+
+ID=430572301
+
+Seed Earrings
+
+<font color='#FFBA85'>[Accessories: earrings]<font color='#9D927B'>\n\nSoulworker accessories. It is a valuable accessory that is like a normal accessory but enhances the holder's ability by generating a unique soul energy wavelength.
+
+ID=440572301
+
+Seed Ring
+
+<font color='#FFBA85'>[Accessories: Ring]<font color='#9D927B'>\n\nSoulworker accessories. It is a valuable accessory that is like a normal accessory but enhances the holder's ability by generating a unique soul energy wavelength.
+
+ID=510572301
+
+Tracy Head
+
+ID=520572301
+
+Tracy Shoulder
+
+ID=530572301
+
+Tracy Body
+
+ID=540572301
+
+Tracy Legs
+
+ID=111583301
+
+Python slayer
+
+ID=112583301
+
+Python handgun
+
+ID=113583301
+
+Python ripper
+
+ID=114583301
+
+Python braceleter
+
+ID=115783301
+
+Python howler
+
+ID=116583301
+
+Python Chariot
+
+ID=410583301
+
+Glass Pendant
+
+ID=430583301
+
+Grass Earrings
+
+ID=440583301
+
+Grass Ring
+
+ID=510583401
+
+Recycling Helmet
+
+<font color='#FFBA85'>[Gear: Helmet]<font color='#9D927B'>\n\nSoul Worker armor. Helmet, which awakens special forces under the influence of spaces, strengthens the user´s body or grants special abilities. Can be worn on the head.
+
+ID=520583401
+
+Recyclable Shoulder
+
+ID=530583401
+
+Recycling body
+
+ID=540583401
+
+Recycling leg
+
+ID=111594401
+
+Gardening Party
+
+<font color='#FFBA85'>[Soul Weapon: Sword]<font color='#9D927B'>\n\nA sword that can only be handled by those recognized as the manager and ruler of the park. Can be used by Haru Estia.
+
+ID=112594401
+
+Gardening Blaster
+
+<font color='#FFBA85'>[Soul Weapon: Pistol]<font color='#9D927B'>\n\nA pistol that can only be handled by those recognized as the custodian and ruler of the park. It is said that the canine is revealed to be eaten when worn by a self-made person who is not recognized for his will. Can be used by Erwin Arclight.
+
+ID=113594401
+
+Gardening Furnish
+
+<font color='#FFBA85'>[Soul Weapon: Scythe]<font color='#9D927B'>\n\nIt is said that only those recognized as the manager and ruler of the park can handle it. Can be used by Lily Blommerchen.
+
+ID=114594401
+
+Gardening Titans
+
+<font color='#FFBA85'>[Soul Weapon: Kwon-kwon]<font color='#9D927B'>\n\nIt is a good idea that only those who are recognized as the manager and ruler of the park can handle it. It is said that the canine is revealed to be eaten when worn by a self-made person who is not recognized for his will. Can be used by Jin Seipatsu.
+
+ID=115594401
+
+Gardening Cryre
+
+<font color='#FFBA85'>[Soul Weapon: Guitar]<font color='#9D927B'>\n\nOther than that can only be handled by those who are recognized as administrators and rulers of the park. It is said that the canine is revealed to be eaten when worn by a self-made person who is not recognized for his will. Can be used by Stella Unibell.
+
+ID=116594401
+
+Gardening Dust
+
+<font color='#FFBA85'>[Soul Weapon: Hammer Stol]<font color='#9D927B'>\n\nHammer can only be dealt with by those who are recognized as the custodian and ruler of the park. It is said that the canine is revealed to be eaten when worn by a self-made person who is not recognized for his will. It can be used by Iris Yuma.
+
+ID=510594301
+
+Gardening Helmet
+
+<font color='#FFBA85'>[Gear: Helmet]<font color='#9D927B'>\n\nEquipment that can only be handled by those recognized as the manager and ruler of the park. It is said that the canine is revealed to be eaten when worn by a self-made person who is not recognized for his will. Can be worn on the head.
+
+ID=520594301
+
+Gardening shoulder
+
+<font color='#FFBA85'>[Gear: Shoulder]<font color='#9D927B'>\n\nEquipment that recognizes as managers and Lords of the park can handle it. It is said that the self-willed and unappreciated person eats flesh by revealing his fangs when wearing them. Can be worn on the shoulder.
+
+ID=530594301
+
+Gardening body
+
+<font color='#FFBA85'>[Gear: Chest]<font color='#9D927B'>\nEquipment that recognizes as managers and Lords of the park can handle it. It is said that the self-willed and unappreciated person eats flesh by revealing his fangs when wearing them. Can be worn on the chest.
+
+ID=540594301
+
+Gardening leg
+
+<font color='#FFBA85'>[Gear: Leg]<font color='#9D927B'>\n\nEquipment that recognizes as managers and Lords of the park can handle it. It is said that the self-willed and unappreciated person eats flesh by revealing his fangs when wearing them. Can be worn on the leg.
+
+ID=111581301
+
+Dead Peeling cutter
+
+ID=112581301
+
+Dead Peeling Flint
+
+ID=113581301
+
+Dead Peeling Spiker
+
+ID=114581301
+
+Dead-peeling crusher
+
+ID=115851301
+
+Dead-peeling harmonics
+
+ID=116581301
+
+Dead peeling launcher
+
+ID=510581301
+
+Deadskin Helmet
+
+ID=520581301
+
+Deadskin Shoulder
+
+ID=530581301
+
+Deadskin Body
+
+ID=540581301
+
+Deadskin Leg
+
+ID=111582301
+
+Deadpeace Cutter
+
+ID=112582301
+
+Deadpeace Flinter
+
+ID=113582301
+
+Deadpeace Spiker
+
+ID=114582301
+
+Deadpeace Crusher
+
+ID=115852301
+
+Deadpeace Harmonics
+
+ID=116582301
+
+Deadpeace Launcher
+
+ID=410582301
+
+Deadcus Pendant
+
+ID=430582301
+
+Deadcus Earrings
+
+ID=440582301
+
+Deadcus Ring
+
+ID=510582301
+
+Deadbone Helmet
+
+ID=520582301
+
+Deadbone Shoulder
+
+ID=530582301
+
+Dead body
+
+ID=540582301
+
+Dead leg
+
+ID=111593301
+
+Dead Junk Bringer
+
+ID=112593301
+
+Dead Junk Shooter
+
+ID=113593301
+
+Dead Junk Edge
+
+ID=114593301
+
+Dead Junk Compactor
+
+ID=115893301
+
+Dead Junk Shouter
+
+ID=116593301
+
+Dead Junk Reactors
+
+ID=410593301
+
+Dead Bain Pendant
+
+ID=430593301
+
+Dead Bain Earrings
+
+ID=440593301
+
+Dead Bain Rings
+
+ID=510593301
+
+Dead Blood Head
+
+ID=520593301
+
+Dead Blood Shoulder
+
+ID=530593301
+
+Dead Blood Body
+
+ID=540593301
+
+Dead Blood Leg
+
+ID=111604451
+
+Dead Soul Bringer
+
+<font color='#FFBA85'>[Soul Weapon : Sword]<font color='#9D927B'>\n\nSoulWorker special weapon. It is a weapon that uses power of the space. Only used by Haru.
+
+ID=112604451
+
+Dead Soul Shooter
+
+<font color='#FFBA85'>[Soul Weapon : Pistol]<font color='#9D927B'>\n\nSoulWorker special weapon. It is a weapon that uses power of the space. Only used by Erwin.
+
+ID=113604451
+
+Dead Soul Edge
+
+<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\n\nSoulWorker special weapon. It is a weapon that uses power of the space. Only used by Lily.
+
+ID=114604451
+
+Dead Soul Compactor
+
+<font color='#FFBA85'>[Soul Weapon : Fists]<font color='#9D927B'>\n\nSoulWorker special weapon. It is a weapon that uses power of the space. Only used by Jin.
+
+ID=115604451
+
+Dead Soul Shouter
+
+<font color='#FFBA85'>[Soul Weapon: Guitar]<font color='#9D927B'>\n\nSoulwalker-only weapon. It uses the powerful dezaian energy of the space in reverse to exert its power structure. Only used by Stella.
+
+ID=116604451
+
+Dead Soul Reactor
+
+<font color='#FFBA85'>[Soul Weapon: Hammer Stol]<font color='#9D927B'>\n\nSoulwalker-only weapon. It uses the powerful dezaian energy of the space in reverse to exert its power structure. Only used by Iris Yuma.
+
+ID=510604301
+
+Dead Soul Head
+
+<font color='#FFBA85'>[Gear: Head]<font color='#9D927B'>\n\nSoul Worker exclusive armor. Filled with the thoughts of those who have passed away. Can be worn on the head.
+
+ID=520604301
+
+Dead Soul Shoulder
+
+<font color='#FFBA85'>[Gear: Shoulder]<font color='#9D927B'>\n\nSoul Worker exclusive armor. Filled with the thoughts of those who have passed away. Can be worn on the shoulders.
+
+ID=530604301
+
+Dead Soul Body
+
+<font color='#FFBA85'>[Gear: Body]<font color='#9D927B'>\n\nSoul Worker exclusive armor. Filled with the thoughts of those who have passed away. Can be worn on the body.
+
+ID=540604301
+
+Dead Soul Leg
+
+<font color='#FFBA85'>[Gear: Leg]<font color='#9D927B'>\n\nSoul Worker exclusive armor. Filled with the thoughts of those who have passed away. Can be worn on the legs.
+
+ID=111604402
+
+Corrupted Will
+
+<font color='#FFBA85'>[Soul Weapon : Sword]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The last legacy of a Soul Worker who tried to resist the Desire Energy but eventually failed to overcome it.\nThe warmth left by the obsession of the previous owner still lingers.
+
+ID=112604402
+
+Corrupted Duty
+
+<font color='#FFBA85'>[Soul Weapon : Pistol]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The last legacy of a Soul Worker who has forgotten his mission and only chased after his desire.\nThe regret left by the previous owner still lingers.
+
+ID=113604402
+
+Corrupted Life
+
+<font color='#FFBA85'>[Soul Weapon : Scythe]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The last legacy of a Soul Worker who has forgotten her roots and has nothing but the desire to survive.\nThe thirst for blood left by the killings of the previous owner still lingers.
+
+ID=114604402
+
+Corrupted Brave
+
+<font color='#FFBA85'>[Soul Weapon : Gauntlet]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The last legacy of a Soul Worker whose courage became arrogance and corruption.\nThe arrogance left by the previous owner lingers as a fire.
+
+ID=115604402
+
+Corrupted Fate
+
+<font color='#FFBA85'>[Soul Weapon : Guitar]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The last legacy of a Soul Worker who became corrupted out of despair and failed to accept her fate.\nThe bitterness left by the previous owner still lingers as a curse.
+
+ID=116604402
+
+Corrupted Belief 
+
+<font color='#FFBA85'>[Soul Weapon : Hammer]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. The last legacy of a Soul Worker who became corrupted from constant betrayal eventually believing in nothing.\nThe mistrust left by the the previous owner still lingers.
+
+ID=711604402
+
+[Schematic] Corrupted Will
+
+<font color='#FFBA85'>[blueprint]<font color='#9D927B'>\nSoul Weapon [Corrupted Will] Design required for production
+
+ID=712604402
+
+[Schematic] Current Duty
+
+<font color='#FFBA85'>[Schematic]<font color='#9D927B'>\nDesign for creating Soul Weapon [Current Duty].
+
+ID=713604402
+
+[Schematic] Current Life
+
+<font color='#FFBA85'>[Schematic]<font color='#9D927B'>\nDesign for creating Soul Weapon [Current Life].
+
+ID=714604402
+
+[Schematic] Current Brave
+
+<font color='#FFBA85'>[Schematic]<font color='#9D927B'>\nDesign for creating Soul Weapon [Current Brave].
+
+ID=715604402
+
+[Schematic] Current Fate
+
+<font color='#FFBA85'>[Schematic]<font color='#9D927B'>\nDesign for creating Soul Weapon [Current Fate].
+
+ID=716604402
+
+[Schematic] Current Believe
+
+<font color='#FFBA85'>[Schematic]<font color='#9D927B'>\nDesign for creating Soul Weapon [Current Believe].
+
+ID=511604302
+
+Desire decider
+
+<font color='#FFBA85'>[Gear: Head]<font color='#9D927B'>\n\nSoulworker armor. The desire to “stop thinking” was embodied. Since it exists only for the wearer's brain rotation, you can trust and leave as much as your best option, but you have to be prepared and used to give up everything else.\n\nRather than defending, it's a lump of desire.\nI no longer wear this It's like being a human being and not going to exist.\n\n-Tenebris-
+
+ID=521604302
+
+Desire Charger
+
+<font color='#FFBA85'>[Gear: Shoulder]<font color='#9D927B'>\n\nSoulworker armor. The desire to “break up” was embodied. As it exists only for the purpose of blinding towards the wearer's enemy, you can trust and entrust it as much as you smash the enemy, but you must use your determination to give up everything else.\n\nIt's a lump of desire rather than a protective gear.\nWearing to wear this I think it means I will no longer exist as a human.\n\n-Tenebris-
+
+ID=711604302
+
+[Schematic] Desire Decider
+
+Schematic of Desire Decider
+
+ID=712604302
+
+ID=713604302
+
+ID=714604302
+
+ID=715604302
+
+ID=716604302
+
+ID=721604302
+
+[Schematic] Desire Charger
+
+Schematic of Desire Charger
+
+ID=722604302
+
+ID=723604302
+
+ID=724604302
+
+ID=725604302
+
+ID=726604302
+
+ID=150602101
+
+Form of Death
+
+<font color='#FFBA85'>[Weapon Familiar]<font color='#9D927B'>\n\nThe official name is [Auxiliary Unit]. It is mounted on the Soul Weapon in the form of an expansion device to demonstrate its unique performance. It is called "Weapon Familiar", focusing on how a soul weapon sticks like a child. No matter how hard I strengthen it, it is a mysterious device that helps to enjoy various additional performances in Soul Weapons, which have a limit in the maximum output.
+
+ID=837400097
+
+[Title : Suffix] Desire Worker
+
+<font color='#FFBA85'>[Title Gained Item] Suffix<font color='#9D927B'>\n\nThe power to fight, but shouldn't we consider who gave it that power?\n\n-Title Obtained-\n<font color='#F5A9A9'>place<font color='#F78181'>character<font color='#FA5858'>Following<font color='#F78181'>War<font color='#F5A9A9'>Big<font color='#9D927B'>
+
+ID=906030016
+
+Sedurin Research Sample
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nA sample containing black blood to be used by Sedurin for research
+
+ID=906030017
+
+Venom Bees
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nSample of Killer Hornet's powerful poison
+
+ID=906030018
+
+Samples collected
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nKiller Hornet's Specimen
+
+ID=906030019
+
+Bone Fragment
+
+<font color='#FFBA85'>[Quest Item]<font color='#9D927B'>\n\nBone fragments of the dead who were playing with toys
+
+ID=906030020
+
+Injector parts
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nSample parts that are believed to be the role of injecting desire energy
+
+ID=906030021
+
+Flesh of the Dead
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nSome of the flesh of the dead
+
+ID=906030022
+
+Black meat
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nA chunk of meat that has already been rotted
+
+ID=906030023
+
+More black meat
+
+<font color='#FFBA85'>[Quest Item]<font color='#9D927B'>\n\nStinky chunks that are not even indistinguishable from the shape
+
+ID=906030024
+
+Smelly meat
+
+<font color='#FFBA85'>[Quest item]<font color='#9D927B'>\n\nA piece of meat with a serious degree of decomposition
+
+ID=243140201
+
+[Forest Keeper] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Star Forest Soul Worker, Forest Guard's Hat. Star Forest League's costume designer was inspired by the design of Jin. Only Jin can wear it.
+
+ID=243140901
+
+[Forest Keeper] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is the costume of Forest Keeper, a winter special uniform for Soul Worker in the Star Forest League. The costume designer of Star Forest League was inspired by Jin and designed it. Thanks to you, only jin can wear it.
+
+ID=243140501
+
+[Forest Keeper] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is the Gloves of Forest Keeper, a winter special uniform for Soul Worker in the Star Forest League. The costume designer of Star Forest League was inspired by Jin and designed it. Thanks to you, only jin can wear it.
+
+ID=243140301
+
+[Forest Keeper] Sunglasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is the Sunglasses of Forest Keeper, a winter special uniform for Soul Worker in the Star Forest League. The costume designer of Star Forest League was inspired by Jin and designed it. Thanks to you, only jin can wear it.
+
+ID=243141201
+
+[Forest Keeper] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is the Boots of Forest Keeper, a winter special uniform for Soul Worker in the Star Forest League. The costume designer of Star Forest League was inspired by Jin and designed it. Thanks to you, only jin can wear it.
+
+ID=263140201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for the Star Forest League SoulWorker, Forest Guard's Hat. Star Forest League's costume designer was inspired by the design that only Iris could wear it.
+
+ID=263140901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Forest Star Soul Worker, Forest Guard's Outfit. Star Forest League's costume designer was inspired by the design that only Iris can wear it.
+
+ID=263140501
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Special Uniform for Star Forest League Soul Worker, Forest Guard's Gloves. Star Forest League's costume designer was inspired by the design that only Iris can wear it.
+
+ID=263141101
+
+[Forest Keeper] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter special military uniform for Forest Star SoulWorker, Forest Guard's stockings. Star Forest League's costume designer was inspired by the design that only Iris can wear it.
+
+ID=263141201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Forest Star Soul Worker, Forest Guard's Boots. Star Forest League's costume designer was inspired by the design that only Iris can wear it.
+
+ID=843140201
+
+[Sealed] [Forest Keeper] Cap
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Forest keeper] This package contains the hat.
+
+ID=843140901
+
+[Sealed] [Forest Keeper] Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Forest keeper] This package contains the costume.
+
+ID=843140501
+
+[Sealed] [Forest Keeper] Gloves
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Forest keeper] This package contains the Gloves.
+
+ID=843140301
+
+[Sealed] [Forest Keeper] Sunglasses
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Forest keeper] This package contains the Sunglasses.
+
+ID=843141201
+
+[Sealed] [Forest Keeper] Boots
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Forest keeper] This package contains the Boots.
+
+ID=863140201
+
+ID=863140901
+
+ID=863140501
+
+ID=863141101
+
+[Sealed] [Forest Keeper] Stockings
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Forest keeper] This package contains the Stockings.
+
+ID=863141201
+
+ID=843140903
+
+[Costume Box] SGL Guard
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of SGL Guard Uniform suitable for cold districts. These items can only be worn by Jin.\n-Components-\n[SGL Guard] Hat x 1\n[SGL Guard] Uniform x 1\n[SGL Guard] Gloves x 1\n[SGL Guard] Sunglasses x 1\n[SGL Guard] Boots x 1
+
+ID=863140903
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of SGL Guard Uniform suitable for cold districts. These items can only be worn by Iris.\n-Components-\n[SGL Guard] Hat x 1\n[SGL Guard] Uniform x 1\n[SGL Guard] Gloves x 1\n[SGL Guard] Stockings x 1\n[SGL Guard] Boots x 1
+
+ID=211731601
+
+Snow Crystal Earrings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSparkling crystal shape earrings.\nI feel cold when I bring my hands, but it doesn't seem to melt.\nCan be worn by Haru Estia.
+
+ID=211740201
+
+Red Antlers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's not bloody, but it's a little unusual.\nThe color is just unusual.\nOnly Haru Estia can wear it.
+
+ID=211750401
+
+Rudolph Deer Nose
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nVery very shiny deer nose.\nYou can go through the darkness and move on.\nOnly Haru Estia can wear it.
+
+ID=221731601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSparkling crystal shape earrings.\nI feel cold when I bring my hands, but it doesn't seem to melt.\nCan be worn by Erwin Arclight.
+
+ID=221740201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's not bloody, but it's a little unusual.\nThe color is just unusual.\nOnly Erwin Arclight can wear it.
+
+ID=221750401
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nVery very shiny deer nose.\nYou can go through the darkness and move on.\nOnly Erwin Arclight can wear it.
+
+ID=231731601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSparkling crystal shape earrings.\nI feel cold when I bring my hands, but it doesn't seem to melt.\nCan be worn by Lily Bloommerchen.
+
+ID=231740201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's not bloody, but it's a little unusual.\nThe color is just unusual.\nOnly Lily bloommerchen can wear it.
+
+ID=231750401
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nVery very shiny deer nose.\nYou can go through the darkness and move on.\nOnly Lily bloommerchen can wear it.
+
+ID=241731601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSparkling crystal shape earrings.\nI feel cold when I bring my hands, but it doesn't seem to melt.\nCan be worn by Jin seipatsu.
+
+ID=241740201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's not bloody, but it's a little unusual.\nThe color is just unusual.\nOnly Jin Seipatsu can wear it.
+
+ID=241750401
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nVery very shiny deer nose.\nYou can go through the darkness and move on.\nOnly Jin Seipatsu can wear it.
+
+ID=251731601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSparkling crystal shape earrings.\nI feel cold when I bring my hands, but it doesn't seem to melt.\nCan be worn by Stella Unibell.
+
+ID=251740201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's not bloody, but it's a little unusual.\nThe color is just unusual.\nOnly Stella Unibell can wear it.
+
+ID=251750401
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nVery very shiny deer nose.\nYou can go through the darkness and move on.\nOnly Stella Unibell can wear it.
+
+ID=261731601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSparkling crystal shape earrings.\nI feel cold when I bring my hands, but it doesn't seem to melt.\nCan be worn by Iris Yuma.
+
+ID=261740201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's not bloody, but it's a little unusual.\nThe color is just unusual.\nOnly Iris Yuma can wear it.
+
+ID=261750401
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nVery very shiny deer nose.\nYou can go through the darkness and move on.\nOnlyIris Yuma can wear it.
+
+ID=992000001
+
+Firecracker
+
+<font color='#FFBA85'>[Social items] you will pop firecrackers around your character. 1 time.<font color='#9D927B'>\n\nA firecracker that is used as a memorial when there is something great or pleasant.\nThe individual is safe to carry and use immediately.
+
+ID=992000002
+
+Snowflake Firecracker
+
+<font color='#FFBA85'>[Social items] you will pop firecrackers around your character. 1 time.<font color='#9D927B'>\n\nA special firecracker with flowers popping. Special processing by firecrackers burst in the cold air will be left.
+
+ID=992000003
+
+Heart Firecracker
+
+<font color='#FFBA85'>[Social items] you will pop firecrackers around your character. 1 time.<font color='#9D927B'>\n\nGiant heart-shaped popping firecracker.\nThe individual is safe to carry and use immediately.
+
+ID=991000169
+
+Snow Crystal
+
+<font color='#FFBA85'>[Event items]<font color='#9D927B'>\n\nThe coldest season is approaching and the cloud forest sprinkled throughout the start of a big snow flower crystals.\nCan be exchanged for items that can be used for multiple events.
+
+ID=991000170
+
+Fallen socks
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nIt's a good idea to be able to play with a lot of fun and fun!!!!!!!! There's something in there, but it doesn't seem to be that valuable.
+
+ID=991000171
+
+High Grade Socks
+
+<font color='#FFBA85'>[Random Box]<font color='#9D927B'>\n\nHigh-end socks that look amazing to wear on your feet. It seems to contain [Red deer horns] or decent things.
+
+ID=991000172
+
+Craftsman's Socks
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nSweat the recipient feel thought of and made craftsmanship, imbued with socks. It seems to contain [Red deer horns] or valuable items.
+
+ID=991000173
+
+Tree seed pack
+
+<font color='#FFBA85'>[Growing seed item]<font color='#9D927B'>\n\nA mysterious seed pack with a Christmas tree with a gift when it's potted.\nIf you grow a gift box in the tree, the tree will wither on the spot.
+
+ID=991000174
+
+Christmas Random Box
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nA gift box grown gift box\n[Rudolf Red Nose] or various items.
+
+ID=991000175
+
+Tree Orb
+
+<font color='#FFBA85'>[Warp items]<font color='#9D927B'>\n\nA mysterious orb that moves to [Lonely Christmas], the sanctuary of Christmas that receives the anger of lonely people.\nIf you use it, it moves to Lonely Christmas.
+
+ID=991000176
+
+Coin Random Box [50 ~ 5000]
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nA box of 50 to 5000 Glutton coins randomly
+
+ID=834001007
+
+[Limited Time] Seal Stamp (3 days)
+
+<font color='#FFBA85'>[Conductive state conversion item]<font color='#9D927B'>\n\nThe soul weapon, gear and costume worn by soulworkers is a good fusion of soul energy and the material itself used in the production. So if a soul weapon, gear, and costume goes beyond soulworker's hands for a moment, it will fuse with your soul energy and never be used by anyone else. Seal stamps can force the soul energy to be fused, even if it is a fused item, allowing others to use soul weapons, gears, and costumes.\n\n※ however, items that have been attributed or destroyed during acquisition are not available.
+
+ID=991000180
+
+Christmas Furniture Random Box
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nRoom into Christmas mood decorate furniture items randomly, one can get the box.
+
+ID=991000181
+
+Trisha's Random Refine Box
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nA chest that can randomly acquire one of several smelting stones to convert items or an energy converter.
+
+ID=991000182
+
+Snowflake Crystal Random Box
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nA box containing snowflake crystals that can be used for Christmas events.\nI can't see how many are inside.
+
+ID=836001421
+
+Brown Zenny Jar
+
+<font color='#FFBA85'>[Random jar]<font color='#9D927B'>\n\nA jar that contains a pot with free Zenny.\nIt is strange that you can't look trough the entrance, so you have to break the jar to confirm their containings.
+
+ID=836001422
+
+500 Zenny Jar
+
+<font color='#FFBA85'>[Goods jar]<font color='#9D927B'>\n\nJar with Zenny.
+
+ID=836001423
+
+1000 Zenny Jar
+
+ID=836001424
+
+3000 Zenny Jar
+
+ID=836001425
+
+5000 Zenny Jar
+
+ID=836001426
+
+10000 Zenny Jar
+
+ID=836001427
+
+100000 Zenny Jar
+
+ID=836001428
+
+500000 Zenny Jar
+
+ID=836001429
+
+1000000 Zenny Jar
+
+ID=836001430
+
+3000000 Zenny Jar
+
+ID=836001431
+
+5000000 Zenny Jar
+
+ID=991000084
+
+Snow Crystal Earring Box
+
+<font color='#FFBA85'>[Accessory box]<font color='#9D927B'>\n\nBox containing Snow Crystal Earrings.\nIt appears that the character you can open can equip.
+
+ID=991000085
+
+Red Antlers Box
+
+<font color='#FFBA85'>[Accessory box]<font color='#9D927B'>\n\nBox containing [Red Deer Horns].\nIt appears that the character you can open can equip.
+
+ID=991000086
+
+Rudolph Deer Nose Box
+
+<font color='#FFBA85'>[Accessory box]<font color='#9D927B'>\n\nBox containing Rudolph's red nose.\nIt appears that the character you can open can equip.
+
+ID=991000206
+
+[Title: Prefix] Rudolf
+
+<font color='#FFBA85'>[Title Gained Item] Prefix<font color='#9D927B'>\n\nThe name of a deer who worked hard during the Christmas season.
+
+ID=991000207
+
+[Title: Prefix] Shiny
+
+<font color='#FFBA85'>[Title Gained Item] Prefix<font color='#9D927B'>\n\nIn honor of the twinkling stars embroidered in the cold night sky.
+
+ID=991000208
+
+[Title: Prefix] White
+
+<font color='#FFBA85'>[Title Gained Item] Prefix<font color='#9D927B'>\n\nAfter the world fell, snow falling from the sky became more white.
+
+ID=991000209
+
+[Title: Suffix] Deer Nose
+
+<font color='#FFBA85'>[Title Gained Item] Prefix<font color='#9D927B'>\n\nIt is not red, but it still smells good.
+
+ID=991000210
+
+[Title: Suffix] Shiny
+
+<font color='#FFBA85'>[Title Gained Item] Suffix<font color='#9D927B'>\n\nI hope I will also be a shining person in so many people.
+
+ID=991000211
+
+[Title: Suffix] Snowflake
+
+<font color='#FFBA85'>[Title Gained Item] Prefix<font color='#9D927B'>\n\nThe snowflake crystal is said to be different in appearance for each individual.
+
+ID=991000212
+
+Christmas Nutrition Package
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nA package of items that will help you in the Christmas tree planting event.\n\n-components-\nFertilizer X 1\nSnow Flower crystals X 50\nSnow Flower firecracker X 10
+
+ID=991000213
+
+Snowflake Spray Box
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nPackage made for you who want to create a Christmas atmosphere anytime, anywhere.\n\n-components-\nSnow Flower Crystals x 10\nSnow Flower firecrackers X 10
+
+ID=991000214
+
+Snow Crystal Package
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nA package designed to make Christmas events easy, fast and easy to enjoy.\n\n-components-\nGlutton coin random box [50~5000] X 1\nUltra-concentrated vitamin Z x 1\nSnow Flower Crystals x 1000\nSnow Flower firecrackers X 10
+
+ID=991000216
+
+[Christmas Package] Haru
+
+<font color='#FFBA85'>[Package Box]<font color='#9D927B'>\n\nA package that adds snowflake items to the Christmas costume\nThe costume is only for Haru.\n\n-Components-\n[Christmas Look] Hat x 1\n[Christmas Look] Costume x 1\n[Christmas Look] Shoes x 1\n[Christmas Look] Gloves x 1\n[Christmas Look] Stockings x 1\nSnowflake Crystal X 100\nSnowflake Firecracker X 10
+
+ID=991000217
+
+[Christmas Package] Erwin
+
+<font color='#FFBA85'>[Package Box]<font color='#9D927B'>\n\nChristmas costume in Snow Flower items added to the package.\n Costume can be worn only by Erwin Arclight.\n\n-components-\n[Christmas look] Hat x 1\n[Christmas look] Costume x 1\n[Christmas look] Shoes x 1\n[Christmas look] Gloves x 1\nSnow Flower Crystals x 100\nSnow Flower firecrackers X 10
+
+ID=991000218
+
+[Christmas Package] Lily
+
+<font color='#FFBA85'>[Package Box]<font color='#9D927B'>\n\nA package that adds snowflake items to the Christmas costume\nThe costume is only for Lily.\n\n-Components-\n[Christmas Look] Hat x 1\n[Christmas Look] Costume x 1\n[Christmas Look] Shoes x 1\n[Christmas Look] Gloves x 1\n[Christmas Look] Stockings x 1\nSnowflake Crystal X 100\nSnowflake Firecracker X 10
+
+ID=991000219
+
+[Christmas Package] Jin
+
+<font color='#FFBA85'>[Package Box]<font color='#9D927B'>\n\nChristmas costume in Snow Flower items added to the package.\n Costume can be worn only by Jin Seipatsu.\n\n-components-\n[Christmas look] Hat x 1\n[Christmas look] Costume x 1\n[Christmas look] Shoes x 1\n[Christmas look] Gloves x 1\nSnow Flower Crystals x 100\nSnow Flower firecrackers X 10
+
+ID=991000220
+
+[Christmas Package] Stella
+
+<font color='#FFBA85'>[Package Box]<font color='#9D927B'>\n\nA package that adds snowflake items to the Christmas costume\nThe costume is only for Stella.\n\n-Components-\n[Christmas Look] Hat x 1\n[Christmas Look] Costume x 1\n[Christmas Look] Shoes x 1\n[Christmas Look] Gloves x 1\n[Christmas Look] Stockings x 1\nSnowflake Crystal X 100\nSnowflake Firecracker X 10
+
+ID=991000221
+
+[Christmas Package] Iris
+
+<font color='#FFBA85'>[Package Box]<font color='#9D927B'>\n\nA package that adds snowflake items to the Christmas costume\nThe costume is only for Iris.\n\n-Components-\n[Christmas Look] Hat x 1\n[Christmas Look] Costume x 1\n[Christmas Look] Shoes x 1\n[Christmas Look] Gloves x 1\n[Christmas Look] Stockings x 1\nSnowflake Crystal X 100\nSnowflake Firecracker X 10
+
+ID=836001652
+
+[interior material package] Cookie [A]
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nFor those who like sweet sweets, there is a built-in package that provides a comfortable space for you\n-components-\nCookie Wallpaper [A] X 1\nCookie Tile [A] X 1\nCookie Terrace Door [A] X 1\nDoughnut Cookie Window [A] X 1\nChocolate Cookie Ceiling [A] x 1\nChocolate Cookie Porch [A] X 1
+
+ID=836001653
+
+[interior material package] Cookie [B]
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nFor those who like sweet sweets, there is a built-in package that provides a comfortable space for you\n-components-\nCookie Wallpaper [B] X 1\nCookie Tile [B] X 1\nCookie Terrace Door [B] X 1\nDoughnut Cookie Window [B] X 1\nChocolate Cookie Ceiling [B] x 1\nChocolate Cookie Porch [B] X 1
+
+ID=836001654
+
+[interior material package] Cookie [C]
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nFor those who like sweet sweets, there is a built-in package that provides a comfortable space for you\n-components-\nCookie Wallpaper [C] X 1\nCookie Tile [C] X 1\nCookie Terrace Door [C] X 1\nDoughnut Cookie Window [C] X 1\nChocolate Cookie Ceiling [C] x 1\nChocolate Cookie Porch [C] X 1
+
+ID=836001655
+
+Furniture Package Cookie [A]
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nFurniture Package\n\n-Components-\nCandy Cookie Rug [A] X 1\nStrawberry Cookie Bed [A] X 1\nIce Cream Cookie Chore [A] X 1\nIce Cream Cookie Table [A] X 1\nCandy Cookie Bathtub [A]
+
+ID=836001656
+
+Furniture Package Cookie [B]
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nFurniture Package\n\n-Components-\nCandy Cookie Rug [B] X 1\nStrawberry Cookie Bed [B] X 1\nIce Cream Cookie Chore [B] X 1\nIce Cream Cookie Table [B] X 1\nCandy Cookie Bathtub [B]
+
+ID=836001657
+
+Furniture Package Cookie [C]
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nFurniture Package\n\n-Components-\nCandy Cookie Rug [C] X 1\nStrawberry Cookie Bed [C] X 1\nIce Cream Cookie Chore [C] X 1\nIce Cream Cookie Table [C] X 1\nCandy Cookie Bathtub [C]
+
+ID=836001658
+
+[Decoration package] Cookie [A]
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nFor those who like sweet sweets, make a comfortable space for them: Ornaments Package\n-components-\nGingerbread Cookie Clock [A] X 1\nCookie Oven [A] X 1\nBear Jelly Cookie Doll [A] X 1\nDoughnut Cookie Cushion [A] X 1\nIce Cream Cookie Lamp [A] X 1\nCookie Shower Booth [A] X 1
+
+ID=836001659
+
+[Decoration package] Cookie [B]
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nFor those who like sweet sweets, make a comfortable space for them: Ornaments Package\n-components-\nGingerbread Cookie Clock [B] X 1\nCookie Oven [B] X 1\nBear Jelly Cookie Doll [B] X 1\nDoughnut Cookie Cushion [B] X 1\nIce Cream Cookie Lamp [B] X 1\nCookie Shower Booth [B] X 1
+
+ID=836001660
+
+[Decoration package] Cookie [C]
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nFor those who like sweet sweets, make a comfortable space for them: Ornaments Package\n-components-\nGingerbread Cookie Clock [C] X 1\nCookie Oven [C] X 1\nBear Jelly Cookie Doll [C] X 1\nDoughnut Cookie Cushion [C] X 1\nIce Cream Cookie Lamp [C] X 1\nCookie Shower Booth [C] X 1
+
+ID=600000006
+
+[Social Items] Christmas Mat [60 minutes]
+
+<font color='#FFBA85'>[Social Item] available in District. Sit on the floor and relax. restore 1 energy per minute. For 60 Minutes<font color='#9D927B'>\n\nMat stained with the atmosphere of Christmas.\nLet's sit down and relax while enjoying Christmas.
+
+ID=820010011
+
+[Level 3] Soul Stone Random Box
+
+<font color='#FFBA85'>[Soulstone Package]<font color='#9D927B'>\n\nA box where you can get 1 of 6 types of 3 level Soul Stones.\nI wish you a Soul Stone of your choice!
+
+ID=820010012
+
+[Level 4] Soul Stone Random Box
+
+<font color='#FFBA85'>[Soulstone Package]<font color='#9D927B'>\n\nA box where you can get 1 of 6 types of 4 level Soul Stones.\nI wish you a Soul Stone of your choice!
+
+ID=820010013
+
+[Level 5] Soul Stone Random Box
+
+<font color='#FFBA85'>[Soulstone Package]<font color='#9D927B'>\n\nA box where you can get 1 of 6 types of 5 level Soul Stones.\nI wish you a Soul Stone of your choice!
+
+ID=820010014
+
+[Level 6] Soul Stone Random Box
+
+<font color='#FFBA85'>[Soulstone Package]<font color='#9D927B'>\n\nA box where you can get 1 of 6 types of 6 level Soul Stones.\nI wish you a Soul Stone of your choice!
+
+ID=820010015
+
+[Level 7] Soul Stone Random Box
+
+<font color='#FFBA85'>[Soulstone Package]<font color='#9D927B'>\n\nA box where you can get 1 of 6 types of 7 level Soul Stones.\nI wish you a Soul Stone of your choice!
+
+ID=820010016
+
+[Level 8] Soul Stone Random Box
+
+<font color='#FFBA85'>[Soulstone Package]<font color='#9D927B'>\n\nA box where you can get 1 of 6 types of 8 level Soul Stones.\nI wish you a Soul Stone of your choice!
+
+ID=820010017
+
+[Level 9] Soul Stone Random Box
+
+<font color='#FFBA85'>[Soulstone Package]<font color='#9D927B'>\n\nA box where you can get 1 of 6 types of 9 level Soul Stones.\nI wish you a Soul Stone of your choice!
+
+ID=221521401
+
+[Shell of the Perpetual Pledge] Weapon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA weapon avatar that allows Irwin to efficiently use the new body's power to use his energy a little more efficiently.
+
+ID=221551901
+
+[Shell of the Perpetual Pledge] Hair
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHair made to reflect as much as possible the growth of Erwin ArcLight with new powers.\nDoes not already for anyone that last forever swore reflects it.
+
+ID=221550901
+
+[Shell of the Perpetual Pledge] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA costume in which Erwin can efficiently use the newly accepted force of his body to use his energy more efficiently.It reflects a vow that will last forever for someone who is already gone.
+
+ID=221550501
+
+[Shell of the Perpetual Pledge] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAThe gloves in which Erwin can efficiently use the newly accepted force of his body to use his energy more efficiently.It reflects a vow that will last forever for someone who is already gone.
+
+ID=221551201
+
+[Shell of the Perpetual Pledge] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe Boots in which Erwin can efficiently use the newly accepted force of his body to use his energy more efficiently.It reflects a vow that will last forever for someone who is already gone.
+
+ID=821521401
+
+[Shell of the Perpetual Pledge] Weapon
+
+[Shell of the Perpetual Pledge] a package containing a weapon.
+
+ID=821551901
+
+[Sealed][Shell Of The Perpetual Pledge] Hair
+
+[Shell of the Perpetual Pledge] a package containing hair.
+
+ID=821550901
+
+[Sealed][Shell Of The Perpetual Pledge] Costume
+
+[Shell of the Perpetual Pledge] a package containing the costume.
+
+ID=821550501
+
+[Sealed][Shell Of The Perpetual Pledge] Gloves
+
+[Shell of the Perpetual Pledge] a package containing Gloves.
+
+ID=821551201
+
+[Sealed][Shell Of The Perpetual Pledge] Boots
+
+[Shell of the Perpetual Pledge] a package containing Boots.
+
+ID=821550903
+
+[Costume Package] Shell of the Perpetual Pledge
+
+<font color='#FFBA85'>[Costume package]<font color='#9D927B'>\n\nA package containing a costume may only be worn by Erwin.\n\n-Component-\n[Shell of the Perpetual Pledge] Weapon x 1\n[Shell of the Perpetual Pledge] Hair x 1\n[Shell of the Perpetual Pledge] Costume x 1\n[Shell of the Perpetual Pledge] Gloves x 1\n[Shell of the Perpetual Pledge] Boots x 1
+
+ID=221521402
+
+ID=221551902
+
+ID=221550902
+
+ID=221550502
+
+ID=221551202
+
+ID=821521402
+
+ID=821551902
+
+ID=821550902
+
+ID=821550502
+
+ID=821551202
+
+ID=821550904
+
+ID=837001102
+
+Christmas Special Package
+
+<font color='#FFBA85'>[Christmas package]<font color='#9D927B'>\n\nChristmas I or items and form record, which consists of a special package.\n\n[package items]\n- components-\ nSnow fireworks x 10\ n[social system] Christmas Mat x 3\n Akashik Record Transmitterr x 20
+
+ID=837001103
+
+1 January BSK synthetic package
+
+<font color='#FFBA85'>[Monthly package]<font color='#9D927B'>\n\nThe second series of monthly packages consists mainly of brooches.\n\n[package item]\n-Component-\nAttack BSK Brooch Transmitter x 16\nbrooch Synthesis x 3
+
+ID=837000070
+
+Furniture Package Japan [A]
+
+<font color='#FFBA85'>[Package item]<font color='#9D927B'>\n\nA Japanese-style Series A-type package for those who dream of a cozy, carefree common family home. The transmission device of the weight limit for households composed only of was. Using the Japanese series of warm furniture can.\n\n-components-\nJapanese wind carpet [A] x 1\nFloor bed [A] x 1\nLeft chair for kotatsu [A] x 1\nKotatsu [A] x 1\nWooden Bath [A] x 1
+
+ID=837000071
+
+[Furniture Package] Japan [B]
+
+<font color='#FFBA85'>[Package item]<font color='#9D927B'>\n\nA Japanese-style Series B-type package for those who dream of a cozy, carefree common family home. The transmission device of the weight limit for households composed only of was. Using the Japanese series of warm furniture can.\n\n-components-\nJapanese wind carpet [B] x 1\nFloor bed [B] x 1\nLeft chair for kotatsu [B] x 1\nKotatsu [B] x 1\nWooden Bath [B] x 1
+
+ID=837000072
+
+[Furniture Package] Japan [C]
+
+<font color='#FFBA85'>[Package item]<font color='#9D927B'>\n\nA Japanese-style Series C-type package for those who dream of a cozy, carefree common family home. The transmission device of the weight limit for households composed only of was. Using the Japanese series of warm furniture can.\n\n-components-\nJapanese wind carpet [C] x 1\nFloor bed [C] x 1\nLeft chair for kotatsu [C] x 1\nKotatsu [C] x 1\nWooden Bath [C] x 1
+
+ID=837000105
+
+[Interior materials package] Japan [A]
+
+<font color='#FFBA85'>[Package item]<font color='#9D927B'>\n\nA Japanese-style Series A-type package for those who dream of a cozy, carefree common family home. The transmission device of the weight limit for my current one only consists of. When used, you can enjoy the warm atmosphere of the Japanese series.\n\n-components-\nJapanese Weathered Wallpaper [A] x 1\nTatami [A] x 1\nJapanese Weathered Terrace door [A] x 1\nJapanese Weathered Window [A] x 1\nJapanese Weathered Porch Door [A] x 1\nJapanese Weathered Lattice Ceiling [A] x 1
+
+ID=837000106
+
+[Interior materials package] Japan [B]
+
+<font color='#FFBA85'>[Package item]<font color='#9D927B'>\n\nA Japanese-style Series B-type package for those who dream of a cozy, carefree common family home. The transmission device of the weight limit for my current one only consists of. When used, you can enjoy the warm atmosphere of the Japanese series.\n\n-components-\nJapanese Weathered Wallpaper [B] x 1\nTatami [B] x 1\nJapanese Weathered Terrace door [B] x 1\nJapanese Weathered Window [B] x 1\nJapanese Weathered Porch Door [B] x 1\nJapanese Weathered Lattice Ceiling [B] x 1
+
+ID=837000107
+
+[Interior materials package] Japan [C]
+
+<font color='#FFBA85'>[Package item]<font color='#9D927B'>\n\nA Japanese-style Series C-type package for those who dream of a cozy, carefree common family home. The transmission device of the weight limit for my current one only consists of. When used, you can enjoy the warm atmosphere of the Japanese series.\n\n-components-\nJapanese Weathered Wallpaper [C] x 1\nTatami [C] x 1\nJapanese Weathered Terrace door [C] x 1\nJapanese Weathered Window [C] x 1\nJapanese Weathered Porch Door [C] x 1\nJapanese Weathered Lattice Ceiling [C] x 1
+
+ID=837000181
+
+[Decorative package] Japan [A]
+
+<font color='#FFBA85'>[Package item]<font color='#9D927B'>\n\nA Japanese-style Series A-type package for those who dream of a cozy, carefree common family home. It consists only of ornaments to ensure the weight limit of the transmission device. When used, you can enjoy the warm atmosphere of the Japanese series.\n\n-components-\n2 Stratified Cupboard [A] x 1\nTV [A] x 1\nGaming Machine [A] x 1\nLandscape Painting [A] x 1
+
+ID=837000182
+
+[Decorative package] Japan [B]
+
+<font color='#FFBA85'>[Package item]<font color='#9D927B'>\n\nA Japanese-style Series B-type package for those who dream of a cozy, carefree common family home. It consists only of ornaments to ensure the weight limit of the transmission device. When used, you can enjoy the warm atmosphere of the Japanese series.\n\n-components-\n2 Stratified Cupboard [B] x 1\nTV [B] x 1\nGaming Machine [B] x 1\nLandscape Painting [B] x 1
+
+ID=837000183
+
+[Decorative package] Japan [C]
+
+<font color='#FFBA85'>[Package item]<font color='#9D927B'>\n\nA Japanese-style Series C-type package for those who dream of a cozy, carefree common family home. It consists only of ornaments to ensure the weight limit of the transmission device. When used, you can enjoy the warm atmosphere of the Japanese series.\n\n-components-\n2 Stratified Cupboard [C] x 1\nTV [C] x 1\nGaming Machine [C] x 1\nLandscape Painting [C] x 1
+
+ID=837100015
+
+PC Room Bronze Random Box
+
+<font color='#FFBA85'>[PC Room box]<font color='#9D927B'>\nA box that can randomly acquire one of the items in the list below.\n\n-Components-\nZenny Box 10000 x 1\nCoin Box 10 x 1\nRespawner x 1\nHP Recovery Kit x 1\nMegaphone x 1\nBP 100 x 1\nUtility SD Brooch Transmitter x 1\nDefense SD Brooch Transmitter x 1\nAttack SD Brooch Transmitter x 1\nWeapon Extension x 1\nAnti-Destruction x 1\nAkashik Record Transmitter x 1
+
+ID=837100016
+
+PC Room Silver Random Box
+
+<font color='#FFBA85'>[PC Room box]<font color='#9D927B'>\nA box that can randomly acquire one of the items in the list below.\n\n-Components-\nZenny Box 30000 x 1\nCoin Box 20 x 1\nRespawner x 1\nHP Recovery Kit x 3\nMegaphone x 2\nBP 150 x 1\nUtility SD Brooch Transmitter x 2\nDefense SD Brooch Transmitter x 2\nAttack SD Brooch Transmitter x 2\nWeapon Extension x 2\nAnti-Destruction x 2\nAkashik Record Transmitter x 2
+
+ID=837100017
+
+PC Room Gold Random Box
+
+<font color='#FFBA85'>[PC Room box]<font color='#9D927B'>\nA box that can randomly acquire one of the items in the list below.\n\n-Components-\nZenny Box 50000 x 1\nCoin Box 30 x 1\nRespawner x 3\nHP Recovery Kit x 5\nMegaphone x 3\nBP 200 x 1\nUtility SD Brooch Transmitter x 3\nDefense SD Brooch Transmitter x 3\nAttack SD Brooch Transmitter x 3\nWeapon Extension x 3\nAnti-Destruction x 3\nAdvanced Akashik Record Transmitter x 1
+
+ID=837100018
+
+PC Room Platinum Random Box
+
+<font color='#FFBA85'>[PC Room box]<font color='#9D927B'>\nA box that can randomly acquire one of the items in the list below.\n\n-Components-\nZenny Box 100000 x 1\nCoin Box 50 x 1\nRespawner x 5\nHP Recovery Kit x 10\nMegaphone x 5\nBP 300 x 1\nUtility SD Brooch Transmitter x 4\nDefense SD Brooch Transmitter x 4\nAttack SD Brooch Transmitter x 4\nWeapon Extension x 4\nAnti-Destruction x 4\nAdvanced Akashik Record Transmitter x 1
+
+ID=837100019
+
+[PC room] Zenny Box 30000
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nA box containing 30000 Zenny, it's worth it.
+
+ID=837100020
+
+[PC Room] Zenny Box 50000
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nA box containing 50000 Zenny, it's worth it.
+
+ID=837100021
+
+[PC room] Coin bead 10
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nLet's build a coin or coin with 10 coins.
+
+ID=837100023
+
+[PC room] Coin bead 30
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nCollect 30 coins, coins, and coins to prepare your car.
+
+ID=837100024
+
+[PC room] Coin bead 50
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nCollect 50 coins, coins, and coins to prepare your car.
+
+ID=837100025
+
+[PC Room] 150 BP
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nA box containing 150 BPs, which is enough to be eaten raw.
+
+ID=837100026
+
+[PC Room] 200 BP
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nA box containing 200 BPs, which is enough to be eaten raw.
+
+ID=837100027
+
+[PC Room] 300 BP
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nA box containing 300 BPs, which is enough to be eaten raw.
+
+ID=837100028
+
+[PC room] Respawner box
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nRespawner x 2 can be obtained.
+
+ID=837100029
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nRespawner x 3 can be obtained.
+
+ID=837100030
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nRespawner x 5 can be obtained.
+
+ID=837100031
+
+[PC Room] Recovery Kit Box
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nHP recovery kits x 3 can be obtained.
+
+ID=837100032
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nHP recovery kits x 5 can be obtained.
+
+ID=837100033
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nHP recovery kits x 10 can be obtained.
+
+ID=837100034
+
+[PC room] Megaphone box
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nMegaphone x 2 can be obtained.
+
+ID=837100035
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nMegaphone x 3 can be obtained.
+
+ID=837100036
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nMegaphone x 5 can be obtained.
+
+ID=837100037
+
+[PC Room] Utility SD Brooch Box
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 2 x Utility SD Brooches.
+
+ID=837100038
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 3 x Utility SD Brooches.
+
+ID=837100039
+
+[PC Room] Defense type SD brooch box
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 2 x Defense SD Brooches.
+
+ID=837100040
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 3 x Defense SD Brooches.
+
+ID=837100041
+
+[PC Room] Attack SD Brooch Box
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 2 x Attack SD Brooches.
+
+ID=837100042
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 3 x  Attack SD Brooches.
+
+ID=837100043
+
+[PC Room] Weapon Extension Box
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 2 weapon extensions.
+
+ID=837100044
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 3 weapon extensions.
+
+ID=837100045
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 4 weapon extensions.
+
+ID=837100046
+
+[PC room] Anti-Destruction box
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 2 Anti-Destruction
+
+ID=837100047
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 3 Anti-Destruction
+
+ID=837100048
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 4 Anti-Destruction
+
+ID=837100049
+
+[PC room] Akashik Record Transmitter box
+
+<font color='#FFBA85'>[PC Room Goods Box]<font color='#9D927B'>\n\nYou can get 2 Akashik Record Transmitter
+
+ID=991000099
+
+1st Anniversary Candle
+
+<font color='#FFBA85'>[Event item]<font color='#9D927B'>\n\nOne-year anniversary candles that began to be spread throughout Cloudream to mark the first anniversary.\nUsed as a registration item for 1st Anniversary World Events.
+
+ID=211731701
+
+1st Anniversary Cupcake Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\na delicious-looking cupcake hat. I think I can eat it even in a few minutes, but I can't.\nHaru can wear it.
+
+ID=221731701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\na delicious-looking cupcake hat. I think I can eat it even in a few minutes, but I can't.\nErwin can wear it.
+
+ID=231731701
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\nA delicious-looking cupcake hat. I think I can eat it even in a few minutes, but I can't.\nCan be worn by Lily Bloommerchen.
+
+ID=241731701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\na delicious-looking cupcake hat. I think I can eat it even in a few minutes, but I can't.\nJin can wear it.
+
+ID=251731701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\na delicious-looking cupcake hat. I think I can eat it even in a few minutes, but I can't.\nStella can wear it.
+
+ID=261731701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\na delicious-looking cupcake hat. I think I can eat it even in a few minutes, but I can't.\nIris can wear it.
+
+ID=991000183
+
+1st Anniversary Coin
+
+<font color='#FFBA85'>[Event items]<font color='#9D927B'>\n\nIt is said that various items can be exchanged through the 1st anniversary coin.\nZenith was created for the 1st anniversary.
+
+ID=991000184
+
+Commemorative Coin Random Box A
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nA box containing 1st anniversary coins that can be used for events.\nA box with 10 to 500 anniversary coins randomly
+
+ID=991000185
+
+Commemorative Coin Random Box B
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nA box containing 1st anniversary coins that can be used for events.\nA box with 5 to 20 anniversary coins randomly
+
+ID=991000186
+
+[Title: Prefix] Happy Birthday
+
+<font color='#FFD700'>[Color Title Acquisition Item] Prefix<font color='#9D927B'>\n\nA color title item sold only for the first anniversary\n\n- Acquisition title -\n<font color='#F21C74'>Happy</font><font color='#FFFA00'>Birthday</font>
+
+ID=991000187
+
+1st Anniversary Cup Hat Box
+
+<font color='#FFBA85'>[Accessory box]<font color='#9D927B'>\n\nBox containing the 1st Anniversary Cupcake Hat.\nIt appears that the character that can be opened can be equipped.
+
+ID=837200027
+
+Yomi's 1st Anniversary Akashik Record x 5
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nLimited Edition Akashik Record Transmitter x 5
+
+ID=837200028
+
+Yomi's 1st Anniversary Akashik Record x 10 
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nLimited Edition Akashik Record Transmitter x 10
+
+ID=837200029
+
+Yomi's 1st Anniversary Akashik Record x 30
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nLimited Edition Akashik Record Transmitter x 30
+
+ID=837200030
+
+Catherine's 1st Anniversary Akashik Record x 5
+
+ID=837200031
+
+Catherine's 1st Anniversary Akashik Record x 10
+
+ID=837200032
+
+Catherine's 1st Anniversary Akashik Record x 30
+
+ID=837200033
+
+Amanda's Limited Akashik Record x 5
+
+ID=837200034
+
+Amanda's Limited Akashik Record x 10
+
+ID=837200035
+
+Amanda's Limited Akashik Record x 30
+
+ID=991000306
+
+Lovely Date / Teen Rockstar Hat Package
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nA box containing [Lovely Date / Teen Rockstar Hat + Akashik Record Transmitter x 5].\nIt appears that the character you are opening can equip.
+
+ID=991000307
+
+Lovely date hat Package
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\n1st Anniversary World Event Reward Box.\n\n-Component\nLove Date Hat x 1\nAkashik Record transmitter x 5
+
+ID=991000308
+
+Teen Rockstar Hat Package
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\n1st Anniversary World Event Reward Box.\n\n-Component\nTeen Rockstar Hat x 1\nAkashik Record transmitter x 5
+
+ID=991000309
+
+ID=991000310
+
+ID=991000311
+
+ID=991000312
+
+ID=991000313
+
+Lovely Date / Teen Rockstar Top Package
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nA box containing [Lovely Date / Teen Rockstar Top + Anti-Destruction x 3].\nIt appears to be equipped by the character you open.
+
+ID=991000314
+
+Lovely Date Top Package
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\n1st Anniversary World Event Reward Box.\n\n-Components-\nLovely Date Top x 1\nAnti-Destruction x 3
+
+ID=991000315
+
+Teen Rockstar Top Package
+
+ID=991000316
+
+ID=991000317
+
+ID=991000318
+
+ID=991000319
+
+ID=991000320
+
+Lovely Date / Teen Rockstar Bottoms Package
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nA box containing [Lovely Date / Teen Rockstar Bottoms + Anti-Destruction x 3].\nIt appears to be equipped by the character you open.
+
+ID=991000321
+
+Lovely Date Bottoms Package
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\n1st Anniversary World Event Reward Box.\n\n-Components-\nLovely Date Bottoms x 1\nAnti-Destruction x 3
+
+ID=991000322
+
+Teen Rockstar Bottoms Package
+
+ID=991000323
+
+ID=991000324
+
+ID=991000325
+
+ID=991000326
+
+ID=991000327
+
+Lovely Date / Teen Rockstar Shoe Box
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nA box containing [Lovely Date / Teen Rockstar Shoes + Akashik Record Transmitter x 5].\nIt appears that every Character can equip it.
+
+ID=991000328
+
+Lovely date shoe box
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\n1st Anniversary World Event Reward Box.\n\n-Components-\nLovely Date Shoes x 1\nAkashik Record Transmitter x 5
+
+ID=991000329
+
+Teen rockstar shoe box
+
+ID=991000330
+
+ID=991000331
+
+ID=991000332
+
+ID=991000333
+
+ID=991000334
+
+Lovely date socks box
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\nA box containing [Lovely Date Socks + SD Brooch Transmitter x 1 + BSK Brooch Transmitter x 1 + Advanced FOT Brooch Transmitter x 1].\n\n<font color='#FFBA85'>Erwin / Jin does not use the parts.<font color='#9D927B'>
+
+ID=991000335
+
+<font color='#FFBA85'>[Package box]<font color='#9D927B'>\n\n1st Anniversary World Event Reward Box.\n\n-Components-\nLovely Date Stockings x 1\nAdvanced Brooch Transmitter x 3
+
+ID=991000336
+
+ID=991000337
+
+ID=991000338
+
+ID=991000188
+
+[Title: suffix] workaholic
+
+<font color='#FFD700'>[Title Gaining Item] Suffix<font color='#9D927B'>\n\nTitle item sold for the first anniversary only\n\n-Title Obtained-\nWorkaholic\n\n- Effect-\nHealth increased by 3000
+
+ID=837200021
+
+Limited Edition Akashik Record Transmitter
+
+<font color='#FFBA85'>[Acquisition of Akashik Records] Random acquisition of Akashik Records<font color='#9D927B'>\n\nA transmission device that can acquire Akashik records. It is said that Soulists can receive Akashik Records recorded over a long period of time and use this device to obtain very special Akashik Records that have never been seen before. Note that it cannot be used in District 6].
+
+ID=837200022
+
+<font color='#FFBA85'>[Acquisition of Akashik Records] Random acquisition of Akashik Records\n# Items that can acquire Catherine's Akashik Records with special illustrations<font color='#9D927B'>\n\nA transmission device that can acquire Akashik records. It is said that Soulists can receive Akashik Records recorded over a long period of time and use this device to obtain very special Akashik Records that have never been seen before. Note that it cannot be used in District 6].
+
+ID=837200023
+
+<font color='#FFBA85'>[Acquisition of Akashik Records] Random acquisition of Akashik Records\n# Items that can acquire Amanda's Akashik Records with special illustrations<font color='#9D927B'>\n\nA transmission device that can acquire Akashik records. It is said that Soulists can receive Akashik Records recorded over a long period of time and use this device to obtain very special Akashik Records that have never been seen before. Note that it cannot be used in District 6].
+
+ID=837200024
+
+ID=837200025
+
+ID=837200026

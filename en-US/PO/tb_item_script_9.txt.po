@@ -1,0 +1,7813 @@
+# Nosa <dark-moon050@hotmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-03-16 11:36-0400\n"
+"Last-Translator: Nosa <dark-moon050@hotmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "ef6caae9c259b1493ce86867a3bc2556"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [프로토타입 시저 "
+"블레이드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "51d281620faebb789626e09065a0702e"
+msgid "ID=711433510"
+msgstr ""
+
+msgctxt "cfcd208495d565ef66e7dff9f98764da"
+msgid "0"
+msgstr ""
+
+msgctxt "e5fd62211da826492d38374ec38438e9"
+msgid "[설계도]헤비 메탈 시저 블레이드"
+msgstr ""
+
+msgctxt "e5572fd1428b8ffeab6e9ee426b04253"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [헤비 메탈 시저 "
+"블레이드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "46f334fac0cca19bb09e084494495b94"
+msgid "ID=711443410"
+msgstr ""
+
+msgctxt "6cf497b91a42737364cddc5f53aa69ed"
+msgid "[설계도]리벨레이터 머신 소드"
+msgstr ""
+
+msgctxt "f633b0cd778709295cf4196393ded993"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [리벨레이터 머신 소드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "bfecf85cd233b00e55047e998366a0d0"
+msgid "ID=711453510"
+msgstr ""
+
+msgctxt "dae8254581337942b9becc162cff705b"
+msgid "[설계도]소드 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "e44cee829adbf400bc2bd5d50e4d6b21"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [소드 타입 브로큰 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e4586cb3985d5d32b05d3c59a5bab010"
+msgid "ID=711463410"
+msgstr ""
+
+msgctxt "513b7fe43044dd342472a92c9adeda79"
+msgid "[설계도]어센셔너 머신 소드"
+msgstr ""
+
+msgctxt "12d9876681c9663b7da74afd400c7903"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [어센셔너 머신 소드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e8290046c95e3964c207086ad9fce765"
+msgid "ID=711473510"
+msgstr ""
+
+msgctxt "2fb7931216253952f91cc518fffc0b0a"
+msgid "[설계도]에어리얼 림 세이버"
+msgstr ""
+
+msgctxt "04bf0795dbef68a884ead1bebbfddbf5"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [에어리얼 림 세이버]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "63eb2079b3ba2ac475636e11e095ddfd"
+msgid "ID=711483410"
+msgstr ""
+
+msgctxt "32bbb1b5b3063e339b56e969a78578ac"
+msgid "[설계도]슈퍼 메카 브레이브 소드"
+msgstr ""
+
+msgctxt "95e7db1727113060a27d42ab8f3cadf7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [슈퍼 메카 브레이브 "
+"소드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4f6764050ce01b984712e8abf720746c"
+msgid "ID=711493510"
+msgstr ""
+
+msgctxt "927ce8c0a83bceb1143af93e0c7157ed"
+msgid "[설계도]기간테스 코어 슬레이어"
+msgstr ""
+
+msgctxt "e59777ee52a148ca2a3615316910c476"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [기간테스 코어 슬레이어]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "419fe7a90a044619692a94868d97e34a"
+msgid "ID=711503410"
+msgstr ""
+
+msgctxt "042dfa6d9184709ac690100fbca34b8f"
+msgid "[설계도]어웨이큰 마네스 소드"
+msgstr ""
+
+msgctxt "15aacde58317aa93600d7d6f89dd09b5"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [어웨이큰 마네스 소드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "98b419ab106ed6ab8a917e6ff28257cd"
+msgid "ID=711513510"
+msgstr ""
+
+msgctxt "6b05bf59d6a1b27dad15759638892440"
+msgid "[설계도]소드 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "322b8787db9cd0c14a0684e911fb5dc8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [소드 타입 퀸즈 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "42e5fb4d2a77e9bc633b15414768d7b2"
+msgid "ID=711523410"
+msgstr ""
+
+msgctxt "72677e513869d3499c9c2ca9fe4850cc"
+msgid "[설계도]인피니트 림 블레이드"
+msgstr ""
+
+msgctxt "866b8f850bf8b83f11b034a3ff5007fc"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [인피니트 림 블레이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e4acf99ee820fb9b2594934d8ea8e2e3"
+msgid "ID=711533510"
+msgstr ""
+
+msgctxt "92a796aaaa9814487268ea67a39ccf1d"
+msgid "[설계도]넘버리스 레이 블레이드"
+msgstr ""
+
+msgctxt "bb7e6cc0c8f750718b53e74f967393a8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [넘버리스 레이 블레이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "1e956bbe6688e5e00a12a8a9c04e7bdb"
+msgid "ID=711543410"
+msgstr ""
+
+msgctxt "840e85662185c500cf62f10450cecc98"
+msgid "[설계도]씰드 레이지 소드"
+msgstr ""
+
+msgctxt "a3398c67afdde841f661da20110b26f6"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [씰드 레이지 소드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "224d6783b233a16cb4b7fec3fb730b1f"
+msgid "ID=711553510"
+msgstr ""
+
+msgctxt "224c24858761168399b980e8b08257ec"
+msgid "[설계도]글레어즈 포스 세이버"
+msgstr ""
+
+msgctxt "618cf74f564282551dbc81ef41ca0ebb"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [글레어즈 포스 세이버]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "6e7552a1a1e926c25e5b22464fd6bf76"
+msgid "ID=712043410"
+msgstr ""
+
+msgctxt "9b07124cfdb0164b251276081cf6b99f"
+msgid "[설계도]래비드 팽 핸드건"
+msgstr ""
+
+msgctxt "dc97b25b21eb4d08d8ec427eedaacb1b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [래비드 팽 핸드건]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "1809e5d44ba8ea135ddc39a82f6d0019"
+msgid "ID=712053510"
+msgstr ""
+
+msgctxt "b6f4e6602e2d78402cb001c8cb7bbbc2"
+msgid "[설계도]드레드 울프 하트 슈터"
+msgstr ""
+
+msgctxt "642511e93a2c6997a0d50eaa239bfad7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [드레드 울프 하트 슈터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4953c777b7ff394c1529466b5010e331"
+msgid "ID=712073410"
+msgstr ""
+
+msgctxt "47a8dba5a60d78caac6601a626885767"
+msgid "[설계도]수어사이드 퍼펫 버스터"
+msgstr ""
+
+msgctxt "573472261051258c15ae07c7a6914bda"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [수어사이드 퍼펫 버스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "adac8d128072e739195d5c33f610f864"
+msgid "ID=712083510"
+msgstr ""
+
+msgctxt "c78e0b5bfc744d63b5da5303ce88bf60"
+msgid "[설계도]건 타입 퍼펫 블래스터"
+msgstr ""
+
+msgctxt "bba6e1388cb7d8f7d8d9f741621ca3b7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [건 타입 퍼펫 블래스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "16664b3ff0ac8c8382566338665759ec"
+msgid "ID=712103410"
+msgstr ""
+
+msgctxt "7959a73e6217ab870028a781452f52f1"
+msgid "[설계도]트윈헤드 퍼펫 버스터"
+msgstr ""
+
+msgctxt "3e819441eaabf835b37bdef2c32259ba"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [트윈헤드 퍼펫 버스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "aa765a52e9816d909dcb31dece78dae3"
+msgid "ID=712113510"
+msgstr ""
+
+msgctxt "78a342ee45cb7089f05bf2f5d08fd8bb"
+msgid "[설계도]파나틱 디재스터 콜러"
+msgstr ""
+
+msgctxt "1cb8d5afdda6b054cd122876f440ecdc"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [파나틱 디재스터 콜러]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "fad8f802dc3ff2de0ba2cb96e7faa210"
+msgid "ID=712123410"
+msgstr ""
+
+msgctxt "d7f9eecb7e2ee6a26f4848b71ea45e6e"
+msgid "[설계도]루나틱 제스터 트릭 건"
+msgstr ""
+
+msgctxt "ff4a2411e83dfe06e279145acd4cb134"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [루나틱 제스터 트릭 건]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "2eec8a6f73198c3bc829247d1aab8ec1"
+msgid "ID=712133510"
+msgstr ""
+
+msgctxt "d04eaea721152313b3a39029240bde5a"
+msgid "[설계도]매드니스 할리퀸 핸드 건"
+msgstr ""
+
+msgctxt "7f9cca54aa018ed773c1ca6f11aceb13"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [매드니스 할리퀸 핸드 "
+"건]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "b59e7bbcd0b6a3cbe96e7e0709a8ed4b"
+msgid "ID=712153410"
+msgstr ""
+
+msgctxt "6d517aea8f4ab924d71439e8d6af0c27"
+msgid "[설계도]어벤던드 트래쉬 버스터"
+msgstr ""
+
+msgctxt "e80a5f6e2d8d44f7e6c13e74505652d7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [어벤던드 트래쉬 버스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "b3daffa021dfa27c6e1be10853d699c9"
+msgid "ID=712163510"
+msgstr ""
+
+msgctxt "665900216f736cbe80f03def1afe28c3"
+msgid "[설계도]골렘 디스트로잉 건"
+msgstr ""
+
+msgctxt "562abe83dc0f9862cf991c79606d302f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [골렘 디스트로잉 건]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "67b49987a405876097277cba0d33e57c"
+msgid "ID=712173410"
+msgstr ""
+
+msgctxt "2a37cd8249c27d40677db55407e0bf71"
+msgid "[설계도]테인티드 소울 핸드건"
+msgstr ""
+
+msgctxt "8748ef646dc7d069471bb80f85bfc914"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [테인티드 소울 핸드건]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "090b6300425b598a5ba51925933a958e"
+msgid "ID=712183510"
+msgstr ""
+
+msgctxt "bae87941bd33921e6769a9e4092f9c89"
+msgid "[설계도]커럽티드 나이트 핸드 건"
+msgstr "[Blueprint]Corrupted Knight Handgun"
+
+msgctxt "e4585f25b3944bd098e36337aa32a920"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [커럽티드 나이트 핸드 "
+"건]의 제작에 필요한 설계도"
+msgstr ""
+"<font color='#FFBA85'>[Blueprint]<font color='#9D927B'>\\n\\nSoul Weapon "
+"[Corrupted Knight Handgun]Blueprint materials required for crafting"
+
+msgctxt "9cb3f6a1f41d631b8b6c8f4e9d63dfba"
+msgid "ID=712203410"
+msgstr "ID=712203410"
+
+msgctxt "1ae6bdf84c2d065654ff330b00f88ce4"
+msgid "[설계도]퀸 스파이더 루인 핸드건"
+msgstr ""
+
+msgctxt "0e2c3da48cb90b91702afc72098567e4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [퀸 스파이더 루인 "
+"핸드건]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f9a0c0b44f7cd34187d567a7147ecace"
+msgid "ID=712213510"
+msgstr ""
+
+msgctxt "db5b086716f940a6b50c71459e62221c"
+msgid "[설계도]아라크니드 베니싱 건"
+msgstr ""
+
+msgctxt "5cc8d735b8a0dac6f5603a60ee9be8c9"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [아라크니드 베니싱 건]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "efb263b034ce4e64a54e4f6ed90b7b6f"
+msgid "ID=712223410"
+msgstr ""
+
+msgctxt "2dcb0d14aa63d863bffa7ecb687f9aae"
+msgid "[설계도]헌티드 오버시어 버스터"
+msgstr ""
+
+msgctxt "84843207f1c88033615ce43bcd219cf2"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [헌티드 오버시어 버스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c62a316b8e2d2927bee75e21b67c2f89"
+msgid "ID=712233510"
+msgstr ""
+
+msgctxt "4ee2d2f5ee28324eb2bffcb9566f8be1"
+msgid "[설계도]사일런트 위트니스 퍼니셔"
+msgstr ""
+
+msgctxt "6aad5daa081feca1083421bed4dec89d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사일런트 위트니스 "
+"퍼니셔]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "9cc08602e667dac3c2e2f41d48e09caa"
+msgid "ID=712253410"
+msgstr ""
+
+msgctxt "9526d8fcf77111025f7a146ce5c35ee6"
+msgid "[설계도]사일런트 리뎀션 핸드건"
+msgstr ""
+
+msgctxt "be27fc7bad6583506ba1f6a54a2152ee"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사일런트 리뎀션 핸드건]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "7b36d6e7722776470a913fb2be75f0e9"
+msgid "ID=712263510"
+msgstr ""
+
+msgctxt "cd54d4928904bfb5bb6bb345834bc6f0"
+msgid "[설계도]그리프 스카이즈 버스터"
+msgstr ""
+
+msgctxt "ad61e0408ff2e13e0da28f72d136176f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그리프 스카이즈 버스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "12eb56f5112dac5fe5848b9ae3a09492"
+msgid "ID=712273410"
+msgstr ""
+
+msgctxt "d5b4af04949d1fd6f001ea476906c3a6"
+msgid "[설계도]브루탈 페인 리볼버"
+msgstr ""
+
+msgctxt "3de2f79b73761a01f4f552c61890c2b0"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [브루탈 페인 리볼버]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "83a5353304b27756e5f66b346f007313"
+msgid "ID=712283510"
+msgstr ""
+
+msgctxt "31ee2b7dad7b176a39289940b9667b97"
+msgid "[설계도]머시리스 나이트 서펀트"
+msgstr ""
+
+msgctxt "39c5fd27d44547bd0b74540d0ab6cde4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [머시리스 나이트 서펀트]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "90a6a16653396d98fd75ed7a63b5cd6e"
+msgid "ID=712293410"
+msgstr ""
+
+msgctxt "a5317507124abae90e330d2bce9ecd8b"
+msgid "[설계도]톡식 더 러스트 리볼버"
+msgstr ""
+
+msgctxt "6f9dbf508f98c1489f0fa28705c2bb3a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [톡식 더 러스트 리볼버]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a6ecdefaacc7e0655dbff85478e17fa7"
+msgid "ID=712303510"
+msgstr ""
+
+msgctxt "dcd30896b4b8b58ca51f2f3677d9f5c6"
+msgid "[설계도]페이탈 리플렉션 디컴포저"
+msgstr ""
+
+msgctxt "ff1172de07ba42e153d162431b4bddc4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [페이탈 리플렉션 "
+"디컴포저]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "9f6625b40a009046a988bf78563b664d"
+msgid "ID=712313410"
+msgstr ""
+
+msgctxt "227ff0978ebb5ea2a31d4c6de7718204"
+msgid "[설계도]카발리어즈 오버 배럴"
+msgstr ""
+
+msgctxt "be5afc05d4ba06bced557bfad02908f8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [카발리어즈 오버 배럴]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "0250637f130a561392cc979c885117bc"
+msgid "ID=712323510"
+msgstr ""
+
+msgctxt "6a2f18bf8aa31b0997554d40281e4ccd"
+msgid "[설계도]가루라 나이트 배럴"
+msgstr ""
+
+msgctxt "0059ec9c959ada935761ad09dff8d9b4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [가루라 나이트 배럴]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "830cb600c1891ba87d500bdafaefb3e7"
+msgid "ID=712343410"
+msgstr ""
+
+msgctxt "8b33cc1ec683a84c837ed7f8b0b73c28"
+msgid "[설계도]세비지드 액스 매그넘"
+msgstr ""
+
+msgctxt "f7b9f4927b4700fe58150ece4d36c86a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [세비지드 액스 매그넘]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "daf04f1a8852ed661c9ebe75abc28d12"
+msgid "ID=712353510"
+msgstr ""
+
+msgctxt "b9a042fe25547bb0504db182ab02fb86"
+msgid "[설계도]리바이브 워리어 버스터"
+msgstr ""
+
+msgctxt "aacf7eb775672d95c5750e9ea0d3a104"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [리바이브 워리어 버스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "780de73219fec3be3143e04b00a8f84a"
+msgid "ID=712373410"
+msgstr ""
+
+msgctxt "24213851e051c6d35c02f761d6d29847"
+msgid "[설계도]크림슨 섀도우 배럴"
+msgstr ""
+
+msgctxt "60a1b9c63b45e5958c2e184f00ad2370"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [크림슨 섀도우 배럴]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "30a39b191dcb22c3d2cd6a6544349e45"
+msgid "ID=712383510"
+msgstr ""
+
+msgctxt "51c7aecd3af7069ad5e11d7501505113"
+msgid "[설계도]건 타입 베니싱 블러드"
+msgstr ""
+
+msgctxt "5795657fb0f49978ddfb7509f660b310"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [건 타입 베니싱 블러드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "802ced0db1662da1b84f9c3f76fa3e74"
+msgid "ID=712393410"
+msgstr ""
+
+msgctxt "d81a94e4dd85b8c4050e7ff96ccbfdca"
+msgid "[설계도]크래쉬 더 헌드레드 건"
+msgstr ""
+
+msgctxt "9ed0c6993dd751c381dd16446c04594e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [크래쉬 더 헌드레드 건]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "49b812f6949877e4acc7b680f5d6b44c"
+msgid "ID=712403510"
+msgstr ""
+
+msgctxt "fc24e16d1216add6f190f648d80bc07c"
+msgid "[설계도]건 오브 할로우 벤전스"
+msgstr ""
+
+msgctxt "4b15c6a9932bcab8d4851f4e416f55b7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [건 오브 할로우 벤전스]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "ff44ce77cd7d59e86a0f5c6e47294a87"
+msgid "ID=712423410"
+msgstr ""
+
+msgctxt "4dedb4817bcc5155f0d92b59aa2286ba"
+msgid "[설계도]프로토타입 시저 배럴"
+msgstr ""
+
+msgctxt "89284133f05c684043f381f722fa2e7a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [프로토타입 시저 배럴]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a55021587c8c730a2ba60c17018a7b1a"
+msgid "ID=712433510"
+msgstr ""
+
+msgctxt "b25057f804957e20c0198ab4d782ef94"
+msgid "[설계도]헤비 메탈 시저 버스터"
+msgstr ""
+
+msgctxt "b0964c6b4b7784e3e0d98d971789c7d4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [헤비 메탈 시저 버스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f63802ea1ac4730908ab6696547784b3"
+msgid "ID=712443410"
+msgstr ""
+
+msgctxt "ba97023df58c47859964f12ed31eb1b6"
+msgid "[설계도]리벨레이터 머신 핸드건"
+msgstr ""
+
+msgctxt "809340f2d77477b8b9f2472e6cf35de4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [리벨레이터 머신 핸드건]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d14df374c2408c9e0341a68a842fac27"
+msgid "ID=712453510"
+msgstr ""
+
+msgctxt "d370375666767e118be437da548f6684"
+msgid "[설계도]건 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "d73b4b58a86e20d4ac1a02e1a0b35dbe"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [건 타입 브로큰 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "5483e3ec49d4848610eb742afb337fd7"
+msgid "ID=712463410"
+msgstr ""
+
+msgctxt "a839b74ede38eeb2ee5946df929fa6e5"
+msgid "[설계도]어센셔너 머신 핸드건"
+msgstr ""
+
+msgctxt "b730c3e29b666deca7e6b4d86fb5d0dc"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [어센셔너 머신 핸드건]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "8ecae38382782010cab0800ad2be37fd"
+msgid "ID=712473510"
+msgstr ""
+
+msgctxt "06480fd85b9a80901ee899fd34fb7a5b"
+msgid "[설계도]에어리얼 림 슈터"
+msgstr ""
+
+msgctxt "4d0c6b02b54f8971dd2df8f1ff0f84eb"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [에어리얼 림 슈터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "9690e3dca0d3895c5ae41a264418ce2a"
+msgid "ID=712483410"
+msgstr ""
+
+msgctxt "4b988b1d321a8c861c6c9276802a3626"
+msgid "[설계도]슈퍼 메카 브레이브 건"
+msgstr ""
+
+msgctxt "e31ca01576fa1c829b642ebf64a133b4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [슈퍼 메카 브레이브 건]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "357870d2f424e89d3e4721ac05655101"
+msgid "ID=712493510"
+msgstr ""
+
+msgctxt "5125990022770eefd14e630f6e6e59e8"
+msgid "[설계도]기간테스 코어 버스터"
+msgstr ""
+
+msgctxt "3e9bcee7edf7586c9c67859997cfbc9a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [기간테스 코어 버스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "3137c82e9e79eac5f5e444ef70f62f76"
+msgid "ID=712503410"
+msgstr ""
+
+msgctxt "cdfbdcbe12548553c6ff53b17f6b9858"
+msgid "[설계도]어웨이큰 마네스 건"
+msgstr ""
+
+msgctxt "3b59244671d6c9ef3604f03f2ba9ef27"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [어웨이큰 마네스 건]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "2883ba9014e1e06c1730c3c005577f05"
+msgid "ID=712513510"
+msgstr ""
+
+msgctxt "5e1cbc3ba5db86ee85f2f559c7bf5bed"
+msgid "[설계도]건 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "caac3c3d926706d5a14f99a19c8a1242"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [건 타입 퀸즈 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "432eda408a57667f10a5ee700e649693"
+msgid "ID=712523410"
+msgstr ""
+
+msgctxt "badf59cced354ecc8bc320c005822ed9"
+msgid "[설계도]인피니트 림 슈터"
+msgstr ""
+
+msgctxt "fad07acab5f3f6741515a6cf6ff6306d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [인피니트 림 슈터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "804912eff46aab6bf824191cf9f21f56"
+msgid "ID=712533510"
+msgstr ""
+
+msgctxt "977e09f93f51e001b5adb61bfa8b84d6"
+msgid "[설계도]넘버리스 레이 버스터"
+msgstr ""
+
+msgctxt "d9ffe87cbbf21da48f3145280fff3b26"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [넘버리스 레이 버스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c61c07135cfa4ccfb807bba0fbd90d35"
+msgid "ID=712543410"
+msgstr ""
+
+msgctxt "99b72809dd120f13da8a310f3b0f15dc"
+msgid "[설계도]씰드 레이지 슈터"
+msgstr ""
+
+msgctxt "1b984b894e6e0d1210f777b1dea49447"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [씰드 레이지 슈터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d7019b30e3ce49037efae5455cb19959"
+msgid "ID=712553510"
+msgstr ""
+
+msgctxt "423426a816edc1add25d0796f843db85"
+msgid "[설계도]글레어즈 포스 블래스터"
+msgstr ""
+
+msgctxt "d1cc01db223bb92e5d852c336a3ae9b4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [글레어즈 포스 블래스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "dd64bc4bf3487e90e408f695ae01331a"
+msgid "ID=713043410"
+msgstr ""
+
+msgctxt "0e950a604447d4ce7fa71a64ff87ad28"
+msgid "[설계도]래비드 팽 사이드"
+msgstr ""
+
+msgctxt "ae04f44ecd08bb11923c01871b21c407"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [래비드 팽 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "1213ca992bb3ecd93520e3c574e0a92a"
+msgid "ID=713053510"
+msgstr ""
+
+msgctxt "1d25d10ec07352ee71c6bf4bdd8b399d"
+msgid "[설계도]드레드 울프 메인 사이드"
+msgstr ""
+
+msgctxt "ca0148532c74e8cde726717faec0ab10"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [드레드 울프 메인 "
+"사이드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "337deb11056c9d5cf2d54c37ab9e5894"
+msgid "ID=713073410"
+msgstr ""
+
+msgctxt "dfdebb3b1066803564294d3ac225e286"
+msgid "[설계도]수어사이드 퍼펫 브랜디셔"
+msgstr ""
+
+msgctxt "8ee53021af385928f4711fc2dabdea46"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [수어사이드 퍼펫 "
+"브랜디셔]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d91807c283cd653f10cf317f04c47c6f"
+msgid "ID=713083510"
+msgstr ""
+
+msgctxt "6453c2950c60210ae743e91aa4b859ab"
+msgid "[설계도]사이드 타입 퍼펫 블래스터"
+msgstr ""
+
+msgctxt "887d162a41b49f83d5ab6474fd1745ec"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사이드 타입 퍼펫 "
+"블래스터]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "ecfea3d9f3b061dbd107914847ad52e6"
+msgid "ID=713103410"
+msgstr ""
+
+msgctxt "f922568f4f3c041365f0c5e23657a522"
+msgid "[설계도]트윈헤드 퍼펫 사이더"
+msgstr ""
+
+msgctxt "9031f59bebcd51a877a321b25a24435a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [트윈헤드 퍼펫 사이더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "abd09b125f74e01c36ffbb83bf178c44"
+msgid "ID=713113510"
+msgstr ""
+
+msgctxt "b81b9b7e4cb1893d10c6319048633b0a"
+msgid "[설계도]파나틱 디재스터 가이즈"
+msgstr ""
+
+msgctxt "6cadf088a4b571ea7582837a02271587"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [파나틱 디재스터 가이즈]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "8d7d964f7c34c84bce48822c8c509688"
+msgid "ID=713123410"
+msgstr ""
+
+msgctxt "c486ed2f19a72f9cbad3ba1f6f406b22"
+msgid "[설계도]루나틱 제스터 트릭 사이드"
+msgstr ""
+
+msgctxt "5d8602bcf44d7c67382455bc53eb1bed"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [루나틱 제스터 트릭 "
+"사이드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "19b22b2aa8413e78ff0afc583507e801"
+msgid "ID=713133510"
+msgstr ""
+
+msgctxt "fa06a2c19842c744af49c2fd5d8fd2be"
+msgid "[설계도]매드니스 할리퀸 사이드"
+msgstr ""
+
+msgctxt "20a59ab7bf0f6a72dba50fa2c5544382"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [매드니스 할리퀸 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "3eaa8421bb02d77435343ee5ad133092"
+msgid "ID=713153410"
+msgstr ""
+
+msgctxt "639696c033a7cc55b6045e75683ee898"
+msgid "[설계도]어벤던드 트래쉬 브랜디셔"
+msgstr ""
+
+msgctxt "f1c5de6dd1b3059c45bf7a88630ef4e6"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [어벤던드 트래쉬 "
+"브랜디셔]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "3cfcb4fc091dd58d8f3ef4c993bb665a"
+msgid "ID=713163510"
+msgstr ""
+
+msgctxt "03eb316c6e9c8676acc861949f6a07ea"
+msgid "[설계도]골렘 디스트로잉 사이드"
+msgstr ""
+
+msgctxt "cd30e4c3b64920b4558af8967c689f45"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [골렘 디스트로잉 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "82c5aad366bd6a11dc5d8f0cfd20b584"
+msgid "ID=713173410"
+msgstr ""
+
+msgctxt "e4791bab91d0465e0dc59d33ad270f38"
+msgid "[설계도]테인티드 소울 엣지"
+msgstr ""
+
+msgctxt "b337ac8f5bdfbe54ca1ce576d5f3e094"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [테인티드 소울 엣지]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c16859fa609a81008b7ca9b1d5eb409f"
+msgid "ID=713183510"
+msgstr ""
+
+msgctxt "a3c8f583d9c200eb613b23d3e13fa0f0"
+msgid "[설계도]커럽티드 나이트 사이드"
+msgstr ""
+
+msgctxt "02e2f12d52bee7c90b101e5fe3744d80"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [커럽티드 나이트 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "ec38f9850395a4055bc7dc058fb88782"
+msgid "ID=713203410"
+msgstr ""
+
+msgctxt "575886d0e3b73203a1642cd470c7778d"
+msgid "[설계도]퀸 스파이더 루인 사이드"
+msgstr ""
+
+msgctxt "5cde328071852c58df606868dbea2244"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [퀸 스파이더 루인 "
+"사이드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a15360a978b0af231e57e36dcb02f6f5"
+msgid "ID=713213510"
+msgstr ""
+
+msgctxt "2af43aa20350710ba706460cd0d6b1e7"
+msgid "[설계도]아라크니드 베니싱 엣지"
+msgstr ""
+
+msgctxt "ee964d7758cedf5e51a19495804f2481"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [아라크니드 베니싱 엣지]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "9b44ee25b9f529287d9dfe36f03e8782"
+msgid "ID=713223410"
+msgstr ""
+
+msgctxt "349bb45b9a77d0d58db5befc68a0a2f4"
+msgid "[설계도]헌티드 오버시어 사이더"
+msgstr ""
+
+msgctxt "90e7acdcfd471a14a0f199d0f766a048"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [헌티드 오버시어 사이더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "eb5b3fc0911d94b8cca5e66b827aa760"
+msgid "ID=713233510"
+msgstr ""
+
+msgctxt "d825f4880d1f0572218478867c8d9513"
+msgid "[설계도]사일런트 위트니스 리퍼"
+msgstr ""
+
+msgctxt "7106be5ae8dc72e38ed067251002d97c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사일런트 위트니스 리퍼]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "51aa9045d7b8bb8cc9ea764a1247ba92"
+msgid "ID=713253410"
+msgstr ""
+
+msgctxt "f784e6653a9df18b607422d3bdff97bd"
+msgid "[설계도]사일런트 리뎀션 사이드"
+msgstr ""
+
+msgctxt "1ebc66339d33bfa88f50d04779cd027e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사일런트 리뎀션 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "cd18776d374beed4995b1c572f1ff07e"
+msgid "ID=713263510"
+msgstr ""
+
+msgctxt "f285e61e51a0314f400bf0f730c06c05"
+msgid "[설계도]그리프 스카이즈 리퍼"
+msgstr ""
+
+msgctxt "11ef3a2f1a02054bfa40d51148144fda"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그리프 스카이즈 리퍼]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "cad08a98b8fee6cc764a144c376062d7"
+msgid "ID=713273410"
+msgstr ""
+
+msgctxt "3ee12b5cbc6f34ddf6b8e4411fd04aae"
+msgid "[설계도]브루탈 페인 스파이커"
+msgstr ""
+
+msgctxt "281aac57fd16d0d6c472fda4d4cb8f48"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [브루탈 페인 스파이커]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "bb94817fdbb203da50faa82f75ec33a7"
+msgid "ID=713283510"
+msgstr ""
+
+msgctxt "414c28495217c13980c5f6f426dd3240"
+msgid "[설계도]머시리스 나이트 스콜피온"
+msgstr ""
+
+msgctxt "e11199cbc80083114fc7b5b43700704f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [머시리스 나이트 "
+"스콜피온]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e24d8246cf31fa89f2ddd7f3ceb73acf"
+msgid "ID=713293410"
+msgstr ""
+
+msgctxt "f0717f35a8345b14488cfc5de91f9899"
+msgid "[설계도]톡식 더 러스트 사이드"
+msgstr ""
+
+msgctxt "b90460d4fa11d61e51bbee614444c5d0"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [톡식 더 러스트 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "de936d5115bd79cfa4c8ee2e2b8a4da3"
+msgid "ID=713303510"
+msgstr ""
+
+msgctxt "c074b87ba8472061e0542c8e32860912"
+msgid "[설계도]페이탈 리플렉션 팔크스"
+msgstr ""
+
+msgctxt "b0b36082fc601a9c5a9056cd27a010c0"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [페이탈 리플렉션 팔크스]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "97bcfffec0439e981fc8db2a46d6f7a2"
+msgid "ID=713313410"
+msgstr ""
+
+msgctxt "f5963b2bb1f63826389c86cfb9d32df4"
+msgid "[설계도]카발리어즈 오버 탈론"
+msgstr ""
+
+msgctxt "b290cf8819913e7b8ea3f545639b751c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [카발리어즈 오버 탈론]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "66482108650579f00c050bcc7ef37468"
+msgid "ID=713323510"
+msgstr ""
+
+msgctxt "7603ce23c06121fd9375d4e19d7e5649"
+msgid "[설계도]가루라 나이트 글레이브"
+msgstr ""
+
+msgctxt "2cf959d17acd68c1c47e5495c1cb9764"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [가루라 나이트 글레이브]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c69a5cecfbd24708baa28db1784a247f"
+msgid "ID=713343410"
+msgstr ""
+
+msgctxt "c550c2981b5e07893f5ba6a82f976fd3"
+msgid "[설계도]세비지드 액스 탈론"
+msgstr ""
+
+msgctxt "99ae893a8b060e3d84dd893e079bac5a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [세비지드 액스 탈론]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "5fa2a2d95cf91b41f261e90329e0ffd9"
+msgid "ID=713353510"
+msgstr ""
+
+msgctxt "670b522daa1cd8db002d3ee4fa0c67fa"
+msgid "[설계도]리바이브 워리어 사이더"
+msgstr ""
+
+msgctxt "035d06f35418d52b7963f42fad20590b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [리바이브 워리어 사이더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "7763263899f10b8b3fed77ac82335aea"
+msgid "ID=713373410"
+msgstr ""
+
+msgctxt "d3ff8ff57006b78a28d7fe249fe0fff4"
+msgid "[설계도]크림슨 섀도우 탈론"
+msgstr ""
+
+msgctxt "15c6cf961e235631284f84749b403aa1"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [크림슨 섀도우 탈론]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "b53226362f1669ea5cbe1888370bd58b"
+msgid "ID=713383510"
+msgstr ""
+
+msgctxt "3a527637c35b0c1dd24c0de61fcf2bd1"
+msgid "[설계도]사이드 타입 베니싱 블러드"
+msgstr ""
+
+msgctxt "0ad7ae6eb70ac2c5ffae385e21f299cd"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사이드 타입 베니싱 "
+"블러드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "427630ce9a26f26aba25f5ab19e556de"
+msgid "ID=713393410"
+msgstr ""
+
+msgctxt "db3bfd1da67e44adb75e82d47e3e9463"
+msgid "[설계도]크래쉬 더 헌드레드 사이드"
+msgstr ""
+
+msgctxt "a0d2bc7a03921c2a75edd28035f825f4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [크래쉬 더 헌드레드 "
+"사이드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "3e51236eee057a7a2c702050e44b4f66"
+msgid "ID=713403510"
+msgstr ""
+
+msgctxt "fc7efdcda9359f4c514f139cf4a0ba30"
+msgid "[설계도]사이드 오브 할로우 벤전스"
+msgstr ""
+
+msgctxt "42ecadaec6e3773be725b1a704bc39ff"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사이드 오브 할로우 "
+"벤전스]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e0be9680defb8c744558dd60b8000b38"
+msgid "ID=713423410"
+msgstr ""
+
+msgctxt "b586e72421d49a049ce5217771299b58"
+msgid "[설계도]프로토타입 시저 사이드"
+msgstr ""
+
+msgctxt "a4b34f3144b2ddb295a1d2fe7258f583"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [프로토타입 시저 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "75ad3e0bc3b93c3db252da97968b112c"
+msgid "ID=713433510"
+msgstr ""
+
+msgctxt "df668a69762f7c794b777c923980d4d8"
+msgid "[설계도]헤비 메탈 시저 사이드"
+msgstr ""
+
+msgctxt "12826dc710712d37350c0b1d9f0d57db"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [헤비 메탈 시저 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f38fc1a94baa17f7c2c2a35c0288ef4f"
+msgid "ID=713443410"
+msgstr ""
+
+msgctxt "60b7869c88c10b1aff447d31f1af8f83"
+msgid "[설계도]리벨레이터 머신 사이드"
+msgstr ""
+
+msgctxt "3a6bc5bed71a5776791746ca60c4b0f1"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [리벨레이터 머신 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4a890fdc0e2570e1da8a14615a2ea91e"
+msgid "ID=713453510"
+msgstr ""
+
+msgctxt "2271aec92da2940a3dd8ccf358f473c3"
+msgid "[설계도]사이드 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "917bf4e4421a641e94b2c8d9796f085a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사이드 타입 브로큰 "
+"아크]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e620578f2bf7bb4e23e95b25fcc7a1b3"
+msgid "ID=713463410"
+msgstr ""
+
+msgctxt "3f31325299c45d454e4eedc78f668d60"
+msgid "[설계도]어센셔너 머신 사이드"
+msgstr ""
+
+msgctxt "58675900faae091131ea0c33a6e761b1"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [어센셔너 머신 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "b79109b0aeae79197c0d57d43770f246"
+msgid "ID=713473510"
+msgstr ""
+
+msgctxt "44eabe510e1cf94cc9b602688f3d99d9"
+msgid "[설계도]에어리얼 림 엣지"
+msgstr ""
+
+msgctxt "1bf47db01df6ef62598bf34cc062f513"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [에어리얼 림 엣지]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "30abcb9478012d6ac0256cb35384ee5a"
+msgid "ID=713483410"
+msgstr ""
+
+msgctxt "3aa70732a247f5b3fe8d17f5edfef7de"
+msgid "[설계도]슈퍼 메카 브레이브 사이드"
+msgstr ""
+
+msgctxt "662297fe0a701a19f56e51986b8e2550"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [슈퍼 메카 브레이브 "
+"사이드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4c9d65a0ded3cda0296a262bb75e777c"
+msgid "ID=713493510"
+msgstr ""
+
+msgctxt "d562864335d083af28893566c2315f4e"
+msgid "[설계도]기간테스 코어 리퍼"
+msgstr ""
+
+msgctxt "02fa751b83c25dc8c40e7b97aeb9afb4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [기간테스 코어 리퍼]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e29d780b15fc55c86ff0a633a0d0ee38"
+msgid "ID=713503410"
+msgstr ""
+
+msgctxt "043a78cc981def32a69ed6b1d8be703b"
+msgid "[설계도]어웨이큰 마네스 사이드"
+msgstr ""
+
+msgctxt "478d0e936081fb3089a25cf9c9133a44"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [어웨이큰 마네스 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "629221af5c6cbc9111b19f305c9d185e"
+msgid "ID=713513510"
+msgstr ""
+
+msgctxt "0371233d5603a893deac6f471fccdf00"
+msgid "[설계도]사이드 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "886234aa5b56ee75368ab2e4bd1cba11"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사이드 타입 퀸즈 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "0117042ec6592e3a91661ad1f2f0de63"
+msgid "ID=713523410"
+msgstr ""
+
+msgctxt "ed04a5df1ec58907c393ab8bc35e9de2"
+msgid "[설계도]인피니트 림 사이드"
+msgstr ""
+
+msgctxt "e4d4a3552ca94e508824f9d2dc31ad4b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [인피니트 림 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "36f6d401727a370d7eac55cf280e393d"
+msgid "ID=713533510"
+msgstr ""
+
+msgctxt "be08285cb4354408f645b4ce027d16cf"
+msgid "[설계도]넘버리스 레이 사이드"
+msgstr ""
+
+msgctxt "ac5937fd6adc5c6f1d39b2b45cf1110e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [넘버리스 레이 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "85155e2c668ec3bcaab136b0be2d8e24"
+msgid "ID=713543410"
+msgstr ""
+
+msgctxt "c47e7f52ec03641d1d8a8724fe566cd4"
+msgid "[설계도]씰드 레이지 리퍼"
+msgstr ""
+
+msgctxt "efc9e18fcd23ff90b44f5ae15180c817"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [씰드 레이지 리퍼]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f1f2cdfb4896d9f08a364e658759e19e"
+msgid "ID=713553510"
+msgstr ""
+
+msgctxt "8bbb75c6322486e86831a82c315806ad"
+msgid "[설계도]글레어즈 포스 사이드"
+msgstr ""
+
+msgctxt "70a2a262037da9306e22db59fe7aaeae"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [글레어즈 포스 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d497e2c9b10fa1593e822fe10bc58d5b"
+msgid "ID=715043410"
+msgstr ""
+
+msgctxt "0bf23f16e36f0ab6b0a578d34fd8e48e"
+msgid "[설계도]래비드 팽 기타"
+msgstr ""
+
+msgctxt "2e144f5c29a61b197766fd9eefa3f288"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [래비드 팽 기타]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "2631c52f2e6086f6366d9081abd293bb"
+msgid "ID=715053510"
+msgstr ""
+
+msgctxt "ba72445b7c065fb66b538d1e7494f44e"
+msgid "[설계도]드레드 울프 스크리머"
+msgstr ""
+
+msgctxt "a66e2129d7e9208e778582637b0b2e4f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [드레드 울프 스크리머]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "82920d4a155fba302b806d735aa3a828"
+msgid "ID=715073410"
+msgstr ""
+
+msgctxt "ff2e7328ee3a2e0c4b488884c264fd1b"
+msgid "[설계도]수어사이드 퍼펫 로어"
+msgstr ""
+
+msgctxt "afca2cc538c0775f4cc48bbc9f7174b8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [수어사이드 퍼펫 로어]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c28e8b6e41806c2832b2061384105b79"
+msgid "ID=715083510"
+msgstr ""
+
+msgctxt "343487331f264ff84b3bc6114d193014"
+msgid "[설계도]기타 타입 퍼펫 블래스터"
+msgstr ""
+
+msgctxt "3aba191234ea668c64a92a8e939a6090"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [기타 타입 퍼펫 "
+"블래스터]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "1e9f1f6129f98d2eef224394680e09f8"
+msgid "ID=715103410"
+msgstr ""
+
+msgctxt "431a3fb14811919ab424c6dec58007e5"
+msgid "[설계도]트윈헤드 퍼펫 하울러"
+msgstr ""
+
+msgctxt "573356fee327d77e935014aec30346d3"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [트윈헤드 퍼펫 하울러]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "3889587149738aec60c4eb9733ab2a04"
+msgid "ID=715113510"
+msgstr ""
+
+msgctxt "1e343d5ea5d4e1154a4d7dc17eea6273"
+msgid "[설계도]파나틱 디재스터 콰이어"
+msgstr ""
+
+msgctxt "f9eead00b7c64a7cf319b8036bc1c0e7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [파나틱 디재스터 콰이어]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "5b8587ba42775d9c769d93ce2071509c"
+msgid "ID=715123410"
+msgstr ""
+
+msgctxt "ae6ffe68878b61be7317b2feb921aba7"
+msgid "[설계도]루나틱 제스터 트릭 기타"
+msgstr ""
+
+msgctxt "c598ad8bf7d0551ceb07b5e22593726a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [루나틱 제스터 트릭 "
+"기타]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c014dd3c12116a98612fb610a84d2ad2"
+msgid "ID=715133510"
+msgstr ""
+
+msgctxt "316a9f40ef08cd2a93a9d6f2cf1e3fda"
+msgid "[설계도]매드니스 할리퀸 블루 폴"
+msgstr ""
+
+msgctxt "4d7f0846d5101f670ba709d903255f89"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [매드니스 할리퀸 블루 "
+"폴]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "2a0d488078876319154ebdc86a05a78d"
+msgid "ID=715153410"
+msgstr ""
+
+msgctxt "8150003aa08b810e04a43d2425a6898c"
+msgid "[설계도]어벤던드 트래쉬 로어"
+msgstr ""
+
+msgctxt "2d298d2c9bea75faa1e90e1cde56381a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [어벤던드 트래쉬 로어]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "92f15d7547ae2b51d94a9a99686516ce"
+msgid "ID=715163510"
+msgstr ""
+
+msgctxt "313db5c090065d773e8eacb0c124bb63"
+msgid "[설계도]골렘 디스트로잉 기타"
+msgstr ""
+
+msgctxt "b369a4f9bca8287836cfe57c0ae55625"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [골렘 디스트로잉 기타]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4f7584f0e653a2209a9c596def8dd2e4"
+msgid "ID=715173410"
+msgstr ""
+
+msgctxt "d7565246a8886de0cd4993b5f016f1b8"
+msgid "[설계도]테인티드 소울 웨이버"
+msgstr ""
+
+msgctxt "426f99fef7bb0fc2477cfadcba268f0b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [테인티드 소울 웨이버]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "fb0d0d4940a9cda984564aeea989c48e"
+msgid "ID=715183510"
+msgstr ""
+
+msgctxt "69e1a69d5e757541cb6e696b75e4d323"
+msgid "[설계도]커럽티드 나이트 기타"
+msgstr ""
+
+msgctxt "2532284cab605dd5a9cae39764652ce0"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [커럽티드 나이트 기타]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "8d0d587bb9dcfd444775705a08681e75"
+msgid "ID=715203410"
+msgstr ""
+
+msgctxt "2d7776542e50034d489d39953b021fed"
+msgid "[설계도]퀸 스파이더 루인 기타"
+msgstr ""
+
+msgctxt "2f80bac65545fc62429161028fdc792c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [퀸 스파이더 루인 기타]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "2ae7cf87116dd27ba1f3e1c6b69a1019"
+msgid "ID=715213510"
+msgstr ""
+
+msgctxt "9dd8b4aedb574e570ea5a5c2829a54c4"
+msgid "[설계도]아라크니드 베니싱 기타"
+msgstr ""
+
+msgctxt "b4d19cf37af2e8b06a58ed1cb3519e23"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [아라크니드 베니싱 기타]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "070e9eb85ea5fcb6ed68487ba11507ab"
+msgid "ID=715223410"
+msgstr ""
+
+msgctxt "e7d645300ecc2a4e7fdafe8310455a1c"
+msgid "[설계도]헌티드 오버시어 하울러"
+msgstr ""
+
+msgctxt "64458619cfe2e96bdd0bc9c00088c225"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [헌티드 오버시어 하울러]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "6aab6665dbdc62832fac8aa1ad82c529"
+msgid "ID=715233510"
+msgstr ""
+
+msgctxt "0ab74d6be81ee6eabcd8f31c48740105"
+msgid "[설계도]사일런트 위트니스 배리스터"
+msgstr ""
+
+msgctxt "6c09c40c97c86e2db233b377e44ae20c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사일런트 위트니스 "
+"배리스터]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "83696c2da8ed4d3a10c81a53947021b8"
+msgid "ID=715253410"
+msgstr ""
+
+msgctxt "283732e635588eb1e1407d0db210836d"
+msgid "[설계도]사일런트 리뎀션 기타"
+msgstr ""
+
+msgctxt "3825538a04a5c8078186be7f8713208d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [사일런트 리뎀션 기타]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "eb329c05733a24e5fb13d704a2e92b2d"
+msgid "ID=715263510"
+msgstr ""
+
+msgctxt "a21466a0fae64dff9aec0ab599a921f4"
+msgid "[설계도]그리프 스카이즈 하울러"
+msgstr ""
+
+msgctxt "595750cbb1a053b78dbdc421063bb02e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그리프 스카이즈 하울러]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "fc166e6af34e8b3c39def1297eaa229c"
+msgid "ID=715273410"
+msgstr ""
+
+msgctxt "b8d83b19c77e4dffc7f59e25cdeea1a8"
+msgid "[설계도]브루탈 페인 웨이버"
+msgstr ""
+
+msgctxt "b1e5f6574ff0d49f4413d34988511c50"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [브루탈 페인 웨이버]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "9d984a60fdf7c356392642890943b8cd"
+msgid "ID=715283510"
+msgstr ""
+
+msgctxt "37a407ecef3cbc62d5bf4d193a2d6ab4"
+msgid "[설계도]머시리스 나이트 리자드"
+msgstr ""
+
+msgctxt "f68b8258d06887632fafe7a07fa59776"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [머시리스 나이트 리자드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "50208e16b808e938609262c9bc09aea6"
+msgid "ID=715293410"
+msgstr ""
+
+msgctxt "e724828d8e3d6ea58ed01cd29f6cd035"
+msgid "[설계도]톡식 더 러스트 웨이버"
+msgstr ""
+
+msgctxt "65fd5327ed381598b2fb9bf23a6580fb"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [톡식 더 러스트 웨이버]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "55ecfc38b962fa1004f0de1abf06ac37"
+msgid "ID=715303510"
+msgstr ""
+
+msgctxt "f1c0d7da835452687b64e5710c3843e3"
+msgid "[설계도]페이탈 리플렉션 하모닉스"
+msgstr ""
+
+msgctxt "dd638e993ebcf8cc380681d735c77798"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [페이탈 리플렉션 "
+"하모닉스]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "eafd23c08767846037be49df7a58187b"
+msgid "ID=715313410"
+msgstr ""
+
+msgctxt "7d5f97e0a4b0eea712fe5c5275b83188"
+msgid "[설계도]카발리어즈 오버 노트"
+msgstr ""
+
+msgctxt "8db8b77a325cd983db9fc961b520f9c8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [카발리어즈 오버 노트]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "fc0a804c46fa88a3308ee04eed6f6eb1"
+msgid "ID=715323510"
+msgstr ""
+
+msgctxt "c182fb7c6879b22513a3ada773572f2f"
+msgid "[설계도]가루라 나이트 노트"
+msgstr ""
+
+msgctxt "33b9ceb42e35a469649ea02a950ab17e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [가루라 나이트 노트]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "178d7b9efce160ced0b117a52387f5ec"
+msgid "ID=715343410"
+msgstr ""
+
+msgctxt "ff8d3b63468e3b188ffbfb44e7530d7f"
+msgid "[설계도]세비지드 액스 보이스"
+msgstr ""
+
+msgctxt "ae6690f5e522c003ce96f714c09b0aa0"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [세비지드 액스 보이스]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "b63d569eb05f50542b7a46f97c3f5720"
+msgid "ID=715353510"
+msgstr ""
+
+msgctxt "5f933bbe3720effa8ec3128d28940ecd"
+msgid "[설계도]리바이브 워리어 하울러"
+msgstr ""
+
+msgctxt "9fc72ac0f33fd1e6eeac5272d8ab757e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [리바이브 워리어 하울러]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "116134b82c276c7cc3256b70b5432538"
+msgid "ID=715373410"
+msgstr ""
+
+msgctxt "6a19652c505ad1af20af621d380391c2"
+msgid "[설계도]크림슨 섀도우 노트"
+msgstr ""
+
+msgctxt "946513895359e5aa4a1c3d9c19dd84c4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [크림슨 셰도우 노트]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "9c2f8bd03a727aa30a355e11adb438f0"
+msgid "ID=715383510"
+msgstr ""
+
+msgctxt "9a0df5564b43c3d575be24a6bbfef812"
+msgid "[설계도]기타 타입 베니싱 블러드"
+msgstr ""
+
+msgctxt "352f61da2862271fca301fd6367e34d8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [기타 타입 베니싱 "
+"블러드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "58019ee4142d8f9eaf07596a400c2e77"
+msgid "ID=715393410"
+msgstr ""
+
+msgctxt "981a531f22dd96de2978cfb22802c491"
+msgid "[설계도]크래쉬 더 헌드레드 노트"
+msgstr ""
+
+msgctxt "4bc31b962a4f984435730fdf79c71e77"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [크래쉬 더 헌드레드 "
+"노트]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4edb6cb8f3a5b7a7588775019e108f35"
+msgid "ID=715403510"
+msgstr ""
+
+msgctxt "14daee9eedd059b5b71938d7ca8e4d72"
+msgid "[설계도]기타 오브 할로우 벤전스"
+msgstr ""
+
+msgctxt "400e2eabe71b65b1339f247f04ba2c76"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [기타 오브 할로우 "
+"벤전스]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f9b4c9fc53687dd018562b56ac3b361b"
+msgid "ID=715423410"
+msgstr ""
+
+msgctxt "a6495ce5fe6f32e623f0bd45941aebe9"
+msgid "[설계도]프로토타입 시저 플라이브"
+msgstr ""
+
+msgctxt "b611bae7cc0a1279b4d7ddea9dc733c7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [프로토타입 시저 "
+"플라이브]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "3790af7a812bc1b0016992f873fb3ec7"
+msgid "ID=715433510"
+msgstr ""
+
+msgctxt "bd384d6a3317e9fd37d15eb39efe63bb"
+msgid "[설계도]헤비 메탈 크라이어"
+msgstr ""
+
+msgctxt "00d1f5fd749c13359b2eb7229e18a4d7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [헤비 메탈 크라이어]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d609ee97a80ea994ddebb02e8b4b169b"
+msgid "ID=715443410"
+msgstr ""
+
+msgctxt "57b5f7e1bf4a4192d81d9f98d5d1ee62"
+msgid "[설계도]리벨레이터 머신 기타"
+msgstr ""
+
+msgctxt "3b058a8e62f4fa157730b54fa223f00f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [리벨레이터 머신 기타]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "527cee04f9a288e54cd82b713c38cdc3"
+msgid "ID=715453510"
+msgstr ""
+
+msgctxt "f05f62a3f50be3cd0e9fbd5f4445c954"
+msgid "[설계도]기타 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "605779649265cabf8a5b0c66f001d34f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [기타 타입 브로큰 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "1e16a09588614c489595fb6b7aab37e9"
+msgid "ID=715463410"
+msgstr ""
+
+msgctxt "6714d0fa406087e19125ed1dfa8d4fd9"
+msgid "[설계도]어센셔너 머신 기타"
+msgstr ""
+
+msgctxt "e4c0aeb87cb900ae7109fe3317f7170e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [어센셔너 머신 기타]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "02057e6a4b42d45ce7a6bbdcef7ae4ce"
+msgid "ID=715473510"
+msgstr ""
+
+msgctxt "6a451eacf5e990a6481475aba9d0ce2c"
+msgid "[설계도]에어리얼 림 샤우터"
+msgstr ""
+
+msgctxt "ce65090d0501649c007ab25768806f6c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [에어리얼 림 샤우터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "3cebda1950522ea23af1edb251743d41"
+msgid "ID=715483410"
+msgstr ""
+
+msgctxt "e838726abe2a0fb7b64fef9462126c7f"
+msgid "[설계도]슈퍼 메카 브레이브 사운드"
+msgstr ""
+
+msgctxt "d5e19d89742589f8b44ade2c2ddb9c4b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [슈퍼 메카 브레이브 "
+"사운드]의 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a18486fd6dfe0c3ea615acffa8e0cdcb"
+msgid "ID=715493510"
+msgstr ""
+
+msgctxt "753abf911762e752aa5ad4407958fdb6"
+msgid "[설계도]기간테스 코어 하울러"
+msgstr ""
+
+msgctxt "7766ae9357dff3b28228af64476e9b2f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [기간테스 코어 하울러]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "02efe6701e9a21666bfb42bb894ad358"
+msgid "ID=715503410"
+msgstr ""
+
+msgctxt "d0385fa3a3d539cb05fd5fab3fe52f95"
+msgid "[설계도]어웨이큰 마네스 기타"
+msgstr ""
+
+msgctxt "290b48c8734b944f52f01525e5741fdb"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [어웨이큰 마네스 기타]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "5de7512080265ebf8bd7cf5cdfb1fe4b"
+msgid "ID=715513510"
+msgstr ""
+
+msgctxt "928d6b1b75e2fd38f587efdc3c408b20"
+msgid "[설계도]기타 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "b340e7a7437dc0acdf4a9ddb551a3d31"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [기타 타입 퀸즈 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "441945b261e16ec4602b528e998d4a36"
+msgid "ID=715523410"
+msgstr ""
+
+msgctxt "abe2d5e7e12becc3cf075131447d8fb6"
+msgid "[설계도]인피니트 림 웨이버"
+msgstr ""
+
+msgctxt "7cba02793f679962df806f1845919a77"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [인피니트 림 웨이버]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a4acf1d8d2fd47a02179325bf491f66e"
+msgid "ID=715533510"
+msgstr ""
+
+msgctxt "cfe73af46c4744da24d235d5eb9512d0"
+msgid "[설계도]넘버리스 레이 하울러"
+msgstr ""
+
+msgctxt "705b2d7af5b51be513aba1d60d5e1e2c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [넘버리스 레이 하울러]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "9b20742773acee08ad85d42cb3901190"
+msgid "ID=715543410"
+msgstr ""
+
+msgctxt "34c9b732aec91dfa805a3f792c82bfe3"
+msgid "[설계도]씰드 레이지 하울러"
+msgstr ""
+
+msgctxt "f4df4c2c3b9a9101d9ac4712a4e19ab9"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [씰드 레이지 하울러]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "6d4cf4a33078b5d882bbf897f560ffd7"
+msgid "ID=715553510"
+msgstr ""
+
+msgctxt "979066e91b3c4b2de77f77810bfa3a66"
+msgid "[설계도]글레어즈 포스 로어"
+msgstr ""
+
+msgctxt "6bbd10fc13066d3ef8eaa9cf35003638"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [글레어즈 포스 로어]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c409025a8d509f92c7bac31b3e0ed314"
+msgid "ID=710033430"
+msgstr ""
+
+msgctxt "03d3e4909c0f3baded62438ab8fc0640"
+msgid "[설계도]다이어 본 헤드"
+msgstr ""
+
+msgctxt "03f9e7f78f19514f6fc2702fc17d9328"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [다이어 본 헤드]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "6ddfd22fa1f5d2644d864e9490124490"
+msgid "ID=710043530"
+msgstr ""
+
+msgctxt "130c612bbbaead74cfff53a9928b4e28"
+msgid "[설계도]드레드 울프 헤드"
+msgstr ""
+
+msgctxt "0286f4a9812d8b1a5e8f5a1756efdddc"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [드레드 울프 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4f4a10fe8582bd1a266367277f00955e"
+msgid "ID=710073430"
+msgstr ""
+
+msgctxt "25ace87e6c720ec436a8d13d6306bb8b"
+msgid "[설계도]돌 크라운 헤드"
+msgstr ""
+
+msgctxt "8204778f7f8ed37994a8a7f18fa5e420"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [돌 크라운 헤드]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "096f00a700bfa0f3ff05e4a3511a040e"
+msgid "ID=710083530"
+msgstr ""
+
+msgctxt "da9430922d4d91180fbba3832b585b76"
+msgid "[설계도]헤드 타입 돌 블래스터"
+msgstr ""
+
+msgctxt "03b94b2992fb9cd912b37cb974d40c27"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [헤드 타입 돌 블래스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "df77288cd9b6026a1722a5a98b170ef6"
+msgid "ID=710103430"
+msgstr ""
+
+msgctxt "f789b7f430883a278979d2b0cbfbb4a0"
+msgid "[설계도]리빙 돌 헤드"
+msgstr ""
+
+msgctxt "062ce327f357c526466f7a283a7b00f6"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [리빙 돌 헤드]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "c9c66da8fde08fdc3a10f367940a455d"
+msgid "ID=710113530"
+msgstr ""
+
+msgctxt "949316dd79711d46abb1363c155b04ba"
+msgid "[설계도]파나틱 페이스 헤드"
+msgstr ""
+
+msgctxt "1cf759b4c256d243fd61a2b7d6ce796d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [파나틱 페이스 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "aa0ad344e4bb58b73ed4476f8385facb"
+msgid "ID=710123430"
+msgstr ""
+
+msgctxt "c7893429bd5cc71fb14a5a435e6b10da"
+msgid "[설계도]매드 클로운 헤드"
+msgstr ""
+
+msgctxt "3bc5bec883d2ed665bc51374d80aa5cf"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [매드 클로운 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "df5414a2a8e2f4d0b090a7b20bcde7cf"
+msgid "ID=710133530"
+msgstr ""
+
+msgctxt "dd0b71b3306a30971d25900d5a9a8768"
+msgid "[설계도]할리퀸 위어드 헤드"
+msgstr ""
+
+msgctxt "039f936c5abd0dcdfa465b97df8c9108"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [할리퀸 위어드 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4f0810b5e50960aef203a38997b7518d"
+msgid "ID=710153430"
+msgstr ""
+
+msgctxt "d760bbfdf6db951163f30c36b6def26d"
+msgid "[설계도]퀘이크 스토커 헤드"
+msgstr ""
+
+msgctxt "372e846d0f0242ee2fbe260086418b97"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [퀘이크 스토커 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "de93000213e7b9d7245cfc38b2109e1b"
+msgid "ID=710163530"
+msgstr ""
+
+msgctxt "0f75ce3218dda7b9e3216bc30824bc1f"
+msgid "[설계도]록 프로텍트 헤드"
+msgstr ""
+
+msgctxt "4ba5a7f8ccb62bca1e0f4839a9bddee9"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [록 프로텍트 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "82a8ed1539d59d7b077f5c726d1ed105"
+msgid "ID=710173430"
+msgstr ""
+
+msgctxt "1f40b49319ff24992eef0b76cb49acee"
+msgid "[설계도]정크 프로텍트 헤드"
+msgstr ""
+
+msgctxt "f209d7a33f5ea1372adbae187150245b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [정크 프로텍트 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e42b75b6484394cc5def2a8d28f92efd"
+msgid "ID=710183530"
+msgstr ""
+
+msgctxt "9f9e776eee997683ffe72f5604c25d1b"
+msgid "[설계도]커렵션 프로텍트 헤드"
+msgstr ""
+
+msgctxt "c2fb0890851c943a8f7bc6afcf6b85dc"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [커렵션 프로텍트 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "3dc8a13b877dadfb77a07c59ce508c6e"
+msgid "ID=710203430"
+msgstr ""
+
+msgctxt "7c2d7bc6df0371046921d7f45fa39219"
+msgid "[설계도]인섹트 슬레이어 헤드"
+msgstr ""
+
+msgctxt "c6f015f3e5c9b1923fe0a834103a12a7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [인섹트 슬레이어 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "b75a7d28f60518b16392468307645e89"
+msgid "ID=710213530"
+msgstr ""
+
+msgctxt "088b7c50d8708c71665c9df7401fa93a"
+msgid "[설계도]아라크니드 헤드"
+msgstr ""
+
+msgctxt "5980fe767205b719bd29ef2598ffff10"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [아라크니드 헤드]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "99089c8ccd1a26ac19f5f4365e787772"
+msgid "ID=710223430"
+msgstr ""
+
+msgctxt "4e0abf2f92c9728a8ecdeb1f2f97c326"
+msgid "[설계도]뮤턴트 플랙 헤드"
+msgstr ""
+
+msgctxt "d0380ff87ef3df90b25dd51b2f677393"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [뮤턴트 플랙 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "9eca9c446955b0e14c500fc316fd2c8f"
+msgid "ID=710233530"
+msgstr ""
+
+msgctxt "d5251722ef5ccf3381d539584c8fef46"
+msgid "[설계도]사일런트 위트니스 헤드"
+msgstr ""
+
+msgctxt "065d77688df1191735aff6b7ba64f65d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [사일런트 위트니스 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "0f3d86bf62a2c391fea2fd7aadad1c4f"
+msgid "ID=710253430"
+msgstr ""
+
+msgctxt "287f46a16f804d5c49e7a6d584b2a094"
+msgid "[설계도]에어레이드 헤드"
+msgstr ""
+
+msgctxt "cc263087b3ce01808c7f4258407a7273"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [에어레이드 헤드]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "7bd9a00ae3bfd60de1d7b318f2bd5345"
+msgid "ID=710263530"
+msgstr ""
+
+msgctxt "08fefeafd56a1bd4eedd5616bf0d0d4a"
+msgid "[설계도]할로우 하츠 헤드"
+msgstr ""
+
+msgctxt "33eee7d14784932fe72df986fec15828"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [할로우 하츠 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "28d1828eaf03f7332d58ae7019648848"
+msgid "ID=710273430"
+msgstr ""
+
+msgctxt "719cefcabe181c74046bd9aa6120ece6"
+msgid "[설계도]콜로설즈 리파인 헤드"
+msgstr ""
+
+msgctxt "02c506cfe58e5c31bc3074a9d5b737b0"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [콜로설즈 리파인 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c4320be4a5276a08a88ad29a5699945f"
+msgid "ID=710283530"
+msgstr ""
+
+msgctxt "7cf477ebe31ad9b4118a5eb74ae7ba2f"
+msgid "[설계도]비셔스 블럿쉬드 헤드"
+msgstr ""
+
+msgctxt "7c094fda249d87b57706d6ce85ec888a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [비셔스 블럿쉬드 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "34bbccab7d57da418661668bad1f8599"
+msgid "ID=710293430"
+msgstr ""
+
+msgctxt "0d680156f95308afc12f0c8ed8e0b8bf"
+msgid "[설계도]인트루더 헤드"
+msgstr ""
+
+msgctxt "f8b513674c154ad585c3e267991249a3"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [인트루더 헤드]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "dfddb212f50ab2d9d66b9a3e4f5a32ba"
+msgid "ID=710303530"
+msgstr ""
+
+msgctxt "9a469ae495081778617356cecd29e172"
+msgid "[설계도]베노머스 아이돌 헤드"
+msgstr ""
+
+msgctxt "727042042ef6d406b0a2e0aa651f2c24"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [베노머스 아이돌 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "5e9d331dc68d4308a38844486e41c56f"
+msgid "ID=710313430"
+msgstr ""
+
+msgctxt "b413c591978373adc7cc0775c658a0a4"
+msgid "[설계도]헌터 리퓨즈 헤드"
+msgstr ""
+
+msgctxt "d5bdba19ede411f86d21807e945a5d60"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [헌터 리퓨즈 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4cebd0eecee13537ecfda48f75e3dc52"
+msgid "ID=710323530"
+msgstr ""
+
+msgctxt "62a03d763f53b11e240ba2289ddc6330"
+msgid "[설계도]어스튜드 워리어 헤드"
+msgstr ""
+
+msgctxt "193063a70cb13e0da80135b94d0280d8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [어스튜드 워리어 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "b8fcc6d59a85669dddceb5e7cff8c091"
+msgid "ID=710343430"
+msgstr ""
+
+msgctxt "04ebc4a7aebebef67f5e168f64cf68b7"
+msgid "[설계도]엔드리스 벤데타 헤드"
+msgstr ""
+
+msgctxt "56bcfcd969541b0fa34f661fa0c1610c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [엔드리스 벤데타 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "12e4c893f34da7a0991e73da65549699"
+msgid "ID=710353530"
+msgstr ""
+
+msgctxt "d7ab37450525e34a1eb5a30ad91e4b8f"
+msgid "[설계도]어벤던드 러스트 헤드"
+msgstr ""
+
+msgctxt "9b48fff4241356d0f049addf0d6487cc"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [어벤던드 러스트 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "49f5732756f0b1f5396a1c678a36a8e0"
+msgid "ID=710373430"
+msgstr ""
+
+msgctxt "486ec68f0d71b06c515fea1d8fb29ad8"
+msgid "[설계도]크림슨 헤이스티 헤드"
+msgstr ""
+
+msgctxt "00a38394e0d28bbc11add6e779c6e253"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [크림슨 헤이스티 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "44f884316fc0409b1548a1b518eb4204"
+msgid "ID=710383530"
+msgstr ""
+
+msgctxt "271e3c5eea3f9c5847f2f43daebb3a65"
+msgid "[설계도]블러디 와이트 헤드"
+msgstr ""
+
+msgctxt "409edaf812d9bd517ef6e670ff91e8fa"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [블러디 와이트 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "5f4ec31e6f53ead47e2ba0f6d448d9dd"
+msgid "ID=710393430"
+msgstr ""
+
+msgctxt "59d5de7656456e95bc90af8c068d0cc4"
+msgid "[설계도]디터먼트 바이스 헤드"
+msgstr ""
+
+msgctxt "bf41614e6ecf09f4d7853368382eb4a2"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [디터먼트 바이스 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e2eceb7e01368adb09791245a7fbcea3"
+msgid "ID=710403530"
+msgstr ""
+
+msgctxt "31f266d3ef6d68739ac19c0f27cbb7d5"
+msgid "[설계도]언포기븐 바이스 헤드"
+msgstr ""
+
+msgctxt "4e53ef026a77438e226eb13337076796"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [언포기븐 바이스 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "910b099120fe7ef146750a63da132764"
+msgid "ID=710423430"
+msgstr ""
+
+msgctxt "4ff8eaf36473d988c69683f7a88c1fb9"
+msgid "[설계도]가디언즈 아이언 헤드"
+msgstr ""
+
+msgctxt "593188b05c1246f462bb1995634f9f4f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [가디언즈 아이언 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "fd7044274573a30c067738fe07cb8198"
+msgid "ID=710433530"
+msgstr ""
+
+msgctxt "5d0196d5164a7b3bb5b3ed244b526acb"
+msgid "[설계도]헤비 메탈 헤드"
+msgstr ""
+
+msgctxt "0f47496f476aab3a8e51f1660e73aca5"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [헤비 메탈 헤드]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "440dd049928a0ece9e5c741dc9b4156e"
+msgid "ID=710443430"
+msgstr ""
+
+msgctxt "aea1e99eb4fa74ab5a6e391719bed1a6"
+msgid "[설계도]제런트 크롬 헤드"
+msgstr ""
+
+msgctxt "b4d5b1ef0d2b0f07b920898bf6180ffa"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [제런트 크롬 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "569d3f397ee18187006ca650ba66ed5e"
+msgid "ID=710453530"
+msgstr ""
+
+msgctxt "616bc73296c55694c4db18bc89ca82ce"
+msgid "[설계도]헤드 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "611d83340377c6f4091c3d29f13aa010"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [헤드 타입 브로큰 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "7dce22770e6cf13ea9946aac601eff5c"
+msgid "ID=710463430"
+msgstr ""
+
+msgctxt "ce9ab13f8e5e7c0a38c4cad64a62929d"
+msgid "[설계도]카니지 메탈 헤드"
+msgstr ""
+
+msgctxt "ca04613a3bd39cb69e889878a3e2f637"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [카니지 메탈 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "5d68d1a8cbdc6eb9be7d12433a7d4f65"
+msgid "ID=710473530"
+msgstr ""
+
+msgctxt "d871016ad7c19f35ed38dc7c64bae96c"
+msgid "[설계도]에어리얼 림 헤드"
+msgstr ""
+
+msgctxt "4b027e4444244d8c0a45d21ed28af2d7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [에어리얼 림 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c7e596ee0b61f12f41e29d5f8109e0ab"
+msgid "ID=710483430"
+msgstr ""
+
+msgctxt "9c7e1d9287616bdc3ddcd2a0a7297cd8"
+msgid "[설계도]브레이버 헤드"
+msgstr ""
+
+msgctxt "98b373cc4ebb47c2fbb95bbbacca149d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [브레이버 헤드]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "fc198d34c4849ca26497f0c251547afa"
+msgid "ID=710493530"
+msgstr ""
+
+msgctxt "d1660e470be908b3819177fceeefbec8"
+msgid "[설계도]기간테스 코어 헤드"
+msgstr ""
+
+msgctxt "c9f3a9ac2e06501446793ba2c5dd2c96"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [기간테스 코어 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e85bdc0f79ccb178bd9bde0ef4b88a7b"
+msgid "ID=710503430"
+msgstr ""
+
+msgctxt "9d4e93829b053fda4b4a445adf18186e"
+msgid "[설계도]판타즈말 카본 헤드"
+msgstr ""
+
+msgctxt "0d633c39840bf40be1db62c3cd0109dd"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [판타즈말 카본 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "63099aae6ba3ce78c4f96d5d7299e364"
+msgid "ID=710513530"
+msgstr ""
+
+msgctxt "b19e50ccf33b0171ce54826de7180052"
+msgid "[설계도]헤드 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "55732ad971db25e13a21ef3526bc2a0b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [헤드 타입 퀸즈 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "bee436f92673393a3d1393ba91a2403a"
+msgid "ID=710523430"
+msgstr ""
+
+msgctxt "023ef404607409642e16895e101e3a89"
+msgid "[설계도]레클리스 원 헤드"
+msgstr ""
+
+msgctxt "16421c715b71dbfe3930e1b670f1b95c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [레클리스 원 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "0833320048e5a66043616bbd55febf91"
+msgid "ID=710533530"
+msgstr ""
+
+msgctxt "088a6abde4c20213501aa0dfae8ccff3"
+msgid "[설계도]넘버리스 레이 헤드"
+msgstr ""
+
+msgctxt "7e30cfde4ca48cf33bf437c2ebba9b2a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [넘버리스 레이 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d3f2bbed3776d2b97cbe393b3846f6dc"
+msgid "ID=710543430"
+msgstr ""
+
+msgctxt "1630299673ff7c70e7a91a2b54669679"
+msgid "[설계도]루미너시티 헤드"
+msgstr ""
+
+msgctxt "1a4f6bd59dd3ca22a3d4f9c206bd5265"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [루미너시티 헤드]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "3786a69f28324abd19f1e6bc9dc38b44"
+msgid "ID=710553530"
+msgstr ""
+
+msgctxt "9ac0e9702e1142873f0e849722b459e5"
+msgid "[설계도]글레어즈 포스 헤드"
+msgstr ""
+
+msgctxt "fc41d9c46cae740940c5c8f9e3b4bbfd"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [글레어즈 포스 헤드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "9adcccb8be8c4990d43309b1425e2812"
+msgid "ID=710073440"
+msgstr ""
+
+msgctxt "5ae4438b6e0de2cf8072999f87a27d3e"
+msgid "[설계도]돌 크라운 숄더"
+msgstr ""
+
+msgctxt "9205b3b8294c83beedc2a365880900e1"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [돌 크라운 숄더]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "457447a6ef87083bace3fab910a195c6"
+msgid "ID=710083540"
+msgstr ""
+
+msgctxt "37fae3b272c3a2dcd83810e743bd3d13"
+msgid "[설계도]숄더 타입 돌 블래스터"
+msgstr ""
+
+msgctxt "42fa68f72c22d5c21576475dd054d203"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [숄더 타입 돌 블래스터]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a5ba3b2535b6390c288c887e6daf120c"
+msgid "ID=710103440"
+msgstr ""
+
+msgctxt "91beee788ed64752cd5a413553d3568d"
+msgid "[설계도]리빙 돌 숄더"
+msgstr ""
+
+msgctxt "7c0604db30f4a858bb25adf5c3992ba0"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [리빙 돌 숄더]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "9fd06c20674ee8125e46ea41aacea380"
+msgid "ID=710113540"
+msgstr ""
+
+msgctxt "901cebbbd0a16c7adc710cf2e8882374"
+msgid "[설계도]파나틱 페이스 숄더"
+msgstr ""
+
+msgctxt "84d38b9a24f4eadbc372b00b6fc40f9e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [파나틱 페이스 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f9132471094781f4a8d21b3a733113ab"
+msgid "ID=710123440"
+msgstr ""
+
+msgctxt "c68eeac32ea89d35db00de6a18bbcb49"
+msgid "[설계도]매드 클로운 숄더"
+msgstr ""
+
+msgctxt "2a085a795edcfc1d8f1adb1c7429dd0c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [매드 클로운 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d42be6a30dec4d6c0ea520962e1524e5"
+msgid "ID=710133540"
+msgstr ""
+
+msgctxt "8dd9d180f625f3e2741ee07accf4d6d1"
+msgid "[설계도]할리퀸 위어드 숄더"
+msgstr ""
+
+msgctxt "6c65b1503dfa6bb09ae64e7d53b86d77"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [할리퀸 위어드 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "24b20d7408d49b4c20a3eb63cdf02f6c"
+msgid "ID=710153440"
+msgstr ""
+
+msgctxt "c2f31bfb93035f03dc7801483ea0368a"
+msgid "[설계도]퀘이크 스토커 숄더"
+msgstr ""
+
+msgctxt "135947918328d4374357bfa3829e685a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [퀘이크 스토커 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "38375d810367a261571b54216470a07e"
+msgid "ID=710163540"
+msgstr ""
+
+msgctxt "ef9def94d5309cc4d579b5d97a7c8544"
+msgid "[설계도]록 프로텍트 숄더"
+msgstr ""
+
+msgctxt "a028cc2f5b0928c99f785498b4af1f96"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [록 프로텍트 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e3aa6cdc89ca9a4cf89220601208f02d"
+msgid "ID=710173440"
+msgstr ""
+
+msgctxt "2a093762e5a63ed649f2ae27f46e6f4e"
+msgid "[설계도]정크 프로텍트 숄더"
+msgstr ""
+
+msgctxt "39e1a80e3fa46c127957fee27bca69f5"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [정크 프로텍트 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f021f4521bc07283d5f71ea442294597"
+msgid "ID=710183540"
+msgstr ""
+
+msgctxt "b679078fa7b6bd300b8b23e253ac2269"
+msgid "[설계도]커렵션 프로텍트 숄더"
+msgstr ""
+
+msgctxt "5515c9cd0a42e9f92bcf61bac47d559e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [커렵션 프로텍트 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "84a860d61aefdcd73e3125c30ff19e95"
+msgid "ID=710203440"
+msgstr ""
+
+msgctxt "b9f1ec34a078a350e7a343dff95b4a38"
+msgid "[설계도]인섹트 슬레이어 숄더"
+msgstr ""
+
+msgctxt "b12075eb66fc0014cc8d23aaa8fa2860"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [인섹트 슬레이어 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "0c771bb49365353da0f4cf9a6d43685f"
+msgid "ID=710213540"
+msgstr ""
+
+msgctxt "c4b22627457996a194c3ed941541eab2"
+msgid "[설계도]아라크니드 숄더"
+msgstr ""
+
+msgctxt "0605e0d93d5de220d6dd244462856470"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [아라크니드 숄더]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "c752940bbc118543a8dec2dc023af2de"
+msgid "ID=710223440"
+msgstr ""
+
+msgctxt "f9d2ad623739e81b9737b00130f53123"
+msgid "[설계도]뮤턴트 플랙 숄더"
+msgstr ""
+
+msgctxt "a4a29141e5cbb782bb7ed2f3040ef5f4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [뮤턴트 플랙 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f4698c49a2f6d18ac9d5f434408d6551"
+msgid "ID=710233540"
+msgstr ""
+
+msgctxt "1654a82194f1067c7373226756d9a169"
+msgid "[설계도]사일런트 위트니스 숄더"
+msgstr ""
+
+msgctxt "80b9858bf85fc5b30dd55eafe151d862"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [사일런트 위트니스 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "bc217f1993e872cc4cafe93d1513c263"
+msgid "ID=710253440"
+msgstr ""
+
+msgctxt "c54a2207f7ebd8c9ea38e1a6018307dc"
+msgid "[설계도]에어레이드 숄더"
+msgstr ""
+
+msgctxt "d3d4f2d94b543c1848cd80995c81f54a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [에어레이드 숄더]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "edcacffebee784d04f47fdac3b6356de"
+msgid "ID=710263540"
+msgstr ""
+
+msgctxt "18d814c9e8bee67911813c440d5d628a"
+msgid "[설계도]할로우 하츠 숄더"
+msgstr ""
+
+msgctxt "dadd100bac6df64093854cd04959974c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [할로우 하츠 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "af71f64621e875938656a23ee23dc54a"
+msgid "ID=710273440"
+msgstr ""
+
+msgctxt "e0f11f8a9bfbf45a4995477437244ac7"
+msgid "[설계도]콜로설즈 리파인 숄더"
+msgstr ""
+
+msgctxt "8dd4a86aa1f60e9c8f918be8f106e978"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [콜로설즈 리파인 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a98df91994b8358126f4fddafd2a118d"
+msgid "ID=710283540"
+msgstr ""
+
+msgctxt "d86a60ed5aa72a9e18e2eac63ecfa18b"
+msgid "[설계도]비셔스 블럿쉬드 숄더"
+msgstr ""
+
+msgctxt "e6af39d7b15a8a992d6d61aaf7a00991"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [비셔스 블럿쉬드 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "30a1150d06fefb75f443b547b3313363"
+msgid "ID=710293440"
+msgstr ""
+
+msgctxt "fe9aea183b07d1a0f8b2da6d30282191"
+msgid "[설계도]인트루더 숄더"
+msgstr ""
+
+msgctxt "d369d0ea9cc09e5ebcb29ef6c01640b0"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [인트루더 숄더]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "e1cadafa5244d7adb7549efc896a1005"
+msgid "ID=710303540"
+msgstr ""
+
+msgctxt "84195dbcfacc69307076c9ca64d0f344"
+msgid "[설계도]베노머스 아이돌 숄더"
+msgstr ""
+
+msgctxt "ba8b01f329b209a8c902036ddaeaa9f8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [베노머스 아이돌 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "612599d32c0ddd92f954827dcfbb7df9"
+msgid "ID=710313440"
+msgstr ""
+
+msgctxt "e2fdc018b1f02f337f960892788b9d76"
+msgid "[설계도]헌터 리퓨즈 숄더"
+msgstr ""
+
+msgctxt "203eece5ae9e129f97cc027a1701c317"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [헌터 리퓨즈 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "0d42893722e295ff1292b848df4bd642"
+msgid "ID=710323540"
+msgstr ""
+
+msgctxt "c33a500ba17f1cc45605a1eaddb6b5fb"
+msgid "[설계도]어스튜드 워리어 숄더"
+msgstr ""
+
+msgctxt "64fdd4249cc752f42c36cec66f2cddb9"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [어스튜드 워리어 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d352b9098204c6be679921c012ef95b6"
+msgid "ID=710343440"
+msgstr ""
+
+msgctxt "3388433571dc6661758db513734bec19"
+msgid "[설계도]엔드리스 벤데타 숄더"
+msgstr ""
+
+msgctxt "6347c74cc4ca2dc5a2cf10f449209230"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [엔드리스 벤데타 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f6885a5eef0e3a10bcc389e41b460a9c"
+msgid "ID=710353540"
+msgstr ""
+
+msgctxt "58ff9e3f55f49f2e97dd2f4a3bba5ef2"
+msgid "[설계도]어벤던드 러스트 숄더"
+msgstr ""
+
+msgctxt "f97f5e7ff1090a3064b9fc19c0e6ba55"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [어벤던드 러스트 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "6e5e4a55a4f416a632fe8efa5bf7414d"
+msgid "ID=710373440"
+msgstr ""
+
+msgctxt "60b4abad68df547f3c24b0ee50d32ebb"
+msgid "[설계도]크림슨 헤이스티 숄더"
+msgstr ""
+
+msgctxt "91a4809f00cdb965110c5f4f4aa77bc5"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [크림슨 헤이스티 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "28bf91e5aebab7e98383c6668117d22a"
+msgid "ID=710383540"
+msgstr ""
+
+msgctxt "7266ec37dc882708931a73dafa63004e"
+msgid "[설계도]블러디 와이트 숄더"
+msgstr ""
+
+msgctxt "ffee059fad6cd1503564c5ae324ac5be"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [블러디 와이트 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "907954347da457ca059598a0284344ae"
+msgid "ID=710393440"
+msgstr ""
+
+msgctxt "9b704ccb5235c4e222db76d0ca50971d"
+msgid "[설계도]디터먼트 바이스 숄더"
+msgstr ""
+
+msgctxt "fe496a186c5fe64863828499f8ff368b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [디터먼트 바이스 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "99e1c7be9885789ef2fb7e61a251f0c2"
+msgid "ID=710403540"
+msgstr ""
+
+msgctxt "3d231f64f7e307c65146f7b9d50f79f7"
+msgid "[설계도]언포기븐 바이스 숄더"
+msgstr ""
+
+msgctxt "418183e227cda0de3e8bff0e0ebeba72"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [언포기븐 바이스 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "7e8565eaee62dfc6926c07c6f4a26d88"
+msgid "ID=710423440"
+msgstr ""
+
+msgctxt "9034b572f333dfd22da8920a377e5c61"
+msgid "[설계도]가디언즈 아이언 숄더"
+msgstr ""
+
+msgctxt "8b8e10b6ed27ca09a98563ab226a04fd"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [가디언즈 아이언 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "da1e62a357ce014ece2ecb1991380b81"
+msgid "ID=710433540"
+msgstr ""
+
+msgctxt "5e74493ad0e9b410a9ebf25b9ad19358"
+msgid "[설계도]헤비 메탈 숄더"
+msgstr ""
+
+msgctxt "89b84da280859687addf4aa7352b3ed3"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [헤비 메탈 숄더]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "9fdcc386b42586129858beacd938dae0"
+msgid "ID=710443440"
+msgstr ""
+
+msgctxt "f9547d2718d612e828dc8e466eaf2072"
+msgid "[설계도]제런트 크롬 숄더"
+msgstr ""
+
+msgctxt "8bcaea51ac9560b4f2ae62d66ff0a063"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [제런트 크롬 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "409da28981ab1d17104e1e1a5482c430"
+msgid "ID=710453540"
+msgstr ""
+
+msgctxt "e1ea80529ec5da4983d1946a6149a4e2"
+msgid "[설계도]숄더 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "ab9cc8d6928b8c314b59f428822c89d3"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [숄더 타입 브로큰 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a6d2f382538ae7553f4fb111f2053d68"
+msgid "ID=710463440"
+msgstr ""
+
+msgctxt "831daa5eace7ff53a6e04d747ebe3424"
+msgid "[설계도]카니지 메탈 숄더"
+msgstr ""
+
+msgctxt "24a9bfa6fe0255ffecf4d4afd1e95119"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [카니지 메탈 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "66ecf3b01af0c6e952e7bab71e602308"
+msgid "ID=710473540"
+msgstr ""
+
+msgctxt "7d22b0dd8abff90e5c9168658648a7be"
+msgid "[설계도]에어리얼 림 숄더"
+msgstr ""
+
+msgctxt "615cc8827c0c38869d2925f878431ce4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [에어리얼 림 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e10b2f27838a4110405e11f34f4d7c11"
+msgid "ID=710483440"
+msgstr ""
+
+msgctxt "1e0a510e13e4123ee5fb5eff2981941d"
+msgid "[설계도]브레이버 숄더"
+msgstr ""
+
+msgctxt "fb4556b42e34d97760918da6a5cf625a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [브레이버 숄더]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "279c27d5171375f8fe419530abf64eb9"
+msgid "ID=710493540"
+msgstr ""
+
+msgctxt "e9cfc6a581b9eafc057f7489ce25e9c1"
+msgid "[설계도]기간테스 코어 숄더"
+msgstr ""
+
+msgctxt "db2ad21a93d7c1949dbf87d625db838b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [기간테스 코어 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4b3e05a1bae7fa41ae4600e004475a25"
+msgid "ID=710503440"
+msgstr ""
+
+msgctxt "9b21f837bcb0890b485cef295210ae49"
+msgid "[설계도]판타즈말 카본 숄더"
+msgstr ""
+
+msgctxt "1182a4c720a2a62388189375092bf3bc"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [판타즈말 카본 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c6549fce635831b7f102aea8acd46b1e"
+msgid "ID=710513540"
+msgstr ""
+
+msgctxt "4cdafcadf8a4f40b3e83ce4ff70acddf"
+msgid "[설계도]숄더 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "bda343612bd49da71303cc837e90035a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [숄더 타입 퀸즈 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "7e2985bf01c310e781741654f5537549"
+msgid "ID=710523440"
+msgstr ""
+
+msgctxt "e2b522ce7f0f4af402ebb5f95d6ab1dc"
+msgid "[설계도]레클리스 원 숄더"
+msgstr ""
+
+msgctxt "723cea2000fc9dd3edd82b94062f112c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [레클리스 원 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a7a3e4b4ad478df9cf1b61d3ca1b51e2"
+msgid "ID=710533540"
+msgstr ""
+
+msgctxt "35d237a6bbcb97a10d202ac17b09e18a"
+msgid "[설계도]넘버리스 레이 숄더"
+msgstr ""
+
+msgctxt "f3b228c1d3ad64ca58b0130d781fff67"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [넘버리스 레이 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "771c0ac876a051fdcc9baed37f4f2349"
+msgid "ID=710543440"
+msgstr ""
+
+msgctxt "58e7e8ff7c54d0d5a4ad641c6faff12d"
+msgid "[설계도]루미너시티 숄더"
+msgstr ""
+
+msgctxt "d5a8c8071d6047be31ad735ec69b15e9"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [루미너시티 숄더]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "9699be137be0a69c3da146a6cc47459b"
+msgid "ID=710553540"
+msgstr ""
+
+msgctxt "b6f26e5cb3c44555e1e398002f077573"
+msgid "[설계도]글레어즈 포스 숄더"
+msgstr ""
+
+msgctxt "e870a7232fdfdc3931672db40806766d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [글레어즈 포스 숄더]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "881dd15150236bc4aa214aa0771cfcf3"
+msgid "ID=710103450"
+msgstr ""
+
+msgctxt "d017407bb3706d00c17ff563d0030d9e"
+msgid "[설계도]리빙 돌 바디"
+msgstr ""
+
+msgctxt "847274f87d4b1667971e6cac56fd76a8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [리빙 돌 바디]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "07df5d42335eb8abb1eb86b903bdba68"
+msgid "ID=710113550"
+msgstr ""
+
+msgctxt "aeef17b8acbd85a9a79f9a98ad1532a4"
+msgid "[설계도]파나틱 페이스 바디"
+msgstr ""
+
+msgctxt "3234396f48b54bada707de0b34ea8d11"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [파나틱 페이스 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "57b34b44abf3e8bec8864004b698567c"
+msgid "ID=710123450"
+msgstr ""
+
+msgctxt "c92ffa17409d58baf36a78793791bdb6"
+msgid "[설계도]매드 클로운 바디"
+msgstr ""
+
+msgctxt "38d718a25d64bcb512d62efbf9128a39"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [매드 클로운 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "ea692eded2ba408d1ccbad1806766231"
+msgid "ID=710133550"
+msgstr ""
+
+msgctxt "46062ae37bd005b547df54e45bc3d659"
+msgid "[설계도]할리퀸 위어드 바디"
+msgstr ""
+
+msgctxt "425a398a2b23758e0bf4ffae6138c196"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [할리퀸 위어드 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "758d66fe0a451be1e5ab791049b80930"
+msgid "ID=710153450"
+msgstr ""
+
+msgctxt "f7c7163efc4f6a43d6fb2b7394bc8966"
+msgid "[설계도]퀘이크 스토커 바디"
+msgstr ""
+
+msgctxt "d541c0fc37bf728b417859abd4e3b814"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [퀘이크 스토커 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4eb2df956561c00935eda59f1c3b4acd"
+msgid "ID=710163550"
+msgstr ""
+
+msgctxt "4700c8808cff24d32e08073198527387"
+msgid "[설계도]록 프로텍트 바디"
+msgstr ""
+
+msgctxt "1aa85b0399c3fb7a33dc54843338639d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [록 프로텍트 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d6ffb7bb8086bc814c90522ce5d86b50"
+msgid "ID=710173450"
+msgstr ""
+
+msgctxt "cccccc146800a8bf37c66c30508d40b0"
+msgid "[설계도]정크 프로텍트 바디"
+msgstr ""
+
+msgctxt "912df01ac1a952ac3e7132d64c8591e6"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [정크 프로텍트 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "778fc8add25aad8344011772c59d91cd"
+msgid "ID=710183550"
+msgstr ""
+
+msgctxt "225ad5c137fffbfbe4fdbd96d84d6bbc"
+msgid "[설계도]커렵션 프로텍트 바디"
+msgstr ""
+
+msgctxt "cf7ad5f6286cf14dbb1f4335b02e38ba"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [커렵션 프로텍트 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "36a4504670468629ad54ddd595ca8893"
+msgid "ID=710203450"
+msgstr ""
+
+msgctxt "e3f7d53fd68075fa2af9183fecb20af4"
+msgid "[설계도]인섹트 슬레이어 바디"
+msgstr ""
+
+msgctxt "a6c7941e4f7aa2cb8fa59e811f41a9c8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [인섹트 슬레이어 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "2d810e6971652ccd7cde5741003a0beb"
+msgid "ID=710213550"
+msgstr ""
+
+msgctxt "ce1515fd27e0574ecef1368d21609dd4"
+msgid "[설계도]아라크니드 바디"
+msgstr ""
+
+msgctxt "f38a3856d9198671da53ed1c8cd4abf8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [아라크니드 바디]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "91118ec54f9f7d6f8a9a65381e64f7c0"
+msgid "ID=710223450"
+msgstr ""
+
+msgctxt "b504fb0cb3888e6478225ec586ed4fe3"
+msgid "[설계도]뮤턴트 플랙 바디"
+msgstr ""
+
+msgctxt "ee2b63e8d316a8c8005178bdaa7ba2c0"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [뮤턴트 플랙 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "80f82f8ce1b656c38555ac56c8eaee72"
+msgid "ID=710233550"
+msgstr ""
+
+msgctxt "41fa5c3cbb84384d84c6ba38eb516a82"
+msgid "[설계도]사일런트 위트니스 바디"
+msgstr ""
+
+msgctxt "64d594ba8f37128b33b8eb8f804e9fe6"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [사일런트 위트니스 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "6499dc76d40f5936531a4b9a92849348"
+msgid "ID=710253450"
+msgstr ""
+
+msgctxt "060d51bcbc7ab07f70c208077681a973"
+msgid "[설계도]에어레이드 바디"
+msgstr ""
+
+msgctxt "a89c2bee915ac9674751e6c06cfbbcbd"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [에어레이드 바디]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "b203e301405d7bc2b8764aa090b3bc32"
+msgid "ID=710263550"
+msgstr ""
+
+msgctxt "19844a4fb2f897c00bb6f60e429a472a"
+msgid "[설계도]할로우 하츠 바디"
+msgstr ""
+
+msgctxt "8d30d255d290855d8fb1bcced411b74b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [할로우 하츠 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d615eaf1db2ac64007ff184ffdfb5e94"
+msgid "ID=710273450"
+msgstr ""
+
+msgctxt "5f72ee46a5bf5a6b01fe33723bc58359"
+msgid "[설계도]콜로설즈 리파인 바디"
+msgstr ""
+
+msgctxt "34dddd83ebf633da44a12781afcfa179"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [콜로설즈 리파인 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "8aac4252b6d7cb0dc4261d7195035e24"
+msgid "ID=710283550"
+msgstr ""
+
+msgctxt "56db0e548e157a54ec4c7814b17e9739"
+msgid "[설계도]비셔스 블럿쉬드 바디"
+msgstr ""
+
+msgctxt "bca1f209e662e3bae915582653a73706"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [비셔스 블럿쉬드 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "645c568d5dfa0f6e8017d97076d3273c"
+msgid "ID=710293450"
+msgstr ""
+
+msgctxt "fbed01d38670dd46ed36358bc4e32083"
+msgid "[설계도]인트루더 바디"
+msgstr ""
+
+msgctxt "1de9335a3dbd0b9846fb54b6637d35c1"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [인트루더 바디]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "5c4050e3dd30c0323507ead129f5c3c6"
+msgid "ID=710303550"
+msgstr ""
+
+msgctxt "da8fcd81aad66787222ce4f7688c4557"
+msgid "[설계도]베노머스 아이돌 바디"
+msgstr ""
+
+msgctxt "9e3687cb978e838de5abf962acb4f752"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [베노머스 아이돌 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "ebdfc003062345f5b5a6bd0fd8decfdb"
+msgid "ID=710313450"
+msgstr ""
+
+msgctxt "4ebea2f29522874ec376b15c0d1c223a"
+msgid "[설계도]헌터 리퓨즈 바디"
+msgstr ""
+
+msgctxt "87730a904d3dc94a0e18118f666d145f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [헌터 리퓨즈 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "ad70fa7071dada34aa2c02195fe36127"
+msgid "ID=710323550"
+msgstr ""
+
+msgctxt "70b112e2b138adac6ffb5c835e738ed4"
+msgid "[설계도]어스튜드 워리어 바디"
+msgstr ""
+
+msgctxt "17440085b83fde435f2b0f3709a7509a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [어스튜드 워리어 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "50149dfcd20ea568126e826fe0fe53d2"
+msgid "ID=710343450"
+msgstr ""
+
+msgctxt "0765ba7ad975356bdb0c1c151187bf61"
+msgid "[설계도]엔드리스 벤데타 바디"
+msgstr ""
+
+msgctxt "7ee4e8e115c87898c5f07bfd253751db"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [엔드리스 벤데타 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4241f6c767c3cc33d6326f7a7b7b5534"
+msgid "ID=710353550"
+msgstr ""
+
+msgctxt "d171a66c3e5d8d37e9c738e451f229f9"
+msgid "[설계도]어벤던드 러스트 바디"
+msgstr ""
+
+msgctxt "ae717fdf532f36796d3ec38c47901f0c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [어벤던드 러스트 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "57cee0643c2dcb5cfc48d6170049be62"
+msgid "ID=710373450"
+msgstr ""
+
+msgctxt "f3a9e3ee4062b9d8626e3ca73ec459c8"
+msgid "[설계도]크림슨 헤이스티 바디"
+msgstr ""
+
+msgctxt "83f14c0ae6a233f6f6b64181753a9779"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [크림슨 헤이스티 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "9e3e1a8a88a0542ae6fa91d7a9de901b"
+msgid "ID=710383550"
+msgstr ""
+
+msgctxt "6bb8b8c42ec8f3a5f7b0beacbe4bc878"
+msgid "[설계도]블러디 와이트 바디"
+msgstr ""
+
+msgctxt "b51b2d2d9d99f8686224c267b61dd0d9"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [블러디 와이트 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "55166cd842afdb28e90f7924fad1c388"
+msgid "ID=710393450"
+msgstr ""
+
+msgctxt "b2cf83e0fa562951093d6f055d2f5fb6"
+msgid "[설계도]디터먼트 바이스 바디"
+msgstr ""
+
+msgctxt "15d82a249cecdf8e495204356b46f033"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [디터먼트 바이스 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "8477dc0ccfacbd38feea31a39f643ade"
+msgid "ID=710403550"
+msgstr ""
+
+msgctxt "a21886599cb50e7af057f66b4392ca1b"
+msgid "[설계도]언포기븐 바이스 바디"
+msgstr ""
+
+msgctxt "1b918526e20f956f9a99e258e8feabee"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [언포기븐 바이스 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "8ab9b58bd7ff8e13815de710bc81efb9"
+msgid "ID=710423450"
+msgstr ""
+
+msgctxt "ef74f4690752024601d35ed1eb6923f7"
+msgid "[설계도]가디언즈 아이언 바디"
+msgstr ""
+
+msgctxt "68799dcb901f6bb61c82d501fcaca570"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [가디언즈 아이언 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "319ed361de153722bc44a97bc942ccc8"
+msgid "ID=710433550"
+msgstr ""
+
+msgctxt "f682b4ab3e2f2f0e584c591ef60eb3af"
+msgid "[설계도]헤비 메탈 바디"
+msgstr ""
+
+msgctxt "2b074fc48c32ffb27ba68c569aa7e0b0"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [헤비 메탈 바디]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "76778ee00780ede0e4fc5b7672991dda"
+msgid "ID=710443450"
+msgstr ""
+
+msgctxt "3a3ad57da517fc53544689650f40ed6c"
+msgid "[설계도]제런트 크롬 바디"
+msgstr ""
+
+msgctxt "682782d6e21a6b67f1e5f41797716224"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [제런트 크롬 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c0de91760e89548d0e1d86b472aad9dc"
+msgid "ID=710453550"
+msgstr ""
+
+msgctxt "de543da635365b3079ce567fd5c0f63c"
+msgid "[설계도]바디 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "7c12350204a24eeed14042b77567b8f8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [바디 타입 브로큰 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f76eb03f3ba93fd232134424a65e7805"
+msgid "ID=710463450"
+msgstr ""
+
+msgctxt "fcc9316021b7d3f954ac08763cb30e90"
+msgid "[설계도]카니지 메탈 바디"
+msgstr ""
+
+msgctxt "f5e8215de206e8599951e661da60aed5"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [카니지 메탈 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "634999f1a349a744b0e3b14adde6c017"
+msgid "ID=710473550"
+msgstr ""
+
+msgctxt "1005a2a88813fd81e0a019152f720f8f"
+msgid "[설계도]에어리얼 림 바디"
+msgstr ""
+
+msgctxt "e5b80a49632e6c7650da92efd01a1f9e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [에어리얼 림 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e75e025ca3da96fd0f85ded6bc2169b1"
+msgid "ID=710483450"
+msgstr ""
+
+msgctxt "706c8af34521acbb43dab33c905a9b2d"
+msgid "[설계도]브레이버 바디"
+msgstr ""
+
+msgctxt "c08ddfc46ce16a88a5444a9ba41d8124"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [브레이버 바디]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "7a0ebde919eb180f133bbc8bcab02460"
+msgid "ID=710493550"
+msgstr ""
+
+msgctxt "2d7bba617315e66347b6f877d7816a72"
+msgid "[설계도]기간테스 코어 바디"
+msgstr ""
+
+msgctxt "85a9bf4ef1df85b240405966d548cc34"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [기간테스 코어 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "fe84c557242a51c6c6d5fa55e651f0d5"
+msgid "ID=710503450"
+msgstr ""
+
+msgctxt "bc1e3aefeff22c8eb796fc7bf61d490b"
+msgid "[설계도]판타즈말 카본 바디"
+msgstr ""
+
+msgctxt "fd4fb74db2f601c645e8086a980f4661"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [판타즈말 카본 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d15335b6a0135a1da77e555341d132d6"
+msgid "ID=710513550"
+msgstr ""
+
+msgctxt "a2026b4d4c805283cc491458da80c5dd"
+msgid "[설계도]바디 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "842065038cbd6016919814f50ea90e8a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [바디 타입 퀸즈 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e91b35cc3f2ceefc9d4810f82a43ddda"
+msgid "ID=710523450"
+msgstr ""
+
+msgctxt "174859d65a65e4e31e8fa83ed487b6e6"
+msgid "[설계도]레클리스 원 바디"
+msgstr ""
+
+msgctxt "0348ab2899bc21a0a4d7291651aaae59"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [레클리스 원 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "88c40aaacfbe4abffd39074214de538c"
+msgid "ID=710533550"
+msgstr ""
+
+msgctxt "db03f56d067fd2d75903034e5c2c8b44"
+msgid "[설계도]넘버리스 레이 바디"
+msgstr ""
+
+msgctxt "723f0113aa35e7f7d65d7d7a5013eb4d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [넘버리스 레이 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4b68fd68ce05da5de615d7a5444fa15e"
+msgid "ID=710543450"
+msgstr ""
+
+msgctxt "13d90c2e9a3b85dae6575c58cfe5cec8"
+msgid "[설계도]루미너시티 바디"
+msgstr ""
+
+msgctxt "c3daa82bdb8fed6923996da2f27f6503"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [루미너시티 바디]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "e68b09165f3acac6916dcd507b254018"
+msgid "ID=710553550"
+msgstr ""
+
+msgctxt "062e0de61ddb038e887e752666eb1037"
+msgid "[설계도]글레어즈 포스 바디"
+msgstr ""
+
+msgctxt "fc23394c28b8c23c2c8e28ea255d25cb"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [글레어즈 포스 바디]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "7af5e944ae1ff0ecea8668eb9994b6df"
+msgid "ID=710123460"
+msgstr ""
+
+msgctxt "a7dfe2e40e8b372031529ac97aa4c0e6"
+msgid "[설계도]매드 클로운 레그"
+msgstr ""
+
+msgctxt "d753df1769d278d474c50068a46320b8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [매드 클로운 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "325efe0960ecc6dff81d15302957c9e6"
+msgid "ID=710133560"
+msgstr ""
+
+msgctxt "da29163b42130d2d4357fdafd94b2245"
+msgid "[설계도]할리퀸 위어드 레그"
+msgstr ""
+
+msgctxt "dc1af0079e60a20b1cc8078803ff2f96"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [할리퀸 위어드 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "79756cc93c48f7d1e33ea0ce117ecc4b"
+msgid "ID=710153460"
+msgstr ""
+
+msgctxt "a8c4579dadfc6ba9e1f2687412ece123"
+msgid "[설계도]퀘이크 스토커 레그"
+msgstr ""
+
+msgctxt "7186e1df3137b529e313519a828a30b2"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [퀘이크 스토커 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f6500bbfef86db0902ef2d5555ce337c"
+msgid "ID=710163560"
+msgstr ""
+
+msgctxt "a760870edfb341ef9bbc9358ae0d6867"
+msgid "[설계도]록 프로텍트 레그"
+msgstr ""
+
+msgctxt "96b2487bc6d41356dd00301c434f1864"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [록 프로텍트 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "f7e117a099ca6867935209535e0cd1f2"
+msgid "ID=710173460"
+msgstr ""
+
+msgctxt "56affaa1c5fbf4df99a1d47f61698d9d"
+msgid "[설계도]정크 프로텍트 레그"
+msgstr ""
+
+msgctxt "a18893b9e6586dc677fef159fa037f5c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [정크 프로텍트 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "df63442bbd30832a137f91c0deaf1655"
+msgid "ID=710183560"
+msgstr ""
+
+msgctxt "68118758d95679d0cc32c58dbee392f7"
+msgid "[설계도]커렵션 프로텍트 레그"
+msgstr ""
+
+msgctxt "6d26305bc478d53ae8e849a23daf55b3"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [커렵션 프로텍트 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c439fdafaeddfad983d455659216cfc6"
+msgid "ID=710203460"
+msgstr ""
+
+msgctxt "178d566292a5408654080563b1251f22"
+msgid "[설계도]인섹트 슬레이어 레그"
+msgstr ""
+
+msgctxt "4af0499cbf15ff27f3b4ccb1b1f06830"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [인섹트 슬레이어 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "98fe5f0873f4f6d6f7bb41bc82f6852f"
+msgid "ID=710213560"
+msgstr ""
+
+msgctxt "71310aea479c91b49343b1eb483e714d"
+msgid "[설계도]아라크니드 레그"
+msgstr ""
+
+msgctxt "00aaa0f70f9965c99bd57c834efd9085"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [아라크니드 레그]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "205c0eef7b9ef91c63e71e652936f35b"
+msgid "ID=710223460"
+msgstr ""
+
+msgctxt "79652e74126b3e124f4128d93c09be1b"
+msgid "[설계도]뮤턴트 플랙 레그"
+msgstr ""
+
+msgctxt "aaa8d69c07aa74389b0840653716c160"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [뮤턴트 플랙 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e14a77426426db748a188b8a450cb0da"
+msgid "ID=710233560"
+msgstr ""
+
+msgctxt "bd3237b5dda40c41ee3bbd93ddc9f7d2"
+msgid "[설계도]사일런트 위트니스 레그"
+msgstr ""
+
+msgctxt "ff0ab92605f5123ba12642b8403e729f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [사일런트 위트니스 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "207f50c22afc70af557659dbee95af12"
+msgid "ID=710253460"
+msgstr ""
+
+msgctxt "538347b8676f2b14fe192d2835d3bafa"
+msgid "[설계도]에어레이드 레그"
+msgstr ""
+
+msgctxt "324a4fbf7276bf4acb4417de202f0726"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [에어레이드 레그]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "071fc399189809ffac1a07856f7ca941"
+msgid "ID=710263560"
+msgstr ""
+
+msgctxt "551af6bd5244a8c956367304d462d02c"
+msgid "[설계도]할로우 하츠 레그"
+msgstr ""
+
+msgctxt "749ccc9e02b41d929fd4ad067d5026ec"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [할로우 하츠 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "6663994dfc34274ae76b94ccc96a8ea4"
+msgid "ID=710273460"
+msgstr ""
+
+msgctxt "9098690f03369a85462b44df85a06c02"
+msgid "[설계도]콜로설즈 리파인 레그"
+msgstr ""
+
+msgctxt "a89fe71faa1804f688b8515b39fcce5b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [콜로설즈 리파인 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "fae5fb55e9b2663020c4f40c587a1f86"
+msgid "ID=710283560"
+msgstr ""
+
+msgctxt "7c12e9995431591bc39bb7de5dde43c3"
+msgid "[설계도]비셔스 블럿쉬드 레그"
+msgstr ""
+
+msgctxt "a7e5a0c50f408e0da73024af98d6c174"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [비셔스 블럿쉬드 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "e2da96c6007e805d174fed597ada6088"
+msgid "ID=710293460"
+msgstr ""
+
+msgctxt "11cdd7a82f6c96be2130c22bbff9b107"
+msgid "[설계도]인트루더 레그"
+msgstr ""
+
+msgctxt "dc114031857f124cc333323eeaac538d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [인트루더 레그]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "d1bf572c3ef63cbba5f52689bccf80e2"
+msgid "ID=710303560"
+msgstr ""
+
+msgctxt "b3b3ad6aea87e6296ea0d7f33e11ca82"
+msgid "[설계도]베노머스 아이돌 레그"
+msgstr ""
+
+msgctxt "6d292d52c08408f949940e92c436f82c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [베노머스 아이돌 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "481c863566c5da4df5a57ba8e899c9c6"
+msgid "ID=710313460"
+msgstr ""
+
+msgctxt "9655551cdf4a46b30f92e1396dc99445"
+msgid "[설계도]헌터 리퓨즈 레그"
+msgstr ""
+
+msgctxt "7604a0501f059a66e2483cdbb92370b1"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [헌터 리퓨즈 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "9580be92d38df9fb8fbc8ffb3c906088"
+msgid "ID=710323560"
+msgstr ""
+
+msgctxt "33f2ea1e3d49096ada459e2ad5da1330"
+msgid "[설계도]어스튜드 워리어 레그"
+msgstr ""
+
+msgctxt "0322906fe154577b1e99ceecb8600f9e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [어스튜드 워리어 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "3e179c2fecdbe4d95b94fe5fbe7f8dad"
+msgid "ID=710343460"
+msgstr ""
+
+msgctxt "8bfeaa33b7a49f16e22410ba4def5a48"
+msgid "[설계도]엔드리스 벤데타 레그"
+msgstr ""
+
+msgctxt "1ff8a05831d3d5b995567471259c56eb"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [엔드리스 벤데타 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "1c0f2769d11ffe84dbff49d35d897fc6"
+msgid "ID=710353560"
+msgstr ""
+
+msgctxt "5e8e3e7ae830241df74f729206a1fc21"
+msgid "[설계도]어벤던드 러스트 레그"
+msgstr ""
+
+msgctxt "2f62e41c4bca168f42cfc14ac0e98e0e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [어벤던드 러스트 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "ef5a98f34f87a88c02c8bc6e2434b5f9"
+msgid "ID=710373460"
+msgstr ""
+
+msgctxt "b85a26842512070120935f6c721154d3"
+msgid "[설계도]크림슨 헤이스티 레그"
+msgstr ""
+
+msgctxt "63c45ee0a7f8ab0d654e48ff3f2a6572"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [크림슨 헤이스티 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "654ca85b502fb440e387ebc0db9c83f9"
+msgid "ID=710383560"
+msgstr ""
+
+msgctxt "8899aeb86921ff2915d4bbce64c2d32e"
+msgid "[설계도]블러디 와이트 레그"
+msgstr ""
+
+msgctxt "8a15103e0cdc820266dc8a090f19c8e2"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [블러디 와이트 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a7465b238e2e273815602c3ac07e19d8"
+msgid "ID=710393460"
+msgstr ""
+
+msgctxt "eec171ba230ddccc5936496e0dd5ab94"
+msgid "[설계도]디터먼트 바이스 레그"
+msgstr ""
+
+msgctxt "d0049add93343127667eef2aa35744f6"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [디터먼트 바이스 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "246857051a64ce58c759aadc55f9a5a6"
+msgid "ID=710403560"
+msgstr ""
+
+msgctxt "1475b354bff9b04f0059009f0fc073b0"
+msgid "[설계도]언포기븐 바이스 레그"
+msgstr ""
+
+msgctxt "b0e3ccfb78e1ab7a09b09a8a4da05839"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [언포기븐 바이스 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "4825c61878634ebb2417a49db702a992"
+msgid "ID=710423460"
+msgstr ""
+
+msgctxt "05736d6b41e8eba8f6983830b220ba81"
+msgid "[설계도]가디언즈 아이언 레그"
+msgstr ""
+
+msgctxt "5df52d8e7fac3e403db9a877eb188822"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [가디언즈 아이언 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "04f5f8b081cb19bc395970e3a5c13711"
+msgid "ID=710433560"
+msgstr ""
+
+msgctxt "c41684b8d97f797294bdf342cf693700"
+msgid "[설계도]헤비 메탈 레그"
+msgstr ""
+
+msgctxt "ad549a6714bceacf1b1d8137d4faaa86"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [헤비 메탈 레그]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "a1c13817626a53330ae00fe8a8e6dfd8"
+msgid "ID=710443460"
+msgstr ""
+
+msgctxt "d4519679a9fab35d9f6c5fb30d5982c2"
+msgid "[설계도]제런트 크롬 레그"
+msgstr ""
+
+msgctxt "0c8cbe2bc6b1226317660724c22ac2ff"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [제런트 크롬 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d646c1e05586d6c1f1e273a398eb77f0"
+msgid "ID=710453560"
+msgstr ""
+
+msgctxt "716e107819155b3221d48a8b5f1a6cad"
+msgid "[설계도]레그 타입 브로큰 아크"
+msgstr ""
+
+msgctxt "3cc928071d98d5a0795fd0fc08aab91e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [레그 타입 브로큰 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "6ca36aaf2eb7e5d473ea4add40c9bc9c"
+msgid "ID=710463460"
+msgstr ""
+
+msgctxt "0799bf67857219f75dcee72f5b2b1e14"
+msgid "[설계도]카니지 메탈 레그"
+msgstr ""
+
+msgctxt "ac61fa7ffa9b5541f4ed3fdb47fd18cd"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [카니지 메탈 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "80b6235ed967c815b507672b0ee73366"
+msgid "ID=710473560"
+msgstr ""
+
+msgctxt "a762e664cce5f5f033e3f2e1d72236de"
+msgid "[설계도]에어리얼 림 레그"
+msgstr ""
+
+msgctxt "270d12315f91353b81f21ecaf015ddc4"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [에어리얼 림 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d273104384b21d891d8001805c32d04a"
+msgid "ID=710483460"
+msgstr ""
+
+msgctxt "403484d4a6e5402ca3db062da09a8a82"
+msgid "[설계도]브레이버 레그"
+msgstr ""
+
+msgctxt "9a0f8e8b3faab7b4a58859079e6624c1"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [브레이버 레그]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "b8782caecf832016c641fa9dd5ce2989"
+msgid "ID=710493560"
+msgstr ""
+
+msgctxt "6541abf0417131bc6afd9b30d1d09179"
+msgid "[설계도]기간테스 코어 레그"
+msgstr ""
+
+msgctxt "f6562184e827f5904ca9fd606e26e88a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [기간테스 코어 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "3c436b83acae0d77ea968bb0c66382df"
+msgid "ID=710503460"
+msgstr ""
+
+msgctxt "bdff9c190d9a915d02f354c39c6295e5"
+msgid "[설계도]판타즈말 카본 레그"
+msgstr ""
+
+msgctxt "f29d5e33c4c20deab72ab35862cef8be"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [판타즈말 카본 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "da6535e9f4c994f52aa7789e826b280e"
+msgid "ID=710513560"
+msgstr ""
+
+msgctxt "88a391979cbae3b4a49fb937bd05f317"
+msgid "[설계도]레그 타입 퀸즈 아크"
+msgstr ""
+
+msgctxt "d13dde2362eb49fe3206df01a85dec8a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [레그 타입 퀸즈 아크]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "300e49f9c1904bb0a1914f12635b4d0f"
+msgid "ID=710523460"
+msgstr ""
+
+msgctxt "b758721b35fbb19d8f68c9535e43d8a6"
+msgid "[설계도]레클리스 원 레그"
+msgstr ""
+
+msgctxt "f1b7f2f9a5cbdc4fe8354c1164f4334f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [레클리스 원 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d74d40f4951eeeae4faac826c013de01"
+msgid "ID=710533560"
+msgstr ""
+
+msgctxt "66597d832e03bfda7d61cd39691e2a41"
+msgid "[설계도]넘버리스 레이 레그"
+msgstr ""
+
+msgctxt "3ec1f86ac39b74dbdf820d6e3fdd0fbe"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [넘버리스 레이 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "7f667e3ab026f9da8739eeddc315d9a0"
+msgid "ID=710543460"
+msgstr ""
+
+msgctxt "abe666ffc88d916966456cd174f7a3b5"
+msgid "[설계도]루미너시티 레그"
+msgstr ""
+
+msgctxt "c3e67850b4375e81956f7c70fa4da95d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [루미너시티 레그]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "016aaf4b2c2170101d7029ef2d872584"
+msgid "ID=710553560"
+msgstr ""
+
+msgctxt "d6b1e0c8cdec6d64aae8b9c701e5abd4"
+msgid "[설계도]글레어즈 포스 레그"
+msgstr ""
+
+msgctxt "ab9e1e732b9e71b10bb82ec1a09afe8c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [글레어즈 포스 레그]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "95a9353aadd4a2801351035f7c8973f9"
+msgid "ID=711043210"
+msgstr ""
+
+msgctxt "a5413c7df64948090152cb872c87fb5c"
+msgid "[설계도]제니스 커스텀 소드"
+msgstr ""
+
+msgctxt "6684b16ccd9742c075af4f02f33d936b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [제니스 커스텀 소드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "b15bd9607b6f43d529bb7bc0035b81ed"
+msgid "ID=712043210"
+msgstr ""
+
+msgctxt "c3e7315938249a046296a554b11fcec5"
+msgid "[설계도]제니스 커스텀 건"
+msgstr ""
+
+msgctxt "f93cfba0678418b7423f9c2f07e6c43a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [제니스 커스텀 건]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "aa59a5c1c0d200ca94e5415b72e7d0f9"
+msgid "ID=713043210"
+msgstr ""
+
+msgctxt "10ee748e07c4ed25975d013aad36b693"
+msgid "[설계도]제니스 커스텀 사이드"
+msgstr ""
+
+msgctxt "e9b196f8fc5d0ca1e6aa582436c0a2ce"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [제니스 커스텀 사이드]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "8465096fb8b9cbec55e1fca87c5acf71"
+msgid "ID=715043210"
+msgstr ""
+
+msgctxt "3257ddac9740648446a5a17efe5048e8"
+msgid "[설계도]제니스 커스텀 기타"
+msgstr ""
+
+msgctxt "da8d403c7ee9bd3271a83592d010b9e7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [제니스 커스텀 기타]의 "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "161cec5b4baf8312511e67e51530a5df"
+msgid "ID=710093250"
+msgstr ""
+
+msgctxt "a8b9700e6ec550067b2811cddc6c7fe1"
+msgid "[설계도]포레스트 키퍼 바디"
+msgstr ""
+
+msgctxt "7f84aeec965484aae10ab3fd1317cdbd"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [포레스트 키퍼]의 제작에 "
+"필요한 설계도"
+msgstr ""
+
+msgctxt "cbd044401009c3c9d5c8457896e94620"
+msgid "ID=160211001"
+msgstr ""
+
+msgctxt "f1bea8f69602164711e0a7b4f572eece"
+msgid " 공격형 SD : 호크아이"
+msgstr ""
+
+msgctxt "158bbf3f4f8a8059a45fca7d49f5c5c9"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 공격 능력 상승]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 가장 하급의 브로치이며, 공격 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+
+msgctxt "0fad4340c31f239e01ef001acbd2fa22"
+msgid "ID=160211002"
+msgstr ""
+
+msgctxt "5d9d831555b939c6684abb95ddd73941"
+msgid " 공격형 SD : 페이탈"
+msgstr ""
+
+msgctxt "6a446beeef6a7e0dcc399718c619f692"
+msgid "ID=160211003"
+msgstr ""
+
+msgctxt "7caf0788e57e050f9370b98ea1dadc02"
+msgid " 공격형 SD : 브레이커"
+msgstr ""
+
+msgctxt "c20bf0a5968528647db4fadafdda0634"
+msgid "ID=160211004"
+msgstr ""
+
+msgctxt "4ba01074ec2852be857f3660351fc7a3"
+msgid " 공격형 SD : 멜터"
+msgstr ""
+
+msgctxt "6963611f512a9efa8a93bdd01d74af98"
+msgid "ID=160211005"
+msgstr ""
+
+msgctxt "912ff5bb4f3e145529c24270a2f12991"
+msgid " 공격형 SD : 어테커"
+msgstr ""
+
+msgctxt "ff920fbd931ddc3fcf2da27888d746a0"
+msgid "ID=160211006"
+msgstr ""
+
+msgctxt "2cc412c5187c1a6bbdcd7601ee22dcd4"
+msgid " 공격형 SD : 슈라프넬"
+msgstr ""
+
+msgctxt "46216e27380c94b8d2833375d66dbbb3"
+msgid "ID=160211007"
+msgstr ""
+
+msgctxt "3af7a9b3d29ea8c2e8ad7735b4c8148a"
+msgid " 공격형 SD : 번"
+msgstr ""
+
+msgctxt "24d41670b88bd6d40e6f5be0c65ee169"
+msgid "ID=160211008"
+msgstr ""
+
+msgctxt "59bbc2e8277bf35b823f9b8a90a6e6c8"
+msgid " 공격형 SD : 오버히트"
+msgstr ""
+
+msgctxt "34340185369a76eade3a9a99518cb30f"
+msgid "ID=160211009"
+msgstr ""
+
+msgctxt "d6dd667a95f0c48b153f8666859ac689"
+msgid " 공격형 SD : 피어스"
+msgstr ""
+
+msgctxt "e217aa4c6aaa3cacb04cb3c1085b6623"
+msgid "ID=160211010"
+msgstr ""
+
+msgctxt "954b65b9dfd022bbd086fd4c4878b04b"
+msgid " 공격형 SD : 페너트레이션"
+msgstr ""
+
+msgctxt "b30160a885bc26a9dbd4f6c1752216d7"
+msgid "ID=160211011"
+msgstr ""
+
+msgctxt "8737b27379668c5f5eb54b91fad9a077"
+msgid " 공격형 SD : 호넷"
+msgstr ""
+
+msgctxt "d1d2134bfc1e39d0f50266b9f6a553f2"
+msgid "ID=160211012"
+msgstr ""
+
+msgctxt "3c06a686ebc41940fd521dcc848bfb2e"
+msgid " 공격형 SD : 스톰프"
+msgstr ""
+
+msgctxt "61ded4da215dc3fa042810e43d72f522"
+msgid "ID=160212001"
+msgstr ""
+
+msgctxt "aca026cc2285cd5d9d3435a2ebfb1187"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 공격 능력 상승]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 하급의 브로치이며, 공격 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+
+msgctxt "dad359b6def07a32b2bde6c35e1854d6"
+msgid "ID=160212002"
+msgstr ""
+
+msgctxt "e6a1770c19085dec37552150b7090a60"
+msgid "ID=160212003"
+msgstr ""
+
+msgctxt "799f49f92ff34b6f8f6e8e5dc8b5a816"
+msgid "ID=160212004"
+msgstr ""
+
+msgctxt "282f3a8671fc6c247d42d32f737230e1"
+msgid "ID=160212005"
+msgstr ""
+
+msgctxt "609172394d0f3eeba5c0a1853a1cfc17"
+msgid "ID=160212006"
+msgstr ""
+
+msgctxt "008be96230e0bb810cc313007f79b9b5"
+msgid "ID=160212007"
+msgstr ""
+
+msgctxt "b8260ef4dc08630de4c95216be06d91c"
+msgid "ID=160212008"
+msgstr ""
+
+msgctxt "fb8f54fa459ecfd5eb8138ef7f322f65"
+msgid "ID=160212009"
+msgstr ""
+
+msgctxt "3bb0bf1a98d7a11fbbc29c6810c3f5f8"
+msgid "ID=160212010"
+msgstr ""
+
+msgctxt "d478e5d0012b55df188fd677d9502b2c"
+msgid "ID=160212011"
+msgstr ""
+
+msgctxt "6d00758384ce685f959f6aa0dc995a9e"
+msgid "ID=160212012"
+msgstr ""
+
+msgctxt "d0f20f941107b803085034fedd72bbe3"
+msgid "ID=160213001"
+msgstr ""
+
+msgctxt "d7a83cfa4c878cfcdf407dbe401e0c0d"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 공격 능력 상승]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 중급의 브로치이며, 공격 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+
+msgctxt "c6384809a36f71862e86ca5a71133546"
+msgid "ID=160213002"
+msgstr ""
+
+msgctxt "c2cf29bccd92ecdee327b41163de6b97"
+msgid "ID=160213003"
+msgstr ""
+
+msgctxt "9c31b8a3a44d37cd45f99593d3b75aff"
+msgid "ID=160213004"
+msgstr ""
+
+msgctxt "a1133a28d579221d108e4577f138e75b"
+msgid "ID=160213005"
+msgstr ""
+
+msgctxt "5a158e92af31c73a88fe5922870ae413"
+msgid "ID=160213006"
+msgstr ""
+
+msgctxt "59aac50e62b7e2b8dd8bd40282bd86a2"
+msgid "ID=160213007"
+msgstr ""
+
+msgctxt "46625b44c612084b0bc42ce53cdaac97"
+msgid "ID=160213008"
+msgstr ""
+
+msgctxt "0f7e74bff0e5727714e6ffbe67de879f"
+msgid "ID=160213009"
+msgstr ""
+
+msgctxt "111c5638f52355a360687dc209df34ac"
+msgid "ID=160213010"
+msgstr ""
+
+msgctxt "441463b8ad7a492ce87127b97d15e1c4"
+msgid "ID=160213011"
+msgstr ""
+
+msgctxt "92d1307e35d996c814f5a9f5004ee8a5"
+msgid "ID=160213012"
+msgstr ""
+
+msgctxt "c2aaaa68d2f1b43054da79d895702fc4"
+msgid "ID=160214001"
+msgstr ""
+
+msgctxt "78b3cb618fe24d4e07c014e3fd0220a1"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 공격 능력 상승]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 상급의 브로치이며, 공격 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+
+msgctxt "53001f51b979c7c2f1a308314cb40e62"
+msgid "ID=160214002"
+msgstr ""
+
+msgctxt "7529e6554ef970384b4ff1837a3524da"
+msgid "ID=160214003"
+msgstr ""
+
+msgctxt "c34aa859cf8a5a5093a0b72f2959bf09"
+msgid "ID=160214004"
+msgstr ""
+
+msgctxt "c61a13360cc32c89c663ef7f084978a2"
+msgid "ID=160214005"
+msgstr ""
+
+msgctxt "55014f77ac543caf13b98ee2666f518d"
+msgid " 공격형 SD : 슬러터"
+msgstr ""
+
+msgctxt "8fe2dbbbf4ccddc0db9c08810a1de840"
+msgid "ID=160214006"
+msgstr ""
+
+msgctxt "83fbd9b3dcba1e17b9cf83e205593552"
+msgid " 공격형 SD : 발러"
+msgstr ""
+
+msgctxt "9c9836e4af0c1d5991d046a8996fe43d"
+msgid "ID=160214007"
+msgstr ""
+
+msgctxt "b40d113781dd821fe44b7568c09e3848"
+msgid " 공격형 SD : 어썰트"
+msgstr ""
+
+msgctxt "6baa4ee0b3dbe84600038a4a79858a39"
+msgid "ID=160214008"
+msgstr ""
+
+msgctxt "5a75fd70881e507f2a6746c77da5fe14"
+msgid "ID=160214009"
+msgstr ""
+
+msgctxt "0e20c5134ad5355449e4421b541bf468"
+msgid "ID=160214010"
+msgstr ""
+
+msgctxt "f3e9a20d28d426fbac95ff1a4c881f50"
+msgid "ID=160214011"
+msgstr ""
+
+msgctxt "c51b3ff41d7eff1bab14f7f7fe87d65f"
+msgid "ID=160214012"
+msgstr ""
+
+msgctxt "ba3764cf241056b423d4016809a539ce"
+msgid "ID=160214013"
+msgstr ""
+
+msgctxt "bf33b13c8dda5e97f35814ed1292afa0"
+msgid "ID=160214014"
+msgstr ""
+
+msgctxt "81d08894e0b1cc0dab98bb232ac556d6"
+msgid "ID=160214015"
+msgstr ""
+
+msgctxt "af0b0b07fab335ef534145eab727955c"
+msgid "ID=160215001"
+msgstr ""
+
+msgctxt "322850c0ab0b7ca3c5e025b21af3522d"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 공격 능력 상승]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 최상급의 브로치이며, 공격 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+
+msgctxt "4ccd59f8f6d4d5f4048eaad1654e5b2e"
+msgid "ID=160215002"
+msgstr ""
+
+msgctxt "c5cfc17f85ecd6a89fdf09108a17bade"
+msgid "ID=160215003"
+msgstr ""
+
+msgctxt "5c572bf20708f98b8eae0e4d6b503df4"
+msgid "ID=160215004"
+msgstr ""
+
+msgctxt "b4b68bce85f5c72466eccacfddc69e99"
+msgid "ID=160215005"
+msgstr ""
+
+msgctxt "e1ee34be1fd8b0c8e21d9c875396a8d6"
+msgid "ID=160215006"
+msgstr ""
+
+msgctxt "9ff2984487def0fdbc263b138f4b8085"
+msgid "ID=160215007"
+msgstr ""
+
+msgctxt "43f844e9d9f13357c04af5c6fbf762ba"
+msgid "ID=160215008"
+msgstr ""
+
+msgctxt "bbc5cdcfa8533582f24dcaa6ae81d208"
+msgid "ID=160215009"
+msgstr ""
+
+msgctxt "e261fffb7ebb281154577b67eae647e4"
+msgid "ID=160215010"
+msgstr ""
+
+msgctxt "b7cd26fd4c3f07e2315e938742cf23f2"
+msgid "ID=160215011"
+msgstr ""
+
+msgctxt "c3ea1b62ce75deb8092fa566ce2ad438"
+msgid "ID=160215012"
+msgstr ""
+
+msgctxt "a36ca0e64eea607765f2873b34fdd219"
+msgid "ID=160215013"
+msgstr ""
+
+msgctxt "057984e813b687ee9a90929999d51e42"
+msgid "ID=160215014"
+msgstr ""
+
+msgctxt "3736313d89bf0fde0bd8d5808ed51401"
+msgid "ID=160215015"
+msgstr ""
+
+msgctxt "58cd25dfe98b18dd8976b30cec028ec9"
+msgid "ID=160221001"
+msgstr ""
+
+msgctxt "5f0a2ed52cdd6f2e7ae373597e006e7f"
+msgid " 방어형 SD : 아머"
+msgstr ""
+
+msgctxt "1bd5aa86d09c9bf1cde22bf32fdf7bbd"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 방어 능력 상승]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 가장 하급의 브로치이며, 방어 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+
+msgctxt "f1fc2f59f57f7446a9f0aba7fe3835bd"
+msgid "ID=160221002"
+msgstr ""
+
+msgctxt "bf831ecb5dcf8ef76ea51d938e6e314b"
+msgid " 방어형 SD : 인듀어"
+msgstr ""
+
+msgctxt "51cbc4a227651b082b1548ab9b31fc40"
+msgid "ID=160221003"
+msgstr ""
+
+msgctxt "aac0a52748e21de89ccb57d9f59079ff"
+msgid " 방어형 SD : 블러"
+msgstr ""
+
+msgctxt "44ca847c64b7d3fc893fd0ca840b6ed4"
+msgid "ID=160221004"
+msgstr ""
+
+msgctxt "545461a753e1057eb537dc4846326798"
+msgid " 방어형 SD : 고스트"
+msgstr ""
+
+msgctxt "dcf77cb50d73ecee961d3f3f5cc30065"
+msgid "ID=160221005"
+msgstr ""
+
+msgctxt "c47be9273ff25adc12084a92735ec33f"
+msgid " 방어형 SD : 골리앗"
+msgstr ""
+
+msgctxt "02f25e8d7913c0690b2b9718ad80cbdf"
+msgid "ID=160221006"
+msgstr ""
+
+msgctxt "9e3784821703a3ad2bab013d8d4654fd"
+msgid " 방어형 SD : 노틸러스"
+msgstr ""
+
+msgctxt "b76fa3a1cd06b12f331a45286a607bfd"
+msgid "ID=160221007"
+msgstr ""
+
+msgctxt "437ed3cf3e2afff20e7088e236f4b631"
+msgid " 방어형 SD : 스패로우"
+msgstr ""
+
+msgctxt "860a23f929874811f0f1e3ae84031e88"
+msgid "ID=160221008"
+msgstr ""
+
+msgctxt "bc2986f4b9a7b430b13cbaa78a65f30d"
+msgid " 방어형 SD : 크러스트"
+msgstr ""
+
+msgctxt "c7e179dc36dd3b936840458ebd539a5a"
+msgid "ID=160221009"
+msgstr ""
+
+msgctxt "0596f9fc4431d8aa927f40189a71ce78"
+msgid " 방어형 SD : 일루젼"
+msgstr ""
+
+msgctxt "efc412dfeeae83da88999a950143a517"
+msgid "ID=160221010"
+msgstr ""
+
+msgctxt "b1c8519a2fc8dab655c118f66c20ca4f"
+msgid " 방어형 SD : 팬텀"
+msgstr ""
+
+msgctxt "027fe1fca85934c7a35bac3ba3086f3f"
+msgid "ID=160221011"
+msgstr ""
+
+msgctxt "f2652d89a57da892c639e87cf67ba570"
+msgid " 방어형 SD : 트롤"
+msgstr ""
+
+msgctxt "fc13877546a358c5975cb1fa8f4ac99d"
+msgid "ID=160221012"
+msgstr ""
+
+msgctxt "32fd82187238ce1a5ddbfccdb4eb3be6"
+msgid " 방어형 SD : 바이탈"
+msgstr ""
+
+msgctxt "9a4f9b29dcfac0b7cfd1c33b48c804eb"
+msgid "ID=160222001"
+msgstr ""
+
+msgctxt "835ae90f615b9134d2bb5856e5e9eb79"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 방어 능력 상승]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 하급의 브로치이며, 방어 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+
+msgctxt "3b7c8369d505ca2f01b6b4c13f744e61"
+msgid "ID=160222002"
+msgstr ""
+
+msgctxt "d483c5cd15b8f44c8b0851513c5ad8ab"
+msgid "ID=160222003"
+msgstr ""
+
+msgctxt "dc2e4c1c92788666d840873b95671960"
+msgid "ID=160222004"
+msgstr ""
+
+msgctxt "4f0edbaf5167fe215acf585212648a52"
+msgid "ID=160222005"
+msgstr ""
+
+msgctxt "05b0f338d7fa9f3f3c217ea101656e77"
+msgid "ID=160222006"
+msgstr ""
+
+msgctxt "ab0cdae39a964c2cf18a7c75332541df"
+msgid "ID=160222007"
+msgstr ""
+
+msgctxt "6fce7bbbfb7cdc7460a3a075c6d27910"
+msgid "ID=160222008"
+msgstr ""
+
+msgctxt "3d492307eca4d05950abb4be85bf58e0"
+msgid "ID=160222009"
+msgstr ""
+
+msgctxt "ea32fb88703ed1537015852463436a70"
+msgid "ID=160222010"
+msgstr ""
+
+msgctxt "9693496a04487bce8dcb3c5f204b2c95"
+msgid "ID=160222011"
+msgstr ""
+
+msgctxt "f91802f2f1a5506e3b81ed7332176d84"
+msgid "ID=160222012"
+msgstr ""
+
+msgctxt "74a5a07f6ab6801c42183ecababf3eda"
+msgid "ID=160223001"
+msgstr ""
+
+msgctxt "a5df464d80b8cc7b99cfcb170e36a592"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 방어 능력 상승]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 중급의 브로치이며, 방어 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+
+msgctxt "8312139d5c445fa71d632b1a161b966e"
+msgid "ID=160223002"
+msgstr ""
+
+msgctxt "fb07b150b2da95e9ffbf7054f23c7778"
+msgid "ID=160223003"
+msgstr ""
+
+msgctxt "8a064a0a41361eeadda7cfd1415d9645"
+msgid "ID=160223004"
+msgstr ""
+
+msgctxt "41d947da7a8cf2cad243221aed8fe422"
+msgid "ID=160223005"
+msgstr ""
+
+msgctxt "b908f581e7557f6db259791480d7d24a"
+msgid "ID=160223006"
+msgstr ""
+
+msgctxt "08923f6a48a5698cb16bc3f9e42c559c"
+msgid "ID=160223007"
+msgstr ""
+
+msgctxt "7fcff8fb11edf235077b18086845a92b"
+msgid "ID=160223008"
+msgstr ""
+
+msgctxt "e22220a1b8c2bbdf284f305a040a59e2"
+msgid "ID=160223009"
+msgstr ""
+
+msgctxt "1e28b72ceeb38e5d7278b359097577b5"
+msgid "ID=160223010"
+msgstr ""
+
+msgctxt "c8c74ee5d2d1d53aab71b1c488c7aab9"
+msgid "ID=160223011"
+msgstr ""
+
+msgctxt "81a3e9f570d9c8be9da3b1dbea4dbe6c"
+msgid "ID=160223012"
+msgstr ""
+
+msgctxt "7d334694cadf73a128d67f208c3b6b62"
+msgid "ID=160224001"
+msgstr ""
+
+msgctxt "c80777c5c108fff5b733036f6cf530f5"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 방어 능력 상승]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 상급의 브로치이며, 방어 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+
+msgctxt "48cd81689fcc4d88fd77bd626f3c8786"
+msgid "ID=160224002"
+msgstr ""
+
+msgctxt "5e433cc49e230cc8d07384f3d041d078"
+msgid "ID=160224003"
+msgstr ""
+
+msgctxt "2ed04a6fa9d447f531907e166caa1636"
+msgid "ID=160224004"
+msgstr ""
+
+msgctxt "273355f3c73b593f938473f840eee82a"
+msgid "ID=160224005"
+msgstr ""
+
+msgctxt "f79097fe8ab073f107900a23c9e93372"
+msgid "ID=160224006"
+msgstr ""
+
+msgctxt "3993c1821b296f361a51b3088aaff112"
+msgid "ID=160224007"
+msgstr ""
+
+msgctxt "9bedf2b670efd6c86c2d6902a3bc3b28"
+msgid "ID=160224008"
+msgstr ""
+
+msgctxt "7f986dc6e9f5db925cdcd8e294125545"
+msgid "ID=160224009"
+msgstr ""
+
+msgctxt "c2d0e0ef965c234096825d3f2da9f5ef"
+msgid "ID=160224010"
+msgstr ""
+
+msgctxt "8827f4c8096ed563b3b4fac415163029"
+msgid "ID=160224011"
+msgstr ""
+
+msgctxt "8045986fdfb605326caebc2fa5806041"
+msgid "ID=160224012"
+msgstr ""
+
+msgctxt "0cf8e118f8174bf5bd08492f1b0032e1"
+msgid "ID=160224013"
+msgstr ""
+
+msgctxt "3e4cd817c5fa2dccfdceca637b8e934e"
+msgid " 방어형 SD : 비거"
+msgstr ""
+
+msgctxt "01dd00b4ded1d9630439341486f24c79"
+msgid "ID=160224014"
+msgstr ""
+
+msgctxt "0877b33e8ecb37d01d9e52b7871e9f0f"
+msgid " 방어형 SD : 배리어"
+msgstr ""
+
+msgctxt "668352badd4ed97055ca20a68f1f6b18"
+msgid "ID=160224015"
+msgstr ""
+
+msgctxt "e32349704dc3fc79c10829516d5a3281"
+msgid " 방어형 SD : 가고일"
+msgstr ""
+
+msgctxt "34ada9e8f1fbb5e806f0f4b4e05b2520"
+msgid "ID=160225001"
+msgstr ""
+
+msgctxt "67e547558686d225f500fdd4947c6c30"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 방어 능력 상승]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 최상급의 브로치이며, 방어 관련의 능력을 상승시켜 준다.\\n "
+msgstr ""
+
+msgctxt "09c1a39e8f4d84850ff4b04ca4030d73"
+msgid "ID=160225002"
+msgstr ""
+
+msgctxt "28f9de3f30f512822dc4eef7f7fc2489"
+msgid "ID=160225003"
+msgstr ""
+
+msgctxt "3711128e003523e32563a0a729796884"
+msgid "ID=160225004"
+msgstr ""
+
+msgctxt "cdbe435606cd888a5e8c97c8234a7022"
+msgid "ID=160225005"
+msgstr ""
+
+msgctxt "d93d37f8f0e4c7b8d998c4faf4c97a14"
+msgid "ID=160225006"
+msgstr ""
+
+msgctxt "47989531e4e0541565b9e250def33411"
+msgid "ID=160225007"
+msgstr ""
+
+msgctxt "a6d44c17affcd8c91abfd9106aaebb1a"
+msgid "ID=160225008"
+msgstr ""
+
+msgctxt "7dae4a53fc229b445dbc277e9948402f"
+msgid "ID=160225009"
+msgstr ""
+
+msgctxt "3e6db80cfd3f42b427522f0e75ffd229"
+msgid "ID=160225010"
+msgstr ""
+
+msgctxt "c5cd1abf01a75b4ee7f0ba5541af6cb1"
+msgid "ID=160225011"
+msgstr ""
+
+msgctxt "a648cbb1320f4c807b97093fb3851157"
+msgid "ID=160225012"
+msgstr ""
+
+msgctxt "f9d985f7b65ef2e3a486519f4e704a05"
+msgid "ID=160225013"
+msgstr ""
+
+msgctxt "c271519349f7ba3295729881305bd070"
+msgid "ID=160225014"
+msgstr ""
+
+msgctxt "8ae450e7e276b10c3b6faaaca17c19d7"
+msgid "ID=160225015"
+msgstr ""
+
+msgctxt "e757b06e1c837960686d23984a61b474"
+msgid "ID=160231001"
+msgstr ""
+
+msgctxt "3514a62df61e89b5669e4a051feca13b"
+msgid " 기능형 SD : 뱀피릭"
+msgstr ""
+
+msgctxt "42566fbabad1e4d20c6224b19bb02f6d"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 특수 능력 발동]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 가장 하급의 브로치이며, 특별한 능력의 발동이 가능해진다.\\n "
+msgstr ""
+
+msgctxt "33ce0c8125149abde72ab57a1c5d852e"
+msgid "ID=160231002"
+msgstr ""
+
+msgctxt "1fa4ecb6432699df1a11f1c60402fea2"
+msgid " 기능형 SD : 랩터"
+msgstr ""
+
+msgctxt "5991efc0480d39381115f824f5792919"
+msgid "ID=160231003"
+msgstr ""
+
+msgctxt "02ccb215248f9b9da28eaad3f73cc798"
+msgid " 기능형 SD : 마칭"
+msgstr ""
+
+msgctxt "d13f6c3af5d61e22b306573627b13382"
+msgid "ID=160231004"
+msgstr ""
+
+msgctxt "02d7cd4bb8f3e3f39469d8b5de8dad52"
+msgid " 기능형 SD : 아이언"
+msgstr ""
+
+msgctxt "22c140501ec4dcab7bc559099a4480ec"
+msgid "ID=160231005"
+msgstr ""
+
+msgctxt "b1904ac4145a95d5f18e4a468c1a687f"
+msgid " 기능형 SD : 스웨이"
+msgstr ""
+
+msgctxt "571cc7987c6ddcf0fbce8f71fde43f4f"
+msgid "ID=160231006"
+msgstr ""
+
+msgctxt "beb9234ded78be611d13d6a7a44b9e50"
+msgid " 기능형 SD : 릴리프"
+msgstr ""
+
+msgctxt "1e41b71afc150262e820ae4f9752b95f"
+msgid "ID=160231007"
+msgstr ""
+
+msgctxt "2d4c10d3b3f96ff063407889d26a257a"
+msgid " 기능형 SD : 리치"
+msgstr ""
+
+msgctxt "832aa18574d7e429fd55ac44fc4210cf"
+msgid "ID=160231008"
+msgstr ""
+
+msgctxt "bebf0652c21807b347c35eaa358c0383"
+msgid " 기능형 SD : 스위프트"
+msgstr ""
+
+msgctxt "3652e962520f57ed664481c797634b11"
+msgid "ID=160231009"
+msgstr ""
+
+msgctxt "f672ebe1c0489c7cadc30d5112ac6807"
+msgid " 기능형 SD : 하드니스"
+msgstr ""
+
+msgctxt "e85e4c2fd4d3d9ed610d624debbe02b5"
+msgid "ID=160231010"
+msgstr ""
+
+msgctxt "3ea3d6cd095230c855fd40377057d594"
+msgid " 기능형 SD : 디파이언스"
+msgstr ""
+
+msgctxt "11f3302d96ffa70973e91c60ad62fd39"
+msgid "ID=160231011"
+msgstr ""
+
+msgctxt "bf06b3f9f268ab789fe65975a020a8c2"
+msgid " 기능형 SD : 아다먼트"
+msgstr ""
+
+msgctxt "f2c0bb1eb5669f47f1a804fd5e7451a6"
+msgid "ID=160231012"
+msgstr ""
+
+msgctxt "73d0149ad09116edbe817f9863c302ad"
+msgid " 기능형 SD : 헷지호그"
+msgstr ""
+
+msgctxt "36f72bb70bbb3ace733e672e4dc33262"
+msgid "ID=160232001"
+msgstr ""
+
+msgctxt "596972ccd461e2f862d472272207ecd5"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 특수 능력 발동]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 하급의 브로치이며, 특별한 능력의 발동이 가능해진다.\\n "
+msgstr ""
+
+msgctxt "7b73b72b1ee71ae66fe4621077236a62"
+msgid "ID=160232002"
+msgstr ""
+
+msgctxt "605ef6d319dfd0ba69667cae7aaa9ed8"
+msgid "ID=160232003"
+msgstr ""
+
+msgctxt "9ffcd983f4522be646bb35d41f41f34c"
+msgid "ID=160232004"
+msgstr ""
+
+msgctxt "ad56a4a0dafcb78bad3bede952c14a58"
+msgid "ID=160232005"
+msgstr ""
+
+msgctxt "bfc6335ffd895a1c748deffd64a520c8"
+msgid "ID=160232006"
+msgstr ""
+
+msgctxt "643b8baf37e3f386421e7688fa6cb958"
+msgid "ID=160232007"
+msgstr ""
+
+msgctxt "2bb476196a72cfe88705748141ab5c96"
+msgid "ID=160232008"
+msgstr ""
+
+msgctxt "e4513bdd328ffaa50dc2c12e9cd6d4cd"
+msgid "ID=160232009"
+msgstr ""
+
+msgctxt "22a55d60b8055e23aeeb1430dc50c590"
+msgid "ID=160232010"
+msgstr ""
+
+msgctxt "003ba37a2cf512ad3ae0a20cab4a83be"
+msgid "ID=160232011"
+msgstr ""
+
+msgctxt "357a08bf5c0231b8e2748c618dbb49a2"
+msgid "ID=160232012"
+msgstr ""
+
+msgctxt "10ff3dd5a0fda0a645b1822ed68da3b7"
+msgid "ID=160233001"
+msgstr ""
+
+msgctxt "b9b2ec64b9b2f96394f0348421f408c9"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 특수 능력 발동]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 중급의 브로치이며, 특별한 능력의 발동이 가능해진다.\\n "
+msgstr ""
+
+msgctxt "e873cbb1ea10cf10740dfd73a5e18053"
+msgid "ID=160233002"
+msgstr ""
+
+msgctxt "edb195ad15ae97cefb563179431db0b5"
+msgid "ID=160233003"
+msgstr ""
+
+msgctxt "ffc6b40fe1038b00292eed35eae0e62d"
+msgid "ID=160233004"
+msgstr ""
+
+msgctxt "6bf68653bca75c05e0e005dd1ffb4429"
+msgid "ID=160233005"
+msgstr ""
+
+msgctxt "8d876bc4e08ac7ccd7751490c3e3b142"
+msgid "ID=160233006"
+msgstr ""
+
+msgctxt "29ab85cb635b3efb66969d86c966c2b7"
+msgid "ID=160233007"
+msgstr ""
+
+msgctxt "a9fbf7761aa50a306c2f016d0cb6f874"
+msgid "ID=160233008"
+msgstr ""
+
+msgctxt "bded60b4f9c9befcaa5d13aa8e61b385"
+msgid "ID=160233009"
+msgstr ""
+
+msgctxt "f0ee142b50fbaaeade986dc2b4f5d794"
+msgid "ID=160233010"
+msgstr ""
+
+msgctxt "8e3c15feaf2587c80b8d9e513bf5fb60"
+msgid "ID=160233011"
+msgstr ""
+
+msgctxt "098919a1b9005999399748f754192c97"
+msgid "ID=160233012"
+msgstr ""
+
+msgctxt "f1d80f9cf178843c6e076dcc884c62b2"
+msgid "ID=160234001"
+msgstr ""
+
+msgctxt "d650a48264351a8404c5d7386aabea98"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 특수 능력 발동]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 상급의 브로치이며, 특별한 능력의 발동이 가능해진다.\\n "
+msgstr ""
+
+msgctxt "b453d346eea62b87d024d331cccc299d"
+msgid "ID=160234002"
+msgstr ""
+
+msgctxt "a615141c862fe16addf5b9aa0a24c0af"
+msgid "ID=160234003"
+msgstr ""
+
+msgctxt "63c8c6b4204ada2b56a4ad8e9279e939"
+msgid "ID=160234004"
+msgstr ""
+
+msgctxt "b43b009f95ddc24df68cb7675416a01c"
+msgid "ID=160234005"
+msgstr ""
+
+msgctxt "377a2a49dc014fc353b6b4fe85649320"
+msgid "ID=160234006"
+msgstr ""
+
+msgctxt "028b20ea661803232641ca6cd9fb9e2a"
+msgid "ID=160234007"
+msgstr ""
+
+msgctxt "5c73d4030b7456d885d2552937cc380b"
+msgid "ID=160234008"
+msgstr ""
+
+msgctxt "8787e96d72a201824739125845612350"
+msgid "ID=160234009"
+msgstr ""
+
+msgctxt "fbad5caab85abfebb7716f96da8f100f"
+msgid "ID=160234010"
+msgstr ""
+
+msgctxt "f595f823cdbbfd7b77b2024408139dd1"
+msgid "ID=160234011"
+msgstr ""
+
+msgctxt "f78360b3904328ca7825653424bec5ae"
+msgid "ID=160234012"
+msgstr ""
+
+msgctxt "3c5c4415952a21b931735e43d0bf8c9f"
+msgid "ID=160234013"
+msgstr ""
+
+msgctxt "445bbe7d4de74381ed1bc757e6082a98"
+msgid " 기능형 SD : 딜라이트"
+msgstr ""
+
+msgctxt "83db3b748e5764aeb9b87ffae9b5a960"
+msgid "ID=160234014"
+msgstr ""
+
+msgctxt "f58b44c6d85b1c012b44550b683cca14"
+msgid " 기능형 SD : 스트라이더"
+msgstr ""
+
+msgctxt "1d2ed79624a9d1879806f7d4f04583a1"
+msgid "ID=160234015"
+msgstr ""
+
+msgctxt "af1be8a421ad6fc5a9b06255d10a7949"
+msgid " 기능형 SD : 인라이튼"
+msgstr ""
+
+msgctxt "fd8acad7e8d4903084f1c90094e2e640"
+msgid "ID=160235001"
+msgstr ""
+
+msgctxt "70dce3edbc6859b4517bfd0ea0744dab"
+msgid ""
+"<font color='#FFBA85'>[브로치 : 특수 능력 발동]<font color='#9D927B'>\\n\\n가장 기본적이며 "
+"널리 보급된 스탠다드(Standard) 테마의 브로치. 평범한 섬유에 소울 에너지를 흐르게 해, 일종의 생명 섬유로 만들어주는 섬유 확장 "
+"디바이스. 편의상 브로치라 칭한다. 최상급의 브로치이며, 특별한 능력의 발동이 가능해진다.\\n "
+msgstr ""
+
+msgctxt "9041ce6aab30497a2978458079b0eaeb"
+msgid "ID=160235002"
+msgstr ""
+
+msgctxt "56f63fb3a83acaa010a55b3b04d5ad4e"
+msgid "ID=160235003"
+msgstr ""
+
+msgctxt "0e513583a342dda466ecb0ca4f22284b"
+msgid "ID=160235004"
+msgstr ""
+
+msgctxt "8445eea57773652b658571479a400709"
+msgid "ID=160235005"
+msgstr ""
+
+msgctxt "f10c37dd5d37e816c5f1e97b018bb287"
+msgid "ID=160235006"
+msgstr ""
+
+msgctxt "4dc5a9390c6f29a121649fc684c5b8d1"
+msgid "ID=160235007"
+msgstr ""
+
+msgctxt "fb473ac44bba3ec4aa333d816bafcc98"
+msgid "ID=160235008"
+msgstr ""
+
+msgctxt "5fda0fd04b8a93f6834d1d4fee757c02"
+msgid "ID=160235009"
+msgstr ""
+
+msgctxt "4bfbc5fb0c0ff0e8f8f635f2c0f896e4"
+msgid "ID=160235010"
+msgstr ""
+
+msgctxt "64891d0cd63c51b53e835b715e24e40d"
+msgid "ID=160235011"
+msgstr ""
+
+msgctxt "49412ca05af7b16d06393fe980720bfa"
+msgid "ID=160235012"
+msgstr ""
+
+msgctxt "9298485f5c9e39f5dae0ea66f0b6a00a"
+msgid "ID=160235013"
+msgstr ""
+
+msgctxt "485f221d874ecec319cc50311cc91dea"
+msgid "ID=160235014"
+msgstr ""
+
+msgctxt "a4476b30c6d4c06b934b97411dd5c9cb"
+msgid "ID=160235015"
+msgstr ""
+
+msgctxt "b27c3444a3379f72dd823d9ded6b9f64"
+msgid "ID=150202101"
+msgstr ""
+
+msgctxt "e9887ed1ceef34942bd55867f6f81e1b"
+msgid "회색의 낙인"
+msgstr ""
+
+msgctxt "80d36ec825b92821aee153794603abb7"
+msgid ""
+"<font color='#FFBA85'>[웨폰 패밀리어]<font color='#9D927B'>\\n\\n정식 이름은 [공격 보조 "
+"디바이스]. 소울 웨폰에 장착되는 모습에 착안, 속칭 [웨폰 패밀리어]라 칭한다. 성능의 한계가 명확한 소울 웨폰에 장착해, 각종 "
+"추가적인 성능을 누리도록 도와준다."
+msgstr ""
+
+msgctxt "60273c0ed6bb8fea96c71b1e9d666ad6"
+msgid "ID=150203101"
+msgstr ""
+
+msgctxt "802a74d0a6532bcf6668eaba63a02eae"
+msgid "ID=150252101"
+msgstr ""
+
+msgctxt "9c2b63c82f6fad5a8e1dfd951a1a92ea"
+msgid "검붉은 아귀"
+msgstr ""
+
+msgctxt "ac22799f294834cf98c759615a1f9974"
+msgid ""
+"<font color='#FFBA85'>[웨폰 패밀리어]<font color='#9D927B'>\\n\\n공식 명칭은 [보조 유니트]. "
+"소울 웨폰에 확장 디바이스 형식으로 장착되어 그 고유의 성능을 발휘한다. 소울 웨폰에 자식처럼 달라붙는 모습에 착안, [웨폰 패밀리어]라 "
+"속칭한다. 제 아무리 강화를 한다고 해도, 결국 최대 출력에는 한계가 있는 소울 웨폰에 각종 추가적인 성능을 누리도록 도와주는 신비의 "
+"장치."
+msgstr ""
+
+msgctxt "b17841a90710a4791fb3f627ad00de79"
+msgid "ID=150253101"
+msgstr ""
+
+msgctxt "f4787dd9b6e5502d9910b4a1be104149"
+msgid "ID=150302101"
+msgstr ""
+
+msgctxt "02de67d829f28895cbfb5de768586346"
+msgid "매혹의 눈동자"
+msgstr ""
+
+msgctxt "316a1ecf6f6b0e1a9c2cd7a8acd0253d"
+msgid ""
+"<font color='#FFBA85'>[웨폰 패밀리어]<font color='#9D927B'>\\n\\n공식 명칭은 [보조 유니트]. "
+"소울 웨폰에 확장 디바이스 형식으로 장착되어 그 고유의 성능을 발휘한다. 소울 웨폰에 자식처럼 달라붙는 모습에 착안, [웨폰 패밀리어]라 "
+"속칭한다. 제 아무리 강화를 한다고 해도, 결국 최대 출력에는 한계가 있는 소울 웨폰에 각종 추가적인 성능을 누리도록 도와주는 신비의 "
+"장치"
+msgstr ""
+
+msgctxt "0897fd39dfe89256ebbac02983bc25c4"
+msgid "ID=150303101"
+msgstr ""
+
+msgctxt "e12472336e39967829b6b2e4d4f5bd06"
+msgid "ID=150352101"
+msgstr ""
+
+msgctxt "8864838324e2f08ae383b83b5c452711"
+msgid "절제된 비수"
+msgstr ""
+
+msgctxt "a7bb3feab1f1bd2f15d66c462e213957"
+msgid ""
+"<font color='#FFBA85'>[웨폰 패밀리어]<font color='#9D927B'>\\n\\n공식 명칭은 [보조 유니트]. "
+"소울 웨폰에 확장 디바이스 형식으로 장착되어 그 고유의 성능을 발휘한다. 소울 웨폰에 자식처럼 달라붙는 모습에 착안, [웨폰 패밀리어]라 "
+"속칭한다. 제 아무리 강화를 한다고 해도, 결국 최대 출력에는 한계가 있는 소울 웨폰에 각종 추가적인 성능을 누리도록 도와주는 신비의 "
+"장치. "
+msgstr ""
+
+msgctxt "3d0a52abe12373ab76e147c2ab102b12"
+msgid "ID=150353101"
+msgstr ""
+
+msgctxt "e01000c9b6383144e2254641c7dbbe8e"
+msgid "ID=150402101"
+msgstr ""
+
+msgctxt "81db258455a8decd93db727574f025b9"
+msgid "통제의 서슬"
+msgstr ""
+
+msgctxt "ae5df7ea36da804df82deaff8eaabb52"
+msgid "ID=150403101"
+msgstr ""
+
+msgctxt "cf78fb08050d5c600dd649c593298b8f"
+msgid "ID=150452101"
+msgstr ""
+
+msgctxt "7fad5ebdc1d48665ade59326c9ddf3b2"
+msgid "순수의 열화"
+msgstr ""
+
+msgctxt "a24d702f21a77832d30ac67a34217ca4"
+msgid "ID=150453101"
+msgstr ""
+
+msgctxt "9a3052e734dabf366f74e496ca5b4700"
+msgid "ID=150502101"
+msgstr ""
+
+msgctxt "5ee34fc30e45f8828fa54279e27b1a15"
+msgid "비탄의 사슬"
+msgstr ""
+
+msgctxt "abddb6c9b589d58e2c65b9e64bb15a6b"
+msgid "ID=150503101"
+msgstr ""
+
+msgctxt "506d943c3ef69728ad41919cdb2dd00c"
+msgid ""
+"<font color='#FFBA85'>[웨폰 패밀리어]<font color='#9D927B'>\\n\\n공식 명칭은 [보조 유니트]. "
+"소울 웨폰에 확장 디바이스 형식으로 장착되어 그 고유의 성능을 발휘한다. 소울 웨폰에 자식처럼 달라붙는 모습에 착안, 속칭 [웨폰 "
+"패밀리어]라 칭한다. 제 아무리 강화를 한다고 해도, 결국 최대 출력에는 한계가 있는 소울 웨폰에 각종 추가적인 성능을 누리도록 도와준다."
+" "
+msgstr ""
+
+msgctxt "b666a2d5a51538c5496034b3d49e9549"
+msgid "ID=150552101"
+msgstr ""
+
+msgctxt "5ef27823e11b6a00b0acf510e5535fc9"
+msgid "통한의 비수"
+msgstr ""
+
+msgctxt "f760bb067e7b5ceff0c83f983186f25b"
+msgid "ID=150553101"
+msgstr ""
+
+msgctxt "8b17d5f647c22fb1db207d7bfc0e6da8"
+msgid "ID=111554402"
+msgstr ""
+
+msgctxt "9118010ae170ef89601135208bbcc8c6"
+msgid "부커스 트러스트 블레이드"
+msgstr ""
+
+msgctxt "09fbe5a990cd73e8a0b33205d6c40bf6"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 부커스 "
+"핸드에 소속된 소울 웨폰 장인이 제 6 구역에서 구한 소재로 만든 특별한 무기로, 별숲리그의 정규 장비를 뛰어넘는 엄청난 성능을 가지고 "
+"있지만 부커 T.V에게 인정받은 사람만이 사용할 수 있다고 한다. 하루 에스티아가 사용한다."
+msgstr ""
+
+msgctxt "f6fd30246196e82efe9cea5f03486b08"
+msgid "ID=111554403"
+msgstr ""
+
+msgctxt "f8303a6862648b9bdeddccdc18c568f6"
+msgid "부커스 페이스 블레이드"
+msgstr ""
+
+msgctxt "f40322fe0e35104756a9cf895bf041d3"
+msgid "ID=111554404"
+msgstr ""
+
+msgctxt "621e05cd79ef7bf6ca0b8953ea6c03cb"
+msgid "부커스 파나틱 블레이드"
+msgstr ""
+
+msgctxt "99df2ab6b207601998ae16d050fcbfee"
+msgid "ID=112554402"
+msgstr ""
+
+msgctxt "e9e5a1ac6ef4ec31ad4723b749287076"
+msgid "부커스 트러스트 매그넘"
+msgstr ""
+
+msgctxt "dffb9d69e2f8046cf95708f3c3cc4b76"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"부커스 핸드에 소속된 소울 웨폰 장인이 제 6 구역에서 구한 소재로 만든 특별한 무기로, 별숲리그의 정규 장비를 뛰어넘는 엄청난 성능을 "
+"가지고 있지만 부커 T.V에게 인정받은 사람만이 사용할 수 있다고 한다. 어윈 아크라이트가 사용한다."
+msgstr ""
+
+msgctxt "7f957ba9133e2c72cc4f5ae091874445"
+msgid "ID=112554403"
+msgstr ""
+
+msgctxt "6f62dd38fa3594fb97af531235ee06d7"
+msgid "부커스 페이스 매그넘"
+msgstr ""
+
+msgctxt "4aa7a278d060b00dcf269712b14a376c"
+msgid "ID=112554404"
+msgstr ""
+
+msgctxt "96295c5d7e67c12b2ac9889f87998c0c"
+msgid "부커스 파나틱 매그넘"
+msgstr ""
+
+msgctxt "ee0f45a834ef232e7efca46695295465"
+msgid "ID=113554402"
+msgstr ""
+
+msgctxt "694e1a55d42b066ef5c75f047d77f5b2"
+msgid "부커스 트러스트 리퍼"
+msgstr ""
+
+msgctxt "3025d4d7e1ee94f0f16b5a0629ecd0d7"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 부커스 "
+"핸드에 소속된 소울 웨폰 장인이 제 6 구역에서 구한 소재로 만든 특별한 무기로, 별숲리그의 정규 장비를 뛰어넘는 엄청난 성능을 가지고 "
+"있지만 부커 T.V에게 인정받은 사람만이 사용할 수 있다고 한다. 릴리 블룸메르헨이 사용한다."
+msgstr ""
+
+msgctxt "a566d6c1877b2a848c595ede5d92b23c"
+msgid "ID=113554403"
+msgstr ""
+
+msgctxt "d065a4aaa6934d7ba7b9466648eae86d"
+msgid "부커스 페이스 리퍼"
+msgstr ""
+
+msgctxt "a919304d9757790c1331cf74a2bda79e"
+msgid "ID=113554404"
+msgstr ""
+
+msgctxt "f0241fce3a84caebeb026ece962d3211"
+msgid "부커스 파나틱 리퍼"
+msgstr ""
+
+msgctxt "1190c7cac807b5d13fac675ced0b2aa9"
+msgid "ID=115554402"
+msgstr ""
+
+msgctxt "3219c5f14af2e26d605db917d72a31e4"
+msgid "부커스 트러스트 캐스터"
+msgstr ""
+
+msgctxt "d1086aa67fc3ef9113371ca60e413cb5"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"부커스 핸드에 소속된 소울 웨폰 장인이 제 6 구역에서 구한 소재로 만든 특별한 무기로, 별숲리그의 정규 장비를 뛰어넘는 엄청난 성능을 "
+"가지고 있지만 부커 T.V에게 인정받은 사람만이 사용할 수 있다고 한다. 스텔라 유니벨이 사용한다."
+msgstr ""
+
+msgctxt "37efe3328664c4be299e23ef7fc0cb12"
+msgid "ID=115554403"
+msgstr ""
+
+msgctxt "cbc939e295ffed397d5c5de121f633db"
+msgid "부커스 페이스 캐스터"
+msgstr ""
+
+msgctxt "9850589e9b6e3f0a0b5053f1e8f77a15"
+msgid "ID=115554404"
+msgstr ""
+
+msgctxt "264045550dfe9d214afcde419c474b25"
+msgid "부커스 파나틱 캐스터"
+msgstr ""
+
+msgctxt "4f2d1649facfce5ed209e4ed59afd688"
+msgid "ID=510554402"
+msgstr ""
+
+msgctxt "eedad29c6ebe5730b813c77e18f3327c"
+msgid "부커스 트러스트 헤드"
+msgstr ""
+
+msgctxt "690f8a43229a2d6fbcf8ff7d9dd1fb07"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"부커스 핸드에 소속된 기어 제작의 장인이 제 6 구역에서 구한 소재로 만든 특별한 장비로, 별숲리그의 정규 장비를 뛰어넘는 엄청난 성능을 "
+"가지고 있지만 부커 T.V에게 인정받은 사람만이 사용할 수 있다고 한다. 머리에 착용할 수 있다."
+msgstr ""
+
+msgctxt "2d49c6f8343a55315338b44947c0c068"
+msgid "ID=510554403"
+msgstr ""
+
+msgctxt "056e47b8f82860c3e970794beddf4417"
+msgid "부커스 페이스 헤드"
+msgstr ""
+
+msgctxt "c5747cf544f00d196421309cb194ef37"
+msgid "ID=510554404"
+msgstr ""
+
+msgctxt "643c5b1d4d6c905d7badd4fc04ba5a90"
+msgid "부커스 파나틱 헤드"
+msgstr ""
+
+msgctxt "5207a4236c9793ec416f8022bb672b22"
+msgid "ID=520554402"
+msgstr ""
+
+msgctxt "ff915d7337b0f33f5d533ed77b907036"
+msgid "부커스 트러스트 숄더"
+msgstr ""
+
+msgctxt "1fa9b7f6a4174f889c1c6c0b85d62269"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"부커스 핸드에 소속된 기어 제작의 장인이 제 6 구역에서 구한 소재로 만든 특별한 장비로, 별숲리그의 정규 장비를 뛰어넘는 엄청난 성능을 "
+"가지고 있지만 부커 T.V에게 인정받은 사람만이 사용할 수 있다고 한다. 어깨에 착용할 수 있다."
+msgstr ""
+
+msgctxt "f2ee2a2e463ec0a87858c4df7919367a"
+msgid "ID=520554403"
+msgstr ""
+
+msgctxt "76654a34287a5db97e9837e7abdff158"
+msgid "부커스 페이스 숄더"
+msgstr ""
+
+msgctxt "8cf9ccc40afc2dc769a4134f3a6619e5"
+msgid "ID=520554404"
+msgstr ""
+
+msgctxt "8cf5fd6d01bea903604ba82e2a24f7ab"
+msgid "부커스 파나틱 숄더"
+msgstr ""
+
+msgctxt "49a76c10aadf56d08f2c7431da8ffa92"
+msgid "ID=530554402"
+msgstr ""
+
+msgctxt "db6c6ff3ee6945dc738867af90aa4418"
+msgid "부커스 트러스트 바디"
+msgstr ""
+
+msgctxt "b6260e5bb8559fa7471ee3f4bd5ae3e2"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"부커스 핸드에 소속된 기어 제작의 장인이 제 6 구역에서 구한 소재로 만든 특별한 장비로, 별숲리그의 정규 장비를 뛰어넘는 엄청난 성능을 "
+"가지고 있지만 부커 T.V에게 인정받은 사람만이 사용할 수 있다고 한다. 가슴에 착용할 수 있다."
+msgstr ""
+
+msgctxt "a9ca5a28c95bb3bcc4a5f44841c39dda"
+msgid "ID=530554403"
+msgstr ""
+
+msgctxt "a71963f7c60b4bb3d0726f6228c5f3be"
+msgid "부커스 페이스 바디"
+msgstr ""
+
+msgctxt "b82ebe2d3c20627432eeda44be15e2c0"
+msgid "ID=530554404"
+msgstr ""
+
+msgctxt "2a014cfd7da9d984d4de23c18649bdf4"
+msgid "부커스 파나틱 바디"
+msgstr ""
+
+msgctxt "0388c9d778c4f2348d1f760d87fef4c1"
+msgid "ID=540554402"
+msgstr ""
+
+msgctxt "438f9c5e72c1bb2cb38c719d13480dc6"
+msgid "부커스 트러스트 레그"
+msgstr ""
+
+msgctxt "fb1b0731dd3d5db9bdfacd6d6aff92f1"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"부커스 핸드에 소속된 기어 제작의 장인이 제 6 구역에서 구한 소재로 만든 특별한 장비로, 별숲리그의 정규 장비를 뛰어넘는 엄청난 성능을 "
+"가지고 있지만 부커 T.V에게 인정받은 사람만이 사용할 수 있다고 한다. 다리에 착용할 수 있다."
+msgstr ""
+
+msgctxt "efbcbbc398ebea0996caed1e0041e4c6"
+msgid "ID=540554403"
+msgstr ""
+
+msgctxt "5474cf4417b8abf5143294f853f58f65"
+msgid "부커스 페이스 레그"
+msgstr ""
+
+msgctxt "9df2c9b42d98d0bc9e66966b56e4f198"
+msgid "ID=540554404"
+msgstr ""
+
+msgctxt "ccd1a3e4eeba7f7d349a4b85886b0641"
+msgid "부커스 파나틱 레그"
+msgstr ""
+
+msgctxt "84696b9f0955b009020c5f5aacabc1c0"
+msgid "ID=410554402"
+msgstr ""
+
+msgctxt "714646fa0e8d06ecbe3bbd33b2b48d15"
+msgid "부커스 트러스트 펜던트"
+msgstr ""
+
+msgctxt "c70b64377ab6d2f871bd68675e67d83d"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"부커스 핸드에 소속된 액세서리 제작의 장인이 제 6 구역에서 구한 소재로 만든 특별한 액세서리로, 액세서리 자체가 쉽게 구할 수 없는 "
+"물건이지만 그보다도 압도적인 힘을 가지고 있다. 많은 소울워커들이 원하지만 부커 T.V에게 인정받은 사람만이 사용할 수 있다.\\n목에 "
+"착용할 수 있다."
+msgstr ""
+
+msgctxt "e72df1e99a9216a3ebcaea0e89f98aa1"
+msgid "ID=410554403"
+msgstr ""
+
+msgctxt "9cba2e1c820201e2e691370aaa71ae24"
+msgid "부커스 페이스 펜던트"
+msgstr ""
+
+msgctxt "d8ec1c46f819d0f3678582ffd965b4de"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"부커스 핸드에 소속된 액세서리 제작의 장인이 제 6 구역에서 구한 소재로 만든 특별한 액세서리로, 액세서리 자체가 쉽게 구할 수 없는 "
+"물건이지만 그보다도 압도적인 힘을 가지고 있다. 많은 소울워커들이 원하지만 부커 T.V에게 인정받은 사람만이 사용할 수 있다. 목에 "
+"착용할 수 있다."
+msgstr ""
+
+msgctxt "e93c0001587cf3a33f0b4a97727401df"
+msgid "ID=410554404"
+msgstr ""
+
+msgctxt "196e6ff40801a4fd5870dd26c0bed968"
+msgid "부커스 파나틱 펜던트"
+msgstr ""
+
+msgctxt "5304f234375f485e401662331e7b0c95"
+msgid "ID=430554402"
+msgstr ""
+
+msgctxt "1ff0066c474e5390dd6f348643f1354a"
+msgid "부커스 트러스트 이어링"
+msgstr ""
+
+msgctxt "dad7571c029dbcde97509f2b124c9f3c"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"부커스 핸드에 소속된 액세서리 제작의 장인이 제 6 구역에서 구한 소재로 만든 특별한 액세서리로, 액세서리 자체가 쉽게 구할 수 없는 "
+"물건이지만 그보다도 압도적인 힘을 가지고 있다. 많은 소울워커들이 원하지만 부커 T.V에게 인정받은 사람만이 사용할 수 있다. 귀에 "
+"착용할 수 있다."
+msgstr ""
+
+msgctxt "e6c6f047d456a5a5657304464233165e"
+msgid "ID=430554403"
+msgstr ""
+
+msgctxt "537ad89b20ecd2594af9ad3d353821e9"
+msgid "부커스 페이스 이어링"
+msgstr ""
+
+msgctxt "f4738bc26a0b57352ff3329c3e84b40e"
+msgid "ID=430554404"
+msgstr ""
+
+msgctxt "a11d0f79ed82eae90fe93b61d1fa95de"
+msgid "부커스 파나틱 이어링"
+msgstr ""
+
+msgctxt "f008f774137c533da473773362dd3af4"
+msgid "ID=440554402"
+msgstr ""
+
+msgctxt "cb9bb04c7cbf3d4f3f4b3fdf9e9d85bc"
+msgid "부커스 트러스트 링"
+msgstr ""
+
+msgctxt "9318391dd8efacb301d166b186e459d0"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"부커스 핸드에 소속된 액세서리 제작의 장인이 제 6 구역에서 구한 소재로 만든 특별한 액세서리로, 액세서리 자체가 쉽게 구할 수 없는 "
+"물건이지만 그보다도 압도적인 힘을 가지고 있다. 많은 소울워커들이 원하지만 부커 T.V에게 인정받은 사람만이 사용할 수 있다."
+"\\n손가락에 착용할 수 있다."
+msgstr ""
+
+msgctxt "8b291e51c16334f74432abaa9a83961a"
+msgid "ID=440554403"
+msgstr ""
+
+msgctxt "2fc3882ed3df700c04c53d9cbebb93a6"
+msgid "부커스 페이스 링"
+msgstr ""
+
+msgctxt "e89e6afed6bc7c9cde1a536585179d98"
+msgid "ID=440554404"
+msgstr ""
+
+msgctxt "0123492876358397c39cd1707db086f1"
+msgid "부커스 파나틱 링"
+msgstr ""
+
+msgctxt "dfa68488456bb16acc94c8fd7fd88256"
+msgid "ID=111354451"
+msgstr ""
+
+msgctxt "4cea791b8b24c93b97ba4c23ea8cf552"
+msgid "그레이브 키퍼 소드"
+msgstr ""
+
+msgctxt "e7ac25a449a73c9e96c80fd4be87ed23"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 아직 개발 중인 무기로 개선의 여지가 남아 있다. 하루 에스티아가 사용한다."
+msgstr ""
+
+msgctxt "e63d32023389d4509460eb0a774fe51d"
+msgid "ID=111454451"
+msgstr ""
+
+msgctxt "a36eddd39f11985b979e1cb42a4f1c0d"
+msgid "그레이브 키퍼 소드 MK.II"
+msgstr ""
+
+msgctxt "5988b8760a54a385dd748a65010b52ac"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 아직 개발 중인 무기로 개선의 여지가 남아 있다. 하루 에스티아가 사용한다.\\n\\n5년 만이로군. 기록이 갈아엎어진 게."
+"\\n케인바렐 이후로 처음인가.\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "02119dd2038a4c282a55147b158efd48"
+msgid "ID=111554451"
+msgstr ""
+
+msgctxt "6b024ad3e1505254099344269d58754b"
+msgid "그레이브 키퍼 소드 MK.III"
+msgstr ""
+
+msgctxt "3dd751e51271ca5d012fca0e2bc29b8d"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 그레이브 키퍼 시리즈의 최종 완성형 무기로 스틸 그레이브의 연구원들은 그 어디에서도 이 이상의 무기를 만들 수 없다고 자부하고 "
+"있다. 하루 에스티아가 사용한다.\\n\\n저기… 이거 하루만 빌려주면 안될까? 아, 분해하진 않을게!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "93f392effcb49f82074b1a8ffe373fa5"
+msgid "ID=112354451"
+msgstr ""
+
+msgctxt "9d13b4ed1710241ff8ff23c48719bde5"
+msgid "그레이브 키퍼 배럴"
+msgstr ""
+
+msgctxt "f253329267e3686142b9a8daad43d1cd"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 아직 개발 중인 무기로 개선의 여지가 남아 있다. 어윈 아크라이트가 사용한다."
+msgstr ""
+
+msgctxt "67eac1d6a91c05d74c9a020cef15ecf7"
+msgid "ID=112454451"
+msgstr ""
+
+msgctxt "96a11a735fca49bac246429984a3c3cf"
+msgid "그레이브 키퍼 배럴 MK.II"
+msgstr ""
+
+msgctxt "3a9a428d71ce37060103a416d64810ba"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 아직 개발 중인 무기로 개선의 여지가 남아 있다. 어윈 아크라이트가 사용한다.\\n\\n5년 만이로군. 기록이 갈아엎어진 게."
+"\\n케인바렐 이후로 처음인가.\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "2d3b02e21c4f8a27ab064f7d73665ac5"
+msgid "ID=112554451"
+msgstr ""
+
+msgctxt "161f9e25782606a2161f448119f4d08b"
+msgid "그레이브 키퍼 배럴 MK.III"
+msgstr ""
+
+msgctxt "6ddaf53ddb7b70a535120009764f4672"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 그레이브 키퍼 시리즈의 최종 완성형 무기로 스틸 그레이브의 연구원들은 그 어디에서도 이 이상의 무기를 만들 수 없다고 자부하고 "
+"있다. 어윈 아크라이트가 사용한다.\\n\\n저기… 이거 하루만 빌려주면 안될까? 아, 분해하진 않을게!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "266dc3f6fd21ccb8605ba627647905d8"
+msgid "ID=113354451"
+msgstr ""
+
+msgctxt "de62a1ab5b3b24fed5631a7da8cd984e"
+msgid "그레이브 키퍼 사이드"
+msgstr ""
+
+msgctxt "b4eb2942f4428c91c1782258268524b7"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 아직 개발 중인 무기로 개선의 여지가 남아 있다. 릴리 블룸메르헨이 사용한다."
+msgstr ""
+
+msgctxt "a46f4d2df2db144a8ffe19e167f47970"
+msgid "ID=113454451"
+msgstr ""
+
+msgctxt "b29e848c7b32d55c1c99c846404c02dd"
+msgid "그레이브 키퍼 사이드 MK.II"
+msgstr ""
+
+msgctxt "7df528a802f2b3a0283a5907aa30483e"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 아직 개발 중인 무기로 개선의 여지가 남아 있다. 릴리 블룸메르헨이 사용한다.\\n\\n5년 만이로군. 기록이 갈아엎어진 게."
+"\\n케인바렐 이후로 처음인가.\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "fa9dd265657a1117c45fbdfe91fa9b38"
+msgid "ID=113554451"
+msgstr ""
+
+msgctxt "862ef9923241d224b7774ac2569220f2"
+msgid "그레이브 키퍼 사이드 MK.III"
+msgstr ""
+
+msgctxt "9a7a9fdfb613a30b892fd34fc77f6f74"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 그레이브 키퍼 시리즈의 최종 완성형 무기로 스틸 그레이브의 연구원들은 그 어디에서도 이 이상의 무기를 만들 수 없다고 자부하고 "
+"있다. 릴리 블룸메르헨이 사용한다.\\n\\n저기… 이거 하루만 빌려주면 안될까? 아, 분해하진 않을게!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "59cf726cf5a99c75a6a62a4bc65f486f"
+msgid "ID=115354451"
+msgstr ""
+
+msgctxt "68780669abbdcb7f9989a446896403e2"
+msgid "그레이브 키퍼 코드"
+msgstr ""
+
+msgctxt "316542866037667f241195b190c0fd37"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 아직 개발 중인 무기로 개선의 여지가 남아 있다. 스텔라 유니벨이 사용한다."
+msgstr ""
+
+msgctxt "0f497c5713e2c7dea70e293b3a32057a"
+msgid "ID=115454451"
+msgstr ""
+
+msgctxt "0f1b63c0787355d484c886116e2cb805"
+msgid "그레이브 키퍼 코드 MK.II"
+msgstr ""
+
+msgctxt "98af6d5b5f493ee10dbe338f3dfd80b9"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 아직 개발 중인 무기로 개선의 여지가 남아 있다. 스텔라 유니벨이 사용한다.\\n\\n5년 만이로군. 기록이 갈아엎어진 게."
+"\\n케인바렐 이후로 처음인가.\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "6afb8242e6ad9d78d1324e8b56a790ab"
+msgid "ID=115554451"
+msgstr ""
+
+msgctxt "833add80fdca8def4bca252fddb092b5"
+msgid "그레이브 키퍼 코드 MK.III"
+msgstr ""
+
+msgctxt "a9ef63bd9be6f18331ebec1a5b74287b"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 무기인 만큼 적을 효율적으로 섬멸하는데 최적화된 성능을 "
+"보여준다. 그레이브 키퍼 시리즈의 최종 완성형 무기로 스틸 그레이브의 연구원들은 그 어디에서도 이 이상의 무기를 만들 수 없다고 자부하고 "
+"있다. 스텔라 유니벨이 사용한다.\\n\\n저기… 이거 하루만 빌려주면 안될까? 아, 분해하진 않을게!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "02dc9da9b812dd421d38fda783da5423"
+msgid "ID=510354451"
+msgstr ""
+
+msgctxt "838ddd19d6e770da531c117148724db7"
+msgid "그레이브 키퍼 헤드"
+msgstr ""
+
+msgctxt "34113810bffd5d7451deda84e022e695"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 장비인 만큼 적의 공격을 효율적으로 방어하는데 최적화된 "
+"성능을 보여준다. 아직 개발 중으로 개선의 여지가 남아 있다. 머리에 착용할 수 있다."
+msgstr ""
+
+msgctxt "8fb5d7ce740703c1e6fcb0ec283832c6"
+msgid "ID=510454451"
+msgstr ""
+
+msgctxt "45719040af3e7cf411814ab0cd0ac858"
+msgid "그레이브 키퍼 헤드 MK.II"
+msgstr ""
+
+msgctxt "c31fd4989f7cd836aea42b0a38805052"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 장비인 만큼 적의 공격을 효율적으로 방어하는데 최적화된 "
+"성능을 보여준다. 아직 개발 중으로 개선의 여지가 남아 있다. 머리에 착용할 수 있다.\\n\\n…역시 예상했던대로 보통의 이능력자는 "
+"아닌 모양이군.\\n네 덕분에 가상현실 내부의 모든 장비들이 오버히트를 일으켰다.\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "57a0355e1fa731ecf2304d166305dab4"
+msgid "ID=510554451"
+msgstr ""
+
+msgctxt "ef8aaa775d5f97752e07e50412572997"
+msgid "그레이브 키퍼 헤드 MK.III"
+msgstr ""
+
+msgctxt "60c5fa5ee8eda2c6ad6505b085ee9999"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 장비인 만큼 적의 공격을 효율적으로 방어하는데 최적화된 "
+"성능을 보여준다. 그레이브 키퍼 시리즈의 최종 완성형 장비로 스틸 그레이브의 연구원들은 그 어디에서도 이 이상의 장비를 만들 수 없다고 "
+"자부하고 있다. 머리에 착용할 수 있다.\\n\\n하! 이, 이 정도는 나도 독자적으로 만들 수 있다고! \\n그… 설계도만 주면 "
+"말이지!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "b8f48cb1a98d1e6779eb3567e4f6f67b"
+msgid "ID=520354451"
+msgstr ""
+
+msgctxt "caade20b3081018081378827fbd40e54"
+msgid "그레이브 키퍼 숄더"
+msgstr ""
+
+msgctxt "c901e42d7b1b1de5d247bb54e3d1b50d"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 장비인 만큼 적의 공격을 효율적으로 방어하는데 최적화된 "
+"성능을 보여준다. 아직 개발 중으로 개선의 여지가 남아 있다. 어깨에 착용할 수 있다."
+msgstr ""
+
+msgctxt "d2b37dc1e802f87d755b6de99a0cbe67"
+msgid "ID=520454451"
+msgstr ""
+
+msgctxt "4f02e94a9d25ec0b2b763c0677c59845"
+msgid "그레이브 키퍼 숄더 MK.II"
+msgstr ""
+
+msgctxt "2a6082d3faa6fc5162d0b2d61d394324"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 장비인 만큼 적의 공격을 효율적으로 방어하는데 최적화된 "
+"성능을 보여준다. 아직 개발 중으로 개선의 여지가 남아 있다. 어깨에 착용할 수 있다.\\n\\n…역시 예상했던대로 보통의 이능력자는 "
+"아닌 모양이군.\\n네 덕분에 가상현실 내부의 모든 장비들이 오버히트를 일으켰다.\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "7d9239b5bf880754597c14b64574bfcc"
+msgid "ID=520554451"
+msgstr ""
+
+msgctxt "ebeca5d7f8d9b9d3d5f2b0cd551b2d5c"
+msgid "그레이브 키퍼 숄더 MK.III"
+msgstr ""
+
+msgctxt "d8ee6cf2a4bb9d3bf0f40cfc2241fd54"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 장비인 만큼 적의 공격을 효율적으로 방어하는데 최적화된 "
+"성능을 보여준다. 그레이브 키퍼 시리즈의 최종 완성형 장비로 스틸 그레이브의 연구원들은 그 어디에서도 이 이상의 장비를 만들 수 없다고 "
+"자부하고 있다. 어깨에 착용할 수 있다.\\n\\n하! 이, 이 정도는 나도 독자적으로 만들 수 있다고! \\n그… 설계도만 주면 "
+"말이지!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "db3abf7ed1d04b8b5af16e138727aed4"
+msgid "ID=530354451"
+msgstr ""
+
+msgctxt "058380e953f50583e4cfa64095e195bd"
+msgid "그레이브 키퍼 바디"
+msgstr ""
+
+msgctxt "6b9335f7ca401855a566d5412aa1fdb6"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 장비인 만큼 적의 공격을 효율적으로 방어하는데 최적화된 "
+"성능을 보여준다. 아직 개발 중으로 개선의 여지가 남아 있다. 가슴에 착용할 수 있다."
+msgstr ""
+
+msgctxt "1fa1f8fe3040598ea60115c21c0271df"
+msgid "ID=530454451"
+msgstr ""
+
+msgctxt "ed1f53f922a56e5b132b8264d1284930"
+msgid "그레이브 키퍼 바디 MK.II"
+msgstr ""
+
+msgctxt "a4ea233df93023dd45abaab31552688c"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 장비인 만큼 적의 공격을 효율적으로 방어하는데 최적화된 "
+"성능을 보여준다. 아직 개발 중으로 개선의 여지가 남아 있다. 가슴에 착용할 수 있다.\\n\\n…역시 예상했던대로 보통의 이능력자는 "
+"아닌 모양이군.\\n네 덕분에 가상현실 내부의 모든 장비들이 오버히트를 일으켰다.\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "1f95d49fd54367f1648ee156565b2b94"
+msgid "ID=530554451"
+msgstr ""
+
+msgctxt "5db38b22d48abcdaf594d7ac7a8ee2bb"
+msgid "그레이브 키퍼 바디 MK.III"
+msgstr ""
+
+msgctxt "bdd638b5a6de7324e11958ac7c896351"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 장비인 만큼 적의 공격을 효율적으로 방어하는데 최적화된 "
+"성능을 보여준다. 그레이브 키퍼 시리즈의 최종 완성형 장비로 스틸 그레이브의 연구원들은 그 어디에서도 이 이상의 장비를 만들 수 없다고 "
+"자부하고 있다. 가슴에 착용할 수 있다.\\n\\n하! 이, 이 정도는 나도 독자적으로 만들 수 있다고! \\n그… 설계도만 주면 "
+"말이지!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "a9e944b6a41424d4c5946cb8cc8499c9"
+msgid "ID=540354451"
+msgstr ""
+
+msgctxt "1ab7162ad4b9d817cb9a26219e3047d0"
+msgid "그레이브 키퍼 레그"
+msgstr ""
+
+msgctxt "db186a90f355b622f79d573f6245f81a"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 장비인 만큼 적의 공격을 효율적으로 방어하는데 최적화된 "
+"성능을 보여준다. 아직 개발 중으로 개선의 여지가 남아 있다. 다리에 착용할 수 있다."
+msgstr ""
+
+msgctxt "3d8c1f3256293d5e3d865e5dd780584b"
+msgid "ID=540454451"
+msgstr ""
+
+msgctxt "ecef9cf41c25a2314aad675fd47bfdd0"
+msgid "그레이브 키퍼 레그 MK.II"
+msgstr ""
+
+msgctxt "485437ec178a675717ce62b6d7547e8e"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 장비인 만큼 적의 공격을 효율적으로 방어하는데 최적화된 "
+"성능을 보여준다. 아직 개발 중으로 개선의 여지가 남아 있다. 다리에 착용할 수 있다.\\n\\n…역시 예상했던대로 보통의 이능력자는 "
+"아닌 모양이군.\\n네 덕분에 가상현실 내부의 모든 장비들이 오버히트를 일으켰다.\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "ab9abed001803d45ba7942ecce182f40"
+msgid "ID=540554451"
+msgstr ""
+
+msgctxt "6f45fd6b7c78cb3ccc16bb8b530dd0f9"
+msgid "그레이브 키퍼 레그 MK.III"
+msgstr ""
+
+msgctxt "274992a03f0e1b4885ec048950e394ab"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발한 장비인 만큼 적의 공격을 효율적으로 방어하는데 최적화된 "
+"성능을 보여준다. 그레이브 키퍼 시리즈의 최종 완성형 장비로 스틸 그레이브의 연구원들은 그 어디에서도 이 이상의 장비를 만들 수 없다고 "
+"자부하고 있다. 다리에 착용할 수 있다.\\n\\n하! 이, 이 정도는 나도 독자적으로 만들 수 있다고! \\n그… 설계도만 주면 "
+"말이지!\\n- 제니스 -"
+msgstr ""
+
+msgctxt "296d78f90bfaf5e07a8ff02ba72f3900"
+msgid "ID=711354410"
+msgstr ""
+
+msgctxt "de415579742002a6e9aa5392d4f2506f"
+msgid "[설계도]그레이브 키퍼 소드"
+msgstr ""
+
+msgctxt "063cbc5565412fbab15e5446f53cbd0a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그레이브 키퍼 소드] "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "ee4cf62b2f72c1328d3b2e777046a6cf"
+msgid "ID=712354410"
+msgstr ""
+
+msgctxt "6eb6c79b70cc4df78e7530b00f8b18fa"
+msgid "[설계도]그레이브 키퍼 배럴"
+msgstr ""
+
+msgctxt "5b34fd60b45504089fe999d735b2dd1e"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그레이브 키퍼 배럴] "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "5f5196b736e599b03b68ae031052487d"
+msgid "ID=713354410"
+msgstr ""
+
+msgctxt "c0af677c56654c62c3b6708a137ae8df"
+msgid "[설계도]그레이브 키퍼 사이드"
+msgstr ""
+
+msgctxt "2b9f0f36c851332fe4e9ef1a549cdafa"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그레이브 키퍼 사이드] "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c6ce3d4053c19d0ec63bf4631e0f74e8"
+msgid "ID=715354410"
+msgstr ""
+
+msgctxt "91f5f2108ab14697de90dfe2a1e973f2"
+msgid "[설계도]그레이브 키퍼 코드"
+msgstr ""
+
+msgctxt "6d50e5fc863e25bb0dd445e2b5c8a8d2"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그레이브 키퍼 코드] "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c1284efb3b1f9e51149dc88c12191f94"
+msgid "ID=711454410"
+msgstr ""
+
+msgctxt "7fec8ba8c26d44d3d6e2e2a44e6bbd2d"
+msgid "[설계도]그레이브 키퍼 소드 MK.II"
+msgstr ""
+
+msgctxt "b76fc0bf8754ead0b2a4faf6d5f73f8b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그레이브 키퍼 소드 MK."
+"II] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "6c050f737c991899ce927b553bafd656"
+msgid "ID=712454410"
+msgstr ""
+
+msgctxt "154424c365fc13de6253d5fcdbe2d8ab"
+msgid "[설계도]그레이브 키퍼 배럴 MK.II"
+msgstr ""
+
+msgctxt "71b1772e59d9b80bf7167a1dccdbdf10"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그레이브 키퍼 배럴 MK."
+"II] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "d7932310bd68771dcec7bba914d6ce85"
+msgid "ID=713454410"
+msgstr ""
+
+msgctxt "f6f9c8b3ea6fe43e5bf3b57ecd08ce07"
+msgid "[설계도]그레이브 키퍼 사이드 MK.II"
+msgstr ""
+
+msgctxt "d615ce0bedb91c1652a471e695b2d659"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그레이브 키퍼 사이드 MK."
+"II] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "b0bebb96576ccd03ec851e1c382facf7"
+msgid "ID=715454410"
+msgstr ""
+
+msgctxt "61c52abd905c5123ea07fa06fde5ea57"
+msgid "[설계도]그레이브 키퍼 코드 MK.II"
+msgstr ""
+
+msgctxt "32025061b5436b5f7ee917377dd3fafe"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그레이브 키퍼 코드 MK."
+"II] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "aac1b080923cf653701e818ff2970662"
+msgid "ID=711554410"
+msgstr ""
+
+msgctxt "cbd18d0e26fa3ff71306c192c1390cb9"
+msgid "[설계도]그레이브 키퍼 소드 MK.III"
+msgstr ""
+
+msgctxt "720ee7bede65c91c1469b349f4b413b3"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그레이브 키퍼 소드 MK."
+"III] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "1c2dcc35a255b20a6ea3dc72a00d4d3e"
+msgid "ID=712554410"
+msgstr ""
+
+msgctxt "99bbb5e6fbc079c723ea13236d82306d"
+msgid "[설계도]그레이브 키퍼 배럴 MK.III"
+msgstr ""
+
+msgctxt "524f16f960daccb15c9cca74bf2f85e3"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그레이브 키퍼 배럴 MK."
+"III] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "cb9ef3e002a60f2d6900439c134718ec"
+msgid "ID=713554410"
+msgstr ""
+
+msgctxt "9c2669c8512cd5a1f19b2f95ad39a8e5"
+msgid "[설계도]그레이브 키퍼 사이드 MK.III"
+msgstr ""
+
+msgctxt "d135a2b26ac007b876f33b7c9fc3d507"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그레이브 키퍼 사이드 MK."
+"III] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "81496d1e43996aebb616cb09e75db3ae"
+msgid "ID=715554410"
+msgstr ""
+
+msgctxt "7540c6061f488f60b49d254768b81ca3"
+msgid "[설계도]그레이브 키퍼 코드 MK.III"
+msgstr ""
+
+msgctxt "f182dbb8248e161f0bd496dcbf103564"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [그레이브 키퍼 코드 MK."
+"III] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "6b4476d9624dcb57db9802c75b6ae4b2"
+msgid "ID=710354430"
+msgstr ""
+
+msgctxt "dba6e8a103de88d15ab6061509baf062"
+msgid "[설계도]그레이브 키퍼 헤드"
+msgstr ""
+
+msgctxt "76709fc6356d96368b9ee6532f8fed55"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [그레이브 키퍼 헤드] "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "ac27dbedcdee59b9c47df2b39442fb03"
+msgid "ID=710454430"
+msgstr ""
+
+msgctxt "26638cf8437a4cde320655ae185fbe6f"
+msgid "[설계도]그레이브 키퍼 헤드 MK.II"
+msgstr ""
+
+msgctxt "c3c126fa7835034e00947aabaa0cf437"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [그레이브 키퍼 헤드 MK."
+"II] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "0f84c1a2d0343b539390f3881f5b4453"
+msgid "ID=710554430"
+msgstr ""
+
+msgctxt "fcd79ed4e35840987a86eec6e4ac911a"
+msgid "[설계도]그레이브 키퍼 헤드 MK.III"
+msgstr ""
+
+msgctxt "1c8fee9a69213314e276130e5c70a80f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [그레이브 키퍼 헤드 MK."
+"III] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "a48e57d797d68649289f1fb404bb7d3f"
+msgid "ID=710354440"
+msgstr ""
+
+msgctxt "744d99916a373f761e5721e1f118bc97"
+msgid "[설계도]그레이브 키퍼 숄더"
+msgstr ""
+
+msgctxt "a190da101ac858760b2f577a83a22c4c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [그레이브 키퍼 숄더] "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "446f12e4ef755abc7be83acd34867618"
+msgid "ID=710454440"
+msgstr ""
+
+msgctxt "e4944c2c9e00907807ccbe3d70254d2c"
+msgid "[설계도]그레이브 키퍼 숄더 MK.II"
+msgstr ""
+
+msgctxt "19618c9f06158b74b56e8b14d3cdb839"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [그레이브 키퍼 숄더 MK."
+"II] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "fe98c63e2f3cdbf9d871cd6374714e22"
+msgid "ID=710554440"
+msgstr ""
+
+msgctxt "e7b63dd6effd761cee314c0ac563db93"
+msgid "[설계도]그레이브 키퍼 숄더 MK.III"
+msgstr ""
+
+msgctxt "bb830383b47cf51a23ca83f00886cfcc"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [그레이브 키퍼 숄더 MK."
+"III] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "7a4ac9eb7b7ba5b7c71e5e7feace1bd6"
+msgid "ID=710354450"
+msgstr ""
+
+msgctxt "bc4403d52c7e4963df0ea218f4138354"
+msgid "[설계도]그레이브 키퍼 바디"
+msgstr ""
+
+msgctxt "968eb826f8789a4eef34455aa4d4b46f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [그레이브 키퍼 바디] "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "af9d864b1eaff8658925b5d1854d990f"
+msgid "ID=710454450"
+msgstr ""
+
+msgctxt "7727b4d90a1d97c2d09ff2d2043f60de"
+msgid "[설계도]그레이브 키퍼 바디 MK.II"
+msgstr ""
+
+msgctxt "58414bb8609d52c7d7fb1598f16a2899"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [그레이브 키퍼 바디 MK."
+"II] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "b411b1cca627772c522c432263dcba8b"
+msgid "ID=710554450"
+msgstr ""
+
+msgctxt "435d98aad8c5cb3d3dcc0ca5d138240f"
+msgid "[설계도]그레이브 키퍼 바디 MK.III"
+msgstr ""
+
+msgctxt "506e7909dd6899458c68808cf94940c9"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [그레이브 키퍼 바디 MK."
+"III] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "c4c0270dba236154293976f78b335856"
+msgid "ID=710354460"
+msgstr ""
+
+msgctxt "27d48d27b0551ff74dde8356b9038f8a"
+msgid "[설계도]그레이브 키퍼 레그"
+msgstr ""
+
+msgctxt "8be844f9a1813848d681a9bf504c1206"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [그레이브 키퍼 레그] "
+"제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "97c32dad872a97430f42434600fef6d9"
+msgid "ID=710454460"
+msgstr ""
+
+msgctxt "a1931f7877b6acc1f3d3518792cf8986"
+msgid "[설계도]그레이브 키퍼 레그 MK.II"
+msgstr ""
+
+msgctxt "928b9a9e32f914327008cdde43c1fe23"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [그레이브 키퍼 레그 MK."
+"II] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "1eb6fb1885044ecb4642d36d5a142301"
+msgid "ID=710554460"
+msgstr ""
+
+msgctxt "41e757813073d0915ff67288a4b72a93"
+msgid "[설계도]그레이브 키퍼 레그 MK.III"
+msgstr ""
+
+msgctxt "566a6fbfc8714d731de657f5c3045168"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [그레이브 키퍼 레그 MK."
+"III] 제작에 필요한 설계도"
+msgstr ""
+
+msgctxt "bba5e83014a8e4a22ca60557b7fb4af1"
+msgid "ID=410354451"
+msgstr ""
+
+msgctxt "63fd7f06b3e8d43b7cc0c624e6804712"
+msgid "그레이브 키퍼 팬던트"
+msgstr ""
+
+msgctxt "c330d1e53954eab0189d33a10aa0ba10"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발된 액세서리인 만큼 다양한 능력을 바탕으로 사용자를 돕는데 "
+"최적화된 힘을 가지고 있지만, 아직 개발 중으로 개선의 여지가 남아 있다. 목에 착용할 수 있다."
+msgstr ""
+
+msgctxt "2767def557ba2f8a296577a4a1996d07"
+msgid "ID=430354451"
+msgstr ""
+
+msgctxt "9cf7ff1d523e45c4c018145908becf53"
+msgid "그레이브 키퍼 이어링"
+msgstr ""
+
+msgctxt "3a10b26d9f0aa9e3191bc9f51738e0de"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발된 액세서리인 만큼 다양한 능력을 바탕으로 사용자를 돕는데 "
+"최적화된 힘을 가지고 있지만, 아직 개발 중으로 개선의 여지가 남아 있다. 귀에 착용할 수 있다."
+msgstr ""
+
+msgctxt "ec9314201e92ba504014613abeb9982b"
+msgid "ID=440354451"
+msgstr ""
+
+msgctxt "8c022ba6c1618d50076758f4337ed127"
+msgid "그레이브 키퍼 링"
+msgstr ""
+
+msgctxt "0c06f8016c0ffdbf4081d9307a77be02"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발된 액세서리인 만큼 다양한 능력을 바탕으로 사용자를 돕는데 "
+"최적화된 힘을 가지고 있지만, 아직 개발 중으로 개선의 여지가 남아 있다. 손가락에 착용할 수 있다."
+msgstr ""
+
+msgctxt "13e4dde585c2b7c11cd090973f71b826"
+msgid "ID=410454451"
+msgstr ""
+
+msgctxt "1a0a2cdca18385b542a295f961f23e69"
+msgid "그레이브 키퍼 팬던트 MK.II"
+msgstr ""
+
+msgctxt "178b5d22eb0bb7fe138ff6d523e2950d"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발된 액세서리인 만큼 다양한 능력을 바탕으로 사용자를 돕는데 "
+"최적화된 힘을 가지고 있지만, 아직 개발 중으로 개선의 여지가 남아 있다. 목에 착용할 수 있다.\\n\\n…역시 예상했던대로 보통의 "
+"이능력자는 아닌 모양이군.\\n네 덕분에 가상현실 내부의 모든 장비들이 오버히트를 일으켰다.\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "febbcacd41e0f6291069c18403128d8d"
+msgid "ID=430454451"
+msgstr ""
+
+msgctxt "c9e5e92653db0ddbfe9cf1445ea89075"
+msgid "그레이브 키퍼 이어링 MK.II"
+msgstr ""
+
+msgctxt "44961fe72c60d1ce518175fe204136e0"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발된 액세서리인 만큼 다양한 능력을 바탕으로 사용자를 돕는데 "
+"최적화된 힘을 가지고 있지만, 아직 개발 중으로 개선의 여지가 남아 있다. 귀에 착용할 수 있다.\\n\\n…역시 예상했던대로 보통의 "
+"이능력자는 아닌 모양이군.\\n네 덕분에 가상현실 내부의 모든 장비들이 오버히트를 일으켰다.\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "089159f1e926a705a19587a0d5ad94af"
+msgid "ID=440454451"
+msgstr ""
+
+msgctxt "f8dc524cc0dc1a0d5005c49c72af32b6"
+msgid "그레이브 키퍼 링 MK.II"
+msgstr ""
+
+msgctxt "163803fce0291efff1c55f863bf347b7"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발된 액세서리인 만큼 다양한 능력을 바탕으로 사용자를 돕는데 "
+"최적화된 힘을 가지고 있지만, 아직 개발 중으로 개선의 여지가 남아 있다. 손가락에 착용할 수 있다.\\n\\n…역시 예상했던대로 보통의 "
+"이능력자는 아닌 모양이군.\\n네 덕분에 가상현실 내부의 모든 장비들이 오버히트를 일으켰다.\\n- 벤자민 -"
+msgstr ""
+
+msgctxt "c9f4679a09518bf091705d251dc6a766"
+msgid "ID=410554454"
+msgstr ""
+
+msgctxt "964e90557f6deda1f9eac15d36206b7f"
+msgid "그레이브 키퍼 팬던트 MK.III"
+msgstr ""
+
+msgctxt "f418dbda965283a395c26ede30254388"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발된 액세서리인 만큼 다양한 능력을 바탕으로 사용자를 돕는데 "
+"최적화된 힘을 가지고 있다. 최종 완성형 액세서리로 스틸 그레이브의 연구원들은 그 어디에서도 이 이상의 장비를 만들 수 없다고 자부하고 "
+"있다. 목에 착용할 수 있다.\\n\\n하! 이, 이 정도는 나도 독자적으로 만들 수 있다고! \\n그… 설계도만 주면 말이지!\\n- "
+"제니스 -"
+msgstr ""
+
+msgctxt "b1047f8c9b5e3a21c6e6218f64d95538"
+msgid "ID=430554454"
+msgstr ""
+
+msgctxt "c555417f9c9e7a1798b4a2ad8d49850a"
+msgid "그레이브 키퍼 이어링 MK.III"
+msgstr ""
+
+msgctxt "a539a05c41f5594796a10922b20b32bf"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발된 액세서리인 만큼 다양한 능력을 바탕으로 사용자를 돕는데 "
+"최적화된 힘을 가지고 있다. 최종 완성형 액세서리로 스틸 그레이브의 연구원들은 그 어디에서도 이 이상의 장비를 만들 수 없다고 자부하고 "
+"있다. 귀에 착용할 수 있다.\\n\\n하! 이, 이 정도는 나도 독자적으로 만들 수 있다고! \\n그… 설계도만 주면 말이지!\\n- "
+"제니스 -"
+msgstr ""
+
+msgctxt "a2421f52c5af40508397e322a1441f20"
+msgid "ID=440554454"
+msgstr ""
+
+msgctxt "dc9f04f410881a867e0d9b4761e10423"
+msgid "그레이브 키퍼 링 MK.III"
+msgstr ""
+
+msgctxt "6c8156c1bbaaf7d15824ee17a8eeff8e"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"별숲리그의 전투 연구소, 스틸 그레이브에서 소울워커의 전투 정보를 토대로 개발된 액세서리인 만큼 다양한 능력을 바탕으로 사용자를 돕는데 "
+"최적화된 힘을 가지고 있다. 최종 완성형 액세서리로 스틸 그레이브의 연구원들은 그 어디에서도 이 이상의 장비를 만들 수 없다고 자부하고 "
+"있다. 손가락에 착용할 수 있다.\\n\\n하! 이, 이 정도는 나도 독자적으로 만들 수 있다고! \\n그… 설계도만 주면 말이지!\\n-"
+" 제니스 -"
+msgstr ""
+
+msgctxt "ad73865bd03fd6cab808e659816fc1dc"
+msgid "ID=711554411"
+msgstr ""
+
+msgctxt "a76288428fd92e1a5310604ced2321ae"
+msgid "[설계도]화이트 어벤저"
+msgstr ""
+
+msgctxt "6e68c1517db310e91d220aa91799126f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [화이트 어벤저] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "654658b308414bb1cff81a92476ce49e"
+msgid "ID=712554411"
+msgstr ""
+
+msgctxt "7b0d7d49a918d8b7200b60912382ad3c"
+msgid "[설계도]에셴 플리저 시커"
+msgstr ""
+
+msgctxt "106fb6735f635b8e44800024dfa8d12d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [에셴 플리저 시커] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "86d0e2de09a4368348d8e76474b4de8f"
+msgid "ID=713554411"
+msgstr ""
+
+msgctxt "abb811bd1ee319cb9322a489fabbee77"
+msgid "[설계도]크림슨 루나 브링거"
+msgstr ""
+
+msgctxt "bb8c8a4da0a7a0c88f11f183ee17ed69"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [크림슨 루나 브링거] "
+"제작에 필요한 설계도."
+msgstr ""
+
+msgctxt "923bc104f39fc99275ee311f2448fffc"
+msgid "ID=715554411"
+msgstr ""
+
+msgctxt "659efdcd818599487e66b7f5d60e6f69"
+msgid "[설계도]밴쉬 더 다크니스"
+msgstr ""
+
+msgctxt "3268487c1c315237cbcece6569672624"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n소울 웨폰 [밴쉬 더 다크니스] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "9fe715e359e51a000073a2a35868f46f"
+msgid "ID=710554431"
+msgstr ""
+
+msgctxt "b17a76915bc1e75a7770841e8054c342"
+msgid "[설계도]다크니스 본 헤드"
+msgstr ""
+
+msgctxt "6adeff6d6a65927bc733120254b483ea"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [다크니스 본 헤드] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "c80f9656aa63d011e35360780c610026"
+msgid "ID=710554441"
+msgstr ""
+
+msgctxt "b9755b36efdca86fe4e1784f129dea8f"
+msgid "[설계도]다크니스 본 숄더"
+msgstr ""
+
+msgctxt "f12d47910c547b089acdd4799da6c5ab"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [다크니스 본 숄더] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "155fcec988f1d9731974737e48c1b75c"
+msgid "ID=710554451"
+msgstr ""
+
+msgctxt "22612dfee693f7d0d3c96a879c42c477"
+msgid "[설계도]다크니스 본 바디"
+msgstr ""
+
+msgctxt "bcab914bf0eb276f1a352896fa1f2c74"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [다크니스 본 바디] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "4a98e71a6690308f8f788f4b4e82fd03"
+msgid "ID=710554461"
+msgstr ""
+
+msgctxt "d0dbe46c582770f4727eaf0b2ddebe27"
+msgid "[설계도]다크니스 본 레그"
+msgstr ""
+
+msgctxt "d52ddc951836beec29b1c33d6533a6ed"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [다크니스 본 레그] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "4c22c443b50d3e57d74bf53dfa26dfb9"
+msgid "ID=710554432"
+msgstr ""
+
+msgctxt "3a820fb8ed892d76cc0e6674a90650bf"
+msgid "[설계도]섀도우 베인 헤드"
+msgstr ""
+
+msgctxt "94a49cc73207479787572906d94aba3c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [섀도우 베인 헤드] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "ed3e2a1c84c309dd0c0a59353bc5646e"
+msgid "ID=710554442"
+msgstr ""
+
+msgctxt "5f0b71554822285c07101b0a9dba6f6d"
+msgid "[설계도]섀도우 베인 숄더"
+msgstr ""
+
+msgctxt "329a3f5d6c3735f800c428bf7de909d2"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [섀도우 베인 숄더] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "79ee045aa53a3f425542a1fb050d57bc"
+msgid "ID=710554452"
+msgstr ""
+
+msgctxt "033f9fa34436fb65a16f0bcdc57a33c3"
+msgid "[설계도]섀도우 베인 바디"
+msgstr ""
+
+msgctxt "e4a31eb28973145f45c7b0691f116b5c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [섀도우 베인 바디] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "58d8b2a5e022df8152870b570a3ae6ba"
+msgid "ID=710554462"
+msgstr ""
+
+msgctxt "33adcd8ea64fa96b36cf057f6790960e"
+msgid "[설계도]섀도우 베인 레그"
+msgstr ""
+
+msgctxt "6b71100bc1820f2e18534a4261c72430"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [섀도우 베인 레그] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "3b1a2ac1cab61154095d485bbe910d0d"
+msgid "ID=710554433"
+msgstr ""
+
+msgctxt "10bb7725cb033101c87718afd8d577c2"
+msgid "[설계도]스피릿 팬텀 헤드"
+msgstr ""
+
+msgctxt "f7bb2e180d49c1349aed07b8bbf6b4ec"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n헤드 기어 [스피릿 팬텀 헤드] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "f9f6d8aa9e13580eb4279890dafde78f"
+msgid "ID=710554443"
+msgstr ""
+
+msgctxt "790afa7bdba6835057177370152a5774"
+msgid "[설계도]스피릿 팬텀 숄더"
+msgstr ""
+
+msgctxt "fed45220773d695a02d685bc86b1881b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n숄더 기어 [스피릿 팬텀 숄더] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "b694ea8f81a85237fbabdcaa7a995675"
+msgid "ID=710554453"
+msgstr ""
+
+msgctxt "4aa7c4993ec5055c1d348986a928b7c8"
+msgid "[설계도]스피릿 팬텀 바디"
+msgstr ""
+
+msgctxt "23ce51a7ec0bdbe5134fa019bdb9ad72"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n바디 기어 [스피릿 팬텀 바디] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "404da6c9a5e46784540a279d742a3adc"
+msgid "ID=710554463"
+msgstr ""
+
+msgctxt "b33e3a5d0351ae7c87ee0f4395464025"
+msgid "[설계도]스피릿 팬텀 레그"
+msgstr ""
+
+msgctxt "12e4106d8f035823eec8aef7974f7056"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n레그 기어 [스피릿 팬텀 레그] 제작에 "
+"필요한 설계도."
+msgstr ""
+
+msgctxt "8a1fa20bf45fb81155740d3047be03fe"
+msgid "ID=111554452"
+msgstr ""
+
+msgctxt "e5c4af9e67881e1cee5f339955d31974"
+msgid "화이트 어벤저"
+msgstr ""
+
+msgctxt "367b0700423918bd8761239322318d92"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 뒤틀린 "
+"차원에서 가져온 물질로 제작된 이 검은 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 강력한 힘으로 실체화하는 능력을 가지고 있다."
+" 대신 강력한 힘에 취해 자신에게 소홀해진다면 깊숙한 곳에 감춰진 마음이 겉으로 드러날 수 있기 때문에 사용에 유의하여야 한다. 하루 "
+"에스티아가 사용한다.\\n\\n너도… 죽여줄게.\\n- 하루 에스티아 -"
+msgstr ""
+
+msgctxt "642086d0b1373f5a2fe401f12b215252"
+msgid "ID=112554452"
+msgstr ""
+
+msgctxt "63042bd588f6c0b8c6c09c74858676db"
+msgid "에셴 플리저 시커"
+msgstr ""
+
+msgctxt "73d5650a6f26bbfd5dfac15275ebbf64"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권총]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 권총은 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 강력한 힘으로 실체화하는 능력을 "
+"가지고 있다. 대신 강력한 힘에 취해 자신에게 소홀해진다면 깊숙한 곳에 감춰진 마음이 겉으로 드러날 수 있기 때문에 사용에 유의하여야 "
+"한다. 어윈 아크라이트가 사용한다.\\n\\n다들 얌전히 비키는게 좋을거야!\\n나 지금 엄청 진지하니까 말이야!\\n- 어윈 아크라이트 "
+"-"
+msgstr ""
+
+msgctxt "9083e0e2c55ba8441bb22d5ce1c0b0fe"
+msgid "ID=113554452"
+msgstr ""
+
+msgctxt "7d4102e8cc8730290a92f8f595fd8c15"
+msgid "크림슨 루나 브링거"
+msgstr ""
+
+msgctxt "41808d19144187bfe2c01ae6732f3d3a"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 뒤틀린 "
+"차원에서 가져온 물질로 제작된 이 거대한 낫은 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. 대신 "
+"강력한 힘에 취해 자신에게 소홀해진다면 깊숙한 곳에 감춰진 마음이 겉으로 드러날 수 있기 때문에 사용에 유의하여야 한다. 릴리 "
+"블룸메르헨이 사용한다.\\n\\n저 작자가 살려달라고 내지르는 비명이 너무나 듣고 싶어졌어요.\\n- 릴리 블룸메르헨 -"
+msgstr ""
+
+msgctxt "4002e7a162aa27dd73630f80d7da2305"
+msgid "ID=115554452"
+msgstr ""
+
+msgctxt "1ac33144e0990a2d00a9d3011003a4eb"
+msgid "밴쉬 더 다크니스"
+msgstr ""
+
+msgctxt "031c0075e23fceda8f2504255a9a8e1a"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기타는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. 대신 "
+"강력한 힘에 취해 자신에게 소홀해진다면 깊숙한 곳에 감춰진 마음이 겉으로 드러날 수 있기 때문에 사용에 유의하여야 한다. 스텔라 유니벨이 "
+"사용한다.\\n\\n…도망치고 싶어. \\n이런 슬픈 일 또다시 보고 싶지 않아. 보고 싶지… 않아.\\n- 스텔라 유니벨 -"
+msgstr ""
+
+msgctxt "fec9dc029912a772f4469898ead87197"
+msgid "ID=510554452"
+msgstr ""
+
+msgctxt "db85ef2538f377b56b161c3cbeb45138"
+msgid "다크니스 본 헤드"
+msgstr ""
+
+msgctxt "629347edd2696f78e0b9ad9a0f15d62d"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기어는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자를 보호하며, 전신을 동일한 형질의 기어로 장비했을 때에 사용자에게 강력한 힘을 부여해 준다. 머리에 착용할 수 있다."
+"\\n\\n어둠 속에서 태어난 것들은 태생적으로 빛에서 난 것들에게 강렬한 애증을 가지고 있지.\\n마치, 형제처럼 말이야.\\n- "
+"??? -"
+msgstr ""
+
+msgctxt "75d3849d15b4b008a1089f1575d82e55"
+msgid "ID=520554452"
+msgstr ""
+
+msgctxt "aefba34e76d7f324766ae80b36640721"
+msgid "다크니스 본 숄더"
+msgstr ""
+
+msgctxt "10d8a47db131741585c1421b1d1a8db8"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기어는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자를 보호하며, 전신을 동일한 형질의 기어로 장비했을 때에 사용자에게 강력한 힘을 부여해 준다. 어깨에 착용할 수 있다."
+"\\n\\n어둠 속에서 태어난 것들은 태생적으로 빛에서 난 것들에게 강렬한 애증을 가지고 있지.\\n마치, 형제처럼 말이야.\\n- "
+"??? -"
+msgstr ""
+
+msgctxt "715c2901154b765213f7e6ca331c3f96"
+msgid "ID=530554452"
+msgstr ""
+
+msgctxt "73b85afcef6dc5648b66e89410cfa16a"
+msgid "다크니스 본 바디"
+msgstr ""
+
+msgctxt "d8bd41f33e6bc3794d3720e1d5c20af6"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기어는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자를 보호하며, 전신을 동일한 형질의 기어로 장비했을 때에 사용자에게 강력한 힘을 부여해 준다. 가슴에 착용할 수 있다."
+"\\n\\n어둠 속에서 태어난 것들은 태생적으로 빛에서 난 것들에게 강렬한 애증을 가지고 있지.\\n마치, 형제처럼 말이야.\\n- "
+"??? -"
+msgstr ""
+
+msgctxt "1a2745a6f9ba7dc1e3238b497395f6bf"
+msgid "ID=540554452"
+msgstr ""
+
+msgctxt "74d839d3675ab3d4640d4fdaf18ec6d6"
+msgid "다크니스 본 레그"
+msgstr ""
+
+msgctxt "676d02837f4d2918128fc1d1a609f2c4"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기어는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자를 보호하며, 전신을 동일한 형질의 기어로 장비했을 때에 사용자에게 강력한 힘을 부여해 준다. 다리에 착용할 수 있다."
+"\\n\\n어둠 속에서 태어난 것들은 태생적으로 빛에서 난 것들에게 강렬한 애증을 가지고 있지. \\n마치, 형제처럼 말이야.\\n- "
+"??? -"
+msgstr ""
+
+msgctxt "35dc41a90c17f6e99d1310f28adcc697"
+msgid "ID=510554453"
+msgstr ""
+
+msgctxt "d8e59f61f306fd10bf0f81f0b343f612"
+msgid "섀도우 베인 헤드"
+msgstr ""
+
+msgctxt "58346108519f352fd93e9fab9d6dea61"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기어는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자를 보호하며, 전신을 동일한 형질의 기어로 장비했을 때에 사용자에게 강력한 힘을 부여해 준다. 머리에 착용할 수 있다."
+"\\n\\n간혹 사람들 중엔 이해 못할 만큼 냉혹한 사람들이 있어.\\n뭐, 대부분 알고 보면 핏속에 어둠이 자리 잡은 그런 사람들이지."
+"\\n- ??? -"
+msgstr ""
+
+msgctxt "501d940e95c428af4431e0647d1403ea"
+msgid "ID=520554453"
+msgstr ""
+
+msgctxt "708bd553cb266759ec4055c15c41550f"
+msgid "섀도우 베인 숄더"
+msgstr ""
+
+msgctxt "6c1fd50c0c3b1f54006b8c0705bf9099"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기어는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자를 보호하며, 전신을 동일한 형질의 기어로 장비했을 때에 사용자에게 강력한 힘을 부여해 준다. 어깨에 착용할 수 있다."
+"\\n\\n간혹 사람들 중엔 이해 못 할 만큼 냉혹한 사람들이 있어.\\n뭐, 대부분 알고 보면 핏속에 어둠이 자리 잡은 그런 사람들이지."
+"\\n- ??? -"
+msgstr ""
+
+msgctxt "9dfa7e7c91486136d1a2ea4bbec3308a"
+msgid "ID=530554453"
+msgstr ""
+
+msgctxt "e28c43dc67d75cb150decb90e805105a"
+msgid "섀도우 베인 바디"
+msgstr ""
+
+msgctxt "d29bd866b32a1b566a50ca4620f2e9f3"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기어는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자를 보호하며, 전신을 동일한 형질의 기어로 장비했을 때에 사용자에게 강력한 힘을 부여해 준다. 가슴에 착용할 수 있다."
+"\\n\\n간혹 사람들 중엔 이해 못 할 만큼 냉혹한 사람들이 있어.\\n뭐, 대부분 알고 보면 핏속에 어둠이 자리 잡은 그런 사람들이지."
+"\\n- ??? -"
+msgstr ""
+
+msgctxt "8d2acf82905207bc5c51db068c7886eb"
+msgid "ID=540554453"
+msgstr ""
+
+msgctxt "c8526c4f816c1402db698bb51615396a"
+msgid "섀도우 베인 레그"
+msgstr ""
+
+msgctxt "2a7017ba05041b123a5decdce2f6e80c"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기어는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자를 보호하며, 전신을 동일한 형질의 기어로 장비했을 때에 사용자에게 강력한 힘을 부여해 준다. 다리에 착용할 수 있다."
+"\\n\\n간혹 사람들 중엔 이해 못 할 만큼 냉혹한 사람들이 있어.\\n뭐, 대부분 알고 보면 핏속에 어둠이 자리 잡은 그런 사람들이지."
+"\\n- ??? -"
+msgstr ""
+
+msgctxt "26241ce8261fcffd4967b3a15f22994a"
+msgid "ID=510554454"
+msgstr ""
+
+msgctxt "165ca28719759d39f803085cbb0d3e75"
+msgid "스피릿 팬텀 헤드"
+msgstr ""
+
+msgctxt "05a3a0c8d27161bc999415e237f414a5"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기어는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자를 보호하며, 전신을 동일한 형질의 기어로 장비했을 때에 사용자에게 강력한 힘을 부여해 준다. 머리에 착용할 수 있다."
+"\\n\\n망령에 사로잡힌 인간들의 말로는 항상 같았지.\\n살아있는 망령이 되던가… 망령처럼 사라져 버리던가.\\n- ??? -"
+msgstr ""
+
+msgctxt "faf7c32baa885a17e5747a91ad18cf8a"
+msgid "ID=520554454"
+msgstr ""
+
+msgctxt "d0434818aeddce7027eae05c41cac0ce"
+msgid "스피릿 팬텀 숄더"
+msgstr ""
+
+msgctxt "fc10ea921b6940a86dcfa94067044858"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기어는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자를 보호하며, 전신을 동일한 형질의 기어로 장비했을 때에 사용자에게 강력한 힘을 부여해 준다. 어깨에 착용할 수 있다."
+"\\n\\n망령에 사로잡힌 인간들의 말로는 항상 같았지.\\n살아있는 망령이 되던가… 망령처럼 사라져 버리던가.\\n- ??? -"
+msgstr ""
+
+msgctxt "784f1b5b6d3dc86c6e9f5e25d2844b6d"
+msgid "ID=530554454"
+msgstr ""
+
+msgctxt "5447397ab356e9e80ac44fb43b1064e0"
+msgid "스피릿 팬텀 바디"
+msgstr ""
+
+msgctxt "80015c661f147bf2baad425b3b579e91"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기어는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자를 보호하며, 전신을 동일한 형질의 기어로 장비했을 때에 사용자에게 강력한 힘을 부여해 준다. 가슴에 착용할 수 있다."
+"\\n\\n망령에 사로잡힌 인간들의 말로는 항상 같았지.\\n살아있는 망령이 되던가… 망령처럼 사라져 버리던가.\\n- ??? -"
+msgstr ""
+
+msgctxt "6910d809aa5c4b0500d6f3e3ff8ce47b"
+msgid "ID=540554454"
+msgstr ""
+
+msgctxt "d35b7431b6d906371ac2aecff0f400c2"
+msgid "스피릿 팬텀 레그"
+msgstr ""
+
+msgctxt "48e2e95f273b2dcc842a7beaf9c69df5"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 기어는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자를 보호하며, 전신을 동일한 형질의 기어로 장비했을 때에 사용자에게 강력한 힘을 부여해 준다. 다리에 착용할 수 있다."
+"\\n\\n망령에 사로잡힌 인간들의 말로는 항상 같았지.\\n살아있는 망령이 되던가… 망령처럼 사라져 버리던가.\\n- ??? -"
+msgstr ""
+
+msgctxt "12b6162c662c8925e9b2bd6490c34c92"
+msgid "ID=410554451"
+msgstr ""
+
+msgctxt "0fbb96bdde4b876d67c53d1cdd41b213"
+msgid "어비셜 블랭크니스 샤드"
+msgstr ""
+
+msgctxt "21385863e101a5adf22cd33496b71297"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 액세서리는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자에게 다양한 힘을 부여하여 전투를 돕는다.\\n목에 착용할 수 있다.\\n\\n...수많은 연구자들이 15년이라는 "
+"시간 동안 공백에 대해 알아낸 것은 아무것도 없었다. \\n다만 우리의 통념을 뛰어넘는 존재가 한 것이 아닌가 하는 허무맹랑한 생각뿐이다."
+"\\n- 공백을 연구하던 어느 연구원의 일지 중... -"
+msgstr ""
+
+msgctxt "dbb6dddf0cc11903a93aa66f42c9850c"
+msgid "ID=430554451"
+msgstr ""
+
+msgctxt "17862fb7b90c935103aee4f2bf7b15e7"
+msgid "어비셜 블랭크니스 메모리"
+msgstr ""
+
+msgctxt "12507dd4887cfa6ef94f0840200345c5"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 액세서리는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자에게 다양한 힘을 부여하여 전투를 돕는다.\\n귀에 착용할 수 있다.\\n\\n…이 기록을 마지막으로 우리의 연구는 "
+"여기서 끝을 맺는다.\\n내 탐구심도 여기까지라고 말했다. 뭐, 내 생명을 담보로 연구하는 건 성미에 안맞으니까.\\n- 공백을 연구하던 "
+"어느 연구원의 일지 중... -"
+msgstr ""
+
+msgctxt "fb3146261b5dc7b00236ad714b90ac9c"
+msgid "ID=440554451"
+msgstr ""
+
+msgctxt "72f0762aab9e4c2e3705fe9bda4d2f9d"
+msgid "어비셜 블랭크니스 라이트"
+msgstr ""
+
+msgctxt "178a473bce9544afe2a9303ed39690c9"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 액세서리로 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자에게 다양한 힘을 부여하여 전투를 돕는다.\\n손가락에 착용할 수 있다.\\n\\n…공백의 존재로 우리의 통념으로 "
+"생각할 수 없었던 존재들이 세상에 태어났다. \\n소울정크… 그들은 우리의 이해를 뛰어넘은 존재들이었다.\\n- 공백을 연구하던 어느 "
+"연구원의 일지 중... -"
+msgstr ""
+
+msgctxt "eccfea504e030e1a088db8531710035f"
+msgid "ID=440554452"
+msgstr ""
+
+msgctxt "bf5c8415247532e78c782c2a59de963c"
+msgid "어비셜 블랭크니스 둠"
+msgstr ""
+
+msgctxt "38f47b4b3b6f85dfcf6dbadf0e7d8a91"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"뒤틀린 차원에서 가져온 물질로 제작된 이 액세서리는 사용자의 마음속 깊은 곳에 봉인된 것을 매개체로 하여 실체화하는 힘을 가지고 있다. "
+"실체화된 힘은 사용자에게 다양한 힘을 부여하여 전투를 돕는다.\\n손가락에 착용할 수 있다.\\n\\n…우리가 확신할 수 있는 것 중 "
+"하나는 공백에 휘말린 것을 되찾는 가능성 따윈 없다는 것이었다.\\n- 공백을 연구하던 어느 연구원의 일지 중... -"
+msgstr ""
+
+msgctxt "78b3b372e2edac5d271914d4df29c0ac"
+msgid "ID=410554452"
+msgstr ""
+
+msgctxt "db94eb90d29c8f109e3238e9bbc30c3a"
+msgid "로드 오브 카오스 펜던트"
+msgstr ""
+
+msgctxt "48c21eedf92c97a95b1af9a8a3362ed7"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"뒤틀린 차원에서 발견한 것으로, 예전에 누가 사용했던 것인지 자연적으로 생겨난 것인지 알 수 없다. 확실한 것은, 지독할 정도로 어둡고 "
+"강한 힘이 느껴진다는 것뿐.\\n목에 착용할 수 있다.\\n\\n끔찍할 정도로 기분 나쁜 에너지야. 근데 그걸 상회할 정도로 너무 강해."
+"\\n이 물건… 사람을 타락시킬 거야. 분명.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "73d232f47fa7bdccd382800fa5f0081b"
+msgid "ID=430554452"
+msgstr ""
+
+msgctxt "193529ac61b507584b1eec8272a3b9f2"
+msgid "로드 오브 카오스 이어링"
+msgstr ""
+
+msgctxt "39f1886b9472c1ca9f4ba276b21bdf78"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"뒤틀린 차원에서 발견한 것으로, 예전에 누가 사용했던 것인지 자연적으로 생겨난 것인지 알 수 없다. 확실한 것은, 지독할 정도로 어둡고 "
+"강한 힘이 느껴진다는 것뿐.\\n귀에 착용할 수 있다.\\n\\n끔찍할 정도로 기분 나쁜 에너지야. 근데 그걸 상회할 정도로 너무 강해."
+"\\n이 물건… 사람을 타락시킬 거야. 분명.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "83da6aeac16c7b443b9ca566327ae1df"
+msgid "ID=440554453"
+msgstr ""
+
+msgctxt "d98c784d9ccf391709e7c2d8e99afdf6"
+msgid "로드 오브 카오스 링"
+msgstr ""
+
+msgctxt "28c158db7c09f60dde1d83056c8b64c9"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"뒤틀린 차원에서 발견한 것으로, 예전에 누가 사용했던 것인지 자연적으로 생겨난 것인지 알 수 없다. 확실한 것은, 지독할 정도로 어둡고 "
+"강한 힘이 느껴진다는 것뿐.\\n손가락에 착용할 수 있다.\\n\\n끔찍할 정도로 기분 나쁜 에너지야. 근데 그걸 상회할 정도로 너무 "
+"강해.\\n이 물건… 사람을 타락시킬 거야. 분명.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "92b872294d1fa327d36fdd00f83e01c8"
+msgid "ID=440554455"
+msgstr ""
+
+msgctxt "dd07041e84e9d4033730b61ae652dbb8"
+msgid "서번트 오브 카오스 링"
+msgstr ""
+
+msgctxt "644e725169eecbc0d2e9d960aafa3dd8"
+msgid "ID=114011301"
+msgstr ""
+
+msgctxt "824da1313a1d70883b22e3b4fba3273d"
+msgid "레머넌트 암"
+msgstr ""
+
+msgctxt "247be6bc393977f1c6c5a1c080887411"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"정체를 알수 없는 괴물과 조우하자 강렬한 빛과 함께 팔에 장착된 무기.\\n권갑의 형상을 하고 있으며, 마치 오래전부터 함께한 것 같은 "
+"아련한 감정이 느껴진다.\\n진 세이파츠가 사용한다.\\n\\n당신이 바라고 원하는 것을 이룰 힘.\\n당신이 원하는 삶을 살 수 있게 "
+"만들어 줄 힘….\\n- 의문의 아이 -"
+msgstr ""
+
+msgctxt "b46493cbbf30e8a277ef1cad936a1cc4"
+msgid "ID=114031301"
+msgstr ""
+
+msgctxt "879a3861dd2532bd6e35d28996fca7fc"
+msgid "하빙거 암"
+msgstr ""
+
+msgctxt "7ebe16063cf77505555e2e6faf720793"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 팔을 "
+"감싸는 권갑 형태의 무기로 일반인이 사용하면 단순한 보호구에 불과하지만 소울워커가 사용하면 특별한 힘이 발현된다고 한다.\\n진 "
+"세이파츠가 사용한다."
+msgstr ""
+
+msgctxt "59666f4dae02fba7455c5b88d37dd658"
+msgid "ID=114042301"
+msgstr ""
+
+msgctxt "d407f4c8da69a3b72f41cc2babbd137a"
+msgid "레니어리 암"
+msgstr ""
+
+msgctxt "ba9b03870244aba57a8d7640eabf1cc1"
+msgid "ID=114043301"
+msgstr ""
+
+msgctxt "8bf894f97e63ed6800d8788b6610fcbf"
+msgid "래비드 팽 암"
+msgstr ""
+
+msgctxt "eb659a51f5d16de5b10c0b0dd2e01f7e"
+msgid "ID=114053551"
+msgstr ""
+
+msgctxt "987002458a66ff14469fdb141f823b8f"
+msgid "드레드 울프 클로"
+msgstr ""
+
+msgctxt "84b8d98f09dd3eb96e978d0d34bde5e3"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 시추 "
+"현장에서 만난 소울정크의 각성체, 카인과의 전투 정보를 토대로 만든 권갑로 카인의 갈기를 참고하여 만들었다.\\n진 세이파츠가 사용한다."
+"\\n\\n…어… 제가 잘 못 들은 건 아니겠죠?\\n개가 말을 하고 있는데요.\\n- 진 세이파츠 -"
+msgstr ""
+
+msgctxt "a13a78606dbae2963ff74932ae6947f7"
+msgid "ID=114061301"
+msgstr ""
+
+msgctxt "cc1b192cf597cb473c0f2b956fe1fbd1"
+msgid "스탠다드 암"
+msgstr ""
+
+msgctxt "589dd4671f73bf0a3827772e91aaeeef"
+msgid "ID=114062301"
+msgstr ""
+
+msgctxt "da491776656395fd9decae1e6b91d521"
+msgid "스푸키 퍼펫 암"
+msgstr ""
+
+msgctxt "4151c015fd6c0f9dd102a6b131ffde9d"
+msgid "ID=114073301"
+msgstr ""
+
+msgctxt "e231b6d755707b47065697334adc94fd"
+msgid "수어사이드 퍼펫 블로커"
+msgstr ""
+
+msgctxt "45e9390a5880e546a428a236e318ee42"
+msgid "ID=114083551"
+msgstr ""
+
+msgctxt "64e7e772723162f6435ca2bab701ab40"
+msgid "건틀렛 타입 퍼펫 블래스터"
+msgstr ""
+
+msgctxt "da5adb331f78644fa5e7545726a1dd3f"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n소울워커 전용 무기. R "
+"스퀘어 광장에서 만난 거대한 인형, 빅 퍼펫과의 전투 정보를 토대로 만든 권갑로 빅 퍼펫의 폭발력이 담긴 구체를 달았다. 단순한 장식처럼 "
+"보이지만 구슬에 담긴 강력한 힘은 무엇이든 폭발 시킨다.\\n진 세이파츠가 사용한다.\\n\\n거대 자폭 병기, 빅 퍼펫 저지 작전 "
+"실시!\\n- 클로이 -"
+msgstr ""
+
+msgctxt "361425c87407abc0c0a3edcd0554ef25"
+msgid "ID=114091301"
+msgstr ""
+
+msgctxt "16bdebc5ef4054530cd8cfd1286649d9"
+msgid "브로드 암"
+msgstr ""
+
+msgctxt "eff4a05f5fd042c9a65c1548ec1a8f36"
+msgid "ID=114092301"
+msgstr ""
+
+msgctxt "24ef68f5315f314c7e73ef7bd8ac011d"
+msgid "언체인드 퍼펫 암"
+msgstr ""
+
+msgctxt "4cf9ab42ce263830ed24b79aa15c0818"
+msgid "ID=114103301"
+msgstr ""
+
+msgctxt "759113bf5de0a0fc80ea887e3f1a96b0"
+msgid "트윈헤드 퍼펫 블로커"
+msgstr ""
+
+msgctxt "ae870f082266c448b3bc2ec2d177e5f3"
+msgid "ID=114113551"
+msgstr ""
+
+msgctxt "e256fae6893e2001695fd21ab542b53e"
+msgid "파나틱 디재스터 건틀렛"
+msgstr ""
+
+msgctxt "b09f41df7781e954446e209ef7454c35"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"괴전파 발생 지역에서 만난 인형, 잭 더 킹과의 전투 정보를 토대로 만든 권갑. 이 권갑을 끼자 주변의 인형들이 이상하게 피하는 느낌이 "
+"든다.\\n진 세이파츠가 사용한다.\\n\\n에드가님! 사랑합니다! 에드가님!!\\n- 잭 더 킹 -"
+msgstr ""
+
+msgctxt "0036ee15f05cfc61b67632ac2c8ee0f8"
+msgid "ID=114111301"
+msgstr ""
+
+msgctxt "a0cb0a3bd183553bd62b92c5788be86a"
+msgid "플레이트 암"
+msgstr ""
+
+msgctxt "4b77bcf8cd107d4286b461cc070009d1"
+msgid "ID=114112301"
+msgstr ""
+
+msgctxt "8ceaceaaab7f997e7f9d7c781a8afe7a"
+msgid "슬로피 피에로 암"
+msgstr ""
+
+msgctxt "5fdd263d0ac126ed1ab2d3f8d69454cb"
+msgid "ID=114123301"
+msgstr ""
+
+msgctxt "3abbdeafacb19c081f45eaf231d27a7e"
+msgid "루나틱 제스터 트릭 암"
+msgstr ""
+
+msgctxt "9fc10cff3ec3078c76420e1d66cb099a"
+msgid "ID=114133551"
+msgstr ""
+
+msgctxt "ad9c10caa3f992f65e5443e0160d4e09"
+msgid "매드니스 할리퀸 건틀렛"
+msgstr ""
+
+msgctxt "abee0e930a610b149ddb37e4106e24b2"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"버려진 병원에서 만난 인형들의 주인, 에드가와의 전투 정보를 토대로 만든 권갑. 에드가의 푸른 수정에 담긴 힘을 해석하여 무기에 "
+"구현하였지만 어찌된 것인지 인형들의 공격은 더욱 거세졌다.\\n진 세이파츠가 사용한다.\\n\\n즐거운 쇼였습니다. 다음엔... 더 큰 "
+"무대에서.\\n- 에드가 -"
+msgstr ""
+
+msgctxt "f09b24c3748ad5811301136e6737e7ca"
+msgid "ID=114141301"
+msgstr ""
+
+msgctxt "7a990aa80b9d3d8f835bb02e52c52374"
+msgid "인핸스드 암"
+msgstr ""
+
+msgctxt "9b44f0d07c7338b409e6463e23a18e8a"
+msgid "ID=114142301"
+msgstr ""
+
+msgctxt "e79042fa766c73248256bdc2929b9b6a"
+msgid "트래쉬 버스터 암"
+msgstr ""
+
+msgctxt "c6f37f235f9b474f1246a97166fa2ba1"
+msgid "ID=114153301"
+msgstr ""
+
+msgctxt "8f84dafee3966dc5bb7306b0cacfe876"
+msgid "어벤던드 트래쉬 프리벤터"
+msgstr ""
+
+msgctxt "69e41725c1247a084f077880c9852a41"
+msgid "ID=114163551"
+msgstr ""
+
+msgctxt "6b218dfa1779a22d9471dfdb58927627"
+msgid "골렘 디스트로잉 암"
+msgstr ""
+
+msgctxt "913dc94ae51c08d05ef95dd0921b5e72"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"해안가 도로에 나타난 소울정크, 아스팔트 골렘과의 전투 정보를 토대로 만든 권갑으로 아스팔트와 콘크리트가 거의 주 재료인지라 상당한 "
+"무게를 자랑한다. 장착한 것 만으로도 힘에 부친다.\\n진 세이파츠가 사용한다.\\n\\n보고계십니까, 코치님.\\n이번엔 제 주먹이 "
+"돌을 이겼습니다!\\n- 진 세이파츠 -"
+msgstr ""
+
+msgctxt "859460e89bafb8137293f9940d2baccb"
+msgid "ID=114161301"
+msgstr ""
+
+msgctxt "449189035333dce973b5d15fa64f1681"
+msgid "포지드 암"
+msgstr ""
+
+msgctxt "2c1744f699f92159a664bbeda5e8c8e1"
+msgid "ID=114162301"
+msgstr ""
+
+msgctxt "269f4c279af8c7f50750e294f71fbdc9"
+msgid "스팅키 뮤턴트 암"
+msgstr ""
+
+msgctxt "bfdd6fb9d8566e4975736e68824e18b0"
+msgid "ID=114173301"
+msgstr ""
+
+msgctxt "ea89ada3e7be4e49ad9b5aee55a44db9"
+msgid "테인티드 소울 프리벤터"
+msgstr ""
+
+msgctxt "b2a33b601e18c26759b91f2e54f2f4d8"
+msgid "ID=114183551"
+msgstr ""
+
+msgctxt "e7f12ffaa3cf128882a6656309c58f97"
+msgid "커럽티드 나이트 암"
+msgstr ""
+
+msgctxt "63f3f5b6aa15c55fe0767a9f57939a9f"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n소울워커 전용 무기. 지하 "
+"수로에 나타난 소울정크, 정크 나이트와의 전투 정보를 토대로 만든 권갑으로 정크 나이트가 되어버린 이름을 알 수 없는 소울워커의 한이 "
+"서려있다.\\n진 세이파츠가 사용한다.\\n\\n인간!! 말살한다!!\\n- 정크 나이트 -"
+msgstr ""
+
+msgctxt "812776b770c5476bb8b51eac37698c3c"
+msgid "ID=114191301"
+msgstr ""
+
+msgctxt "49d229770b87a0a55cb17c06fcaebc85"
+msgid "스미싱 암"
+msgstr ""
+
+msgctxt "cd8845603e9d9d9a2433c871fa111d31"
+msgid "ID=114192301"
+msgstr ""
+
+msgctxt "55f327710185da3a23a71c6d282fcb50"
+msgid "정크 인펙터 암"
+msgstr ""
+
+msgctxt "6f1b0dfc28e764c96a49e941355d454d"
+msgid "ID=114203301"
+msgstr ""
+
+msgctxt "3fbe54dbe6f6b7892c66e9b576446f5e"
+msgid "퀸 스파이더 루인 암"
+msgstr ""
+
+msgctxt "5e3a6dd015ae6825218f4a71cf7d8b5d"
+msgid "ID=114213551"
+msgstr ""
+
+msgctxt "041949fec28fdacb2f5ed5d657c959db"
+msgid "아라크니드 베니싱 암"
+msgstr ""
+
+msgctxt "5e3b7f7774bc6cf6b324864fe8322537"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"버려진 저택에 나타난 소울정크, 아라크니스와의 전투 정보를 토대로 만든 권갑으로 아라크니스의 갑각과 거대한 앞 발의 형태를 참고하여 "
+"만들었다. 이상하게 손에 착 달라붙는 듯한 기분이 든다.\\n진 세이파츠가 사용한다.\\n\\n하… 하하… 역시… 와… 와주실 줄 "
+"알았어요. 하… 하하….\\n- 캐서린 -"
+msgstr ""
+
+msgctxt "ad8ece68e8461ab5c879ac69586c89d9"
+msgid "ID=114211301"
+msgstr ""
+
+msgctxt "d649c6673b55b874ec11615fe666847c"
+msgid "러스티 스매셔"
+msgstr ""
+
+msgctxt "0db5bc51550b0599db547d951a9dbef6"
+msgid "ID=114212301"
+msgstr ""
+
+msgctxt "778c50ce783854531cdd91afb38d9999"
+msgid "페일드 뮤턴트 스매셔"
+msgstr ""
+
+msgctxt "f41c9d6b075de9ece455e9033999a717"
+msgid "ID=114223301"
+msgstr ""
+
+msgctxt "628f765fa171bde4968a8240d167b22e"
+msgid "헌티드 오버시어 블로커"
+msgstr ""
+
+msgctxt "7aa95d0ea074c3d1f6fe22fb8f16a137"
+msgid "ID=114233551"
+msgstr ""
+
+msgctxt "182dd4dc25ba078974e1280076161acd"
+msgid "사일런트 위트니스 브로울러"
+msgstr ""
+
+msgctxt "233bdb80493563c5b8996b61d054cffe"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"N102 쉘터에 나타난 소울정크, 비홀더와의 전투 정보를 토대로 만든 권갑. 네드 컴퍼니의 연구에 의해 만들어진 인공 각성체, 비홀더의 "
+"촉수와 칼날을 참고하여 만들어져 흉악한 외형을 자랑한다. \\n심각한 단점으로는 손잡이가 끈적끈적하다.\\n진 세이파츠가 사용한다."
+"\\n\\n나왔다! 점액질… 점액질을 보자!\\n- 브록 -"
+msgstr ""
+
+msgctxt "a5ed1cbc949781a9ab92370a62c21129"
+msgid "ID=114241301"
+msgstr ""
+
+msgctxt "677f3f970aa59ad3341b311aeadae778"
+msgid "노말 스매셔"
+msgstr ""
+
+msgctxt "9ed24d244d892be52c9e471a2346cdad"
+msgid "ID=114242301"
+msgstr ""
+
+msgctxt "e2f78e3d2df6343b71c953870e3a216f"
+msgid "글루미 프레이터 스매셔"
+msgstr ""
+

@@ -1,0 +1,2973 @@
+0
+
+Sakura Earrings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEarrings inspired by cherry blossoms.\Iris can wear it.
+
+ID=261121081
+
+Circle earrings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEarrings believed to bring monetary luck.\nIris can wear it.
+
+ID=261122041
+
+Black Choker
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThere are chokers around the neck, and details of the neckline.\nIris can wear it.
+
+ID=261123041
+
+Red Choker
+
+ID=261124041
+
+Silver ring choker
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA choker around the neck, a small silver ring, can be worn by Iris.
+
+ID=261125041
+
+Pacifier
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPacifier where babies play in their mouths. Even if an adult asks, it is addictive. It is also good for tartar prevention.\nIris can wear it.
+
+ID=261126031
+
+Striped glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt is not the glasses of this world. Glasses that can make you feel stylish just by putting on. Sight gave up for style.\nIris can wear it.
+
+ID=261127031
+
+Defective Sunglasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe glasses seemed too strong. It has the effect of making your face look smaller.\nIris can wear it.
+
+ID=211555351
+
+Golden Aviator Sword
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Sword]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. Hologram shape with a more booty form, taking the form of a devourers weapon using Primal's power.\nIt only adds the image shape to the soul weapon that you have, so it does not show strong power separately.
+
+ID=212555351
+
+Golden Aviator Gun
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Gun]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. Hologram shape with a more booty form, taking the form of a devourers weapon using Primal's power.\nIt only adds the image shape to the soul weapon that you have, so it does not show strong power separately.
+
+ID=213555351
+
+Golden Aviator Scythe
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Scythe]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. Hologram shape with a more booty form, taking the form of a devourers weapon using Primal's power.\nIt only adds the image shape to the soul weapon that you have, so it does not show strong power separately.
+
+ID=214555351
+
+Golden Aviator Gauntlets
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Gauntlets]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. Hologram shape with a more booty form, taking the form of a devourers weapon using Primal's power.\nIt only adds the image shape to the soul weapon that you have, so it does not show strong power separately.
+
+ID=215555351
+
+Golden Aviator Guitar
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Guitar]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. Hologram shape with a more booty form, taking the form of a devourers weapon using Primal's power.\nIt only adds the image shape to the soul weapon that you have, so it does not show strong power separately.
+
+ID=216555351
+
+Golden Aviator Hammer
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Hammer]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. Hologram shape with a more booty form, taking the form of a devourers weapon using Primal's power.\nIt only adds the image shape to the soul weapon that you have, so it does not show strong power separately.
+
+ID=980000101
+
+Shape of Wind
+
+<font color='#FFBA85'>[Costume]<font color='#9D927B'>\n\nThe vast colors of freedom are visibly materialized and shaped like wings.
+
+ID=980000102
+
+ID=980000103
+
+ID=980000104
+
+ID=980000105
+
+ID=980000106
+
+ID=980000201
+
+Shape of Flames
+
+<font color='#FFBA85'>[Costume]<font color='#9D927B'>\n\nThe colors of the hot ups were visibly materialized and shaped like wings.
+
+ID=980000202
+
+ID=980000203
+
+ID=980000204
+
+ID=980000205
+
+ID=980000206
+
+ID=980000301
+
+Shape of Light
+
+<font color='#FFBA85'>[Costume]<font color='#9D927B'>\n\nBrilliant colors of honor are visibly materialized and shaped like wings.
+
+ID=980000302
+
+ID=980000303
+
+ID=980000304
+
+ID=980000305
+
+ID=980000306
+
+ID=212115171
+
+Golden Aviator Suit
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe lacquer was added to the suit made to explore the inside of the void. Nothing has evolved from the original black version, but the bright golden color that surrounds your body will surely envy others.
+
+ID=212115121
+
+Golden Aviator Headgear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA headgear made to explore the inside of the blank plus a gold finish. There has been no improvement in performance than the original black, but the bright golden color that surrounds the body will surely inspire others.
+
+ID=222114171
+
+ID=222114121
+
+ID=232123171
+
+ID=232123121
+
+ID=242112171
+
+ID=242112121
+
+ID=252116171
+
+ID=252116121
+
+ID=262116171
+
+ID=262116121
+
+ID=980003000
+
+[Attendance Check] Local Movement Option
+
+<font color='#FFBB85'>[지역 이동권 선택권]<font color='#9D927B'>\n\n해당 지역으로 이동할 수 있는 지역 이동권이 10매씩 들어 있다.
+
+ID=980003001
+
+[Attendance Check] Cloth Option
+
+<font color='#FFBB85'>[Cloth Option]<font color='#9D927B'>\n\nYou can choose the cloth that can make a costume if you need. 30 pieces of cloth are provided.
+
+ID=980003002
+
+[Maintenance compensation] Random box
+
+<font color='#FFBB85'>[Connection maintenance compensation]<font color='#9D927B'>\n\nThis is a random box that is paid when the connection is maintained steadily.
+
+ID=980003003
+
+[PC Room Attendance Check] Tera Brooch Ticket
+
+<font color='#FFBB85'>[Tera brooch transmitter]<font color='#9D927B'>\n\nIt is a top-grade brooch transmitter that collects only rare Tera brooch.
+
+ID=857500001
+
+Grass Cover Camp Supply Box
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nThe leader of the grass cover camp loaded supplies that were hidden in spaces all over the place. Based on the records of the currupted records, the Star League was searched and found directly.\n\n Inside are the items suitable for survival and souvenirs of survivors at the time. And there is a piece of note on the rod.
+
+ID=857500002
+
+Grass Cover Camp Advanced Supply Box
+
+<font color='#FFBA85'>[Random box]<font color='#9D927B'>\n\nA supply box where the leader road of the duvet camp was hidden in various places. Based on the records of the interrupted records, the Star Forest League searched and found them. \ N \ nIn the suits are suitable for survival and duvet camp doubles. And there is a piece of Lord's note.
+
+ID=857500003
+
+Grass Cover Camp Supply Box (Advanced)
+
+<font color='#FFBA85'>[Random Box]<font color='#9D927B'>\n\nA supply box where the leader road of the duvet camp was hidden in various places. Based on the records of the interrupted records, the Star Forest League searched and found them.\n\nIn the suits are suitable for survival and duvet camp doubles. And there is a piece of Lord's note.
+
+ID=857510001
+
+Golden Aviator Weapon Package
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\nGolden Aviator Weapons are available.\nWeapon skins obtained from this package are not tradable.
+
+ID=857510008
+
+Golden Aviator Suit Package
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\nYou can get a Golden Aviator suit.\nThe Golden Arbiter Suit obtained from this package is non-tradable.
+
+ID=857510015
+
+Golden Aviator Headgear Package
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\nYou can get a Golden Aviator Headgear.\n The Golden Aviator Headgear obtained from this package is non-tradable.
+
+ID=857510022
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\nGolden Aviator Weapons are available.\nWeapon skins obtained from this package are tradable.
+
+ID=857510029
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\nYou can get a Golden Aviator suit.\nThe Golden Arbiter Suit obtained from this package is tradable.
+
+ID=857510036
+
+<font color='#FFBB85'>[Costume Package]<font color='#9D927B'>\n\nYou can get a Golden Aviator suit.\nThe Golden Arbiter Suit obtained from this package is tradable.
+
+ID=810001147
+
+Corrupted Battle Support Package
+
+<font color='#FFBA85'>[Package]<font color='#9D927B'>\n\nPackage to support soul workers' currupted record.\n\n-component-\nRespawner x 50\nTeam Heart I x 10\n Bonus Card Key x 30\n Appendix of stained records x 10\nHigh Concentration VitaminZ x 3\nCommunity Mat x 3
+
+ID=980003004
+
+[PC room access] Advanced brooch option
+
+<font color='#FFBB85'>[Advanced brooch transmitter]<font color='#9D927B'>\n\nSD, BSK, FOT can be obtained by selecting the advanced brooch transmitter.
+
+ID=810001148
+
+[PC Room] Blood Perfume Booster
+
+<font color='#FFBA85'>[Ability Enhancement Item] Attack power increased by 12% for 30 minutes. Cooldown 5 minutes<font color='#9D927B'>\n\nSoul worker's exclusive body-enhancing fragrance.\nPerfume instantly changes the user's mood, changing the type of soul energy that is responsible for metabolism, and increasing the damage over a period of time. Although the concentration is lowered to 1/100th of the level of a prohibited hardening drug, the accumulation of residual substances in the body cannot be guaranteed even if the soul worker is a soul worker. Therefore, the use of other perfumes is strictly prohibited when the effect of perfume is ongoing.
+
+ID=810001149
+
+[PC Room] Iron Perfume Booster
+
+<font color='#FFBA85'>[Ability Enhancement Item] Armor increased by 50% for 30 minutes. Cooldown 5 minutes<font color='#9D927B'>\n\nSoul worker's exclusive body-enhancing fragrance.\nPerfume instantly changes the user's mood, changing the type of soul energy that is responsible for metabolism, and increasing the level of defense over a period of time. Although the concentration is lowered to 1/100th of the level of a prohibited hardening drug, the accumulation of residual substances in the body cannot be guaranteed even if the soul worker is a soul worker. Therefore, the use of other perfumes is strictly prohibited when the effect of perfume is ongoing.
+
+ID=810001150
+
+[PC Room] Flash Perfume Booster
+
+<font color='#FFBA85'>[Ability Enhancement Item] Attack speed increased by 10% for 30 minutes. Cooldown 5 minutes<font color='#9D927B'>\n\nSoul worker-only body-enhancing fragrance.\nPerfume instantly changes the user's mood, changing the type of soul energy that is responsible for metabolism, and increasing the speed of attack over time. Although the concentration of the banned reinforced drug is lowered to 1/100, the accumulation of residues in the body cannot be guaranteed to be safe even for soul workers. Therefore, when the effect of perfume steadily continues, the use of other perfumes is strictly prohibited.
+
+ID=810001151
+
+[PC] Perfume Package
+
+<font color='#FFBB85'>[Package]<font color='#9D927B'>\n\nA package made of perfumes that lasts longer than existing perfumes.
+
+ID=810001152
+
+[PC room] Lightning perfume booster
+
+<font color='#FFBA85'>[Buff item] Critical strike chance increased by 10% for 30 minutes. Cooldown 5 minutes<font color='#9D927B'>\n\nSoul worker-only body-enhancing fragrance.\nPerfume instantly changes the user's mood, increasing the chance of a critical hit over a period of time, changing the type of soul energy that is responsible for body reactions. Although the concentration of the banned reinforced drug is lowered to 1/100, the accumulation of residues in the body cannot be guaranteed to be safe even for soul workers. Therefore, when the effect of perfume steadily continues, the use of other perfumes is strictly prohibited.
+
+ID=810001153
+
+Shape options
+
+<font color='#FFBA85'>[Item selection]<font color='#9D927B'>\n\nA ticket to choose from only one of the various types of shapes. You can select only one shape that can only be used by Haru. The shape from this option is not possible to trade.
+
+ID=810001154
+
+<font color='#FFBA85'>[Item selection]<font color='#9D927B'>\n\nA ticket to choose from only one of the various types of shapes. You can select only one shape that can only be used by Erwin. The shape from this option is not possible to trade.
+
+ID=810001155
+
+<font color='#FFBA85'>[Item selection]<font color='#9D927B'>\n\nA ticket to choose from only one of the various types of shapes. You can select only one shape that can only be used by Lily. The shape from this option is not possible to trade.
+
+ID=810001156
+
+<font color='#FFBA85'>[Item selection]<font color='#9D927B'>\n\nA ticket to choose from only one of the various types of shapes. You can select only one shape that can only be used by Jin. The shape from this option is not possible to trade.
+
+ID=810001157
+
+<font color='#FFBA85'>[Item selection]<font color='#9D927B'>\n\nA ticket to choose from only one of the various types of shapes. You can select only one shape that can only be used by Stella. The shape from this option is not possible to trade.
+
+ID=810001158
+
+<font color='#FFBA85'>[Item selection]<font color='#9D927B'>\n\nA ticket to choose from only one of the various types of shapes. You can select only one shape that can only be used by Iris. The shape from this option is not possible to trade.
+
+ID=810001160
+
+<font color='#FFBA85'>[Item Selection]<font color='#9D927B'>\n\nA ticket to get the option to receive one of the different forms of geometry for each class. The shape from this option is not possible to trade.
+
+ID=810001161
+
+<font color='#FFBA85'>[Item selection]<font color='#9D927B'>\n\nA ticket to choose from only one of the various types of shapes. You can select only one shape that can only be used by Haru. The shape from this option is not possible to trade.
+
+ID=810001162
+
+<font color='#FFBA85'>[Item selection]<font color='#9D927B'>\n\nA ticket to choose from only one of the various types of shapes. You can select only one shape that can only be used by Erwin. The shape from this option is not possible to trade.
+
+ID=810001163
+
+<font color='#FFBA85'>[Item selection]<font color='#9D927B'>\n\nA ticket to choose from only one of the various types of shapes. You can select only one shape that can only be used by Lily. The shape from this option is not possible to trade.
+
+ID=810001164
+
+<font color='#FFBA85'>[Item selection]<font color='#9D927B'>\n\nA ticket to choose from only one of the various types of shapes. You can select only one shape that can only be used by Jin. The shape from this option is not possible to trade.
+
+ID=810001165
+
+<font color='#FFBA85'>[Item selection]<font color='#9D927B'>\n\nA ticket to choose from only one of the various types of shapes. You can select only one shape that can only be used by Stella. The shape from this option is not possible to trade.
+
+ID=810001166
+
+<font color='#FFBA85'>[Item selection]<font color='#9D927B'>\n\nA ticket to choose from only one of the various types of shapes. You can select only one shape that can only be used by Iris. The shape from this option is not possible to trade.
+
+ID=810001167
+
+<font color='#FFBA85'>[Item Selection]<font color='#9D927B'>\n\nA ticket to get the option to receive one of the different forms of geometry for each class. The shape from this option is possible to trade.
+
+ID=991000036
+
+[EV] Golden Songpyeon
+
+<font color='#FFBB85'>[Crafting material]<font color='#9D927B'>\n\nA golden song made on a special festive day in honor of the mighty moon. The inside of the song is made up of wishes and can not be eaten, but it is full of wishes to help you make what you want.\nIt looks delicious, but it shouldn't be eaten by the staff.\n\n<font color='#FF4000'>Golden songpyeon is available for sale after october 11 inspection.<font color='#9D927B'>
+
+ID=991000037
+
+Moonlight pouch
+
+<font color='#FFBB85'>[Random box]<font color='#9D927B'>\n\nYou can get on a special festive day in honor of the mighty moon, and you'll get the festivities and the right items every time you open your pocket with the desire of the moonlight.
+
+ID=810001168
+
+디바우러스 웨폰 선택권
+
+<font color='#FFBA85'>[아이템 선택권]<font color='#9D927B'>\n\n디바우러스 웨폰들 중 한 가지만 선택할 수 있는 티켓.
+
+ID=810001169
+
+Disorder Gear Choice
+
+<font color='#FFBA85'>[아이템 선택권]<font color='#9D927B'>\n\n디바우러스 기어들 중 한 가지만 선택할 수 있는 티켓
+
+ID=810001170
+
+디바우러스 액세서리 선택권
+
+<font color='#FFBA85'>[아이템 선택권]<font color='#9D927B'>\n\n디바우러스 악세서리들 중 한 가지만 선택할 수 있는 티켓
+
+ID=810001171
+
+추석 선물 패키지 [브로치]
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n추석을 맞이하여 새롭게 구성된 브로치 패키지.\n\n-구성품-\n상급 SD 브로치 전송기 x 10\n상급 BSK 브로치 전송기 x 10\n상급 FOT 브로치 전송기 x 10\n통합 테라 브로치 큐브 x 3
+
+ID=810001172
+
+추석 선물 패키지 [아카식]
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n추석을 맞이하여 새롭게 구성된 아카식 패키지.\n\n-구성품-\n아카식 레코드 전송기 x 30\n히든 아카식 레코드 전송기 x 5\n고급 아카식 레코드 전송기 x 5
+
+ID=810001173
+
+한가위 축제 주머니
+
+<font color='#FFBB85'>[랜덤 박스]<font color='#9D927B'>\n\n거대한 달을 기리는 특별한 축제를 위해 만들어진 한가위 축제 주머니.\n축제를 즐길 수 있는 [달빛 주머니]와 [황금 송편]이 들어있다.
+
+ID=213113071
+
+[EV] [Casual White School Uniform] Top
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 상의. 캐쥬얼한 멋을 내었다.\n하루가 입을 수 있다.
+
+ID=213113081
+
+[EV][캐쥬얼 화이트 교복] 하의
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 하의. 캐쥬얼한 멋을 내었다.\n하루가 입을 수 있다.
+
+ID=213113121
+
+[EV][캐쥬얼 화이트 교복] 신발
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 신발. 캐쥬얼한 멋을 내었다.\n하루가 입을 수 있다.
+
+ID=223112071
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 상의. 캐쥬얼한 멋을 내었다.\n어윈이 입을 수 있다.
+
+ID=223112081
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 하의. 캐쥬얼한 멋을 내었다.\n어윈이 입을 수 있다.
+
+ID=223112121
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 신발. 캐쥬얼한 멋을 내었다.\n어윈이 입을 수 있다.
+
+ID=233121071
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 상의. 캐쥬얼한 멋을 내었다.\n릴리가 입을 수 있다.
+
+ID=233121081
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 하의. 캐쥬얼한 멋을 내었다.\n릴리가 입을 수 있다.
+
+ID=233121121
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 신발. 캐쥬얼한 멋을 내었다.\n릴리가 입을 수 있다.
+
+ID=243110071
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 상의. 캐쥬얼한 멋을 내었다.\n진이 입을 수 있다.
+
+ID=243110081
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 하의. 캐쥬얼한 멋을 내었다.\n진이 입을 수 있다.
+
+ID=243110121
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 신발. 캐쥬얼한 멋을 내었다.\n진이 입을 수 있다.
+
+ID=253114071
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 상의. 캐쥬얼한 멋을 내었다.\n스텔라가 입을 수 있다.
+
+ID=253114081
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 하의. 캐쥬얼한 멋을 내었다.\n스텔라가 입을 수 있다.
+
+ID=253114121
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 신발. 캐쥬얼한 멋을 내었다.\n스텔라가 입을 수 있다.
+
+ID=263114071
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 상의. 캐쥬얼한 멋을 내었다.\n이리스가 입을 수 있다.
+
+ID=263114081
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 하의. 캐쥬얼한 멋을 내었다.\n이리스가 입을 수 있다.
+
+ID=263114121
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n따스한 봄과 서늘한 가을에 입기 편한 학생들의 춘추복 신발. 캐쥬얼한 멋을 내었다.\n이리스가 입을 수 있다.
+
+ID=813113071
+
+[밀봉][EV][캐쥬얼 화이트 교복] 상의
+
+[캐쥬얼 화이트 교복] 상의가 들어있는 패키지이다.
+
+ID=813113081
+
+[밀봉][EV][캐쥬얼 화이트 교복] 하의
+
+[캐쥬얼 화이트 교복] 하의가 들어있는 패키지이다.
+
+ID=813113121
+
+[밀봉][EV][캐쥬얼 화이트 교복] 신발
+
+[캐쥬얼 화이트 교복] 신발이 들어있는 패키지이다.
+
+ID=823112071
+
+ID=823112081
+
+ID=823112121
+
+ID=833121071
+
+ID=833121081
+
+ID=833121121
+
+ID=843110071
+
+ID=843110081
+
+ID=843110121
+
+ID=853114071
+
+ID=853114081
+
+ID=853114121
+
+ID=863114071
+
+ID=863114081
+
+ID=863114121
+
+ID=813113072
+
+[EV][코스튬 박스] 하루의 캐쥬얼 화이트 교복
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[EV][하루의 캐쥬얼 화이트 교복] 코스튬이 담긴 패키지로 해당 구성품은 하루만 착용할 수 있다.\n\n-구성품-\n[EV][캐쥬얼 화이트 교복] 상의 X 1\n[EV][캐쥬얼 화이트 교복] 하의 X 1\n[EV][캐쥬얼 화이트 교복] 신발 X 1
+
+ID=823112072
+
+[EV][코스튬 박스] 어윈의 캐쥬얼 화이트 교복
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[EV][어윈의 캐쥬얼 화이트 교복] 코스튬이 담긴 패키지로 해당 구성품은 어윈만 착용할 수 있다.\n\n-구성품-\n[EV][캐쥬얼 화이트 교복] 상의 X 1\n[EV][캐쥬얼 화이트 교복] 하의 X 1\n[EV][캐쥬얼 화이트 교복] 신발 X 1
+
+ID=833121072
+
+[EV][코스튬 박스] 릴리의 캐쥬얼 화이트 교복
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[EV][릴리의 캐쥬얼 화이트 교복] 코스튬이 담긴 패키지로 해당 구성품은 릴리만 착용할 수 있다.\n\n-구성품-\n[EV][캐쥬얼 화이트 교복] 상의 X 1\n[EV][캐쥬얼 화이트 교복] 하의 X 1\n[EV][캐쥬얼 화이트 교복] 신발 X 1
+
+ID=843110072
+
+[EV][코스튬 박스] 진의 캐쥬얼 화이트 교복
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[EV][진의 캐쥬얼 화이트 교복] 코스튬이 담긴 패키지로 해당 구성품은 진만 착용할 수 있다.\n\n-구성품-\n[EV][캐쥬얼 화이트 교복] 상의 X 1\n[EV][캐쥬얼 화이트 교복] 하의 X 1\n[EV][캐쥬얼 화이트 교복] 신발 X 1
+
+ID=853114072
+
+[EV][코스튬 박스] 스텔라의 캐쥬얼 화이트 교복
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[EV][스텔라의 캐쥬얼 화이트 교복] 코스튬이 담긴 패키지로 해당 구성품은 스텔라만 착용할 수 있다.\n\n-구성품-\n[EV][캐쥬얼 화이트 교복] 상의 X 1\n[EV][캐쥬얼 화이트 교복] 하의 X 1\n[EV][캐쥬얼 화이트 교복] 신발 X 1
+
+ID=863114072
+
+[EV][코스튬 박스] 이리스의 캐쥬얼 화이트 교복
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[EV][이리스의 캐쥬얼 화이트 교복] 코스튬이 담긴 패키지로 해당 구성품은 이리스만 착용할 수 있다.\n\n-구성품-\n[EV][캐쥬얼 화이트 교복] 상의 X 1\n[EV][캐쥬얼 화이트 교복] 하의 X 1\n[EV][캐쥬얼 화이트 교복] 신발 X 1
+
+ID=213128021
+
+[Red Orchestra] Hat
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 모자. 열정적인 연주를 할 수 있을것 같다.\n\n하루가 착용할 수 있다.
+
+ID=213128071
+
+[Red Orchestra] Top
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 상의. 열정적인 연주를 할 수 있을것 같다.\n\n하루가 착용할 수 있다.
+
+ID=213128081
+
+[Red Orchestra] Bottoms
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 하의. 열정적인 연주를 할 수 있을것 같다.\n\n하루가 착용할 수 있다.
+
+ID=213128051
+
+[Red Orchestra] Gloves
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 장갑. 열정적인 연주를 할 수 있을것 같다.\n\n하루가 착용할 수 있다.
+
+ID=213128111
+
+[Red Orchestra] Knee Socks
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 스타킹. 열정적인 연주를 할 수 있을것 같다.\n\n하루가 착용할 수 있다.
+
+ID=213128121
+
+[Red Orchestra] Shoes
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 부츠. 열정적인 연주를 할 수 있을것 같다.\n\n하루가 착용할 수 있다.
+
+ID=223127021
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 모자. 열정적인 연주를 할 수 있을것 같다.\n\n어윈이 착용할 수 있다.
+
+ID=223127071
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 상의. 열정적인 연주를 할 수 있을것 같다.\n\n어윈이 착용할 수 있다.
+
+ID=223127081
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 하의. 열정적인 연주를 할 수 있을것 같다.\n\n어윈이 착용할 수 있다.
+
+ID=223127051
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 장갑. 열정적인 연주를 할 수 있을것 같다.\n\n어윈이 착용할 수 있다.
+
+ID=223127121
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 부츠. 열정적인 연주를 할 수 있을것 같다.\n\n어윈이 착용할 수 있다.
+
+ID=233136021
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 모자. 열정적인 연주를 할 수 있을것 같다.\n\n릴리가 착용할 수 있다.
+
+ID=233136071
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 상의. 열정적인 연주를 할 수 있을것 같다.\n\n릴리가 착용할 수 있다.
+
+ID=233136081
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 하의. 열정적인 연주를 할 수 있을것 같다.\n\n릴리가 착용할 수 있다.
+
+ID=233136051
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 장갑. 열정적인 연주를 할 수 있을것 같다.\n\n릴리가 착용할 수 있다.
+
+ID=233136111
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 스타킹. 열정적인 연주를 할 수 있을것 같다.\n\n릴리가 착용할 수 있다.
+
+ID=233136121
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 부츠. 열정적인 연주를 할 수 있을것 같다.\n\n릴리가 착용할 수 있다.
+
+ID=243125021
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 모자. 열정적인 연주를 할 수 있을것 같다.\n\n진이 착용할 수 있다.
+
+ID=243125071
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 상의. 열정적인 연주를 할 수 있을것 같다.\n\n진이 착용할 수 있다.
+
+ID=243125081
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 하의. 열정적인 연주를 할 수 있을것 같다.\n\n진이 착용할 수 있다.
+
+ID=243125051
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 장갑. 열정적인 연주를 할 수 있을것 같다.\n\n진이 착용할 수 있다.
+
+ID=243125121
+
+[Red Orchestra] Boots
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 부츠. 열정적인 연주를 할 수 있을것 같다.\n\n진이 착용할 수 있다.
+
+ID=253129021
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 모자. 열정적인 연주를 할 수 있을것 같다.\n\n스텔라가 착용할 수 있다.
+
+ID=253129071
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 상의. 열정적인 연주를 할 수 있을것 같다.\n\n스텔라가 착용할 수 있다.
+
+ID=253129081
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 하의. 열정적인 연주를 할 수 있을것 같다.\n\n스텔라가 착용할 수 있다.
+
+ID=253129051
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 장갑. 열정적인 연주를 할 수 있을것 같다.\n\n스텔라가 착용할 수 있다.
+
+ID=253129111
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 스타킹. 열정적인 연주를 할 수 있을것 같다.\n\n스텔라가 착용할 수 있다.
+
+ID=253129121
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 부츠. 열정적인 연주를 할 수 있을것 같다.\n\n스텔라가 착용할 수 있다.
+
+ID=263129021
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 모자. 열정적인 연주를 할 수 있을것 같다.\n\n이리스가 착용할 수 있다.
+
+ID=263129071
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 상의. 열정적인 연주를 할 수 있을것 같다.\n\n이리스가 착용할 수 있다.
+
+ID=263129081
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 하의. 열정적인 연주를 할 수 있을것 같다.\n\n이리스가 착용할 수 있다.
+
+ID=263129051
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 장갑. 열정적인 연주를 할 수 있을것 같다.\n\n이리스가 착용할 수 있다.
+
+ID=263129111
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 스타킹. 열정적인 연주를 할 수 있을것 같다.\n\n이리스가 착용할 수 있다.
+
+ID=263129121
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\n이것이 바로 음악이다! 정렬로 가득 찬 경쾌한 음악으로 일상에 지친 심신을 달래주는 별숲리그 악단의 제복 부츠. 열정적인 연주를 할 수 있을것 같다.\n\n이리스가 착용할 수 있다.
+
+ID=813128021
+
+[Seal] [Red Orchestra] Hat
+
+[붉은 악단] 모자가 들어있는 패키지이다.
+
+ID=813128071
+
+[Seal] [Red Orchestra] Top
+
+[붉은 악단] 상의가 들어있는 패키지이다.
+
+ID=813128081
+
+[Seal] [Red Orchestra] Bottoms
+
+[붉은 악단] 하의가 들어있는 패키지이다.
+
+ID=813128051
+
+[Seal] [Red Orchestra] Gloves
+
+[붉은 악단] 장갑이 들어있는 패키지이다.
+
+ID=813128111
+
+[밀봉][붉은 악단] 오버니삭스
+
+[붉은 악단] 오버니삭스가 들어있는 패키지이다.
+
+ID=813128121
+
+[Seal] [Red Orchestra] Shoes
+
+[붉은 악단] 신발이 들어있는 패키지이다.
+
+ID=823127021
+
+ID=823127071
+
+ID=823127081
+
+ID=823127051
+
+ID=823127121
+
+ID=833136021
+
+ID=833136071
+
+ID=833136081
+
+ID=833136051
+
+ID=833136111
+
+ID=833136121
+
+ID=843125021
+
+ID=843125071
+
+ID=843125081
+
+ID=843125051
+
+ID=843125121
+
+[Seal] [Red Orchestra] Boots
+
+[붉은 악단] 부츠가 들어있는 패키지이다.
+
+ID=853129021
+
+ID=853129071
+
+ID=853129081
+
+ID=853129051
+
+ID=853129111
+
+ID=853129121
+
+ID=863129021
+
+ID=863129071
+
+ID=863129081
+
+ID=863129051
+
+ID=863129111
+
+ID=863129121
+
+ID=813128072
+
+[Costume Package] Haru's Red Orchestra
+
+<font color='#FFBB85'>[코스튬 패키지]<font color='#9D927B'>\n\n[하루의 붉은 악단] 코스튬이 담긴 패키지로 해당 구성품은 하루만 착용할 수 있다.\n\n-구성품-\n[붉은 악단] 모자 X 1\n[붉은 악단] 상의 X 1\n[붉은 악단] 하의 X 1\n[붉은 악단] 장갑 X 1\n[붉은 악단] 오버니삭스 X 1\n[붉은 악단] 신발 X 1
+
+ID=823127072
+
+[Costume Package] Erwin's Red Orchestra
+
+<font color='#FFBB85'>[코스튬 패키지]<font color='#9D927B'>\n\n[어윈의 붉은 악단] 코스튬이 담긴 패키지로 해당 구성품은 어윈만 착용할 수 있다.\n\n-구성품-\n[붉은 악단] 모자 X 1\n[붉은 악단] 상의 X 1\n[붉은 악단] 하의 X 1\n[붉은 악단] 장갑 X 1\n[붉은 악단] 신발 X 1
+
+ID=833136072
+
+[Costume Package] Lily's Red Orchestra
+
+<font color='#FFBB85'>[코스튬 패키지]<font color='#9D927B'>\n\n[릴리의 붉은 악단] 코스튬이 담긴 패키지로 해당 구성품은 릴리만 착용할 수 있다.\n\n-구성품-\n[붉은 악단] 모자 X 1\n[붉은 악단] 상의 X 1\n[붉은 악단] 하의 X 1\n[붉은 악단] 장갑 X 1\n[붉은 악단] 오버니삭스 X 1\n[붉은 악단] 신발 X 1
+
+ID=843125072
+
+[Costume Box] Jin's Red Orchestra
+
+<font color='#FFBB85'>[코스튬 패키지]<font color='#9D927B'>\n\n[진의 붉은 악단] 코스튬이 담긴 패키지로 해당 구성품은 진만 착용할 수 있다.\n\n-구성품-\n[붉은 악단] 모자 X 1\n[붉은 악단] 상의 X 1\n[붉은 악단] 하의 X 1\n[붉은 악단] 장갑 X 1\n[붉은 악단] 부츠 X 1
+
+ID=853129072
+
+[Costume Package] Stella's Red Orchestra
+
+<font color='#FFBB85'>[코스튬 패키지]<font color='#9D927B'>\n\n[스텔라의 붉은 악단] 코스튬이 담긴 패키지로 해당 구성품은 스텔라만 착용할 수 있다.\n\n-구성품-\n[붉은 악단] 모자 X 1\n[붉은 악단] 상의 X 1\n[붉은 악단] 하의 X 1\n[붉은 악단] 장갑 X 1\n[붉은 악단] 오버니삭스 X 1\n[붉은 악단] 신발 X 1
+
+ID=863129072
+
+[코스튬 박스] 이리스의 붉은 악단
+
+<font color='#FFBB85'>[코스튬 패키지]<font color='#9D927B'>\n\n[이리스의 붉은 악단] 코스튬이 담긴 패키지로 해당 구성품은 이리스만 착용할 수 있다.\n\n-구성품-\n[붉은 악단] 모자 X 1\n[붉은 악단] 상의 X 1\n[붉은 악단] 하의 X 1\n[붉은 악단] 장갑 X 1\n[붉은 악단] 오버니삭스 X 1\n[붉은 악단] 신발 X 1
+
+ID=660551101
+
+태그 개조 칩 : 괴상한
+
+<font color='#FFBA85'>[태그 개조 칩 : 괴상한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]괴상한<font color='#9D927B'>\n무기 공격력 증가 +16\n공격력 +14
+
+ID=660551102
+
+태그 개조 칩 : 기괴한
+
+<font color='#FFBA85'>[태그 개조 칩 : 기괴한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]기괴한<font color='#9D927B'>\n무기 공격력 증가 +16\n공격력[%] +3%
+
+ID=660551103
+
+태그 개조 칩 : 녹슨
+
+<font color='#FFBA85'>[태그 개조 칩 : 녹슨]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]녹슨<font color='#9D927B'>\n무기 공격력 증가 +22\n빗맞힘 시 피해[%] +6%
+
+ID=660551104
+
+태그 개조 칩 : 덧댄
+
+<font color='#FFBA85'>[태그 개조 칩 : 덧댄]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]덧댄<font color='#9D927B'>\n무기 공격력 증가 +16\n치명타[%] +1%
+
+ID=660551105
+
+태그 개조 칩 : 조잡한
+
+<font color='#FFBA85'>[태그 개조 칩 : 조잡한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]조잡한<font color='#9D927B'>\n무기 공격력 증가 +16\n치명타 피해 +40
+
+ID=660551106
+
+태그 개조 칩 : 난폭한
+
+<font color='#FFBA85'>[태그 개조 칩 : 난폭한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]난폭한<font color='#9D927B'>\n무기 공격력 증가 +16\n적 방어도 관통[%] +1%
+
+ID=660551107
+
+태그 개조 칩 : 잃어버린
+
+<font color='#FFBA85'>[태그 개조 칩 : 잃어버린]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]잃어버린<font color='#9D927B'>\n무기 공격력 증가 +17\n적 추가 피해 : 일반[%] +1%
+
+ID=660551108
+
+태그 개조 칩 : 절규하는
+
+<font color='#FFBA85'>[태그 개조 칩 : 절규하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]절규하는<font color='#9D927B'>\n무기 공격력 증가 +17\n적 추가 피해 : 보스/네임드[%] +1%
+
+ID=660551109
+
+태그 개조 칩 : 방치된
+
+<font color='#FFBA85'>[태그 개조 칩 : 방치된]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]방치된<font color='#9D927B'>\n무기 공격력 증가 +18\n적중도 +32
+
+ID=660551110
+
+태그 개조 칩 : 자비의
+
+<font color='#FFBA85'>[태그 개조 칩 : 자비의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]자비의<font color='#9D927B'>\n무기 공격력 증가 +18\n최대 HP +135
+
+ID=660551111
+
+태그 개조 칩 : 속죄의
+
+<font color='#FFBA85'>[태그 개조 칩 : 속죄의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]속죄의<font color='#9D927B'>\n무기 공격력 증가 +18\n이동속도[%] +1%
+
+ID=660551112
+
+태그 개조 칩 : 급류의
+
+<font color='#FFBA85'>[태그 개조 칩 : 급류의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]급류의<font color='#9D927B'>\n무기 공격력 증가 +20\n슈퍼아머 파괴력[%] +3%
+
+ID=660551113
+
+태그 개조 칩 : 지친자의
+
+<font color='#FFBA85'>[태그 개조 칩 : 지친자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]지친자의<font color='#9D927B'>\n무기 공격력 증가 +18\n최대 스태미나 +1
+
+ID=660551114
+
+태그 개조 칩 : 거짓의
+
+<font color='#FFBA85'>[태그 개조 칩 : 거짓의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]거짓의<font color='#9D927B'>\n무기 공격력 증가 +16\n황금 세력 추가피해 [%] +3%
+
+ID=660551115
+
+태그 개조 칩 : 오만한
+
+<font color='#FFBA85'>[태그 개조 칩 : 오만한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]오만한<font color='#9D927B'>\n무기 공격력 증가 +16\n프라이멀 세력 추가피해 [%] +3%
+
+ID=660551201
+
+태그 개조 칩 : 강직한
+
+<font color='#FFBA85'>[태그 개조 칩 : 강직한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]강직한<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n공격력 +14
+
+ID=660551202
+
+태그 개조 칩 : 강철의
+
+<font color='#FFBA85'>[태그 개조 칩 : 강철의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]강철의<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n공격력[%] +3%
+
+ID=660551203
+
+태그 개조 칩 : 나선의
+
+<font color='#FFBA85'>[태그 개조 칩 : 나선의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]나선의<font color='#9D927B'>\n무기 공격력 증가[%] +3%\n빗맞힘 시 피해[%] +6%
+
+ID=660551204
+
+태그 개조 칩 : 화산의
+
+<font color='#FFBA85'>[태그 개조 칩 : 화산의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]화산의<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n치명타[%] +1%
+
+ID=660551205
+
+태그 개조 칩 : 작열하는
+
+<font color='#FFBA85'>[태그 개조 칩 : 작열하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]작열하는<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n치명타 피해 +40
+
+ID=660551206
+
+태그 개조 칩 : 눈부신
+
+<font color='#FFBA85'>[태그 개조 칩 : 눈부신]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]눈부신<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n적 방어도 관통[%] +1%
+
+ID=660551207
+
+태그 개조 칩 : 천둥의
+
+<font color='#FFBA85'>[태그 개조 칩 : 천둥의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]천둥의<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n적 추가 피해 : 일반[%] +1%
+
+ID=660551208
+
+태그 개조 칩 : 새벽의
+
+<font color='#FFBA85'>[태그 개조 칩 : 새벽의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]새벽의<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n적 추가 피해 : 보스/네임드[%] +1%
+
+ID=660551209
+
+태그 개조 칩 : 도전자의
+
+<font color='#FFBA85'>[태그 개조 칩 : 도전자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]도전자의<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n적중도 +32
+
+ID=660551210
+
+태그 개조 칩 : 집념의
+
+<font color='#FFBA85'>[태그 개조 칩 : 집념의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]집념의<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n최대 HP +135
+
+ID=660551211
+
+태그 개조 칩 : 구름의
+
+<font color='#FFBA85'>[태그 개조 칩 : 구름의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]구름의<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n이동속도[%] +1%
+
+ID=660551212
+
+태그 개조 칩 : 태풍의
+
+<font color='#FFBA85'>[태그 개조 칩 : 태풍의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]태풍의<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n슈퍼아머 파괴력[%] +3%
+
+ID=660551213
+
+태그 개조 칩 : 세련된
+
+<font color='#FFBA85'>[태그 개조 칩 : 세련된]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]세련된<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n최대 스태미나 +1
+
+ID=660551214
+
+<font color='#FFBA85'>[태그 개조 칩 : 거짓의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]거짓의<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n황금 세력 추가피해 [%] +3%
+
+ID=660551215
+
+<font color='#FFBA85'>[태그 개조 칩 : 오만한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]오만한<font color='#9D927B'>\n무기 공격력 증가[%] +2%\n프라이멀 세력 추가피해 [%] +3%
+
+ID=660551301
+
+<font color='#FFBA85'>[태그 개조 칩 : 괴상한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]괴상한<font color='#9D927B'>\n장비 방어도 증가 +12\n방어도 +3
+
+ID=660551302
+
+<font color='#FFBA85'>[태그 개조 칩 : 기괴한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]기괴한<font color='#9D927B'>\n장비 방어도 증가 +11\n방어도[%] +1%
+
+ID=660551303
+
+태그 개조 칩 : 무모한
+
+<font color='#FFBA85'>[태그 개조 칩 : 무모한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]무모한<font color='#9D927B'>\n장비 방어도 증가 +15\n피해 감소 : 빗맞음[%] +2%
+
+ID=660551307
+
+태그 개조 칩 : 불꽃의
+
+<font color='#FFBA85'>[태그 개조 칩 : 불꽃의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]불꽃의<font color='#9D927B'>\n장비 방어도 증가 +12\n치명타 피해  +11
+
+ID=660551308
+
+태그 개조 칩 : 탐색하는
+
+<font color='#FFBA85'>[태그 개조 칩 : 탐색하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]탐색하는<font color='#9D927B'>\n장비 방어도 증가 +13\n회피도 +6
+
+ID=660551309
+
+태그 개조 칩 : 기초의
+
+<font color='#FFBA85'>[태그 개조 칩 : 기초의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]기초의<font color='#9D927B'>\n장비 방어도 증가 +11\n최대 HP  +60
+
+ID=660551312
+
+<font color='#FFBA85'>[태그 개조 칩 : 자비의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]자비의<font color='#9D927B'>\n장비 방어도 증가 +13\n처치 효과 : HP회복 +30
+
+ID=660551314
+
+<font color='#FFBA85'>[태그 개조 칩 : 속죄의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]속죄의<font color='#9D927B'>\n장비 방어도 증가 +15\n적에게 얻는 제니[%] +3%
+
+ID=660551315
+
+<font color='#FFBA85'>[태그 개조 칩 : 급류의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]급류의<font color='#9D927B'>\n장비 방어도 증가 +15\n적에게 얻는 EXP[%] +6%
+
+ID=660551401
+
+태그 개조 칩 : 끈기의
+
+<font color='#FFBA85'>[태그 개조 칩 : 끈기의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]끈기의<font color='#9D927B'>\n장비 방어도 증가[%] +1%\n방어도 +3
+
+ID=660551402
+
+태그 개조 칩 : 철옹성의
+
+<font color='#FFBA85'>[태그 개조 칩 : 철옹성의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]철옹성의<font color='#9D927B'>\n장비 방어도 증가[%] +1%\n방어도[%] +1%
+
+ID=660551403
+
+태그 개조 칩 : 빛무리의
+
+<font color='#FFBA85'>[태그 개조 칩 : 빛무리의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]빛무리의<font color='#9D927B'>\n장비 방어도 증가[%] +2%\n피해 감소 : 빗맞음[%] +2%
+
+ID=660551407
+
+태그 개조 칩 : 혼돈의
+
+<font color='#FFBA85'>[태그 개조 칩 : 혼돈의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]혼돈의<font color='#9D927B'>\n장비 방어도 증가[%] +1%\n치명타 피해  +11
+
+ID=660551408
+
+태그 개조 칩 : 완벽한
+
+<font color='#FFBA85'>[태그 개조 칩 : 완벽한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]완벽한<font color='#9D927B'>\n장비 방어도 증가[%] +1%\n회피도 +6
+
+ID=660551409
+
+태그 개조 칩 : 바다의
+
+<font color='#FFBA85'>[태그 개조 칩 : 바다의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]바다의<font color='#9D927B'>\n장비 방어도 증가[%] +1%\n최대 HP  +60
+
+ID=660551412
+
+<font color='#FFBA85'>[태그 개조 칩 : 천둥의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]천둥의<font color='#9D927B'>\n장비 방어도 증가[%] +1%\n처치 효과 : HP회복 +30
+
+ID=660551414
+
+<font color='#FFBA85'>[태그 개조 칩 : 새벽의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]새벽의<font color='#9D927B'>\n장비 방어도 증가[%] +2%\n적에게 얻는 제니[%] +3%
+
+ID=660551415
+
+<font color='#FFBA85'>[태그 개조 칩 : 도전자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#FCFCFC'>[Tag]도전자의<font color='#9D927B'>\n장비 방어도 증가[%] +2%\n적에게 얻는 EXP[%] +6%
+
+ID=660552101
+
+<font color='#FFBA85'>[태그 개조 칩 : 괴상한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]괴상한<font color='#9D927B'>\n무기 공격력 증가 +31\n공격력 +24
+
+ID=660552102
+
+<font color='#FFBA85'>[태그 개조 칩 : 기괴한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]기괴한<font color='#9D927B'>\n무기 공격력 증가 +31\n공격력[%] +5%
+
+ID=660552103
+
+<font color='#FFBA85'>[태그 개조 칩 : 녹슨]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]녹슨<font color='#9D927B'>\n무기 공격력 증가 +42\n빗맞힘 시 피해[%] +11%
+
+ID=660552104
+
+<font color='#FFBA85'>[태그 개조 칩 : 덧댄]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]덧댄<font color='#9D927B'>\n무기 공격력 증가 +31\n치명타[%] +2%
+
+ID=660552105
+
+<font color='#FFBA85'>[태그 개조 칩 : 조잡한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]조잡한<font color='#9D927B'>\n무기 공격력 증가 +31\n치명타 피해 +80
+
+ID=660552106
+
+<font color='#FFBA85'>[태그 개조 칩 : 난폭한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]난폭한<font color='#9D927B'>\n무기 공격력 증가 +31\n적 방어도 관통[%] +1%
+
+ID=660552107
+
+<font color='#FFBA85'>[태그 개조 칩 : 잃어버린]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]잃어버린<font color='#9D927B'>\n무기 공격력 증가 +33\n적 추가 피해 : 일반[%] +3%
+
+ID=660552108
+
+<font color='#FFBA85'>[태그 개조 칩 : 절규하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]절규하는<font color='#9D927B'>\n무기 공격력 증가 +33\n적 추가 피해 : 보스/네임드[%] +3%
+
+ID=660552109
+
+<font color='#FFBA85'>[태그 개조 칩 : 방치된]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]방치된<font color='#9D927B'>\n무기 공격력 증가 +35\n적중도 +63
+
+ID=660552110
+
+<font color='#FFBA85'>[태그 개조 칩 : 자비의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]자비의<font color='#9D927B'>\n무기 공격력 증가 +35\n최대 HP +225
+
+ID=660552111
+
+<font color='#FFBA85'>[태그 개조 칩 : 속죄의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]속죄의<font color='#9D927B'>\n무기 공격력 증가 +35\n이동속도[%] +1%
+
+ID=660552112
+
+<font color='#FFBA85'>[태그 개조 칩 : 급류의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]급류의<font color='#9D927B'>\n무기 공격력 증가 +38\n슈퍼아머 파괴력[%] +5%
+
+ID=660552113
+
+<font color='#FFBA85'>[태그 개조 칩 : 지친자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]지친자의<font color='#9D927B'>\n무기 공격력 증가 +35\n최대 스태미나 +2
+
+ID=660552114
+
+<font color='#FFBA85'>[태그 개조 칩 : 거짓의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]거짓의<font color='#9D927B'>\n무기 공격력 증가 +31\n황금 세력 추가피해 [%] +4%
+
+ID=660552115
+
+<font color='#FFBA85'>[태그 개조 칩 : 오만한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]오만한<font color='#9D927B'>\n무기 공격력 증가 +31\n프라이멀 세력 추가피해 [%] +4%
+
+ID=660552201
+
+<font color='#FFBA85'>[태그 개조 칩 : 강직한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]강직한<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n공격력 +24
+
+ID=660552202
+
+<font color='#FFBA85'>[태그 개조 칩 : 강철의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]강철의<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n공격력[%] +5%
+
+ID=660552203
+
+<font color='#FFBA85'>[태그 개조 칩 : 나선의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]나선의<font color='#9D927B'>\n무기 공격력 증가[%] +5%\n빗맞힘 시 피해[%] +11%
+
+ID=660552204
+
+<font color='#FFBA85'>[태그 개조 칩 : 화산의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]화산의<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n치명타[%] +2%
+
+ID=660552205
+
+<font color='#FFBA85'>[태그 개조 칩 : 작열하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]작열하는<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n치명타 피해 +80
+
+ID=660552206
+
+<font color='#FFBA85'>[태그 개조 칩 : 눈부신]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]눈부신<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n적 방어도 관통[%] +1%
+
+ID=660552207
+
+<font color='#FFBA85'>[태그 개조 칩 : 천둥의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]천둥의<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n적 추가 피해 : 일반[%] +3%
+
+ID=660552208
+
+<font color='#FFBA85'>[태그 개조 칩 : 새벽의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]새벽의<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n적 추가 피해 : 보스/네임드[%] +3%
+
+ID=660552209
+
+<font color='#FFBA85'>[태그 개조 칩 : 도전자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]도전자의<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n적중도 +63
+
+ID=660552210
+
+<font color='#FFBA85'>[태그 개조 칩 : 집념의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]집념의<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n최대 HP +225
+
+ID=660552211
+
+<font color='#FFBA85'>[태그 개조 칩 : 구름의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]구름의<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n이동속도[%] +1%
+
+ID=660552212
+
+<font color='#FFBA85'>[태그 개조 칩 : 태풍의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]태풍의<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n슈퍼아머 파괴력[%] +5%
+
+ID=660552213
+
+<font color='#FFBA85'>[태그 개조 칩 : 세련된]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]세련된<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n최대 스태미나 +2
+
+ID=660552214
+
+<font color='#FFBA85'>[태그 개조 칩 : 거짓의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]거짓의<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n황금 세력 추가피해 [%] +4%
+
+ID=660552215
+
+<font color='#FFBA85'>[태그 개조 칩 : 오만한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]오만한<font color='#9D927B'>\n무기 공격력 증가[%] +4%\n프라이멀 세력 추가피해 [%] +4%
+
+ID=660552301
+
+<font color='#FFBA85'>[태그 개조 칩 : 괴상한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]괴상한<font color='#9D927B'>\n장비 방어도 증가 +23\n방어도 +6
+
+ID=660552302
+
+<font color='#FFBA85'>[태그 개조 칩 : 기괴한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]기괴한<font color='#9D927B'>\n장비 방어도 증가 +20\n방어도[%] +2%
+
+ID=660552303
+
+<font color='#FFBA85'>[태그 개조 칩 : 무모한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]무모한<font color='#9D927B'>\n장비 방어도 증가 +28\n피해 감소 : 빗맞음[%] +3%
+
+ID=660552304
+
+태그 개조 칩 : 저주받은
+
+<font color='#FFBA85'>[태그 개조 칩 : 저주받은]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]저주받은<font color='#9D927B'>\n장비 방어도 증가 +25\n치명타 저항[%] +1%
+
+ID=660552307
+
+<font color='#FFBA85'>[태그 개조 칩 : 불꽃의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]불꽃의<font color='#9D927B'>\n장비 방어도 증가 +23\n치명타 피해  +32
+
+ID=660552308
+
+<font color='#FFBA85'>[태그 개조 칩 : 탐색하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]탐색하는<font color='#9D927B'>\n장비 방어도 증가 +24\n회피도 +12
+
+ID=660552309
+
+<font color='#FFBA85'>[태그 개조 칩 : 기초의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]기초의<font color='#9D927B'>\n장비 방어도 증가 +20\n최대 HP  +100
+
+ID=660552312
+
+태그 개조 칩 : 안개의
+
+<font color='#FFBA85'>[태그 개조 칩 : 안개의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]안개의<font color='#9D927B'>\n장비 방어도 증가 +25\n처치 효과 : HP회복 +65
+
+ID=660552313
+
+태그 개조 칩 : 편안한
+
+<font color='#FFBA85'>[태그 개조 칩 : 편안한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]편안한<font color='#9D927B'>\n장비 방어도 증가 +24\n소울 베이퍼 획득[%] +1%
+
+ID=660552314
+
+<font color='#FFBA85'>[태그 개조 칩 : 자비의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]자비의<font color='#9D927B'>\n장비 방어도 증가 +28\n적에게 얻는 제니[%] +5%
+
+ID=660552315
+
+<font color='#FFBA85'>[태그 개조 칩 : 지친자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]지친자의<font color='#9D927B'>\n장비 방어도 증가 +28\n적에게 얻는 EXP[%] +11%
+
+ID=660552401
+
+<font color='#FFBA85'>[태그 개조 칩 : 끈기의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]끈기의<font color='#9D927B'>\n장비 방어도 증가[%] +2%\n방어도 +6
+
+ID=660552402
+
+<font color='#FFBA85'>[태그 개조 칩 : 철옹성의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]철옹성의<font color='#9D927B'>\n장비 방어도 증가[%] +2%\n방어도[%] +2%
+
+ID=660552403
+
+<font color='#FFBA85'>[태그 개조 칩 : 빛무리의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]빛무리의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n피해 감소 : 빗맞음[%] +3%
+
+ID=660552404
+
+태그 개조 칩 : 본능의
+
+<font color='#FFBA85'>[태그 개조 칩 : 본능의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]본능의<font color='#9D927B'>\n장비 방어도 증가[%] +2%\n치명타 저항[%] +1%
+
+ID=660552407
+
+<font color='#FFBA85'>[태그 개조 칩 : 혼돈의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]혼돈의<font color='#9D927B'>\n장비 방어도 증가[%] +2%\n치명타 피해  +32
+
+ID=660552408
+
+<font color='#FFBA85'>[태그 개조 칩 : 완벽한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]완벽한<font color='#9D927B'>\n장비 방어도 증가[%] +2%\n회피도 +12
+
+ID=660552409
+
+<font color='#FFBA85'>[태그 개조 칩 : 바다의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]바다의<font color='#9D927B'>\n장비 방어도 증가[%] +2%\n최대 HP  +100
+
+ID=660552412
+
+태그 개조 칩 : 이능력자의
+
+<font color='#FFBA85'>[태그 개조 칩 : 이능력자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]이능력자의<font color='#9D927B'>\n장비 방어도 증가[%] +2%\n처치 효과 : HP회복 +65
+
+ID=660552413
+
+태그 개조 칩 : 야생의
+
+<font color='#FFBA85'>[태그 개조 칩 : 야생의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]야생의<font color='#9D927B'>\n장비 방어도 증가[%] +2%\n소울 베이퍼 획득[%] +1%
+
+ID=660552414
+
+<font color='#FFBA85'>[태그 개조 칩 : 새벽의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]새벽의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n적에게 얻는 제니[%] +5%
+
+ID=660552415
+
+<font color='#FFBA85'>[태그 개조 칩 : 도전자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#86F357'>[Tag]도전자의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n적에게 얻는 EXP[%] +11%
+
+ID=660553101
+
+<font color='#FFBA85'>[태그 개조 칩 : 괴상한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]괴상한<font color='#9D927B'>\n무기 공격력 증가 +95\n공격력 +48
+
+ID=660553102
+
+<font color='#FFBA85'>[태그 개조 칩 : 기괴한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]기괴한<font color='#9D927B'>\n무기 공격력 증가 +95\n공격력[%] +8%
+
+ID=660553103
+
+<font color='#FFBA85'>[태그 개조 칩 : 녹슨]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]녹슨<font color='#9D927B'>\n무기 공격력 증가 +130\n빗맞힘 시 피해[%] +22%
+
+ID=660553104
+
+<font color='#FFBA85'>[태그 개조 칩 : 덧댄]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]덧댄<font color='#9D927B'>\n무기 공격력 증가 +95\n치명타[%] +3%
+
+ID=660553105
+
+<font color='#FFBA85'>[태그 개조 칩 : 조잡한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]조잡한<font color='#9D927B'>\n무기 공격력 증가 +95\n치명타 피해 +140
+
+ID=660553106
+
+<font color='#FFBA85'>[태그 개조 칩 : 난폭한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]난폭한<font color='#9D927B'>\n무기 공격력 증가 +95\n적 방어도 관통[%] +2%
+
+ID=660553107
+
+<font color='#FFBA85'>[태그 개조 칩 : 잃어버린]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]잃어버린<font color='#9D927B'>\n무기 공격력 증가 +101\n적 추가 피해 : 일반[%] +5%
+
+ID=660553108
+
+<font color='#FFBA85'>[태그 개조 칩 : 절규하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]절규하는<font color='#9D927B'>\n무기 공격력 증가 +101\n적 추가 피해 : 보스/네임드[%] +5%
+
+ID=660553109
+
+<font color='#FFBA85'>[태그 개조 칩 : 방치된]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]방치된<font color='#9D927B'>\n무기 공격력 증가 +107\n적중도 +126
+
+ID=660553110
+
+<font color='#FFBA85'>[태그 개조 칩 : 자비의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]자비의<font color='#9D927B'>\n무기 공격력 증가 +107\n최대 HP +450
+
+ID=660553111
+
+<font color='#FFBA85'>[태그 개조 칩 : 속죄의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]속죄의<font color='#9D927B'>\n무기 공격력 증가 +107\n이동속도[%] +2%
+
+ID=660553112
+
+<font color='#FFBA85'>[태그 개조 칩 : 급류의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]급류의<font color='#9D927B'>\n무기 공격력 증가 +118\n슈퍼아머 파괴력[%] +8%
+
+ID=660553113
+
+<font color='#FFBA85'>[태그 개조 칩 : 지친자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]지친자의<font color='#9D927B'>\n무기 공격력 증가 +107\n최대 스태미나 +3
+
+ID=660553114
+
+<font color='#FFBA85'>[태그 개조 칩 : 거짓의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]거짓의<font color='#9D927B'>\n무기 공격력 증가 +95\n황금 세력 추가피해 [%] +6%
+
+ID=660553115
+
+<font color='#FFBA85'>[태그 개조 칩 : 오만한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]오만한<font color='#9D927B'>\n무기 공격력 증가 +95\n프라이멀 세력 추가피해 [%] +6%
+
+ID=660553201
+
+<font color='#FFBA85'>[태그 개조 칩 : 강직한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]강직한<font color='#9D927B'>\n무기 공격력 증가[%] +5%\n공격력 +48
+
+ID=660553202
+
+<font color='#FFBA85'>[태그 개조 칩 : 강철의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]강철의<font color='#9D927B'>\n무기 공격력 증가[%] +5%\n공격력[%] +8%
+
+ID=660553203
+
+<font color='#FFBA85'>[태그 개조 칩 : 나선의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]나선의<font color='#9D927B'>\n무기 공격력 증가[%] +7%\n빗맞힘 시 피해[%] +22%
+
+ID=660553204
+
+<font color='#FFBA85'>[태그 개조 칩 : 화산의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]화산의<font color='#9D927B'>\n무기 공격력 증가[%] +5%\n치명타[%] +3%
+
+ID=660553205
+
+<font color='#FFBA85'>[태그 개조 칩 : 작열하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]작열하는<font color='#9D927B'>\n무기 공격력 증가[%] +5%\n치명타 피해 +140
+
+ID=660553206
+
+<font color='#FFBA85'>[태그 개조 칩 : 눈부신]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]눈부신<font color='#9D927B'>\n무기 공격력 증가[%] +5%\n적 방어도 관통[%] +2%
+
+ID=660553207
+
+<font color='#FFBA85'>[태그 개조 칩 : 천둥의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]천둥의<font color='#9D927B'>\n무기 공격력 증가[%] +6%\n적 추가 피해 : 일반[%] +5%
+
+ID=660553208
+
+<font color='#FFBA85'>[태그 개조 칩 : 새벽의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]새벽의<font color='#9D927B'>\n무기 공격력 증가[%] +6%\n적 추가 피해 : 보스/네임드[%] +5%
+
+ID=660553209
+
+<font color='#FFBA85'>[태그 개조 칩 : 도전자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]도전자의<font color='#9D927B'>\n무기 공격력 증가[%] +6%\n적중도 +126
+
+ID=660553210
+
+<font color='#FFBA85'>[태그 개조 칩 : 집념의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]집념의<font color='#9D927B'>\n무기 공격력 증가[%] +6%\n최대 HP +450
+
+ID=660553211
+
+<font color='#FFBA85'>[태그 개조 칩 : 구름의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]구름의<font color='#9D927B'>\n무기 공격력 증가[%] +6%\n이동속도[%] +2%
+
+ID=660553212
+
+<font color='#FFBA85'>[태그 개조 칩 : 태풍의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]태풍의<font color='#9D927B'>\n무기 공격력 증가[%] +6%\n슈퍼아머 파괴력[%] +8%
+
+ID=660553213
+
+<font color='#FFBA85'>[태그 개조 칩 : 세련된]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]세련된<font color='#9D927B'>\n무기 공격력 증가[%] +6%\n최대 스태미나 +3
+
+ID=660553214
+
+<font color='#FFBA85'>[태그 개조 칩 : 거짓의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]거짓의<font color='#9D927B'>\n무기 공격력 증가[%] +5%\n황금 세력 추가피해 [%] +6%
+
+ID=660553215
+
+<font color='#FFBA85'>[태그 개조 칩 : 오만한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]오만한<font color='#9D927B'>\n무기 공격력 증가[%] +5%\n프라이멀 세력 추가피해 [%] +6%
+
+ID=660553301
+
+<font color='#FFBA85'>[태그 개조 칩 : 괴상한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]괴상한<font color='#9D927B'>\n장비 방어도 증가 +72\n방어도 +11
+
+ID=660553302
+
+<font color='#FFBA85'>[태그 개조 칩 : 기괴한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]기괴한<font color='#9D927B'>\n장비 방어도 증가 +64\n방어도[%] +4%
+
+ID=660553303
+
+<font color='#FFBA85'>[태그 개조 칩 : 무모한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]무모한<font color='#9D927B'>\n장비 방어도 증가 +88\n피해 감소 : 빗맞음[%] +5%
+
+ID=660553304
+
+<font color='#FFBA85'>[태그 개조 칩 : 저주받은]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]저주받은<font color='#9D927B'>\n장비 방어도 증가 +80\n치명타 저항[%] +2%
+
+ID=660553305
+
+태그 개조 칩 : 미명의
+
+<font color='#FFBA85'>[태그 개조 칩 : 미명의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]미명의<font color='#9D927B'>\n장비 방어도 증가 +68\n피해 감소 : 일반[%] +1%
+
+ID=660553306
+
+태그 개조 칩 : 비명의
+
+<font color='#FFBA85'>[태그 개조 칩 : 비명의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]비명의<font color='#9D927B'>\n장비 방어도 증가 +68\n피해 감소 : 보스/네임드[%] +1%
+
+ID=660553307
+
+<font color='#FFBA85'>[태그 개조 칩 : 불꽃의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]불꽃의<font color='#9D927B'>\n장비 방어도 증가 +72\n치명타 피해  +63
+
+ID=660553308
+
+<font color='#FFBA85'>[태그 개조 칩 : 탐색하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]탐색하는<font color='#9D927B'>\n장비 방어도 증가 +76\n회피도 +24
+
+ID=660553309
+
+<font color='#FFBA85'>[태그 개조 칩 : 기초의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]기초의<font color='#9D927B'>\n장비 방어도 증가 +64\n최대 HP  +144
+
+ID=660553311
+
+태그 개조 칩 : 과묵한
+
+<font color='#FFBA85'>[태그 개조 칩 : 과묵한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]과묵한<font color='#9D927B'>\n장비 방어도 증가 +72\n최대 스태미나  +1
+
+ID=660553312
+
+<font color='#FFBA85'>[태그 개조 칩 : 안개의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]안개의<font color='#9D927B'>\n장비 방어도 증가 +80\n처치 효과 : HP회복 +140
+
+ID=660553313
+
+<font color='#FFBA85'>[태그 개조 칩 : 편안한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]편안한<font color='#9D927B'>\n장비 방어도 증가 +76\n소울 베이퍼 획득[%] +3%
+
+ID=660553314
+
+태그 개조 칩 : 호화로운
+
+<font color='#FFBA85'>[태그 개조 칩 : 호화로운]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]호화로운<font color='#9D927B'>\n장비 방어도 증가 +88\n적에게 얻는 제니[%] +7%
+
+ID=660553315
+
+태그 개조 칩 : 훌륭한
+
+<font color='#FFBA85'>[태그 개조 칩 : 훌륭한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]훌륭한<font color='#9D927B'>\n장비 방어도 증가 +88\n적에게 얻는 EXP[%] +17%
+
+ID=660553316
+
+태그 개조 칩 : 비범한
+
+<font color='#FFBA85'>[태그 개조 칩 : 비범한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]비범한<font color='#9D927B'>\n장비 방어도 증가 +88\nSG 소모량 감소[%] +2%
+
+ID=660553401
+
+<font color='#FFBA85'>[태그 개조 칩 : 끈기의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]끈기의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n방어도 +11
+
+ID=660553402
+
+<font color='#FFBA85'>[태그 개조 칩 : 철옹성의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]철옹성의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n방어도[%] +4%
+
+ID=660553403
+
+<font color='#FFBA85'>[태그 개조 칩 : 빛무리의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]빛무리의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n피해 감소 : 빗맞음[%] +5%
+
+ID=660553404
+
+<font color='#FFBA85'>[태그 개조 칩 : 본능의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]본능의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n치명타 저항[%] +2%
+
+ID=660553405
+
+태그 개조 칩 : 불굴의
+
+<font color='#FFBA85'>[태그 개조 칩 : 불굴의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]불굴의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n피해 감소 : 일반[%] +1%
+
+ID=660553406
+
+태그 개조 칩 : 수호의
+
+<font color='#FFBA85'>[태그 개조 칩 : 수호의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]수호의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n피해 감소 : 보스/네임드[%] +1%
+
+ID=660553407
+
+<font color='#FFBA85'>[태그 개조 칩 : 혼돈의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]혼돈의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n치명타 피해  +63
+
+ID=660553408
+
+<font color='#FFBA85'>[태그 개조 칩 : 완벽한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]완벽한<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n회피도 +24
+
+ID=660553409
+
+<font color='#FFBA85'>[태그 개조 칩 : 바다의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]바다의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n최대 HP  +144
+
+ID=660553411
+
+태그 개조 칩 : 섬광의
+
+<font color='#FFBA85'>[태그 개조 칩 : 섬광의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]섬광의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n최대 스태미나  +1
+
+ID=660553412
+
+<font color='#FFBA85'>[태그 개조 칩 : 이능력자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]이능력자의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n처치 효과 : HP회복 +140
+
+ID=660553413
+
+<font color='#FFBA85'>[태그 개조 칩 : 야생의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]야생의<font color='#9D927B'>\n장비 방어도 증가[%] +3%\n소울 베이퍼 획득[%] +3%
+
+ID=660553414
+
+태그 개조 칩 : 소박한
+
+<font color='#FFBA85'>[태그 개조 칩 : 소박한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]소박한<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n적에게 얻는 제니[%] +7%
+
+ID=660553415
+
+태그 개조 칩 : 여행자의
+
+<font color='#FFBA85'>[태그 개조 칩 : 여행자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]여행자의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n적에게 얻는 EXP[%] +17%
+
+ID=660553416
+
+태그 개조 칩 : 투지의
+
+<font color='#FFBA85'>[태그 개조 칩 : 투지의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#54B3F5'>[Tag]투지의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\nSG 소모량 감소[%] +2%
+
+ID=660554101
+
+<font color='#FFBA85'>[태그 개조 칩 : 괴상한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]괴상한<font color='#9D927B'>\n무기 공격력 증가 +252\n공격력 +72
+
+ID=660554102
+
+<font color='#FFBA85'>[태그 개조 칩 : 기괴한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]기괴한<font color='#9D927B'>\n무기 공격력 증가 +252\n공격력[%] +10%
+
+ID=660554103
+
+<font color='#FFBA85'>[태그 개조 칩 : 녹슨]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]녹슨<font color='#9D927B'>\n무기 공격력 증가 +346\n빗맞힘 시 피해[%] +33%
+
+ID=660554104
+
+<font color='#FFBA85'>[태그 개조 칩 : 덧댄]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]덧댄<font color='#9D927B'>\n무기 공격력 증가 +252\n치명타[%] +4%
+
+ID=660554105
+
+<font color='#FFBA85'>[태그 개조 칩 : 조잡한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]조잡한<font color='#9D927B'>\n무기 공격력 증가 +252\n치명타 피해 +200
+
+ID=660554106
+
+<font color='#FFBA85'>[태그 개조 칩 : 난폭한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]난폭한<font color='#9D927B'>\n무기 공격력 증가 +252\n적 방어도 관통[%] +3%
+
+ID=660554107
+
+<font color='#FFBA85'>[태그 개조 칩 : 잃어버린]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]잃어버린<font color='#9D927B'>\n무기 공격력 증가 +267\n적 추가 피해 : 일반[%] +6%
+
+ID=660554108
+
+<font color='#FFBA85'>[태그 개조 칩 : 절규하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]절규하는<font color='#9D927B'>\n무기 공격력 증가 +267\n적 추가 피해 : 보스/네임드[%] +6%
+
+ID=660554109
+
+<font color='#FFBA85'>[태그 개조 칩 : 방치된]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]방치된<font color='#9D927B'>\n무기 공격력 증가 +283\n적중도 +189
+
+ID=660554110
+
+<font color='#FFBA85'>[태그 개조 칩 : 자비의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]자비의<font color='#9D927B'>\n무기 공격력 증가 +283\n최대 HP +810
+
+ID=660554111
+
+<font color='#FFBA85'>[태그 개조 칩 : 속죄의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]속죄의<font color='#9D927B'>\n무기 공격력 증가 +283\n이동속도[%] +3%
+
+ID=660554112
+
+<font color='#FFBA85'>[태그 개조 칩 : 급류의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]급류의<font color='#9D927B'>\n무기 공격력 증가 +314\n슈퍼아머 파괴력[%] +12%
+
+ID=660554113
+
+<font color='#FFBA85'>[태그 개조 칩 : 지친자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]지친자의<font color='#9D927B'>\n무기 공격력 증가 +283\n최대 스태미나 +4
+
+ID=660554114
+
+<font color='#FFBA85'>[태그 개조 칩 : 거짓의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]거짓의<font color='#9D927B'>\n무기 공격력 증가 +252\n황금 세력 추가피해 [%] +9%
+
+ID=660554115
+
+<font color='#FFBA85'>[태그 개조 칩 : 오만한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]오만한<font color='#9D927B'>\n무기 공격력 증가 +252\n프라이멀 세력 추가피해 [%] +9%
+
+ID=660554201
+
+<font color='#FFBA85'>[태그 개조 칩 : 강직한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]강직한<font color='#9D927B'>\n무기 공격력 증가[%] +8%\n공격력 +72
+
+ID=660554202
+
+<font color='#FFBA85'>[태그 개조 칩 : 강철의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]강철의<font color='#9D927B'>\n무기 공격력 증가[%] +8%\n공격력[%] +10%
+
+ID=660554203
+
+<font color='#FFBA85'>[태그 개조 칩 : 나선의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]나선의<font color='#9D927B'>\n무기 공격력 증가[%] +10%\n빗맞힘 시 피해[%] +33%
+
+ID=660554204
+
+<font color='#FFBA85'>[태그 개조 칩 : 화산의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]화산의<font color='#9D927B'>\n무기 공격력 증가[%] +8%\n치명타[%] +4%
+
+ID=660554205
+
+<font color='#FFBA85'>[태그 개조 칩 : 작열하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]작열하는<font color='#9D927B'>\n무기 공격력 증가[%] +8%\n치명타 피해 +200
+
+ID=660554206
+
+<font color='#FFBA85'>[태그 개조 칩 : 눈부신]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]눈부신<font color='#9D927B'>\n무기 공격력 증가[%] +8%\n적 방어도 관통[%] +3%
+
+ID=660554207
+
+<font color='#FFBA85'>[태그 개조 칩 : 천둥의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]천둥의<font color='#9D927B'>\n무기 공격력 증가[%] +8%\n적 추가 피해 : 일반[%] +6%
+
+ID=660554208
+
+<font color='#FFBA85'>[태그 개조 칩 : 새벽의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]새벽의<font color='#9D927B'>\n무기 공격력 증가[%] +8%\n적 추가 피해 : 보스/네임드[%] +6%
+
+ID=660554209
+
+<font color='#FFBA85'>[태그 개조 칩 : 도전자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]도전자의<font color='#9D927B'>\n무기 공격력 증가[%] +9%\n적중도 +189
+
+ID=660554210
+
+<font color='#FFBA85'>[태그 개조 칩 : 집념의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]집념의<font color='#9D927B'>\n무기 공격력 증가[%] +9%\n최대 HP +810
+
+ID=660554211
+
+<font color='#FFBA85'>[태그 개조 칩 : 구름의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]구름의<font color='#9D927B'>\n무기 공격력 증가[%] +9%\n이동속도[%] +3%
+
+ID=660554212
+
+<font color='#FFBA85'>[태그 개조 칩 : 태풍의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]태풍의<font color='#9D927B'>\n무기 공격력 증가[%] +9%\n슈퍼아머 파괴력[%] +12%
+
+ID=660554213
+
+<font color='#FFBA85'>[태그 개조 칩 : 세련된]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]세련된<font color='#9D927B'>\n무기 공격력 증가[%] +9%\n최대 스태미나 +4
+
+ID=660554214
+
+<font color='#FFBA85'>[태그 개조 칩 : 거짓의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]거짓의<font color='#9D927B'>\n무기 공격력 증가[%] +8%\n황금 세력 추가피해 [%] +9%
+
+ID=660554215
+
+<font color='#FFBA85'>[태그 개조 칩 : 오만한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]오만한<font color='#9D927B'>\n무기 공격력 증가[%] +8%\n프라이멀 세력 추가피해 [%] +9%
+
+ID=660554301
+
+<font color='#FFBA85'>[태그 개조 칩 : 괴상한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]괴상한<font color='#9D927B'>\n장비 방어도 증가 +192\n방어도 +17
+
+ID=660554302
+
+<font color='#FFBA85'>[태그 개조 칩 : 기괴한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]기괴한<font color='#9D927B'>\n장비 방어도 증가 +171\n방어도[%] +5%
+
+ID=660554303
+
+<font color='#FFBA85'>[태그 개조 칩 : 무모한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]무모한<font color='#9D927B'>\n장비 방어도 증가 +235\n피해 감소 : 빗맞음[%] +8%
+
+ID=660554304
+
+<font color='#FFBA85'>[태그 개조 칩 : 저주받은]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]저주받은<font color='#9D927B'>\n장비 방어도 증가 +213\n치명타 저항[%] +3%
+
+ID=660554305
+
+<font color='#FFBA85'>[태그 개조 칩 : 미명의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]미명의<font color='#9D927B'>\n장비 방어도 증가 +182\n피해 감소 : 일반[%] +1%
+
+ID=660554306
+
+<font color='#FFBA85'>[태그 개조 칩 : 비명의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]비명의<font color='#9D927B'>\n장비 방어도 증가 +182\n피해 감소 : 보스/네임드[%] +1%
+
+ID=660554307
+
+<font color='#FFBA85'>[태그 개조 칩 : 불꽃의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]불꽃의<font color='#9D927B'>\n장비 방어도 증가 +192\n치명타 피해  +95
+
+ID=660554308
+
+<font color='#FFBA85'>[태그 개조 칩 : 탐색하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]탐색하는<font color='#9D927B'>\n장비 방어도 증가 +203\n회피도 +36
+
+ID=660554309
+
+<font color='#FFBA85'>[태그 개조 칩 : 기초의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]기초의<font color='#9D927B'>\n장비 방어도 증가 +171\n최대 HP  +192
+
+ID=660554311
+
+<font color='#FFBA85'>[태그 개조 칩 : 과묵한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]과묵한<font color='#9D927B'>\n장비 방어도 증가 +192\n최대 스태미나  +1
+
+ID=660554312
+
+<font color='#FFBA85'>[태그 개조 칩 : 안개의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]안개의<font color='#9D927B'>\n장비 방어도 증가 +213\n처치 효과 : HP회복 +230
+
+ID=660554313
+
+<font color='#FFBA85'>[태그 개조 칩 : 편안한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]편안한<font color='#9D927B'>\n장비 방어도 증가 +203\n소울 베이퍼 획득[%] +4%
+
+ID=660554314
+
+<font color='#FFBA85'>[태그 개조 칩 : 호화로운]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]호화로운<font color='#9D927B'>\n장비 방어도 증가 +235\n적에게 얻는 제니[%] +9%
+
+ID=660554315
+
+<font color='#FFBA85'>[태그 개조 칩 : 훌륭한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]훌륭한<font color='#9D927B'>\n장비 방어도 증가 +235\n적에게 얻는 EXP[%] +22%
+
+ID=660554316
+
+<font color='#FFBA85'>[태그 개조 칩 : 비범한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]비범한<font color='#9D927B'>\n장비 방어도 증가 +235\nSG 소모량 감소[%] +2%
+
+ID=660554401
+
+<font color='#FFBA85'>[태그 개조 칩 : 끈기의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]끈기의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n방어도 +17
+
+ID=660554402
+
+<font color='#FFBA85'>[태그 개조 칩 : 철옹성의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]철옹성의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n방어도[%] +5%
+
+ID=660554403
+
+<font color='#FFBA85'>[태그 개조 칩 : 빛무리의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]빛무리의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n피해 감소 : 빗맞음[%] +8%
+
+ID=660554404
+
+<font color='#FFBA85'>[태그 개조 칩 : 본능의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]본능의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n치명타 저항[%] +3%
+
+ID=660554405
+
+<font color='#FFBA85'>[태그 개조 칩 : 불굴의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]불굴의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n피해 감소 : 일반[%] +1%
+
+ID=660554406
+
+<font color='#FFBA85'>[태그 개조 칩 : 수호의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]수호의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n피해 감소 : 보스/네임드[%] +1%
+
+ID=660554407
+
+<font color='#FFBA85'>[태그 개조 칩 : 혼돈의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]혼돈의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n치명타 피해  +95
+
+ID=660554408
+
+<font color='#FFBA85'>[태그 개조 칩 : 완벽한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]완벽한<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n회피도 +36
+
+ID=660554409
+
+<font color='#FFBA85'>[태그 개조 칩 : 바다의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]바다의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n최대 HP  +192
+
+ID=660554411
+
+<font color='#FFBA85'>[태그 개조 칩 : 섬광의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]섬광의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n최대 스태미나  +1
+
+ID=660554412
+
+<font color='#FFBA85'>[태그 개조 칩 : 이능력자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]이능력자의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n처치 효과 : HP회복 +230
+
+ID=660554413
+
+<font color='#FFBA85'>[태그 개조 칩 : 야생의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]야생의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n소울 베이퍼 획득[%] +4%
+
+ID=660554414
+
+<font color='#FFBA85'>[태그 개조 칩 : 소박한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]소박한<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n적에게 얻는 제니[%] +9%
+
+ID=660554415
+
+<font color='#FFBA85'>[태그 개조 칩 : 여행자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]여행자의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n적에게 얻는 EXP[%] +22%
+
+ID=660554416
+
+<font color='#FFBA85'>[태그 개조 칩 : 투지의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F4CF5D'>[Tag]투지의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\nSG 소모량 감소[%] +2%
+
+ID=660555101
+
+<font color='#FFBA85'>[태그 개조 칩 : 괴상한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]괴상한<font color='#9D927B'>\n무기 공격력 증가 +359\n공격력 +96
+
+ID=660555102
+
+<font color='#FFBA85'>[태그 개조 칩 : 기괴한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]기괴한<font color='#9D927B'>\n무기 공격력 증가 +359\n공격력[%] +12%
+
+ID=660555103
+
+<font color='#FFBA85'>[태그 개조 칩 : 녹슨]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]녹슨<font color='#9D927B'>\n무기 공격력 증가 +493\n빗맞힘 시 피해[%] +44%
+
+ID=660555104
+
+<font color='#FFBA85'>[태그 개조 칩 : 덧댄]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]덧댄<font color='#9D927B'>\n무기 공격력 증가 +359\n치명타[%] +5%
+
+ID=660555105
+
+<font color='#FFBA85'>[태그 개조 칩 : 조잡한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]조잡한<font color='#9D927B'>\n무기 공격력 증가 +359\n치명타 피해 +240
+
+ID=660555106
+
+<font color='#FFBA85'>[태그 개조 칩 : 난폭한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]난폭한<font color='#9D927B'>\n무기 공격력 증가 +359\n적 방어도 관통[%] +4%
+
+ID=660555107
+
+<font color='#FFBA85'>[태그 개조 칩 : 잃어버린]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]잃어버린<font color='#9D927B'>\n무기 공격력 증가 +381\n적 추가 피해 : 일반[%] +9%
+
+ID=660555108
+
+<font color='#FFBA85'>[태그 개조 칩 : 절규하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]절규하는<font color='#9D927B'>\n무기 공격력 증가 +381\n적 추가 피해 : 보스/네임드[%] +9%
+
+ID=660555109
+
+<font color='#FFBA85'>[태그 개조 칩 : 방치된]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]방치된<font color='#9D927B'>\n무기 공격력 증가 +404\n적중도 +252
+
+ID=660555110
+
+<font color='#FFBA85'>[태그 개조 칩 : 자비의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]자비의<font color='#9D927B'>\n무기 공격력 증가 +404\n최대 HP +1260
+
+ID=660555111
+
+<font color='#FFBA85'>[태그 개조 칩 : 속죄의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]속죄의<font color='#9D927B'>\n무기 공격력 증가 +404\n이동속도[%] +4%
+
+ID=660555112
+
+<font color='#FFBA85'>[태그 개조 칩 : 급류의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]급류의<font color='#9D927B'>\n무기 공격력 증가 +448\n슈퍼아머 파괴력[%] +16%
+
+ID=660555113
+
+<font color='#FFBA85'>[태그 개조 칩 : 지친자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]지친자의<font color='#9D927B'>\n무기 공격력 증가 +404\n최대 스태미나 +5
+
+ID=660555114
+
+<font color='#FFBA85'>[태그 개조 칩 : 거짓의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]거짓의<font color='#9D927B'>\n무기 공격력 증가 +359\n황금 세력 추가피해 [%] +12%
+
+ID=660555115
+
+<font color='#FFBA85'>[태그 개조 칩 : 오만한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]오만한<font color='#9D927B'>\n무기 공격력 증가 +359\n프라이멀 세력 추가피해 [%] +12%
+
+ID=660555201
+
+<font color='#FFBA85'>[태그 개조 칩 : 강직한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]강직한<font color='#9D927B'>\n무기 공격력 증가[%] +9%\n공격력 +96
+
+ID=660555202
+
+<font color='#FFBA85'>[태그 개조 칩 : 강철의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]강철의<font color='#9D927B'>\n무기 공격력 증가[%] +9%\n공격력[%] +12%
+
+ID=660555203
+
+<font color='#FFBA85'>[태그 개조 칩 : 나선의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]나선의<font color='#9D927B'>\n무기 공격력 증가[%] +13%\n빗맞힘 시 피해[%] +44%
+
+ID=660555204
+
+<font color='#FFBA85'>[태그 개조 칩 : 화산의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]화산의<font color='#9D927B'>\n무기 공격력 증가[%] +9%\n치명타[%] +5%
+
+ID=660555205
+
+<font color='#FFBA85'>[태그 개조 칩 : 작열하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]작열하는<font color='#9D927B'>\n무기 공격력 증가[%] +9%\n치명타 피해 +240
+
+ID=660555206
+
+<font color='#FFBA85'>[태그 개조 칩 : 눈부신]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]눈부신<font color='#9D927B'>\n무기 공격력 증가[%] +9%\n적 방어도 관통[%] +4%
+
+ID=660555207
+
+<font color='#FFBA85'>[태그 개조 칩 : 천둥의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]천둥의<font color='#9D927B'>\n무기 공격력 증가[%] +10%\n적 추가 피해 : 일반[%] +9%
+
+ID=660555208
+
+<font color='#FFBA85'>[태그 개조 칩 : 새벽의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]새벽의<font color='#9D927B'>\n무기 공격력 증가[%] +10%\n적 추가 피해 : 보스/네임드[%] +9%
+
+ID=660555209
+
+<font color='#FFBA85'>[태그 개조 칩 : 도전자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]도전자의<font color='#9D927B'>\n무기 공격력 증가[%] +10%\n적중도 +252
+
+ID=660555210
+
+<font color='#FFBA85'>[태그 개조 칩 : 집념의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]집념의<font color='#9D927B'>\n무기 공격력 증가[%] +10%\n최대 HP +1260
+
+ID=660555211
+
+<font color='#FFBA85'>[태그 개조 칩 : 구름의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]구름의<font color='#9D927B'>\n무기 공격력 증가[%] +10%\n이동속도[%] +4%
+
+ID=660555212
+
+<font color='#FFBA85'>[태그 개조 칩 : 태풍의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]태풍의<font color='#9D927B'>\n무기 공격력 증가[%] +11%\n슈퍼아머 파괴력[%] +16%
+
+ID=660555213
+
+<font color='#FFBA85'>[태그 개조 칩 : 세련된]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]세련된<font color='#9D927B'>\n무기 공격력 증가[%] +10%\n최대 스태미나 +5
+
+ID=660555214
+
+<font color='#FFBA85'>[태그 개조 칩 : 거짓의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]거짓의<font color='#9D927B'>\n무기 공격력 증가[%] +9%\n황금 세력 추가피해 [%] +12%
+
+ID=660555215
+
+<font color='#FFBA85'>[태그 개조 칩 : 오만한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]오만한<font color='#9D927B'>\n무기 공격력 증가[%] +9%\n프라이멀 세력 추가피해 [%] +12%
+
+ID=660555301
+
+<font color='#FFBA85'>[태그 개조 칩 : 괴상한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]괴상한<font color='#9D927B'>\n장비 방어도 증가 +274\n방어도 +23
+
+ID=660555302
+
+<font color='#FFBA85'>[태그 개조 칩 : 기괴한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]기괴한<font color='#9D927B'>\n장비 방어도 증가 +244\n방어도[%] +7%
+
+ID=660555303
+
+<font color='#FFBA85'>[태그 개조 칩 : 무모한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]무모한<font color='#9D927B'>\n장비 방어도 증가 +335\n피해 감소 : 빗맞음[%] +11%
+
+ID=660555304
+
+<font color='#FFBA85'>[태그 개조 칩 : 저주받은]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]저주받은<font color='#9D927B'>\n장비 방어도 증가 +304\n치명타 저항[%] +4%
+
+ID=660555305
+
+<font color='#FFBA85'>[태그 개조 칩 : 미명의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]미명의<font color='#9D927B'>\n장비 방어도 증가 +259\n피해 감소 : 일반[%] +2%
+
+ID=660555306
+
+<font color='#FFBA85'>[태그 개조 칩 : 비명의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]비명의<font color='#9D927B'>\n장비 방어도 증가 +259\n피해 감소 : 보스/네임드[%] +2%
+
+ID=660555307
+
+<font color='#FFBA85'>[태그 개조 칩 : 불꽃의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]불꽃의<font color='#9D927B'>\n장비 방어도 증가 +274\n치명타 피해  +126
+
+ID=660555308
+
+<font color='#FFBA85'>[태그 개조 칩 : 탐색하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]탐색하는<font color='#9D927B'>\n장비 방어도 증가 +289\n회피도 +48
+
+ID=660555309
+
+<font color='#FFBA85'>[태그 개조 칩 : 기초의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]기초의<font color='#9D927B'>\n장비 방어도 증가 +244\n최대 HP  +240
+
+ID=660555311
+
+<font color='#FFBA85'>[태그 개조 칩 : 과묵한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]과묵한<font color='#9D927B'>\n장비 방어도 증가 +274\n최대 스태미나  +2
+
+ID=660555312
+
+<font color='#FFBA85'>[태그 개조 칩 : 안개의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]안개의<font color='#9D927B'>\n장비 방어도 증가 +304\n처치 효과 : HP회복 +350
+
+ID=660555313
+
+<font color='#FFBA85'>[태그 개조 칩 : 편안한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]편안한<font color='#9D927B'>\n장비 방어도 증가 +289\n소울 베이퍼 획득[%] +6%
+
+ID=660555314
+
+<font color='#FFBA85'>[태그 개조 칩 : 호화로운]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]호화로운<font color='#9D927B'>\n장비 방어도 증가 +335\n적에게 얻는 제니[%] +11%
+
+ID=660555315
+
+<font color='#FFBA85'>[태그 개조 칩 : 훌륭한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]훌륭한<font color='#9D927B'>\n장비 방어도 증가 +335\n적에게 얻는 EXP[%] +33%
+
+ID=660555316
+
+<font color='#FFBA85'>[태그 개조 칩 : 비범한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]비범한<font color='#9D927B'>\n장비 방어도 증가 +335\nSG 소모량 감소[%] +3%
+
+ID=660555401
+
+<font color='#FFBA85'>[태그 개조 칩 : 끈기의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]끈기의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n방어도 +23
+
+ID=660555402
+
+<font color='#FFBA85'>[태그 개조 칩 : 철옹성의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]철옹성의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n방어도[%] +7%
+
+ID=660555403
+
+<font color='#FFBA85'>[태그 개조 칩 : 빛무리의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]빛무리의<font color='#9D927B'>\n장비 방어도 증가[%] +6%\n피해 감소 : 빗맞음[%] +11%
+
+ID=660555404
+
+<font color='#FFBA85'>[태그 개조 칩 : 본능의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]본능의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n치명타 저항[%] +4%
+
+ID=660555405
+
+<font color='#FFBA85'>[태그 개조 칩 : 불굴의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]불굴의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n피해 감소 : 일반[%] +2%
+
+ID=660555406
+
+<font color='#FFBA85'>[태그 개조 칩 : 수호의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]수호의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n피해 감소 : 보스/네임드[%] +2%
+
+ID=660555407
+
+<font color='#FFBA85'>[태그 개조 칩 : 혼돈의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]혼돈의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n치명타 피해  +126
+
+ID=660555408
+
+<font color='#FFBA85'>[태그 개조 칩 : 완벽한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]완벽한<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n회피도 +48
+
+ID=660555409
+
+<font color='#FFBA85'>[태그 개조 칩 : 바다의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]바다의<font color='#9D927B'>\n장비 방어도 증가[%] +4%\n최대 HP  +240
+
+ID=660555411
+
+<font color='#FFBA85'>[태그 개조 칩 : 섬광의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]섬광의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n최대 스태미나  +2
+
+ID=660555412
+
+<font color='#FFBA85'>[태그 개조 칩 : 이능력자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]이능력자의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n처치 효과 : HP회복 +350
+
+ID=660555413
+
+<font color='#FFBA85'>[태그 개조 칩 : 야생의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]야생의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n소울 베이퍼 획득[%] +6%
+
+ID=660555414
+
+<font color='#FFBA85'>[태그 개조 칩 : 소박한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]소박한<font color='#9D927B'>\n장비 방어도 증가[%] +6%\n적에게 얻는 제니[%] +11%
+
+ID=660555415
+
+<font color='#FFBA85'>[태그 개조 칩 : 여행자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]여행자의<font color='#9D927B'>\n장비 방어도 증가[%] +6%\n적에게 얻는 EXP[%] +33%
+
+ID=660555416
+
+<font color='#FFBA85'>[태그 개조 칩 : 투지의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#F94A6F'>[Tag]투지의<font color='#9D927B'>\n장비 방어도 증가[%] +6%\nSG 소모량 감소[%] +3%
+
+ID=660556101
+
+<font color='#FFBA85'>[태그 개조 칩 : 괴상한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]괴상한<font color='#9D927B'>\n무기 공격력 증가 +481\n공격력 +112
+
+ID=660556102
+
+<font color='#FFBA85'>[태그 개조 칩 : 기괴한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]기괴한<font color='#9D927B'>\n무기 공격력 증가 +481\n공격력[%] +15%
+
+ID=660556103
+
+<font color='#FFBA85'>[태그 개조 칩 : 녹슨]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]녹슨<font color='#9D927B'>\n무기 공격력 증가 +662\n빗맞힘 시 피해[%] +55%
+
+ID=660556104
+
+<font color='#FFBA85'>[태그 개조 칩 : 덧댄]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]덧댄<font color='#9D927B'>\n무기 공격력 증가 +481\n치명타[%] +7%
+
+ID=660556105
+
+<font color='#FFBA85'>[태그 개조 칩 : 조잡한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]조잡한<font color='#9D927B'>\n무기 공격력 증가 +481\n치명타 피해 +384
+
+ID=660556106
+
+<font color='#FFBA85'>[태그 개조 칩 : 난폭한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]난폭한<font color='#9D927B'>\n무기 공격력 증가 +481\n적 방어도 관통[%] +4%
+
+ID=660556107
+
+<font color='#FFBA85'>[태그 개조 칩 : 잃어버린]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]잃어버린<font color='#9D927B'>\n무기 공격력 증가 +511\n적 추가 피해 : 일반[%] +12%
+
+ID=660556108
+
+<font color='#FFBA85'>[태그 개조 칩 : 절규하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]절규하는<font color='#9D927B'>\n무기 공격력 증가 +511\n적 추가 피해 : 보스/네임드[%] +12%
+
+ID=660556109
+
+<font color='#FFBA85'>[태그 개조 칩 : 방치된]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]방치된<font color='#9D927B'>\n무기 공격력 증가 +541\n적중도 +315
+
+ID=660556110
+
+<font color='#FFBA85'>[태그 개조 칩 : 자비의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]자비의<font color='#9D927B'>\n무기 공격력 증가 +541\n최대 HP +1800
+
+ID=660556111
+
+<font color='#FFBA85'>[태그 개조 칩 : 속죄의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]속죄의<font color='#9D927B'>\n무기 공격력 증가 +541\n이동속도[%] +5%
+
+ID=660556112
+
+<font color='#FFBA85'>[태그 개조 칩 : 급류의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]급류의<font color='#9D927B'>\n무기 공격력 증가 +601\n슈퍼아머 파괴력[%] +22%
+
+ID=660556113
+
+<font color='#FFBA85'>[태그 개조 칩 : 지친자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]지친자의<font color='#9D927B'>\n무기 공격력 증가 +541\n최대 스태미나 +6
+
+ID=660556114
+
+<font color='#FFBA85'>[태그 개조 칩 : 거짓의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]거짓의<font color='#9D927B'>\n무기 공격력 증가 +481\n황금 세력 추가피해 [%] +16%
+
+ID=660556115
+
+<font color='#FFBA85'>[태그 개조 칩 : 오만한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]오만한<font color='#9D927B'>\n무기 공격력 증가 +481\n프라이멀 세력 추가피해 [%] +16%
+
+ID=660556201
+
+<font color='#FFBA85'>[태그 개조 칩 : 강직한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]강직한<font color='#9D927B'>\n무기 공격력 증가[%] +12%\n공격력 +112
+
+ID=660556202
+
+<font color='#FFBA85'>[태그 개조 칩 : 강철의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]강철의<font color='#9D927B'>\n무기 공격력 증가[%] +12%\n공격력[%] +15%
+
+ID=660556203
+
+<font color='#FFBA85'>[태그 개조 칩 : 나선의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]나선의<font color='#9D927B'>\n무기 공격력 증가[%] +16%\n빗맞힘 시 피해[%] +55%
+
+ID=660556204
+
+<font color='#FFBA85'>[태그 개조 칩 : 화산의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]화산의<font color='#9D927B'>\n무기 공격력 증가[%] +12%\n치명타[%] +7%
+
+ID=660556205
+
+<font color='#FFBA85'>[태그 개조 칩 : 작열하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]작열하는<font color='#9D927B'>\n무기 공격력 증가[%] +12%\n치명타 피해 +384
+
+ID=660556206
+
+<font color='#FFBA85'>[태그 개조 칩 : 눈부신]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]눈부신<font color='#9D927B'>\n무기 공격력 증가[%] +12%\n적 방어도 관통[%] +4%
+
+ID=660556207
+
+<font color='#FFBA85'>[태그 개조 칩 : 천둥의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]천둥의<font color='#9D927B'>\n무기 공격력 증가[%] +12%\n적 추가 피해 : 일반[%] +12%
+
+ID=660556208
+
+<font color='#FFBA85'>[태그 개조 칩 : 새벽의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]새벽의<font color='#9D927B'>\n무기 공격력 증가[%] +12%\n적 추가 피해 : 보스/네임드[%] +12%
+
+ID=660556209
+
+<font color='#FFBA85'>[태그 개조 칩 : 도전자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]도전자의<font color='#9D927B'>\n무기 공격력 증가[%] +13%\n적중도 +315
+
+ID=660556210
+
+<font color='#FFBA85'>[태그 개조 칩 : 집념의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]집념의<font color='#9D927B'>\n무기 공격력 증가[%] +13%\n최대 HP +1800
+
+ID=660556211
+
+<font color='#FFBA85'>[태그 개조 칩 : 구름의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]구름의<font color='#9D927B'>\n무기 공격력 증가[%] +13%\n이동속도[%] +5%
+
+ID=660556212
+
+<font color='#FFBA85'>[태그 개조 칩 : 태풍의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]태풍의<font color='#9D927B'>\n무기 공격력 증가[%] +14%\n슈퍼아머 파괴력[%] +22%
+
+ID=660556213
+
+<font color='#FFBA85'>[태그 개조 칩 : 세련된]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]세련된<font color='#9D927B'>\n무기 공격력 증가[%] +13%\n최대 스태미나 +6
+
+ID=660556214
+
+<font color='#FFBA85'>[태그 개조 칩 : 거짓의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]거짓의<font color='#9D927B'>\n무기 공격력 증가[%] +12%\n황금 세력 추가피해 [%] +16%
+
+ID=660556215
+
+<font color='#FFBA85'>[태그 개조 칩 : 오만한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]오만한<font color='#9D927B'>\n무기 공격력 증가[%] +12%\n프라이멀 세력 추가피해 [%] +16%
+
+ID=660556301
+
+<font color='#FFBA85'>[태그 개조 칩 : 괴상한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]괴상한<font color='#9D927B'>\n장비 방어도 증가 +368\n방어도 +28
+
+ID=660556302
+
+<font color='#FFBA85'>[태그 개조 칩 : 기괴한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]기괴한<font color='#9D927B'>\n장비 방어도 증가 +327\n방어도[%] +9%
+
+ID=660556303
+
+<font color='#FFBA85'>[태그 개조 칩 : 무모한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]무모한<font color='#9D927B'>\n장비 방어도 증가 +449\n피해 감소 : 빗맞음[%] +15%
+
+ID=660556304
+
+<font color='#FFBA85'>[태그 개조 칩 : 저주받은]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]저주받은<font color='#9D927B'>\n장비 방어도 증가 +408\n치명타 저항[%] +5%
+
+ID=660556305
+
+<font color='#FFBA85'>[태그 개조 칩 : 미명의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]미명의<font color='#9D927B'>\n장비 방어도 증가 +347\n피해 감소 : 일반[%] +3%
+
+ID=660556306
+
+<font color='#FFBA85'>[태그 개조 칩 : 비명의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]비명의<font color='#9D927B'>\n장비 방어도 증가 +347\n피해 감소 : 보스/네임드[%] +3%
+
+ID=660556307
+
+<font color='#FFBA85'>[태그 개조 칩 : 불꽃의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]불꽃의<font color='#9D927B'>\n장비 방어도 증가 +368\n치명타 피해  +158
+
+ID=660556308
+
+<font color='#FFBA85'>[태그 개조 칩 : 탐색하는]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]탐색하는<font color='#9D927B'>\n장비 방어도 증가 +388\n회피도 +59
+
+ID=660556309
+
+<font color='#FFBA85'>[태그 개조 칩 : 기초의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]기초의<font color='#9D927B'>\n장비 방어도 증가 +327\n최대 HP  +320
+
+ID=660556311
+
+<font color='#FFBA85'>[태그 개조 칩 : 과묵한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]과묵한<font color='#9D927B'>\n장비 방어도 증가 +368\n최대 스태미나  +3
+
+ID=660556312
+
+<font color='#FFBA85'>[태그 개조 칩 : 안개의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]안개의<font color='#9D927B'>\n장비 방어도 증가 +408\n처치 효과 : HP회복 +500
+
+ID=660556313
+
+<font color='#FFBA85'>[태그 개조 칩 : 편안한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]편안한<font color='#9D927B'>\n장비 방어도 증가 +388\n소울 베이퍼 획득[%] +7%
+
+ID=660556314
+
+<font color='#FFBA85'>[태그 개조 칩 : 호화로운]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]호화로운<font color='#9D927B'>\n장비 방어도 증가 +449\n적에게 얻는 제니[%] +15%
+
+ID=660556315
+
+<font color='#FFBA85'>[태그 개조 칩 : 훌륭한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]훌륭한<font color='#9D927B'>\n장비 방어도 증가 +449\n적에게 얻는 EXP[%] +44%
+
+ID=660556316
+
+<font color='#FFBA85'>[태그 개조 칩 : 비범한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]비범한<font color='#9D927B'>\n장비 방어도 증가 +449\nSG 소모량 감소[%] +3%
+
+ID=660556401
+
+<font color='#FFBA85'>[태그 개조 칩 : 끈기의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]끈기의<font color='#9D927B'>\n장비 방어도 증가[%] +6%\n방어도 +28
+
+ID=660556402
+
+<font color='#FFBA85'>[태그 개조 칩 : 철옹성의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]철옹성의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n방어도[%] +9%
+
+ID=660556403
+
+<font color='#FFBA85'>[태그 개조 칩 : 빛무리의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]빛무리의<font color='#9D927B'>\n장비 방어도 증가[%] +7%\n피해 감소 : 빗맞음[%] +15%
+
+ID=660556404
+
+<font color='#FFBA85'>[태그 개조 칩 : 본능의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]본능의<font color='#9D927B'>\n장비 방어도 증가[%] +6%\n치명타 저항[%] +5%
+
+ID=660556405
+
+<font color='#FFBA85'>[태그 개조 칩 : 불굴의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]불굴의<font color='#9D927B'>\n장비 방어도 증가[%] +6%\n피해 감소 : 일반[%] +3%
+
+ID=660556406
+
+<font color='#FFBA85'>[태그 개조 칩 : 수호의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]수호의<font color='#9D927B'>\n장비 방어도 증가[%] +6%\n피해 감소 : 보스/네임드[%] +3%
+
+ID=660556407
+
+<font color='#FFBA85'>[태그 개조 칩 : 혼돈의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]혼돈의<font color='#9D927B'>\n장비 방어도 증가[%] +6%\n치명타 피해  +158
+
+ID=660556408
+
+<font color='#FFBA85'>[태그 개조 칩 : 완벽한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]완벽한<font color='#9D927B'>\n장비 방어도 증가[%] +6%\n회피도 +59
+
+ID=660556409
+
+<font color='#FFBA85'>[태그 개조 칩 : 바다의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]바다의<font color='#9D927B'>\n장비 방어도 증가[%] +5%\n최대 HP  +320
+
+ID=660556411
+
+<font color='#FFBA85'>[태그 개조 칩 : 섬광의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]섬광의<font color='#9D927B'>\n장비 방어도 증가[%] +6%\n최대 스태미나  +3
+
+ID=660556412
+
+<font color='#FFBA85'>[태그 개조 칩 : 이능력자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]이능력자의<font color='#9D927B'>\n장비 방어도 증가[%] +6%\n처치 효과 : HP회복 +500
+
+ID=660556413
+
+<font color='#FFBA85'>[태그 개조 칩 : 야생의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]야생의<font color='#9D927B'>\n장비 방어도 증가[%] +6%\n소울 베이퍼 획득[%] +7%
+
+ID=660556414
+
+<font color='#FFBA85'>[태그 개조 칩 : 소박한]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]소박한<font color='#9D927B'>\n장비 방어도 증가[%] +7%\n적에게 얻는 제니[%] +15%
+
+ID=660556415
+
+<font color='#FFBA85'>[태그 개조 칩 : 여행자의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]여행자의<font color='#9D927B'>\n장비 방어도 증가[%] +7%\n적에게 얻는 EXP[%] +44%
+
+ID=660556416
+
+<font color='#FFBA85'>[태그 개조 칩 : 투지의]<font color='#9D927B'>\n\n정식 명칭은 [특수 튜닝 유니트]. 물건에 달린 태그와 같은 형태를 가져 태그라 불리지만 기어와 소울 웨폰에 칩을 연결하는 것만으로도 칩에 내장되어 있는 그 고유의 능력치를 소울워커의 장비에 이식할 수 있는 칩. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.\n\n<font color='#AC4CD4'>[Tag]투지의<font color='#9D927B'>\n장비 방어도 증가[%] +7%\nSG 소모량 감소[%] +3%
+
+ID=880331171
+
+하루(승급)의 장식용 입간판
+
+<font color='#FFBA85'>[가구]<font color='#9D927B'>\n\n승급 후의 하루의 등신대 입간판.\n방에 세워놓은 후, 외출을 나갔다 들어오면 하루가 반겨주는 듯한 느낌을 받을 수 있다. 때에 따라선 흠칫 놀랄 수도 있겠지만.
+
+ID=880332171
+
+어윈(승급)의 장식용 입간판
+
+<font color='#FFBA85'>[가구]<font color='#9D927B'>\n\n승급 후의 어윈의 등신대 입간판.\n방에 세워놓은 후, 외출을 나갔다 들어오면 어윈이 반겨주는 듯한 느낌을 받을 수 있다. 때에 따라선 흠칫 놀랄 수도 있겠지만.
+
+ID=880333171
+
+릴리(승급)의 장식용 입간판
+
+<font color='#FFBA85'>[가구]<font color='#9D927B'>\n\n승급 후의 릴리의 등신대 입간판.\n방에 세워놓은 후, 외출을 나갔다 들어오면 릴리가 반겨주는 듯한 느낌을 받을 수 있다. 때에 따라선 흠칫 놀랄 수도 있겠지만.
+
+ID=880334171
+
+진(승급)의 장식용 입간판
+
+<font color='#FFBA85'>[가구]<font color='#9D927B'>\n\n승급 후의 진의 등신대 입간판.\n방에 세워놓은 후, 외출을 나갔다 들어오면 진이 반겨주는 듯한 느낌을 받을 수 있다. 때에 따라선 흠칫 놀랄 수도 있겠지만.
+
+ID=880335171
+
+스텔라(승급)의 장식용 입간판
+
+<font color='#FFBA85'>[가구]<font color='#9D927B'>\n\n승급 후의 스텔라의 등신대 입간판.\n방에 세워놓은 후, 외출을 나갔다 들어오면 스텔라가 반겨주는 듯한 느낌을 받을 수 있다. 때에 따라선 흠칫 놀랄 수도 있겠지만.
+
+ID=880336171
+
+이리스(승급)의 장식용 입간판
+
+<font color='#FFBA85'>[가구]<font color='#9D927B'>\n\n승급 후의 이리스의 등신대 입간판.\n방에 세워놓은 후, 외출을 나갔다 들어오면 이리스가 반겨주는 듯한 느낌을 받을 수 있다. 때에 따라선 흠칫 놀랄 수도 있겠지만.
+
+ID=680000001
+
+Offensive Tag Transmitter 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 2등급 이하의 공격형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D927B'>\n\n공격형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000002
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 3등급 이하의 공격형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D927B'>\n\n공격형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000003
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 5등급 이하의 공격형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D927B'>\n\n공격형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치. 운이 좋다면 높은 등급의 태그 개조 칩을 볼 수 있다.
+
+ID=680000004
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 6등급 이하의 공격형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D927B'>\n\n공격형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치. 운이 좋다면 높은 등급의 태그 개조 칩을 볼 수 있다.
+
+ID=680000005
+
+고등급 공격형 태그 전송기 I
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 2등급과 5등급 사이인 공격형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D927B'>\n\n공격형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치. 운이 좋다면 높은 등급의 태그 개조 칩을 볼 수 있다.
+
+ID=680000006
+
+고등급 공격형 태그 전송기 II
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 3등급과 6등급 사이인 공격형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D927B'>\n\n공격형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치. 운이 좋다면 높은 등급의 태그 개조 칩을 볼 수 있다.
+
+ID=680000007
+
+1등급 공격형 태그 전송기 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 1등급의 공격형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D935B'>\n\n공격형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000008
+
+2등급 공격형 태그 전송기 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 2등급의 공격형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D934B'>\n\n공격형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000009
+
+3등급 공격형 태그 전송기 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 3등급의 공격형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D934B'>\n\n공격형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000010
+
+4등급 공격형 태그 전송기 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 4등급의 공격형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D936B'>\n\n공격형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000011
+
+5등급 공격형 태그 전송기 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 5등급의 공격형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D937B'>\n\n공격형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000012
+
+6등급 공격형 태그 전송기 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 6등급의 공격형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D938B'>\n\n공격형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000013
+
+Defensive Tag Transmitter
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 2등급 이하의 방어형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D927B'>\n\n방어형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000014
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 3등급 이하의 방어형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D927B'>\n\n방어형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000015
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 5등급 이하의 방어형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D927B'>\n\n방어형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치. 운이 좋다면 높은 등급의 태그 개조 칩을 볼 수 있다.
+
+ID=680000016
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 6등급 이하의 방어형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D927B'>\n\n방어형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치. 운이 좋다면 높은 등급의 태그 개조 칩을 볼 수 있다.
+
+ID=680000017
+
+고등급 방어형 태그 전송기 I
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 2등급과 5등급 사이인 방어형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D927B'>\n\n방어형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치. 운이 좋다면 높은 등급의 태그 개조 칩을 볼 수 있다.
+
+ID=680000018
+
+고등급 방어형 태그 전송기 II
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 3등급과 6등급 사이인 방어형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D927B'>\n\n방어형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치. 운이 좋다면 높은 등급의 태그 개조 칩을 볼 수 있다.
+
+ID=680000019
+
+1등급 방어형 태그 전송기 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 1등급의 방어형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D935B'>\n\n방어형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000020
+
+2등급 방어형 태그 전송기 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 2등급의 방어형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D934B'>\n\n방어형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000021
+
+3등급 방어형 태그 전송기 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 3등급의 방어형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D934B'>\n\n방어형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000022
+
+4등급 방어형 태그 전송기 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 4등급의 방어형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D936B'>\n\n방어형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000023
+
+5등급 방어형 태그 전송기 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 5등급의 방어형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D937B'>\n\n방어형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000024
+
+6등급 방어형 태그 전송기 
+
+<font color='#FFBA85'>[태그 획득 아이템] 태그 무작위 획득\n# 6등급의 방어형 태그중 하나를 확정적으로 획득할 수 있는 아이템<font color='#9D938B'>\n\n방어형 태그 개조 칩을 얻을 수 있는 전송기. 장비에 칩을 연결하는 것만으로도 안에 내재된 능력치를 이용할 수 있게끔 튜닝할 수 있는 태그 개조 칩을 획득 할 수 있는 장치.
+
+ID=680000025
+
+ID=680000026
+
+ID=680000027
+
+ID=680000028
+
+ID=680000029
+
+ID=680000030
+
+ID=680000031
+
+ID=680000032
+
+ID=680000033
+
+ID=680000034
+
+ID=680000035
+
+ID=680000036
+
+ID=680000037
+
+ID=680000038
+
+ID=680000039
+
+ID=680000040
+
+ID=680000041
+
+ID=680000042
+
+ID=680000043
+
+ID=680000044
+
+ID=680000045
+
+ID=680000046
+
+ID=680000047
+
+ID=680000048
+
+ID=660559001
+
+1등급 공격형 태그 개조 칩
+
+<font color='#FFBA85'>[태그 개조 칩 : 1등급]<font color='#9D927B'>\n\n1등급의 공격형 태그 개조 칩. 겉보기로 안에 내장되어 있는 태그의 정보를 알 수 없기 때문에 소울 웨폰에 칩을 심어 개조를 해야 확인 할 수 있다. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.
+
+ID=660559002
+
+2등급 공격형 태그 개조 칩
+
+<font color='#FFBA85'>[태그 개조 칩 : 2등급]<font color='#9D927B'>\n\n2등급의 공격형 태그 개조 칩. 겉보기로 안에 내장되어 있는 태그의 정보를 알 수 없기 때문에 소울 웨폰에 칩을 심어 개조를 해야 확인 할 수 있다. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.
+
+ID=660559003
+
+3등급 공격형 태그 개조 칩
+
+<font color='#FFBA85'>[태그 개조 칩 : 3등급]<font color='#9D927B'>\n\n3등급의 공격형 태그 개조 칩. 겉보기로 안에 내장되어 있는 태그의 정보를 알 수 없기 때문에 소울 웨폰에 칩을 심어 개조를 해야 확인 할 수 있다. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.
+
+ID=660559004
+
+4등급 공격형 태그 개조 칩
+
+<font color='#FFBA85'>[태그 개조 칩 : 4등급]<font color='#9D927B'>\n\n4등급의 공격형 태그 개조 칩. 겉보기로 안에 내장되어 있는 태그의 정보를 알 수 없기 때문에 소울 웨폰에 칩을 심어 개조를 해야 확인 할 수 있다. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.
+
+ID=660559005
+
+5등급 공격형 태그 개조 칩
+
+<font color='#FFBA85'>[태그 개조 칩 : 5등급]<font color='#9D927B'>\n\n5등급의 공격형 태그 개조 칩. 겉보기로 안에 내장되어 있는 태그의 정보를 알 수 없기 때문에 소울 웨폰에 칩을 심어 개조를 해야 확인 할 수 있다. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.
+
+ID=660559006
+
+6등급 공격형 태그 개조 칩
+
+<font color='#FFBA85'>[태그 개조 칩 : 6등급]<font color='#9D927B'>\n\n6등급의 공격형 태그 개조 칩. 겉보기로 안에 내장되어 있는 태그의 정보를 알 수 없기 때문에 소울 웨폰에 칩을 심어 개조를 해야 확인 할 수 있다. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.
+
+ID=660559011
+
+1등급 방어형 태그 개조 칩
+
+<font color='#FFBA85'>[태그 개조 칩 : 1등급]<font color='#9D927B'>\n\n1등급의 방어형 태그 개조 칩. 겉보기로 안에 내장되어 있는 태그의 정보를 알 수 없기 때문에 기어에 칩을 심어 개조를 해야 확인 할 수 있다. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.
+
+ID=660559012
+
+2등급 방어형 태그 개조 칩
+
+<font color='#FFBA85'>[태그 개조 칩 : 2등급]<font color='#9D927B'>\n\n2등급의 방어형 태그 개조 칩. 겉보기로 안에 내장되어 있는 태그의 정보를 알 수 없기 때문에 기어에 칩을 심어 개조를 해야 확인 할 수 있다. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.
+
+ID=660559013
+
+3등급 방어형 태그 개조 칩
+
+<font color='#FFBA85'>[태그 개조 칩 : 3등급]<font color='#9D927B'>\n\n3등급의 방어형 태그 개조 칩. 겉보기로 안에 내장되어 있는 태그의 정보를 알 수 없기 때문에 기어에 칩을 심어 개조를 해야 확인 할 수 있다. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.
+
+ID=660559014
+
+4등급 방어형 태그 개조 칩
+
+<font color='#FFBA85'>[태그 개조 칩 : 4등급]<font color='#9D927B'>\n\n4등급의 방어형 태그 개조 칩. 겉보기로 안에 내장되어 있는 태그의 정보를 알 수 없기 때문에 기어에 칩을 심어 개조를 해야 확인 할 수 있다. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.
+
+ID=660559015
+
+5등급 방어형 태그 개조 칩
+
+<font color='#FFBA85'>[태그 개조 칩 : 5등급]<font color='#9D927B'>\n\n5등급의 방어형 태그 개조 칩. 겉보기로 안에 내장되어 있는 태그의 정보를 알 수 없기 때문에 기어에 칩을 심어 개조를 해야 확인 할 수 있다. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.
+
+ID=660559016
+
+6등급 방어형 태그 개조 칩
+
+<font color='#FFBA85'>[태그 개조 칩 : 6등급]<font color='#9D927B'>\n\n6등급의 방어형 태그 개조 칩. 겉보기로 안에 내장되어 있는 태그의 정보를 알 수 없기 때문에 기어에 칩을 심어 개조를 해야 확인 할 수 있다. 트리샤가 전문적으로 취급하여 장비를 튜닝할 수 있다.
+
+ID=836100018
+
+공격형 태그 패키지 X 5
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n공격형 태그 전송기 X 5
+
+ID=836100019
+
+공격형 태그 패키지 X 10
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n공격형 태그 전송기 X 10\n고등급 공격형 태그 전송기 II X 1 (보너스)
+
+ID=836100020
+
+공격형 태그 패키지 X 30
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n공격형 태그 전송기 X 30\n고등급 공격형 태그 전송기 II X 3 (보너스)
+
+ID=836100021
+
+방어형 태그 패키지 X 5
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n방어형 태그 전송기 X 5
+
+ID=836100022
+
+방어형 태그 패키지 X 10
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n방어형 태그 전송기 X 10\n고등급 방어형 태그 전송기 II X 1 (보너스)
+
+ID=836100023
+
+방어형 태그 패키지 X 30
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n방어형 태그 전송기 X 30\n고등급 방어형 태그 전송기 II X 3 (보너스)
+
+ID=999000022
+
+에텔 지급 카운트박스
+
+<font color='#FFBA85'>[정기 물품 보급 패키지] 일정 주기로 내용물 습득 가능<font color='#9D927B'>\n\n에텔이 들어있는 상자. 일정 주기로 상자 안에 에텔이 전송되어 습득할 수 있다.\n\n<font color='#FF0000'> ※ 내용물 습득시 24시간 이후 다시 재사용 가능. <font color='#9D927B'>
+
+ID=810001174
+
+[EV][코스튬 박스] 캐쥬얼 화이트 교복 상자
+
+<font color='#FFBA85'>[코스튬 박스]<font color='#9D927B'>\n전 캐릭터의 캐쥬얼 화이트 교복이 들어있는 보상 상자.\n자신의 클래스에 맞춘 내용물이 들어있으니 근심 걱정은 버리고 열도록 하자.
+
+ID=810001175
+
+[EV][코스튬 박스] 달토끼 머리띠 상자
+
+<font color='#FFBA85'>[코스튬 박스]<font color='#9D927B'>\n전 캐릭터의 달토끼 머리띠가 들어있는 보상 상자.\n자신의 클래스에 맞춘 내용물이 들어있으니 근심 걱정은 버리고 열도록 하자.
+
+ID=810001176
+
+<font color='#FFBA85'>[코스튬 박스]<font color='#9D927B'>\n\n달토끼 머리띠가 들어있다.\n각 캐릭터에 맞는 머리 아바타를 획득 할 수 있다.
+
+ID=510014351
+
+강화 보호의 라이트 울브즈 헤드기어
+
+<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+
+ID=520014351
+
+강화 보호의 라이트 울브즈 숄더기어
+
+<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+
+ID=530014351
+
+강화 보호의 라이트 울브즈 바디기어
+
+<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+
+ID=540014351
+
+강화 보호의 라이트 울브즈 레그기어
+
+<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+
+ID=410015401
+
+경험의 부적 팬던트
+
+<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\n\n소울워커 전용 액세서리. 보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\n목에 착용할 수 있다.
+
+ID=430015401
+
+경험의 부적 이어링
+
+<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\n\n소울워커 전용 액세서리. 보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\n귀에 착용할 수 있다.
+
+ID=440015401
+
+경험의 부적 씰
+
+<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\n\n소울워커 전용 액세서리. 보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\n목에 착용할 수 있다.
+
+ID=440015402
+
+경험의 부적 렐릭
+
+<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\n\n소울워커 전용 액세서리. 보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\n귀에 착용할 수 있다.
+
+ID=111054452
+
+강화 보호의 울브즈 팽
+
+<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+
+ID=112054452
+
+강화 보호의 울브즈 건
+
+<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+
+ID=113054452
+
+강화 보호의 울브즈 크로우
+
+<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+
+ID=114054452
+
+강화 보호의 울브즈 피스트
+
+<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+
+ID=115054452
+
+강화 보호의 울브즈 하울링
+
+<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+
+ID=116054452
+
+강화 보호의 울브즈 캐논
+
+<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 강화 과정에서 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+
+ID=510054351
+
+강화 보호의 울브즈 헤드기어
+
+ID=520054351
+
+강화 보호의 울브즈 숄더기어
+
+ID=530054351
+
+강화 보호의 울브즈 바디기어
+
+ID=540054351
+
+강화 보호의 울브즈 레그기어
+
+ID=111104451
+
+강화 보호의 템프테이션 슬라이스
+
+ID=112104451
+
+강화 보호의 템프테이션 거너
+
+ID=113104451
+
+강화 보호의 템프테이션 행거
+
+ID=114104451
+
+강화 보호의 템프테이션 록
+
+ID=115104451
+
+강화 보호의 템프테이션 오우라
+
+ID=116104451
+
+강화 보호의 템프테이션 둠스톤
+
+ID=510104351
+
+강화 보호의 템프테이션 헤드기어
+
+ID=520104351
+
+강화 보호의 템프테이션 숄더기어
+
+ID=530104351
+
+강화 보호의 템프테이션 바디기어
+
+ID=540104351
+
+강화 보호의 템프테이션 레그기어
+
+ID=111154451
+
+강화 보호의 브릭 투핸더 소드
+
+ID=112154451
+
+강화 보호의 스톤 듀얼건
+
+ID=113154451
+
+강화 보호의 아스팔트 슬라이서
+
+ID=114154451
+
+강화 보호의 블록 건틀릿
+
+ID=115154451
+
+강화 보호의 콘크리트 사운드
+
+ID=116154451
+
+강화 보호의 시멘트 캐논
+
+ID=510154351
+
+강화 보호의 스톤즈 헤드기어
+
+ID=520154351
+
+강화 보호의 스톤즈 숄더기어
+
+ID=530154351
+
+강화 보호의 스톤즈 바디기어
+
+ID=540154351
+
+강화 보호의 스톤즈 레그기어
+
+ID=111204451
+
+강화 보호의 타란튤라
+
+ID=112204451
+
+강화 보호의 아리아드네
+
+ID=113204451
+
+강화 보호의 아라크네
+
+ID=114204451
+
+강화 보호의 웅골리안트
+
+ID=115204451
+
+강화 보호의 코브웹
+
+ID=116204451
+
+강화 보호의 맹그로브
+
+ID=510204351
+
+강화 보호의 스파이더 헤드기어
+
+ID=520204351
+
+강화 보호의 스파이더 숄더기어
+
+ID=530204351
+
+강화 보호의 스파이더 바디기어
+
+ID=540204351
+
+강화 보호의 스파이더 레그기어
+
+ID=111254451
+
+강화 보호의 트레지디 오브 스워드
+
+ID=112254451
+
+강화 보호의 트레지디 오브 리볼버
+
+ID=113254451
+
+강화 보호의 트레지디 오브 사이드
+
+ID=114254451
+
+강화 보호의 트레지디 오브 핸드
+
+ID=115254451
+
+강화 보호의 트레지디 오브 송
+
+ID=116254451
+
+강화 보호의 트레지디 오브 로켓
+
+ID=510254351
+
+강화 보호의 트레지디 오브 헤드
+
+ID=520254351
+
+강화 보호의 트레지디 오브 숄더
+
+ID=530254351
+
+강화 보호의 트레지디 오브 바디
+
+ID=540254351
+
+강화 보호의 트레지디 오브 레그
+
+ID=111304452
+
+강화 보호의 톡신 블레이드
+
+ID=112304452
+
+강화 보호의 클로라인 머신건
+
+ID=113304452
+
+강화 보호의 애시드 킬러
+
+ID=114304452
+
+강화 보호의 베놈 몽크
+
+ID=115304452
+
+강화 보호의 루이사이트 멜로디
+
+ID=116304452
+
+강화 보호의 포스겐 붐버
+
+ID=510304352
+
+강화 보호의 베놈 헤드기어
+
+ID=520304352
+
+강화 보호의 베놈 숄더기어
+
+ID=530304352
+
+강화 보호의 베놈 바디기어
+
+ID=540304352
+
+강화 보호의 베놈 레그기어
+
+ID=111354453
+
+강화 보호의 포스리전 스트롱거
+
+ID=112354453
+
+강화 보호의 포스리전 스피더
+
+ID=113354453
+
+강화 보호의 포스리전 샤프너
+
+ID=114354453
+
+강화 보호의 포스리전 타이터
+
+ID=115354453
+
+강화 보호의 포스리전 라우더
+
+ID=116354453
+
+강화 보호의 포스리전 헤비어
+
+ID=510354352
+
+강화 보호의 포스리전 헤드기어
+
+ID=520354352

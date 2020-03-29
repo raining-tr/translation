@@ -1,0 +1,2765 @@
+0
+
+Beast Perfume
+
+<font color='#FFBA85'>[Buff Item] Increase HP by 30% for 5 minutes, Cooldown 10 minutes<font color='#9D927B'>\n\nSoul Worker Exclusive Body Enhancement Fragrance.\nPerfume changes your mood instantly, changing the type of soul energy that is responsible for your metabolism. Although the concentration has been reduced to 1/100 the level of forbidden fortified drugs, the buildup of residual material in the body does not guarantee safety even for soul worker. As a result, the use of other perfumes is strictly forbidden.
+
+ID=838000013
+
+Gigants Spray
+
+<font color='#FFBA85'>[Buff Item] Increase HP by 50% for 5 minutes, Cooldown 10 minutes<font color='#9D927B'>\n\nSoul Worker Exclusive Body Enhancement Spray.\nA body reinforcing fragrance. The liquid contained inside the spray penetrates through the skin of the soul worker and forcibly strengthens the body's ability to elevate HP. It is set to evaporate in the skin after a certain period of time to prevent side effects, and using other sprays before they evaporate completely has no effect.
+
+ID=838000014
+
+Bigger Perfume
+
+<font color='#FFBA85'>[Buff Item] Increase Stamina recovery by 10 per seconds for 30 seconds, 10 minutes Cooldown<font color='#9D927B'>\n\nSoulWorker Exclusive Body Enhancement Fragrance.\nFragrance instantly changes your mood, changing the type of soul energy your body is capable of, and increasing endurance over time. Although the concentration has been reduced to 1/100 the level of forbidden fortified drugs, the buildup of residual material in the body does not guarantee safety even for soul workers. Therefore, when the effect of perfume persists, the use of other perfumes is strictly prohibited.
+
+ID=838000015
+
+Strider Spray
+
+<font color='#FFBA85'>[Buff Item] Increase Stamina recovery by 10 per seconds for 60 seconds, 10 minutes Cooldown<font color='#9D927B'>\n\nSoul Worker Exclusive Body Reinforcement Spray.\nA body reinforcing fragrance.The liquid contained inside the spray penetrates through the skin of the soul worker and forcibly strengthens the body's ability to increase endurance. It is set to evaporate in the skin after a certain period of time to prevent side effects, and using other sprays before they evaporate completely has no effect.
+
+ID=838100004
+
+Special Resurrection Device
+
+<font color='#FFBA85'>[Party Revival Item]<font color='#9D927B'>\n\nA small machine that aggregates pure soul energy. Soul Energy explodes when used, causing the Soul Worker to become uncombatable. The output is very strong, a symbol of reversal that causes fallen fellows.
+
+ID=839110001
+
+Natural Short Hair : Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's Natural Short Hair Style. Of course, only Haru can wear it.
+
+ID=839110002
+
+Wild Short Hair : Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's Wild Short Hair Style. Of course, only Haru can wear it.
+
+ID=839110003
+
+Curl Firm Short Hair : Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's Curl Firm Short Hair Style. Of course, only Haru can wear it.
+
+ID=839110004
+
+Lovely Short Hair : Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's Lovely Short Hair Style. Of course, only Haru can wear it.
+
+ID=839110005
+
+Boyish Short Hair : Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's Boyish Short Hair Style. Of course, only Haru can wear it.
+
+ID=839110006
+
+Beautiful Short Hair : Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's Beautiful Short Hair Style. Of course, only Haru can wear it.
+
+ID=839110007
+
+Pretty Beads Hair : Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's Pretty Beads Hair Style. Of course, only Haru can wear it.
+
+ID=839110008
+
+Clumsy Braid Hair : Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's Clumsy Braid Hair Style. Of course, only Haru can wear it.
+
+ID=839120001
+
+Tail Shaggy Hair : Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's Tail Shaggy Hair Style. Of course, only Erwin can wear it.
+
+ID=839120002
+
+Smart Hair : Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's Smart Hair Style. Of course, only Erwin can wear it.
+
+ID=839120003
+
+Wild Shaggy Hair : Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's Wild Shaggy Hair Style. Of course, only Erwin can wear it.
+
+ID=839120004
+
+Clever Hair : Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's Clever Hair Style. Of course, only Erwin can wear it.
+
+ID=839120005
+
+Gentle Hair : Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's Gentle Hair Style. Of course, only Erwin can wear it.
+
+ID=839120006
+
+Wild Ponytail Hair : Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's Wild Ponytail Hair Style. Of course, only Erwin can wear it.
+
+ID=839120007
+
+Handsome Guy Hair : Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's Handsome Guy Hair Style. Of course, only Erwin can wear it.
+
+ID=839120008
+
+Bowl Cut Hair : Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's Bowl Cut Hair Style. Of course, only Erwin can wear it.
+
+ID=839130001
+
+Twisted Tails Hair : Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's Twisted Twin Tails Hair Style. Of course, only Lily can wear it.
+
+ID=839130002
+
+Princess Twin Tails Hair : Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's Princess Twin Tails Hair Style. Of course, only Lily can wear it.
+
+ID=839130003
+
+Natural Twin Tails Hair : Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's Natural Twin Tails Hair Style. Of course, only Lily can wear it.
+
+ID=839130004
+
+Wave Twin Tails Hair : Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's Wave Twin Tails Hair Style. Of course, only Lily can wear it.
+
+ID=839130005
+
+Career Ponytail Hair : Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's Career Ponytail Hair Style. Of course, only Lily can wear it.
+
+ID=839130006
+
+Elegance Natural Hair : Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's Elegance Natural Hair Style. Of course, only Lily can wear it.
+
+ID=839130007
+
+Sharp Twin Tails Hair : Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's Sharp Twin Tails Hair Style. Of course, only Lily can wear it.
+
+ID=839130008
+
+Noble Lady Hair : Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's Noble Lady Hair Style. Of course, only Lily can wear it.
+
+ID=839150001
+
+Bottom Bind Hair : Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Bottom Bind Hair Style. Of course, only Stella can wear it.
+
+ID=839150002
+
+Cut Bind Hair : Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Cut Bind Hair Style. Of course, only Stella can wear it.
+
+ID=839150003
+
+Middle Bind Hair : Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Middle Bind Hair Style. Of course, only Stella can wear it.
+
+ID=839150004
+
+Lions Natural Hair: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Lions Natural Hair Style. Of course, only Stella can wear it.
+
+ID=839150005
+
+Natural Long Hair : Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Natural Long Hair Style. Of course, only Stella can wear it.
+
+ID=839150006
+
+Smart Long Hair : Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Smart Long Hair Style. Of course, only Stella can wear it.
+
+ID=839150007
+
+Twisted Twin Hair : Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Twisted Twin Hair Style. Of course, only Stella can wear it.
+
+ID=839150008
+
+Pretty Twin Hair : Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Pretty Twin Hair Style. Of course, only Stella can wear it.
+
+ID=839210001
+
+Brown Yellow : Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Brown Yellow.
+
+ID=839210002
+
+White Ivory : Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to White Ivory.
+
+ID=839210003
+
+Gray Pink : Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Gray Pink.
+
+ID=839210004
+
+Dark Brown : Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Dark Brown.
+
+ID=839220001
+
+White Yellow: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Erwin's hair color to White Yellow.
+
+ID=839220002
+
+Yellow Brown: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Erwin's hair color to Yellow Brown.
+
+ID=839220003
+
+Yellow Ivory: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Erwin's hair color to Yellow Ivory.
+
+ID=839220004
+
+Dark Brown: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Erwin's hair color to Dark Brown.
+
+ID=839230001
+
+Dark Black: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Lily's hair color to Dark Black.
+
+ID=839230002
+
+Brown Gray: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Lily's hair color to Brown Gray.
+
+ID=839230003
+
+Jet Black: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Lily's hair color to Jet Black.
+
+ID=839230004
+
+Snow White: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Lily's hair color to Snow White.
+
+ID=839250001
+
+Blue White: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\n스You can change Stella's hair color to Blue White.
+
+ID=839250002
+
+Green Ivory: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Stella's hair color to Green Ivory.
+
+ID=839250003
+
+Brown Yellow: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Stella's hair color to Brown Yellow.
+
+ID=839250004
+
+Dark Black: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Stella's hair color to Dark Black.
+
+ID=839310001
+
+Gold Brown: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's eye color to Gold Brown.
+
+ID=839310002
+
+Sapphire Blue: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's eye color to Sapphire Blue.
+
+ID=839310003
+
+Emerald Green: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's eye color to Emerald Green.
+
+ID=839320001
+
+Tourmaline Green: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Erwin's eye color to Tourmaline Green.
+
+ID=839320002
+
+Cobalt Blue: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Erwin's eye color to Cobalt Blue.
+
+ID=839320003
+
+Peridot Green: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Erwin's eye color to Peridot Green.
+
+ID=839330001
+
+Red Topaz Scarlet: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Lily's eye color to Red Topaz Scarlet.
+
+ID=839330002
+
+Aqua Blue: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Lily's eye color to Aqua Blue.
+
+ID=839330003
+
+Olivine Green: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Lily's eye color to Olivine Green.
+
+ID=839350001
+
+Capri Blue: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>n\nYou can change Stella's eye color to Capri Blue.
+
+ID=839350002
+
+Tourmaline Blue: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>n\nYou can change Stella's eye color to Tourmaline Blue.
+
+ID=839350003
+
+Zavorite Green: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Stella's eye color to Zavorite Green.
+
+ID=839410001
+
+Normal Skin: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's Normal Skin tone.
+
+ID=839410002
+
+Bright Skin: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's Bright Skin tone.
+
+ID=839410003
+
+Sunlight Skin: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's Sunlight Skin tone.
+
+ID=839420001
+
+Normal Skin: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's Normal Skin tone.
+
+ID=839420002
+
+Bright Skin: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's Bright Skin tone.
+
+ID=839420003
+
+Sunlight Skin: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's Sunlight Skin tone.
+
+ID=839430001
+
+Normal Skin: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's Normal Skin tone.
+
+ID=839430002
+
+Bright Skin: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's Bright Skin tone.
+
+ID=839430003
+
+Sunlight Skin: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's Sunlight Skin tone.
+
+ID=839450001
+
+Bright Skin: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Bright Skin tone.
+
+ID=839450002
+
+Normal Skin: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Normal Skin tone.
+
+ID=839450003
+
+Sunlight Skin: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Sunlight Skin tone.
+
+ID=831100001
+
+Gacha Ticket 1
+
+Gacha Ticket 1
+
+ID=831100002
+
+Gacha Ticket 2
+
+Gacha Ticket 2
+
+ID=831100003
+
+Gacha Ticket 3
+
+Gacha Ticket 3
+
+ID=831100004
+
+Gacha Ticket 4
+
+Gacha Ticket 4
+
+ID=111012300
+
+Level Up Reward
+
+Level Up Reward
+
+ID=111052300
+
+ID=111102300
+
+ID=111162300
+
+ID=111222300
+
+ID=111292300
+
+ID=111362300
+
+ID=111402300
+
+ID=113012300
+
+ID=113052300
+
+ID=113102300
+
+ID=113162300
+
+ID=113222300
+
+ID=113292300
+
+ID=113362300
+
+ID=113402300
+
+ID=112012300
+
+ID=112052300
+
+ID=112102300
+
+ID=112162300
+
+ID=112222300
+
+ID=112292300
+
+ID=112362300
+
+ID=112402300
+
+ID=115012300
+
+ID=115052300
+
+ID=115102300
+
+ID=115162300
+
+ID=115222300
+
+ID=115292300
+
+ID=115362300
+
+ID=115402300
+
+ID=510012300
+
+ID=510052300
+
+ID=510102300
+
+ID=510162300
+
+ID=510222300
+
+ID=510292300
+
+ID=510362300
+
+ID=510402300
+
+ID=520012300
+
+ID=520052300
+
+ID=520102300
+
+ID=520162300
+
+ID=520222300
+
+ID=520292300
+
+ID=520362300
+
+ID=520402300
+
+ID=530012300
+
+ID=530052300
+
+ID=530002300
+
+ID=530062300
+
+ID=530022300
+
+ID=530092300
+
+ID=530362300
+
+ID=530402300
+
+ID=540012300
+
+ID=540052300
+
+ID=540102300
+
+ID=540162300
+
+ID=540222300
+
+ID=540292300
+
+ID=540362300
+
+ID=540402300
+
+ID=610110101
+
+ID=610110201
+
+ID=610110301
+
+ID=610120101
+
+ID=610120201
+
+ID=610120301
+
+ID=610110102
+
+Daily Login Reward
+
+Daily Login Reward
+
+ID=610110202
+
+ID=610110302
+
+ID=610120102
+
+ID=610120202
+
+ID=610120302
+
+ID=610130101
+
+ID=610130201
+
+ID=610130301
+
+ID=610130102
+
+ID=610130202
+
+ID=610140101
+
+ID=610140102
+
+ID=610140201
+
+ID=610140301
+
+ID=620120101
+
+ID=620120102
+
+Login Reward
+
+Login Reward
+
+ID=620130101
+
+ID=620130102
+
+ID=620110101
+
+ID=630110101
+
+ID=630110102
+
+ID=630120101
+
+ID=630130101
+
+ID=630140101
+
+ID=111000001
+
+Character Weapon Selection
+
+ID=111000002
+
+ID=111000003
+
+ID=111000004
+
+ID=111000005
+
+ID=112000001
+
+ID=112000002
+
+ID=112000003
+
+ID=112000004
+
+ID=112000005
+
+ID=113000001
+
+ID=113000002
+
+ID=113000003
+
+ID=113000004
+
+ID=113000005
+
+ID=114000001
+
+ID=114000002
+
+ID=114000003
+
+ID=114000004
+
+ID=114000005
+
+ID=115000001
+
+ID=115000002
+
+ID=115000003
+
+ID=115000004
+
+ID=115000005
+
+ID=116000001
+
+ID=116000002
+
+ID=116000003
+
+ID=116000004
+
+ID=116000005
+
+ID=111304401
+
+none
+
+ID=111404401
+
+ID=111504401
+
+ID=111604401
+
+ID=112304401
+
+ID=112404401
+
+ID=112504401
+
+ID=112604401
+
+ID=113304401
+
+ID=113404401
+
+ID=113504401
+
+ID=113604401
+
+ID=115304401
+
+ID=115404401
+
+ID=115504401
+
+ID=115604401
+
+ID=510354401
+
+ID=510454401
+
+ID=510534401
+
+ID=510604401
+
+ID=520354401
+
+ID=520454401
+
+ID=520534401
+
+ID=520604401
+
+ID=530354401
+
+ID=530454401
+
+ID=530534401
+
+ID=530604401
+
+ID=540354401
+
+ID=540454401
+
+ID=540534401
+
+ID=540604401
+
+ID=440404401
+
+ID=440504401
+
+ID=440604401
+
+ID=410404401
+
+ID=410504401
+
+ID=410604401
+
+ID=430404401
+
+ID=430504401
+
+ID=430604401
+
+ID=111122701
+
+Sorrow Keepsake Sword
+
+<font color='#FFBA85'>[Soul Weapon: Sword]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. As a sword-shaped weapon, it is lighter than it looks and can be used by anyone. But no one can use it because only a soulworker can draw all the power contained in the weapon.\nIs used by Haru Estia.
+
+ID=112122701
+
+Sorrow Keepsake Pistol
+
+<font color='#FFBA85'>[Soul Weapon: Pistol]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. A weapon in the form of a pistol, but it does not use normal bullets, but it uses bullet energy to make bullets that cannot be used properly unless it is a soul worker.\nUsed by Erwin Arclight.
+
+ID=113122701
+
+Sorrow Keepsake Scythe
+
+<font color='#FFBA85'>[Soul Weapon: Scythe]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. A giant scythe weapon with special powers that no one can use. The shape may change depending on the application.\nUsed by Lily Bloommerchen.
+
+ID=114122701
+
+Sorrow Keepsake Gauntlets
+
+<font color='#FFBA85'>[Soul Weapon: Gauntlets]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. A weapon in the form of a a hand-held, armor-type weapon around the arm, which is used as a protective device for the general public.\nUsed by Jin seipatsu
+
+ID=115122701
+
+Sorrow Keepsake Guitar
+
+<font color='#FFBA85'>[Soul Weapon: Guitar]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. Other types of weapons are said to make strange sounds when used by ordinary people, but when used by Soul Worker, special forces are expressed.\nUsed by Stella Unibell
+
+ID=510042701
+
+Relieved Worker Head
+
+<font color='#FFBA85'>[Gears: Head]<font color='#9D927B'>\n\nA Soul Worker it has the ability to protect the wearer's body by instantaneously generating invisible Shields in response to external attacks. It can be worn on the head.
+
+ID=520062701
+
+Stonified Shoulder
+
+<font color='#FFBA85'>[Gears: Shoulder]<font color='#9D927B'>\n\nSoul Worker only armor. It has the ability to protect the wearer's body by instantaneously generating invisible Shields in response to external attacks. Can be worn on the shoulders.
+
+ID=530082701
+
+Reactive Armor Body
+
+<font color='#FFBA85'>[Gear: Body]<font color='#9D927B'>\n\nSoulWorker armor. It has the ability to protect the user's body by generating an invisible shield instantaneously in response to external attacks. It can be worn on the chest.
+
+ID=540082701
+
+Zenith's Custom Leg
+
+<font color='#FFBA85'>[Gear: Leg]<font color='#9D927B'>\n\nSoulworker armor. It has the ability to protect the user´s body by generating an invisible shield instantaneously in response to external attacks. It can be worn on the legs.
+
+ID=540102701
+
+Ray Block Leg
+
+ID=510112701
+
+Desperate Head
+
+ID=520122701
+
+Despair Shoulder
+
+ID=530122701
+
+Mad Pierrot Body
+
+ID=540132701
+
+Funky Pierrot Leg
+
+ID=410082701
+
+Pendant: Zenith's Custom
+
+<font color='#FFBA85'>[Accessories: Pendant]<font color='#9D927B'>\n\nSoulWorker exclusive accessories. Like a normal accessory, it's a valuable accessory that creates a unique soul energy wave that enhances the holder's ability.\nCan be worn around your neck.
+
+ID=111043251
+
+Zenith's Custom Sword
+
+<font color='#FFBA85'>[Soul Weapon: Sword]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. As a sword-shaped weapon, it is lighter than it looks and can be used by anyone. But no one can use it because only a soulworker can draw all the power contained in the weapon.\nDesigned by Zenith.\nIs used by Haru Estia.
+
+ID=112043251
+
+Zenith's Custom Gun
+
+<font color='#FFBA85'>[Soul Weapon: Pistol]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. A weapon in the form of a pistol, but it does not use normal bullets, but it uses bullet energy to make bullets that cannot be used properly unless it is a soul worker.\nDesigned by Zenith.\nUsed by Erwin Arclight.
+
+ID=113043251
+
+Zenith's Custom Scythe
+
+<font color='#FFBA85'>[Soul Weapon: Scythe]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. A giant scythe weapon with special powers that no one can use. The shape may change depending on the application.\nDesigned by Zenith.\nUsed by Lily Bloommerchen.
+
+ID=114043251
+
+Zenith's Custom Gauntlets
+
+ID=115043251
+
+Zenith's Custom Guitar
+
+<font color='#FFBA85'>[Soul Weapon: Guitar]<font color='#9D927B'>\n\nSoul Worker exclusive weapon. Other types of weapons are said to make strange sounds when used by ordinary people, but when used by Soul Worker, special forces are expressed.\n Designed by Zenith.\nUsed by Stella Unibell
+
+ID=530093251
+
+Forest Guard Body
+
+ID=710106011
+
+Soul of Melting
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location.
+
+ID=710106012
+
+Soul of Emptiness
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance depend on how it is affected by the void, it is often created in a specific place. Can be obtained by defeating R Square's powerful enemies.
+
+ID=710106013
+
+Soul of Greed
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance depend on how it is affected by the void, it is often created in a specific place. Obtained by defeating strong enemies in Tower of Greed.
+
+ID=710106014
+
+Soul of Madness
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Obtained by defeating Strong enemies in Rocco Town.
+
+ID=710106015
+
+Soul of Large Rocks
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Obtained by defeating strong enemies in the Concrete Jungle.
+
+ID=710106016
+
+Soul of Dark Clouds
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Can be obtained by killing strong enemies in the Junk Pool.
+
+ID=710106017
+
+Soul of Predation
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Can be obtained by defeating the stronger enemies of The Big Mouth.
+
+ID=710106018
+
+Soul of Terror
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance depend on how it is affected by the void, it is often created in a specific place. Obtained by defeating the strong enemies of the N102 Shelter.
+
+ID=710106019
+
+Soul of Grief
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Obtained by defeating the strong enemies of [Candus City].
+
+ID=710106020
+
+Soul of Lust
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Can be obtained by defeating strong enemies in the Front Line.
+
+ID=710106021
+
+Soul of Dirks
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Obtained by killing Ned Company's strongest enemies.
+
+ID=710106022
+
+Soul of Blue Skies
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Obtained by defeating Wolf Cry's strong enemies.
+
+ID=710106023
+
+Soul of Wailing
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Obtained by defeating the strong enemies of the Cold Rain.
+
+ID=710106024
+
+Soul of Crimson Shadows
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Obtained by defeating the strong enemies of the Flame Breaker.
+
+ID=710106025
+
+Soul of Immorality
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Obtained by defeating Strong enemies in Grace City.
+
+ID=710106026
+
+Soul of Steel
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Obtained by defeating strong enemies in the Control Base.
+
+ID=710106027
+
+Soul of Origin
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Obtained by defeating strong enemies in the Buster Core.
+
+ID=710106028
+
+Soul of Haste
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Can be obtained by defeating the strong enemies of Cold Revenge.
+
+ID=710106029
+
+Soul of Murderous Intent
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance depend on how it is affected by the void, it is often created in a specific place. Obtained by defeating powerful enemies in Forgotten Armory.
+
+ID=710106030
+
+Soul of Mystery
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Obtained by defeating strong enemies in the Deep Core.
+
+ID=710106031
+
+Soul of Concealment
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Obtained by defeating strong enemies in Acheron.
+
+ID=710106032
+
+Soul of Purity
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly called [blank material]. An essential material for crafting special Soul Weapons and Gears. Because the properties of a substance vary depending on how it is affected by the void, it is often created specific to the location. Can be obtained by killing [Ruin Fortress] strong enemies.
+
+ID=710106033
+
+Soul Piece: Red
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that occurs when the soul energy of a soul worker collides with another entity. Commonly called [blank material]. It is a material needed to make Soul Worker's equipment, and its properties vary depending on the environment of the space affected by the void.
+
+ID=710106034
+
+Soul Piece: Blue
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that occurs when the soul energy of a soul worker collides with another entity. Commonly referred to as the [blank material], but now no power is felt.\n\n<font color='#FF0000'>※ The item is no longer used as crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710106035
+
+Soul Piece: Green
+
+ID=710106036
+
+Soul Piece: Violet
+
+ID=710106037
+
+Soul of Large Rocks Piece
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly referred to as the [blank material], but now no power is felt.\n\n<font color='#FF0000'>※ The item is no longer used as crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710106038
+
+Soul of Dark Clouds Piece
+
+ID=710106039
+
+Soul of Predation Piece
+
+ID=710106040
+
+Soul of Terror Piece
+
+ID=710106041
+
+Soul of Grief Piece
+
+ID=710106042
+
+Soul of Lust Piece
+
+ID=710106043
+
+Soul of Dirks Piece
+
+ID=710106044
+
+Soul of Blue Skies Piece
+
+ID=710106045
+
+Soul of Wailing Piece
+
+ID=710106046
+
+Soul of Crimson Shadows Piece
+
+ID=710106047
+
+Soul of Immorality Piece
+
+ID=710106048
+
+Soul of Steel Piece
+
+ID=710106049
+
+Soul of Origin Piece
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special substance that only soul workers can extract and treat as substances. Commonly referred to as the [blank material], but now no power is felt.\n\n<font color='#FF0000'>※ The item is no longer used as crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710106050
+
+Soul of Haste Piece
+
+ID=710106051
+
+Soul of Murderous Intent Piece
+
+ID=710106052
+
+Soul of Mystery Piece
+
+ID=710106053
+
+Soul of Concealment Piece
+
+ID=710106054
+
+Soul of Purity Piece
+
+ID=710106055
+
+Fragment of Order
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nCrystal that contain the power to give a strange anxiety. In the words of the production workers, it is a crystal that has great power, but if you touch it for some reason, you feel an ominous feeling like bad luck.\nCan be found in [Golden Citadel].
+
+ID=710106056
+
+Fragment of Curiosity
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA crystal that feels the power of Rosca. While I feel the power of Roska is very weak, I have never seen or imagined a crystal inherent in this kind of power. I wonder what the limits of Rosca's power are.\nCan be found in[Golden Citadel].
+
+ID=111052701
+
+Wolf's Sword
+
+ID=112052701
+
+Wolf's Pistol
+
+ID=113052701
+
+Wolf's Scythe
+
+ID=114052701
+
+Wolf's Gauntlet
+
+ID=115052701
+
+Wolf's Guitar
+
+ID=111082701
+
+Heartless Sword
+
+ID=112082701
+
+Heartless Handgun
+
+ID=113082701
+
+Heartless Scythe
+
+ID=114082701
+
+Heartless Gauntlet
+
+ID=115082701
+
+Heartless Guitar
+
+ID=211010601
+
+Pink Lace Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPink Lace Underwear for Haru. I don't know why, but only Haru can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=211011701
+
+ID=211020601
+
+Red Check Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRed Check Underwear for Haru. I don't know why, but only Haru can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=211021701
+
+ID=211030601
+
+Star Blue Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStar Blue Underwear for Haru. I don't know why, but only Haru can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=211031701
+
+ID=211040601
+
+Cutie Lace Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCutie Lace Underwear for Haru. I don't know why, but only Haru can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=211041701
+
+ID=211050601
+
+Leopard Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLeopard Underwear for Haru. I don't know why, but only Haru can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=211060601
+
+Orange Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOrange underwear for Haru.\n\nYou can see the look of the underwear when you wear a skirt-like costume.\nYou can also check the furniture in the bath room and the shower booth.
+
+ID=211070601
+
+Violet Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nViolet Underwear for Haru. I don't know why, but only Haru can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=211080601
+
+Blue Flower Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlue Flower Underwear for Haru. I don't know why, but only Haru can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=211090601
+
+Flamengo Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nFlamengo Underwear for Haru. I don't know why, but only Haru can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=211100601
+
+Pure Pink Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPure Pink Lace Underwear for Haru. I don't know why, but only Haru can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=211110601
+
+Pure Sky Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPure Sky Lace Underwear for Haru. I don't know why, but only Haru can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=211120601
+
+Striped Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStriped Underwear for Haru. I don't know why, but only Haru can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=221010601
+
+Check Brown Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCheck Brown Underwear for Erwin. I don't know why, but only Erwin can wear it.
+
+ID=221020601
+
+Sports Blue Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSports Blue Underwear for Erwin. I don't know why, but only Erwin can wear it.
+
+ID=221030601
+
+Baywatch Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBaywatch Underwear for Erwin. I don't know why, but only Erwin can wear it.
+
+ID=221040601
+
+Prisoner Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPrisoner Underwear for Erwin. I don't know why, but only Erwin can wear it.
+
+ID=221050601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLeopard Underwear for Erwin. I don't know why, but only Erwin can wear it.
+
+ID=221060601
+
+Blue Trunk Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlue Trunk Underwear for Erwin. I don't know why, but only Erwin can wear it.
+
+ID=221070601
+
+Red Trunk Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRed Trunk Underwear for Erwin. I don't know why, but only Erwin can wear it.
+
+ID=221080601
+
+Yellow Check Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYellow Check Underwear for Erwin. I don't know why, but only Erwin can wear it.
+
+ID=231010601
+
+Black Line Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlack Line Underwear for Lily. I don't know why, but only Lily can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=231011701
+
+ID=231020601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCheck Red Underwear for Lily. I don't know why, but only Lily can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=231021701
+
+ID=231030601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStar Blue Underwear for Lily. I don't know why, but only Lily can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=231031701
+
+ID=231040601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCutie Lace Underwear for Lily. I don't know why, but only Lily can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=231041701
+
+ID=231050601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLeopard Underwear for Lily. I don't know why, but only Lily can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=231060601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOrange Underwear for Lily. I don't know why, but only Lily can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=231070601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nViolet Underwear for Lily. I don't know why, but only Lily can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=231080601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlue Flower Underwear for Lily. I don't know why, but only Lily can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=231090601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nFlamengo Underwear for Lily. I don't know why, but only Lily can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=231100601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPure Pink Underwear for Lily. I don't know why, but only Lily can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=231110601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPure Sky Lace Underwear for Lily. I don't know why, but only Lily can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=231120601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStiped Underwear for Lily. I don't know why, but only Lily can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251010601
+
+Double Point Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nDouble Point Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251011701
+
+ID=251020601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRed Check Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251021701
+
+Blue Line Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlue Line Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251030601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStar Blue Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251031701
+
+Pretty Orange Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPretty Orange Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251040601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCutie Lace Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251041701
+
+Little White Underwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLittle White Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251050601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLeopard Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251060601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOrange Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251070601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nViolet Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251080601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlue Flower Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251090601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nFlamengo Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251100601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPure Pink Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251110601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPure Sky Lace Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=251120601
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStriped Underwear for Stella. I don't know why, but only Stella can wear it.\n\nYou can see your underwear as you wear a skirt-like costume.\nYou can also see it in the bathroom and shower booth in My Room.
+
+ID=211010701
+
+[Haru's School Uniform A] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's High School Uniform Top. It's clothes are torn apart, after falling out of the gap.
+
+ID=211010801
+
+[Haru's School Uniform A] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's High School Uniform Skirt. It's clothes are torn apart, after falling out of the gap.
+
+ID=211011101
+
+[Haru's School Uniform A] Knee Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's High School Uniform Knee Socks. It's clothes are torn apart, after falling out of the gap.
+
+ID=211011201
+
+[Haru's School Uniform A] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHaru's High School Summer Shoes. It's clothes are torn apart, from falling out of the gap.
+
+ID=211020701
+
+[Haru's School Uniform B] Top
+
+ID=211020801
+
+[Haru's School Uniform B] Skirt
+
+ID=211021101
+
+[Haru's School Uniform B] Knee Socks
+
+ID=211021201
+
+[Haru's School Uniform B] Shoes
+
+ID=211030701
+
+[Haru's School Uniform C] Top
+
+ID=211030801
+
+[Haru's School Uniform C] Skirt
+
+ID=211031101
+
+[Haru's School Uniform C] Knee Socks
+
+ID=211031201
+
+[Haru's School Uniform C] Shoes
+
+ID=211040701
+
+[Haru's School Uniform D] Top
+
+ID=211040801
+
+[Haru's School Uniform D] Skirt
+
+ID=211041101
+
+[Haru's School Uniform D] Knee Socks
+
+ID=211041201
+
+[Haru's School Uniform D] Shoes
+
+ID=211050901
+
+[Wandering Revenge] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCostume materialized from Haru's Soul Energy. Top and Pants can be worn at the same time.\nFor some reason, it disappears after 3 days of storage in the inventory.
+
+ID=211050801
+
+[Wandering Revenge] Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPants materialized from Haru's Soul Energy.\nFor some reason it disappears after kept in the inventory for 3 days.
+
+ID=211051101
+
+[Wandering Revenge] Knee Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nKnee materialized from Haru's Soul Energy.\nFor some reason it disappears after kept in the inventory for 3 days.
+
+ID=211051201
+
+[Wandering Revenge] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots materialized from Haru's Soul Energy.\nFor some reason it disappears after kept in the inventory for 3 days.
+
+ID=211060101
+
+[Trader's Union Uniform] Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe cap of the costume given by the Trader's Union in the meaning of cherish. This makes me feel like I have to work part-time in the Trade Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=211060701
+
+[Trader's Union Uniform] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe jacket of the costume given by the Trader's Union in the meaning of cherish.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=211060801
+
+[Trader's Union Uniform] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe skirt of the costume which Trader's Union gave in the meaning of cherish. I feel like I should have a part-time job at the Trader's Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=211061101
+
+[Trader's Union Uniform]
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCostume which trader's union gave in the meaning of cherish. This makes me feel like I have to work part-time at the Trader's Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=211061201
+
+[Trader's Union Uniform] Sneakers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe sneakers of the costumes which Trader's Union gave in the meaning of cherish. This makes me feel like I have to work part-time in the Trader's Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=211070701
+
+[Star Forest League Old Military Uniform] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned military uniform given by Star Forest League. It's old fashioned, so it feels old.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=211070801
+
+[Star Forest League Old Military Uniform] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned military uniform skirt from Star Forest League. It's old fashioned, so it feels old.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=211071201
+
+[Star Forest League Old Military Uniform] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\n Old Fashioned military boots given by Starry forest league. It's old fashioned, so it feels old.\n For some reason, they disappear after 3 days of use from the inventory.
+
+ID=212011901
+
+[Miner's Clothing] Safety Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hat that is worn by miners.
+
+ID=212010401
+
+[Miner's Clothing] Dust Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is a dust mask, a mask worn by miners.
+
+ID=212010901
+
+[Miner's Clothing] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is a costume worn by miners. Top and bottom can be worn at the same time.
+
+ID=212010501
+
+[Miner's Clothing] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThese are gloves worn by miners.
+
+ID=212011201
+
+[Miner's Clothing] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA pair of boots worn by miners.
+
+ID=212011301
+
+[Miner's Clothing] Accessory
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt is a hip accessory worn by miners.
+
+ID=212020301
+
+[Ned Company Mercenary Outfit] Goggles
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGoggles worn by Ned Company mercenaries. They're strong like the Ned Company is.
+
+ID=212020401
+
+[Ned Company Mercenary Outfit] Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nMask worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=212020901
+
+[Ned Company Mercenary Outfit] Costume 
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nNed Company Mercenary costume. It is strong like the Ned Company is. Top and bottom can be worn at the same time.
+
+ID=212020501
+
+[Ned Company Mercenary Outfit] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=212021201
+
+[Ned Company Mercenary Outfit] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=212021301
+
+[Ned Company Mercenary Outfit] Walkie Talkie Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA walkie talkie bag worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=212030101
+
+[Star Forest League Regular Uniform] Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCeremony Cap of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=212030701
+
+[Star Forest League Regular Uniform] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular military uniform given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=212030801
+
+[Star Forest League Regular Uniform] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular Military bottom given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=212030301
+
+[Star Forest League Regular Uniform] Officer Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOfficer's Glasses of the Regular Military Uniform given by Star Forest League. If you put it on, I think I can make a good punch.
+
+ID=212030501
+
+[Star Forest League Regular Uniform] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=212031101
+
+[Star Forest League Regular Uniform] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStockings of regular military uniforms given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=212031201
+
+[Star Forest League Regular Uniform] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular Military Shoes given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=212031601
+
+[Star Forest League Regular Uniform] Officer's Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOfficer's Hat from the Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=212031001
+
+[Star Forest League Regular Uniform] Communication Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCommunication Bag of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=213010901
+
+[Detective Academy Uniform] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSchool Uniforms worn by women in the detective school. I think it's easy to unravel a missing case. Top and bottom can be worn at the same time.
+
+ID=213010101
+
+[Detective Academy Uniform] Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe cap of the school uniform worn by the women of the detective school. I think it's easy to unravel a missing case.
+
+ID=213011101
+
+[Detective Academy Uniform] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStockings of school uniform worn by women of detective school. I think it's easy to unravel a missing case.
+
+ID=213011201
+
+[Detective Academy Uniform] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes of the school uniform worn by women of detective school. I think it's easy to unravel a missing case.
+
+ID=213021901
+
+[Sporty Look] Cap 
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty cap that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=213020701
+
+[Sporty Look] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSporty look tops that are likely to be worn by sporty women who love sports. If you wear it wrong, you may look unemployed.
+
+ID=213020801
+
+[Sporty Look] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty skirt that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=213021001
+
+[Sporty Look] Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSporty look bag that is likely to be worn by active women who like to exercise. If you wear it wrong, you may look unemployed.
+
+ID=213020301
+
+[Sporty Look] Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGlasses with a sporty look that are likely to be worn by active women who like to exercise. If you wear it wrong, you may look unemployed.
+
+ID=213020501
+
+[Sporty Look] Sports Watch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty watch that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=213021201
+
+[Sporty Look] Sneakers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSporty look sneakers are likely to be worn by active women who like to exercise. If you wear it wrong, you may look unemployed.
+
+ID=213030701
+
+[Modern Casual] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nTops of modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=213030801
+
+[Modern Casual] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe bottom of the modern casual girls clothes which are likely to be worn by trendy women. It's alright but it can look nice.
+
+ID=213030301
+
+[Modern Casual] Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGlasses in modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=213030501
+
+[Modern Casual] Wristwatch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWristwatch of modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=213031201
+
+[Modern Casual] Casual Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCasual shoes in modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=213040101
+
+[Nurse Uniform] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nNurse hat worn by nurses. There is a feeling that some unknown romance is fulfilled.
+
+ID=213040901
+
+[Nurse Uniform] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nNurse uniforms worn by nurses. Top and bottom can be worn at the same time. There is a feeling that some unknown romance is fulfilled.
+
+ID=213041101
+
+[Nurse Uniform] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nNurse stockings worn by nurses. There is a feeling that some unknown romance is fulfilled.
+
+ID=213041201
+
+[Nurse Clothing] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nNurse shoes worn by nurses. There is a feeling that some unknown romance is fulfilled.
+
+ID=213050701
+
+[Haru's Repaired Uniform A] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis top was repaired, now it doesn't look new, but it looks better than before.
+
+ID=213050801
+
+[Haru's Repaired Uniform A] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis skirt was repaired, now it doesn't look new, but it looks better than before.
+
+ID=213051101
+
+[Haru's Repaired Uniform A] Knee Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThese knee socks were repaired, now it doesn't look new, but it looks better than before.
+
+ID=213060701
+
+[Haru's Repaired Uniform B] Top
+
+ID=213060801
+
+[Haru's Repaired Uniform B] Skirt
+
+ID=213061101
+
+[Haru's Repaired Uniform B] Knee Socks
+
+ID=213070701
+
+[Haru's Repaired Uniform C] Top
+
+ID=213070801
+
+[Haru's Repaired Uniform C] Skirt
+
+ID=213071101
+
+[Haru's Repaired Uniform C] Knee Socks
+
+ID=213080701
+
+[Haru's Repaired Uniform D] Top
+
+ID=213080801
+
+[Haru's Repaired Uniform D] Skirt
+
+ID=213081101
+
+[Haru's Repaired Uniform D] Knee Socks
+
+ID=213090901
+
+[Beauty School] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCostumes of school uniform that may be worn in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform. Top and Pants can be worn at the same time.
+
+ID=213090101
+
+[Beauty School] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA school uniform hat that may be worn in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=213091101
+
+[Beauty School] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStockings in school uniforms that may be worn in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=213091201
+
+[Beauty School] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSchool uniform shoes that you might wear in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=213100901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOutfit materialized from Haru's Soul Energy. Top and Pants can be worn at the same time.
+
+ID=213100801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBottom materialized from Haru's Soul Energy.
+
+ID=213101101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSocks materialized from Haru's Soul Energy.
+
+ID=213101201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes materialized from Haru's Soul Energy.
+
+ID=213110101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe cap of the costume given by the trader's union in the meaning of cherish. This makes me feel like I have to work part-time in the Trader's Union.
+
+ID=213110701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA jacket given by the trader's Union in the sense of cherish. This makes me feel like I have to work part-time at the Trader's Union.
+
+ID=213110801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe skirt of the costume which Trader's Union gave in the meaning of cherish. This makes me feel like I have to work part-time in the Trader's Union.
+
+ID=213111101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStockings of the costume which trader's union gave in meaning of cherish. This makes me feel like I have to work part-time in the Trade Union.
+
+ID=213111201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe sneakers of the costumes which trader's union gave in the meaning of cherish. This makes me feel like I have to work part-time at the Trade Union.
+
+ID=213120701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned military uniform given by Star Forest League. It's old fashioned, so it feels old.
+
+ID=213120801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned military uniform skirt from Star Forest League. It's old fashioned, so it feels old.
+
+ID=213121201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots of the old military uniform given by Star Forest League. It's old fashioned, so it feels old.
+
+ID=221010701
+
+[Erwin's School Uniform A] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's High School Uniform Top. It's clothes are torn apart, after falling out of the gap.
+
+ID=221010801
+
+[Erwin's School Uniform A] Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's High School Uniform Pants. It's clothes are torn apart, after falling out of the gap.
+
+ID=221012701
+
+ID=221011201
+
+[Erwin's School Uniform A] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nErwin's High School Shoes. It's clothes are torn apart, from falling out of the gap.
+
+ID=221020701
+
+[Erwin's School Uniform B] Top
+
+ID=221020801
+
+[Erwin's School Uniform B] Pants
+
+ID=221022701
+
+ID=221021201
+
+[Erwin's School Uniform B] Shoes
+
+ID=221030701
+
+[Erwin's School Uniform C] Top
+
+ID=221030801
+
+[Erwin's School Uniform C] Pants
+
+ID=221032701
+
+ID=221031201
+
+[Erwin's School Uniform C] Shoes
+
+ID=221040701
+
+[Erwin's School Uniform D] Top
+
+ID=221040801
+
+[Erwin's School Uniform D] Pants
+
+ID=221042701
+
+ID=221041201
+
+[Erwin's School Uniform D] Shoes
+
+ID=221050901
+
+[Smiling Pleasure Bullets] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOutfit materialized from Erwin's Soul Energy. Top and Pants can be worn at the same time.\nFor some reason, it disappears after 3 days of storage in the inventory.
+
+ID=221050801
+
+[Smiling Pleasure Bullets] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBottom materialized from Erwin's Soul Energy.\nFor some reason it disappears after kept in the inventory for 3 days.
+
+ID=221050501
+
+[Smiling Pleasure Bullet] Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBracelet materialized from Erwin's Soul Energy.\nFor some reason it disappears after kept in the inventory for 3 days.
+
+ID=221051201
+
+[Smiling Pleasure Bullets] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots materialized from Erwin's Soul Energy.\nFor some reason it disappears after kept in the inventory for 3 days.
+
+ID=221060101
+
+ID=221060701
+
+ID=221060801
+
+[Trader's Union Uniform] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe bottom of the costume given by the Trader's Union in the meaning of cherish. This makes me feel like I have to work part-time in the Trade Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=221062701
+
+ID=221061201
+
+ID=221070701
+
+ID=221070801
+
+[Star Forest League Old Military Uniform] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned military uniform bottom from Star Forest League. It's old fashioned, so it feels old.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=221071201
+
+ID=222011901
+
+ID=222010401
+
+ID=222010901
+
+ID=222010501
+
+ID=222011201
+
+ID=222011301
+
+ID=222020301
+
+ID=222020401
+
+ID=222020901
+
+ID=222020501
+
+ID=222021201
+
+ID=222021301
+
+ID=222030101
+
+ID=222030301
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOfficer's Glasses of the Regular Military Uniform given by Star Forest League. If you put it on, I think I can make a good punch.
+
+ID=222030701
+
+ID=222030501
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves of the Regular Military Uniform given by Star Forest League. If you put it on, I think I can make a good punch.
+
+ID=222031301
+
+[Star Forest League Regular Uniform] Canteen
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCanteen of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=222030801
+
+[Star Forest League Regular Uniform] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular Military bottom given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=222031201
+
+[Star Forest League Regular Uniform] Shoes
+
+ID=222031601
+
+ID=222031001
+
+ID=223010101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe cap of the school uniform worn by men of the detective school. I think it's easy to unravel a missing case.
+
+ID=223010901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSchool Uniforms worn by men of the detective school. I think it's easy to unravel a missing case. Top and bottom can be worn at the same time.
+
+ID=223010801
+
+[Detective Academy Uniform] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBottoms of the school uniform which men of the detective school wear. I think it's easy to unravel a missing case.
+
+ID=223012701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSchool uniforms worn by men of the detective school. I think it's easy to unravel a missing case.
+
+ID=223012801
+
+ID=223010401
+
+[Detective Academy Uniform] Gentleman Mustache
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nMen's gentleman mustaches of the detective school. I think it's easy to unravel a missing case. I think there will be a man somewhere.
+
+ID=223011201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes of the school uniform worn by men of the detective school. I think it's easy to unravel a missing case.
+
+ID=223021901
+
+[Sporty Look] Hoody
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty hoodie for passionate men who love sports. If you wear it wrong, you may look like a wanted person.
+
+ID=223020401
+
+[Sporty Look] Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty mask for passionate men who love sports. If you wear it wrong, you may look like a wanted person.
+
+ID=223020701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty look that looks like it will be worn by passionate men who love sports. If you wear it wrong, you may look unemployed.
+
+ID=223020801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty pants that looks like it will be worn by passionate men who love sports. If you wear it wrong, you may look unemployed.
+
+ID=223022701
+
+ID=223020501
+
+[Sporty Look] Sport Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty glove that looks like it will be worn by passionate men who love sports. If you wear it wrong, you may look unemployed.
+
+ID=223021301
+
+[Sporty Look] Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty pouch that looks like it will be worn by passionate men who love sports. If you wear it wrong, you may look unemployed.
+
+ID=223021201
+
+[Sporty Look] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSporty shoes that looks like it will be worn by passionate men who love sports. If you wear it wrong, you may look unemployed.
+
+ID=223030301
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGlasses in modern casual women clothes that are likely to be worn by trend-sensitive girls. It's alright but it can look nice.
+
+ID=223030701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nTop in modern casual women clothes that are likely to be worn by trend-sensitive girls. It's alright but it can look nice.
+
+ID=223030501
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWristwatch in a modern casual boy's outfit are likely to be worn by trend-sensitive men. It's alright but it can look nice.
+
+ID=223030801
+
+[Modern Casual] Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPants in modern casual boys outfits that are likely to be worn by trend-sensitive men. It's alright but it can look nice.
+
+ID=223032701
+
+ID=223031201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCasual shoes in modern casual boys' outfit that are likely to be worn by trend-sensitive men. It's alright but it can look nice.
+
+ID=223040301
+
+[Doctor Outfit] Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHorn-rimmed glasses of the doctor's clothing worn by doctors. If you wear this, it seems that you can look very smart.
+
+ID=223040901
+
+[Doctor Outfit] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nDoctor's clothing worn by doctors. Top and bottom can be worn at the same time. If you wear this, it seems that you can look very smart.
+
+ID=223042801
+
+ID=223040501
+
+[Doctor Outfit] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nDoctor's gloves worn by doctors. If you wear this, it seems that you can look very smart.
+
+ID=223041201
+
+[Doctor Outfit] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes worn by doctors. If you wear this, it seems that you can look very smart.
+
+ID=223050701
+
+[Erwin's Repaired Uniform A] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=223050801
+
+[Erwin's Repaired Uniform A] Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=223060701
+
+[Erwin's Repaired Uniform B] Top
+
+ID=223060801
+
+[Erwin's Repaired Uniform B] Pants
+
+ID=223070701
+
+[Erwin's Repaired Uniform C] Top
+
+ID=223070801
+
+[Erwin's Repaired Uniform C] Pants
+
+ID=223080701
+
+[Erwin's Repaired Uniform D] Top
+
+ID=223080801
+
+[Erwin's Repaired Uniform D] Pants
+
+ID=223100701
+
+[Handsome School Look] Costume
+
+ID=223092801
+
+ID=223090301
+
+[Handsome School Look] Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe glasses of school uniforms which we may wear in private schools in cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=223120501
+
+[Handsome School Look] Watch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA watch of school uniforms that you might wear in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=223131201
+
+[Handsome School Look] Shoes
+
+ID=223100901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOutfit materialized from Erwin's Soul Energy. Top and Pants can be worn at the same time.
+
+ID=223100801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBottom materialized from Erwin's Soul Energy
+
+ID=223100501
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBracelet materialized from Erwin's Soul Energy.
+
+ID=223101201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes materialized from Erwin's Soul Energy
+
+ID=223110101
+
+ID=223110701
+
+ID=223110801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe pants of the costumes given by the trader's union in the sense of cherish. This makes me feel like I have to work part-time in the Trade Union.
+
+ID=223112701
+
+ID=223111201
+
+ID=223120701
+
+ID=223120801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBottom part of the old-fashioned military uniform given by Star Forest League. It's old fashioned, so it feels old.
+
+ID=223121201
+
+ID=211080101
+
+[Fresh Starter] Hat
+
+<font color='#FFBA85'>[Appearence]<font color='#9D927B'>\n\n A hat that may make you look like a fresh newbie as if you were just entering kindergarten.
+
+ID=211081001
+
+[Fresh Starter] Randosel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRandosel might make her look like a fresh newbie, just as if she had just entered kindergarten.
+
+ID=221080101
+
+ID=221081001
+
+ID=231010701
+
+[Lily's School Uniform A] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's middle school, spring uniform. It is torn like the clothes it was wearing when it fell out of the gap.
+
+ID=231010801
+
+[Lily's School Uniform A] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's middle school, spring uniform skirt. It is torn like the clothes it was wearing when it fell out of the gap.
+
+ID=231011101
+
+[Lily's School Uniform A] Knee Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's middle school, spring uniform knee socks. It is torn like the clothes it was wearing when it fell out of the gap.
+
+ID=231011201
+
+[Lily's School Uniform A] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nLily's middle school, spring uniform shoes. It is torn like the clothes it was wearing when it fell out of the gap.
+
+ID=231020701
+
+[Lily's School Uniform B] Top
+
+ID=231020801
+
+[Lily's School Uniform B] Skirt
+
+ID=231021101
+
+[Lily's School Uniform B] Knee Socks
+
+ID=231021201
+
+[Lily's School Uniform B] Shoes
+
+ID=231030701
+
+[Lily's School Uniform C] Top
+
+ID=231030801
+
+[Lily's School Uniform C] Skirt
+
+ID=231031101
+
+[Lily's School Uniform C] Knee Socks
+
+ID=231031201
+
+[Lily's School Uniform C] Shoes
+
+ID=231040701
+
+[Lily's School Uniform D] Top
+
+ID=231040801
+
+[Lily's School Uniform D] Skirt
+
+ID=231041101
+
+[Lily's School Uniform D] Knee Socks
+
+ID=231041201
+
+[Lily's School Uniform D] Shoes
+
+ID=231050901
+
+[Outbreak of Madness] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCostume materialized from Lily's Soul Energy. Top and Pants can be worn at the same time.\nFor some reason, it disappears after 3 days of storage in the inventory.
+
+ID=231050801
+
+[Outbreak of Madness] Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPants materialized from Lily's Soul Energy.\nFor some reason it disappears after kept in the inventory for 3 days.
+
+ID=231051101
+
+[Outbreak of Madness] Knee Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nKnee Socks materialized from Lily's Soul Energy.\nFor some reason it disappears after kept in the inventory for 3 days.
+
+ID=231051201
+
+[Outbreak of Madness] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots materialized from Lily's Soul Energy.\nFor some reason it disappears after kept in the inventory for 3 days.
+
+ID=231060101
+
+ID=231060701
+
+ID=231060801
+
+ID=231061101
+
+ID=231061201
+
+ID=231070701
+
+ID=231070801
+
+ID=231071201
+
+ID=231080101
+
+ID=231081001
+
+ID=232011901
+
+ID=232010401
+
+ID=232010701
+
+ID=232010501
+
+ID=232011201
+
+ID=232011301
+
+ID=232020301
+
+ID=232020401
+
+ID=232020901
+
+ID=232020501
+
+ID=232021201
+
+ID=232021301
+
+ID=232030101
+
+ID=232030701
+
+ID=232030801
+
+ID=232030301
+
+ID=232030501
+
+ID=232031101
+
+ID=232031201
+
+ID=232031601
+
+ID=232031001
+
+ID=233010701
+
+ID=233010801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBottoms of the school uniform which women of detective school wear. I think it's easy to unravel a missing case.
+
+ID=233010101
+
+ID=233011101
+
+ID=233011201
+
+ID=233021901
+
+ID=233020701
+
+ID=233020801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBottoms of sporty look which are likely to be worn by active women who like to exercise. If you wear it wrong, you may look unemployed.
+
+ID=233021001
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hip coloured sporty look that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=233020301
+
+ID=233021101
+
+[Sporty Look] Knee Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSporty Look's Knee Socks worn by active women who like to exercise. If you wear it wrong, you may look unemployed.
+
+ID=233020501
+
+ID=233021201
+
+ID=233030701
+
+ID=233030801
+
+[Modern Casual] Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPants of modern casual girls clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=233031101
+
+[Modern Casual] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStockings of modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=233030501
+
+[Modern Casual] Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBracelets of modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=233031201
+
+ID=233040101
+
+ID=233040901
+
+ID=233041101
+
+ID=233041201
+
+ID=233050701
+
+[Lily's Repaired Uniform A] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=233050801
+
+[Lily's Repaired Uniform A] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=233051101
+
+[Lily's Repaired Uniform A] Knee Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=233060701
+
+[Lily's Repaired Uniform B] Top
+
+ID=233060801
+
+[Lily's Repaired Uniform B] Skirt
+
+ID=233061101
+
+[Lily's Repaired Uniform B] Knee Socks
+
+ID=233070701
+
+[Lily's Repaired Uniform C] Top
+
+ID=233070801
+
+[Lily's Repaired Uniform C] Skirt
+
+ID=233071101
+
+[Lily's Repaired Uniform C] Knee Socks
+
+ID=233080701
+
+[Lily's Repaired Uniform D] Top
+
+ID=233080801
+
+[Lily's Repaired Uniform D] Skirt
+
+ID=233081101
+
+[Lily's Repaired Uniform D] Knee Socks
+
+ID=233090901
+
+ID=230309001
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA school uniform hat that may be worn in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=233091101
+
+ID=233091201
+
+ID=233100901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCostume materialized from Lily's Soul Energy. Top and Pants can be worn at the same time.
+
+ID=233100801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBottom materialized from Lily's Soul Energy.
+
+ID=233101101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSocks materialized from Lily's Soul Energy.
+
+ID=233101201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes materialized from Lily's Soul Energy.
+
+ID=233110101
+
+ID=233110701
+
+ID=233110801
+
+ID=233111101
+
+ID=233111201
+
+ID=233120701
+
+ID=233120801
+
+ID=233121201
+
+ID=251010701
+
+[Stella's School Uniform A] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's middle school, Vincent's spring uniform. It is torn like the clothes it was wearing when it fell out of the gap.
+
+ID=251010801
+
+[Stella's School Uniform A] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's junior high school, Vincent's spring and autumn skirt. It is torn like the clothes it was worn when it fell out of the gap.
+
+ID=251011101
+
+[Stella's School Uniform A] Knee Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's junior high school uniform. It is torn like the clothes it was worn when it fell out of the gap.
+
+ID=251011201
+
+[Stella's School Uniform A] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's junior high school uniform. It is well preserved than what was worn when falling out of the gap.
+
+ID=251020701
+
+[Stella's School Uniform B] Top
+
+ID=251020801
+
+[Stella's School Uniform B] Skirt
+
+ID=251021101
+
+[Stella's School Uniform B] Knee Socks
+
+ID=251021201
+
+[Stella's School Uniform B] Shoes
+
+ID=251030701
+
+[Stella's School Uniform C] Top
+
+ID=251030801
+
+[Stella's School Uniform C] Skirt
+
+ID=251031101
+
+[Stella's School Uniform C] Knee Socks
+
+ID=251031201

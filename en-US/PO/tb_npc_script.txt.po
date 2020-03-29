@@ -1,0 +1,3235 @@
+# Eisou <nanamiide@gmail.com>, 2020. #zanata
+# Raining <rainingdreams@protonmail.com>, 2020. #zanata
+# yunseojun <cy8erjp@gmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-02-23 05:11-0500\n"
+"Last-Translator: Eisou <nanamiide@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "f524a00ad016e964744c35990fae40bb"
+msgid "ID=100001"
+msgstr "ID=100001"
+
+msgctxt "bfc6786509459036e99b407bc9969e65"
+msgid "더미NPC"
+msgstr "Dummy NPC"
+
+msgctxt "278401793ec49fc6d2cb5700537ac9c4"
+msgid "ID=100002"
+msgstr "ID=100002"
+
+msgctxt "15e45e70dcded2366761147b9d2275de"
+msgid "하이퍼 음파 발생기"
+msgstr "A hyper sound wave generator"
+
+msgctxt "acd89800b343a87c23de0674ba3076f9"
+msgid "ID=101000"
+msgstr "ID=101000"
+
+msgctxt "b6e5bb074a87ec246049d1a947ba401e"
+msgid "미리엄"
+msgstr "Miriam"
+
+msgctxt "3d90f9ff4e7090c0e94f863b0fac17d1"
+msgid "ID=101001"
+msgstr "ID=101001"
+
+msgctxt "a2e05e60320ee295d2b8f9532d89f5cf"
+msgid "ID=101003"
+msgstr "ID=101003"
+
+msgctxt "2f3cd10b25743a352c8170486664744f"
+msgid "자이트"
+msgstr "Zaito"
+
+msgctxt "c9da71ad18af401cf313763cfb787423"
+msgid "ID=101004"
+msgstr "ID=101004"
+
+msgctxt "6d2cb60b43f07e83e05911c4a927a895"
+msgid "오든"
+msgstr "Ordon"
+
+msgctxt "4f4ab27a2175e0db9359b632ceec8cbc"
+msgid "ID=101005"
+msgstr "ID=101005"
+
+msgctxt "26a58ee2538422f369e80abf93f27d9f"
+msgid "요미"
+msgstr "Yomi"
+
+msgctxt "efcfd4db9b25198db47e7b7b7dbdf81e"
+msgid "ID=101006"
+msgstr "ID=101006"
+
+msgctxt "04d7f662c28abfb80bcc0ce3971cd22d"
+msgid "신시아"
+msgstr "Cynthia"
+
+msgctxt "e5ee45e01b73c30ef26f2233dcc259b6"
+msgid "ID=101007"
+msgstr "ID=101007"
+
+msgctxt "f0eedd1ea90c919b7e0d8ec8ba97976c"
+msgid "민우"
+msgstr "Minwoo"
+
+msgctxt "57a8a44dd5e2c6b0dfb75aa923ebedc9"
+msgid "ID=101008"
+msgstr "ID=101008"
+
+msgctxt "d08173812873e0915d612df14bbfa8cf"
+msgid "캘리"
+msgstr "Callie"
+
+msgctxt "4475b6a168278ce5c957baecd73a9379"
+msgid "ID=101009"
+msgstr "ID=101009"
+
+msgctxt "30ba77ab7fc277e42fec44edf3a61de2"
+msgid "료코"
+msgstr "Ryoko"
+
+msgctxt "7e464fe26812a6bb48beac4c118e2cb0"
+msgid "ID=101010"
+msgstr "ID=101010"
+
+msgctxt "2aeecd5461a28d702a93ffa5e0689631"
+msgid "로이"
+msgstr "Roy"
+
+msgctxt "a7324d44afdc86be5771384970c03c4c"
+msgid "ID=101203"
+msgstr "ID=101203"
+
+msgctxt "0aa5ffd7f1aa849c01a66e84bd33e985"
+msgid "ID=101011"
+msgstr "ID=101011"
+
+msgctxt "36c059c85ff3496387e2d73f5f020ac7"
+msgid "클로이"
+msgstr "Chloe"
+
+msgctxt "89e12b729281f2e4fe37a8fc1961e542"
+msgid "ID=101012"
+msgstr "ID=101012"
+
+msgctxt "30192dd8ac8e4eca53df7e996ba0bd62"
+msgid "로젠"
+msgstr "Rosen"
+
+msgctxt "6101712b2cba0a451606263c6bb2a377"
+msgid "ID=101013"
+msgstr "ID=101013"
+
+msgctxt "2feef90f8ebbdbb169ee828454fb5f56"
+msgid "갈리소위"
+msgstr "So-called"
+
+msgctxt "e889ce1c7bc8340d7d1e40e792e6e21a"
+msgid "ID=101014"
+msgstr "ID=101014"
+
+msgctxt "33b024bfb859ad6fd2736f818d9ef337"
+msgid "아론"
+msgstr "Aaron"
+
+msgctxt "2f980a065fb4b43a020d7ecf86b5977b"
+msgid "ID=101015"
+msgstr "ID=101015"
+
+msgctxt "755d54c8fa27b535401730cca57547ec"
+msgid "앤디함장"
+msgstr "Captain Andy"
+
+msgctxt "a253ec9fcc5707b4e10c317bddf24f8d"
+msgid "ID=101016"
+msgstr "ID=101016"
+
+msgctxt "44a09229c100fac4d08a6448018bee89"
+msgid "월든"
+msgstr "Walden"
+
+msgctxt "cea456c06bc611c4fff957609f9598b8"
+msgid "ID=101019"
+msgstr "ID=101019"
+
+msgctxt "d503b8920eddd4a3be34217ba80dcda4"
+msgid "클락"
+msgstr "Clark"
+
+msgctxt "d5bb8439f84406cf420f61fbdec3dee1"
+msgid "ID=101020"
+msgstr "ID=101020"
+
+msgctxt "bd01c356899302a3cefd49437afda5b8"
+msgid "란"
+msgstr "Ran"
+
+msgctxt "bcfac50cdb0ec2919779c0a070c51ca4"
+msgid "ID=101021"
+msgstr "ID=101021"
+
+msgctxt "43b0993cf46798f8ec017b49c199f4ff"
+msgid "ID=102001"
+msgstr "ID=102001"
+
+msgctxt "8ec6ab3509cae32a0e2747e5356d01b1"
+msgid "스위치"
+msgstr "Switch"
+
+msgctxt "bce5a99eff804dd510925571437ddab0"
+msgid "ID=101022"
+msgstr "ID=101022"
+
+msgctxt "36436b8a3fea5f1bf7babe2a9f182eb9"
+msgid "벤자민"
+msgstr "Benjamin"
+
+msgctxt "a00b89d9be4f515f8bd5dca440a7a6d3"
+msgid "ID=101023"
+msgstr "ID=101023"
+
+msgctxt "1579dec8fe40da950d7b6d5440148182"
+msgid "류"
+msgstr "Ryu"
+
+msgctxt "110f5472e78b5fc6eab254aee8e42563"
+msgid "ID=101024"
+msgstr "ID=101024"
+
+msgctxt "58c92e4a9d81e630f163868703c4acd6"
+msgid "ID=101025"
+msgstr "ID=101025"
+
+msgctxt "b10725b8b227c7404dbebf36688cf0cf"
+msgid "ID=101026"
+msgstr "ID=101026"
+
+msgctxt "4d568c7e5fe9f44e6ea4772e806328ab"
+msgid "써니"
+msgstr "Sunny"
+
+msgctxt "d5e89e71d6543123756af9cd5987f75b"
+msgid "ID=101027"
+msgstr "ID=101027"
+
+msgctxt "c002ee06556d527805cd9d3e5eb0df3a"
+msgid "ID=101028"
+msgstr "ID=101027"
+
+msgctxt "ca4a2fd8d2e331b65388af4fe1a70865"
+msgid "션"
+msgstr "Sean"
+
+msgctxt "199bd1b8ddcd6b4a9b47a0994e8c0c29"
+msgid "ID=101029"
+msgstr "ID=101029"
+
+msgctxt "533d180f6040b3818b47aba738a326b9"
+msgid "에릭"
+msgstr "Erik"
+
+msgctxt "ec1e3f8cd199f6a7e85631d2273955ff"
+msgid "ID=101030"
+msgstr "ID=101030"
+
+msgctxt "7b12cdc0ab5fbc4c70607279da7af823"
+msgid "ID=101034"
+msgstr "ID=101034"
+
+msgctxt "1e03944f687d72629b4898424bec366b"
+msgid "H.E.M.S"
+msgstr "H.E.M.S"
+
+msgctxt "82e73e58fb83eb4231802b5322661087"
+msgid "ID=101035"
+msgstr "ID=101035"
+
+msgctxt "c16c1703e5e8ec81aeca26484f715721"
+msgid "죽어 가는병사"
+msgstr "a_dying_soldier"
+
+msgctxt "b280627054f0ca6927a55046bc071289"
+msgid "ID=101036"
+msgstr "ID=101036"
+
+msgctxt "16d1245cde605532d1be98b4deed0a4a"
+msgid "ID=101037"
+msgstr "ID=101037"
+
+msgctxt "7fce6b3bcdb428bf3f63aa31ef12bf3c"
+msgid "아론_천장"
+msgstr "Aaron_Ceiling"
+
+msgctxt "7b8161115311f3886478045317d3fec6"
+msgid "ID=101038"
+msgstr "ID=101038"
+
+msgctxt "4086cd693d1190932fb606eee12c9283"
+msgid "브록"
+msgstr "Brock"
+
+msgctxt "8de9382ca834362b863c3338bcbd654d"
+msgid "ID=101039"
+msgstr "ID=101039"
+
+msgctxt "a52c5c1253892a86c822b9ccabb52439"
+msgid "빅터"
+msgstr "Victor"
+
+msgctxt "cd3c9f5ac3143613459ed8a38297cad4"
+msgid "ID=101040"
+msgstr "ID=101040"
+
+msgctxt "e288fce5299201726c7eb0a073a41fbf"
+msgid "빅터_쉘터"
+msgstr "Victor Shelter"
+
+msgctxt "9bb475cd32a5e8703b04231d58115285"
+msgid "ID=101041"
+msgstr "ID=101041"
+
+msgctxt "b285c082750d70c4e093093418390927"
+msgid "헨리"
+msgstr "Henry"
+
+msgctxt "652f809d9affd64d27b7fcc85d3a96da"
+msgid "ID=101042"
+msgstr "ID=101042"
+
+msgctxt "eb56fff2d2f4df1870c5a5ecaa53676c"
+msgid "ID=101043"
+msgstr "ID=101043"
+
+msgctxt "817c769151433748b77b2c15b83bbe14"
+msgid "랄프"
+msgstr "Ralph"
+
+msgctxt "4bdc97fa00bb08c61f6726dd784ecb2f"
+msgid "ID=101044"
+msgstr "ID=101044"
+
+msgctxt "fdcea9e0f949ddb29396b721732ae0fc"
+msgid "ID=101045"
+msgstr "ID=101045"
+
+msgctxt "05eec3ec0688022c1ac31416b56ddb49"
+msgid "레오나"
+msgstr "Leona"
+
+msgctxt "42ae6f94bd09ddcba4c475a4de0c1b2a"
+msgid "ID=101046"
+msgstr "ID=101046"
+
+msgctxt "a7d8fa1b745746223bdaf2a0f0087e8c"
+msgid "ID=101047"
+msgstr "ID=101047"
+
+msgctxt "6be19b758ce7514116587c0709ad5816"
+msgid "ID=101048"
+msgstr "ID=101048"
+
+msgctxt "16163a3af66ca0fc31b9cdd089c9908a"
+msgid "별숲리그 병사"
+msgstr "Star Forest League Soldier"
+
+msgctxt "1ed5acc6411b6b62f2794a67c8d465a2"
+msgid "ID=101049"
+msgstr "ID=101049"
+
+msgctxt "24413c6619ef9f07b839d2ab7425b546"
+msgid "살아남은 연구원"
+msgstr "a survived researcher"
+
+msgctxt "017af178fd5df6c7dbaed0a5767d75d7"
+msgid "ID=101050"
+msgstr "ID=101050"
+
+msgctxt "dff637aeb36e9c2199a4ceb5d83b373a"
+msgid "캡슐디바이스"
+msgstr "Capsule Device"
+
+msgctxt "27d6bc29aebd7e9b7a467c801be050c2"
+msgid "ID=101051"
+msgstr "ID=101051"
+
+msgctxt "a07b328b6277ae2db00dbd306a6390bc"
+msgid "ID=101052"
+msgstr "ID=101052"
+
+msgctxt "09b57d9ea44c5a935d4fae8dbc17632e"
+msgid "ID=101053"
+msgstr "ID=101053"
+
+msgctxt "d98a190c046c5398c9870b07aabd78cd"
+msgid "ID=101054"
+msgstr "ID=101054"
+
+msgctxt "116c7a3770d1ea98039b905d2313ca52"
+msgid "ID=101055"
+msgstr "ID=101055"
+
+msgctxt "b8a8a5d0ea00bad924cceb4b8a1762d2"
+msgid "토오루"
+msgstr "Thor"
+
+msgctxt "4749e520401e7b315d760578d3d1178e"
+msgid "ID=101056"
+msgstr "ID=101056"
+
+msgctxt "c7cdcfc61b3fe223e97317d84414f2dd"
+msgid "세니아"
+msgstr "Xenia"
+
+msgctxt "73218e9f9a7df386029cec1ab2c3c5c2"
+msgid "ID=101057"
+msgstr "ID=101057"
+
+msgctxt "083b38dc1e43eb7935a89b91e3d54b75"
+msgid "케인바렐"
+msgstr "Kainbarrel"
+
+msgctxt "072687e5b24ba790cdeae49384c618d8"
+msgid "ID=101058"
+msgstr "ID=101058"
+
+msgctxt "f5f8907f6aff419f3ce0cefdefef900b"
+msgid "ID=101059"
+msgstr "ID=101059"
+
+msgctxt "0153f42ff2d381dcf064076245a738a2"
+msgid "ID=101060"
+msgstr "ID=101060"
+
+msgctxt "d4462955207ddaee59a263c368dc02a8"
+msgid "소라"
+msgstr "Sora"
+
+msgctxt "5253a8c81836bec9a246550b7ca9dcf6"
+msgid "ID=101061"
+msgstr "ID=101061"
+
+msgctxt "0e016a5ac59b3fc2b84323b4e795bc93"
+msgid "세듀린"
+msgstr "Sedurin"
+
+msgctxt "cda3c445d5c942d0c1ad28762ab8cb57"
+msgid "ID=101062"
+msgstr "ID=101062"
+
+msgctxt "f3c1708a7d4b279c185c733fafb9e148"
+msgid "레인워커"
+msgstr "Rainworker"
+
+msgctxt "07e2967296fff9f362172ed4f2b2d3eb"
+msgid "ID=101063"
+msgstr "ID=101063"
+
+msgctxt "de88a1ee8c02dc5f0322e8596e339fa9"
+msgid "ID=101064"
+msgstr "ID=101064"
+
+msgctxt "8f17457a1f83bc147ea187430b79ac08"
+msgid "라우퍼"
+msgstr "Laufer"
+
+msgctxt "8577872dec823676f579cb37e2602683"
+msgid "ID=101065"
+msgstr "ID=101065"
+
+msgctxt "7afcfa1228676b5836413230874c0ee4"
+msgid "ID=101066"
+msgstr "ID=101066"
+
+msgctxt "d68a7422bdaeab07e5e97457b4d4f4ca"
+msgid "ID=101067"
+msgstr "ID=101067"
+
+msgctxt "92ea8ce0a7dfaaf05a327da66aec864b"
+msgid "ID=101068"
+msgstr "ID=101068"
+
+msgctxt "c68cbffe66d9fa49788f2d7883ddc2f1"
+msgid "브랜든"
+msgstr "Brandon"
+
+msgctxt "0fbbc8727f2481080cdfcf7ca7f15a23"
+msgid "ID=101069"
+msgstr "ID=101069"
+
+msgctxt "e5c6a9d485c607cdf96b714f20ae652b"
+msgid "ID=101070"
+msgstr "ID=101070"
+
+msgctxt "c7f307705c5b4f44e9022d373b73053a"
+msgid "막심"
+msgstr "Maxim"
+
+msgctxt "6ffdd568125a38fe2b8679ad0df35076"
+msgid "ID=101071"
+msgstr "ID=101071"
+
+msgctxt "349f0cf753fad044e9edb919a0061c1b"
+msgid "리리아"
+msgstr "Liria"
+
+msgctxt "56160bae5aee6599bfcfb5de8421cae4"
+msgid "ID=101072"
+msgstr "ID=101072"
+
+msgctxt "2caf0614bd9ff3bbee79ea10f94e8289"
+msgid "제레미"
+msgstr "Jeremy"
+
+msgctxt "4106577827df618b32dfd3f1c09d86e7"
+msgid "ID=101073"
+msgstr "ID=101073"
+
+msgctxt "16c2b2409c4552d3ec520a636fc7290f"
+msgid "상엽"
+msgstr "Emilito"
+
+msgctxt "a5168da851c0a7dc476ec11ff2076077"
+msgid "ID=101074"
+msgstr "ID=101074"
+
+msgctxt "24d70ccdef06f8538b1175596de0fd17"
+msgid "상엽_에어리어"
+msgstr "Upper leaf _ Area"
+
+msgctxt "b37d1fc728055dc6917711cfe2accc42"
+msgid "ID=101075"
+msgstr "ID=101075"
+
+msgctxt "3a6583464ec7b776c9676488f0dd9f66"
+msgid "침식된소울워커"
+msgstr "Eroded SoulWorker"
+
+msgctxt "5f082942240f8f7b458dc466a73396d0"
+msgid "ID=101076"
+msgstr "ID=101076"
+
+msgctxt "bdf6854b828350bf992f1079da09ade3"
+msgid "중앙제어컴퓨터"
+msgstr "Central control computer"
+
+msgctxt "f0e609e11b5b1b4340f5217a0d65c77a"
+msgid "ID=101077"
+msgstr "ID=101077"
+
+msgctxt "bcf880d356ffdbb2322494b969068805"
+msgid "패트릭"
+msgstr "Patrick"
+
+msgctxt "1370d6722b6843409b5c680214a65065"
+msgid "ID=101078"
+msgstr "ID=101078"
+
+msgctxt "d9d6526c8cc34629bb54325879e6babc"
+msgid "ID=101079"
+msgstr "ID=101079"
+
+msgctxt "54dc54a5c530dc9aff73f5d82939ebb9"
+msgid "ID=101080"
+msgstr "ID=101080"
+
+msgctxt "6d3ef34f14c43dbdce755586aa420b64"
+msgid "ID=101081"
+msgstr "ID=101081"
+
+msgctxt "9e0d2a385fcd6a72f534cd5aa8cb932a"
+msgid "ID=101082"
+msgstr "ID=101082"
+
+msgctxt "f2cdbe47bb0dc2cec7a623888bb3d008"
+msgid "ID=101083"
+msgstr "ID=101083"
+
+msgctxt "85374ebc256e628631d0e3e0d329a85f"
+msgid "ID=101084"
+msgstr "ID=101084"
+
+msgctxt "711ec9c2ef40c1b5375257ba2a482ee3"
+msgid "ID=101085"
+msgstr "ID=101085"
+
+msgctxt "b6f86f057c4698d0eacc8636f1c5e414"
+msgid "세츠카"
+msgstr "Setsuka"
+
+msgctxt "f609b0666635aed3402a655e51334904"
+msgid "ID=101086"
+msgstr "ID=101086"
+
+msgctxt "0d4340b3de6542d9d5804cbd78eaa046"
+msgid "ID=101087"
+msgstr "ID=101087"
+
+msgctxt "c717504941c19ac599ca40e210f10284"
+msgid "리사"
+msgstr "Risa"
+
+msgctxt "5f3b72f35f73796eb0ebacb93648749d"
+msgid "ID=101088"
+msgstr "ID=101088"
+
+msgctxt "f5ee329ac09260dc6edd13260a7e4b43"
+msgid "엘비스"
+msgstr "Elvis"
+
+msgctxt "efeaff6287db6016a6c80a50da1a5213"
+msgid "ID=101089"
+msgstr "ID=101089"
+
+msgctxt "3d722d28894340a65475d7d9d497712b"
+msgid "에릭_컨트롤 존"
+msgstr "Erik Control Zone"
+
+msgctxt "33d99b4b6ab5754f93280dfb0e6c46d1"
+msgid "ID=101090"
+msgstr "ID=101090"
+
+msgctxt "d09c384123a5f603e6c65d92b50f3305"
+msgid "페리"
+msgstr "Perry"
+
+msgctxt "6c216e4d869ae3be2e2a964234c34c3e"
+msgid "ID=101091"
+msgstr "ID=101091"
+
+msgctxt "76eb55ae5cb701b8aad6c793f05ac1ed"
+msgid "워렌"
+msgstr "Warren"
+
+msgctxt "ae6d895ec7cb34a4009541fa29480c29"
+msgid "ID=101092"
+msgstr "ID=101092"
+
+msgctxt "d02c04fd4c89368afea2fc51179e9e5e"
+msgid "고립된 병사"
+msgstr "an isolated soldier"
+
+msgctxt "036c2b9d769d72f1fc9a8fea8f73d4ab"
+msgid "ID=101093"
+msgstr "ID=101093"
+
+msgctxt "581011a6043d465ddd9cf83b68d45487"
+msgid "네드 컴퍼니 작업자"
+msgstr "N.E.D Company Worker"
+
+msgctxt "c4966d6652152a8c8f0f13b95a17a0c1"
+msgid "ID=101094"
+msgstr "ID=101094"
+
+msgctxt "a50337e11595f3670a22c9eaceb1fb78"
+msgid "트리샤"
+msgstr "Trisha"
+
+msgctxt "c94a1e0eff0aee2d18658a5aed9ecf39"
+msgid "ID=101095"
+msgstr "ID=101095"
+
+msgctxt "7bf167348b812c1cd371f820fb2d9996"
+msgid "클리프"
+msgstr "Cliff"
+
+msgctxt "483795a73d626dcf7bab69e15ed0d05d"
+msgid "ID=101096"
+msgstr "ID=101096"
+
+msgctxt "6b10841335f3698b4947cae4cb82e890"
+msgid "제니스"
+msgstr "Zenith"
+
+msgctxt "1ed663e343f340d762d2cbbbc1cdbac3"
+msgid "ID=101097"
+msgstr "ID=101097"
+
+msgctxt "e245756f24d7d2fed37e7d3fbad7b952"
+msgid "브록_N102쉘터"
+msgstr "Brock N102 Shelter"
+
+msgctxt "4c9f6bc066c3387d2403169274d57fa8"
+msgid "ID=101098"
+msgstr "ID=101098"
+
+msgctxt "bb188a4f2879b67297fc3abbb5f12e35"
+msgid "로버트"
+msgstr "Robert"
+
+msgctxt "6e07886a05d759e9cbb4d8faae9da27f"
+msgid "ID=101099"
+msgstr "ID=101099"
+
+msgctxt "8a044ac988069c463d2310c356ae20f3"
+msgid "ID=101100"
+msgstr "ID=101100"
+
+msgctxt "5cceff085983111ed2fa69e9beb2feb8"
+msgid "ID=101101"
+msgstr "ID=101101"
+
+msgctxt "03d8954bc068a3dbb027e84e2aa5fb5a"
+msgid "ID=101102"
+msgstr "ID=101102"
+
+msgctxt "dcf44524a782d84b064c305859331bda"
+msgid "리타"
+msgstr "Rita"
+
+msgctxt "207cfd984a1360c49eccbf6babef855d"
+msgid "ID=101103"
+msgstr "ID=101103"
+
+msgctxt "ace0f8c6b92cf85c9cab15f475e87ad7"
+msgid "하이딩거"
+msgstr "Haidinger"
+
+msgctxt "f9eaf1e1f6353021d50410f2dbbeb9b8"
+msgid "ID=101104"
+msgstr "ID=101104"
+
+msgctxt "3ece6c34d7ce92d39a106bfa47ce3ced"
+msgid "휴"
+msgstr "Hugh"
+
+msgctxt "0a78160c843d3f59227e4d1d8c5d973c"
+msgid "ID=101105"
+msgstr "ID=101105"
+
+msgctxt "b4168d69b5cd3e11b1942a4d734f6c68"
+msgid "ID=101106"
+msgstr "ID=101106"
+
+msgctxt "fa4552728cf3787c556a0af0fe3284f0"
+msgid "시큐리티 박스"
+msgstr "Security Box"
+
+msgctxt "ac4e932d8502e8fdaacd8d0398b665db"
+msgid "ID=101107"
+msgstr "ID=101107"
+
+msgctxt "6805c85960105f52e7d9577df320160a"
+msgid "ID=101108"
+msgstr "ID=101108"
+
+msgctxt "c23b0b77a70c8c421e6fc390285f9170"
+msgid "ID=101109"
+msgstr "ID=101109"
+
+msgctxt "c7444d753265e598d20774045c19e318"
+msgid "ID=101110"
+msgstr "ID=101110"
+
+msgctxt "7251406d77f636ead7ffe45906756317"
+msgid "하이푸"
+msgstr "Hype"
+
+msgctxt "7ba3cff911e9f375d2128a18ffe1131d"
+msgid "ID=101111"
+msgstr "ID=101111"
+
+msgctxt "f097fd2580d906406e8d3e722157ac6e"
+msgid "브랜든2"
+msgstr "Brandon 2"
+
+msgctxt "16398564b3012ddfc07bba51c20da624"
+msgid "ID=101112"
+msgstr "ID=101112"
+
+msgctxt "4a7cd0c7b6e9f5cadabf197a1d175051"
+msgid "ID=101113"
+msgstr "ID=101113"
+
+msgctxt "fa5cfdebfc43ffd5a01337d9381b6a35"
+msgid "막심2"
+msgstr "Maxim 2"
+
+msgctxt "21a8745406b8a0358dc5124bfcef1cbd"
+msgid "ID=101114"
+msgstr "ID=101114"
+
+msgctxt "f5432862c8f65fcba6bee01e86ddc50e"
+msgid "ID=101115"
+msgstr "ID=101115"
+
+msgctxt "f3ab5d4f49e76c0c15a2fee281316ceb"
+msgid "리리아2"
+msgstr "Lilia 2"
+
+msgctxt "5238b0e9e17ac1498bbb99c5a45d0fe9"
+msgid "ID=101116"
+msgstr "ID=101116"
+
+msgctxt "61b7280542b1ba72c1365d370d80ebe1"
+msgid "레온"
+msgstr "Leon"
+
+msgctxt "44d26779c3ea7d85f37bc220a853ceef"
+msgid "ID=101117"
+msgstr "ID=101117"
+
+msgctxt "d2c9e3b4e2fa44bb655ff379b2d33d83"
+msgid "ID=101118"
+msgstr "ID=101118"
+
+msgctxt "6f72c4493aa663c8cb6364635106f28d"
+msgid "ID=101119"
+msgstr "ID=101119"
+
+msgctxt "43f8b42815cb1c1d8167882352a5f69a"
+msgid "카챠"
+msgstr "Katja"
+
+msgctxt "5a03585c992f96a59a5082a0c184f15f"
+msgid "ID=101120"
+msgstr "ID=101120"
+
+msgctxt "8f418d45ee642bbae0b0a192df21793f"
+msgid "상훈"
+msgstr "Allen"
+
+msgctxt "73f9bdc0b1ba9e94b0955df6480aaf38"
+msgid "ID=101121"
+msgstr "ID=101121"
+
+msgctxt "470c2b0b7daf5756f0b9f0df106e981d"
+msgid "줄리"
+msgstr "Julie"
+
+msgctxt "35f4c7c815e1de9452519f542ea2afdc"
+msgid "ID=101122"
+msgstr "ID=101122"
+
+msgctxt "19436e06fb7945f75f0067f591be7120"
+msgid "우디"
+msgstr "Woody"
+
+msgctxt "7b1d374e28e259ea9ff922189e5ec461"
+msgid "ID=101123"
+msgstr "ID=101123"
+
+msgctxt "e04641539ddfbbe335ff495002364d86"
+msgid "굿보이"
+msgstr "Good Boy"
+
+msgctxt "0dc1044786bb15670b345c6dc957e866"
+msgid "ID=101124"
+msgstr "ID=101124"
+
+msgctxt "943f5d2be3e5eda1ab4d625dd459a953"
+msgid "두려워하는 병사"
+msgstr "Frightened Soldier"
+
+msgctxt "3354ddd408b2f128371272aa473c6ec5"
+msgid "ID=101125"
+msgstr "ID=101125"
+
+msgctxt "dc95f57763b002736b91e7b8e00f6678"
+msgid "떨고 있는 병사"
+msgstr "Shivering Soldier"
+
+msgctxt "330b22c0ae0708b23814253fbcb9346a"
+msgid "ID=101126"
+msgstr "ID=101126"
+
+msgctxt "91ff95621f4973c96b8414ca4dec6d16"
+msgid "의욕 없는 병사"
+msgstr "Unmotivated Soldier"
+
+msgctxt "05aadce0fc6f21ff2b9d972afa93d248"
+msgid "ID=101127"
+msgstr "ID=101127"
+
+msgctxt "5c68a6e5d5d8a4dc3f43257615235f6c"
+msgid "지친 병사"
+msgstr "Worn-out Soldier"
+
+msgctxt "f45e4db0c31b8dac1dc721aa1a6963df"
+msgid "ID=101128"
+msgstr "ID=101128"
+
+msgctxt "a8c6b1853fb44fb93c6d6ff196953c54"
+msgid "ID=101129"
+msgstr "ID=101129"
+
+msgctxt "10e790fa2b64251def1477b933ed09ed"
+msgid "ID=101130"
+msgstr "ID=101130"
+
+msgctxt "3c1cac34cf2be4b69a6c1e27ebc9e176"
+msgid "ID=101131"
+msgstr "ID=101131"
+
+msgctxt "1efeeb5fe97db2dbecd7e71398e209a0"
+msgid "마틴"
+msgstr "Martin"
+
+msgctxt "0f0a59f02e94bf49c5f8893c3fe80c24"
+msgid "ID=101132"
+msgstr "ID=101132"
+
+msgctxt "b4fd397b335c83859645b08edcb4055b"
+msgid "샌슨"
+msgstr "Sensun"
+
+msgctxt "af292ecd6d666522db4244d42b817a71"
+msgid "ID=101133"
+msgstr "ID=101133"
+
+msgctxt "83bfb7fc6c10b906dc44f349cf450281"
+msgid "ID=101134"
+msgstr "ID=101134"
+
+msgctxt "22eeb2fc3a2f96547ac391e90d7f3580"
+msgid "ID=101135"
+msgstr "ID=101135"
+
+msgctxt "1a4ab7759f9d69c58d38297c74e32a9a"
+msgid "ID=101136"
+msgstr "ID=101136"
+
+msgctxt "1b3f7a2d20e1c91f7fe93c9c1137d389"
+msgid "아만다"
+msgstr "Amanda"
+
+msgctxt "12a2b8a6124e601a124ad8d93baa5345"
+msgid "ID=101137"
+msgstr "ID=101137"
+
+msgctxt "b85b56864df764a1e470215c70159938"
+msgid "이안"
+msgstr "Ian"
+
+msgctxt "248193a7373bde58ca45c9f556cc8727"
+msgid "ID=101138"
+msgstr "ID=101138"
+
+msgctxt "949b7def2e8ccc222fbb8fcfdefa33e4"
+msgid "테리"
+msgstr "Terry"
+
+msgctxt "89308f4b6b3baf1745a35c546e3a3342"
+msgid "ID=101139"
+msgstr "ID=101139"
+
+msgctxt "a27a74862fd202271832f9ff9390583d"
+msgid "ID=101140"
+msgstr "ID=101140"
+
+msgctxt "2c89c4ce28175c35e4ed6f2b98a8e938"
+msgid "힉스"
+msgstr "Hicks"
+
+msgctxt "8744b458e762d646e5f7784dc4119d1a"
+msgid "ID=101141"
+msgstr "ID=101141"
+
+msgctxt "e59eaf0820a075fb932645cb5cf8a1ed"
+msgid "ID=101142"
+msgstr "ID=101142"
+
+msgctxt "9f2706a50a4743b045649900ad96d3e4"
+msgid "ID=101143"
+msgstr "ID=101143"
+
+msgctxt "4bf790770531ce993e0940feba0371f4"
+msgid "제이크"
+msgstr "Jake"
+
+msgctxt "83026329e8e680b35ed32cd0734bdf39"
+msgid "ID=101144"
+msgstr "ID=101144"
+
+msgctxt "575c7532b83e77dd76f9d0b5039447bc"
+msgid "아벨"
+msgstr "Abel"
+
+msgctxt "80ccc1aebfc16fc4873fd9f7fa9b2fe3"
+msgid "ID=101145"
+msgstr "ID=101145"
+
+msgctxt "d2b760d5fb38c7243d89f1d756d0b5d8"
+msgid "ID=101146"
+msgstr "ID=101146"
+
+msgctxt "2c2ffcf03388b3672e05001be6b21ec9"
+msgid "ID=101147"
+msgstr "ID=101147"
+
+msgctxt "6333e0579290a0522937bcb4d5d325a0"
+msgid "ID=101148"
+msgstr "ID=101148"
+
+msgctxt "d82a21091ee24e0629aaeea1e563cb8e"
+msgid "ID=101149"
+msgstr "ID=101149"
+
+msgctxt "5dc8214e425026d225e137b67a327f18"
+msgid "ID=101150"
+msgstr "ID=101150"
+
+msgctxt "455b79e36b9ea53931ba6970b410e329"
+msgid "ID=101151"
+msgstr "ID=101151"
+
+msgctxt "9e59096d5b95e96f2183837a99ab426b"
+msgid "로스카"
+msgstr "Rosca"
+
+msgctxt "47f574f0b5dba2ad6728aed779f9db4e"
+msgid "ID=101152"
+msgstr "ID=101152"
+
+msgctxt "56f977df4a59fadfe696a6e3d5b39cf4"
+msgid "사라"
+msgstr "Sarah"
+
+msgctxt "ad9bfad21446d8288f8f52dbfa3aea79"
+msgid "ID=101153"
+msgstr "ID=101153"
+
+msgctxt "7328afcf44f82578d88416d0d213b977"
+msgid "베티"
+msgstr "Betty"
+
+msgctxt "6bda7f32759e4a0c8ee2a2dbb7ca9c0a"
+msgid "ID=101154"
+msgstr "ID=101154"
+
+msgctxt "2bfeba0ce92319ac86565f23195c19bb"
+msgid "ID=101155"
+msgstr "ID=101155"
+
+msgctxt "1476c211628d1cc827b40a0056f3446c"
+msgid "클리니"
+msgstr "Cleany"
+
+msgctxt "df3a938700fabecc1045e8a29274ded6"
+msgid "ID=101156"
+msgstr "ID=101156"
+
+msgctxt "13c23f921a2579f2e10fb4ec528fb22e"
+msgid "제시"
+msgstr "Jessie"
+
+msgctxt "81bbacbc0f63849175d936c5a2697cf0"
+msgid "ID=101157"
+msgstr "ID=101157"
+
+msgctxt "4d4cf2f434419efb70e60fc7e2ea3896"
+msgid "ID=101158"
+msgstr "ID=101158"
+
+msgctxt "0663a8866559106f2e4f1b2e2015298d"
+msgid "ID=101159"
+msgstr "ID=101159"
+
+msgctxt "8707464971dfe9008017007c82623a40"
+msgid "ID=101160"
+msgstr "ID=101160"
+
+msgctxt "82fa4d15150aca8b09c8a452f0917212"
+msgid "ID=101161"
+msgstr "ID=101161"
+
+msgctxt "0795c3d63fcfdc4633ff3199895ab67f"
+msgid "ID=101162"
+msgstr "ID=101162"
+
+msgctxt "cf977d93028f74cac77459aec5597980"
+msgid "ID=101163"
+msgstr "ID=101163"
+
+msgctxt "065ffb991cd33b49169c6156b385efde"
+msgid "ID=101164"
+msgstr "ID=101164"
+
+msgctxt "efae3a9ad8b5e51775873e3243797dd9"
+msgid "이오"
+msgstr "Io"
+
+msgctxt "bf50e3f83b16a5c1fa2c6062ce5bece8"
+msgid "ID=101165"
+msgstr "ID=101165"
+
+msgctxt "49334b894faf67f1fc8ff2b7c29df4d4"
+msgid "ID=101166"
+msgstr "ID=101166"
+
+msgctxt "882d02eee6a181ae1ca0f2ec90e9c836"
+msgid "ID=101167"
+msgstr "ID=101167"
+
+msgctxt "9c94cdbca74cadcf70ba6876c0a573e7"
+msgid "ID=101168"
+msgstr "ID=101168"
+
+msgctxt "831c034e3f0d95bb54f00a069fc9eb69"
+msgid "슈리"
+msgstr "Shiri"
+
+msgctxt "683ff2573ba6fc8a82ad7df7b13afe38"
+msgid "ID=101169"
+msgstr "ID=101169"
+
+msgctxt "20649c2b17b166731a03cdcaced89e83"
+msgid "ID=101170"
+msgstr "ID=101170"
+
+msgctxt "06973bd7a3dfd063631a34463526c142"
+msgid "ID=101171"
+msgstr "ID=101171"
+
+msgctxt "ef90233bef2661dfc8f3e5ecc335badc"
+msgid "ID=101172"
+msgstr "ID=101172"
+
+msgctxt "1373b47d4469cfe490931a2d649d7508"
+msgid "루시"
+msgstr "Lucy"
+
+msgctxt "da5fc879df11a55fb3780e504794038d"
+msgid "ID=101173"
+msgstr "ID=101173"
+
+msgctxt "588919b32ddddc379be0c4e83725b70e"
+msgid "ID=101174"
+msgstr "ID=101174"
+
+msgctxt "197d293eda34c92c47a0c48f2f3ff485"
+msgid "휴이"
+msgstr "Huey"
+
+msgctxt "f58c9baa247ef63e685731063c940655"
+msgid "ID=101175"
+msgstr "ID=101175"
+
+msgctxt "6c687c9ab4de32ed0127290a6bcdfc9e"
+msgid "ID=101176"
+msgstr "ID=101176"
+
+msgctxt "d153ca77983c153a2c0df7aad078d7a6"
+msgid "별숲리그 수색대"
+msgstr "Star Forest League Search Party"
+
+msgctxt "62b1a357f30400aa4dadaccf30d63c29"
+msgid "ID=101177"
+msgstr "ID=101177"
+
+msgctxt "39f121ad5d94de3516c604fb2688020c"
+msgid "ID=101178"
+msgstr "ID=101178"
+
+msgctxt "3f45c1e14a0d27b822876232819550f4"
+msgid "미리엄_연출용"
+msgstr "Director Miriam"
+
+msgctxt "610c58dd952417f7a78059aa77b25fe7"
+msgid "ID=101179"
+msgstr "ID=101179"
+
+msgctxt "a8a0ed675d631040f4f7ae3f3ff0c206"
+msgid "류_연출용"
+msgstr "Director Ryu"
+
+msgctxt "3e6720417cac7dee5a690128e2f27466"
+msgid "ID=101180"
+msgstr "ID=101180"
+
+msgctxt "f91ca7b5de08d8bbacab699e567916e2"
+msgid "ID=101181"
+msgstr "ID=101181"
+
+msgctxt "37fdcc6829bc880570fdcbcb5b437bb8"
+msgid "워로드 입장 NPC"
+msgstr "Warlord Entry NPC"
+
+msgctxt "baee2b8628e4365a7cf5b388919e576d"
+msgid "ID=101182"
+msgstr "ID=101182"
+
+msgctxt "0427adc106e4ce1bc1a792c6c4d3b96e"
+msgid "의문의 아이"
+msgstr "Mysterious Child"
+
+msgctxt "fa57954d6d6345844cbb5ac8a899f94d"
+msgid "ID=101208"
+msgstr "ID=101208"
+
+msgctxt "bdd854c9f8bd53241515262e7fc46f31"
+msgid "ID=101210"
+msgstr "ID=101210"
+
+msgctxt "0b507152450404383f602d13971fe84a"
+msgid "ID=101220"
+msgstr "ID=101220"
+
+msgctxt "cbeced17ef3350285a83ae1d19e6455f"
+msgid "ID=101183"
+msgstr "ID=101183"
+
+msgctxt "8a89aaf851772d96e2c89390cebca4a8"
+msgid "소울의 정수"
+msgstr "Soul Spirit"
+
+msgctxt "53eeb88444343a8f09de08d3043f434a"
+msgid "ID=101184"
+msgstr "ID=101184"
+
+msgctxt "24dd8fd9f03cd67a49e37cfdc0fcbfc3"
+msgid "까부는 고양이"
+msgstr "Idiomatic Cat"
+
+msgctxt "a2ff1e9164d7b29b52cd7e2c2340950f"
+msgid "ID=101185"
+msgstr "ID=101185"
+
+msgctxt "8085c330173471ae4c5c597df4ac7bde"
+msgid "별숲리그 연구원"
+msgstr "Star Forest League Researcher"
+
+msgctxt "353d7f2c0a655c70a6b082c97b9c2001"
+msgid "ID=101194"
+msgstr "ID=101194"
+
+msgctxt "475ab19fffa9dc2c27ecc7bb0dfb96cb"
+msgid "캐서린"
+msgstr "Catherine"
+
+msgctxt "7c0ff0f7bc8aaa18baf01d2b5673f943"
+msgid "ID=101196"
+msgstr "ID=101196"
+
+msgctxt "d6ff274b4890d72b4b2750bcdbee9fe6"
+msgid "ID=101219"
+msgstr "ID=101219"
+
+msgctxt "2de898e3d696c7c8e3db9625afb6734c"
+msgid "리그 관리병"
+msgstr "Guild Administration Soldier"
+
+msgctxt "d3ff1c8d5c6aa2380ebf9182fc23f55f"
+msgid "ID=101301"
+msgstr "ID=101301"
+
+msgctxt "075ba23447caa56ff7a26a1feb003199"
+msgid "마이룸 단말기"
+msgstr "My Room Terminal"
+
+msgctxt "aedb73e143b1971fbecc0a212dc76f35"
+msgid "ID=101302"
+msgstr "ID=101302"
+
+msgctxt "751385a9686326f909cd4c3df356ad4b"
+msgid "ID=201000"
+msgstr "ID=201000"
+
+msgctxt "14ed4acaa053894454c61171da8b9f6e"
+msgid "의무부대원"
+msgstr "Medical Officer"
+
+msgctxt "9d058d748f144aa6bbc1964aae91da4a"
+msgid "ID=201001"
+msgstr "ID=201001"
+
+msgctxt "c17b7ec28e3f9b1484f94c96c0d7dda2"
+msgid "ID=201002"
+msgstr "ID=201002"
+
+msgctxt "7768164546a3ca6a1ce2ee64344e57b5"
+msgid "서부부대 임시 대대장"
+msgstr "Commander of Western Reserve Forces"
+
+msgctxt "4c4814edb9f10342cfb90b267c54b450"
+msgid "ID=201003"
+msgstr "ID=201003"
+
+msgctxt "00bccc2524a2c836625e9b2a695447d7"
+msgid "무기상인"
+msgstr "Equipment Merchant"
+
+msgctxt "acf2a7188e85ac76a10f8306233ee3b6"
+msgid "ID=201004"
+msgstr "ID=201004"
+
+msgctxt "40d2f6467b547bd3a28aab68ba93fd8f"
+msgid "자산 관리인"
+msgstr "Bank Teller"
+
+msgctxt "74971813148deb3502c22aa7a9b177e3"
+msgid "ID=201005"
+msgstr "ID=201005"
+
+msgctxt "ddf8cc0a41b70a9f0f98414a77b4f67a"
+msgid "잡화상인"
+msgstr "General Merchant"
+
+msgctxt "472765568acd65ad5e7eec87851cafb1"
+msgid "ID=201006"
+msgstr "ID=201006"
+
+msgctxt "4a63ec657d84fc6d56a9c2997c05a105"
+msgid "미녀 리포터"
+msgstr "Fashion Reporter"
+
+msgctxt "4acb652420c1f87f122e93cd25487bdc"
+msgid "ID=201007"
+msgstr "ID=201007"
+
+msgctxt "ce8319cae1cfad6d3596e935de2e1d51"
+msgid "당돌한 꼬맹이"
+msgstr "Mischievous Boy"
+
+msgctxt "7be059d06c76c9749a919023f9cd39e5"
+msgid "ID=201008"
+msgstr "ID=201008"
+
+msgctxt "acf862bf8204fcdea189c9136e88ea57"
+msgid "ID=201009"
+msgstr "ID=201009"
+
+msgctxt "e5c08f128182471fe94aad03c05c61a7"
+msgid "로코 타운의 료코"
+msgstr "Energetic Girl Ryoko"
+
+msgctxt "4e63e8a0dbe493c7bc2853e0e22782f9"
+msgid "ID=201010"
+msgstr "ID=201010"
+
+msgctxt "b27fa847f6e08b6713d410d2cb7cd847"
+msgid "서부 부대 이능력자"
+msgstr "West Division Soldier"
+
+msgctxt "8d06afc65a0a39216b3cb9384006e2bf"
+msgid "ID=201017"
+msgstr "ID=201017"
+
+msgctxt "aec1dbe9fe92a2b13510e02e72bfc0aa"
+msgid "작전 지원병"
+msgstr "Operations Support Soldier"
+
+msgctxt "90c5ddfd51b3157c4e9ff92800984d64"
+msgid "ID=201018"
+msgstr "ID=201018"
+
+msgctxt "2cad557ab9dd97e60619714ebb0c9012"
+msgid "ID=202001"
+msgstr "ID=202001"
+
+msgctxt "d1dc7ed2789e62570a4d5cd46d3ec3c5"
+msgid "ID=201011"
+msgstr "ID=201011"
+
+msgctxt "881dc67a2f5d439dc19860b93daa1b8d"
+msgid "ID=201012"
+msgstr "ID=201012"
+
+msgctxt "59f7e53177c756064f7e5d3147151414"
+msgid "ID=201013"
+msgstr "ID=201013"
+
+msgctxt "ba4a0f1e478a6252a60eea34f9b757ee"
+msgid "ID=201014"
+msgstr "ID=201014"
+
+msgctxt "d9449918a6e2087c0128537b7c76cf2c"
+msgid "제 21 공격부대 대대장"
+msgstr "21st Attack Squad Commander"
+
+msgctxt "49ddf06c84062a0ad15d02687634eed0"
+msgid "ID=201015"
+msgstr "ID=201015"
+
+msgctxt "a0b3a2068c59d1f2bc4f1d5ff9777e34"
+msgid "ID=201016"
+msgstr "ID=201016"
+
+msgctxt "7987311e93b7e234b5630df0ac6dc90d"
+msgid "월든소령"
+msgstr "Major Waldon"
+
+msgctxt "e913fa695a974ce9ffe5f9aadfec79a7"
+msgid "ID=201019"
+msgstr "ID=201019"
+
+msgctxt "67893baa0863b671e521cd9bf2833c05"
+msgid "ID=201020"
+msgstr "ID=201020"
+
+msgctxt "59bd6a115bf0b718290e4bef15d4ebdb"
+msgid "운용부대원"
+msgstr "Operations Officer"
+
+msgctxt "6131bc9613ba02b0e5b0a03880a32eab"
+msgid "ID=201021"
+msgstr "ID=201021"
+
+msgctxt "3eef2c2a94bc698118d0a3b06c26ad9d"
+msgid "ID=201022"
+msgstr "ID=201022"
+
+msgctxt "06640269d6425c32b8acdfbf9b555d40"
+msgid "의무부대 중대장"
+msgstr "Medical Corps Commander"
+
+msgctxt "053bf3b9b186be44ff7a8e55e791fe68"
+msgid "ID=201023"
+msgstr "ID=201023"
+
+msgctxt "c2151fe5e0b92a04fb03357047c6cf75"
+msgid "ID=201024"
+msgstr "ID=201024"
+
+msgctxt "8e670c945aa89280b5b23b7272021d71"
+msgid "ID=201025"
+msgstr "ID=201025"
+
+msgctxt "2ca4d31fa898864701a24e61ad6dcc69"
+msgid "ID=201026"
+msgstr "ID=201026"
+
+msgctxt "b437af3098d5e157700875350a89e2fc"
+msgid "ID=201027"
+msgstr "ID=201027"
+
+msgctxt "ed608093213c92254b87c88536f6994d"
+msgid "ID=201028"
+msgstr "ID=201028"
+
+msgctxt "c23820af3afd68687bb4199f810a0076"
+msgid "시추 작업 반장"
+msgstr "Drilling Operations Squad Leader"
+
+msgctxt "0bd9ca7d88c3c6fe4d0c9b2f8891ff71"
+msgid "ID=201029"
+msgstr "ID=201029"
+
+msgctxt "67dc08b242f0d0afc6177844e0f557e1"
+msgid "N.E.D 컴퍼니 작업자"
+msgstr "N.E.D Company Worker"
+
+msgctxt "ee13a36d75e2f8650887235f5b2e2148"
+msgid "ID=201030"
+msgstr "ID=201030"
+
+msgctxt "5e4adde6a456ee50eb098f1363c4d097"
+msgid "ID=201031"
+msgstr "ID=201031"
+
+msgctxt "be3a60b79a3c39ea7db76e4f8d96f5d8"
+msgid "ID=201032"
+msgstr "ID=201032"
+
+msgctxt "628b30ac33e3d0dcddc0b75030ad9a6c"
+msgid "ID=201033"
+msgstr "ID=201033"
+
+msgctxt "ea473f24c3b06205f5a56e07b37d18f7"
+msgid "ID=201034"
+msgstr "ID=201034"
+
+msgctxt "d9094bb47adb5998fa0078acb399a496"
+msgid "고성능 우편 시스템"
+msgstr "High Efficiency Mail System"
+
+msgctxt "00cd526c759de84cbb1cdd54e7fbda0e"
+msgid "ID=201035"
+msgstr "ID=201035"
+
+msgctxt "c7bc2a7daa5a16114d411790f767cc14"
+msgid "ID=201036"
+msgstr "ID=201036"
+
+msgctxt "49e448bd5793309d46e4e7b4ad35d9c3"
+msgid "공격부대 대대장"
+msgstr "Attack Squad Commanding Officer"
+
+msgctxt "416a8a74f999969a5c5a794c628e8f4c"
+msgid "ID=201037"
+msgstr "ID=201037"
+
+msgctxt "9096f3da4825ffd931bd7f70c10d8a92"
+msgid "ID=201038"
+msgstr "ID=201038"
+
+msgctxt "84258a1e18018c74a5d8ab31cf1821e4"
+msgid "공격부대 작전병"
+msgstr "Attack Squad Tactician"
+
+msgctxt "760d8589fc0dcb5640c1846db3df3911"
+msgid "ID=201039"
+msgstr "ID=201039"
+
+msgctxt "c2e5e25c29f6b8a6936866e974db951e"
+msgid "명예 별숲리그원"
+msgstr "Star Forest League Militia"
+
+msgctxt "6138c662c690d245d85f318cf45cf8ef"
+msgid "ID=201040"
+msgstr "ID=201040"
+
+msgctxt "1ffbe99543d21af6b80ab468aa82a6b3"
+msgid "ID=201041"
+msgstr "ID=201041"
+
+msgctxt "da296a09d48ab8b82b7a649aa820caf5"
+msgid "N.E.D 서부 지부 책임자"
+msgstr "N.E.D Western District Chief"
+
+msgctxt "c4d75a300ad5c2b06274a1d28c06e34c"
+msgid "ID=201042"
+msgstr "ID=201042"
+
+msgctxt "ae5f0cc58d582b8b455f43856606118d"
+msgid "ID=201043"
+msgstr "ID=201043"
+
+msgctxt "64795632d20ee393eafc8a35b1197a86"
+msgid "N.E.D 컴퍼니 용병"
+msgstr "N.E.D Company Mercenary"
+
+msgctxt "acb52074e4352035cb1da8f772a6d978"
+msgid "ID=201044"
+msgstr "ID=201044"
+
+msgctxt "cb2bc0b88cb61e7b0c6b31586565daa7"
+msgid "ID=201045"
+msgstr "ID=201045"
+
+msgctxt "81ea74a040c34bf09badc9c2e20ca582"
+msgid "헨리의 비서"
+msgstr "Henry's Secretary"
+
+msgctxt "3773c0da1183f8a460cba7b200f6aa68"
+msgid "ID=201046"
+msgstr "ID=201046"
+
+msgctxt "51f6dd0135bfec5f43b06d43aadbb966"
+msgid "ID=201047"
+msgstr "ID=201047"
+
+msgctxt "8900c92cbcff3f63f30c52fef6f69d43"
+msgid "ID=201048"
+msgstr "ID=201048"
+
+msgctxt "02a4a0471f0c2df5334bedf6891d1fb2"
+msgid "ID=201049"
+msgstr "ID=201049"
+
+msgctxt "c7ac7e088e1e0ce7d0cad45dec675662"
+msgid "N.E.D 컴퍼니 연구원"
+msgstr "N.E.D Company Researcher"
+
+msgctxt "9ee75a179ae528fcb5bd8726a1a757df"
+msgid "ID=201050"
+msgstr "ID=201050"
+
+msgctxt "a4dda1f05eaac5b4d31c8314dd3c35c7"
+msgid "캡슐 디바이스"
+msgstr "Capsule Device"
+
+msgctxt "1089290ba5525eaf33ba3171097b96b2"
+msgid "ID=201051"
+msgstr "ID=201051"
+
+msgctxt "a26945f4539de4713723ffd276308433"
+msgid "ID=201052"
+msgstr "ID=201052"
+
+msgctxt "fa6fa75fdc2759db14bc42bbeffa102f"
+msgid "ID=201053"
+msgstr "ID=201053"
+
+msgctxt "051df15d29bddd7ce1cb639ed0c550a1"
+msgid "ID=201054"
+msgstr "ID=201054"
+
+msgctxt "7e03fcbd25fc0e6be7529db31058b4f1"
+msgid "ID=201055"
+msgstr "ID=201055"
+
+msgctxt "cff3b7835a4e60bac66443cb56c9361a"
+msgid "ID=201056"
+msgstr "ID=201056"
+
+msgctxt "4ff8712a1ba7898b5a585747f0570bbe"
+msgid "서부부대 작전중대장"
+msgstr "Western Squad Lieutenant"
+
+msgctxt "81ec05a9a132461a2b03025e5f9c9ee7"
+msgid "ID=201057"
+msgstr "ID=201057"
+
+msgctxt "450a7f67945b14487b6d6085cfa92e6d"
+msgid "서부부대 공격소대장"
+msgstr "Western Squad Platoon Leader"
+
+msgctxt "01abedf773a2c7aaa0bb9518a52ec329"
+msgid "ID=201058"
+msgstr "ID=201058"
+
+msgctxt "73873159a9f97908dbe54ebf4c0892c6"
+msgid "ID=201059"
+msgstr "ID=201059"
+
+msgctxt "6e70f045fb3e8ff2fe8da21bf6feff93"
+msgid "ID=201060"
+msgstr "ID=201060"
+
+msgctxt "34da8625ce19ab09dd481c69ea5e348d"
+msgid "ID=201061"
+msgstr "ID=201061"
+
+msgctxt "119d89e0aeb54764dda7f86510cb6a75"
+msgid "S.T.Lab 수석박사"
+msgstr "Head Dr. of S.T. Lab"
+
+msgctxt "550f12d3b617a90ef2a9f8512749c787"
+msgid "ID=201062"
+msgstr "ID=201062"
+
+msgctxt "8283d64bcb35fc803fe9e1239ee906e1"
+msgid "운용부대 전차 운전병"
+msgstr "Mobile Tank Operations Soldier"
+
+msgctxt "5b3bdc5a249e323fb19ee82b878b69e5"
+msgid "ID=201063"
+msgstr "ID=201063"
+
+msgctxt "46ac4878d549ccf0e46a4378719d0c7b"
+msgid "ID=201064"
+msgstr "ID=201064"
+
+msgctxt "944d7674661415022a9aec934eae9e0b"
+msgid "N.E.D 컴퍼니 비서 실장"
+msgstr "N.E.D Company Secretary"
+
+msgctxt "afc15a8b9917b3b3c00d67a867134772"
+msgid "ID=201065"
+msgstr "ID=201065"
+
+msgctxt "98c43fca15bdc43c96111e2fb38d9d5b"
+msgid "ID=201066"
+msgstr "ID=201066"
+
+msgctxt "af97e1a6925ed12f887bc95aa212e2b7"
+msgid "ID=201067"
+msgstr "ID=201067"
+
+msgctxt "50580888c10792efd9d404631d121814"
+msgid "ID=201068"
+msgstr "ID=201068"
+
+msgctxt "785197316750363ff5a9be1df7775f25"
+msgid "ID=201069"
+msgstr "ID=201069"
+
+msgctxt "76ee4b7ec39dd6aa6b3c87440634bd13"
+msgid "ID=201070"
+msgstr "ID=201070"
+
+msgctxt "857c4061847ab168ce09162230af0357"
+msgid "운용부대 전차 수리병"
+msgstr "Lead Weapons Production Engineer"
+
+msgctxt "dda765abce9e27ba0c3ea4fc37540b54"
+msgid "ID=201071"
+msgstr "ID=201071"
+
+msgctxt "7ec4c32ce3191ba0a88497e13bb1c899"
+msgid "ID=201072"
+msgstr "ID=201072"
+
+msgctxt "59ba1ef43fe8ab5a9f4b65efe0764d01"
+msgid "ID=201073"
+msgstr "ID=201073"
+
+msgctxt "e4faaf327c05f9c112b3029866ba4d58"
+msgid "ID=201074"
+msgstr "ID=201074"
+
+msgctxt "fd03f457c4658c792b9744bc079d5213"
+msgid "ID=201075"
+msgstr "ID=201075"
+
+msgctxt "f61c4d667c993b4822bd45689a7c78d0"
+msgid "소속 미상"
+msgstr "Foreign Entity"
+
+msgctxt "00c595356f55544becc38c04e3ac3343"
+msgid "ID=201076"
+msgstr "ID=201076"
+
+msgctxt "86e0f72ead7d4868b1a6a6ae303b4415"
+msgid "중앙 제어 컴퓨터"
+msgstr "Central Control Computer"
+
+msgctxt "e0d3c9070a8658e8805a40383a6a24a5"
+msgid "ID=201077"
+msgstr "ID=201077"
+
+msgctxt "00673d05b99fa9c9b52220ad4381f875"
+msgid "데브 타운 주민"
+msgstr "Dave Town Resident"
+
+msgctxt "3b381d26cd8e936505d7eab6c80ccdd9"
+msgid "ID=201078"
+msgstr "ID=201078"
+
+msgctxt "45cad35ed97210e6aef7f8f59978d34e"
+msgid "ID=201079"
+msgstr "ID=201079"
+
+msgctxt "035f9e301e9e4b268201c62c527c06eb"
+msgid "ID=201080"
+msgstr "ID=201080"
+
+msgctxt "8e904eb36ca62b8c04b7b7e2811eaa4a"
+msgid "ID=201081"
+msgstr "ID=201081"
+
+msgctxt "ba200999f905f2912908f47ef9bedca4"
+msgid "ID=201082"
+msgstr "ID=201082"
+
+msgctxt "3e0bfd048a4eb724a02eedfa89988174"
+msgid "ID=201083"
+msgstr "ID=201083"
+
+msgctxt "4bb7bb7b517240820e5fc753989ab040"
+msgid "료코의 동생"
+msgstr "Ryoko's Sister"
+
+msgctxt "b9e75a32c7e9e624f22fdf0b23c039e6"
+msgid "ID=201084"
+msgstr "ID=201084"
+
+msgctxt "48cef661502c72c963e37a7bf8de5c09"
+msgid "슬퍼하는 미망인"
+msgstr "Grieving Widow"
+
+msgctxt "52fa20308420fc04d2a8da20af15e7bd"
+msgid "ID=201085"
+msgstr "ID=201085"
+
+msgctxt "67814c322701ca19d38cca97515a9774"
+msgid "최고의 아티스트"
+msgstr "First-Rate Artist"
+
+msgctxt "4712fcc1d462dfe58a0e39e1cec2491d"
+msgid "ID=201086"
+msgstr "ID=201086"
+
+msgctxt "d224cb06171b64a58f5aa09fe109bc7a"
+msgid "라이온 방송국 PD"
+msgstr "Lion TV PD"
+
+msgctxt "09509e0ac628dac12446f6eef3a7652d"
+msgid "ID=201087"
+msgstr "ID=201087"
+
+msgctxt "6d77b54a2add5cebd4064af1d5349d77"
+msgid "갈길잃은 의사"
+msgstr "Dr. Motomachi"
+
+msgctxt "72747d2b214c41f599a4a01b6a5d5e13"
+msgid "ID=201088"
+msgstr "ID=201088"
+
+msgctxt "97691077a82893f5c505938393ae8307"
+msgid "ID=201089"
+msgstr "ID=201089"
+
+msgctxt "c7c8c13f0b34ce927751661a4fc19f82"
+msgid "N.E.D컴퍼니 작업자"
+msgstr "N.E.D Company Worker"
+
+msgctxt "5b99ac8fa89190c94bada8ae4675164d"
+msgid "ID=201090"
+msgstr "ID=201090"
+
+msgctxt "709017c7bc11fbdb6fddcb2d96c2128d"
+msgid "강화 전문가"
+msgstr "Enhancement expert"
+
+msgctxt "86eb95ffa51b962d264a1eabcf6df25e"
+msgid "ID=201091"
+msgstr "ID=201091"
+
+msgctxt "90e24f793776f3f7c3b0088839d423ae"
+msgid "오토바이크 기사"
+msgstr "Motorcycle Technician"
+
+msgctxt "ec048b754ac320a4d6239a2a488b93f4"
+msgid "ID=201092"
+msgstr "ID=201092"
+
+msgctxt "ab89aedfaff24ab9ae3f83a822b90f06"
+msgid "제작 전문가"
+msgstr "Craftsman"
+
+msgctxt "2012cf1177c003b82902b6e80166ac25"
+msgid "ID=201093"
+msgstr "ID=201093"
+
+msgctxt "6b66a3cb2377e82173df202738be3448"
+msgid "성실한 청년"
+msgstr "Honorable Young Man"
+
+msgctxt "f45410f210100e02c7677272d066acfd"
+msgid "ID=201094"
+msgstr "ID=201094"
+
+msgctxt "499bd7d05860528a00ae78c73704cbb4"
+msgid "고향을 찾아온 여자"
+msgstr "A visiting woman"
+
+msgctxt "dc8d36fa2f830f2c765861657185889a"
+msgid "ID=201095"
+msgstr "ID=201095"
+
+msgctxt "a905e8239fcf470d8d05036d7f2f5aca"
+msgid "숨어버린 남자"
+msgstr "Man who hid himself"
+
+msgctxt "6af43e18f906d96cecc00f34163f9b69"
+msgid "ID=201096"
+msgstr "ID=201096"
+
+msgctxt "997d1469385b8ae6b9c868a3610bbb78"
+msgid "굴지의 카메라맨"
+msgstr "Top photographer"
+
+msgctxt "555acfe82769ffcf17ea5c14964c5726"
+msgid "ID=201097"
+msgstr "ID=201097"
+
+msgctxt "35d81bd0eb4c1744f2142b198d53da5c"
+msgid "ID=201098"
+msgstr "ID=201098"
+
+msgctxt "df015f6363e0925f66cb9bf70ea0f696"
+msgid "ID=201099"
+msgstr "ID=201099"
+
+msgctxt "6b7ccceac83e9053d4f0c09ab26f5fd1"
+msgid "ID=201100"
+msgstr "ID=201100"
+
+msgctxt "77f8886722ecd7496bb05b43b1eb2867"
+msgid "ID=201101"
+msgstr "ID=201101"
+
+msgctxt "b27e113404de5f16524a8e063368f2af"
+msgid "서부부대 대대장"
+msgstr "Western Squad Commander"
+
+msgctxt "413587568be5945d90987de8f2566e7e"
+msgid "ID=201102"
+msgstr "ID=201102"
+
+msgctxt "75ed466838451a98c97f6f1b12a13658"
+msgid "헬리콥터 파일럿"
+msgstr "Helicopter Pilot"
+
+msgctxt "dcedfdb2001362ac1cb7fc5d7f5037bc"
+msgid "ID=201103"
+msgstr "ID=201103"
+
+msgctxt "3b886771b9bafd3b8bd4dca044ee6255"
+msgid "고아원장"
+msgstr "Nursing Director"
+
+msgctxt "8fb80438a642147c438344300f6b768d"
+msgid "ID=201104"
+msgstr "ID=201104"
+
+msgctxt "4d627092904cfc9c1a8d524d3f0142b3"
+msgid "부유한 도련님"
+msgstr "Intrusive Young Lad"
+
+msgctxt "370590572fb6d4095de7d88492c913f1"
+msgid "ID=201105"
+msgstr "ID=201105"
+
+msgctxt "64e71a9626bc8c4c8ce05e42b0ad113e"
+msgid "심술궂은 꼬맹이"
+msgstr "A Precocious Girl"
+
+msgctxt "62f1bc407321ec600d30192e4571a030"
+msgid "ID=201106"
+msgstr "ID=201106"
+
+msgctxt "247b33a9fecdce65149bb80318a4209d"
+msgid "방어 설비 담당자"
+msgstr "Defense Facilities Personnel"
+
+msgctxt "bdde9594f0e5ce106bd2036846ce81d2"
+msgid "ID=201107"
+msgstr "ID=201107"
+
+msgctxt "46446b8bb0410c731aaca80d88357a67"
+msgid "골든 리트리버"
+msgstr "Golden Retriever"
+
+msgctxt "408b5315d940b3bb9bb55b13942cef55"
+msgid "ID=201108"
+msgstr "ID=201108"
+
+msgctxt "fb5ee20aefe07d1278ab26468ca1d9be"
+msgid "공격부대원"
+msgstr "Attack Squad Member"
+
+msgctxt "ebb8d21ed4aef83b3d95d943d55aa201"
+msgid "ID=201109"
+msgstr "ID=201109"
+
+msgctxt "257124f1ce52d531e6fd2980e6a2526d"
+msgid "ID=201110"
+msgstr "ID=201110"
+
+msgctxt "2d4d2a2916e93e4a26fc28f45b5e3ff2"
+msgid "ID=201111"
+msgstr "ID=201111"
+
+msgctxt "0dd962abd49bd6709489651d1ed19e45"
+msgid "ID=201112"
+msgstr "ID=201112"
+
+msgctxt "5fdc761a429d8c1222bdfdb28d9895b9"
+msgid "탐색부대 지휘자"
+msgstr "Reconnaissance Squad Commander"
+
+msgctxt "d37823c9a70845de5cf37c23f6c1591c"
+msgid "ID=201113"
+msgstr "ID=201113"
+
+msgctxt "33b7ce5221f16114236d5376889daafe"
+msgid "역전의 용사"
+msgstr "Combat Veteran"
+
+msgctxt "4b43d7603eb59f520ff18280f89da2cd"
+msgid "ID=201114"
+msgstr "ID=201114"
+
+msgctxt "29b4951b0016f4630e455dcfa47fb4c4"
+msgid "통신소대장"
+msgstr "Communications Captain"
+
+msgctxt "e49ed73cb8dbc593c45d3e2414d4f702"
+msgid "ID=201115"
+msgstr "ID=201115"
+
+msgctxt "d4e646f85a8030aea0132015ea2d46b7"
+msgid "전 N.E.D 인프라 직원"
+msgstr "Former N.E.D Infrastructure Staff"
+
+msgctxt "e96ef8fcccebd2d6af49f5ec5ee602f5"
+msgid "ID=201116"
+msgstr "ID=201116"
+
+msgctxt "7e7f1eb7dd79259d95f34a425b116c15"
+msgid "운용부대 수리장교"
+msgstr "Maintenance Operations Officer"
+
+msgctxt "1ad05550ee7164028f07da11983907a0"
+msgid "ID=201117"
+msgstr "ID=201117"
+
+msgctxt "d8158b08342257bc9add5240c11b796e"
+msgid "속죄하는 남자"
+msgstr "A Guilty Man"
+
+msgctxt "d64a844c9fad88cdc2e18cdda31cd2d9"
+msgid "ID=201118"
+msgstr "ID=201118"
+
+msgctxt "6e80ca22ce05bf41b0934ccad1632921"
+msgid "니어 소울워커"
+msgstr "Blood SoulWorker"
+
+msgctxt "4f3dbac04baa2ceba76556d948157d1c"
+msgid "ID=201119"
+msgstr "ID=201119"
+
+msgctxt "4b7d37459050b706fb8c1fee7f4313ea"
+msgid "데미 갓"
+msgstr "Demigod"
+
+msgctxt "cfbcc09e3f9540f2b5bc17ecb4e7843c"
+msgid "ID=201120"
+msgstr "ID=201120"
+
+msgctxt "83ead4e24dc61911eea6bd12cd0053ae"
+msgid "S.T.Lab 차석박사"
+msgstr "S.T. Lab Vice Director"
+
+msgctxt "c0a2f236b87f4c6a839cb4ff340621bb"
+msgid "ID=201121"
+msgstr "ID=201121"
+
+msgctxt "d1f9ce595dca165c55a09b7493967635"
+msgid "통신부대원"
+msgstr "Communications Officer"
+
+msgctxt "f4802005df5bf3523572595e47c66735"
+msgid "ID=201122"
+msgstr "ID=201122"
+
+msgctxt "0045d8853bf046072b71cc7326a9f7bb"
+msgid "자동 청소 로봇"
+msgstr "Automatic Cleaning Robot"
+
+msgctxt "bbccf18d3afbe6ce969a7e86d7d18d50"
+msgid "ID=201123"
+msgstr "ID=201123"
+
+msgctxt "ec0c7a82e1508797785d16513250625d"
+msgid "고성능 A.I"
+msgstr "High-performance A.I"
+
+msgctxt "2c35c57319970df78103522e02fe9be0"
+msgid "ID=201124"
+msgstr "ID=201124"
+
+msgctxt "4ad8a827b71b734277ec968646e1379c"
+msgid "소울리스트"
+msgstr "Soul Manipulator"
+
+msgctxt "64cdd0804c2ab23cf6e3bdb7d6f7ea33"
+msgid "ID=201125"
+msgstr "ID=201125"
+
+msgctxt "31ad7d5fac6fcb95ea05d83f39847ebd"
+msgid "리그 관리인"
+msgstr "Guild Manager"
+
+msgctxt "91ea258f0670ccada2d3276996d96fed"
+msgid "ID=201126"
+msgstr "ID=201126"
+
+msgctxt "59ef10f96ba7daf3bba7748b287eb86e"
+msgid "N.B.R.F"
+msgstr "N.B.R.F"
+
+msgctxt "3b3c1d334810774d1d99c80f203356ab"
+msgid "ID=201127"
+msgstr "ID=201127"
+
+msgctxt "5313f70ed696786aefb4be4eade80581"
+msgid "컨트롤 베이스 메인 A.I"
+msgstr "Semiautonomous A.I"
+
+msgctxt "944c526e89788bbdc03ba0418bf0cb0b"
+msgid "ID=201128"
+msgstr "ID=201128"
+
+msgctxt "e7fa59931879679dc9b3203ddab1999c"
+msgid "전장 관리인"
+msgstr "Battlefield Administrator"
+
+msgctxt "0f0d0ee7596a5f489bdbabdb48a0d9b6"
+msgid "ID=201129"
+msgstr "ID=201129"
+
+msgctxt "fdbdbb09cc86fa7c8ff218f50b2b65de"
+msgid "무기상점"
+msgstr "Equipment Shop"
+
+msgctxt "7df2da4f062482f90beb1f62926b5c33"
+msgid "ID=201130"
+msgstr "ID=201130"
+
+msgctxt "fce4d71c6c48a494b9992f003559b663"
+msgid "잡화상점"
+msgstr "Grocery Store"
+
+msgctxt "e56d3f39669023fb10fbd335a0039218"
+msgid "ID=201131"
+msgstr "ID=201131"
+
+msgctxt "ff9c81c7a050dfb7d475fddb5a1f333a"
+msgid "은행원"
+msgstr "Bank Teller"
+
+msgctxt "2d838c02950ab933e4c8b5a9d2ed80e3"
+msgid "ID=201132"
+msgstr "ID=201132"
+
+msgctxt "26e066bc01fe7b7c7d996d673988f4e9"
+msgid "퀘스트NPC"
+msgstr "Quest NPC"
+
+msgctxt "5c8b7f50723b3797e5afc4192873f5ac"
+msgid "ID=201133"
+msgstr "ID=201133"
+
+msgctxt "c56b5601637b8b2fa9905f9e761d7b7e"
+msgid "우편기기"
+msgstr "Mail Device"
+
+msgctxt "0e8032238106f844716854afec1b6d83"
+msgid "ID=201134"
+msgstr "ID=201134"
+
+msgctxt "00ffe89c82dcfd2ef6d93c6296d4e90b"
+msgid "혼자 남은 소년"
+msgstr "Remaining Boy"
+
+msgctxt "11659d79a73589ac8f778b0b3dfe5efb"
+msgid "ID=201139"
+msgstr "ID=201139"
+
+msgctxt "6f4c63ed13401970750de79823746459"
+msgid "ID=201140"
+msgstr "ID=201140"
+
+msgctxt "b311320d30acf464be2bf66c093aa85e"
+msgid "ID=201141"
+msgstr "ID=201141"
+
+msgctxt "73047374fd1fe7eae1c99be2c53c28d4"
+msgid "ID=201142"
+msgstr "ID=201142"
+
+msgctxt "b7db1167c273b5e0d1951ae8c109a695"
+msgid "아론의 딸"
+msgstr "Aaron's Daughter"
+
+msgctxt "6e6d80961df5bfa8f98000797e597bac"
+msgid "ID=201143"
+msgstr "ID=201143"
+
+msgctxt "2bd87f4ea9797544544065457eb1558c"
+msgid "밀랍 인형"
+msgstr "Wax model"
+
+msgctxt "3a1a0784774c4ce7f8112f3fdcd50aa4"
+msgid "ID=201144"
+msgstr "ID=201144"
+
+msgctxt "51bf451785edc60d01280a5c3a88f401"
+msgid "ID=201145"
+msgstr "ID=201145"
+
+msgctxt "a983c7b0e43e5c181750403b7fbfb0d7"
+msgid "ID=201146"
+msgstr "ID=201146"
+
+msgctxt "2b2574c2bf50c53cb15fcee5954dd71b"
+msgid "ID=201147"
+msgstr "ID=201147"
+
+msgctxt "5ab06f308ada66b042c18eef5924de29"
+msgid "네브"
+msgstr "Nave"
+
+msgctxt "9ce94dca2429ef5b3a95aabcf6bb638a"
+msgid "ID=201148"
+msgstr "ID=201148"
+
+msgctxt "20282c44446b7a15b454b10c1cf47c72"
+msgid "아진"
+msgstr "Azin"
+
+msgctxt "413267374bd3a45c0afc1855379fb055"
+msgid "ID=201149"
+msgstr "ID=201149"
+
+msgctxt "24cb4a064fa25451486c86e1ff3bf3d6"
+msgid "부커TV"
+msgstr "Booker TV"
+
+msgctxt "39f8711496bab0f5a0adff3fabed342f"
+msgid "ID=201150"
+msgstr "ID=201150"
+
+msgctxt "4e57bdf52a6b720b04108a55a45599cd"
+msgid "빌리"
+msgstr "Billy"
+
+msgctxt "9ecd29cad306cf43797c82c1fda984fd"
+msgid "ID=201151"
+msgstr "ID=201151"
+
+msgctxt "89d2b86b05c1c3fd8f5a71dfd797aa82"
+msgid "수수께끼의 대부호"
+msgstr "Mysterious Millionaire"
+
+msgctxt "1d8b712c580139f62d01f0e69460f4e0"
+msgid "ID=201152"
+msgstr "ID=201152"
+
+msgctxt "2bed1238dc8ba45ffa57bb102bbab3df"
+msgid "ID=201153"
+msgstr "ID=201153"
+
+msgctxt "4fc8d72b38f474242d7c58daf688de69"
+msgid "부커스 핸드"
+msgstr "Booker's Hand Gang"
+
+msgctxt "99f1a83c215c8b6389e619818be147c4"
+msgid "ID=201154"
+msgstr "ID=201154"
+
+msgctxt "dfe3dfae3f960c6a31af16524db88771"
+msgid "별숲리그 파일럿"
+msgstr "Star Forest League Pilot"
+
+msgctxt "3e115e772d55093e3993cc9ea0f15a12"
+msgid "ID=201155"
+msgstr "ID=201155"
+
+msgctxt "f7c960330215df852c503d9b9e80e7cd"
+msgid "아카식 레코드 기술자"
+msgstr "Akashik Record Engineer"
+
+msgctxt "0d34794743b9789ea626bb7a7f86aa0f"
+msgid "ID=201156"
+msgstr "ID=201156"
+
+msgctxt "ae2ea8e311da5fdff806cb3dbd9c5acc"
+msgid "포이즌"
+msgstr "Poison"
+
+msgctxt "c1d212588b4036c624e9a2c07bfc6d17"
+msgid "ID=201157"
+msgstr "ID=201157"
+
+msgctxt "21ae4a52ea290fef70887a03e7973aa6"
+msgid "라반"
+msgstr "Laban"
+
+msgctxt "fc8ac346db4b5ba5fce9a36d8c6ab993"
+msgid "ID=101225"
+msgstr "ID=101225"
+
+msgctxt "1267cef701e4f0cecdb76b2a23554b33"
+msgid "노아"
+msgstr "Noah"
+
+msgctxt "c93a60fdc43f7384ca38bc6d7e799d28"
+msgid "ID=101226"
+msgstr "ID=101226"
+
+msgctxt "827f09a41c8640aca02c487f2b2a45a9"
+msgid "에녹"
+msgstr "Enoch"
+
+msgctxt "3062ca4ea43673c5b54c72aee718c68f"
+msgid "ID=101238"
+msgstr "ID=101238"
+
+msgctxt "58bf4814be84672386a0597b876f0bd5"
+msgid "ID=101239"
+msgstr "ID=101239"
+
+msgctxt "f0f0f0f8c4593a81dcf994292a71f324"
+msgid "ID=201160"
+msgstr "ID=201160"
+
+msgctxt "1122cd652685e3bf30d6be0bc0cb5db3"
+msgid "리그 관리"
+msgstr "Guild Manager"
+
+msgctxt "02fac65d4b9767ae6ab228211e310d22"
+msgid "ID=101240"
+msgstr "ID=101240"
+
+msgctxt "e7a7b73d149d389385fba132f57df87e"
+msgid "믹스 마스터 Ver.W"
+msgstr "Mixmaster Ver. W"
+
+msgctxt "95c3e396adbfc40647fb708c2f259754"
+msgid "ID=101241"
+msgstr "ID=101241"
+
+msgctxt "1c1c5114098309dfd23923813ed46498"
+msgid "믹스 마스터 Ver.B"
+msgstr "Mixmaster Ver. B"
+
+msgctxt "fb1bd502d63f27df9afa45443d2a3bf3"
+msgid "ID=201240"
+msgstr "ID=201240"
+
+msgctxt "620023162cd22587e34920cb14e3a090"
+msgid "가공 머신"
+msgstr "Processing Machine"
+
+msgctxt "dc7a44929bdb6e695baab8e36ec36bda"
+msgid "ID=101249"
+msgstr "ID=101249"
+
+msgctxt "f027abe4eafd3e6c8f97c9b91529e7d7"
+msgid "시온"
+msgstr "Shion"
+
+msgctxt "e929bfa11758c841d0abe1b07bc43d02"
+msgid "ID=101250"
+msgstr "ID=101250"
+
+msgctxt "ddc0055b011faea5e9466fbb178e9fd7"
+msgid "그루톤"
+msgstr "Glutton"
+
+msgctxt "e462affea9517c6d980ab0fd2388f946"
+msgid "ID=101272"
+msgstr "ID=101272"
+
+msgctxt "f2d223187e51eb6548aadd88810c4121"
+msgid "ID=201250"
+msgstr "ID=201250"
+
+msgctxt "9ac1f7bbf3bbe25c0f86d000ec3e492e"
+msgid "그루톤 코인샵"
+msgstr "Glutton Coin Shop"
+
+msgctxt "034f4b1004791b04ef1d95172c83a656"
+msgid "ID=101311"
+msgstr "ID=101311"
+
+msgctxt "a65116fcd466b168ce034be4fb24cc4c"
+msgid "마이룸 키퍼"
+msgstr "My Room Keeper"
+
+msgctxt "4a278e9c55a1f8006eb2c93df7f07a92"
+msgid "ID=201251"
+msgstr "ID=201251"
+
+msgctxt "0daa94caab9b2c22545bb7a9853dcb54"
+msgid "마이룸 관리"
+msgstr "My Room Management"
+
+msgctxt "67171d3bf1bfcb2c78da8b124e29f1d1"
+msgid "ID=201252"
+msgstr "ID=201252"
+
+msgctxt "402cf3fcf8c81ad3e519b9cd8cff4463"
+msgid "ID=201253"
+msgstr "ID=201253"
+
+msgctxt "8ff52aacbc8f13c252fb6edf6d4ac5e9"
+msgid "ID=201254"
+msgstr "ID=201254"
+
+msgctxt "67b777c431538711af8d1be9c6760207"
+msgid "전투 보급병"
+msgstr "Battle Supplies Soldier"
+
+msgctxt "15b3588f5c05cde073903fb736a4e993"
+msgid "ID=201255"
+msgstr "ID=201255"
+
+msgctxt "096f79fa2ed946c64542334bf2934de9"
+msgid "제노 코인 교환병"
+msgstr "Xeno Coin Exchange Soldier"
+
+msgctxt "021048c51eff58a3d17267bb39725364"
+msgid "ID=101257"
+msgstr "ID=101257"
+
+msgctxt "2fc35d8ee1af754acdd6f8a1ec8f1bd6"
+msgid "코스튬 염색"
+msgstr "Costume Dye Tool"
+
+msgctxt "8d169e646ec1724346a0fb067ac82b54"
+msgid "ID=201262"
+msgstr "ID=201262"
+
+msgctxt "1b76faec2858b902d77ee75e9b71a884"
+msgid "ID=101251"
+msgstr "ID=101251"
+
+msgctxt "97d6af0bf03e9899999cd25de7137bc2"
+msgid "테네브리스"
+msgstr "Tenebris"
+
+msgctxt "766339c86c2e4c1654a34656f83386dd"
+msgid "ID=101252"
+msgstr "ID=101252"
+
+msgctxt "b93465f47915965d00faea30ac0fa269"
+msgid "ID=101253"
+msgstr "ID=101253"
+
+msgctxt "f920275c061d4471b14abe3b05379174"
+msgid "ID=101254"
+msgstr "ID=101254"
+
+msgctxt "0dc72b347931b07da4773542cd174d4e"
+msgid "ID=101255"
+msgstr "ID=101255"
+
+msgctxt "e89a3b1e6f2cc5cb7a94b446a30a614b"
+msgid "ID=101256"
+msgstr "ID=101256"
+
+msgctxt "393244ac8385c04f3fdab11002025541"
+msgid "ID=101258"
+msgstr "ID=101258"
+
+msgctxt "23fadaaf2db1df094a2afe647708dfaa"
+msgid "그림자"
+msgstr "Shadow"
+
+msgctxt "a0b79f57de812a9560ff26d0f866d286"
+msgid "ID=101259"
+msgstr "ID=101259"
+
+msgctxt "495877e001da7d599e0d0bcb15f72cb1"
+msgid "ID=101260"
+msgstr "ID=101260"
+
+msgctxt "b25f7fa0e1e82cebdc27eb3297b96cff"
+msgid "ID=101261"
+msgstr "ID=101261"
+
+msgctxt "40644ea04f2c5d027f9ef3c43608f997"
+msgid "ID=101262"
+msgstr "ID=101262"
+
+msgctxt "c094c98b460655ebae4b591adc0e88c6"
+msgid "ID=101263"
+msgstr "ID=101263"
+
+msgctxt "1eb9e1c3e2663b0e2036c6f9f85b2b03"
+msgid "ID=201256"
+msgstr "ID=201256"
+
+msgctxt "cafd270acf1f38dae778ad028519c9ae"
+msgid "전설의 소울워커"
+msgstr "Legendary SoulWorker"
+
+msgctxt "b5ecf920ea2a1812e9875206f0993fec"
+msgid "ID=201257"
+msgstr "ID=201257"
+
+msgctxt "c4e0de2e253622c1ce98c7e1146a6b83"
+msgid "공백 수색부대 지휘관"
+msgstr "Space Abnormality Investigation Team Leader"
+
+msgctxt "27ef3b9fa68bd4feae2454d510db4cda"
+msgid "ID=201258"
+msgstr "ID=201258"
+
+msgctxt "4027f9e451bf60b48e18ecc751a70069"
+msgid "공백 수색부대 통신반장"
+msgstr "Space Abnormality Investigation Squad Leader"
+
+msgctxt "b8793472e56badbbd9d7b45eaef71d90"
+msgid "ID=201259"
+msgstr "ID=201259"
+
+msgctxt "f040d417c8b9bfde84600cae30791b3f"
+msgid "포츈부대 공백 수색팀"
+msgstr "Fortune Squad"
+
+msgctxt "769ab183981dbe2b7f8453cf558aebe9"
+msgid "ID=201260"
+msgstr "ID=201260"
+
+msgctxt "855f4e046b88b29c5c1aa2d3cd908b24"
+msgid "당찬 무선병"
+msgstr "Confident Radio Soldier"
+
+msgctxt "bdb6f0dc8f26bbda4244bdc0989f9dc4"
+msgid "ID=201261"
+msgstr "ID=201261"
+
+msgctxt "760e85d76e1e42d1acd0611004eede8a"
+msgid "떠돌이 용병"
+msgstr "Wandering Mercenary"
+
+msgctxt "ac2f27bea98099b8d178393a4ca51b79"
+msgid "ID=201263"
+msgstr "ID=201263"
+
+msgctxt "79d26572f8c3e7382acd8c3c48bb3461"
+msgid "하루의 모습을 한 무언가"
+msgstr "Person Who Took the Shape of Haru"
+
+msgctxt "4e7d2a8e22e96841f483d3f633301ea3"
+msgid "ID=201264"
+msgstr "ID=201264"
+
+msgctxt "0d1b08c34858921bc7c662b228acb7ba"
+msgid "???"
+msgstr "???"
+
+msgctxt "477e61ede9f06400eeb4285f42ca20cd"
+msgid "ID=201265"
+msgstr "ID=201265"
+
+msgctxt "f96b08f16ac0b0706e36a59df0e40068"
+msgid "어윈의 모습을 한 무언가"
+msgstr "Person Who Took the Shape of Erwin"
+
+msgctxt "72e84ad9f4765a059581c4cc33daeb1d"
+msgid "ID=201266"
+msgstr "ID=201266"
+
+msgctxt "f339d85fe74a287fc403a3f9b6bdb942"
+msgid "릴리의 모습을 한 무언가"
+msgstr "Person Who Took the Shape of Lily"
+
+msgctxt "0883b57dcffb9d32b2c244515222e075"
+msgid "ID=201267"
+msgstr "ID=201267"
+
+msgctxt "346272847e8699243653be5b5fb1d569"
+msgid "진의 모습을 한 무언가"
+msgstr "Person Who Took the Shape of Jin"
+
+msgctxt "142355354b5636cf84d37db2c867cfd9"
+msgid "ID=201268"
+msgstr "ID=201268"
+
+msgctxt "75701bb35832c046b7b481d1fd4c2858"
+msgid "스텔라의 모습을 한 무언가"
+msgstr "Person Who Took the Shape of Stella"
+
+msgctxt "acc49fc7d061c1b2c26d027b75787c89"
+msgid "ID=201269"
+msgstr "ID=201269"
+
+msgctxt "3d24178f805ad8fbaec0c7a0669140af"
+msgid "이리스의 모습을 한 무언가"
+msgstr "Person Who Took the Shape of Iris"
+
+msgctxt "28d1510cbffc509ab98638b1636a1888"
+msgid "ID=101310"
+msgstr "ID=101310"
+
+msgctxt "ed13dc73c7d624fdedfc7342ad3ff1aa"
+msgid "ID=101312"
+msgstr "ID=101312"
+
+msgctxt "938daf1c185617f0d696624f0f3e978a"
+msgid "ID=101313"
+msgstr "ID=101313"
+
+msgctxt "77e9b4e772bce3c39a83194e7bc694b4"
+msgid "E.S.P 부대 병사"
+msgstr "E.S.P Squad Soldier"
+
+msgctxt "3e9a445ebf2614fa68ee3172a7c50049"
+msgid "ID=101314"
+msgstr "ID=101314"
+
+msgctxt "fc1f8c20a320969c4bbaaee431dc2e4a"
+msgid "ID=101315"
+msgstr "ID=101315"
+
+msgctxt "91574d7853f73774c63ec94db247789c"
+msgid "ID=101316"
+msgstr "ID=101316"
+
+msgctxt "2d3d4106cdfa8d8ce0ee9c38ecc61335"
+msgid "ID=101317"
+msgstr "ID=101317"
+
+msgctxt "ca1353cdec41d7524b0191583ac12a5b"
+msgid "ID=101318"
+msgstr "ID=101318"
+
+msgctxt "f60454728f7cfadff87c66f592e3c99f"
+msgid "로드"
+msgstr "Road"
+
+msgctxt "f20f61e004dd104554b7f9341326b632"
+msgid "ID=101319"
+msgstr "ID=101319"
+
+msgctxt "38aa84210c22eaad4324874be1ece82f"
+msgid "ID=201270"
+msgstr "ID=201270"
+
+msgctxt "52a351581de04463fa5c7bdd1e42c0c0"
+msgid "힘을 잃은 소울워커"
+msgstr "Strength Deprived SoulWorker"
+
+msgctxt "c70af3e4f9fb775abede6578d2eb3798"
+msgid "ID=201271"
+msgstr "ID=201271"
+
+msgctxt "6c414785da6ff097409d085864dc941b"
+msgid "공백 수색부대 연구원"
+msgstr "Blank Search Squad Researcher"
+
+msgctxt "d937085b30c63b7ac61847b19ee66493"
+msgid "ID=201272"
+msgstr "ID=201272"
+
+msgctxt "2876fc8c822346b3a64e4eb115bb8882"
+msgid "부상"
+msgstr "Injured Person"
+
+msgctxt "e1a7a0b3a1171165c3521c00f8b4fe1f"
+msgid "ID=201273"
+msgstr "ID=201273"
+
+msgctxt "34d571779b6935ff356419273337e0a4"
+msgid "ID=201274"
+msgstr "ID=201274"
+
+msgctxt "0e251fea8aacc8fdc8f0a5bae9fa7fe4"
+msgid "정신 이상"
+msgstr "Mentally Unstable Person"
+
+msgctxt "5d835e86326b44a28627b49f65e0abe1"
+msgid "ID=201275"
+msgstr "ID=201275"
+
+msgctxt "5a310ee3952679adb4d4334396cde413"
+msgid "포츈부대 공백 지원팀"
+msgstr "Fortune Squad Blank Support Team"
+
+msgctxt "f34bdb796a46596e842f3abf20b48055"
+msgid "ID=201276"
+msgstr "ID=201276"
+
+msgctxt "d45abb163547c7d5b46ebc8e24c8bcfe"
+msgid "언제나 살아남는 병사"
+msgstr "Combat Veteran"
+
+msgctxt "88883220421bc062ff97cd2bbabe8716"
+msgid "ID=201277"
+msgstr "ID=201277"
+
+msgctxt "58a9eedb0ab1800ed5e0f06ef7a9207e"
+msgid "쓰러진 데자이어 워커"
+msgstr "Collapsed Desire Worker"
+
+msgctxt "5cea747fb4ff193ad7b880fb0a013cbb"
+msgid "ID=101330"
+msgstr "ID=101330"
+
+msgctxt "61a23b45623324aaa567e37a998490c8"
+msgid "아쿠아그루톤"
+msgstr "Aqua Glutton"
+
+msgctxt "65d6388ba57b5661653d86b86c8c89f6"
+msgid "ID=201282"
+msgstr "ID=201282"
+
+msgctxt "4a21d5038aa21f382e05b153be0184a4"
+msgid "럼블베케이션 진행그루톤"
+msgstr "Glutton to Move to Rumble Vacation"
+
+msgctxt "5ce8d21b85202d93e64a9154f04a9725"
+msgid "ID=100000"
+msgstr "ID=100000"
+
+msgctxt "f8e6c035becf40ac6dee2443f210af48"
+msgid "ID=201158"
+msgstr "ID=201158"
+
+msgctxt "d6bfc4625abe523fd50d7b8f6b62efaf"
+msgid "헤비기어즈 기술 지원 간부"
+msgstr "Lead Weapons Production Engineer"
+
+msgctxt "6e5473640680aa004ae9fa201ed6c166"
+msgid "ID=101338"
+msgstr "ID=101338"
+
+msgctxt "5a4eb5ee6ff13fb4b3f5063dabae7888"
+msgid "테네브리스의 환영"
+msgstr "Tenebris Phantom"
+
+msgctxt "b4c5e1a1f69d8e0fb887ac90ccb40696"
+msgid "ID=101339"
+msgstr "ID=101339"
+
+msgctxt "7d0ef36e0bf18af99b14cf8af3830e01"
+msgid "더럽혀진 책장"
+msgstr "Stained Bookcase"
+
+msgctxt "ff49ab346fb449041ba753c8077c039d"
+msgid "ID=101341"
+msgstr "ID=101341"
+
+msgctxt "6a588d9ef251f765b649b6b547561a09"
+msgid "붉은빛의 고서"
+msgstr "Old Shining Red Book"
+
+msgctxt "9f9f43ee417f6eba4cafa53e78a129c0"
+msgid "ID=101342"
+msgstr "ID=101342"
+
+msgctxt "2400823bf0bc6c1138b5315840f98b7d"
+msgid "보라빛의 고서"
+msgstr "Old Violet Book"
+
+msgctxt "d6a1005f4490ca5fba03cf9a82441cdd"
+msgid "ID=201338"
+msgstr "ID=201338"
+
+msgctxt "f7aa7196e8a5cf38ea1f9bed705c900a"
+msgid "전설의 소울워커?"
+msgstr "Legendary SoulWorker?"
+
+msgctxt "840cd4ccd8fb1f9ed4a7267c72fa01c7"
+msgid "ID=201339"
+msgstr "ID=201339"
+
+msgctxt "d0bba5825eefd2e118e92f053d699d21"
+msgid "책장 형태의 환상"
+msgstr "Bookcase's Phantom"
+
+msgctxt "42233f9f4d363a206a3af2f4de79b351"
+msgid "ID=201341"
+msgstr "ID=201341"
+
+msgctxt "8485b6515bea9869e6e579cf3aa3f807"
+msgid "책 형태의 환상"
+msgstr "Book's Phantom"
+
+msgctxt "bbed2a2abbb0bee9b440a29f73b0eb57"
+msgid "ID=101343"
+msgstr "ID=101343"
+
+msgctxt "1d717b63802569394a0bb1b71f3f1203"
+msgid "하루"
+msgstr "Haru"
+
+msgctxt "7cc2cdc5b0f491b50aee34e0757d274b"
+msgid "ID=101344"
+msgstr "ID=101344"
+
+msgctxt "6e0735b2af07d722e4d829950c46b2fe"
+msgid "어윈"
+msgstr "Erwin"
+
+msgctxt "c136a21b9b1898c7e55f647170d2f2e9"
+msgid "ID=101345"
+msgstr "ID=101345"
+
+msgctxt "cd7ae9d8b8c92fc9b12e28589e8114a3"
+msgid "릴리"
+msgstr "Lily "
+
+msgctxt "2c0dc6086cabf12faf1a292b5cd077ba"
+msgid "ID=101346"
+msgstr "ID=101346"
+
+msgctxt "fea1a5fc3ecbd1d0cd187a957816ce47"
+msgid "진"
+msgstr "Jin"
+
+msgctxt "1427ea621976c33aafd417ed9bb9c33a"
+msgid "ID=101347"
+msgstr "ID=101347"
+
+msgctxt "0fc9f1132d7225b6f0a4ac4f70f49b93"
+msgid "스텔라"
+msgstr "Stella"
+
+msgctxt "cb1ba26d1660e39bf1f1bf2642dd7252"
+msgid "ID=101348"
+msgstr "ID=101348"
+
+msgctxt "7b1b581efa878a89d79ad287373a98ab"
+msgid "이리스"
+msgstr "Iris"
+
+msgctxt "112d72f51abc41c4cbfe956edcac3a72"
+msgid "ID=101349"
+msgstr "ID=101349"
+
+msgctxt "7905227d35d3d0511a968af77e5feb67"
+msgid "켄트"
+msgstr "Kent"
+
+msgctxt "b3b65ceacb1ec2b523a4aee14034ace3"
+msgid "ID=101350"
+msgstr "ID=101350"
+
+msgctxt "a71dd589e08c28d29ac59cc0cd2f8017"
+msgid "레르펜느"
+msgstr "Lerfenne"
+
+msgctxt "f9e7c9394f0f53541c0be7bfb33cddaa"
+msgid "ID=101351"
+msgstr "ID=101351"
+
+msgctxt "6b1df073b2969e5e3277781296ebac71"
+msgid "어린 캐서린"
+msgstr "Young Catherine"
+
+msgctxt "20a7f62706452fd93e563b4d2e47439c"
+msgid "ID=201278"
+msgstr "ID=201278"
+
+msgctxt "01aec4f2e4cdfd631717ef5c4ff1890e"
+msgid "분노에 빠진 지휘관"
+msgstr "Angry Commander"
+
+msgctxt "0fd8b5af1093faf64902387938f585e5"
+msgid "ID=201279"
+msgstr "ID=201279"
+
+msgctxt "f8f96d77077484a33506ffc82d2bfd94"
+msgid "위기에 맞서는 작전병"
+msgstr "Opponent in Crisis"
+
+msgctxt "c949bff371af63b024cce4d8d83cf54a"
+msgid "ID=201280"
+msgstr "ID=201280"
+
+msgctxt "63d38bd9bca250d94cdc5af956d1738f"
+msgid "소울정크 학살자"
+msgstr "Souljunk Slaughterer"
+
+msgctxt "d42e74c1d297eb4478b47b6b5b4be42d"
+msgid "ID=201281"
+msgstr "ID=201281"
+
+msgctxt "ae1837828ef9449149bbfa433a82c227"
+msgid "붙잡힌 베시 소녀"
+msgstr "Captured Betsy Girl"
+
+msgctxt "6f932996205d42a6f1da181ceb803504"
+msgid "ID=101242"
+msgstr "ID=101242"
+
+msgctxt "c6fdf3266b7a8e588812e2a4fa3fd7db"
+msgid "ID=101391"
+msgstr "ID=101391"
+
+msgctxt "18224582f0aa72a8fb2b91e2e4628d8b"
+msgid "그루웰"
+msgstr "Stained Bookcase"
+
+msgctxt "aae0a948fd4cdd2413034bebe2881550"
+msgid "ID=201391"
+msgstr "ID=201391"
+
+msgctxt "c9d6bc1c30922b4d389658806e2fae60"
+msgid "반란군 행동대장"
+msgstr "Rebel Army Behaviour Captain"
+
+msgctxt "a4e0c632687876c405ae7e25b31bc726"
+msgid "ID=201392"
+msgstr "ID=201392"
+
+msgctxt "db29b9ce05fdcc70888c030d032dc342"
+msgid "복수에 불타는 지휘관"
+msgstr "Commander Burning with Anger"
+
+msgctxt "9e7cd6466ec0e6322f96217d285b0643"
+msgid "ID=201393"
+msgstr "ID=201393"
+
+msgctxt "02eb2e1c961558b4965d79b13414dda8"
+msgid "쓰러짐"
+msgstr "Collapsing"
+
+msgctxt "41e170523630a8ff589ea5417b0ac4d1"
+msgid "ID=201405"
+msgstr "ID=201405"
+
+msgctxt "152f126a4f400f99d9a19c262a48c149"
+msgid "포스스트라이크 지휘관"
+msgstr "Force Strike Commander"
+
+msgctxt "7b45b2663a8d921f87c990edc399fd82"
+msgid "ID=201406"
+msgstr "ID=201406"
+
+msgctxt "bb219632e13651d1b2e82276ca60210c"
+msgid "포스스트라이크 작전병"
+msgstr "Force Strike Tactician"
+
+msgctxt "456d96002561c07de8208dc8d1b24c4b"
+msgid "ID=201407"
+msgstr "ID=201407"
+
+msgctxt "bc1179520caa39c9446f8ce5a8eb1acd"
+msgid "전장의 아이돌"
+msgstr "Battlefield's Idol"
+
+msgctxt "b7d70eb04b9e1d8ab54dab8003975043"
+msgid "ID=201408"
+msgstr "ID=201408"
+
+msgctxt "02ebf4e68b432c31c73121631d78e0b5"
+msgid "전장의 카메라맨"
+msgstr "Battlefield's Photographer"
+
+msgctxt "f661acfd7605c257dbecbc352e80535c"
+msgid "ID=201409"
+msgstr "ID=201409"
+
+msgctxt "7c5c5fc9f1b2977f220c0cbb12fbdfe7"
+msgid "파견온 성직자"
+msgstr "Dispatched Clergyman"
+
+msgctxt "1b3863600208111dc6751ce9f92350bb"
+msgid "ID=201410"
+msgstr "ID=201410"
+
+msgctxt "274cab4990e4118e6c959dec54964c13"
+msgid "민간지원 의사"
+msgstr "Civilian Supporters"
+
+msgctxt "218b5447def8da39d39ccdd97ab37049"
+msgid "ID=201411"
+msgstr "ID=201411"
+
+msgctxt "111588ae2a208e0c3ed7e5e0c3418178"
+msgid "네드 컴퍼니가 그리운 비서"
+msgstr "Nostalgic N.E.D Company Secretary"
+
+msgctxt "67adb8cd9c3f8c1f3b49a9a48fc21220"
+msgid "ID=101404"
+msgstr "ID=101404"
+
+msgctxt "0b577742fa556cb62f2e7d3b8019a46e"
+msgid "상인연합 워커지원기기"
+msgstr "Equipment Support Device"
+
+msgctxt "7dd413780c9bb41fe2f09d6e1114dfa6"
+msgid "ID=201404"
+msgstr "ID=201404"
+
+msgctxt "0b1b1fd313c6247aa34047a570cced20"
+msgid "거래 및 의뢰 진행"
+msgstr "Trade and Commission"
+
+msgctxt "585b0c79b567b64fe66a952fee691724"
+msgid "ID=101323"
+msgstr "ID=101323"
+
+msgctxt "0965442bfa1ed3fd1a05ab47c2859082"
+msgid "베네리스"
+msgstr "Beneris"
+
+msgctxt "145f1f493c6de0cbc08bbb9bfc45acd3"
+msgid "ID=201323"
+msgstr "ID=201323"
+
+msgctxt "f8da4d456aa92381d7dab0330e93067a"
+msgid "진실의 소울워커"
+msgstr "True Soul Worker"
+
+msgctxt "e8770e3a0de587fbd0e70f432cc95460"
+msgid "ID=101417"
+msgstr "ID=101417"
+
+msgctxt "04d88b9d1164710ff68bd6fed856e6fd"
+msgid "옷가지"
+msgstr "Clothes"
+
+msgctxt "efedabeb0b4821782ee943fbaa36fbec"
+msgid "ID=201417"
+msgstr "ID=201417"
+
+msgctxt "0535362ec97778ae4d7ad7d690cbe1f2"
+msgid "바닥에 널린 옷가지"
+msgstr "Clothes hanging on the floor"
+
+msgctxt "f9e3c2f5d2b70c019eafa45b35dfdf39"
+msgid "ID=100003"
+msgstr "ID=100003"
+
+msgctxt "a245e6fedccb429c3032c62dab658482"
+msgid "없음"
+msgstr "None"
+
+msgctxt "c4c6eec18778dcc8130a1592c2c6d33d"
+msgid "ID=201418"
+msgstr "ID=201418"
+
+msgctxt "4165fdcbe8ce059f8debfa2ecfe626bf"
+msgid "숨을 장소를 찾는 남자"
+msgstr "Man finding a place to hide"
+
+msgctxt "3f8a9d29054074432d496fdb35448b00"
+msgid "ID=201419"
+msgstr "ID=201419"
+
+msgctxt "98e241491f24359c9fdd956482c1bfa7"
+msgid "낙원을 꿈꾸는 여자"
+msgstr "Woman dreaming paradise"
+
+msgctxt "f63fcdea7164df148f22649ad6c0a4a8"
+msgid "ID=101329"
+msgstr "ID=101329"
+
+msgctxt "a839acace085b90d332bd4cdc83b38b8"
+msgid "아루아"
+msgstr "Arua"
+
+msgctxt "69038da2334f7b4c049375ec39c716cf"
+msgid "ID=101401"
+msgstr "ID=101401"
+
+msgctxt "583e8cbba2e225e30d1c30036d51f551"
+msgid "아큘러스"
+msgstr "Aculus"
+
+msgctxt "603126c10d07eaa97fead99eeff46719"
+msgid "ID=101402"
+msgstr "ID=101402"
+
+msgctxt "880193b2d767e2877a8f916550ea9a1e"
+msgid "니힐킹덤병사"
+msgstr "Kneehill Kingdom Soldier"
+
+msgctxt "99b2e3ad35ae5698ca53eb6e922215e9"
+msgid "ID=101403"
+msgstr "ID=101403"
+
+msgctxt "529639113e2c82355d2e447c1decb0ae"
+msgid "ID=201420"
+msgstr "ID=201420"
+
+msgctxt "7c32bde91ba6743bc275f42923b30e87"
+msgid "아루엘의 모습을 한 무언가"
+msgstr "Something like Arua"
+
+msgctxt "5fce025f21758fdc7563292b7ce5bbfd"
+msgid "ID=101431"
+msgstr "ID=101431"
+
+msgctxt "b0c1a42160fe8288726e896df43c5645"
+msgid "푸른빛의 고서"
+msgstr "Blue Tome"
+
+msgctxt "ce448812cadca3f130cdc8858322bbc8"
+msgid "ID=101432"
+msgstr "ID=101432"
+
+msgctxt "7393033e867e4541d67313e5b07bcfd7"
+msgid "노란빛의 고서"
+msgstr "Yellow Tome"
+
+msgctxt "ccbd375bdf6af5afde6ebb1335a187d9"
+msgid "ID=101444"
+msgstr "ID=101444"
+
+msgctxt "bc2d022f1072e0048944ee15c0fa7cee"
+msgid "요르하카"
+msgstr "Yorhaka"
+
+msgctxt "20695a390cc424032c0ecaa728c8fc15"
+msgid "ID=201444"
+msgstr "ID=201444"
+
+msgctxt "c1509ac4f135880071ae43f905966034"
+msgid "공허의 괴물"
+msgstr "Void Monster"
+
+msgctxt "b973c2f513c5ba916f59dfdc5f00bba5"
+msgid "ID=101447"
+msgstr "ID=101447"
+
+msgctxt "3c1dc0ba4261daab893aef9fac5fbc61"
+msgid "바버르"
+msgstr "Barber"
+
+msgctxt "98e84475f9e5c3f50afbef99d3718fb8"
+msgid "ID=101448"
+msgstr "ID=101448"
+
+msgctxt "462333a393786b42da04315c8e0059fb"
+msgid "ID=101471"
+msgstr "ID=101471"
+
+msgctxt "99eaa36bb4a37a143a9d7b35fc5bcd5c"
+msgid "플레마"
+msgstr "Plema"
+
+msgctxt "593978a5d5632cddfba2800c64dd1103"
+msgid "ID=101472"
+msgstr "ID=101472"
+
+msgctxt "d1f2059f8ebf116c43942ea6fe26ac29"
+msgid "ID=101473"
+msgstr "ID=101473"
+
+msgctxt "ec8a336d4630ff22d5117ec2402632ac"
+msgid "치이"
+msgstr "Chii"
+
+msgctxt "0d5253f7a0e464903ec3ecff971a7cf0"
+msgid "ID=101477"
+msgstr "ID=101477"
+
+msgctxt "5135d1b822fb51b0c4b7b26ea6177780"
+msgid "델티스"
+msgstr "Deltis"
+
+msgctxt "536b62499ef28c00264ac4b5b7b95c46"
+msgid "ID=201459"
+msgstr "ID=201459"
+
+msgctxt "f42c7dc3376ca5ec05b915a593cc8290"
+msgid "의문의 적"
+msgstr "Questionable Enemy"
+
+msgctxt "b4d56bd9e123dd9a6e387b6839aba018"
+msgid "ID=201462"
+msgstr "ID=201462"
+
+msgctxt "97cf8f76166d938a7b74901dd685018d"
+msgid "정의의 무언가"
+msgstr "Something of Justice"
+
+msgctxt "fc3dfd0a6c2f8292320926fa3088ced6"
+msgid "ID=201463"
+msgstr "ID=201463"
+
+msgctxt "8d136d114b725bdd306ce4508f2aa7b9"
+msgid "감정잃은 주시자"
+msgstr "The Unemotional Watcher"
+
+msgctxt "7c45c741ce31f2d4e90e2eab16d1b475"
+msgid "ID=201464"
+msgstr "ID=201464"
+
+msgctxt "b556d72526b4004c5e25d3a148af2c0d"
+msgid "포츈부대 전쟁 지원팀"
+msgstr "Fortune Troop War Support Team"
+
+msgctxt "a561a3091bcdf0716f69791d5360ea45"
+msgid "ID=201465"
+msgstr "ID=201465"
+
+msgctxt "41a24b3a4411ee4d2daa5a76357e3b0d"
+msgid "포스 스트라이크 총 지휘관"
+msgstr "Force Strike Gun Commander"
+
+msgctxt "2cd0dc71b176bfeaeb06558225c644e7"
+msgid "ID=201466"
+msgstr "ID=201466"
+
+msgctxt "677bfd2242da7c53b0bfde284ba7bce4"
+msgid "전쟁 조사반장"
+msgstr "War Investigator"
+
+msgctxt "8b358bfce249a1aaf7f8b3db16bc3611"
+msgid "ID=201467"
+msgstr "ID=201467"
+
+msgctxt "f69cef7922176a7e2faa4ab77617b95b"
+msgid "열심히 일하는 베시소녀"
+msgstr "Hard Working Betsy Girl"
+
+msgctxt "f333391aed289568de0115d7ca9ee969"
+msgid "ID=201468"
+msgstr "ID=201468"
+
+msgctxt "0dbca09cf2321a73dd7c7aa5feb3fff5"
+msgid "쫓기는 과학자"
+msgstr "Chasing Scientists"
+
+msgctxt "099c5c7910855ac6c4fc258ecce11de3"
+msgid "ID=101478"
+msgstr "ID=101478"
+
+msgctxt "ef9576eda1ea91fd213346d834ccdafe"
+msgid "스미스"
+msgstr "Smith"
+
+msgctxt "e66205ae7b7dbd316ba0ac2d4d9e3d97"
+msgid "ID=101479"
+msgstr "ID=101479"
+
+msgctxt "19c9c3f053a1e2e22710e5e09bbe5216"
+msgid "ID=101482"
+msgstr "ID=101482"
+
+msgctxt "f429e7233e2ed49934d704cc8fc28cd4"
+msgid "제인"
+msgstr "Jane"
+
+msgctxt "9ee6bd9c0a9cb3ec6739354b0005a7f1"
+msgid "ID=101483"
+msgstr "ID=101483"
+
+msgctxt "53d4ef440d69263d18ef23190f11c01f"
+msgid "ID=101484"
+msgstr "ID=101484"
+
+msgctxt "cdef849858dad6c85fc9f9345d3029a7"
+msgid "ID=101485"
+msgstr "ID=101485"
+
+msgctxt "0c85e2423e57109553c989baf8133a1b"
+msgid "ID=201478"
+msgstr "ID=201478"
+
+msgctxt "73ad4dc1f5da5209d3f7adba5f4e4a30"
+msgid "게을러 보이는 병사"
+msgstr "A lazy-looking soldier"
+
+msgctxt "54dedaa508d5663f38746e7469c2f636"
+msgid "ID=201479"
+msgstr "ID=201479"
+
+msgctxt "7e7ea5f60f0981ef6306e7a8556b4be7"
+msgid "공병부대 병장"
+msgstr "Air Force Corps"
+
+msgctxt "4c365deae0735fe8d889d9e4c2074916"
+msgid "ID=201482"
+msgstr "ID=201482"
+
+msgctxt "7fae46f3d50b8aebd609b7bd4edabd58"
+msgid "공병부대 신입병사"
+msgstr "New Air Force Soldier"
+
+msgctxt "918c7b4e84e78f0cb76d741abe175019"
+msgid "ID=201483"
+msgstr "ID=201483"
+
+msgctxt "191d3d1a7ec1c2ebcbc57f506f8d14fa"
+msgid "ID=201484"
+msgstr "ID=201484"
+
+msgctxt "1737caf6af1ccad3cb1bf8353330f579"
+msgid "실의에 빠진 청년"
+msgstr "A disappointed young man"
+
+msgctxt "14e1a32288c429d2edf142d0dc01fdd3"
+msgid "ID=201485"
+msgstr "ID=201485"
+
+msgctxt "8011a80abe6795f75dd15f18e0832bff"
+msgid "ID=101486"
+msgstr "ID=101486"
+
+msgctxt "cfce9392a92ae876c8027e86a77cbe03"
+msgid "ID=201486"
+msgstr "ID=201486"
+
+msgctxt "1d634a0ee07109bb3ee30990c8cc76d1"
+msgid "래피드 플레임의 탈주베시"
+msgstr "Rapid Flame's Breakout"
+
+msgctxt "bd166e46ebae78dce081c6d5fca15410"
+msgid "ID=101488"
+msgstr "ID=101488"
+
+msgctxt "5978b2ea1882e686fac7452c4e260d41"
+msgid "상인연합 이벤트지원기기"
+msgstr "Merchant Association Event Support Device"
+
+msgctxt "23cbdc9c724a8d5ea662c6382de64621"
+msgid "ID=201488"
+msgstr "ID=201488"
+
+msgctxt "89a4a96a341a236686414f5ddfee1904"
+msgid "이벤트 도우미"
+msgstr "Event Helper"
+

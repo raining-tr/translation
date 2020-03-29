@@ -1,0 +1,3213 @@
+ID=823230101
+
+0
+
+[Seal] [Butler] Hair
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Butler] This box contains the hair for the butler outfit.
+
+ID=823230301
+
+[Seal] [Butler] Glasses
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Butler] This box contains the glasses for the butler outfit.
+
+ID=823230901
+
+[Seal] [Butler] Costume
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Butler] This box contains the costume.
+
+ID=823232801
+
+ID=823230501
+
+[Seal] [Butler] Gloves
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Butler] This box contains the gloves for the butler outfit.
+
+ID=823231201
+
+[Seal] [Butler] Shoes
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Butler] This box contains the shoes for the butler outfit.
+
+ID=833220101
+
+[Seal] [Idol of Dreams] Hair
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Idol of Dreams] This box contains the hair for the Idol of Dreams outfit.
+
+ID=833220901
+
+[Seal] [Idol of Dreams] Costume
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Idol of Dreams] This box contains the costume.
+
+ID=833220501
+
+[Seal] [Idol of Dreams] Bracelet
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Idol of Dreams] This box contains the bracelet of the Idol of Dreams outfit.
+
+ID=833221101
+
+[Seal] [Idol of Dreams] Stockings
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Idol of Dreams] This box contains the stockings of the Idol of Dreams outfit.
+
+ID=833221201
+
+[Seal] [Idol of Dreams] Shoes
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Idol of Dreams] This box contains the shoes of the Idol of Dreams outfit.
+
+ID=833230101
+
+[Seal] [Lovely Maid] Hair
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Lovely Maid] This box contains the hair of the Lovely Maid outfit.
+
+ID=833230301
+
+[Seal] [Lovely Maid] Glasses
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Lovely Maid] This box contains the glasses of the Lovely Maid outfit.
+
+ID=833230901
+
+[Seal] [Lovely Maid] Costume
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Lovely Maid] This box contains the costume.
+
+ID=833230501
+
+[Seal] [Lovely Maid] Bracelet
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Lovely Maid] This box contains the bracelet of the Lovely Maid outfit.
+
+ID=833231101
+
+[Seal] [Lovely Maid] Stockings
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Lovely Maid] This box contains the stockings of the Lovely Maid outfit.
+
+ID=833231201
+
+[Seal] [Lovely Maid] Shoes
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Lovely Maid] This box contains the shoes of the Lovely Maid outfit.
+
+ID=843220101
+
+ID=843220901
+
+ID=843220501
+
+[Seal] [Idol of Dreams] Gloves
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Idol of Dreams] This box contains the gloves of the Idol of Dreams outfit.
+
+ID=843221201
+
+ID=843230101
+
+ID=843230301
+
+ID=843230901
+
+ID=843232801
+
+ID=843230501
+
+ID=843231201
+
+ID=853220101
+
+ID=853220901
+
+ID=853220501
+
+ID=853221101
+
+ID=853221201
+
+[Seal] [Idol of Dreams] Shoes
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Idol of Dreams] This box contains the shoes of the Idol of Dreams outfit.
+
+ID=853230101
+
+ID=853230301
+
+ID=853230901
+
+ID=853230501
+
+ID=853231101
+
+ID=853231201
+
+ID=810001073
+
+[Costume Package] Secret Ward
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Secret Ward] This box contains all items item for the outfit and can only worn by Haru.\n\n-Items-\n[Secret Ward] Hat x 1\n[Secret Ward] Costume x 1\n[Secret Ward] Stockings x 1\n[Secret Ward] Gloves x 1\n[Secret Ward] Shoes x 1
+
+ID=810001074
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Secret Ward] This box contains all items item for the outfit and can only worn by Lily.\n\n-Items-\n[Secret Ward] Hat x 1\n[Secret Ward] Costume x 1\n[Secret Ward] Stockings x 1\n[Secret Ward] Gloves x 1\n[Secret Ward] Shoes x 1
+
+ID=810001075
+
+[Costume Package] Idol of Dreams
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Idol of Dreams] This box contains all items item for the outfit and can only for Haru.\n\n-Items-\n[Idol of Dreams] Hair x 1\n[Idol of Dreams] Costume x 1\n[Idol of Dreams] Gloves x 1\n[Idol of Dreams] Stockings x 1\n[Idol of Dreams] Shoes x 1
+
+ID=810001076
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Idol of Dreams] This box contains all items item for the outfit and can only worn by Erwin.\n\n-Items-\n[Idol of Dreams] Hair x 1\n[Idol of Dreams] Costume x 1\n[Idol of Dreams] Gloves x 1\n[Idol of Dreams] Shoes x 1
+
+ID=810001077
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Idol of Dreams] This box contains all items item for the outfit and can only worn by Lily.\n\n-Items-\n[Idol of Dreams] Hair x 1\n[Idol of Dreams] Costume x 1\n[Idol of Dreams] Gloves x 1\n[Idol of Dreams] Stockings x 1\n[Idol of Dreams] Shoes x 1
+
+ID=810001078
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Idol of Dreams] This box contains all items item for the outfit and can only worn by Jin.\n\n-Items-\n[Idol of Dreams] Hair x 1\n[Idol of Dreams] Costume x 1\n[Idol of Dreams] Gloves x 1\n[Idol of Dreams] Shoes x 1
+
+ID=810001079
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Idol of Dreams] This box contains all items item for the outfit and can only worn by Stella.\n\n-Items-\n[Idol of Dreams] Hair x 1\n[Idol of Dreams] Costume x 1\n[Idol of Dreams] Gloves x 1\n[Idol of Dreams] Stockings x 1\n[Idol of Dreams] Shoes x 1
+
+ID=213060703
+
+[EV] [Haru's Repaired Uniform B] Top
+
+<font color='#FFBA85'>[Event Costume]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=213060803
+
+[EV] [Haru's Repaired Uniform B] Skirt
+
+<font color='#FFBA85'>[Event Costume]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=213061103
+
+[EV] [Haru's Repaired Uniform B] Stockings
+
+<font color='#FFBA85'>[Event Costume]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=223050703
+
+[EV] [Repaired Erwin's School Uniform A] Top
+
+<font color='#FFBA85'>[Event Costume]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=223050803
+
+[EV][Erwin's Repaired Uniform A] Pants
+
+<font color='#FFBA85'>[Event Costume]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=233080703
+
+[EV] [Repaired Lily's School Uniform D] Top
+
+<font color='#FFBA85'>[Event Costume]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=233080803
+
+[EV] [Repaired Lily's School Uniform D] Skirt
+
+<font color='#FFBA85'>[Event Costume]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=233081103
+
+[EV] [Repaired Lily's School Uniform D] Stockings
+
+<font color='#FFBA85'>[Event Costume]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=253080703
+
+[EV] [Repaired Stella's School Uniform D] Top
+
+<font color='#FFBA85'>[Event Costume]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=253080803
+
+[EV] [Repaired Stella's School Uniform D] Skirt
+
+<font color='#FFBA85'>[Event Costume]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=253081103
+
+[EV] [Repaired Stella's Uniform D] Stockings
+
+<font color='#FFBA85'>[Event Costume]<font color='#9D927B'>\n\nThat clothing was repaired, now it looks better than before.
+
+ID=836000053
+
+Repaired School Uniform Box
+
+<font color='#FFBA85'>[Event Costume]<font color='#9D927B'>\n\nA box containing the repaired uniform. When you open it, you can obtain a repaired uniform for your character.
+
+ID=213021902
+
+[Another Sporty Look] Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty cap that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=213020702
+
+[Another Sporty Look] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty look that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=213020802
+
+[Another Sporty Look] Bottoms
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty skirt that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=213021002
+
+[Another Sporty Look] Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty bag that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=213020302
+
+[Another Sporty Look] Fluorescent Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSporty glasses that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=213020502
+
+[Another Sporty look] Sports Watch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty watch that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=213021202
+
+[Another Sporty Look] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSporty shoes that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=223021902
+
+[Another Sporty Look] Hood
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty hoodie for passionate men who love sports. If you wear it wrong, you may look like a wanted person.
+
+ID=223020402
+
+[Another Sporty Look] Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty mask for passionate men who love sports. If you wear it wrong, you may look like a wanted person.
+
+ID=223020702
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty look that looks like it will be worn by passionate men who love sports. If you wear it wrong, you may look unemployed.
+
+ID=223020802
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty pants that looks like it will be worn by passionate men who love sports. If you wear it wrong, you may look unemployed.
+
+ID=223022702
+
+ID=223020502
+
+[Another Sporty Look] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty glove that looks like it will be worn by passionate men who love sports. If you wear it wrong, you may look unemployed.
+
+ID=223021302
+
+[Another Sporty Look] Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty pouch that looks like it will be worn by passionate men who love sports. If you wear it wrong, you may look unemployed.
+
+ID=223021202
+
+[Another Sporty Look] shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSporty shoes that looks like it will be worn by passionate men who love sports. If you wear it wrong, you may look unemployed.
+
+ID=233021902
+
+ID=233020702
+
+ID=233020802
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty look that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=233021002
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hip coloured sporty look that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=233020302
+
+ID=233020502
+
+ID=233021202
+
+ID=253021902
+
+[Another Sporty Look] Headband
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty headband that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=253020702
+
+ID=253020802
+
+ID=253021002
+
+ID=253020302
+
+ID=253020502
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty glove that looks like it will be worn by athletic women who loves sport. If you wear it wrong, you may look unemployed.
+
+ID=253021202
+
+ID=836000054
+
+Sporty Look Box
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nA box containing the Sporty look. When you open it, you can get a sporty outfit for your character.
+
+ID=836000055
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nA box containing the Sporty look. When you open it, you will get a sporty costume for your character.
+
+ID=836000056
+
+ID=836000057
+
+ID=839210005
+
+Cream Pink: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Cream Pink
+
+ID=839210006
+
+Soft Pink: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to soft pink.
+
+ID=839210007
+
+Wine Pink: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Wine Pink.
+
+ID=839210008
+
+Wine Red: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Wine Red.
+
+ID=839210009
+
+Burgundy Red: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Burgundy Red.
+
+ID=839210010
+
+Orange Red: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Orange Red.
+
+ID=839210011
+
+Fire Brick: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Fire Brick
+
+ID=839210012
+
+Dark Red: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Dark Red.
+
+ID=839210013
+
+Maroon Red: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Maroon Red.
+
+ID=839210014
+
+Shiny Blond: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Shiny Blond.
+
+ID=839210015
+
+Golden Blonde: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Golden Blonde.
+
+ID=839210016
+
+Copper Brown: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Copper Brown.
+
+ID=839210017
+
+Bark Brown: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Bark Brown.
+
+ID=839210018
+
+Cream Mint: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Cream Mint.
+
+ID=839210019
+
+Lime Green: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Lime Green.
+
+ID=839210020
+
+Meadow Green: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Meadow Green.
+
+ID=839210021
+
+Dark Green: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Dark Green.
+
+ID=839210022
+
+Gray Green: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Gray Green.
+
+ID=839210023
+
+Turquoise Green: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Turquoise Green.
+
+ID=839210024
+
+Forest Green: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Forest Green.
+
+ID=839210025
+
+Blush Green: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Blush Green.
+
+ID=839210026
+
+Aquamarine: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Aquamarine.
+
+ID=839210027
+
+Cadet Blue: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Cadet Blue.
+
+ID=839210028
+
+Dim Gray: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Dim Gray.
+
+ID=839210029
+
+Light Black: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Light Black.
+
+ID=839210030
+
+Aqua: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Aqua.
+
+ID=839210031
+
+Light Sky Blue: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Light Sky Blue.
+
+ID=839210032
+
+Dodger Blue: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Dodger Blue.
+
+ID=839210033
+
+Royal Blue: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Royal Blue.
+
+ID=839210034
+
+Light Purple: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Light Purple.
+
+ID=839210035
+
+Gray Purple: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Gray Purple.
+
+ID=839210036
+
+Violet: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Violet.
+
+ID=839210037
+
+Dark Violet: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Dark Violet.
+
+ID=839210038
+
+Powder Blue: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Powder Blue.
+
+ID=839210039
+
+Steel Blue: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Steel Blue.
+
+ID=839210040
+
+Deep Blue: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Deep Blue.
+
+ID=839210041
+
+Ash Purple: Haru
+
+ID=839210042
+
+Pale Purple: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Pale Purple.
+
+ID=839210043
+
+Amethyst Purple: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Amethyst Purple.
+
+ID=839210044
+
+Dark Purple: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Dark Purple.
+
+ID=839210045
+
+Khaki Brown: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Khaki Brown.
+
+ID=839210046
+
+Mocha Brown: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Mocha Brown.
+
+ID=839210047
+
+Cinnamon Brown: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Cinnamon Borwn.
+
+ID=839210048
+
+Umber Brown: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Umber Brown.
+
+ID=839210049
+
+Ash Brown: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Ash Brown.
+
+ID=839210050
+
+Cedar Brown: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Cedar Brown.
+
+ID=839210051
+
+Burgundy Red: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Burgundy Red.
+
+ID=839210052
+
+Citrus Green: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Citrus Green.
+
+ID=839210053
+
+Hot Pink: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Hot Pink.
+
+ID=839210054
+
+Passion Red: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Passion Red.
+
+ID=839210055
+
+Fuchsia Pink: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Fuchsia Pink.
+
+ID=839210056
+
+Marigold: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Marigold.
+
+ID=839210057
+
+Blackberry Black: Haru
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can change Haru's hair color to Blackberry Black.
+
+ID=839220005
+
+Cream Pink: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to creme pink.
+
+ID=839220006
+
+Soft Pink: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to soft pink.
+
+ID=839220007
+
+Wine Pink: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to wine pink.
+
+ID=839220008
+
+Wine Red: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to wine red.
+
+ID=839220009
+
+Burgundy Red: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to burgundy red.
+
+ID=839220010
+
+Orange Red: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to orange red.
+
+ID=839220011
+
+Fire Brick: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to fire brick.
+
+ID=839220012
+
+Dark Red: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to dark red.
+
+ID=839220013
+
+Maroon Red: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to maroon red.
+
+ID=839220014
+
+Shiny Blond: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to shiny blond.
+
+ID=839220015
+
+Golden Blonde: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to golden blond.
+
+ID=839220016
+
+Copper Brown: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to copper brown.
+
+ID=839220017
+
+Bark Brown: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to bark brown.
+
+ID=839220018
+
+Cream Mint: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to cream mint.
+
+ID=839220019
+
+Lime Green: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to lime green.
+
+ID=839220020
+
+Meadow Green: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to meadow green.
+
+ID=839220021
+
+Dark Green: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to dark green.
+
+ID=839220022
+
+Gray Green: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to gray green.
+
+ID=839220023
+
+Turquoise Green: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to turquoise green.
+
+ID=839220024
+
+Forest Green: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to forest green.
+
+ID=839220025
+
+Blush Green: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to blush green.
+
+ID=839220026
+
+Aquamarine: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to aquamarine.
+
+ID=839220027
+
+Katya Blue: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to blue.
+
+ID=839220028
+
+Dim Gray: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to dim gray.
+
+ID=839220029
+
+Light Black: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to light black.
+
+ID=839220030
+
+Aqua: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to aqua.
+
+ID=839220031
+
+Light Sky Blue: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to light sky blue.
+
+ID=839220032
+
+Dodger Blue: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to Dodger Blue.
+
+ID=839220033
+
+Royal Blue: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to royal blue.
+
+ID=839220034
+
+Light Purple: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to light purple.
+
+ID=839220035
+
+Gray Purple: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to gray purple.
+
+ID=839220036
+
+Violet: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Haru's hair to violet.
+
+ID=839220037
+
+Dark Violet: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to dark violet.
+
+ID=839220038
+
+Powder Blue: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to powder blue.
+
+ID=839220039
+
+Steel Blue: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to steel blue.
+
+ID=839220040
+
+Deep Blue: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to deep blue.
+
+ID=839220041
+
+Ash Purple: Erwin
+
+ID=839220042
+
+Pale Purple: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to pale purple.
+
+ID=839220043
+
+Amethyst Purple: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to amethyst purple.
+
+ID=839220044
+
+Dark Purple: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to dark purple.
+
+ID=839220045
+
+Khaki Brown: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to khaki brown.
+
+ID=839220046
+
+Mocha Brown: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to mocha brown.
+
+ID=839220047
+
+Cinnamon Brown: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to cinnamon brown.
+
+ID=839220048
+
+Umber Brown: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to umber brown.
+
+ID=839220049
+
+Ash Brown: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to ash brown.
+
+ID=839220050
+
+Cedar Brown: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to cedar brown.
+
+ID=839220051
+
+Burgundy Red: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to Burgundy Red.
+
+ID=839220052
+
+Citrus Green: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to citrus green.
+
+ID=839220053
+
+Hot Pink: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to hot pink.
+
+ID=839220054
+
+Passion Red: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to Passion Red.
+
+ID=839220055
+
+Fuchsia Pink: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to fuchsia pink.
+
+ID=839220056
+
+Marigold: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to Marigold.
+
+ID=839220057
+
+Blackberry Black: Erwin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Erwin's hair to Blackberry Black.
+
+ID=839230005
+
+Cream Pink: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to creme pink.
+
+ID=839230006
+
+Soft Pink: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to soft pink.
+
+ID=839230007
+
+Wine Pink: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to wine pink.
+
+ID=839230008
+
+Wine Red: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to wine red.
+
+ID=839230009
+
+Burgundy Red: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to burgundy red.
+
+ID=839230010
+
+Orange Red: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to orange red.
+
+ID=839230011
+
+Fire Brick: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to fire brick.
+
+ID=839230012
+
+Dark Red: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to dark red.
+
+ID=839230013
+
+Maroon Red: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to maroon red.
+
+ID=839230014
+
+Shiny Blond: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to shiny blond.
+
+ID=839230015
+
+Golden Blonde: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to golden blonde.
+
+ID=839230016
+
+Copper Brown: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to copper brown.
+
+ID=839230017
+
+Bark Brown: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to bark brown.
+
+ID=839230018
+
+Cream Mint: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to cream mint.
+
+ID=839230019
+
+Lime Green: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to lime green.
+
+ID=839230020
+
+Meadow Green: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to meadow green.
+
+ID=839230021
+
+Dark Green: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to dark green.
+
+ID=839230022
+
+Gray Green: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to gray green.
+
+ID=839230023
+
+Turquoise Green: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to turquoise green.
+
+ID=839230024
+
+Forest Green: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to forest green.
+
+ID=839230025
+
+Blush Green: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to blush green.
+
+ID=839230026
+
+Aquamarine: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to aquamarine.
+
+ID=839230027
+
+Katya Blue: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to blue.
+
+ID=839230028
+
+Dim Gray: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to dim gray.
+
+ID=839230029
+
+Light Black: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to light black.
+
+ID=839230030
+
+Aqua: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to aqua.
+
+ID=839230031
+
+Light Sky Blue: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to light sky blue.
+
+ID=839230032
+
+Dodger Blue: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to Dodger Blue.
+
+ID=839230033
+
+Royal Blue: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to royal blue.
+
+ID=839230034
+
+Light Purple: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to light purple.
+
+ID=839230035
+
+Gray Purple: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to gray purple.
+
+ID=839230036
+
+Violet: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to iolet.
+
+ID=839230037
+
+Dark Violet: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to dark violet.
+
+ID=839230038
+
+Powder Blue: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to powder blue.
+
+ID=839230039
+
+Steel Blue: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to steel blue.
+
+ID=839230040
+
+Deep Blue: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to deep blue.
+
+ID=839230041
+
+Ash Purple: Lily
+
+ID=839230042
+
+Pale Purple: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to pale purple.
+
+ID=839230043
+
+Amethyst Purple: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to amethyst purple.
+
+ID=839230044
+
+Dark Purple: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to dark purple.
+
+ID=839230045
+
+Khaki Brown: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to khaki brown.
+
+ID=839230046
+
+Mocha Brown: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to mocha brown.
+
+ID=839230047
+
+Cinnamon Brown: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to cinnamon brown.
+
+ID=839230048
+
+Umber Brown: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to umber brown.
+
+ID=839230049
+
+Ash Brown: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to ash brown.
+
+ID=839230050
+
+Cedar Brown: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to cedar brown.
+
+ID=839230051
+
+Burgundy Red: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to Burgundy Red.
+
+ID=839230052
+
+Citrus Green: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to citrus green.
+
+ID=839230053
+
+Hot Pink: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to hot pink.
+
+ID=839230054
+
+Passion Red: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to Passion Red.
+
+ID=839230055
+
+Fuchsia Pink: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to fuchsia pink.
+
+ID=839230056
+
+Marigold: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to Marigold.
+
+ID=839230057
+
+Blackberry Black: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Lily's hair to Blackberry Black.
+
+ID=839240005
+
+Cream Pink: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to creme pink.
+
+ID=839240006
+
+Soft Pink: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to soft pink.
+
+ID=839240007
+
+Wine Pink: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to wine pink.
+
+ID=839240008
+
+Wine Red: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to wine red.
+
+ID=839240009
+
+Burgundy Red: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to burgundy red.
+
+ID=839240010
+
+Orange Red: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to orange red.
+
+ID=839240011
+
+Fire Brick: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to fire brick.
+
+ID=839240012
+
+Dark Red: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to dark red.
+
+ID=839240013
+
+Maroon Red: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to maroon red.
+
+ID=839240014
+
+Shiny Blond: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to shiny blonde.
+
+ID=839240015
+
+Golden Blonde: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to golden blonde.
+
+ID=839240016
+
+Copper Brown: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to copper brown.
+
+ID=839240017
+
+Bark Brown: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to bark brown.
+
+ID=839240018
+
+Cream Mint: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to cream mint.
+
+ID=839240019
+
+Lime Green: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to cream mint.
+
+ID=839240020
+
+Meadow Green: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to meadow green.
+
+ID=839240021
+
+Dark Green: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to dark green.
+
+ID=839240022
+
+Gray Green: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to gray green.
+
+ID=839240023
+
+Turquoise Green: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to turquoise green.
+
+ID=839240024
+
+Forest Green: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to forest green.
+
+ID=839240025
+
+Blush Green: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to blush green.
+
+ID=839240026
+
+Aquamarine: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to aquamarine.
+
+ID=839240027
+
+Katya Blue: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to blue.
+
+ID=839240028
+
+Dim Gray: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to dim gray.
+
+ID=839240029
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to light black
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to light black.
+
+ID=839240030
+
+Aqua: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to aqua.
+
+ID=839240031
+
+Light Sky Blue: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to light sky blue.
+
+ID=839240032
+
+Dodger Blue: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to Dodger Blue.
+
+ID=839240033
+
+Royal Blue: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to royale blue.
+
+ID=839240034
+
+Light Purple: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to light purple.
+
+ID=839240035
+
+Gray Purple: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to gray purple.
+
+ID=839240036
+
+Violet: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to violet.
+
+ID=839240037
+
+Dark Violet: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to dark violet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+ID=839240038
+
+Powder Blue: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to powder blue.
+
+ID=839240039
+
+Steel Blue: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to steel blue.
+
+ID=839240040
+
+Deep Blue: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to deep blue.
+
+ID=839240041
+
+Ash Purple: Jion
+
+ID=839240042
+
+Pale Purple: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to pale purple.
+
+ID=839240043
+
+Amethyst Purple: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to amethyst purple.
+
+ID=839240044
+
+Dark Purple: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to dark purple.
+
+ID=839240045
+
+Khaki Brown: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to khaki brown.
+
+ID=839240046
+
+Mocha Brown: Jon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to mocha brown.
+
+ID=839240047
+
+Cinnamon Brown: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to cinnamon brown.
+
+ID=839240048
+
+Umber Brown: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to umber brown.
+
+ID=839240049
+
+Ash Brown: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to ash brown.
+
+ID=839240050
+
+Cedar Brown: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to cedar brown.
+
+ID=839240051
+
+Burgundy Red: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to Burgundy Red.
+
+ID=839240052
+
+Citrus Green: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to citrus green.
+
+ID=839240053
+
+Hot Pink: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to hot pink.
+
+ID=839240054
+
+Passion Red: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to Passion Red.
+
+ID=839240055
+
+Fuchsia Pink: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to wine pink.
+
+ID=839240056
+
+Marigold: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to Marigold.
+
+ID=839240057
+
+Blackberry Black: Jin
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Jin's hair to Blackberry Black.
+
+ID=839250005
+
+Cream Pink: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to creme pink.
+
+ID=839250006
+
+Soft Pink: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to soft pink.
+
+ID=839250007
+
+Wine Pink: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to wine pink.
+
+ID=839250008
+
+Wine Red: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to wine red.
+
+ID=839250009
+
+Burgundy Red: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to burgundy red.
+
+ID=839250010
+
+Orange Red: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to orange red.
+
+ID=839250011
+
+Fire Brick: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to firebrick.
+
+ID=839250012
+
+Dark Red: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to dark red.
+
+ID=839250013
+
+Maroon Red: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to dark red.
+
+ID=839250014
+
+Shiny Blond: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to shiny blonde.
+
+ID=839250015
+
+Golden Blonde: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to golden blonde.
+
+ID=839250016
+
+Copper Brown: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to copper brown.
+
+ID=839250017
+
+Bark Brown: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to bark brown.
+
+ID=839250018
+
+Cream Mint: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to cream mint.
+
+ID=839250019
+
+Lime Green: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to lime green.
+
+ID=839250020
+
+Meadow Green: Lily
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to meadow green.
+
+ID=839250021
+
+Dark Green: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to dark green.
+
+ID=839250022
+
+Gray Green: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to gray green.
+
+ID=839250023
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to turquoise green
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to turquoise green.
+
+ID=839250024
+
+Forest Green: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to forest green.
+
+ID=839250025
+
+Blush Green: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to blush green.
+
+ID=839250026
+
+Aquamarine: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to aquamarine.
+
+ID=839250027
+
+Katya Blue: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to blue.
+
+ID=839250028
+
+Dim Gray: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to dim gray.
+
+ID=839250029
+
+Light Black: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to light black.
+
+ID=839250030
+
+Aqua: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to aqua.
+
+ID=839250031
+
+Light Sky Blue: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to light sky blue.
+
+ID=839250032
+
+Dodger Blue: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to Dodger Blue.
+
+ID=839250033
+
+Royal Blue: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to royal blue.
+
+ID=839250034
+
+Light Purple: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to light purple.
+
+ID=839250035
+
+Gray Purple: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to gray purple.
+
+ID=839250036
+
+Violet: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to violet.
+
+ID=839250037
+
+Dark Violet: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to dark violet.
+
+ID=839250038
+
+Powder Blue: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to powder blue.
+
+ID=839250039
+
+Steel Blue: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to steel blue.
+
+ID=839250040
+
+Deep Blue: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to deep blue.
+
+ID=839250041
+
+Ash Purple: Stella
+
+ID=839250042
+
+Pale Purple: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to pale purple.
+
+ID=839250043
+
+Amethyst Purple: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to amethyst purple.
+
+ID=839250044
+
+Dark Purple: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to dark purple.
+
+ID=839250045
+
+Khaki Brown: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to khaki brown.
+
+ID=839250046
+
+Mocha Brown: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to mocha brown.
+
+ID=839250047
+
+Cinnamon Brown: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to cinnamon brown.
+
+ID=839250048
+
+Umber Brown: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to umber brown.
+
+ID=839250049
+
+Ash Brown: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to ash brown.
+
+ID=839250050
+
+Cedar Brown: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to cedar brown.
+
+ID=839250051
+
+Burgundy Red: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to Burgundy Red.
+
+ID=839250052
+
+Citrus Green: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to citrus green.
+
+ID=839250053
+
+Hot Pink: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to hot pink.
+
+ID=839250054
+
+Passion Red: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to Passion Red.
+
+ID=839250055
+
+Fuchsia Pink: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to fuchsia pink.
+
+ID=839250056
+
+Marigold: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to Marigold.
+
+ID=839250057
+
+Blackberry Black: Stella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nYou can Color Stellas's hair to Blackberry Black.
+
+ID=383002601
+
+Sedurin
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nAkashik Record engraved with the history of the small genius Sedurine. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=383002602
+
+Machine-Holic Sedurine
+
+ID=383002603
+
+Black Hole Machine Sedurin
+
+ID=383002701
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nAkashik Record engraved with the history of the small genius Sedurine [H]. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=383002702
+
+ID=383002703
+
+ID=384005201
+
+Dancing Shadow
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nThe Akashik Record engraved with the history of the Dancing Shadow being attacked. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=384005202
+
+Assassin Dancing Shadow
+
+ID=384005203
+
+Running Shadow
+
+ID=384005301
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nThe Akashik Record engraved with the history of the Dancing Shadow [H] under attack. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=384005302
+
+ID=384005303
+
+ID=384005401
+
+Road buster
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nThe Akashik Record engraved with the history of the Road Buster. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=384005402
+
+Battle Machine Road Buster
+
+ID=384005403
+
+Annihilation Road Buster
+
+ID=384005501
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nThe Akashik Record engraved with the history of Road Buster [H]. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=384005502
+
+ID=384005503
+
+ID=223261601
+
+[Stylish Sporty] Earset
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA special earset worn by those who reject the trend and want a free and sporty styling.
+
+ID=223260701
+
+[Stylish Sporty] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSpecial tops worn by those who reject the trend and want a free and sporty styling 
+
+ID=223260801
+
+[Stylish Sporty] Bottoms
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSpecial pants worn by those who reject the trend and want a free and sporty styling.
+
+ID=223260501
+
+[Stylish Sporty] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSpecial gloves worn by those who reject the trend and want a free and sporty styling.
+
+ID=223261201
+
+[Stylish Sporty] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSpecial Shoes worn by those who reject the trend and want a free and sporty styling.
+
+ID=253170201
+
+[Secret Ward] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSpecial attire worn by hidden ward nurses at Rocco Town Hospital. Many male patients wanted to see this ward, but no one was able to. \nThere are rumors that Miriam was a nurse..
+
+ID=253170901
+
+[Secret Ward] Costume
+
+ID=253170501
+
+[Secret Ward] Gloves
+
+ID=253171101
+
+[Secret Ward] Stockings
+
+ID=253171201
+
+[Secret Ward] Shoes
+
+ID=823260201
+
+[Seal] [Stylish Sporty] Earset
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stylish Sporty] This is the box that contains the earset.
+
+ID=823260701
+
+[Seal] [Stylish Sporty] Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stylish Sporty] This is the box that contains the top.
+
+ID=823260801
+
+[Sealing] [Stylish Sporty] Bottoms
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Stylish Sporty] This is the box that contains the bottom.
+
+ID=823260501
+
+[Seal] [Stylish Sporty] Gloves
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Stylish Sporty] This is the box that contains the gloves.
+
+ID=823261201
+
+[Seal] [Stylish Sporty] Shoes
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Stylish Sporty] This is the box that contains the shoes.
+
+ID=853170201
+
+[Seal] [Secret Ward] Hat
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Secret Ward] This is the box that contains the hat.
+
+ID=853170901
+
+[Seal] [Secret Ward] Costume
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Secret Ward] This is the box that contains the costume.
+
+ID=853170501
+
+[Seal] [Secret Ward] Gloves
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Secret Ward] This is the box that contains the gloves.
+
+ID=853171101
+
+[Seal] [Secret Ward] Stockings
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Secret Ward] This is the box that contains the stockings.
+
+ID=853171201
+
+[Seal] [Secret Ward] Shoes
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Secret Ward] This is the box that contains the shoes.
+
+ID=810001084
+
+[Costume Box] Stylish Sporty
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nThis box contains all of Erwins stylish sporty outfits.\n\n- Items -\n[Stylish Sporty] Earset x 1\n[Stylish Sporty] Top x 1\n[Stylish Sporty] Bottoms x 1\n[Stylish Sporty] Gloves x 1\n[Stylish Sporty] Shoes x 1
+
+ID=810001085
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Secret Ward] This box contains all the costume items and can only be worn by Stella.\n\n- Items -\n[Secret Ward] Hat x 1\n[Secret Ward] Costume x 1\n[Secret Ward] Stockings x 1\n[Secret Ward] Gloves x 1\n[Secret Ward] Shoes x 1
+
+ID=810001086
+
+[Costume Box] Lovely Maid
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Lovely Maid] A box that contains the [Lovely Maid] costume.\n\n-Items-\n[Lovely Maid] Hair x 1\n[Lovely Maid] Glasses x 1\n[Lovely Maid] Costume x 1\n[Lovely Maid] Bracelet x 1\n[Lovely Maid] Stockings x 1\n[Lovely Maid] Shoes x 1
+
+ID=810001087
+
+[Costume Box] Butler
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Butler] This box contains the costume and can only be worn by Erwin.\n\n-Items-\n[Butler] Hair x 1\n[Butler] Glasses x 1\n[Butler] Costume x 1\n[Butler] Gloves x 1\n[Butler] Shoes x 1
+
+ID=810001088
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nA box that contains the [Lovely Maid] costume and can only be worn by Lily.\n\n-Items-\n[Lovely Maid] Hair x 1\n[Lovely Maid] Glasses x 1\n[Lovely Maid] Costume x 1\n[Lovely Maid] Bracelet x 1\n[Lovely Maid] Stockings x 1\n[Lovely Maid] Shoes x 1
+
+ID=810001089
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Butler] This box contains the costume and can only be worn by Jin.\n\n-Items-\n[Butler] Hair x 1\n[Butler] Glasses x 1\n[Butler] Costume x 1\n[Butler] Gloves x 1\n[Butler] Shoes x 1
+
+ID=810001090
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nA box that contains the [Lovely Maid] costume and can only be worn by Stella.\n\n-Items-\n[Lovely Maid] Hair x 1\n[Lovely Maid] Glasses x 1\n[Lovely Maid] Costume x 1\n[Lovely Maid] Bracelet x 1\n[Lovely Maid] Stockings x 1\n[Lovely Maid] Shoes x 1
+
+ID=383002801
+
+Cynthia & Hugh
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nAkashik Record with the history of Cynthia & Hugh. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=383002802
+
+Fantasy Compatibility Cynthia & Hugh
+
+ID=383002803
+
+Scoop Killer Cynthia & Hugh
+
+ID=383002901
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nCynthia & Hugh Akashik Record engraved with the history of [H]. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Record menu.
+
+ID=383002902
+
+ID=383002903
+
+ID=384005601
+
+Maker MK II
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nAkashik Record engraved with the history of MKII. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Record menu.
+
+ID=384005602
+
+Enhanced Maker MKII
+
+ID=384005603
+
+Purgatory Maker MKII
+
+ID=384005701
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nThe Akashik Record engraved with the history of MKII [H]. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=384005702
+
+ID=384005703
+
+ID=384005801
+
+Xenia
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nAkashik Record engraved with Air Force's history. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=384005802
+
+Operation Officer Xenia
+
+ID=384005803
+
+Perfect Witch Xenia
+
+ID=384005901
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nThe Akashik Record engraved with the history of Aircraft Xenia [H]. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=384005902
+
+ID=384005903
+
+ID=211861001
+
+[EV] Glutton Backpack
+
+<font color='#FFBA85'>[Event Reward]<font color='#9D927B'>\n\nA backpack that emulates Glutton, asleep, exhausted by hard labor. If you hug him, you will quickly fall asleep.
+
+ID=221861001
+
+ID=231861001
+
+ID=241861001
+
+ID=251861001
+
+ID=211850201
+
+[Lively Newbie] Hat
+
+<font color='#FFBA85'>[Event Reward]<font color='#9D927B'>\n\nA hat that may make you look like a lively newbie as if you just entered kindergarten.
+
+ID=211851001
+
+[Lively Newbie] Randoseru
+
+<font color='#FFBA85'>[Event Reward]<font color='#9D927B'>\n\nRandoseru may make you look like a lively newbie as if you just entered kindergarten.
+
+ID=221850201
+
+ID=221851001
+
+ID=231850201
+
+ID=231851001
+
+ID=241850201
+
+ID=241851001
+
+ID=251850201
+
+ID=251851001
+
+ID=820999154
+
+[EV] Ticket Box
+
+<font color='#FFBA85'>[Event Box]<font color='#9D927B'>\n\nA box containing the tickets for casual and district raids.\n-Items-\n[Ticket] Last Carnival x 1\n[Ticket] Junk Hive x 1\n[Ticket] Bandit Highway x 1\n[Ticket] Iron Castle x 1\n[Ticket] Steel Grave x 1
+
+ID=836000084
+
+Mystery Costume Box [Hat]
+
+<font color='#FFBA85'>[Even Costume Box]<font color='#9D927B'>\n\nA mysterious costume box with a hat. You won't know which hat costume is in it until you open the box.
+
+ID=836000085
+
+Mystery Costume Box [Gloves]
+
+<font color='#FFBA85'>[Event Costume Box]<font color='#9D927B'>\n\nThe Mystery Costume Box with Gloves. You won't know what glove costume is in until you open the box.
+
+ID=836000086
+
+Mystery Costume Box [Top]
+
+<font color='#FFBA85'>[Event Costume Box]<font color='#9D927B'>\n\nA mysterious costume box with a top. You won't know which costumes are in the box until you open the box.
+
+ID=836000087
+
+Mystery Costume Box [Bottom]
+
+<font color='#FFBA85'>[Event Costume Box]<font color='#9D927B'>\n\nA mysterious costume box with a bottom. You can't tell what bottom costume is in until you open the box.
+
+ID=836000088
+
+Mystery Costume Box [Shoes]
+
+<font color='#FFBA85'>[Event Costume Box]<font color='#9D927B'>\n\nA mysterious costume box with shoes. You won't know which shoe costume is in it until you open the box.
+
+ID=213280701
+
+Pink Rider Jacket
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA pink rider's jacket worn by women who enjoy the wind. The sensibility is like a wild horse is full of femininity and the desire to run.
+
+ID=213280801
+
+Pink Belted Hot Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHot pants with pink belts. The sensibility is like a wild horse is full of femininity and the desire to run.
+
+ID=213281201
+
+Ankle Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWomen's shoe that covers your ankles. The sole of the shoe is made of high friction material, which is optimized for riding.
+
+ID=213290701
+
+Yellow Rider Jacket
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA yellow rider's jacket worn by women who enjoy the wind. The sensibility is like a wild horse is full of femininity and the desire to run.
+
+ID=213290801
+
+Yellow Belted Hot Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA yellow belted hot pants worn by women who enjoy the wind. The sensibility is like a wild horse is full of femininity and the desire to run.
+
+ID=213291201
+
+ID=223280701
+
+Indigo Rider Jacket
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlue rider's jacket worn by men who enjoy the wind. Sensation is like a wild horse full of desire to run is hidden.
+
+ID=223280801
+
+Black stitched jeans
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlack jeans with stitches all over the pants 
+
+ID=223282701
+
+ID=223281201
+
+Belt shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nMen's shoes with adjustable belt size. The sole of the shoe is made of high friction material, which is optimized for riding.
+
+ID=223290701
+
+Purple rider's jacket
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA purple rider's jacket worn by men who enjoy the wind. A sensibility is like a wild horse is full of desire to run.
+
+ID=223290801
+
+Gray stitched jeans
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGray jeans with stitches all over the pants. 
+
+ID=223292701
+
+ID=223291201
+
+ID=233280701
+
+ID=233280801
+
+Pink Belt Hot Pants
+
+ID=233281201
+
+ID=233290701
+
+ID=233290801
+
+ID=233291201
+
+ID=243280701
+
+ID=243280801
+
+ID=243282701
+
+ID=243281201
+
+ID=243290701
+
+ID=243290801
+
+ID=243292701
+
+ID=243291201
+
+ID=253280701
+
+ID=253280801
+
+ID=253281201
+
+ID=253290701
+
+ID=253290801
+
+ID=253291201
+
+ID=211871001
+
+Equal Marker
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA symbol that symbolizes the existence of equality. Having this is evidence of having the same power as them.
+
+ID=221871001
+
+ID=231871001
+
+ID=241871001
+
+ID=251871001
+
+ID=810001093
+
+[Costume Pcakage] Clothes
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nThis box contains all items for the [Doctors Clothing] outfit and is only wear able by Jin.\n-Items-\n[Doctors Clothing] Horn Frame Glasses x 1\n[Doctors Clothing] Costume x 1\n[Doctors Clothing]Gloves x 1\n[Doctors Clothing] Shoes x 1
+
+ID=810001096
+
+[Costume Package] Altered Jin's Uniform A
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nA package containing the [Repaired Jin's Uniform A]. This component can only be worn by Jin.\n-Items-\n[Repaired Jin's Uniform] Top x 1\n[Repaired Jin's Uniform A] Pants x 1
+
+ID=810001097
+
+[Costume Package] Altered Jin's Uniform B
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nA package containing the [Repaired Jin's Uniform B]. This component can only be worn by Jin.\n-Items-\n[Repaired Jin's Uniform] Top x 1\n[Repaired Jin's Uniform B] Pants x 1
+
+ID=810001098
+
+[Costume Package] Altered Jin's Uniform C
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nA package containing the [Repaired Jin's Uniform C]. This component can only be worn by Jin.\n-Items-\n[Repaired Jin's Uniform] Top x 1\n[Repaired Jin's Uniform C] Pants x 1
+
+ID=810001099
+
+[Costume Package] Altered Jin's Uniform D
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nA package containing the [Repaired Jin's Uniform D]. This component can only be worn by Jin.\n-Items-\n[Repaired Jin's Uniform] Top x 1\n[Repaired Jin's Uniform D] Pants x 1
+
+ID=810001100
+
+[Costume Package] Merchant Union Uniform
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\n[Merchant Alliance Uniform] This package contains the costume.\n-Items-\n[Merchant Union Uniform] Cap x 1\n[Merchant Union Uniform] Top x 1\n[Merchant Union Uniform] Pants x 1\n[Merchant Union Uniform] Sneakers x 1
+
+ID=810001101
+
+[Costume Package] Star Forest League Old School Uniform
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Star Forest League Old-School Uniform] This package contains costumes and can only be worn by Jeans.\n-Items-\n[Star Forest League Old Military Uniform] x 1\n[Star Forest League Old Military Uniform] Bottom x 1\n[Star Forest League Old Military Uniform] Boots x 1
+
+ID=836000089
+
+Lively Newbie Box
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nA box containing magic to return you to your childhood. A lively newbie's hat and bag are available.
+
+ID=836000095
+
+Glutton Box
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nA box containing a Glutton bag that will fall asleep.
+
+ID=213250201
+
+[Sunshine Swimwear] Flower Decoration
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\A flower decoration that feels like summer.
+
+ID=213250901
+
+[Sunshine Swimwear] Swimwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA swimsuit that feels like summer.\nYou can wear this outfit for a special summer gesture.
+
+ID=213250501
+
+[Sunshine Swimwear] Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA bracelet with a summer feel.
+
+ID=213251201
+
+[Sunshine Swimwear] Sandals
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe Sandals feel like summer.
+
+ID=223250201
+
+[Sunshine Swimwear] Sunglasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSunglasses with a summer feel.
+
+ID=223250901
+
+ID=223250501
+
+ID=223251201
+
+ID=233250201
+
+ID=233250901
+
+ID=233250501
+
+ID=233251201
+
+ID=243250201
+
+[Sunshine Swimwear] Goggles
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGoggles with a summer feel.
+
+ID=243250901
+
+ID=243250501
+
+ID=243251201
+
+ID=253250201
+
+[Sunshine Swimwear] Hair Band
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hair band with a summer feel.
+
+ID=253250901
+
+ID=253250501
+
+ID=253251201
+
+[Sunshine Swimwear] Shoes
+
+ID=383003001
+
+Ran
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nThe Akashik Record engraved with the history of the column. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=383003002
+
+Goofy Girl Ran μ
+
+ID=383003003
+
+Fortune Master Ran μ
+
+ID=383003101
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nAkashik Record with the history of Lan [H]. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=383003102
+
+ID=383003103
+
+ID=213340701
+
+Black best shirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWhite shirt outfit with a black vest. At first glance, it feels like a part-time student working in a flower shop.
+
+ID=213340801
+
+Black flared skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA black skirt with pleated skirts. It's a lot shorter than a normal flared skirt, so be careful when running around.
+
+ID=213341101
+
+Black Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThick socks to be worn just below the knee. It is worn by girls who like to exercise or run around a lot.
+
+ID=213341201
+
+Brown leather sneakers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes shaped like leather. You can see it commonly worn around.
+
+ID=213350701
+
+White best shirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlack shirt costume with a white vest. At first glance, it feels like a part-time student working in a cafe.
+
+ID=213350801
+
+White flared skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWhite skirt with pleated skirts. It's a lot shorter than a normal flared skirt, so be careful when running around.
+
+ID=213351101
+
+ID=213351201
+
+ID=213360901
+
+[Another Beauty School Look] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's a school uniform that you can wear at a private school in a cartoon. For some reason, the price seems to be much higher than the general uniform. Top and bottom can be worn at the same time.
+
+ID=213360201
+
+[Another Beauty School Look] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's a school uniform hat that is likely to be used in a private school in a cartoon. For some reason, the price seems to be much higher than the general uniform.
+
+ID=213361201
+
+[Another Beauty School Look] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nMen's school uniform, which is worn only in a private school, is made in a different color from the existing shoes. For some reason, the price seems to be much higher than the general uniform.
+
+ID=213370901
+
+School Swimwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA swimsuit worn during the day at school. It is not known why things appeared fifteen years ago now, but they are as clean as new. The name tag with the name of the day remains clear.\nWhen you wear this outfit, you can make special summer gestures.
+
+ID=213371201
+
+School Slippers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSlippers worn during the day at school. It is not known why things appeared fifteen years ago now, but they are as clean as new. Locker locker keys are also included.
+
+ID=223340701
+
+Tennis Short Sleeve Shirt A
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPhysical clothing worn by Erwin during school. It is not known why things appeared fifteen years ago now, but they are as clean as new.
+
+ID=223340801
+
+Tennis Shorts A
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe gym suit shorts worn by Erwin at school. It is not known why things appeared fifteen years ago now, but they are as clean as new.
+
+ID=223341201
+
+Tennis sneakers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSneakers worn by Irwin at school. It is not known why things appeared fifteen years ago now, but they are as clean as new.
+
+ID=223350701
+
+Tennis Short Sleeve Shirt B
+
+ID=223350801
+
+Tennis Shorts B
+
+ID=223351201
+
+ID=223360901
+
+[Another Handsome School Look] Costume
+
+ID=223360301
+
+[Another Handsome School Look] Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe glasses are likely to be used in a private school in a cartoon. Somehow the price seems to be much higher than ordinary glasses.
+
+ID=223361201
+
+[Another Handsome School Look] Shoes
+
+ID=233340701
+
+ID=233340801
+
+ID=233341101
+
+ID=233341201
+
+ID=233350701
+
+ID=233350801
+
+ID=233351101
+
+ID=233351201
+
+ID=233360901
+
+ID=233360201
+
+ID=233361201
+
+ID=233370901
+
+Lily's School Swimsuit
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSwimsuit that Lily wore when she was in school. It is not known why things appeared fifteen years ago now, but they are as clean as new. The name tag with Lily's name is clearly visible. \ NYou can wear this costume for a special summer gesture.
+
+ID=233371201
+
+Lily's School Slippers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSlippers worn by Lily at school. It is not known why things appeared fifteen years ago now, but they are as clean as new. Locker locker keys are also included.
+
+ID=243340701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPhysical clothing worn by Jin at school. It is not known why things appeared fifteen years ago now, but they are as clean as new.
+
+ID=243340801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe gym suit shorts worn by Jean at school. It is not known why things appeared fifteen years ago now, but they are as clean as new.
+
+ID=243341201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe sneakers Jin wore when he was in school. It is not known why things appeared fifteen years ago now, but they are as clean as new.
+
+ID=243350701
+
+ID=243350801
+
+ID=243351201
+
+ID=243360901
+
+ID=243360301
+
+ID=243361201
+
+ID=253340701
+
+ID=253340801
+
+ID=253341101
+
+ID=253341201
+
+ID=253350701
+
+ID=253350801
+
+ID=253351101
+
+ID=253351201
+
+ID=253360901
+
+ID=253360201
+
+ID=253361201
+
+ID=253370901
+
+Stella's School Swimwear
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSwimsuit worn by Stella at school. I don't know why things appeared 15 years ago now, but it feels like new. The name tag with Stellar's name is clearly visible. \ NThis costume gives you a special summer gesture.
+
+ID=253371201
+
+Stellar school slippers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSlippers worn by Stella at school. I don't know why things appeared 15 years ago now, but it feels like new. Locker locker keys are also included.
+
+ID=837300008
+
+Costume Transmitter
+
+<font color='#FFBA85'>[Costume Transmitter]Expiration Date: Deleted on November 30, 2016<font color='#9D927B'>\n\nA special transmitter that can acquire a costume. The clothing's identification code was written on the device, but the designation code was broken and it was not possible to know what kind of costume it would be. Rumor has it that you can get very special costumes.
+
+ID=384006001
+
+Sentry Commander
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nThe Akashik Record engraved with the history of the Urgent Sentry Commander. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=384006002
+
+Triple Sentry Commander
+
+ID=384006003
+
+Red Meteor Sentry Commander
+
+ID=384006101
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nThe Akashik Record is the history of the Emergency Sentry Commander [H]. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=384006102
+
+ID=384006103
+
+ID=384006201
+
+Heavy Earth Quaker
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nThe Akashik Record engraved with the history of Heavy Earth Quaker. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=384006202
+
+Iron Man Heavy Earthquaker
+
+ID=384006203
+
+Full Power Heavy Earthquaker
+
+a
+
+ID=384006301
+
+<font color='#FFBA85'>[Akashik Record]<font color='#9D927B'>\nAkashik Record with the history of Heavy Earth Quaker [H]. Right-click to use and absorb its history when used. The history you absorbed can be found in the Akashik Records menu.
+
+ID=384006302
+
+ID=384006303
+
+ID=243050702
+
+[Repaired Jin's Uniform A] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRepaired Uniform.
+
+ID=243050802
+
+[Repaired Jin's Uniform A] Bottoms
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRepaired Uniform.
+
+ID=111554251
+
+Bloody Fate
+
+<font color='#FFBA85'>[Soul Weapon: Sword]<font color='#9D927B'>\n\nSoulWorker special weapon. The weapons made by The Thing's remainings and it contains the grudges and anger of many who have been killed by The Thing.  As a result, the weapons turned black and red as time passed. Used by Haru.\n\nMay our death be passed on to survivors .....\n- ??? -
+
+ID=112554251
+
+Bloody Sacrifice
+
+<font color='#FFBA85'>[Soul Weapon: Guns]<font color='#9D927B'>\n\nSoulWorker special weapon. The weapons made by The Thing's remainings and it contains the grudges and anger of many who have been killed by The Thing.  As a result, the weapons turned black and red as time passed. Used by Erwin.\n\nMay our death be passed on to survivors .....\n- ??? -
+
+ID=113554251
+
+Bloody Dispair
+
+<font color='#FFBA85'>[Soul Weapon: Scythe]<font color='#9D927B'>\n\nSoulWorker special weapon. The weapons made by The Thing's remainings and it contains the grudges and anger of many who have been killed by The Thing.  As a result, the weapons turned black and red as time passed. Used by Lily.\n\nMay our death be passed on to survivors .....\n- ??? -
+
+ID=115554251
+
+Bloody Shirik
+
+<font color='#FFBA85'>[Soul Weapon: Guitar]<font color='#9D927B'>\n\nSoulWorker special weapon. The weapons made by The Thing's remainings and it contains the grudges and anger of many who have been killed by The Thing.  As a result, the weapons turned black and red as time passed. Used by Stella.\n\nMay our death be passed on to survivors .....\n- ??? -
+
+ID=114554251
+
+Bloody Anger
+
+<font color='#FFBA85'>[Soul Weapon: Fists]<font color='#9D927B'>\n\nSoulWorker special weapon. The weapons made by The Thing's remainings and it contains the grudges and anger of many who have been killed by The Thing.  As a result, the weapons turned black and red as time passed. Used by Jin.\n\nMay our death be passed on to survivors .....\n- ??? -
+
+ID=510554251
+
+Bloody Testiment Head
+
+<font color='#FFBA85'>[Gear: Head]<font color='#9D927B'>\n\nSoulWorker exclusive armor. The gears made from The Thing's remains contain the grudges and anger of many who have been killed by The Thing. As a result, after time, it turned into a black and red headgear. Can be equipped on the head. \n\nOnce I was a human and I died here. Mankind will not end here!\n- ??? -
+
+ID=520554251
+
+Bloody Testament Shoulder
+
+<font color='#FFBA85'>[Gear: Shoulder]<font color='#9D927B'>\n\nSoulWorker exclusive armor. The gears made from The Thing's remains contain the grudges and anger of many who have been killed by The Thing. As a result, after time, it turned into a black and red headgear. Can be equipped on the head. \n\nOnce I was a human and I died here. Mankind will not end here!\n- ??? -
+
+ID=530554251
+
+Bloody Testament Body
+
+<font color='#FFBA85'>[Gear: Body]<font color='#9D927B'>\n\nSoulWorker exclusive armor. The gears made from The Thing's remains contain the grudges and anger of many who have been killed by The Thing. As a result, after time, it turned into a black and red headgear. Can be equipped on the head. \n\nOnce I was a human and I died here. Mankind will not end here!\n- ??? -
+
+ID=540554251
+
+Bloody Testament Legs
+
+<font color='#FFBA85'>[Gear: Legs]<font color='#9D927B'>\n\nSoulWorker exclusive armor. The gears made from The Thing's remains contain the grudges and anger of many who have been killed by The Thing. As a result, after time, it turned into a black and red headgear. Can be equipped on the head. \n\nOnce I was a human and I died here. Mankind will not end here!\n- ??? -
+
+ID=410554251
+
+Bloody Grave Pendant
+
+<font color='#FFBA85'>[Gear: Pendant]<font color='#9D927B'>\n\nSoulWorker exclusive accessoires. The gears made from The Thing's remains contain the grudges and anger of many who have been killed by The Thing. As a result, after time, it turned into a black and red headgear. Can be equipped on the neck. \n\nAfter this expedition.... I was supposed to get married...\n- ??? -
+
+ID=430554251
+
+Bloody Grave Earrings
+
+<font color='#FFBA85'>[Gear: Earrings]<font color='#9D927B'>\n\nSoulWorker exclusive accessoires. The gears made from The Thing's remains contain the grudges and anger of many who have been killed by The Thing. As a result, after time, it turned into a black and red headgear. Can be equipped on the ear. \n\nAfter this expedition.... I was supposed to get married...\n- ??? -
+
+ID=440554251
+
+Bloody Grave Relic
+
+<font color='#FFBA85'>[Gear: Relic]<font color='#9D927B'>\n\nSoulWorker exclusive accessoires. The gears made from The Thing's remains contain the grudges and anger of many who have been killed by The Thing. As a result, after time, it turned into a black and red headgear. Can be equipped on the ear. \n\nAfter this expedition.... I was supposed to get married...\n- ??? -
+
+ID=440554252
+
+Bloody Grave Seal
+
+ID=836000101
+
+[Costume Box] Mark of Equillibrium
+
+<font color='#FFBA85'>[Costume Box]<font color='#9D927B'>\n\nA box containing the mark of the equality. You can get a sign of the equality that you can wear on your back.
+
+ID=510553651
+
+Daybreak head
+
+<font color='#FFBA85'>[Gear: Head]<font color='#9D927B'>\n\nSoulWorker exclusive armor. There is a function to protect the wearer's body by instantaneously generating an invisible shield in response to an external attack. Can be worn on the head.
+
+ID=520553651
+
+Daybreak Shoulder
+
+<font color='#FFBA85'>[Gear: Shoulder]<font color='#9D927B'>\n\nSoulWorker exclusive armor. There is a function to protect the wearer's body by instantaneously generating an invisible shield in response to an external attack. Can be worn on the shoulder.
+
+ID=530553651
+
+Daybreak body
+
+<font color='#FFBA85'>[Gear: Body]<font color='#9D927B'>\n\nSoulWorker exclusive armor. There is a function to protect the wearer's body by instantaneously generating an invisible shield in response to an external attack. Can be worn on the body.
+
+ID=540553651
+
+Daybreak Legs
+
+<font color='#FFBA85'>[Gear: Legs]<font color='#9D927B'>\n\nSoulWorker exclusive armor. There is a function to protect the wearer's body by instantaneously generating an invisible shield in response to an external attack. Can be worn on the Legs.
+
+ID=111553651
+
+Daybreak Sword
+
+<font color='#FFBA85'>[Soul Weapon: Sword]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. A weapon in the form of a sword that is light in size and seems to be usable by anyone. However, no one can use it because only the SoulWorker can pull out all the power in the weapon.\nUsed by Haru.
+
+ID=112553651
+
+Daybreak Gun
+
+<font color='#FFBA85'>[Soul Weapon: Gun]<font color='#9D927B'>\n\nSoulWorker weapon. It is a weapon in the form of a pistol, but it cannot be used properly unless it is a SoulWorker, because it uses the bullet energy instead of ordinary bullets.\nUsed by Erwin.
+
+ID=113553651
+
+Daybreak Side
+
+<font color='#FFBA85'>[Soul Weapon: Scythe]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. A giant scythe weapon with special powers that no one can use. The shape may change depending on the application.\nUsed by Lily.
+
+ID=115553651
+
+Daybreak Guitar
+
+<font color='#FFBA85'>[Soul Weapon: Guitar]<font color='#9D927B'>\n\nSoulWorker exclusive weapon. Guitar types of weapons sound strange when used by the general public, but when used by Soulworkers, special powers are expressed.\nUsed by Stella.
+
+ID=114553651
+
+Daybreak Gauntlets
+
+<font color='#FFBA85'>[Soul Weapon: Gauntlets]<font color='#9D927B'>\n\nSoulWorker weapon. It is a hand-held, armor-type weapon that is used only by ordinary people, but it is said to be a special force when used by Soulworker.\nUsed by Jin.
+
+ID=160311001
+
+Offensive BSK: Hawkeye
+
+<font color='#FFBA85'>[Brooch: Increases Attack Damage]<font color='#9D927B'>\n\nBerserker-themed brooch specializing in fortifying attack. The Fiber expansion device which makes soul energy flow through ordinary Fiber and makes it alive. For convenience, it is called brooch. Minor brooch, which increases your ability to attack.\n 
+
+ID=160311002
+
+Offensive BSK: Flying
+
+ID=160311003
+
+Offensive BSK: Fatal
+
+ID=160311004
+
+Offensive BSK: Presser
+
+ID=160311005
+
+Offensive BSK: Breaker
+
+ID=160311006
+
+Offensive BSK: Smelter
+
+ID=160311007
+
+Offensive BSK: Attacker
+
+ID=160311008
+
+Offensive BSK: Shrapnel
+
+ID=160311009
+
+Offensive BSK: Grizzley
+
+ID=160311010
+
+Offensive BSK: Lunatic
+
+ID=160311011
+
+Offensive BSK: Levis
+
+ID=160311012
+
+Offensive BSK: Rumble
+
+ID=160311013
+
+Offensive BSK: Wild Bore
+
+ID=160311014
+
+Offensive BSK: Tigris
+
+ID=160311015
+
+Offensive BSK: Black Mamba
+
+ID=160311016
+
+Offensive BSK: Orca
+
+ID=160311017
+
+Offensive BSK: Poker Fine
+
+ID=160312001
+
+<font color='#FFBA85'>[Brooch: Increases Attack Damage]<font color='#9D927B'>\n\nBerserker-themed brooch specializing in fortifying attack. The Fiber expansion device which makes soul energy flow through ordinary Fiber and makes it alive. For convenience, it is called brooch. Low-level brooch, which increases your ability to attack.\n 
+
+ID=160312002
+
+ID=160312003
+
+ID=160312004
+
+ID=160312005
+
+ID=160312006
+
+ID=160312007
+
+ID=160312008
+
+ID=160312009
+
+ID=160312010
+
+ID=160312011
+
+ID=160312012
+
+ID=160312013
+
+ID=160312014
+
+ID=160312015
+
+ID=160312016
+
+ID=160312017
+
+ID=160313001
+
+<font color='#FFBA85'>[Brooch: Increases Attack Damage]<font color='#9D927B'>\n\nBerserker-themed brooch specializing in fortifying attack. The Fiber expansion device which makes soul energy flow through ordinary Fiber and makes it alive. For convenience, it is called brooch. Intermediate brooch, which increases your ability to attack.\n 
+
+ID=160313002
+
+ID=160313003
+
+ID=160313004
+
+ID=160313005
+
+ID=160313006
+
+ID=160313007
+
+ID=160313008
+
+ID=160313009
+
+ID=160313010
+
+ID=160313011
+
+ID=160313012
+
+ID=160313013
+
+ID=160313014
+
+ID=160313015
+
+ID=160313016
+
+ID=160313017
+
+ID=160314001
+
+<font color='#FFBA85'>[Brooch: Increases Attack Damage]<font color='#9D927B'>\n\nBerserker-themed brooch specializing in fortifying attack. The Fiber expansion device which makes soul energy flow through ordinary Fiber and makes it alive. For convenience, it is called brooch. Advanced brooch, which increases your ability to attack.\n 
+
+ID=160314002
+
+ID=160314003
+
+ID=160314004
+
+ID=160314005
+
+ID=160314006
+
+ID=160314007
+
+ID=160314008
+
+ID=160314009
+
+ID=160314010
+
+ID=160314011
+
+ID=160314012
+
+ID=160314013
+
+ID=160314014
+
+ID=160314015
+
+ID=160314016
+
+ID=160314017
+
+ID=160315001
+
+<font color='#FFBA85'>[Brooch: Increases Attack Damage]<font color='#9D927B'>\n\nBerserker-themed brooch specializing in fortifying attack. The Fiber expansion device which makes soul energy flow through ordinary Fiber and makes it alive. For convenience, it is called brooch. Superior Brooch, which increases your ability to attack.\n 
+
+ID=160315002
+
+ID=160315003
+
+ID=160315004
+
+ID=160315005
+
+ID=160315006
+
+ID=160315007
+
+ID=160315008
+
+ID=160315009
+
+ID=160315010
+
+ID=160315011
+
+ID=160315012
+
+ID=160315013
+
+ID=160315014
+
+ID=160315015
+
+ID=160315016
+
+ID=160315017
+
+ID=160321001

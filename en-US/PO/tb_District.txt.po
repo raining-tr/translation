@@ -1,0 +1,357 @@
+# Raining <rainingdreams@protonmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-01-23 02:37-0500\n"
+"Last-Translator: Raining <rainingdreams@protonmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "bda4d7a7d272f20cb84ec4709cd91c11"
+msgid "ID=101"
+msgstr "ID=101"
+
+msgctxt "cfcd208495d565ef66e7dff9f98764da"
+msgid "0"
+msgstr "0"
+
+msgctxt "a59afb1b7d82ec353921a55c579ee26d"
+msgid "10221"
+msgstr "10221"
+
+msgctxt "1662d1307aaa81230b651ecf00d27180"
+msgid "10232"
+msgstr "10232"
+
+msgctxt "368702d1645b382f8da1c57e770eba33"
+msgid "Test\\SimpleWorld"
+msgstr "Test\\SimpleWorld"
+
+msgctxt "0ce05f8297cb4e2ea9377b3ed8ded911"
+msgid "SimpleWorld"
+msgstr "SimpleWorld"
+
+msgctxt "335f5352088d7d9bf74191e006d8e24c"
+msgid "240"
+msgstr "240"
+
+msgctxt "2b4226dd7ed6eb2d419b881f3ae9c97c"
+msgid "60000"
+msgstr "60000"
+
+msgctxt "72cd229cd30b3c2eb212970dd7f1512c"
+msgid "BGM/Town_CandusCity/GCC_002"
+msgstr "BGM/Town_CandusCity/GCC_002"
+
+msgctxt "c4ca4238a0b923820dcc509a6f75849b"
+msgid "1"
+msgstr "1"
+
+msgctxt "5485dba07364d6ac6cffd169da8672cb"
+msgid "ID=1001"
+msgstr "ID=1001"
+
+msgctxt "c678637edc7f92e778d65a745169ecf6"
+msgid "LoginBackground\\LoginBackground"
+msgstr "LoginBackground\\LoginBackground"
+
+msgctxt "02b08bc0f00ccb0f20c91615bf9c8209"
+msgid "LoginBackground"
+msgstr "LoginBackground"
+
+msgctxt "6b63d7bcd333279b6292756e74b73776"
+msgid "ID=1101"
+msgstr "ID=1101"
+
+msgctxt "9f10996acb2aa93fbf5eaafe1ebeea34"
+msgid "LoginBackground\\CharacterSelect"
+msgstr "LoginBackground\\CharacterSelect"
+
+msgctxt "4b3df465af3fc16a7a4c2d2028204489"
+msgid "CharacterSelect"
+msgstr "CharacterSelect"
+
+msgctxt "5387cff9d71a2100a7e2686769b82e00"
+msgid "ID=1102"
+msgstr "ID=1102"
+
+msgctxt "bffc9878c0884d24aae8d1c7d4aeddde"
+msgid "LoginBackground\\ClassSelect"
+msgstr "LoginBackground\\ClassSelect"
+
+msgctxt "5b8139dcd459463013b382ab649aab4b"
+msgid "ClassSelect"
+msgstr "ClassSelect"
+
+msgctxt "3b43d6c438e36839b8cf569384fdb3de"
+msgid "ID=10001"
+msgstr "ID=10001"
+
+msgctxt "fc1dc4549df0335d7f506edb5d66af16"
+msgid "9100"
+msgstr "9100"
+
+msgctxt "a4f3042e0e9e8343c4d15b3829244167"
+msgid "Cloudream\\F001_TESTFIELD\\F001_TESTFIELD"
+msgstr "Cloudream\\F001_TESTFIELD\\F001_TESTFIELD"
+
+msgctxt "002d9a923c3064879b74192cc2eff3ca"
+msgid "F001_TESTFIELD"
+msgstr "F001_TESTFIELD"
+
+msgctxt "739465804a0e17d2a47c9bc9c805d60a"
+msgid "22954"
+msgstr "22954"
+
+msgctxt "7248f12044a0790cd9933886d17234eb"
+msgid "17870"
+msgstr "17870"
+
+msgctxt "6ff499125f883cd4b047673bf6ab750b"
+msgid "BGM/Town_RoccoTown/RoccoTown"
+msgstr "BGM/Town_RoccoTown/RoccoTown"
+
+msgctxt "fa0832fe44447306a8119e5109dc944e"
+msgid "ID=10003"
+msgstr "ID=10003"
+
+msgctxt "bd6226970e9ffbc8305184d53e5dcd99"
+msgid "9211"
+msgstr "9211"
+
+msgctxt "bd9321352e688dbfa628c71371d754ab"
+msgid "Cloudream\\F031_ROCCOTOWN\\F031_ROCCOTOWN"
+msgstr "Cloudream\\F031_ROCCOTOWN\\F031_ROCCOTOWN"
+
+msgctxt "d9d17b62d6f5920dcdc766d7eb70de28"
+msgid "F031_ROCCOTOWN"
+msgstr "F031_ROCCOTOWN"
+
+msgctxt "9fa8671d6d5f2796100bbd67eca81450"
+msgid "12690"
+msgstr "12690"
+
+msgctxt "5d541464ac15bfb8f0a537b010d13fa1"
+msgid "10205"
+msgstr "10205"
+
+msgctxt "27824fbc94d6042ae62ad35a89688099"
+msgid "BG_Introduction/ROCCOTOWN"
+msgstr "BG_Introduction/ROCCOTOWN"
+
+msgctxt "c684b76803c1e260c25725135955d11b"
+msgid "GUI/World/Maps/F031_ROCCOTOWN"
+msgstr "GUI/World/Maps/F031_ROCCOTOWN"
+
+msgctxt "cd57d21edffb6c416b83c9d5905bd3cc"
+msgid "ID=10021"
+msgstr "ID=10021"
+
+msgctxt "42ba513c42a0fd6558aa44b1de658140"
+msgid "9301"
+msgstr "9301"
+
+msgctxt "f9ecee4da166a8140609d848e0672eda"
+msgid "Cloudream\\F021_CANDUSCITY\\F021_CANDUSCITY"
+msgstr "Cloudream\\F021_CANDUSCITY\\F021_CANDUSCITY"
+
+msgctxt "89655b62bfa20c29d47a58d58bb85e75"
+msgid "F021_CANDUSCITY"
+msgstr "F021_CANDUSCITY"
+
+msgctxt "a82522020d282a227480d2929c6f8a04"
+msgid "14383"
+msgstr "14383"
+
+msgctxt "ed7ec77be8029e30e8532d41448d1c52"
+msgid "12219"
+msgstr "12219"
+
+msgctxt "c22423417d525f7c226601004a99a0a6"
+msgid "BGM/Town_CandusCity/CandusCity"
+msgstr "BGM/Town_CandusCity/CandusCity"
+
+msgctxt "8ddbfdecea8762f4ef8223cf1fc91a88"
+msgid "BG_Introduction/CANDUSCITY"
+msgstr "BG_Introduction/CANDUSCITY"
+
+msgctxt "69e0f7ab03e7db350c9c7a386803942c"
+msgid "GUI/World/Maps/F021_CANDUSCITY"
+msgstr "GUI/World/Maps/F021_CANDUSCITY"
+
+msgctxt "9b8d2ee647e6571cab19a97f9c8bdf31"
+msgid "ID=10031"
+msgstr "ID=10031"
+
+msgctxt "9f067d8d6df2d4b8c64fb4c084d6c208"
+msgid "9401"
+msgstr "9401"
+
+msgctxt "99a81d6296613e0b6c31bbeab6b64a93"
+msgid "Cloudream\\F041_GRACECITY\\F041_GRACECITY"
+msgstr "Cloudream\\F041_GRACECITY\\F041_GRACECITY"
+
+msgctxt "602fbe0ab4700b959f0855ebc4881f32"
+msgid "F041_GRACECITY"
+msgstr "F041_GRACECITY"
+
+msgctxt "9268b90ee8afd29ad0d12427bf27fba6"
+msgid "22233"
+msgstr "22233"
+
+msgctxt "dda594513217fac90bbe56e5248d576c"
+msgid "18421"
+msgstr "18421"
+
+msgctxt "c17311f452ad9e75b3660788a2011456"
+msgid "BGM/Town_GraceCity/GraceCity"
+msgstr "BGM/Town_GraceCity/GraceCity"
+
+msgctxt "752e828024e7c64c6bfd9667cc284bff"
+msgid "BG_Introduction/GRACECITY"
+msgstr "BG_Introduction/GRACECITY"
+
+msgctxt "fd91d2364e76948b899825ee65f77550"
+msgid "GUI/World/Maps/F041_GRACECITY"
+msgstr "GUI/World/Maps/F041_GRACECITY"
+
+msgctxt "a1f583855dbb2d6ad3eb9dac28e0572d"
+msgid "ID=10041"
+msgstr "ID=10041"
+
+msgctxt "b950ea26ca12daae142bd74dba4427c8"
+msgid "9501"
+msgstr "9501"
+
+msgctxt "be3be7909a06fc61adeea23b7ce7545e"
+msgid "Cloudream\\F051_RUINFORTRESS\\F051_RUINFORTRESS"
+msgstr "Cloudream\\F051_RUINFORTRESS\\F051_RUINFORTRESS"
+
+msgctxt "2647cdd65248b644f2f83fb049572da0"
+msgid "F051_RUINFORTRESS"
+msgstr "F051_RUINFORTRESS"
+
+msgctxt "7048a4636546df0025a5a78b0fc517c0"
+msgid "14483"
+msgstr "14483"
+
+msgctxt "b0e9b8f926e424166471bab7d40a686b"
+msgid "18689"
+msgstr "18689"
+
+msgctxt "fec445a6d4591de5c130845397a64621"
+msgid "BGM/Town_Ruinfortress/Ruinfortress"
+msgstr "BGM/Town_Ruinfortress/Ruinfortress"
+
+msgctxt "0cbce64956193ccb2873b51d68260dce"
+msgid "BG_Introduction/RUINFORTRESS"
+msgstr "BG_Introduction/RUINFORTRESS"
+
+msgctxt "6b898e9e94bd36507b98f0cce4058d92"
+msgid "GUI/World/Maps/F051_RUINFORTRESS"
+msgstr "GUI/World/Maps/F051_RUINFORTRESS"
+
+msgctxt "8f39a05cbaeb3e0e85a23b39d0062df8"
+msgid "ID=11001"
+msgstr "ID=11001"
+
+msgctxt "69b4fa3be19bdf400df34e41b93636a4"
+msgid "9988"
+msgstr "9988"
+
+msgctxt "608aecf9d6cb592eeca4c3d74378b013"
+msgid "Cloudream\\DF01_GOLDENCITADEL\\DF01_GOLDENCITADEL"
+msgstr "Cloudream\\DF01_GOLDENCITADEL\\DF01_GOLDENCITADEL"
+
+msgctxt "20ef323fbf3ae075e828a2e9f786cf06"
+msgid "DF01_GOLDENCITADEL"
+msgstr "DF01_GOLDENCITADEL"
+
+msgctxt "5f04c04810f633dd0b4ab8e18efb66cc"
+msgid "11925"
+msgstr "11925"
+
+msgctxt "001b8e3cf76f4e64cbe5be9882db4aa0"
+msgid "12977"
+msgstr "12977"
+
+msgctxt "bbc8c2c5000c74a080ed9c10df99f15c"
+msgid "BGM/Town_DistrictRaid/DistrictRaid"
+msgstr "BGM/Town_DistrictRaid/DistrictRaid"
+
+msgctxt "d09ece0aa31353e27563cd77b024431b"
+msgid "GUI/World/Maps/DF01_GOLDENCITADEL"
+msgstr "GUI/World/Maps/DF01_GOLDENCITADEL"
+
+msgctxt "13c34e3f527d7148e951079bcc3bb935"
+msgid "ID=10051"
+msgstr "ID=10051"
+
+msgctxt "8fe6833df81e224e08ce9be4abfa89a0"
+msgid "9893"
+msgstr "9893"
+
+msgctxt "920777b1a6790afe8fb180db2cdc97bc"
+msgid "Cloudream\\F061_GRASSCOVERCAMP\\F061_GRASSCOVERCAMP"
+msgstr "Cloudream\\F061_GRASSCOVERCAMP\\F061_GRASSCOVERCAMP"
+
+msgctxt "d79a89e375c9e745d4cab520030de4c3"
+msgid "F061_GRASSCOVERCAMP"
+msgstr "F061_GRASSCOVERCAMP"
+
+msgctxt "7ce5417e80aef872ba20917011e39416"
+msgid "17991"
+msgstr "17991"
+
+msgctxt "3f78fa1cdb0e2fda88c2a935950ffdf1"
+msgid "6798"
+msgstr "6798"
+
+msgctxt "10079c601427f279c58c1d514a7eb5ee"
+msgid "BGM/Town_JandiCamp/JandiCamp_Town"
+msgstr "BGM/Town_JandiCamp/JandiCamp_Town"
+
+msgctxt "eefce87dc9956da3ee66ded511ed4da1"
+msgid "GUI/World/Maps/F061_GRASSCOVERCAMP"
+msgstr "GUI/World/Maps/F061_GRASSCOVERCAMP"
+
+msgctxt "587ce003a1e497c9691e881d6afbdb7c"
+msgid "ID=10061"
+msgstr "ID=10061"
+
+msgctxt "274766460cea548fa1a55d476fbfc7ff"
+msgid "9894"
+msgstr "9894"
+
+msgctxt "719d163fa486996ca0e5496500d61bf2"
+msgid "Cloudream\\F071_DIPLUCEHORIZON\\F071_DIPLUCEHORIZON"
+msgstr "Cloudream\\F071_DIPLUCEHORIZON\\F071_DIPLUCEHORIZON"
+
+msgctxt "9cbe067eb884c11c8506514c5aaacf31"
+msgid "F071_DIPLUCEHORIZON"
+msgstr "F071_DIPLUCEHORIZON"
+
+msgctxt "49d33d69dadcaba11f6a82c21b0e9251"
+msgid "62103"
+msgstr "62103"
+
+msgctxt "1a14373ac2f67eefbb625c85e9203063"
+msgid "55139"
+msgstr "55139"
+
+msgctxt "a37aaf52d85e938817373030ce0c1480"
+msgid "BGM/Dipluce Horizon/SW_Dipluce Horizon District"
+msgstr "BGM/Dipluce Horizon/SW_Dipluce Horizon District"
+
+msgctxt "5326185b6c23e6acc204d5f86cbb3c97"
+msgid "BG_Introduction/DIPLUCEHORIZON"
+msgstr "BG_Introduction/DIPLUCEHORIZON"
+
+msgctxt "81813f878a55c48a11e8be9555e43ff2"
+msgid "GUI/World/Maps/F071_DIPLUCEHORIZON"
+msgstr "GUI/World/Maps/F071_DIPLUCEHORIZON"
+

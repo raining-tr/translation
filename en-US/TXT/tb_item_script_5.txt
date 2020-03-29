@@ -1,0 +1,2830 @@
+0
+
+[Stella's School Uniform C] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's junior high school uniform. It is well preserved than what was worn when falling out of the gap.
+
+ID=251040701
+
+[Stella's School Uniform D] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's middle school, Vincent's spring uniform. It is torn like the clothes it was wearing when it fell out of the gap.
+
+ID=251040801
+
+[Stella's School Uniform D] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's junior high school, Vincent's spring and autumn skirt. It is torn like the clothes it was worn when it fell out of the gap.
+
+ID=251041101
+
+[Stella's School Uniform D] Knee Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's junior high school uniform. It is torn like the clothes it was worn when it fell out of the gap.
+
+ID=251041201
+
+[Stella's School Uniform D] Shoes
+
+ID=251050901
+
+[The Evil Of Silent Sorrow] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCostume materialized from Stella's Soul Energy. Top and bottom can be worn at the same time.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=251050801
+
+[The Evil Of Silent Sorrow] Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPants materialized from Stella's Soul Energy, and the undergarments are kept in the inventory for 3 days and then disappear.
+
+ID=251051101
+
+[The Evil Of Silent Sorrow] Knee Socks
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nKnee Socks materialized from Stella's Soul Energy.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=251051201
+
+[The Evil Of Silent Sorrow] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes materialized from Stella's Soul Energy.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=251060101
+
+[Trader's Union Uniform] Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe cap of the costume given by the Trader's Union in the meaning of cherish. This makes me feel like I have to work part-time in the Trade Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=251060701
+
+[Trader's Union Uniform] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe jacket of the costume given by the Trader's Union in the meaning of cherish.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=251060801
+
+[Trader's Union Uniform] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe skirt of the costume which Trader's Union gave in the meaning of cherish. I feel like I should have a part-time job at the Trader's Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=251061101
+
+[Trader's Union Uniform]
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCostume which trader's union gave in the meaning of cherish. This makes me feel like I have to work part-time at the Trade Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=251061201
+
+[Trader's Union Uniform] Sneakers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe sneakers of the costumes which Trader's Union gave in the meaning of cherish. This makes me feel like I have to work part-time in the Trader's Union.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=251070701
+
+[Star Forest League Old Military Uniform] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned military uniform given by Star Forest League. It's old fashioned, so it feels old.\nFor some reason, they disappear after three days of storage in the inventory.
+
+ID=251070801
+
+[Star Forest League Old Military Uniform] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned military uniform skirt from Star Forest League. It's old fashioned, so it feels old.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=251071201
+
+[Star Forest League Old Military Uniform] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots of the old military uniform given by Star Forest League. It's old fashioned, so it feels old.\nFor some reason, they disappear after 3 days of storage in the inventory.
+
+ID=251080101
+
+[Fresh Starter] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hat that may make you look like a fresh starter as if you were just entering kindergarten.
+
+ID=251081001
+
+[Fresh Starter] Randosel
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRandosel might make her look like a fresh newcomer, just as if she had just entered kindergarten.
+
+ID=252011901
+
+[Miner's Clothing] Safety Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hat that is worn by miners.
+
+ID=252010401
+
+[Miner's Clothing] Dust Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is a dust mask, a mask worn by miners.
+
+ID=252010701
+
+[Miner's Clothing] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is a costume worn by miners. Top and bottom can be worn at the same time.
+
+ID=252010501
+
+[Miner's Clothing] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThes are gloves worn by miners.
+
+ID=252011201
+
+[Miner's Clothing] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA pair of boots worn by miners.
+
+ID=252011301
+
+[Miner's Clothing] Accessory
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt is a hip accessory worn by miners.
+
+ID=252020301
+
+[Ned Company Mercenary Outfit] Goggles
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGoggles worn by Ned Company mercenaries. They're strong like the Ned Company is.
+
+ID=252020401
+
+[Ned Company Mercenary Outfit] Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nMask worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=252020901
+
+[Ned Company Mercenary Outfit] Costume 
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nNed Company Mercenary costume. It is strong like the Ned Company is. Top and bottom can be worn at the same time.
+
+ID=252020501
+
+[Ned Company Mercenary Outfit] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=252021201
+
+[Ned Company Mercenary Outfit] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=252021301
+
+[Ned Company Mercenary Outfit] Walkie Talkie Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA walkie talkie bag worn by Ned Company mercenaries. It is strong like the Ned Company is.
+
+ID=252030101
+
+[Star Forest League Regular Uniform] Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCeremony Cap of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=252030701
+
+[Star Forest League Regular Uniform] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular military uniform given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=252030801
+
+[Star Forest League Regular Uniform] Bottom 
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular military pants given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=252030301
+
+[Star Forest League Regular Uniform] Officer Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOfficer's Glasses of the Regular Military Uniform given by Star Forest League. If you put it on, I think I can make a good punch.
+
+ID=252030501
+
+[Star Forest League Regular Uniform] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=252031101
+
+[Star Forest League Regular Uniform] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSocks of Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=252031201
+
+[Star Forest League Regular Uniform] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nRegular Military Shoes given by Star Forest League. The stylish design is more impressive than the old clothes.
+
+ID=252031601
+
+[Star Forest League Regular Uniform] Officer's Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOfficer's Hat from the Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=252031001
+
+[Star Forest League Regular Uniform] Communication Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCommunication Bag of the Regular Military Uniform given by Star Forest League. It seems to have allowed me to formally dress like a regular dress.
+
+ID=253010901
+
+[Detective Academy Uniform] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSchool Uniforms worn by women in the detective school. I think it's easy to unravel a missing case. Top and bottom can be worn at the same time.
+
+ID=253010801
+
+[Detective Academy Uniform] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBottoms of the school uniform which women of detective school wear. I think it's easy to unravel a missing case.
+
+ID=253010101
+
+[Detective Academy Uniform] Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe cap of the school uniform worn by the women of the detective school. I think it's easy to unravel a missing case.
+
+ID=253011101
+
+[Detective Academy Uniform] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStockings of school uniform worn by women of detective school. I think it's easy to unravel a missing case.
+
+ID=253011201
+
+[Detective Academy Uniform] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes of the school uniform worn by women of detective school. I think it's easy to unravel a missing case.
+
+ID=253021901
+
+[Sporty Look] Cap
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA sporty look Cap
+ that looks like it will be worn by athletic women who love sports. If you wear it wrong, you may look unemployed.
+
+ID=253020701
+
+[Sporty Look] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSporty look tops that are likely to be worn by sporty women who love sports. If you wear it wrong, you may look unemployed.
+
+ID=253020801
+
+[Sporty Look] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBottoms of sporty look which are likely to be worn by active women who like to exercise. If you wear it wrong, you may look unemployed.
+
+ID=253021001
+
+[Sporty Look] Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSporty look bag that is likely to be worn by active women who like to exercise. If you wear it wrong, you may look unemployed.
+
+ID=253020301
+
+[Sporty Look] Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGlasses with a sporty look that are likely to be worn by active women who like to exercise. If you wear it wrong, you may look unemployed.
+
+ID=253020501
+
+[Sporty Look] Sport Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSport Gloves with a sporty look that sports women like to wear. If you wear it wrong, you may look unemployed.
+
+ID=253021201
+
+[Sporty Look] Sneakers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSporty look sneakers are likely to be worn by active women who like to exercise. If you wear it wrong, you may look unemployed.
+
+ID=253030701
+
+[Modern Casual] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nTops of modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=253030801
+
+[Modern Casual] Bottom
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe bottom of the modern casual girls clothes which are likely to be worn by trendy women. It's alright but it can look nice.
+
+ID=253030301
+
+[Modern Casual] Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGlasses in modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=253030501
+
+[Modern Casual] Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBracelets of modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=253031201
+
+[Modern Casual] Casual Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCasual shoes in modern casual girls' clothes that are likely to be worn by trend-sensitive women. It's alright but it can look nice.
+
+ID=253040301
+
+[Doctor Outfit] Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe glasses of the doctor's clothing worn by doctors. It may seem like playing house, but I feel it.
+
+ID=253040901
+
+[Doctor Outfit] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nDoctor's costume worn by doctors. Top and bottom can be worn at the same time. It may seem like playing house, but I feel it.
+
+ID=253041101
+
+[Doctor' Outfit] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe stockings of the doctor clothes which doctors wear. It may seem like playing house, but I feel it.
+
+ID=253041201
+
+[Doctor Outfit] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes in doctor's clothing worn by doctors. It may seem like playing house, but I feel it.
+
+ID=253050701
+
+[Stella's Uniform A] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Vincent is wearing a school uniform. It doesn't look new, but it looks better than before.
+
+ID=253050801
+
+[Stella's Uniform A] Skirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Vincent is wearing a school uniform. It doesn't look new, but it looks better than before.
+
+ID=253051101
+
+[Stella's Uniform A] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's Vincent is wearing a school uniform. It doesn't look new, but it looks better than before.
+
+ID=253060701
+
+[Stella's Uniform B] Top
+
+ID=253060801
+
+[Stella's Uniform B] Skirt
+
+ID=253061101
+
+[Stella's Uniform B] Stockings
+
+ID=253070701
+
+[Stella's Uniform C] Top
+
+ID=253070801
+
+[Stella's School Uniform C] Skirt
+
+ID=253071101
+
+[Stella's School Uniform C] Stockings
+
+ID=253080701
+
+[Stella's School Uniform D] Top
+
+ID=253080801
+
+[Stella's School Uniform D] Skirt
+
+ID=253081101
+
+[Stella's School Uniform D] Stockings
+
+ID=253090901
+
+[Beauty School] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nUniform costumes that seem to be worn in private schools in cartoons. Somehow, the price seems to be much more expensive than regular school uniforms. Top-bottoms can be worn at the same time.
+
+ID=253090101
+
+[Beauty School] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA school uniform hat that may be worn in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=253091101
+
+[Beauty School] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStockings in school uniforms that may be worn in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=253091201
+
+[Beauty School] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSchool uniform shoes that you might wear in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=253100901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCostume materialized from Stella's Soul Energy. Top and bottom can be worn at the same time.
+
+ID=253100801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBottom materialized from Stella's Soul Energy.
+
+ID=253101101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCostume materialized from Stella's Soul Energy.
+
+ID=253101201
+
+[The Evil Of Sorrow] Shoes
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nShoes materialized from Stella's Soul Energy.
+
+ID=253110101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe cap of the costume given by the trader's union in the meaning of cherish. This makes me feel like I have to work part-time in the Trader's Union.
+
+ID=253110701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA jacket given by the trader's Union in the sense of cherish. This makes me feel like I have to work part-time at the Trader's Union.
+
+ID=253110801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe skirt of the costume which Trader's Union gave in the meaning of cherish. This makes me feel like I have to work part-time in the Trader's Union.
+
+ID=253111101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStockings of the costume which trader's union gave in meaning of cherish. This makes me feel like I have to work part-time in the Trade Union.
+
+ID=253111201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe sneakers of the costumes which trader's union gave in the meaning of cherish. This makes me feel like I have to work part-time at the Trade Union.
+
+ID=253120701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned military uniform given by Star Forest League. It's old fashioned, so it feels old.
+
+ID=253120801
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOld-fashioned military uniform skirt from Star Forest League. It's old fashioned, so it feels old.
+
+ID=253121201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots of the old military uniform given by Star Forest League. It's old fashioned, so it feels old.
+
+ID=211691001
+
+[EV] Glutton Backpack
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe backpack is modeled after Glutton. At first glance, it may look cute, but if you look at it, it may look like a living glutton and feel scary.
+
+ID=221691001
+
+ID=231691001
+
+ID=251691001
+
+ID=213011401
+
+Baseball Bat
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Sword]<font color='#9D927B'>\n\nA type of fashion item for soul weapons that puts a hologram on the soul weapon to give it the look you want.\nA large baseball bat with a heart engraved on it. It is said that the bat adds the power of love to hit the home run well.
+
+ID=223011401
+
+Big Shuttle Gun
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Pistol]<font color='#9D927B'>\n\nA type of fashion item for soul weapons that puts a hologram on the soul weapon to give it the look you want.\nPistol with a large shuttlecock embedded. The shuttle cock is not fired.
+
+ID=233011401
+
+Hockey stick
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Scythe]<font color='#9D927B'>\n\nA type of fashion item for soul weapons that puts a hologram on the soul weapon to give it the look you want.\nHockey stick with a cat's paw drawn. Be careful not to hit this stick as you may have a heart attack. Popular with some people.
+
+ID=253011401
+
+Cat Ear Racket Guitar
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Guitar]<font color='#9D927B'>\n\nA type of fashion item for soul weapons that puts a hologram on the soul weapon to give it the look you want.\nA guitar in the form of a tennis racket with a cat's ear rising. The unusual shape with cat ears limits the number of people available.
+
+ID=213140101
+
+[SGL Guard] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for the Star Forest League SoulWorker, SGL Guard's Hat. Star Forest League's costume designer was inspired by the design that only Haru can wear it.
+
+ID=213140901
+
+[SGL Guard] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Forest Star Soul Worker, SGL Guard's Outfit. Star Forest League's costume designer was inspired by the design that only Haru can wear it.
+
+ID=213140501
+
+[SGL Guard] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Special Uniform for Star Forest League Soul Worker, SGL Guard's Gloves. Star Forest League's costume designer was inspired by the design that only Haru can wear it.
+
+ID=213141101
+
+[SGL Guard] Stockings
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter special military uniform for Forest Star SoulWorker, SGL Guard's stockings. Star Forest League's costume designer was inspired by the design that only Haru can wear it.
+
+ID=213141201
+
+[SGL Guard] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Forest Star SoulWorker, SGL Guard's Boots. Star Forest League's costume designer was inspired by the design that only Haru can wear it.
+
+ID=211090701
+
+White Short Sleeve T-Shirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWhite short-sleeved T-shirt that emphasizes a very general feel. It's very common, but if you look pretty in this general outfit, you are said to be beautiful. Let's challenge beauty.
+
+ID=211100701
+
+Checkered Shirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCheckered Shirt to emphasize a very common feel. Depending on the bottoms and accessories you wear together, you can cross between the worst and best fashions.
+
+ID=211110701
+
+Striped T-Shirt
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStriped t-shirt that emphasizes a very general feel. When talking about the basic target, there is a reason to appear in the ranks. Emphasize the glamorous charm among the colorful clothes.
+
+ID=211120801
+
+Ivory Skinny Jeans
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIvory skinny jeans. If your skin color is the same as your pants, it may seem that you are not wearing it at first glance.
+
+ID=213210901
+
+[Slumber] Drowsy Slumber
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIf you wear it, you can't sleep and can't stand it. Looks very comfortable I just want to lie down.
+
+ID=213211201
+
+[Pajamas] Slippers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIndoor slippers. I hope you don't go back and forth between the bathroom and the room.
+
+ID=223210901
+
+ID=223211201
+
+ID=233210901
+
+ID=233211201
+
+ID=253210901
+
+ID=253211201
+
+ID=213150901
+
+[Special Pajama] Costume
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nOne of the pajamas that you can comfortably wear at home every day is the pajama.\nNightwear is a good thing. Its defenseless appearance is wonderful at any time. I want to pull the tail.
+
+ID=213151201
+
+[Special Pajama] Bear Slippers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIndoor slippers that mimic the bear.\nThe power of a bear is so terrible that there is nothing to be afraid of now.
+
+ID=223150901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAmong the pajamas that Erwin wears comfortably at home, the pajamas were especially his favorite.\nI think I can roll anywhere.
+
+ID=223151201
+
+[Special Pajama] Panda Slippers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIndoor slippers that mimic pandas.\nPandas are so cute. As an endangered species, if you meet a panda on the road, let's touch it with love.
+
+ID=233150901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nParticularly caring pajamas that Lily wears at home.\nI'm shocked Lily in this suit seems to have to be faithful.
+
+ID=233151201
+
+[Special Pajama] Cat Slippers
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIndoor slippers mimicking cats.\nThe texture of the cat is imitated up to the texture of the hair. The problem is that the hair is missing.
+
+ID=253150901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStella's pajamas that she wears comfortably at home.\nThe cuteness of pajamas has gone too far. Cute enough to strike the heart.
+
+ID=253151201
+
+[Special Pajama] Rabbits Slippers.
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIndoor slippers mimicking rabbits.\nDid you know that white rabbits are actually due to the albino gene? It's not white at all.
+
+ID=211130801
+
+Brown Cotton Shorts
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBrown cotton shorts that seem to go on exploration with a backpack full of luggage. Looks very cool.
+
+ID=211140801
+
+Black Vanta
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIf you wear it well, you can become a fashion people, if you wear it badly, you can become a fashion terrorist. If you wear it well, you can look stylish.
+
+ID=211150101
+
+Green Sprout
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGreen sprout that looks very fresh. You may be wondering if there is dirt on your head.
+
+ID=211160101
+
+Star Headband
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA headband with a star that seems to be attached to a Christmas tree. It may look cute when worn, but it may vary from person to person.
+
+ID=211170101
+
+Dandelion Flower
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA very fresh looking dandelion flower. You can't doubt whether you're eating food from your head.
+
+ID=211180101
+
+Mini Umbrella
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA mini umbrella that seems to be stuck in a cocktail glass. I put it on my head, but I don't think it will stop the rain.
+
+ID=211190101
+
+Royal Ribbon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA royal ribbon that seems to be on the head of a female mouse in a fairy tale world. Regardless of gender, it can seem very difficult to wear.
+
+ID=211200301
+
+Heart Shape Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHeart-shaped glasses that seem to go to the amusement park. Depending on the writing, it can look very funny or cute.
+
+ID=211210301
+
+Star Shape Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nStar-shaped glasses that seem to go to the amusement park. Please note that you may be mistaken as a part-time student.
+
+ID=211220301
+
+Nerdy Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWhen worn, these glasses feel like you'll be intrigued. For some reason, it seems that BGM will flow out while shining and shining..
+
+ID=211230301
+
+Square Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's too square, so it's unusual. Be careful as the angled face may look more angled when worn.
+
+ID=211240301
+
+Big Nose Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis is often used as a gag. No matter how handsome and pretty you wear it, you can break it.
+
+ID=211251301
+
+Brown Leather Bottom
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\nBottom part made of fine leather. The material is high quality but feels alright when viewed from afar.
+
+ID=211261301
+
+Cylindrical Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt is a brown cylindrical pouch. Note that it may roll off easily if dropped.
+
+ID=211271301
+
+Drink Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAccessory to hold soda cans. If you leave the can without drinking it all, it can cause catastrophic events in your stomach.
+
+ID=211281301
+
+Paper Bundle
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA bundle of paper, that seems to have an important message or map drawn on it. In reality, however, nothing is written.
+
+ID=211291301
+
+Knitted Pouch
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\nPouch made of knitted material. If you put a heavy object, it can easily hang.
+
+ID=211300501
+
+Cure Jelly Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBracelet with a cure jelly shaped pendant. Somehow it feels like it's healing.
+
+ID=211311301
+
+Medical Box Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA Medical Box Pouch that makes it easy to carry your first aid kit. Anytime, anywhere seems to be able to cure the injured.
+
+ID=211320101
+
+Money Bag 
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt's a heavier head and a neck disk, but I don't know how to get rich.
+
+ID=211330101
+
+VVIP Icon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nVVIP icon presented to Trader's union as a special customer. It's glorious, but I'm a little sad because of the money I spent.
+
+ID=211341301
+
+Nano Kit Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nNano Kit Pouch made for easy carrying. It seems that it can repair broken goods anytime and anywhere.
+
+ID=211351001
+
+Extra Large Monkey Wrench
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAn Extra Large Monkey Wrench that only people who have done a lot of repairs and who have seen the end of repairs can have. It may seem like a really good technician.
+
+ID=211360501
+
+Revive Device Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBracelet with a revive device as a pendant. It seems like the dead can be revived.
+
+ID=211370101
+
+Angel Ring
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAngel Ring is given to a person who has experienced so many deaths. When worn, it feels like an angel.
+
+ID=211380101
+
+Junk Knight's Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA Junk Knight Mask made from data collected by killing many soul junks. You can sense the feeling of junk knight when worn.
+
+ID=211392001
+
+Puppet Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nPuppet's head mask made from data collected by defeating numerous dolls. It can be misunderstood as a puppet when worn.
+
+ID=211400501
+
+Ned Company Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA bracelet made of data collected by defeating many enemies of Ned Company. I think I can be disguised as a Ned Company.
+
+ID=211410101
+
+Rapid Flame Horns
+
+<font color='#FFBA85'>[외형]<font color='#9D927B'>\n\nHorns made from data collected by defeating numerous Firestream Batallion. I think I can be disguised as one of them.
+
+ID=211420101
+
+Drone Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA drone made of data collected by defeating numerous robots. Floating above the head seems to perform a tremendous function, but in fact it is floating above the head has no function.
+
+ID=211430301
+
+Laban's Sunglasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSunglasses made to look like the sunglasses worn by Blood Soul Worker Laban. Made by Star Forest League as a contribution to numerous battles with Blood Soul Worker.
+
+ID=211440501
+
+Broken Shield Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBroken shield-shaped bracelet made to honor the contributions of many enemies. The shield is broken, but it doesn't seem to help a lot.
+
+ID=211451001
+
+Broken Shield Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA broken shield shaped bag made to commemorate the countless enemy shields. The shield is broken, but it doesn't seem to help a lot.
+
+ID=211460101
+
+Combo Icon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCombo icon fixed in midair as Combo recorder overheated. ST-Lab put it in a headband type tablet device so that you can easily carry it around. I think you can do a better combo if you wear it.
+
+ID=211470101
+
+Blue Question Mark Icon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBlue question mark icon designed to honor a contribution that has been asked by people. Beware that you are mistaken as a normal villager, not a soul worker, and someone may go to complete the quest.
+
+ID=211480101
+
+Blue Exclamation Mark Icon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA blue exclamation point icon designed to honor the contribution bought by many people. Be careful you may be mistaken for a regular villager and not a soulworker, someone might go for a commission.
+
+ID=211490501
+
+Compass Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA compass bracelet designed to congratulate you for wandering around the mission area. If you wear it, you won't get lost anywhere.
+
+ID=211501001
+
+Explorer's Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAn adventurer's backpack bag, dedicated to commemorating numerous mission areas. Wearing it you seem to be able to survive anywhere.
+
+ID=211510101
+
+Cold Wine Glass
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA headband made to remind the fulfillment of the mission so fast that the alcohol does not cool down even after the pour in the glass. If you're thirsty during the mission, it might be a good drink.
+
+ID=211520101
+
+Never Cold Curry Rice
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA headband made to remind the mission of serving three minutes of curry in a microwave so that you can eat freshly cooked curry when you go on a mission. If you're hungry during a mission, you might want to eat a curry over your head.
+
+ID=211530101
+
+SS Icon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHead accessory made to remind accomplishing a lot of rank rank SS. Like the SS rank, it seems to shine even from a distance.
+
+ID=211540101
+
+Premium SS Icon
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA head accessory made to remind the accomplishment of mission rank SS. Added wings to add glamor. Like the SS rank, it seems to shine even from a distance.
+
+ID=211550101
+
+F Symbol
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA head accessory made to remind the achievement of Rank F. The F pendant shines red like a stigma so you can see it from afar.
+
+ID=211560101
+
+Premium F Symbol
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA head accessory made to remind the accomplishment of mission rank F. Devil's wings were attached to the existing red F pendant, meaning that he did something that he couldn't do on purpose.
+
+ID=211570501
+
+Coin Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nCoin bracelet made for those who like to collect coins. If you are kicking, I think I can pick up coins better.
+
+ID=211580101
+
+Piggy Bank Hairband
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nFor those who love to collect coins, a piggy bank hat designed to save the collected coins right away. It may be good to use a pig belly in an emergency.
+
+ID=211590501
+
+Ether Bracelet
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nEther Bracelet made by refining Ether for those who like it. If you are wearing it, you will be able to collect more ethers.
+
+ID=211600301
+
+Ether Shape Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGlasses made by refining ether for those who love to collect it. If you wear it, you can see the ether without it..
+
+ID=211611301
+
+Hourglass Pouch
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSoul Worker has been in the world for a long time, created by the power of refined records. It can be used in the form of a accessory.
+
+ID=211621001
+
+Alarm Clock Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nAn alarm clock created by Soulworker for a long time in the world and with the power of refined records. Can be used in the form of a bag.
+
+ID=211630101
+
+Dreamland Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nFor those who seem to have a lot of fatigue, a hat made to sleep well. As soon as you wear it, you'll be able to fall asleep.
+
+ID=211641001
+
+Teddy Bear Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThis doll is made for a good night's sleep for those who seem to have accumulated a lot of fatigue. It is made in the form of a bag for carrying. If you wear it, you will be able to fall asleep immediately.
+
+ID=211650301
+
+Trisha's Hacking Goggles
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hacking goggle made by Tricia in exchange for frequent use of reinforcement. Trisha's dear meaning is included. It is modeled simply and does not have the function of hacking.
+
+ID=211661301
+
+Trisha's Hacking Module
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hacking module created by Trisha in exchange for frequent use of enhancement Trisha's dear meaning is included. It is modeled simply and does not have the function of hacking.
+
+ID=211672001
+
+Zenith's Cat Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA cat mask made by Zenith in exchange for his frequent use of the craft. Zenith's dear meaning is contained.
+
+ID=211681001
+
+Zenith's Deluxe Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe bag made by Zenith in exchange for making frequent use. Although it is a bag of everything, the bag is empty. Zenith's dear meaning is contained.
+
+ID=223140101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Star Forest Soul Worker, SGL Guard's Hat. Star Forest League's costume designer was inspired by the design of Erwin. Only Erwin can wear it.
+
+ID=223140901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Star Forest Soul Worker, SGL Guard''s Outfit. Star Forest League's costume designer was inspired by the design of Erwin. Only Erwin can wear it.
+
+ID=223140501
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Special Uniform for Star Forest League Soul Worker, SGL Guard's Gloves. Star Forest League's costume designer was inspired by the design of Erwin. Only Erwin can wear it.
+
+ID=223140301
+
+[SGL Guard] Sunglasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nSGL Guardr's winter special military uniform and SGL Guard's Sunglasses. Star Forest League's costume designer was inspired by the design of Erwin. Only Erwin can wear it.
+
+ID=223141201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Forest Star Soulworkers, SGL Guard's Boots. Star Forest League's costume designer was inspired by the design of Erwin. Only Erwin can wear it.
+
+ID=221090701
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWhite short-sleeved T-shirt that emphasizes a very general feel. It's very common, but if you look great in this general outfit, you're really handsome. Let's challenge handsome.
+
+ID=221100701
+
+ID=221110701
+
+ID=221120801
+
+ID=221130801
+
+ID=221140801
+
+ID=221150101
+
+ID=221160101
+
+ID=221170101
+
+ID=221180101
+
+ID=221190101
+
+ID=221200301
+
+ID=221210301
+
+ID=221220301
+
+ID=221230301
+
+ID=221240301
+
+ID=221251301
+
+ID=221261301
+
+ID=221271301
+
+ID=221281301
+
+ID=221291301
+
+ID=221300501
+
+ID=221311301
+
+ID=221320101
+
+ID=221330101
+
+ID=221341301
+
+ID=221351001
+
+ID=221360501
+
+ID=221370101
+
+ID=221380101
+
+ID=221392001
+
+ID=221400501
+
+ID=221410101
+
+ID=221420101
+
+ID=221430301
+
+ID=221440501
+
+ID=221451001
+
+ID=221460101
+
+ID=221470101
+
+ID=221480101
+
+ID=221490501
+
+ID=221501001
+
+ID=221510101
+
+ID=221520101
+
+ID=221530101
+
+ID=221540101
+
+ID=221550101
+
+ID=221560101
+
+ID=221570501
+
+ID=221580101
+
+ID=221590501
+
+ID=221600301
+
+ID=221611301
+
+ID=221621001
+
+ID=221630101
+
+ID=221641001
+
+ID=221650301
+
+ID=221661301
+
+ID=221672001
+
+ID=221681001
+
+ID=233140101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Forest Star Soul Worker, SGL Guard's Hat. Star Forest League's costume designer saw this design inspired by Lily. Only Lily can wear it.
+
+ID=233140901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Star Forest Soul Worker, SGL Guard's Outfit. Star Forest League's costume designer saw Lily and was inspired. Only Lily can wear it.
+
+ID=233140501
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Special Uniform for Star Forest League Soul Worker, SGL Guard's Gloves. Star Forest League's costume designer saw Lily and was inspired. Only Lily can wear it.
+
+ID=233141101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Special Uniform for Star Forest League Soul Worker, SGL Guard's Stockings. Star Forest League's costume designer saw Lily and was inspired. Only Lily can wear it.
+
+ID=233141201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Star Forest Soul Worker, SGL Guard's Boots. Star Forest League's costume designer saw Lily and was inspired. Only Lily can wear it.
+
+ID=231090701
+
+ID=231100701
+
+ID=231110701
+
+ID=231120801
+
+ID=231130801
+
+ID=231140801
+
+ID=231150101
+
+ID=231160101
+
+ID=231170101
+
+ID=231180101
+
+ID=231190101
+
+ID=231200301
+
+ID=231210301
+
+ID=231220301
+
+ID=231230301
+
+ID=231240301
+
+ID=231251301
+
+ID=231261301
+
+ID=231271301
+
+ID=231281301
+
+ID=231291301
+
+ID=231300501
+
+ID=231311301
+
+ID=231320101
+
+ID=231330101
+
+ID=231341301
+
+ID=231351001
+
+ID=231360501
+
+ID=231370101
+
+ID=231380101
+
+ID=231392001
+
+ID=231400501
+
+ID=231410101
+
+ID=231420101
+
+ID=231430301
+
+ID=231440501
+
+ID=231451001
+
+ID=231460101
+
+Combo icon fixed in midair as Combo recorder overheated. From ST-Lab<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIt was put in a headband type tablet device so that you could carry it around comfortably. I think you can do a better combo if you wear it.
+
+ID=231470101
+
+ID=231480101
+
+ID=231490501
+
+ID=231501001
+
+ID=231510101
+
+ID=231520101
+
+ID=231530101
+
+ID=231540101
+
+ID=231550101
+
+ID=231560101
+
+ID=231570501
+
+ID=231580101
+
+ID=231590501
+
+ID=231600301
+
+ID=231611301
+
+ID=231621001
+
+ID=231630101
+
+ID=231641001
+
+ID=231650301
+
+ID=231661301
+
+ID=231672001
+
+ID=231681001
+
+ID=253140101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Forest Star Soul Worker, SGL Guard's Hat. Star Forest League's costume designer was inspired by Stella's design. Only Stella can wear it.
+
+ID=253140901
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Forest Star Soul Worker, SGL Guard's Outfit. Star Forest League's costume designer was inspired by Stella's design. Only Stella can wear it.
+
+ID=253140501
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Special Uniform for Star Forest Soul Worker, Forest Guard's Gloves. Star Forest League's costume designer was inspired by Stella's design. Only Stella can wear it.
+
+ID=253141101
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Special Uniform for Star Forest League Soul Worker, Forest Guard's Stockings. Star Forest League's costume designer was inspired by Stella's design. Only Stella can wear it.
+
+ID=253141201
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nWinter Forest Uniform for Forest Star Soul Worker, Forest Guard's Boots. Star Forest League's costume designer was inspired by Stella's design. Only Stella can wear it.
+
+ID=251090701
+
+ID=251100701
+
+ID=251110701
+
+ID=251120801
+
+ID=251130801
+
+ID=251140801
+
+ID=251150101
+
+ID=251160101
+
+ID=251170101
+
+ID=251180101
+
+ID=251190101
+
+ID=251200301
+
+ID=251210301
+
+ID=251220301
+
+ID=251230301
+
+ID=251240301
+
+ID=251251301
+
+ID=251261301
+
+ID=251271301
+
+ID=251281301
+
+ID=251291301
+
+ID=251300501
+
+ID=251311301
+
+ID=251320101
+
+ID=251330101
+
+ID=251341301
+
+ID=251351001
+
+ID=251360501
+
+ID=251370101
+
+ID=251380101
+
+ID=251392001
+
+ID=251400501
+
+ID=251410101
+
+ID=251420101
+
+ID=251430301
+
+ID=251440501
+
+ID=251451001
+
+ID=251460101
+
+ID=251470101
+
+ID=251480101
+
+ID=251490501
+
+ID=251501001
+
+ID=251510101
+
+ID=251520101
+
+ID=251530101
+
+ID=251540101
+
+ID=251550101
+
+ID=251560101
+
+ID=251570501
+
+ID=251580101
+
+ID=251590501
+
+ID=251600301
+
+ID=251611301
+
+ID=251621001
+
+ID=251630101
+
+ID=251641001
+
+ID=251650301
+
+ID=251661301
+
+ID=251672001
+
+ID=251681001
+
+ID=212040101
+
+[Ned Improved Military Uniform] Hat
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA hat worn by elite mercenaries of Ned Company. It's an enemy, but you can't help being cool.
+
+ID=212040102
+
+[Ned Improved Military Uniform] Headset
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nHeadset worn by elite mercenaries of Ned Company. It is state of the art. Music is not coming out, but somehow humming.
+
+ID=212040701
+
+[Ned Improved Military Uniform] Top
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA military uniform worn by the elite mercenaries of Ned Company. The neck is covered with fur and warm.
+
+ID=212040801
+
+[Ned Improved Military Uniform] Pants
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nTrousers worn by elite mercenaries of the Ned Company. The smooth line is a gem.
+
+ID=212040301
+
+[Ned Improved Military Uniform] Glasses
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGlasses worn by elite mercenaries of the Ned Company. It's a good place to stay. Are you going to have more combat power?
+
+ID=212040501
+
+[Ned Improved Military Uniform] Gloves
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nGloves of military uniform worn by elite mercenaries of Ned Company. It's an enemy, but you can't help being cool.
+
+ID=212041001
+
+[Ned Improved Military Uniform] Notebook Bag
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nA laptop bag carried by the elite mercenaries of Ned Company. Elite, after all, is different.
+
+ID=212041201
+
+[Ned Improved Military Uniform] Boots
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nBoots of military uniform worn by elite mercenaries of Ned Company. Good ventilation
+
+ID=222040101
+
+ID=222040102
+
+ID=222040701
+
+ID=222040801
+
+ID=222040301
+
+ID=222040501
+
+ID=222041001
+
+ID=222041201
+
+ID=232040101
+
+ID=232040102
+
+ID=232040701
+
+ID=232040801
+
+ID=232040301
+
+ID=232040501
+
+ID=232041001
+
+ID=232041201
+
+ID=213090902
+
+[EV][Beauty School Look] Costume
+
+<font color='#FFBA85'>[Event Only Costume]<font color='#9D927B'>\n\nCostumes of school uniform that may be worn in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform. Top and bottom can be worn at the same time.
+
+ID=213090102
+
+[EV][Beauty School Look] Hat
+
+<font color='#FFBA85'>[Event Only Costume]<font color='#9D927B'>\n\nA school uniform hat that may be worn in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=213091102
+
+[EV][Beauty School Look] Stockings
+
+<font color='#FFBA85'>[Event Only Costume]<font color='#9D927B'>\n\nStockings in school uniforms that may be worn in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=213091202
+
+[EV][Beauty School Look] Shoes
+
+<font color='#FFBA85'>[Event Only Costume]<font color='#9D927B'>\n\nSchool uniform shoes that you might wear in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=223100702
+
+EV][Handsome School Look] Costume
+
+ID=223092802
+
+ID=223090302
+
+[EV][Handsome School Look] Glasses
+
+<font color='#FFBA85'>[Event Only Costume]<font color='#9D927B'>\n\nThe glasses of school uniform which we may wear in private school in cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=223120502
+
+[EV][Handsome School Look] Watch
+
+<font color='#FFBA85'>[Event Only Costume]<font color='#9D927B'>\n\nA watch of school uniforms that you might wear in a private school in a cartoon. Somehow, the price seems to be much more expensive than the uniform.
+
+ID=223131202
+
+[EV][Handsome School Look] Shoes
+
+ID=233090902
+
+ID=230309002
+
+<font color='#FFBA85'>[Event Only Costume]<font color='#9D927B'>\n\nA school uniform hat that may be worn in a private school in a cartoon. For some reason, the price seems to be much higher than ordinary hats.
+
+ID=233091102
+
+ID=233091202
+
+ID=253090902
+
+ID=253090102
+
+ID=253091102
+
+ID=253091202
+
+ID=252040101
+
+ID=252040102
+
+ID=252040701
+
+ID=252040801
+
+ID=252040301
+
+ID=252040501
+
+ID=252041001
+
+ID=252041201
+
+ID=211011401
+
+Hollow Light Sword
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Sword]<font color='#9D927B'>\n\nThe old sword found inside the gap is hologramized. In fact, it is clear that the man who fought with this one was a militant.Somehow, I feel savage.
+
+ID=221011401
+
+Hollow Light Gun
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Gun]<font color='#9D927B'>\n\nThe old gun found inside the gap is a hologram. It looks like it will take some time to launch, but it's not really the case. It's a hologram!
+
+ID=231011401
+
+Hollow Light Scythe
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Scythe]<font color='#9D927B'>\n\nHologram of the old scythe found inside the abnormal blank. For some reason, it seems like they have the blood of so many people. It's because of the feeling that it's cool.
+
+ID=251011401
+
+Hollow Light Guitar
+
+<font color='#FFBA85'>[Soul Weapon Hologram: Guitar]<font color='#9D927B'>\n\nHologram of the old guitar found inside the blank. I feel romantic for some reason. The guitar seems to sound good. But there is no effect on sound. Because it's a hologram.
+
+ID=211702001
+
+Marionette Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nIf Edgar's mask was intact, he would have looked like this. I think I can hide my feelings effectively.
+
+ID=211712001
+
+Spider Queen Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nMask made with reference to Violet Motherless's head. It feels like a suspicious party.
+
+ID=211722001
+
+Phantom Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nMask made with reference to phantom mask. Note that there are multiple eyes, but the view is not actually extended.
+
+ID=211732001
+
+Mono Eye Mask
+
+<font color='#FFBA85'>[Appearance]<font color='#9D927B'>\n\nThe mask that replaced the symbol of the robot, the mono eye. It is likely that the mono eye will move whining along the line of sight.
+
+ID=221702001
+
+ID=221712001
+
+ID=221722001
+
+ID=221732001
+
+ID=231702001
+
+ID=231712001
+
+ID=231722001
+
+ID=231732001
+
+ID=251702001
+
+ID=251712001
+
+ID=251722001
+
+ID=251732001
+
+ID=836000032
+
+Beauty School I
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing a beauty school look component for Haru only. Obtain a costume of beauty school look.
+
+ID=836000033
+
+Beauty School II
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing a beauty school look component for Haru only. Obtain a hat of Beauty School Look.
+
+ID=836000034
+
+Beauty School III
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing a beauty school look component for Haru only. Acquire stockings and shoes for a beauty school look.
+
+ID=836000035
+
+Handsome School I
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing a handsome school look component for Erwin. Obtain a costume for a handsome school look.
+
+ID=836000036
+
+Handsome School II
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing a handsome school look component for Erwin. Obtain a watch for a handsome school look.
+
+ID=836000037
+
+Handsome School III
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing a handsome school look component for Erwin. Obtain glasses and shoes for a handsome school look.
+
+ID=836000038
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing Lily's exclusive School of Beauty look. Obtain a costume of beauty school look.
+
+ID=836000039
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing Lily's exclusive School of Beauty look. Obtain a hat of Beauty School Look.
+
+ID=836000040
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing Lily's exclusive School of Beauty look. Acquire stockings and shoes for a beauty school look.
+
+ID=836000041
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing the beauty school look components exclusively for Stella. Obtain a costume of beauty school look.
+
+ID=836000042
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing the beauty school look components exclusively for Stella. Obtain a hat of Beauty School Look.
+
+ID=836000043
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing the beauty school look components exclusive to Stella. Acquire stockings and shoes for a beauty school look.
+
+ID=836000044
+
+Beautiful School Uniform Package I
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing beautiful and cool school uniform style outfits. You can get a beauty school look costume for female characters and a handsome school look costume for male characters.
+
+ID=836000045
+
+Beautiful School Uniform Package II
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing beautiful and cool school uniform style accessories. You can get a beauty school look hat for female characters and a handsome school look watch for male characters.
+
+ID=836000046
+
+Beautiful School Uniform Package III
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA box containing beautiful and cool school uniform style accessories. You can get beauty school look stockings and shoes for female characters, and handsome school look glasses and shoes for male characters.
+
+ID=870101000
+
+Portable Booster Fuel
+
+<font color='#FFBA85'>[Bike Supplies] 100% Booster Booster Recovery<font color='#9D927B'>\n\nBooster fuel for portable booster functionality anywhere. Handle with care because there is a risk of explosion.
+
+ID=870101101
+
+Rod 125N [Roadster] (Soullum Sword)
+
+<font color='#FFBA85'>[바이크]<font color='#9D927B'>\n\nRod 125N [Roadster] (Soullum Sword)
+
+ID=870101201
+
+Road 126N [Roadster] (GunJazz)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nRoad 126N [Roadster] (GunJazz)
+
+ID=870101301
+
+Road 127N [Roadster] (Mistside)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nRoad 127N [Roadster] (Mistside)
+
+ID=870101401
+
+Road 128N [Roadster] (Spirit Arms)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nRoad 128N [Roadster] (Spirit Arms)
+
+ID=870101501
+
+129N Roadster (Howling Guitar)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\n129N Roadster (Howling Guitar)
+
+ID=870202101
+
+Nitro N1 [Ebony Knight]
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nBikes of the Nitro series, widespread in the underworld. As the name implies, it's very popular with those who want to travel stealthily and quickly with bikes that are hard to find unless you turn them on. It's designed for the day, so you can only use by Haru Estia\n\nWait a second, wouldn't it be obvious if you didn't turn on the light in the first place?\n- ??? -\n[Operation]\nMove: Forward Key\nBooster: Shift + Forward Key\nSpecial Action: Space
+
+ID=870202201
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nBikes of the Nitro series, widespread in the underworld. As the name implies, it's very popular with those who want to travel stealthily and quickly with bikes that are hard to find unless you turn them on. It's designed for Erwin, so you can only use Erwin Arclight.\n\nWait, isn't it natural that you can't see it unless you turn it on in the first place?\n-???-\n [Operation]\nMove: Forward Key\n Booster: Shift + Forward Key\nSpecial Action: Space
+
+ID=870202301
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nBikes of the Nitro series, widespread in the underworld. As the name implies, it's very popular with those who want to travel stealthily and quickly with bikes that are hard to find unless you turn them on. Only Lily Bloommerchen can be used because it is tailored to Lily.\n\nWait, wouldn't it be obvious if you didn't turn it on in the first place?\n- ??? -\n[Operation]\nMove: Forward Key\nBooster: Shift + Forward Key\nSpecial Action: Space
+
+ID=870202401
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nBikes of the Nitro series, widespread in the underworld. As the name implies, it's very popular with those who want to travel stealthily and quickly with bikes that are hard to find unless you turn them on. It's tailored to Jin, so you can only use Jin Seipatsu.\n\nWait a second, wouldn't it be obvious if you didn't turn on the light in the first place?\n- ??? -\n[Operation]\nMove: Forward Key\n Booster: Shift + Forward Key\nSpecial Action: Space
+
+ID=870202501
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nBikes of the Nitro series, widespread in the underworld. As the name implies, it's very popular with those who want to travel stealthily and quickly with bikes that are hard to find unless you turn them on. It's made for Stella, so you can only use Stella Unibell.\n\nWait, isn't it natural that you can't see it unless you turn it on in the first place?\n- ??? -\n[Operation]\nMove: Forward Key\n Booster: Shift + Forward Key\nSpecial Action: Space
+
+ID=870202505
+
+General Motorcycle (Test)
+
+ID=870202506
+
+ID=870202507
+
+ID=870202508
+
+ID=870202509
+
+ID=870202510
+
+ID=870202511
+
+ID=870202512
+
+ID=870202513
+
+ID=870202514
+
+ID=870202515
+
+ID=870202516
+
+ID=870202517
+
+ID=870202102
+
+Nitro R1 [Akaitachi] (Soulum Sword)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nNitro R1 [Akaitachi] (Soul Rum Sword)\n\n[Operation]\nMove: Forward Key\n Booster: Shift + Forward Key\nSpecial Movement: Space
+
+ID=870202202
+
+Nitro R1 [Aaitachi] (Gun jazz)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nNitro R1 [Akaitachi] (Gun Jazz)\n\n[Operation]\nMove: Forward Key\n Booster: Shift + Forward Key\nSpecial Motion: Space
+
+ID=870202302
+
+Nitro R1 [Aaitachi] (Scythe)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nNitro R1 [Akaitachi] (Mistside)\n\n[Operation]\nMove: Forward Key\n Booster: Shift + Forward Key\nSpecial Movement: Space
+
+ID=870202402
+
+Nitro R1 [Akaitachi] (Spirit Arms)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nNitro R1 [Akaitachi] (Spirit Arms)\n\n[Operation]\nMove: Forward Key\nBooster: Shift + Forward Key\nSpecial Motion: Space
+
+ID=870202502
+
+Nitro R1 [Akaitachi] (Howling Guitar)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nNitro R1 [Akaitachi] (Howling Guitar)\n\n[Operation]\nMove: Forward Key\nBooster: Shift + Forward Key\nSpecial Action: Space
+
+ID=870202103
+
+Nitro Z1 [Slave Nir] (Soulum Sword)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nNitro Z1 [Slave Nir] (Soullum Sword)\n\n[Manipulation]\nMove: Forward Key\nBooster: Shift + Forward Key\nSpecial Movement: Space
+
+ID=870202203
+
+Nitro Z1 [Sleifnir] (Gun jazz)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nNitro Z1 [Slave Nir] (Gun Jazz)\n\n[Operation]\nMove: Forward Key\n Booster: Shift + Forward Key\nSpecial Movement: Space
+
+ID=870202303
+
+Nitro Z1 [Slave Nir] (Scythe)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nNitro Z1 [Slave Nir] (Mistside)\n\n[Operation]\nMove: Forward Key\nBooster: Shift + Forward Key\nSpecial Movement: Space
+
+ID=870202403
+
+Nitro Z1 [Slave knee] (Spirit Arms)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nNitro Z1 [Slave Nir] (Spirit Arms)\n\n[Manipulation]\nMove: Forward Key\nBooster: Shift + Forward Key\nSpecial Motion: Space
+
+ID=870202503
+
+Nitro Z1 [Slave Nir] (Howling Guitar)
+
+<font color='#FFBA85'>[bike]<font color='#9D927B'>\n\nNitro Z1 [Slave Nir] (Howling Guitar)\n\n[Operation]\nMove: Forward Key\nBooster: Shift + Forward Key\nSpecial Motion: Space
+
+ID=870102011
+
+Bike Muffler S1
+
+<font color='#FFBA85'>[Bike Strengthening Parts] Increase Bike Movement Speed by 50<font color='#9D927B'>\n\nAuxiliary parts that help engine performance by reducing noise and increasing speed. It is difficult to think the same as a general muffler. S stands for Silence.
+
+ID=870102012
+
+Bike Muffler S2
+
+<font color='#FFBA85'>[Bike Reinforcement Part] Increases Movement Speed by 100<font color='#9D927B'>\n\nAuxiliary parts that support engine performance to reduce noise and speed up. It is difficult to think the same as a general muffler. S stands for Silence.
+
+ID=870102013
+
+Bike Muffler S3
+
+<font color='#FFBA85'>[Bike Reinforcement Part] Increases Bike Movement Speed by 150<font color='#9D927B'>\n\nAuxiliary parts that support engine performance to reduce noise and speed up. It is difficult to think the same as a general muffler. S stands for Silence.
+
+ID=870102014
+
+Booster Tank 75L
+
+<font color='#FFBA85'>[Bike Booster] Booster Use Time +10 sec<font color='#9D927B'>\n\nAdditional fuel tank for booster function. Significantly increase the use time of booster function.
+
+ID=870102015
+
+Booster Tank 100L
+
+<font color='#FFBA85'>[Bike-reinforced parts] Booster use time 20 seconds longer<font color='#9D927B'>\n\nAdditional fuel tank for booster function. Significantly increase the use time of booster function.
+
+ID=870102016
+
+Booster Tank 125L
+
+<font color='#FFBA85'>[Bike Booster] Booster Use Time +30 sec<font color='#9D927B'>\n\nAdditional fuel tank for booster function. Significantly increase the use time of booster function.
+
+ID=880401031
+
+WPT Reward Poster
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nA poster that only the people who participated in the WPT can hold.
+
+ID=880401032
+
+EXCBT Poster
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nPoster provided as an attendance reward to EXCBT. Cute S.D characters are welcoming you.
+
+ID=880103031
+
+Haru Estia Poster
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nA poster depicting the state of the day.
+
+ID=880103032
+
+Erwin Arclight Poster
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nA poster depicting Erwin's cool face.
+
+ID=880103033
+
+Lily Bloommerchen Poster
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nA poster depicting the grace of Lily.
+
+ID=880103034
+
+Stella Unibell Poster
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nA poster depicting Stella's cute face.
+
+ID=880103035
+
+GARNiDELiA Poster
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nPoster of GARNiDELiA. Thanks to Mary and Toku P.
+
+ID=880103036
+
+Jin Seipatsu Poster
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nA poster depicting the cool side of Jin.
+
+ID=880103037
+
+Iris Yuma Poster
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nA poster depicting the chic figure of Iris.
+
+ID=880101011
+
+Star Forest League Hospital Wallpaper [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is wallpaper of Star Forest League hospital. You may feel like you are at work but you are at work.
+
+ID=880101012
+
+Star Forest League Hospital Wallpaper [B]
+
+ID=880101013
+
+Star Forest League Hospital Wallpaper [C]
+
+ID=880101021
+
+Star Forest League Hospital Ceramic Floor [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is the bottom of Star Forest League Hospital. It is made of ceramic. You may feel like you are at work but you are at work.
+
+ID=880101022
+
+Star Forest League Hospital Ceramic Floor [B]
+
+ID=880101023
+
+Star Forest League Hospital Ceramic Floor [C]
+
+ID=880101041
+
+Star Forest League Hospital Terrace Door [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nTerrace door of Star Forest League Hospital. You may be away from work, but you may feel like you are at work.
+
+ID=880101042
+
+Star Forest League Hospital Terrace Door [B]
+
+ID=880101043
+
+Star Forest League Hospital Terrace Door [C]
+
+ID=880101051
+
+Star Forest League Hospital Window [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nThis is the window of Star Forest League Hospital. You may be away from work, but you may feel like you are at work.
+
+ID=880101052
+
+Star Forest League Hospital Window [B]
+
+ID=880101053
+
+Star Forest League Hospital Window [C]
+
+ID=880101091
+
+Star Forest League Hospital Supply Chair [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a chair for the Star Forest League Hospital. It's uncomfortable like a hospital chair.
+
+ID=880101092
+
+Star Forest League Hospital Supply  Chair [B]
+
+ID=880101093
+
+Star Forest League Hospital Supply Chair [C]
+
+ID=880101101
+
+Star Forest League Multi-Purpose Table [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nMulti-Purpose table at Star Forest League Hospital. You may feel like you are at work but you are at work.
+
+ID=880101102
+
+Star Forest League Multi-Purpose Table [B]
+
+ID=880101103
+
+Star Forest League Multi-Purpose Table [C]
+
+ID=880101121
+
+Star Forest League Hospital Patient Bath [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a bathtub of Star Forest League Hospital. I think it will really recover.
+
+ID=880101122
+
+Star Forest League Hospital Patient Bath [B]
+
+ID=880101123
+
+Star Forest League Hospital Patient Bath [C]
+
+ID=880101141
+
+Discharge Celebration Flower Pot [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nThis is a flower pot for the discharge of Star Forest League Hospital. I think I should go home for some reason.
+
+ID=880101142
+
+Discharge Celebration Flower Pot [B]
+
+ID=880101143
+
+Discharge Celebration Flower Pot [C]
+
+ID=880101181
+
+Star Forest League Hospital Ceiling [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is the ceiling of Star Forest League Hospital. You may feel like you are at work but you are at work.
+
+ID=880101182
+
+Star Forest League Hospital Ceiling [B]
+
+ID=880101183
+
+Star Forest League Hospital Ceiling [C]
+
+ID=880101061
+
+Star Forest League Hospital Front Door [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nThis is the entrance to Star Forest League Hospital. You may feel like you are at work but you are at work. CO2 is likely to come out when the door opens.
+
+ID=880101062
+
+Star Forest League Hospital Front Door [B]
+
+ID=880101063
+
+Star Forest League Hospital Front Door [C]
+
+ID=880102011
+
+Mono Wallpaper [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a wallpaper of the Mono series which features neatness. If you make a mistake, it may seem that nothing is beyond your neatness.
+
+ID=880102012
+
+Mono Wallpaper [B]
+
+ID=880102013
+
+Mono Wallpaper [C]
+
+ID=880102021
+
+Mono Tile [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt's a mono series flooring featuring cleanness. If you make a mistake, it may seem that nothing is beyond your neatness.
+
+ID=880102022
+
+Mono Tile [B]
+
+ID=880102023
+
+Mono Tile [C]
+
+ID=880102041
+
+Mono Terrace Door [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a mono series terrace door characterized by neatness. If you use it incorrectly, it may seem overlooked.
+
+ID=880102042
+
+Mono Terrace Door [B]
+
+ID=880102043
+
+Mono Terrace Door [C]
+
+ID=880102051
+
+Mono Window [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIf you use it incorrectly, it may seem overlooked.
+
+ID=880102052
+
+Mono Window [B]
+
+ID=880102053
+
+Mono Window [C]
+
+ID=880102091
+
+Mono Sofa [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a sofa of the mono series characterized by neatness. If you use it incorrectly, it may seem overlooked..
+
+ID=880102092
+
+Mono Sofa [B]
+
+ID=880102093
+
+Mono Sofa [C]
+
+ID=880102101
+
+Mono Table [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a table of the mono series which features neatness. If you use it incorrectly, it may seem overlooked.
+
+ID=880102102
+
+Mono Table [B]
+
+ID=880102103
+
+Mono Table [C]
+
+ID=880102121
+
+Mono Bath [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a mono series bathtub featuring neatness. If you use it incorrectly, it may seem overlooked.
+
+ID=880102122
+
+Mono Bath [B]
+
+ID=880102123
+
+Mono Bath [C]
+
+ID=880102141
+
+Mono Flower [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a vase of the mono series which features neatness. The mono series, which is characterized by simplicity, is the only gorgeous feeling.
+
+ID=880102142
+
+Mono Flower [B]
+
+ID=880102143
+
+Mono Flower [C]
+
+ID=880102181
+
+Mono Ceiling [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a mono-series ceiling that is characterized by neatness. If you make a mistake, it may seem that nothing is beyond your neatness.
+
+ID=880102182
+
+Mono Ceiling [B]
+
+ID=880102183
+
+Mono Ceiling [C]
+
+ID=880102061
+
+Mono Front Door [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nThis is the front door of the Mono series, which features cleanliness. It's so neat that it might look mediocre, but it gives it a luxurious feel.
+
+ID=880102062
+
+Mono Front Door [B]
+
+ID=880102063
+
+Mono Front Door [C]
+
+ID=880201011
+
+Two-tone Wallpaper [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nThe Gothic series features two-tone ceilings. You can feel like a historic old mansion. Note, however, that if you don't clean it, it can easily become a haunted house.
+
+ID=880201012
+
+Two-tone Wallpaper [B]
+
+ID=880201013
+
+Two-tone Wallpaper [C]
+
+ID=880201021
+
+Gothic Style Check Tile [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a check tile of the Gothic series. You can feel like a historic old mansion. Note, however, that if you don't clean it, it can easily become a haunted house.
+
+ID=880201022
+
+Gothic Style Check Tile [B]
+
+ID=880201023
+
+Gothic Style Check Tile [C]
+
+ID=880201031
+
+Gothic Style Mirror [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a mirror of the Gothic series. You can feel like a historic old mansion. Note, however, that if you don't clean it, it can easily become a haunted house.
+
+ID=880201032
+
+Gothic Style Mirror [B]
+
+ID=880201033
+
+Gothic Style Mirror [C]
+
+ID=880201041
+
+Gothic Style Terrace Door [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a terrace door of the Gothic series. You can feel like a historic old mansion. Note, however, that if you don't clean it, it can easily become a haunted house.
+
+ID=880201042
+
+Gothic Style Terrace Door [B]
+
+ID=880201043
+
+Gothic Style Terrace Door [C]
+
+ID=880201051
+
+Gothic Style Window [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a window of the Gothic series. You can feel like a historic old mansion. Note, however, that if you don't clean it, it can easily become a haunted house.
+
+ID=880201052
+
+Gothic Window [B]
+
+ID=880201053
+
+Gothic Window [C]
+
+ID=880201071
+
+Gothic Style Weave Carpet [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nGothic series of weaving carpets. Looks like a historic old antique.
+
+ID=880201072
+
+Gothic Style Weave Carpet [B]
+
+ID=880201073
+
+Gothic Style Weave Carpet [C]
+
+ID=880201081
+
+Gothic Double Size Bed [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a double bed of Gothic series. You can feel like a historic old mansion. Note, however, that if you don't clean it, it can easily become a haunted house.
+
+ID=880201082
+
+Gothic Double Size Bed [B]
+
+ID=880201083
+
+Gothic Double Size Bed [C]
+
+ID=880201091
+
+Gothic Style Leather Chair [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nGothic series leather chair. Looks like a historic old antique.
+
+ID=880201092
+
+Gothic Style Leather Chair [B]
+
+ID=880201093
+
+Gothic Style Leather Chair [C]
+
+ID=880201101
+
+Gothic Style Tea Table [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a table of Gothic series. Looks like a historic old antique.
+
+ID=880201102
+
+Gothic Style Tea Table [B]
+
+ID=880201103
+
+Gothic Style Tea Table [C]
+
+ID=880201111
+
+Gothic Style Bookcase [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nBookshelf of the Gothic series. If you press the bookshelf for some reason, it seems like a hidden road will come out.
+
+ID=880201112
+
+Gothic Style Bookcase [B]
+
+ID=880201113
+
+Gothic Style Bookcase [C]
+
+ID=880201121
+
+Gothic Lion Ornamental Bathtub [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nGothic series lion decoration bathtub. Looks expensive
+
+ID=880201122
+
+Gothic Lion Ornamental Bathtub [B]
+
+ID=880201123
+
+Gothic Lion Ornamental Bathtub [C]
+
+ID=880201141
+
+Gothic Grandfather Clock [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\n고The grandfather clock Dick series. Looks like a historic old antique.
+
+ID=880201142
+
+Gothic Grandfather Clock [B]
+
+ID=880201143
+
+Gothic Grandfather Clock [C]
+
+ID=880201151
+
+Gothic Doll [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nGothic doll of the Gothic series. It seems scary at night.
+
+ID=880201152
+
+Gothic Doll [B]
+
+ID=880201153
+
+Gothic Doll [C]
+
+ID=880201181
+
+Gothic Style Marble Ceiling [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a marble ceiling of the Gothic series. You can feel like a historic old mansion. Note, however, that if you don't clean it, it can easily become a haunted house.
+
+ID=880201182
+
+Gothic Style Marble Ceiling [B]
+
+ID=880201183
+
+Gothic Style Marble Ceiling [C]
+
+ID=880201061
+
+Gothic style entrance door [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nThis is the marble front door of the Gothic series. You can feel like a historic old mansion. Even if you don't clean it to some extent, it looks like an old mansion front door.
+
+ID=880201062
+
+Gothic Style Entrance Door [B]
+
+ID=880201063
+
+Gothic Style Entrance Door [C]
+
+ID=880202011
+
+Japanese Style Wallpaper [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a wallpaper of the Japanese-style series. Make sure you feel a sense of stability in your home.
+
+ID=880202012
+
+Japanese Style Wallpaper [B]
+
+ID=880202013
+
+Japanese Style Wallpaper [C]
+
+ID=880202021
+
+Tatami Mat [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\n일The tatami floor of the real wind series. Make sure you feel a sense of stability in your home.
+
+ID=880202022
+
+Tatami Mat [B]
+
+ID=880202023
+
+Tatami Mat [C]
+
+ID=880202031
+
+Landscape Painting [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a landscape painting of a Japanese-style series. It becomes the point that makes an average home elegant.
+
+ID=880202032
+
+Landscape Painting [B]
+
+ID=880202033
+
+Landscape Painting [C]
+
+ID=880202041
+
+Japanese Style Terrace Door [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a terrace door of the Japanese-style series. Make sure you feel a sense of stability in your home.
+
+ID=880202042
+
+Japanese Style Terrace Door [B]
+
+ID=880202043
+
+Japanese Style Terrace Door [C]
+
+ID=880202051
+
+Japanese Style Window [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a window of Japanese-style series. Elegant feeling is a gem.
+
+ID=880202052
+
+Japanese Style Window [B]
+
+ID=880202053
+
+Japanese Style Window [C]
+
+ID=880202071
+
+Japanese Carpet [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nJapanese style carpet. Make sure you feel a sense of stability in your home.
+
+ID=880202072
+
+Japanese Carpet [B]
+
+ID=880202073
+
+Japanese Carpet [C]
+
+ID=880202081
+
+Floor Bed [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nJapanese style series floor bed. Make yourself comfortable living in a normal home.
+
+ID=880202082
+
+Floor Bed [B]
+
+ID=880202083
+
+Floor Bed [C]
+
+ID=880202091
+
+Kotatsu Legless Chair [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nKotatsu chair with Japanese style. Make yourself comfortable living in a normal home.
+
+ID=880202092
+
+Kotatsu Legless Chair [B]
+
+ID=880202093
+
+Kotatsu Legless Chair [C]
+
+ID=880202101
+
+Kotatsu [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a Kotatsu of Japanese-style series. Once you go in, you don't want to come out.
+
+ID=880202102
+
+Kotatsu [B]
+
+ID=880202103
+
+Kotatsu [C]
+
+ID=880202111
+
+Two-layer Cupboard [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a two-story cupboard of a Japanese style series. Make sure you feel a sense of stability in your home.
+
+ID=880202112
+
+Two-layer Cupboard [B]
+
+ID=880202113
+
+Two-layer Cupboard [C]
+
+ID=880202121
+
+Wooden Bathtub [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a wooden bathtub of Japanese-style series. Make yourself comfortable living in a normal home.
+
+ID=880202122
+
+Wooden Bathtub [B]
+
+ID=880202123
+
+Wooden Bathtub [C]
+
+ID=880202141
+
+TV[A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a Japanese-style TV. It is a demonic machine. I want to see the program with Cynthia.
+
+ID=880202142
+
+TV[B]
+
+ID=880202143
+
+TV[C]
+
+ID=880202151
+
+Game Console [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a game machine of the Japanese-style series. It is a demonic machine. Be careful not to turn it off once.
+
+ID=880202152
+
+Game Console [B]
+
+ID=880202153
+
+Game Console [C]
+
+ID=880202181
+
+Japanese-style Lattice Ceiling[A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a lattice ceiling of a Japanese style series. Make sure you feel a sense of stability in your home.
+
+ID=880202182
+
+Japanese-style Lattice Ceiling[B]
+
+ID=880202183
+
+Japanese-style Lattice Ceiling[C]
+
+ID=880202061
+
+Japanese-style Front Door [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nThe front door of the Japanese-style series. You can feel comfortable and comfortable living in a normal home. If you go outside, it seems like you should have a normal school life.
+
+ID=880202062
+
+Japanese-style Front Door [B]
+
+ID=880202063
+
+Japanese-style Front Door [C]
+
+ID=880301011
+
+Elegant Wallpaper [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a wallpaper of the elegant series. It's luxurious and it's like getting rich.
+
+ID=880301012
+
+Elegant Wallpaper [B]
+
+ID=880301013
+
+Elegant Wallpaper [C]
+
+ID=880301021
+
+Elegant Floor [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nTiles of the Elegant series. It's luxurious and it's like getting rich.
+
+ID=880301022
+
+Elegant Floor [B]
+
+ID=880301023
+
+Elegant Floor [C]
+
+ID=880301031
+
+Elegant Mirror [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a mirror of the Elegant series. If you sell it upscale, it will cost you some money, but you have to endure it.
+
+ID=880301032
+
+Elegant Mirror [B]
+
+ID=880301033
+
+Elegant Mirror [C]
+
+ID=880301041
+
+Elegant Terrace Door [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nTerrace door of the Elegant series. It's luxurious and it's like getting rich.
+
+ID=880301042
+
+Elegant Terrace Door [B]
+
+ID=880301043
+
+Elegant Terrace Door [C]
+
+ID=880301051
+
+Elegant Window [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a window of the Elegant series. It's luxurious and it's like getting rich.
+
+ID=880301052
+
+Elegant Window [B]
+
+ID=880301053
+
+Elegant Window [C]
+
+ID=880301071
+
+Elegant Carpet [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a rug of the elegant series. It's so luxurious that you shouldn't step on it.
+
+ID=880301072
+
+Elegant Carpet [B]
+
+ID=880301073
+
+Elegant Carpet [C]
+
+ID=880301081
+
+Elegant Bed [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nBed of the Elegant series. It's luxurious and it's like getting rich.
+
+ID=880301082
+
+Elegant Bed [B]
+
+ID=880301083
+
+Elegant Bed [C]
+
+ID=880301091
+
+Elegant Sofa [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a sofa of the elegant series. If you sell it upscale, it will cost you some money, but you have to endure it.
+
+ID=880301092
+
+Elegant Sofa [B]
+
+ID=880301093
+
+Elegant Sofa [C]
+
+ID=880301101
+
+Elegant Table [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nTable of the Elegant series. If you sell it upscale, it will cost you some money, but you have to endure it.
+
+ID=880301102
+
+Elegant Table [B]
+
+ID=880301103
+
+Elegant Table [C]
+
+ID=880301131
+
+Elegant Table_Spare [A]
+
+ID=880301132
+
+Elegant Table_Spare [B]
+
+ID=880301133
+
+Elegant Table_Spare [C]
+
+ID=880301111
+
+Elegant Drawer [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a drawer of the elegant series. If you sell it upscale, it will cost you some money, but you have to endure it.
+
+ID=880301112
+
+Elegant Drawer [B]
+
+ID=880301113
+
+Elegant Drawer [C]
+
+ID=880301121
+
+Elegant Bathtub [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a bathtub of the elegant series. It's too classy and a bit burdensome.
+
+ID=880301122
+
+Elegant Bathtub [B]
+
+ID=880301123
+
+Elegant Bathtub [C]
+
+ID=880301141
+
+Elegant Tea Set [A]
+
+<font color='#FFBA85'>[Furniture]<font color='#9D927B'>\n\nIt is a tea set of the elegant series. Somehow, I think I have to lift my pinky and lift the mug.
+
+ID=880301142

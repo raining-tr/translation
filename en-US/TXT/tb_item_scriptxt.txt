@@ -1,0 +1,3509 @@
+ID=800000001
+
+0
+
+Zenny
+
+ID=800000002
+
+ID=800000003
+
+BP
+
+ID=800000004
+
+Ether
+
+ID=800000005
+
+ID=800000998
+
+Secret points
+
+ID=800000999
+
+Glutton Coin
+
+<font color='#FFBA85'>[Special Currency]<font color='#9D927B'>\n\nThis is a special currency issued by Star Forest League that is paid to Soul Workers who has completed a special mission. You can purchase various convenience products provided by Star Forest League. Can be acquired when clearing special missions.
+
+ID=800001001
+
+Anti-Destruction
+
+<font color='#FFBA85'>[Enhance Destruction Item]<font color='#9D927B'>\n\nThis special device prevents equipment from being destroyed when attempting to enhance it from a certain level upwards. It suppresses the risk of the equipment to explode, which can occur then abnormal power is involved. 1 device is consumed during each attempted upgrade, regardless of whether the item is destroyed
+
+ID=800001501
+
+Strength Expansion Ticket +10
+
+<font color='#FFBA85'>[Enhancement Item]<font color='#9D927B'>\n\nA special energy that forcibly increases a piece of equipment’s maximum performance stat. Equipment on which a Strength Expansion Ticket has been used gains a much higher performance stat limit. This lets you increase the performance much more safely
+
+ID=800002001
+
+Magic Hammer
+
+<font color='#FFBA85'>[Dismantle Item]<font color='#9D927B'>\n\nOriginally, this was called the AntiSoul particle accelerator. It is designed to swing with increased speed around the AntiSoul, which is in the main body and then strikes a selected item at high speed. Items which have been touched by the accelerated AntiSoul lose their SoulForce. Their separate particles are re-joined, returning to their original state 
+
+ID=800002002
+
+Zaito's Magic Hammer
+
+<font color='#FFBA85'>[Dismantle Item]<font color='#9D927B'>\n\nMagic Hammer from Zaito. It is impossible to know why Zaito's magic hammer is the same as the original magic hammer.
+
+ID=800003101
+
+Socket Implant
+
+<font color='#FFBA85'>[Socket Implant]<font color='#9D927B'>\n\nA machine that equips the Soul Weapon with expansion slots for [Combat Aid: Familiar]. It maintains the law of the total amount of soul, which means that a certain amount of soul cannot be fixed at one coordinate.
+
+ID=800004001
+
+Nano Kit
+
+<font color='#FFBA85'>[Equipment Repair Item]<font color='#9D927B'>\n\nBox with numerous copy nano machines inside. The copy nanomachine has the characteristics of imitating and adhering to the components of adjacent materials as it is, and is excellent at repairing various equipments. The biggest advantage is being portable.
+
+ID=800005001
+
+Crystal of the doll
+
+<font color='#FFBA85'>[Warlord Ticket-Rocco Town W]<font color='#9D927B'>\n\nThis item can be used to enter the dungeon.
+
+ID=800005002
+
+Pollution Crystal
+
+<font color='#FFBA85'>[Warlord Ticket Candus City W]<font color='#9D927B'>\n\nThis item can be used to enter the dungeon.
+
+ID=800005003
+
+Crystal of the Flame
+
+<font color='#FFBA85'>[Warlord Ticket Grace City W]<font color='#9D927B'>\n\nThis item can be used to enter the dungeon.
+
+ID=800005004
+
+Crystal of Dimension
+
+<font color='#FFBA85'>[Warlord Ticket Ruin Fortress W]<font color='#9D927B'>\n\nThis item can be used to enter the dungeon.
+
+ID=800005005
+
+Nightmare Crystal
+
+<font color='#FFBA85'>[Warlord Ticket Rocco Town WR]<font color='#9D927B'>\n\nThis item can be used to enter the dungeon.
+
+ID=800005006
+
+Crystal of Infection
+
+<font color='#FFBA85'>[Warlord Ticket Candus City WR]<font color='#9D927B'>\n\nWR This item can be used to enter the dungeon.
+
+ID=800005007
+
+Crystal of Chaos
+
+<font color='#FFBA85'>[Warlord Ticket Grace City WR]<font color='#9D927B'>\n\nWR This item can be used to enter the dungeon.
+
+ID=800005008
+
+Crystal of Madness
+
+<font color='#FFBA85'>[Warlord Ticket Ruin Fortress WR]<font color='#9D927B'>\n\nWR This item can be used to enter the dungeon.
+
+ID=211999999
+
+Haru Estia underwear test costume
+
+ID=800006001
+
+Private Store opening ticket
+
+<font color='#FFBA85'>[Private Store opneing Ticket]<font color='#9D927B'>\n\nA ticket that allows you to open a personal store. Without that ticket, you can't open a shop anywhere.
+
+ID=800006002
+
+[Ticket] Steel Grave
+
+<font color='#FFBA85'>[Steel Grave Ticket]<font color='#9D927B'>\n\nA machine with a built-in program that deletes combat data from Steel Grave that was executed on the day. The Star Forest League restricts the entry of Steel Graves to five times a day. It deletes the combat data and allows user to enter Steel Graves one again. For some reason, the machine durability is so weak that it breaks after one use.
+
+ID=800006003
+
+[Ticket] Last Carnival
+
+<font color='#FFBA85'>[Ticket] Last Carnival<font color='#9D927B'>\n\nA Ticket what allows the user to enter the Casual Raid [Last Carnival].\nStar Forst League Member must have the card to enter it, otherwise the entry will be denied.\nOnce the card is used, it will destroy itself.
+
+ID=800006004
+
+[Ticket] Junk Hive
+
+<font color='#FFBA85'>[Ticket] Junk Hive<font color='#9D927B'>\n\nA Ticket what allows the user to enter the Casual Raid [Junk Hive].\nStar Forst League Member must have the card to enter it, otherwise the entry will be denied.\nOnce the card is used, it will destroy itself.
+
+ID=800006005
+
+[Ticket] Bandit Highway
+
+<font color='#FFBA85'>Ticket] Bandit Highway<font color='#9D927B'>\n\nA Ticket what allows the user to enter the Casual Raid [Bandit Highway].\nStar Forst League Member must have the card to enter it, otherwise the entry will be denied.\nOnce the card is used, it will destroy itself.
+
+ID=800006006
+
+[Ticket] Iron Castle
+
+<font color='#FFBA85'>[Ticket] Iron Castle<font color='#9D927B'>\n\nA Ticket what allows the user to enter the Casual Raid [Iron Castle].\nStar Forst League Member must have the card to enter it, otherwise the entry will be denied.\nOnce the card is used, it will destroy itself.
+
+ID=800006007
+
+[Entry ticket] Golden Citadel
+
+<font color='#FFBA85'>[Entry ticket] Golden Citadel<font color='#9D927B'>\n\nThis card allows access to the Golden Citadel. We don't know why, but it can be obtained by killing a creature of the void.\n This device might be used to test your strength....
+
+ID=800006008
+
+[Entry ticket] Casual raid
+
+<font color='#FFBA85'>[Entry ticket casual raid] <font color='#9D927B'>\n\nThis ticket allows entry in the abnormal void.\nSoulworkers need this ticket, issued by the SFL, to enter the abnormal void.\n It is adviced to prepare well before entering.
+
+ID=800006009
+
+[Ticket] Golden Citadel
+
+<font color='#FFBA85'>[Special access: Raid] Golden Citadel<font color='#9D927B'>\n\n Golden Citadel: special permission for entry into the Golden Citadel. Since this area is marked as dangerous, you must get special permission to access.\n This item is destroyed on usage so it is recommend to prepare before entering.
+
+ID=810001001
+
+[Costume Package] Sporty Look
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing Haru's sporty look.\n-Components-\n[Sporty Look] Bag x 1\n[Sporty Look] Top x 1\n[Sporty Look] Bottom x 1\n[Sporty Look] Sports Watchx 1\n[Sporty Look] Sneakers x 1\n[Sporty Look] Cap x 1\n[Sporty Look] Fluorescent Glasses x 1
+
+ID=810001002
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing Erwin's sporty look.\n-Components-\n[Sporty Look] Hood x 1\n[Sporty Look] Mask x 1\n[Sporty Look] Top x 1\n[Sporty Look] Bottom x 1\n[Sporty Look] Sports Gloves x 1\n[Sporty Look] Bag x 1\n[Sporty Look] Shoes x 1
+
+ID=810001003
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n\nA Package containing Lily's sporty look.\n-Components-\n[Sporty Look] Sports Cap x 1\n[Sporty Look] Top x 1\n[Sporty Look] Bottom x 1\n[Sporty Look] Sports Hip Bag x 1\n[Sporty Look] Fluorescent Glasses x 1\n[Sporty Look] Sports Watch x 1\n[Sporty Look] Sneakers x 1
+
+ID=810001004
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing Stella's sporty look.\n-Components-\n[Sporty Look] Sweatband x 1\n[Sporty Look] Top x 1\n[Sporty Look] Bottom x 1\n[Sporty Look] Bag x 1\n[Sporty Look] Fluorescent Glasses x 1\n[Sporty Look] Sports Gloves x 1\n[Sporty Look] Sneakers x 1
+
+ID=810001005
+
+[Costume Package] Nurse Uniform
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Haru's nurse uniform.\n-Components-\n[Nurse Uniform] Nurse Hat x 1\n[Nurse Uniform] Nurse Costume x 1\n[Nurse Uniform] Nurse Stockings x 1\n[Nurse Uniform] Shoes x 1
+
+ID=810001006
+
+[Costume Package] Doctor Uniform
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Erwin's doctor uniform.\n-Components-\n[Doctor Uniform] Horn-rimmed Glasses x 1\n[Doctor Uniform] Doctor Outfit x 1\n[Doctor Uniform] Sterile Gloves x 1\n[Doctor Uniform] Doctor Shoes x 1
+
+ID=810001007
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing Lily's nurse uniform.\n-Components-\n[Nurse Uniform] Nurse Cap x 1\n[Nurse Uniform] Nurse Outfit x 1\n[Nurse Uniform] Nurse Stockings x 1\n[Nurse Uniform] Nurse Shoes x 1
+
+ID=810001008
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing Stella's nurse uniform.\n-Components-\n[Nurse Uniform] Horn-Rimmed Glasses x 1\n[Nurse Uniform] Nurse Outfit x 1\n[Nurse Uniform] Nurse Stockings x 1\n[Nurse Uniform] Nurse Slippers x 1
+
+ID=810001009
+
+[Costume Package] Modern Casual
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n APackage containing Haru's modern casual costume.\n-Components-\n[Modern Casual] Top x 1\n[Modern Casual] Skirt x 1\n[Modern Casual] Horn Frame Glasses x 1\n[Modern Casual] Watch x 1\n[Modern Casual] Casual shoes x 1
+
+ID=810001010
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nThis Package contains Erwin's modern casual costume.\n-Component-\n[Modern Casual] Horn Frame Glasses x 1\n[Modern Casual] Casual Top x 1\n[Modern Casual] Watch x 1\n[Modern Casual] Casual Pants x 1\n[Modern Casual] Casual Shoes x 1
+
+ID=810001011
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing Lily's modern casual outfit.\n-Components-\n[Modern Casual] Casual Top x 1\n[Modern Casual] Casual Bottom x 1\n[Modern Casual] Casual Stockings x 1\n[Modern Casual] Casual Bracelet x 1\n[Modern Casual] Casual Shoes x 1
+
+ID=810001012
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing Stella's Modern Casual outfit.\n-Components-\n[Modern Casual] Casual Top x 1\n[Modern Casual] Casual Skirt x 1\n[Modern Casual] Horn Frame Glasses x 1\n[Modern Casual] Casual Bracelet x 1\n[Modern Casual] Casual Shoes x 1
+
+ID=810001013
+
+[Costume Package] Beauty School Look
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing Haru's beauty school look.\n-Components-\n[Beauty School]Costume x 1\n[Beauty School] Hat x 1\n[Beauty School] Stockings x 1\n[Beauty School] Shoes x 1
+
+ID=810001014
+
+[Costume Package] Handsome School Look
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing Erwin's handsome school look.\n-Components-\n[Handsome School] Costume x 1\n[Handsome School] Glasses x 1\n[Handsome School] Watch x 1\n[Handsome School] Shoes x 1
+
+ID=810001015
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing Lily's Beauty School Look.\n-Components-\n[Beauty School] Costume x 1\n[Beauty School] Hat x 1\n[Beauty School] Stockings x 1\n[Beauty School] Shoes x 1
+
+ID=810001016
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing Stella's Beauty School Look.\n-Components-\n[Beauty School] Costume x 1\n[Beauty School] Hat x 1\n[Beauty School] Stockings x 1\n[Beauty School] Shoes x 1
+
+ID=810001017
+
+[Costume Package] Detective Academy Outfit
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing Haru's Detective Academy uniform.\n-Components-\n[Detective Academy] Uniform x 1\n[Detective Academy] Cap x 1\n[Detective Academy] Stockings x 1\n[Detective Academy] Shoes x 1
+
+ID=810001018
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n A Package containing Erwin's school detective outfit.\n-Components-\n[School Detective] Cap x 1\n[School Detective] Costume x 1\n[School Detective] Mustache x 1\n[School Detective] Shoes x 1
+
+ID=810001019
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n A Package containing Lily's School Detective outfit.\n-Components-\n[School Detective] Outfit x 1\n[School Detective] Cap x 1\n[School Detective] Stockings x 1\n[School Detective] Shoes x 1
+
+ID=810001020
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n A Package containing Stella's school detective outfit. 'for Stellas who work for the FBI'\n-Components-\n[School Detective] Costume x 1\n[School Detective] Cap x 1\n[School Detective] Stockings x 1\n[School Detective] Shoes x 1
+
+ID=810001021
+
+[Costume Package] Wandering Revenge
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing the Blade of Revenge costume.\n-Components-\nBlade of Revenge costume x 1\nBlade of Revenge Stockings x 1\nBlade of Revenge Boots x 1
+
+ID=810001022
+
+[Costume Package] Bullet of Smiling Pleasure
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nErwin's Bullet of Smiling Pleasure package, contains all pieces.\n-Components-\n[Bullet of Smiling Pleasure] Costume x 1\n[Bullet of Smiling Pleasure] Bracelet x 1\n[Bullet of Smiling Pleasure] Boots x 1
+
+ID=810001023
+
+[Costume Package] Swinging Axe
+
+<font color='#FFBA85'>[Costume Package] Swinging Axe<font color='#9D927B'>\n\nA Package containing the Swinging Axe outfit.\n-Components-\n[Swinging Axe] Costume  x 1\n[Swinging Axe] Stockings x 1\n[Swinging Axe] Boots x 1
+
+ID=810001024
+
+[Costume Package] Song of Sorrow
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Stella's Song of Sorrow costume.\n-Components-\n[Song of Sorrow] Costume x 1\n[Song of Sorrow] Stockings x 1\n[Song of Sorrow] Shoes x 1
+
+ID=810001025
+
+[Costume Package] Haru's School Uniform A
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA Package containing [Haru's Repaired Uniform A] These items can only be worn by Haru.\n-Components-\n[Haru's Repaired Uniform A] Stockings x 1\n[Haru's Repaired Uniform A] Top x 1\n[Haru's Repaired Uniform A] Skirt x 1
+
+ID=810001026
+
+[Costume Package] Haru's School Uniform B
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Haru's Repaired Uniform B] These items can only be worn by Haru\n-Component-\n[Haru's Repaired Uniform B] Stockings x 1\n[Haru's Repaired Uniform B] Top x 1\n[Haru's Repaired Uniform B] Skirt x 1
+
+ID=810001027
+
+[Costume Package] Haru's School Uniform C
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Haru's Repaired Uniform C] These items can only be worn by Haru.\n-Components-\n[Haru's Repaired Uniform C] Stockings x 1\n[Haru's Repaired Uniform C] Top x 1\n[Haru's Repaired Uniform C] Skirt x 1
+
+ID=810001028
+
+[Costume Package] Haru's School Uniform D
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Haru's Repaired Costume D] These items can only be worn by Haru.\n-Components-\n[Haru's Repaired Uniform D] Stockings x 1\n[Haru's Repaired Uniform D] Top x 1\n[Haru's Repaired Uniform D] Skirt x 1
+
+ID=810001029
+
+[Costume Package] Erwin's School Uniform A
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Erwin's Repaired Uniform A] These items can only be worn by Erwin.\n-Components-\n[Erwin's Repaired Uniform A] Top x 1\n[Erwin's Repaired Costume A] Pants x 1
+
+ID=810001030
+
+[Costume Package] Erwin's School Uniform B
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Erwin's Repaired Costume B] These items can only be worn by Erwin.\n-Components-\n[Erwin's Repaired Uniform B] Top x 1\n[Erwin's Repaired Uniform B] Pants x 1
+
+ID=810001031
+
+[Costume Package] Erwin's School Uniform C
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Repaired Erwin's Uniform C] This item can only be worn by Erwin.\n-Components-\n[Repaired Erwin's Uniform C] Top x 1\n[Repaired Erwin's Uniform C] Pants x 1
+
+ID=810001032
+
+[Costume Package] Erwin's School Uniform D
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Erwin's Repaired Costume D] These items can only be worn by Erwin.\n-Components-\n[Erwin's Repaired Uniform D] Top x 1\n[Erwin's Repaired Uniform D] Pants x 1
+
+ID=810001033
+
+[Costume Package] Lily's School Uniform A
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Lily's Repaired Uniform A] These items can only be worn by Lily.\n-Components-\n[Lily's Repaired Uniform A] Stockings x 1\n[Lily's Repaired Uniform A] Top x 1\n[Lily's Repaired Uniform A] Skirt x 1
+
+ID=810001034
+
+[Costume Package] Lily's School Uniform B
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Lily's Repaired Uniform B] These items can only be worn by Lily.\n-Components-\n[Lily's Repaired Uniform B] Stockings x 1\n[Lily's Repaired Uniform B] Top x 1\n[Lily's Repaired Uniform B] Skirt x 1
+
+ID=810001035
+
+[Costume Package] Lily's School Uniform C
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Lily's Repaired Uniform C] These items can only be worn by Lily.\n-Components-\n[Lily's Repaired Uniform C] Stockings x 1\n[Lily's Repaired Uniform C] Top x 1\n[Lily's Repaired Uniform C] Skirt x 1
+
+ID=810001036
+
+[Costume Package] Lily's School Uniform D
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Lily's Repaired Uniform D] These items can only be worn by Lily.\n-Components-\n[Lily's Repaired Uniform D] Stockings x 1\n[Lily's Repaired Uniform D] Top x 1\n[Lily's Repaired Uniform D] Skirt x 1
+
+ID=810001037
+
+[Costume Package] Stella's School Uniform A
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Stella's Repaired Uniform A] These items can only be worn by Stella.\n-Components-\n[Stella's Repaired Uniform A] Stockings x 1\n[Stella's Repaired Uniform A] Top x 1\n[Stella's Repaired Uniform A] Skirt x 1
+
+ID=810001038
+
+[Costume Package] Stella's School Uniform B
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Stella's Repaired Uniform B] These items can only be worn by Stella.\n-Components-\n[Stella's Repaired Uniform B] Stockings x 1\n[Stella's Repaired Uniform B] Top x 1\n[Stella's Repaired Uniform B] Skirt x 1
+
+ID=810001039
+
+[Costume Package] Stella's School Uniform C
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Stella's Repaired Uniform C] These items can only be worn by Stella.\n-Components-\n[Stella's Repaired Uniform C] Stockings x 1\n[Stella's Repaired Uniform C] Top x 1\n[Stella's Repaired Uniform C] Skirt x 1
+
+ID=810001040
+
+[Costume Package] Stella's School Uniform D
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing [Stella's Repaired Uniform D] These items can only be worn by Stella.\n-Components-\n[Stella's Repaired Uniform D] Stockings x 1\n[Stella's Repaired Uniform D] Top x 1\n[Stella's Repaired Uniform D] Skirt x 1
+
+ID=810001041
+
+[Costume Package] Trader's Union Uniform
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of the Trader's Union Uniform for Haru. These items can only be worn by Haru.\n-Components-\n[Trader's Union Uniform] Cap x 1\n[Trader's Union Uniform] Top x 1\n[Trader's Union Uniform] Skirt x 1\n[Trader's Union Uniform] Stockings x 1\n[Trader's Union Uniform] Boots x 1
+
+ID=810001042
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of Trader's Union Uniform for Erwin. These items can only be worn by Erwin.\n-Components-\n[Trader's Union Uniform] Cap x 1\n[Trader's Union Uniform] Top x 1\n[Trader's Union Uniform] Pants x 1\n[Trader's Union Uniform] Boots x 1
+
+ID=810001043
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA packge containing all the items of Trader's Union Uniform for Lily. These items can only be worn by Lily.\n-Components-\n[Merchant Union Uniform] Cap x 1\n[Trader's Union Uniform] Top x 1\n[Trader's Union Uniform] Skirt x 1\n[Trader's Union Uniform] Stockings x 1\n[Trader's Union Uniform] Boots x 1
+
+ID=810001044
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA packge containing all the items of Merchant Union Uniform for Stella. These items can only be worn by Stella.\n-Components-\n[Trader's Union Uniform] Cap x 1\n[Trader's Union Uniform] Top x 1\n[Trader's Union Uniform] Skirt x 1\n[Trader's Union Uniform] Stockings x 1\n[Trader's Union Uniform] Boots x 1
+
+ID=810001045
+
+[Costume Package] Star Forest League Uniform
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of Star Forest Uniform for Haru. These items can only be worn by Haru.\n-Components-\n[Star Forest Uniform] Top x 1\n[Star Forest Uniform] Skirt x 1\n[Star Forest Uniform] Boots x 1
+
+ID=810001046
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of Star Forest Uniform for Erwin. These items can only be worn by Erwin.\n-Components-\n[Star Forest Uniform] Top x 1\n[Star Forest Uniform] Pants x 1\n[Star Forest Uniform] Boots x 1
+
+ID=810001047
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of Star Forest Uniform for Lily. These items can only be worn by Lily.\n-Components-\n[Star Forest Uniform] Top x 1\n[Star Forest Uniform] Skirt x 1\n[Star Forest Uniform] Boots x 1
+
+ID=810001048
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of Star Forest Uniform for Stella. These items can only be worn by Stella.\n-Components-\n[Star Forest Uniform] Top x 1\n[Star Forest Uniform] Skirt x 1\n[Star Forest Uniform] Boots x 1
+
+ID=810001053
+
+[Costume Package] SGL Guard
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of SGL Guard Uniform suitable for cold districts. These items can only be worn by Haru.\n-Components-\n[SGL Guard] Hat x 1\n[SGL Guard] Uniform x 1\n[SGL Guard] Gloves x 1\n[SGL Guard] Stockings x 1\n[SGL Guard] Boots x 1
+
+ID=810001054
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of SGL Guard Uniform suitable for cold districts. These items can only be worn by Erwin.\n-Components-\n[SGL Guard] Hat x 1\n[SGL Guard] Uniform x 1\n[SGL Guard] Gloves x 1\n[SGL Guard] Sunglasses x 1\n[SGL Guard] Boots x 1
+
+ID=810001055
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of SGL Guard Uniform suitable for cold districts. These items can only be worn by Lily.\n-Components-\n[SGL Guard] Hat x 1\n[SGL Guard] Costume x 1\n[SGL Guard] Gloves x 1\n[SGL Guard] Stockings x 1\n[SGL Guard] Boots x 1
+
+ID=810001056
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of SGL Guard Uniform suitable for cold districts. These items can only be worn by Stella.\n-Components-\n[SGL Guard] Hat x 1\n[SGL Guard] Uniform x 1\n[SGL Guard] Gloves x 1\n[SGL Guard] Stockings x 1\n[SGL Guard] Boots x 1
+
+ID=810001057
+
+[Costume Package] Special Pajama
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all items of the comfy pajamas costume you can wear at home. These items can only be worn by Haru.\n-Components-\n[Special pajamas] Costume x 1\n[Special pajamas] Bear Slippers x 1
+
+ID=810001058
+
+[Costume Package] Drowsy Pajama
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all items of the comfy pajamas costume, you can't help but fall asleep after wearing it. These items can only be worn by Haru.\n-Components-\nSleep pajamas x 1\nIndoor Slippers x 1
+
+ID=810001059
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all items of the comfy pajamas costume you can wear at home. These items can only be worn by Erwin.\n-Components-\n[Special pajamas] Costume x 1\n[Special pajamas] Panda Slippers x 1
+
+ID=810001060
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all items of the comfy pajamas costume, you can't help but fall asleep after wearing it. These items can only be worn by Erwin.\n-Components-\nSleep pajamas x 1\nIndoor Slippers x 1
+
+ID=810001061
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all items of the comfy pajamas costume you can wear at home. These items can only be worn by Lily.\n-Components-\n[Special pajamas] Costume x 1\n[Special pajamas] Cat Slippers x 1
+
+ID=810001062
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all items of the comfy pajamas costume, you can't help but fall asleep after wearing it. These items can only be worn by Lily.\n-Components-\nSleep pajamas x 1\nIndoor Slippers x 1
+
+ID=810001063
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all items of the comfy pajamas you can wear at home. These items can only be worn by Stella.\n-Components-\n[Special pajamas] Costume x 1\n[Special pajamas] Bunny Slippers x 1
+
+ID=810001064
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all items of the comfy pajamas costume, you can't help but fall asleep after wearing it. These items can only be worn by Stella.\n-Components-\nSleep pajamas x 1\nIndoor Slippers x 1
+
+ID=810001065
+
+[Package Box]Haru's My Room Theme Set A 
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA package containing Haru's special decorative items for my room.\n\n-Components-\n[Special pajamas] Costumex 1\n[Special pajamas] Bear Slippers x 1\nHaru's round bed x 1\nHaru's chair x 1\nHaru Estia figure x 1\nHaru's SD Doll x 1\nHaru's Emblem mat x 1
+
+ID=810001066
+
+[Package Box]Haru's My Room Theme Set B
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA package containing Haru's special decorative items for my room.\n\n-Components-\nSleep pajamas x 1\nIndoor Slippers x 1\nHaru's signboard x 1\nSoulworker Poster x 1\nGlutton Mug x 1\nGlutton Cushion x 1\nGlutton Alarm clock x 1
+
+ID=810001067
+
+[Package Box]Erwin's my room theme box A
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA package containing Erwin's special decorative items for my room.\n\n-Components-\n[Special pajamas] Costume x 1\n[Special pajamas] Panda Slippers x 1\nErwin's Messy Bed x 1\nErwin's chair x 1\nErwin Arclight figure x 1\nErwin's SD Doll x 1\nErwin's Emblem Mat x 1
+
+ID=810001068
+
+[Package Box]Erwin's my room theme box B
+
+<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\nA package containing Erwin's special decorative items for my room.\n\n-Components-\nSleep pajamas x 1\nIndoor Slippers x 1\nErwin's signboard x 1\nSoulworker Poster x 1\nGlutton Mug x 1\nGlutton Cushion x 1\nGlutton Alarm clock x 1
+
+ID=810001069
+
+[Package Box]Lily's my room theme box A
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA package containing Lily's special decorative items for my room.\n\n-Components-\n[Special pajamas] Costumex 1\n[Special pajamas] Cat Slippers x 1\Lily's luxury bed x 1\nLily's chair x 1\Lily Bloommerchen figure x 1\nLily's SD Doll x 1\nLily's Emblem mat x 1
+
+ID=810001070
+
+[Package Box]Lily's my room theme set B
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA package containing Lily's special decorative items for my room.\n\n-Components-\nSleep pajamas x 1\nIndoor Slippers x 1\nLily's signboard x 1\nSoulworker Poster x 1\nGlutton Mug x 1\nGlutton Cushion x 1\nGlutton Alarm clock x 1
+
+ID=810001071
+
+[Package Box]Stella's my room theme set A
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA package containing Stella's special decorative items for my room.\n\n-Components-\n[Special Pajamas] Costume x 1\n[Special Pajamas] Bunny Slippers x 1\nStella's Ghost Bed x 1\nStella's chair x 1\nStella Unibell's figure x 1\nStella's SD Doll x 1\nStella's Emblem Mat x 1
+
+ID=810001072
+
+[Package Box]Stella's my room theme set B
+
+<font color='#FFBA85'>[Item Package]<font color='#9D927B'>\n\nA package containing Stella's special decorative items for my room.\n\n-Components-\nSleep pajamas x 1\nIndoor Slippers x 1\nStella's signboard x 1\nSoulworker Poster x 1\nGlutton Mug x 1\nGlutton Cushion x 1\nGlutton Alarm clock x 1
+
+ID=810000001
+
+Fabric Box
+
+<font color='#FFBA85'>[Fabric Box]<font color='#9D927B'>\n\nA box containing various types of fabric. Can be obtained after acquiring certain amount of D.S Points in Control Zone 43.
+
+ID=810000002
+
+<font color='#FFBA85'>[Fabric Box]<font color='#9D927B'>\n\nA box containing various types of fabric. Can be obtained after acquiring certain amount of D.S Points in R Sqaure.
+
+ID=810000003
+
+<font color='#FFBA85'>[Fabric Box]<font color='#9D927B'>\n\nA box Containing various types of fabric. Can be obtained after acquiring certain amount of D.S Points in Tower of Greed.
+
+ID=810000004
+
+<font color='#FFBA85'>[Fabric Box]<font color='#9D927B'>\n\nA box Containing various types of fabric. Can be obtained after acquiring certain amount of D.S Points in Best showtime.
+
+ID=810000005
+
+<font color='#FFBA85'>[Fabric Box]<font color='#9D927B'>\n\nA box Containing various types of fabric. Can be obtained after acquiring certain amount of D.S Points in Concrete Jungle.
+
+ID=810000006
+
+<font color='#FFBA85'>[Fabric Box]<font color='#9D927B'>\n\nA box containing various types of fabric. Can be obtained after acquiring certain amount of D.S Points in Junk Pool.
+
+ID=810000007
+
+<font color='#FFBA85'>[Fabric Box]<font color='#9D927B'>\n\nA box Containing various types of fabric. Can be obtained after acquiring certain amount of D.S Points in The Big Mouth.
+
+ID=810000008
+
+<font color='#FFBA85'>[Fabric Box]<font color='#9D927B'>\n\nA box Containing various types of fabric. Can be obtained after acquiring certain amount of D.S Points in N102 Shelter.
+
+ID=810000009
+
+<font color='#FFBA85'>[Fabric Box]<font color='#9D927B'>\n\nA box Containing various types of fabric. Can be obtained after acquiring certain amount of D.S Points in Breakout.
+
+ID=810000010
+
+[D.S Box] Rocco Town
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA box Containing various useful items. Can be obtained after acquiring certain amount of D.S Points in Rucco Town.
+
+ID=810000011
+
+[D.S Box] Candus City
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA box Containing various useful items. Can be obtained after acquiring certain amount of D.S Points in Candus City.
+
+ID=810000012
+
+[D.S Box] Grace City
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA box Containing various useful items. Can be obtained after acquiring certain amount of D.S Points in Grace City.
+ 
+
+ID=810000013
+
+[D.S Box] Ruin Fortress
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA box Containing various useful items. Can be obtained after acquiring certain amount of D.S Points in Ruin Fortress.
+ 
+
+ID=819999999
+
+Secret Box
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA box containing random items untraceable by the Union. It's contents aren't even known to HQ Personnel. Can be obtained after clearing the secret event.
+
+ID=820900101
+
+[Costume Package] Regular Star Forest League Uniform
+
+<font color='#FFBA85'>[Costume Package] Regular Star Forest Uniform<font color='#9D927B'>\n\nA Package containing the normal starry forest uniform.\n-Components-\n[Star forest uniform] hat\n[Star forest uniform] Top\n[Star forest uniform] Skirt\n[Star forest uniform] Officer Glasses\n[Star forest uniform] Gloves\n[Star forest uniform] Stockings\n[Star forest uniform] Shoes
+
+ID=820900102
+
+[Costume Package] Doctor's Uniform
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Haru's nurse uniform.\n-Components-\n[Nurse Uniform] Shoes\n[Nurse Uniform] Uniform\n[Nurse Uniform] Hat\n[Nurse Uniform] Stockings
+
+ID=820900103
+
+[Costume Package] Merchant Union Uniform
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of Trader's Union Uniform for Haru.\n-Components-\n[Trader's Union Uniform] Cap\n[Trader's Union Uniform] Top\n[Trader's Union Uniform] Skirt\n[Trader's Union Uniform] Stockings\n[Trader's Union Uniform] Sneakers
+
+ID=820900201
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of Star Forest Uniform for Erwin.\n-Components-\n[Star Forest Uniform] Top\n[Star Forest Uniform] Pants\n[Star Forest Uniform] Boots
+
+ID=820900202
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Modern casual outfit for Erwin.\n-Components-\n[Modern Casual] Horn-rimmed Glasses\n[Modern Casual] Top\n[Modern Casual] Watch\n[Modern Casual] Pants\n[Modern Casual] Casual Shoes
+
+ID=820900203
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all items of Trader's Union Uniform for Erwin.\n-Components-\n[Trader's Union Uniform] Top\n[Trader's Union Uniform] Pants\n[Trader's Union Uniform] Sneakers
+
+ID=820900301
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all items of Star Forest Uniform for Lily.\n-Components-\n[Star Forest Uniform] Top\n[Star Forest Uniform] Skirt\n[Star Forest Uniform] Stockings\n[Star Forest Uniform] Shoes
+
+ID=820900302
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Lily's Sporty look.\n-Components-\n[Sporty Look] Waist bag\n[Sporty Look] Top\n[Sporty Look] Sports Watch\n[Sporty Look] Sneakers\n[Sporty Look] Cap\n[Sporty Look] Pants\n[Sporty Look] Fluorescent Glasses\n
+
+ID=820900303
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Modern casual outfit for Lily.\n-Components-\n[Modern Casual] Top\n[Modern Casual] Bracelet\n[Modern Casual] Stockings\n[Modern Casual] Shoes
+
+ID=820900501
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing all the items of Star Forest League Uniform for Stella.\n-Components-\n[Star Forest Uniform] Top\n[Star Forest Uniform] Skirt\n[Star Forest Uniform] Boots
+
+ID=820900502
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Stella's Beauty School costume.\n-Component-\n[Beauty School] Costume\n[Beauty School] Hat\n[Beauty School] Stockings\n[Beauty School] Shoes
+
+ID=820900503
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nA package containing Stella's Detective academy uniform.\n-Components-\n[Detective Academy] Shoes\n[Detective Academy] Cap\n[Detective Academy] Costume\n[Detective Academy] Knee highs
+
+ID=820000001
+
+[Hidden Box] Rocco Town
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA box acquired after clearing [Hidden Event] in Rocco town. Contains useful items.
+
+ID=820000002
+
+[Hidden Box] Candus City
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA box acquired after clearing [Hidden Event] in Candus City. Contains useful items.
+
+ID=820000003
+
+[Hidden Box] Grace City
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA box acquired after clearing [Hidden Event] in Grace City. Contains useful items.
+
+ID=820000004
+
+[Hiddent Box] Ruin Fortress
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA box acquired after clearing [Hidden Event] in Ruin Fortress. Contains useful items.
+
+ID=820000005
+
+[Hidden Box] Steel Grave I
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA box acquired after clearing [Hidden Event] in Steel Grave chapters 1-5. Contains useful items.
+
+ID=820000006
+
+[Hidden Box] Steel Grave II
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA box acquired after clearing [Hidden Event] in Steel Grave chapters 6-10. Contains useful items.
+
+ID=820000007
+
+[Hidden Box] Steel Grave III
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA box acquired after clearing [Hidden Event] in Steel Grave chapters 11-15. Contains useful items.
+
+ID=820000008
+
+Steel Box I: Soul Weapon
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA reward for clearing Steel Grave [Chapter 5], Contains a random blueprint for building a powerful weapon. 
+
+ID=820000009
+
+Steel Box I : Gears
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA reward for clearing Steel Grave [Chapter 5], Contains a random blueprint for building powerful gear. 
+
+ID=820000010
+
+Steel Box II: Soul Weapon
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA reward for clearing Steel Grave [Chapter 10], Contains a random blueprint for building a powerful weapon. 
+
+ID=820000011
+
+Steel Box II: Gear
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA reward for clearing Steel Grave [Chapter 10], Contains a random blueprint for building powerful gear. 
+
+ID=820000012
+
+Steel Box III: Soul Weapon
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA reward for clearing Steel Grave [Chapter 15], Contains a random blueprint for building a powerful weapon. 
+
+ID=820000013
+
+Steel Box III: Gears
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA reward for clearing Steel Grave [Chapter 15], Contains a random blueprint for building powerful gear. 
+
+ID=820000014
+
+Casual raid (reward)
+
+ID=820000015
+
+Research Material Box I
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA reward for clearing Steel Grave chapters 1-5. The researchers sealed it up, you can't tell what it contains before opening it.
+
+ID=820000016
+
+Research Material Box II
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA reward for clearing Steel Grave chapters 6-10. The researchers sealed it up, you can't tell what it contains before opening it.
+
+ID=820000017
+
+Research Material Box III
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA reward for clearing Steel Grave chapters 11-15. The researchers sealed it up, you can't tell what it contains before opening it.
+
+ID=820001000
+
+Yellow Glutton Cube
+
+<font color='#FFBA85'>[Valuables Box]<font color='#9D927B'>\n\nA box containing items collected by Glutton.  It's often left unattended and forgotten.\nThis box contains particularly valuable items
+
+ID=820001001
+
+Purple Glutton Cube
+
+<font color='#FFBA85'>[Valuables Box]<font color='#9D927B'>\n\nA cube of things Glutton has collected. When he can't take all the items he collects, he puts them in a cube and hides them everywhere. However, it is often abandoned due to accidents or forgetfulness that occur to Glutton, which often results in the loss of its owner.\nThe cube is a special collection of only Glutton's favorite items, and contains rare or valuable items.
+
+ID=820001002
+
+Blue Glutton Cube
+
+ID=820001003
+
+Jade Glutton Cube
+
+ID=820001004
+
+Red Glutton Cube
+
+ID=820001005
+
+Gold Glutton Cube
+
+ID=820900001
+
+Zaito's Gift Box
+
+<font color='#FFBA85'>[VIP Tier 1 Reward Package]<font color='#9D927B'>\n\nA gift box from Zaito as a symbol of gratitude for using the Weapon shop for a long time. Filled with useful items.
+
+ID=820900002
+
+Zaito's gift box of valuables
+
+<font color='#FFBA85'>[VIP Tier 2 Reward Package]<font color='#9D927B'>\n\nA gift box from Zaito as a symbol of gratitude for using the Weapon shop for a long time. Zaito filled it with valuables.
+
+ID=820900003
+
+Zaito's gift box of friendship
+
+<font color='#FFBA85'>[VIP Tier 3 Reward Package]<font color='#9D927B'>\n\nA gift box from Zaito as a symbol of gratitude for using the Weapon shop for a long time. Filled with items showing Zaito's friendship.
+
+ID=820900004
+
+Zaito's gift box of trust
+
+<font color='#FFBA85'>[VIP Tier 4 Reward Package]<font color='#9D927B'>\n\nA gift box from Zaito as a symbol of gratitude for using the Weapon shop for a long time. Zaito's trust can be felt from the box. For some reason it smells sweaty...
+
+ID=820900005
+
+Zaito's  gift box of affection
+
+<font color='#FFBA85'>[VIP Tier 5 Reward Package]<font color='#9D927B'>\n\nA gift box from Zaito as a symbol of gratitude for using the Weapon shop for a long time. You can feel Zaito's love! How much did he spend on this!?
+
+ID=820900011
+
+Yomi's Gift Box
+
+<font color='#FFBA85'>[VIP Tier 1 Reward Package]<font color='#9D927B'>\n\nA gift box from Yomi as a symbol of gratitude for using the General goods shop for a long time. Filled with useful items.
+
+ID=820900012
+
+Yomi's gift box of valuables
+
+<font color='#FFBA85'>[VIP Tier 2 Reward Package]<font color='#9D927B'>\n\nA gift box from Yomi as a symbol of gratitude for using the General goods shop for a long time. Yomi filled it with valuables.
+
+ID=820900013
+
+Yomi's gift box of friendship
+
+<font color='#FFBA85'>[VIP Tier 3 Reward Package]<font color='#9D927B'>\n\nA gift box from Yomi as a symbol of gratitude for using the General goods shop for a long time. Filled with items showing Yomi's friendship.
+
+ID=820900014
+
+Yomi's gift box of trust
+
+<font color='#FFBA85'>[VIP Tier 4 Reward Package]<font color='#9D927B'>\n\nA gift box from Yomi as a symbol of gratitude for using the General goods shop for a long time. Yomi's trust can be felt from the box. It's amazing when trust exist between merchants and costumers.
+
+ID=820900015
+
+Yomi's gift box of affection
+
+<font color='#FFBA85'>[VIP Tier 5 Reward Package]<font color='#9D927B'>\n\nA gift box from Yomi as a symbol of gratitude for using the General goods shop for a long time. You can feel Yomi's love! How long did it take to get all these items!?
+
+ID=820900021
+
+Zenith's Gift Box
+
+<font color='#FFBA85'>[VIP Tier 1 Reward Package]<font color='#9D927B'>\n\nA gift box from Zenith as a symbol of gratitude for using her workshop for a long time. Filled with useful items.
+
+ID=820900022
+
+Zenith's Valuable Gift Box
+
+<font color='#FFBA85'>[VIP Tier 2 Reward Package]<font color='#9D927B'>\n\nA gift box from Zenith as a symbol of gratitude for using her workshop for a long time. Zenith filled it with valuables.
+
+ID=820900023
+
+Zenith's gift box of friendship
+
+<font color='#FFBA85'>[VIP Tier 3 Reward Package]<font color='#9D927B'>\n\nA gift box from Zenith as a symbol of gratitude for using her workshop for a long time. Filled with item's showing Zenith's friendship.
+
+ID=820900024
+
+Zenith's Trustful Gift Box
+
+<font color='#FFBA85'>[VIP Tier 4 Reward Package]<font color='#9D927B'>\n\nA gift box from Zenith as a symbol of gratitude for using her workshop for a long time. Zenith's trust can be felt from the box . It's funny to speak about trust when you're wearing a mask.
+
+ID=820900025
+
+Zenith's love filled gift box
+
+<font color='#FFBA85'>[VIP Tier 5 Reward Package]<font color='#9D927B'>\n\nA gift box from Zenith as a symbol of gratitude for using her workshop for a long time. You can feel Zenith's love! It's likely the inventory will overflow with materials!
+
+ID=820900031
+
+Trisha's Gift Box
+
+<font color='#FFBA85'>[VIP Tier 1 Reward Package]<font color='#9D927B'>\n\nA gift box from Trisha as a symbol of gratitude for using her equipment enhancement service. Filled with useful items.
+
+ID=820900032
+
+Trisha's Valuable Gift Box
+
+<font color='#FFBA85'>[VIP Tier 2 Reward Package]<font color='#9D927B'>\n\nA gift box from Trisha as a symbol of gratitude for using her equipment enhancement service. Trisha filled it with valuables.
+
+ID=820900033
+
+Trisha's friendship filled gift box
+
+<font color='#FFBA85'>[VIP Tier 3 Reward Package]<font color='#9D927B'>\n\nA gift box from Trisha as a symbol of gratitude for using her equipment enhancement service. Filled with items showing Trisha's friendship.
+
+ID=820900034
+
+Trisha's Trust Filled Gift Box
+
+<font color='#FFBA85'>[VIP Tier 4 Reward Package]<font color='#9D927B'>\n\nA gift box from Trisha as a symbol of gratitude form using her equipment enhancement service. Trisha's trust can be felt from the box… but thinking about all the blown up equipment….
+
+ID=820900035
+
+Trisha's Love Filled Gift Box
+
+<font color='#FFBA85'>[VIP Tier 5 Reward Package]<font color='#9D927B'>\n\nA gift box from Trisha as a symbol of gratitude for using her equipment enhancement service. You can feel Trisha's love! You have a "feeling" the next enhancement will succeed!  
+
+ID=820900041
+
+Azin gift box
+
+<font color='#FFBA85'>[VIP Tier 1 Reward Package]<font color='#9D927B'>\n\nA gfit box from Azin as a symbol of gratitude for using Skycraft service. Filled with useful items.
+
+ID=820900042
+
+Azin's Valuable Gift Box
+
+<font color='#FFBA85'>[VIP Tier 2 Reward Package]<font color='#9D927B'>\n\nA gift box from Azin as a symbol of gratitude for using Skycraft service. Azin filled it with valuables
+
+ID=820900043
+
+Gift box filled with friendship of Azin
+
+<font color='#FFBA85'>[VIP Tier 3 Reward Pacakge]<font color='#9D927B'>\n\nA gift box from Azin as a symbol of gratitude for using Skycraft service. Filled with items showing Azin's friendship
+
+ID=820900044
+
+Azin's gift box of trust
+
+<font color='#FFBA85'>[VIP Tier 4 Reward Package]<font color='#9D927B'>\n\nA gift box from Azin as a symbol of gratitude for using Skycraft service. Azin's trust can felt, but the Skycraft is too unstable it can't be trusted
+
+ID=820900045
+
+Gift box filled with love of Azin
+
+<font color='#FFBA85'>[VIP Tier 5 Reward Package]<font color='#9D927B'>\n\nA gift box from Azin as a symbol of gratitude for using Skycraft service. You can feel Azin's love! You're so sick of riding the Skycraft!
+
+ID=821010001
+
+Beginner's Box [Haru]
+
+<font color='#FFBA85'>[Beginner's Box]<font color='#9D927B'>\n\nA package received after creating Haru character to support you in your battles. Open it to obtain useful items.
+
+ID=821050001
+
+Haru's Level 5 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Haru reaches level 5 to support you in your battles. Open it to obtain useful items.
+
+ID=821100001
+
+Haru's Level 10 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Haru reaches level 10 to support you in your battles. Open it to obtain useful items.
+
+ID=821160001
+
+Haru's Level 15 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Haru reaches level 15 to support you in your battles. Open it to obtain useful items.
+
+ID=821220001
+
+Haru's Level 20 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Haru reaches level 20 to support you in your battles. Open it to obtain useful items.
+
+ID=821290001
+
+Haru's Level 25 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Haru reaches level 25 to support you in your battles. Open it to obtain useful items.
+
+ID=821300001
+
+Haru's Level 30 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Haru reaches level 30 to support you in your battles. Open it to obtain useful items.
+
+ID=821360001
+
+Haru's Level 35 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Haru reaches level 35 to support you in your battles. Open it to obtain useful items.
+
+ID=821450001
+
+Haru's Level 40 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Haru reaches level 40 to support you in your battles. Open it to obtain useful items.
+
+ID=821450001
+
+Haru's Level 45 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Haru reaches level 45 to support you in your battles. Open it to obtain useful items.
+
+ID=821500001
+
+Haru's Level 50 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Haru reaches level 50 to support you in your battles. Open it to obtain useful items.
+
+ID=821550001
+
+Haru's Level 55 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Haru reaches level 55 to support you in your battles. Open it to obtain useful items.
+
+ID=822010001
+
+Beginner's Package[Erwin]
+
+<font color='#FFBA85'>[Beginner's Box]<font color='#9D927B'>\n\nA package received after creating Erwin character to support you in your battles. Open it to obtain useful items.
+
+ID=822050001
+
+Erwin's Level 5 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Erwin reaches level 5 to support you in your battles. Open it to obtain useful items.
+
+ID=822100001
+
+Erwin's Level 10 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Erwin reaches level 10 to support you in your battles. Open it to obtain useful items.
+
+ID=822160001
+
+Erwin's Level 15 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Erwin reaches level 15 to support you in your battles. Open it to obtain useful items.
+
+ID=822220001
+
+Erwin's Level 20 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Erwin reaches level 20 to support you in your battles. Open it to obtain useful items.
+
+ID=822160001
+
+Erwin's Level 25 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Erwin reaches level 25 to support you in your battles. Open it to obtain useful items.
+
+ID=822300001
+
+Erwin's Level 30 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Erwin reaches level 30 to support you in your battles. Open it to obtain useful items.
+
+ID=822300001
+
+Erwin's Level 35 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Erwin reaches level 35 to support you in your battles. Open it to obtain useful items.
+
+ID=822400001
+
+Erwin's Level 40 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Erwin reaches level 40 to support you in your battles. Open it to obtain useful items.
+
+ID=822450001
+
+Erwin's Level 45 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Erwin reaches level 45 to support you in your battles. Open it to obtain useful items.
+
+ID=822450001
+
+Erwin's Level 50 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Erwin reaches level 50 to support you in your battles. Open it to obtain useful items.
+
+ID=822550001
+
+Erwin's Level 55 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Erwin reaches level 55 to support you in your battles. Open it to obtain useful items.
+
+ID=823010001
+
+Beginner's Package[Lily]
+
+<font color='#FFBA85'>[Beginner's Box]<font color='#9D927B'>\n\nA package received after creating Lily character to support you in your battles. Open it to obtain useful items.
+
+ID=823050001
+
+Lily's Level 5 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Lily reaches level 5 to support you in your battles. Open it to obtain useful items.
+
+ID=823100001
+
+Lily's Level 10 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Lily reaches level 10 to support you in your battles. Open it to obtain useful items.
+
+ID=823160001
+
+Lily's Level 15 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Lily reaches level 15 to support you in your battles. Open it to obtain useful items.
+
+ID=823220001
+
+Lily's Level 20 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Lily reaches level 20 to support you in your battles. Open it to obtain useful items.
+
+ID=823290001
+
+Lily's Level 25 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Lily reaches level 25 to support you in your battles. Open it to obtain useful items.
+
+ID=823300001
+
+Lily's Level 30 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Lily reaches level 30 to support you in your battles. Open it to obtain useful items.
+
+ID=823360001
+
+Lily's Level 35 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Lily reaches level 35 to support you in your battles. Open it to obtain useful items.
+
+ID=823400001
+
+Lily's Level 40 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Lily reaches level 40 to support you in your battles. Open it to obtain useful items.
+
+ID=823450001
+
+Lily's Level 45 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Lily reaches level 45 to support you in your battles. Open it to obtain useful items.
+
+ID=823500001
+
+Lily's Level 50 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Lily reaches level 50 to support you in your battles. Open it to obtain useful items.
+
+ID=823550001
+
+Lily's Level 55 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Lily reaches level 55 to support you in your battles. Open it to obtain useful items.
+
+ID=825010001
+
+Beginner's Box [Stella]
+
+<font color='#FFBA85'>[Beginner's Box]<font color='#9D927B'>\n\nA package received after creating Stella character to support you in your battles. Open it to obtain useful items.
+
+ID=825050001
+
+Stella's Level 5 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Stella reaches level 5 to support you in your battles. Open it to obtain useful items.
+
+ID=825100001
+
+Stella's Level 10 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Stella reaches level 10 to support you in your battles. Open it to obtain useful items.
+
+ID=825160001
+
+Stella's Level 15 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Stella reaches level 15 to support you in your battles. Open it to obtain useful items.
+
+ID=825220001
+
+Stella's Level 20 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Stella reaches level 20 to support you in your battles. Open it to obtain useful items.
+
+ID=825290001
+
+Stella's Level 25 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Stella reaches level 25 to support you in your battles. Open it to obtain useful items.
+
+ID=825300001
+
+Stella's Level 30 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Stella reaches level 30 to support you in your battles. Open it to obtain useful items.
+
+ID=825360001
+
+Stella's Level 35 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Stella reaches level 35 to support you in your battles. Open it to obtain useful items.
+
+ID=825400001
+
+Stella's Level 40 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Stella reaches level 40 to support you in your battles. Open it to obtain useful items.
+
+ID=825450001
+
+Stella's Level 45 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Stella reaches level 45 to support you in your battles. Open it to obtain useful items.
+
+ID=825500001
+
+Stella's Level 50 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Stella reaches level 50 to support you in your battles. Open it to obtain useful items.
+
+ID=825550001
+
+Stella's Level 55 Reward Package
+
+<font color='#FFBA85'>[Level Achievement Reward Package]<font color='#9D927B'>\n\nA package received when Stella reaches level 55 to support you in your battles. Open it to obtain useful items.
+
+ID=820999141
+
+Daily Login Reward (Small)
+
+<font color='#FFBA85'>[Daily Login Reward]<font color='#9D927B'>\n\nA reward obtained after staying logged in for 1 hour. Contains Glutton coin.
+
+ID=820999142
+
+Daily Login Reward (Medium)
+
+<font color='#FFBA85'>[Daily Login Reward]<font color='#9D927B'>\n\nA reward obtained after staying logged in for 2 hours. Contains useful items.
+
+ID=820999143
+
+Daily Login Reward (Large) 
+
+<font color='#FFBA85'>[Daily Login Reward]<font color='#9D927B'>\n\nA reward obtained after staying logged in for 3 hours. Contains useful items.
+
+ID=820999144
+
+[Furniture Set] Random set
+
+<font color='#FFBA85'>[Furniture Box]<font color='#9D927B'>\n\nThis package includes furniture that can basically decorate My Room. The theme of the furniture is not uniform, but the assortment can be tailored somehow.
+
+ID=820999145
+
+[Furniture Box] Mono Sofa A
+
+<font color='#FFBA85'>[Furniture Box]<font color='#9D927B'>\n\nThis package contains all the materials to make a Mono Sofa [Type A].
+
+ID=820999146
+
+[Furniture Box] Mono Table A
+
+<font color='#FFBA85'>[Furniture Box]<font color='#9D927B'>\n\nThis package contains all the materials to make a Mono Table [Type A].
+
+ID=820999147
+
+[Furniture Box] Mono Bath A
+
+<font color='#FFBA85'>[Furniture Box]<font color='#9D927B'>\n\nThis package contains all the materials to make a Mono Bath [Type A].
+
+ID=820999148
+
+Research Box I
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA reward for Steel Grave [Chapter 5], which contains a box of Soul Weapon and Gear Blueprints.
+
+ID=820999149
+
+Research Box II
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA reward for Steel Grave [Chapter 5], which contains a box of Soul Weapon and Gear Blueprints.
+
+ID=820999150
+
+Research Box III
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nA reward for Steel Grave [Chapter 15], which contains a box of Soul Weapon and Gear Blueprints.
+
+ID=820999151
+
+Research Item Pack I
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nReward for completing the Steel Grave chapter safely. It's a bit unpleasant to give the researchers what they've done after a while, but it must contain something useful.\nObtained when Clearing Steel Grave 1-4.
+
+ID=820999152
+
+Research Article Package II
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nReward for completing the Steel Grave chapter safely. It's a bit unpleasant to give the researchers what they've done after a while, but it must contain something useful.\nObtained when Clearing Steel Grave 6-9.
+
+ID=820999153
+
+Research Article Box III
+
+<font color='#FFBA85'>[Item Box]<font color='#9D927B'>\n\nReward for completing the Steel Grave chapter safely. It's a bit unpleasant to give the researchers what they've done after a while, but it must contain something useful.\nObtained when Clearing Steel Grave 11-14.
+
+ID=820999101
+
+Login Reward Package: 1 Day
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 1 Login Reward Package. You can get helpful items when opening.
+
+ID=820999102
+
+Login Reward Package: Day 2
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 2 Login Reward Package. You can get helpful items when opening.
+
+ID=820999103
+
+Login Reward Package: Day 3
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 3 Login Reward Package. You can get helpful items when opening.
+
+ID=820999104
+
+Login Reward Package: Day 4
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 4 Login Reward Package. You can get helpful items when opening.
+
+ID=820999105
+
+Login Reward Package: Day 5
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 5 Login Reward Package. You can get helpful items when opening.
+
+ID=820999106
+
+Login Reward Package: Day 6
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 6 Login Reward Package. You can get helpful items when opening.
+
+ID=820999107
+
+Login Reward Package: Day 7
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 7 Login Reward Package. You can get helpful items when opening.
+
+ID=820999108
+
+Login Reward Package: Day 8
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 8 Login Reward Package. You can get helpful items when opening.
+
+ID=820999109
+
+Login Reward Package: Day 9
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 9 Login Reward Package. You can get helpful items when opening.
+
+ID=820999110
+
+Login Reward Package: Day 10
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 10 Login Reward Package. You can get helpful items when opening.
+
+ID=820999111
+
+Login Reward Package: Day 11
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 11 Login Reward Package. You can get helpful items when opening.
+
+ID=820999112
+
+Login Reward Package: Day 12
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 12 Login Reward Package. You can get helpful items when opening.
+
+ID=820999113
+
+Login Reward Package: Day 13
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 13 Login Reward Package. You can get helpful items when opening.
+
+ID=820999114
+
+Login Reward Package: Day 14
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 14 Login Reward Package. You can get helpful items when opening.
+
+ID=820999115
+
+Login Reward Package: Day 15
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 15 Login Reward Package. You can get helpful items when opening.
+
+ID=820999116
+
+Login Reward Package: Day 16
+
+<font color='#FFBA85'>[Access compensation package]<font color='#9D927B'>\n\nDay 16 day access reward package. You can get helpful items when opening.
+
+ID=820999117
+
+Access Reward Package: 17Day
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 17 Login Reward Package. You can get helpful items when opening.
+
+ID=820999118
+
+Access Reward Package: 18Day
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 18 Login Reward Package. You can get helpful items when opening.
+
+ID=820999119
+
+Access Reward Package: 19Day
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 19 Login Reward Package. You can get helpful items when opening.
+
+ID=820999120
+
+Login Reward Package: Day 16
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 20 Login Reward Package. You can get helpful items when opening.
+
+ID=820999121
+
+Login Reward Package: Day 21
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 21 Login Reward Package. You can get helpful items when opening.
+
+ID=820999122
+
+Login Reward Package: Day 22
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 22 Login Reward Package. You can get helpful items when opening.
+
+ID=820999123
+
+Login Reward Package: Day 23
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 23 Login Reward Package. You can get helpful items when opening.
+
+ID=820999124
+
+Login Reward Package: Day 24
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 24 Login Reward Package. You can get helpful items when opening.
+
+ID=820999125
+
+Login Reward Package: Day 25
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 25 Login Reward Package. You can get helpful items when opening.
+
+ID=820999126
+
+Login Reward Package: Day 26
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 26 Login Reward Package. You can get helpful items when opening.
+
+ID=820999127
+
+Login Reward Package: Day 27
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 27 Login Reward Package. You can get helpful items when opening.
+
+ID=820999128
+
+Login Reward Package: Day 28
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 28 Login Reward Package. You can get helpful items when opening.
+
+ID=820999129
+
+Login Reward Package: Day 29
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 29 Login Reward Package. You can get helpful items when opening.
+
+ID=820999130
+
+Login Reward Package: Day 30
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 30 Login Reward Package. You can get helpful items when opening.
+
+ID=820999131
+
+Login Reward Package: Day 31
+
+<font color='#FFBA85'>[Login Reward Package]<font color='#9D927B'>\n\nDay 31 Login Reward Package. You can get helpful items when opening.
+
+ID=813010901
+
+[Sealed] [Detective Academy Uniform] Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Detective Academy uniform] This package contains the Costume.
+
+ID=813010101
+
+[Sealed] [Detective Academy uniform] bread hat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Detective Academy uniform] This package contains the Hat.
+
+ID=813011101
+
+[Sealed] [Detective Academy Uniform] Stockings
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Detective Academy uniform] This package contains the knee socks.
+
+ID=813011201
+
+[Sealed] [Detective Academy Uniform] Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Detective Academy uniform] This package contains the shoes.
+
+ID=813021901
+
+[Sealed] [Sporty Look] cap hat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the cap.
+
+ID=813020701
+
+[Sealed] [Sporty Look] top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the top.
+
+ID=813020801
+
+[Sealed] [Sporty Look] Bottoms
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] Bottom is packed in this package.
+
+ID=813021001
+
+[Sealed] [Sporty Look] Bag
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the bag.
+
+ID=813020301
+
+[Sealed] [Sporty Look] Fluorescent glasses
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the fluorescent glasses.
+
+ID=813020501
+
+[Sealed] [Sporty Look] sports watch
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the sports watch.
+
+ID=813021201
+
+[Sealed] [Sporty look] sneakers
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the sneakers.
+
+ID=813030701
+
+[Sealed] [Modern Casual] Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Modern Casual] This package contains the top.
+
+ID=813030801
+
+[Sealed] [Modern Casual] Bottoms
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Modern Casual] This package contains the skirt.
+
+ID=813030301
+
+[Sealed] [Modern Casual] horn-rimmed glasses
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Modern Casual] This package contains the glasses.
+
+ID=813030501
+
+[Sealed] [Modern Casual] Watch
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Modern Casual] This package contains the wrist watch.
+
+ID=813031201
+
+[Sealed] [Modern Casual] Casual Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Modern Casual] This package contains the casual shoes.
+
+ID=813040101
+
+[Sealed] [Nurse's Uniform] Hat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Nurse's Uniform] This package contains the hat.
+
+ID=813040901
+
+[Sealed] [Nurse's Uniform] Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Nurse's Uniform] This package contains the costume.
+
+ID=813041101
+
+[Sealed] [Nurse's Uniform] Stockings
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Nurse's Uniform] This package contains the socks.
+
+ID=813041201
+
+[Sealed] [Nurse's Uniform] Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Nurse's Uniform] This package contains the shoes.
+
+ID=813050701
+
+[Sealed] [Repaired Haru's School Uniform A]
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Haru's Repaired School Uniform A] This package contains the top.
+
+ID=813050801
+
+[Sealing][Haru's Repaired School Uniform A] Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Haru's Repaired School Uniform A] This package contains the skirt.
+
+ID=813051101
+
+[Sealing][Haru's Repaired School Uniform A] Stockings
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Haru's Repaired School Uniform A] This package contains the knee socks.
+
+ID=813060701
+
+[Sealing][Haru's Repaired School Uniform B] Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Haru's Repaired School Uniform B] This package contains the top.
+
+ID=813060801
+
+[Sealing][Haru's Repaired School Uniform B] Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Haru's Repaired School Uniform B] This package contains the skirt.
+
+ID=813061101
+
+[Sealing][Haru's Repaired School Uniform B] Stockings
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Haru's Repaired School Uniform B] This package contains the knee socks.
+
+ID=813070701
+
+[Sealing][Haru's Repaired School Uniform C] Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Haru's Repaired School Uniform C] This package contains the top.
+
+ID=813070801
+
+[Sealing][Haru's Repaired School Uniform C] Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Haru's Repaired School Uniform C] This package contains the skirt.
+
+ID=813071101
+
+[Sealing][Haru's Repaired School Uniform C] Stockings
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Haru's Repaired School Uniform C] This package contains the knee socks.
+
+ID=813080701
+
+[Sealing][Haru's Repaired School Uniform D] Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Haru's Repaired School Uniform D] This package contains the top.
+
+ID=813080801
+
+[Sealing][Haru's Repaired School Uniform D] Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Haru's Repaired School Uniform D] This package contains the skirt.
+
+ID=813081101
+
+[Sealing][Haru's Repaired School Uniform D] Stockings
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Haru's Repaired School Uniform D] This package contains the knee socks.
+
+ID=813090901
+
+[Sealed][Beauty School Look] Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Beauty School Look] This package contains the costume.
+
+ID=813090101
+
+[Sealde][Beauty School Look] Hat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Beauty School Look] This package contains the hat.
+
+ID=813091101
+
+[Sealed][Beauty School Look] Stockings
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Beauty School Look] This package contains the stockings.
+
+ID=813091201
+
+[Sealed][Beauty School Look] Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Beauty School Look] This package contains the shoes.
+
+ID=813100901
+
+[Sealed][Wandering Revenge] Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Wandering Revenge] This package contains the costume.
+
+ID=813101101
+
+[Sealed][Wandering Revenge] Knee Socks
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Wandering Revenge] This package contains the knee socks.
+
+ID=813101201
+
+[Sealed][Wandering Revenge]Boots
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Wandering Revenge] This package contains the boots.
+
+ID=813110101
+
+[Sealed][Trader's Union Uniform]Cap
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Trader's Union Uniform] This package contains the cap.
+
+ID=813110701
+
+[Sealed][Trader's Union Uniform] Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Trader's Union Uniform] package containing top.
+
+ID=813110801
+
+[Sealed] [Trader's Union Uniform] Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Trader's Union Uniform] This package contains the skirt.
+
+ID=813111101
+
+[Sealed][Trader's Union Uniform] Knee Socks
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Trader's Union Uniform] This package contains the knee socks.
+
+ID=813111201
+
+[Sealed][Trader's Union Uniform] Sneakers
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Trader's Union Uniform] This package contains the sneakers.
+
+ID=813120701
+
+[Sealed][Star Forest League Old Military Uniform] Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Star Forest League Old Military Uniform] This package contains the top.
+
+ID=813120801
+
+[Sealed][Star Forest League Old Military Uniform]Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Star Forest League Old Military Uniform] This package contains the skirt.
+
+ID=813121201
+
+[Sealed][Star Forest League Old Military Uniform] Boots
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Star Forest League Old Military Uniform] This package contains the boots.
+
+ID=823010101
+
+ID=823010901
+
+ID=823010401
+
+[Sealed][Detective Academy Uniform] Gentleman Mustache
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Detective Academy uniform] This package contains the Gentleman Mustache.
+
+ID=823011201
+
+ID=823021901
+
+[Sealed][Sporty Look] Hoody
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the hoody.
+
+ID=823020401
+
+[Sealed][Sporty Look] Mask
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the mask.
+
+ID=823020701
+
+ID=823020801
+
+ID=823020501
+
+[Sealed][Sporty Look] Sport Gloves
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the sport gloves.
+
+ID=823021301
+
+[Sealed][Sporty Look] Bag
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the sport bag.
+
+ID=823021201
+
+[Sealed][Sporty Look] Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the shoes.
+
+ID=823030301
+
+ID=823030701
+
+ID=823030501
+
+ID=823030801
+
+[Sealed][Modern Casual] Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Modern Casual] This package contains the pants.
+
+ID=823031201
+
+ID=823040301
+
+[Sealed][Doctor Outfit] Glasses
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Doctor Outfit] This package contains the glasses.
+
+ID=823040901
+
+[Sealing][Doctor Outfit]Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Doctor Outfit] This package contains the costume.
+
+ID=823040501
+
+[Sealed][Doctor Outfit] Gloves
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Doctor Outfit] This package contains the gloves.
+
+ID=823041201
+
+[Sealed][Doctor Outfit] Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Doctor Outfit] This package contains the shoes.
+
+ID=823050701
+
+[Sealed][Erwin's Repaired School Uniform A] Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Erwin's Repaired School Uniform A] This package contains the top.
+
+ID=823050801
+
+[Sealed][Erwin's Repaired School Uniform A] Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Erwin's Repaired School Uniform A] This package contains the pants.
+
+ID=823060701
+
+[Sealed][Erwin's Repaired School Uniform B]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Erwin's Repaired School Uniform B] This package contains the top.
+
+ID=823060801
+
+[Sealed][Erwin's Repaired School Uniform B]Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Erwin's Repaired School Uniform B] This package contains the pants.
+
+ID=823070701
+
+[Sealed][Erwin's Repaired School Uniform C]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Erwin's Repaired School Uniform C] This package contains the top.
+
+ID=823070801
+
+[Sealed][Erwin's Repaired School Uniform C]Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Erwin's Repaired School Uniform C] This package contains the pants.
+
+ID=823080701
+
+[Sealed][Erwin's Repaired School Uniform D]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Erwin's Repaired School Uniform D] This package contains the top.
+
+ID=823080801
+
+[Sealed][Erwin's Repaired School Uniform D]Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Erwin's Repaired School Uniform D] This package contains the pants.
+
+ID=823100701
+
+[Sealed][Handsome School Look]Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Handsome School Look] This package contains the costume.
+
+ID=823090301
+
+[Sealed][Handsome School Look]Glasses
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Handsome School Look] This package contains the glasses.
+
+ID=823120501
+
+[Sealed][Handsome School Look]Watch
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Handsome School Look] This package contains the watch.
+
+ID=823131201
+
+[Sealed][Handsome School Look]Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Handsome School Look] This package contains the shoes.
+
+ID=823100901
+
+[Sealed][Bullet of Smiling Pleasure]Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Bullet of Smiling Pleasure] This package contains the costume.
+
+ID=823100501
+
+[Sealed][Bullet of Smiling Pleasure]Bracelet
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Bullet of Smiling Pleasure] This package contains the bracelet.
+
+ID=823101201
+
+[Sealed][Bullet of Smiling Pleasure]Boots
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Bullet of Smiling Pleasure] This package contains the boots.
+
+ID=823110101
+
+[Sealed][Trader's Union Uniform]Cap
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Trader's Union Uniform] This package contains the cap.
+
+ID=823110701
+
+ID=823110801
+
+[Sealed][Trader's Union Uniform]Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Trader's Union Uniform] This package contains the pants.
+
+ID=823111201
+
+ID=823120701
+
+ID=823120801
+
+[Sealed][Star Forest League Old Military Uniform]Bottom
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Star Forest League Old Military Uniform] This package contains the bottom.
+
+ID=823121201
+
+ID=833010701
+
+ID=833010101
+
+ID=833011101
+
+ID=833011201
+
+ID=833021901
+
+ID=833020701
+
+ID=833020801
+
+ID=833021001
+
+ID=833020301
+
+ID=833021101
+
+[Sealed][Sporty Look]Knee Socks
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the knee socks.
+
+ID=833020501
+
+ID=833021201
+
+ID=833030701
+
+ID=833030801
+
+[Sealed][Modern Casual]Bottom
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Modern Casual] This package contains the bottom.
+
+ID=833031101
+
+[Sealed][Modern Casual]Stockings
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Modern Casual] This package contains the stocking.
+
+ID=833030501
+
+[Sealed][Modern Casual]Bracelet
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Modern Casual] This package contains the bracelet.
+
+ID=833031201
+
+ID=833040101
+
+ID=833040901
+
+ID=833041101
+
+ID=833041201
+
+ID=833050701
+
+[Sealed][Lily's Repaired School Uniform A]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lily's Repaired School Uniform A] This package contains the top.
+
+ID=833050801
+
+[Sealed][Lily's Repaired School Uniform A]Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lily's Repaired School Uniform A] This package contains the skirt.
+
+ID=833051101
+
+[Sealed][Lily's Repaired School Uniform A]Knee Socks
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lily's Repaired School Uniform A] This package contains the knee socks.
+
+ID=833060701
+
+[Sealed] [Lily's Repaired School Uniform B]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lily's Repaired School Uniform B] This package contains the top.
+
+ID=833060801
+
+[Sealed][Lily's Repaired School Uniform B]Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lily's Repaired School Uniform B] This package contains the skirt.
+
+ID=833061101
+
+[Sealed][Lily's Repaired School Uniform B]Knee Socks
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lily's Repaired School Uniform B] This package contains the knee socks.
+
+ID=833070701
+
+[Sealed][Lily's Repaired School Uniform C]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lily's Repaired School Uniform C] This package contains the top.
+
+ID=833070801
+
+[Sealed][Lily's Repaired School Uniform C]Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lily's Repaired School Uniform C] This package contains the skirt.
+
+ID=833071101
+
+[Sealed][Lily's Repaired School Uniform C]Knee Socks
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lily's Repaired School Uniform C] This package contains the knee socks.
+
+ID=833080701
+
+[Sealed][Lily's Repaired School Uniform D]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lily's Repaired School Uniform D] This package contains the top.
+
+ID=833080801
+
+[Sealed][Lily's Repaired School Uniform D]Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lily's Repaired School Uniform D] This package contains the skirt.
+
+ID=833081101
+
+[Sealed][Lily's Repaired School Uniform D]Knee Socks
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Lily's Repaired School Uniform D] This package contains the knee socks.
+
+ID=833090901
+
+ID=830309001
+
+ID=833091101
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Beauty School Look] This package contains the stocking.
+
+ID=833091201
+
+ID=833100901
+
+[Sealed][Outrageous Madness]Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Outrageous Madness] This package contains the costume.
+
+ID=833101101
+
+[Sealed][Outrageous Madness] Stockings
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Outrageous Madness] This package contains the Stockings.
+
+ID=833101201
+
+[Sealed][Outrageous Madness]Boots
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Outrageous Madness] This package contains the boots.
+
+ID=833110101
+
+ID=833110701
+
+ID=833110801
+
+ID=833111101
+
+ID=833111201
+
+ID=833120701
+
+ID=833120801
+
+ID=833121201
+
+ID=853010901
+
+ID=853010101
+
+ID=853011101
+
+ID=853011201
+
+ID=853021901
+
+[Sealed][Sporty Look]Headband
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sporty Look] This package contains the headband.
+
+ID=853020701
+
+ID=853020801
+
+ID=853021001
+
+ID=853020301
+
+ID=853020501
+
+ID=853021201
+
+ID=853030701
+
+ID=853030801
+
+ID=853030301
+
+ID=853030501
+
+ID=853031201
+
+ID=853040301
+
+ID=853040901
+
+ID=853041101
+
+[Sealed][Doctor Outfit]Stocking
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Doctor Outfit] This package contains the stocking.
+
+ID=853041201
+
+[Sealed][Doctor Outfit]Slippers
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Doctor Outfit] This package contains the slippers.
+
+ID=853050701
+
+[Sealed][Stella's Repaired School Uniform A]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stella's Repaired School Uniform A] This package contains the top.
+
+ID=853050801
+
+[Sealed][Stella's Repaired School Uniform A]Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stella's Repaired School Uniform A] This package contains the skirt.
+
+ID=853051101
+
+[Sealed][Stella's Repaired School Uniform A]Knee Socks
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stella's Repaired School Uniform A] This package contains the knee socks.
+
+ID=853060701
+
+[Sealed][Stella's Repaired School Uniform B]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stella's Repaired School Uniform B] This package contains the top.
+
+ID=853060801
+
+[Sealed][Stella's Repaired School Uniform B]Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stella's Repaired School Uniform B] This package contains the skirt.
+
+ID=853061101
+
+[Sealed][Stella's Repaired School Uniform B]Knee Socks
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stella's Repaired School Uniform B] This package contains the knee socks.
+
+ID=853070701
+
+[Sealed][Stella's Repaired School Uniform C]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stella's Repaired School Uniform C] This package contains the top.
+
+ID=853070801
+
+[Sealed][Stella's Repaired School Uniform C]Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stella's Repaired School Uniform C] This package contains the skirt.
+
+ID=853071101
+
+[Sealed][Stella's Repaired School Uniform C]Knee Socks
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stella's Repaired School Uniform C] This package contains the knee socks.
+
+ID=853080701
+
+[Sealing][Stella's Repaired School Uniform D]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stella's Repaired School Uniform D] This package contains the top.
+
+ID=853080801
+
+[Sealed][Stella's Repaired School Uniform D]Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stella's Repaired School Uniform D] This package contains the skirt.
+
+ID=853081101
+
+[Sealed][Stella's Repaired School Uniform D]Knee Socks
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Stella's Repaired School Uniform D] This package contains the stockings.
+
+ID=853090901
+
+ID=853090101
+
+ID=853091101
+
+ID=853091201
+
+ID=853100901
+
+[Sealed][Evil Of Silent Sorrow]Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Evil Of Silent Sorrow] This package contains the costume.
+
+ID=853101101
+
+[Sealed][Evil Of Silent Sorrow] Stockings
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Evil Of Silent Sorrow] This package contains the knee socks.
+
+ID=853101201
+
+[Sealed][Evil Of Silent Sorrow]Boots
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Evil Of Silent Sorrow] This package contains the boots.
+
+ID=853110101
+
+ID=853110701
+
+ID=853110801
+
+ID=853111101
+
+ID=853111201
+
+ID=853120701
+
+ID=853120801
+
+ID=853121201
+
+ID=813011401
+
+[Sealed]Baseball Bat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains the baseball bat.
+
+ID=823011401
+
+[Sealed]Big Shuttle Gun
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains the big shuttle gun.
+
+ID=833011401
+
+[Sealed]Hockey stick
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains the hockey stick.
+
+ID=853011401
+
+[Sealed]Cat Ear Racket Guitar
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains the cat ear racket guitar.
+
+ID=813140101
+
+[Sealed][SGL Guard]Hat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[SGL Guard] This package contains the hat.
+
+ID=813140901
+
+[Sealed][SGL Guard]Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[SGL Guard] This package contains the costume.
+
+ID=813140501
+
+[Sealed][SGL Guard]Gloves
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[SGL Guard] This package contains the gloves.
+
+ID=813141101
+
+[Sealed][SGL Guard]Stockings
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[SGL Guard] This package contains the stockings.
+
+ID=813141201
+
+[Sealed][SGL Guard]Boots
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[SGL Guard] This package contains the boots.
+
+ID=823140101
+
+ID=823140901
+
+ID=823140501
+
+ID=823140301
+
+[Sealed][SGL Guard]Sunglasses
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[SGL Guard] This package contains the sunglasses.
+
+ID=823141201
+
+ID=833140101
+
+ID=833140901
+
+ID=833140501
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[SGL Guard] This package contains the gloves.
+
+ID=833141101
+
+ID=833141201
+
+ID=853140101
+
+ID=853140901
+
+ID=853140501
+
+ID=853141101
+
+ID=853141201
+
+ID=813150901
+
+[Sealed][Special Pajama]Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Special Pajama] This package contains the costume.
+
+ID=813151201
+
+[Sealed][Special Pajama]Bear Slippers
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Special Pajama] This package contains the bear slippers.
+
+ID=823150901
+
+ID=823151201
+
+[Sealed][Special Pajama]Panda Slippers
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Special Pajama] This package contains the panda slippers.
+
+ID=833150901
+
+ID=833151201
+
+[Sealed][Special Pajama]Cat Slippers
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Special Pajama] This package contains the cat's slippers.
+
+ID=853150901
+
+ID=853151201
+
+[Special Pajama]Rabbit's Slippers.
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Special Pajama] This package contains the rabbit's slippers.
+
+ID=813210901
+
+[Sealed][Pajama] Drowsy Pajama
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains the drowsy pajama.
+
+ID=813211201
+
+[Sealed][Pajamas]Indoor Slippers
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\nThis package contains the indoor slippers.
+
+ID=823210901
+
+ID=823211201
+
+ID=833210901
+
+ID=833211201
+
+ID=853210901
+
+ID=853211201
+
+ID=843010101
+
+[Sealed][Male Detective Academy Uniform]Hat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Male Detective Academy Uniform] This package contains the Hat.
+
+ID=843010901
+
+[Sealed][Male Detective Academy Uniform]Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Male Detective Academy Uniform] This package contains the costume.
+
+ID=843010801
+
+[Sealed][Male Detective Academy Uniform]Bottom
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Male Detective Academy Uniform] This package contains the bottom.
+
+ID=843012701
+
+ID=843012801
+
+ID=843010401
+
+[Sealed][Male Detective Academy Uniform]Gentleman Mustache
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Male Detective Academy uniform] This package contains the Gentleman Mustache.
+
+ID=843011201
+
+[Sealed][Male Detective Academy Uniform]Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Male Detective Academy Uniform] This package contains the shoes.
+
+ID=843020201
+
+[Sealed][Boys Sporty Look]Hoody
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Boys Sporty Look] This package contains the hoody.
+
+ID=843020401
+
+[Sealed][Boys Sporty Look]Mask
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Boys Sporty Look] This package contains the mask.
+
+ID=843020701
+
+[Sealed][Boys Sporty Look]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Boys Sporty Look] This package contains the top.
+
+ID=843020801
+
+[Sealed][Boys Sporty Look]Bottoms
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Boys Sporty Look] This package contains the bottoms.
+
+ID=843022701
+
+ID=843020501
+
+[Sealed][Boys Sporty Look]Sports Watch
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Boys Sporty Look] This package contains the sports watch.
+
+ID=843021301
+
+[Sealed][Boys Sporty Look]Pouch
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Boys Sporty Look] This package contains the pouch.
+
+ID=843021201
+
+[Sealed][Boys Sporty Look]Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Boys Sporty Look] This package contains the shoes.
+
+ID=843040301
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Doctor Outfit] This package contains the horn rimmed glasses.
+
+ID=843040901
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Doctor Outfit] This package contains the costume.
+
+ID=843042801
+
+ID=843040501
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Doctor Outfit] This package contains the gloves.
+
+ID=843041201
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Doctor Outfit] This package contains the shoes.
+
+ID=843050701
+
+[Sealed][Jin's Repaired School Uniform A]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Jin's Repaired School Uniform A] This package contains the top.
+
+ID=843050801
+
+[Sealed][Jin's Repaired School Uniform A]Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Jin's Repaired School Uniform A] This package contains the pants.
+
+ID=843052701
+
+ID=843060701
+
+[Sealed][Jin's Repaired School Uniform B]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Jin's Repaired School Uniform B] This package contains the top.
+
+ID=843060801
+
+[Sealed][Jin's Repaired School Uniform B]Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Jin's Repaired School Uniform B] This package contains the pants.
+
+ID=843062701
+
+ID=843070701
+
+[Sealed][Jin's Repaired School Uniform C]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Jin's Repaired School Uniform C] This package contains the top.
+
+ID=843070801
+
+[Sealed][Jin's Repaired School Uniform C]Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Jin's Repaired School Uniform C] This package contains the pants.
+
+ID=843072701
+
+ID=843080701
+
+[Sealed][Jin's Repaired School Uniform D]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Jin's Repaired School Uniform D] This package contains the top.
+
+ID=843080801
+
+[Sealed][Jin's Repaired School Uniform D]Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Jin's Repaired School Uniform D] This package contains the pants.
+
+ID=843082701
+
+ID=843100901
+
+[Sealed][Blazing Passion]Costume
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Blazing Passion] This package contains the costume.
+
+ID=843100801
+
+[Sealed][Blazing Passion]Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Blazing Passion] This package contains the pants.
+
+ID=843100501
+
+[Sealed][Blazing Passion]Gloves
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Blazing Passion] This package contains the gloves.
+
+ID=843101201
+
+[Sealed][Blazing Passion]Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Blazing Passion] This package contains the shoes.
+
+ID=843110101
+
+[Sealed][Male Trader's Union Uniform]Cap
+
+<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\n\n[상인연합 남성복] 캡 모자가 들어있는 패키지이다.
+
+ID=843110701
+
+[Sealed][Male Trader's Union Uniform]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Male Trader's Union Uniform] This package contains the top.
+
+ID=843110801
+
+[Sealed][Male Trader's Union Uniform]Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Male Trader's Union Uniform] This package contains the pants.
+
+ID=843112701
+
+ID=843111201
+
+[Sealed][Male Trader's Union Uniform]Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Male Trader's Union Uniform] This package contains the shoes.
+
+ID=843120701
+
+[Sealed][Star Forest League Old Military Male's Uniform]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Star Forest League Old Military Male's Uniform] This package contains the top.
+
+ID=843120801
+
+[Sealed][Star Forest League Old Military Male's Uniform]Bottoms
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Star Forest League Old Military Male's Uniform] This package contains the bottoms.
+
+ID=843121201
+
+[Sealed][Star Forest League Old Military Male's Uniform]Boots
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Star Forest League Old Military Male's Uniform] This package contains the boots.
+
+ID=843140101
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[SGL Guard] This package contains the hat.
+
+ID=843150901
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Special Pajama] This package contains the costume.
+
+ID=843151201
+
+[Sealed][Special Pajama]Wolf Slippers
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Special Pajama] This package contains the wolf slippers.
+
+ID=843200201
+
+[Sealed][Sweat and Youth]Hat
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the hat.
+
+ID=843200701
+
+[Sealed][Sweat and Youth]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the top.
+
+ID=843200801
+
+[Sealed][Sweat and Youth]Pants
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the pants.
+
+ID=843201101
+
+[Sealed][Sweat and Youth]Socks
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the socks.
+
+ID=843200501
+
+[Sealed][Sweat and Youth]Gloves
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the gloves.
+
+ID=843201201
+
+[Sealed][Sweat and Youth]Shoes
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the shoes.
+
+ID=843210901
+
+[Sealed][Pajamas]Top
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Pajamas] This package contains the top.
+
+ID=843211201
+
+[Sealed][Pajamas]Slippers
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Pajamas] This package contains the slippers.
+
+ID=813200201
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the hat.
+
+ID=813200701
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the top.
+
+ID=813200801
+
+[Sealed][Sweat and Youth]Skirt
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the skirt.
+
+ID=813201101
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the socks.
+
+ID=813200501
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the gloves.
+
+ID=813201201
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the shoes.
+
+ID=823200201
+
+ID=823200701
+
+ID=823200801
+
+<font color='#FFBA85'>[Costume Package]<font color='#9D927B'>\n\n[Sweat and Youth] This package contains the pants.
+
+ID=823201101
+
+ID=823200501
+
+ID=823201201
+
+ID=833200201
+
+ID=833200701
+
+ID=833200801
+
+ID=833201101
+
+ID=833200501
+
+ID=833201201
+
+ID=853200201
+
+ID=853200701
+
+ID=853200801
+
+ID=853201101
+
+ID=853200501
+
+ID=853201201
+
+ID=820010001
+
+Zenith's Materials Box
+
+<font color='#FFBA85'>[Package item]<font color='#9D927B'>\n\nA box containing materials for making [Mixed Souls]. Zenith has given you a special gift.
+
+ID=820010002
+
+Zenith's Custom Sword Box
+
+<font color='#FFBA85'>[Package item]<font color='#9D927B'> \n\nBox containing materials for Zenith Custom Sword. Zenith has given you a special gift.\n\n-Components- \ n [Blueprint] Zenith Custom Sword x 1\nWeapon Core x 3\nMetal Stone x 5
+
+ID=820010003
+
+Zenith's Custom Gun Box
+
+<font color='#FFBA85'>[Package Item]<font color='#9D927B'>\n\nA box containing materials for making a custom gun. Zenith gave you a special gift.\n\n-Material-\n[Blueprint] Zenith's Custom Gun x 1\nLost Weapon Core x 3\nMetal Stones x 5
+
+ID=820010004
+
+Zeniths Custom Side Box
+
+<font color='#FFBA85'>[Package Item]<font color='#9D927B'>\n\nA box containing materials for making a custom side box. Zenith gave you a special gift.\n\n-Material-\n[Blueprint] Zenith's Custom Side x 1\nLost Weapon Core x 3\nMetal Stones x 5
+
+ID=820010005
+
+Zenith Custom Guitar Box
+
+<font color='#FFBA85'>[Package Item]<font color='#9D927B'>\n\nA box containing materials for making a custom guitar. Zenith gave you a special gift.\n\n-Material-\n[Blueprint] Zenith's Custom Guitar Box x 1\nLost Weapon Core x 3\nMetal Stones x 5
+
+ID=820020006
+
+Furniture Handcraft Set
+
+<font color='#FFBA85'>[Package Item]<font color='#9D927B'>\n\nPackage containing basic materials for making furniture. This makes you a great furniture maker too!
+
+ID=820999001
+
+Small Ether Box
+
+<font color='#FFBA85'>[Ether Box] Acquire 50 Ether when you open the box<font color='#9D927B'>\n\nBox containing catalyst Ether used to power equipment. It's a secret how the ether which can only be recognized and materialized by soulworker was put into the box. You'll gain 50 Ether when you open it.\nRewards can be recieved by doing the daily missions.
+
+ID=820999002
+
+Ether Box
+
+<font color='#FFBA85'>[Ether Box] Acquire 100 Ether when you open the box<font color='#9D927B'>\n\nBox containing catalyst Ether used to power equipment. It's a secret how the ether which can only be recognized and materialized by soulworker was put into the box. You'll gain 100 Ether when you open it.\nRewards can be recieved by doing the daily missions.
+
+ID=820999003
+
+Large Ether Box
+
+<font color='#FFBA85'>[Ether Box] Acquire 150 Ether when you open the box<font color='#9D927B'>\n\nBox containing catalyst Ether used to power equipment. It's a secret how the ether which can only be recognized and materialized by soulworker was put into the box. You'll gain 150 Ether when you open it.\nRewards can be recieved by doing the daily missions.
+
+ID=820999004
+
+Compacted Ethr Box
+
+<font color='#FFBA85'>[Ether Box] Acquire 200 Ether when you open the box<font color='#9D927B'>\n\nBox containing catalyst Ether used to power equipment. It's a secret how the ether which can only be recognized and materialized by soulworker was put into the box. You'll gain 200 Ether when you open it.\nRewards can be recieved by doing the daily missions.
+
+ID=820999005
+
+High Purity Ether Box
+
+<font color='#FFBA85'>[Ether Box] Acquire 1000 Ether when you open the box<font color='#9D927B'>\n\nBox containing catalyst Ether used to power equipment. It's a secret how the ether which can only be recognized and materialized by soulworker was put into the box. You'll gain 1000 Ether when you open it.\nRewards can be recieved by doing the daily missions.
+
+ID=820999201
+
+Small B.P Box
+
+<font color='#FFBA85'>[B.P Box] Acquire 50 B.P when you open the box<font color='#9D927B'>\n\nDistrict 6, box containing B.P that can be used at Booker T.V. store.\nB.P is used to purchase many items from Booker T.V. store the B.P box can only be obtained when you do a special mission.\nYou'll get 50 B.P when you open it.\nB.P box can be recieved by doing the daily missions.
+
+ID=820999202
+
+B.P Box
+
+<font color='#FFBA85'>[B.P Box] Acquire 100 B.P when you open the box<font color='#9D927B'>\n\nDistrict 6, box containing B.P that can be used at Booker T.V. store.\nB.P is used to purchase many items from Booker T.V. store the B.P box can only be obtained when you do a special mission.\nYou'll get 100 B.P when you open it.\nB.P box can be recieved by doing the daily missions.
+
+ID=820999203
+
+Large B.P Box
+
+<font color='#FFBA85'>[B.P Box] Acquire 150 B.P when you open the box<font color='#9D927B'>\n\nDistrict 6, box containing B.P that can be used at Booker T.V. store.\nB.P is used to purchase many items from Booker T.V. store the B.P box can only be obtained when you do a special mission.\nYou'll get 150 B.P when you open it.\nB.P box can be recieved by doing the daily missions.
+
+ID=820999204
+
+Compacted B.P Box
+
+<font color='#FFBA85'>[B.P Box] Acquire 200 B.P when you open the box<font color='#9D927B'>\n\nDistrict 6, box containing B.P that can be used at Booker T.V. store.\nB.P is used to purchase many items from Booker T.V. store the B.P box can only be obtained when you do a special mission.\nYou'll get 200 B.P when you open it.\nB.P box can be recieved by doing the daily missions.
+
+ID=820999205
+
+High B.P Box
+
+<font color='#FFBA85'>[B.P Box] Acquire 1000 B.P when you open the box<font color='#9D927B'>\n\nDistrict 6, box containing B.P that can be used at Booker T.V. store.\nB.P is used to purchase many items from Booker T.V. store the B.P box can only be obtained when you do a special mission.\nYou'll get 1000 B.P when you open it.\nB.P box can be recieved by doing the daily missions.
+
+ID=830000001
+
+Recall (Pen)
+
+<font color='#FFBA85'>[Artifact Activation]<font color='#9D927B'>\n\nWhen you use the item, you can activate the artifact(pen) slot in the inactive state to change the item to a wearable state.
+
+ID=830000002
+
+Collection (Dolls)
+
+<font color='#FFBA85'>[아티펙트 활성]<font color='#9D927B'>\n\n아이템 사용 시, 비활성화 상태의 아티펙트(인형) 슬롯을 활성화하여 아이템 착용이 가능한 상태로 변경할 수 있습니다.
+
+ID=830000003
+
+Collection (Cameras)
+
+<font color='#FFBA85'>[Active Artifact<font color='#9D927B'>\n\nWhen using an item, you can activate the inactive artifact (camera) slot to change it to a wearable state.
+
+ID=830000004
+
+Collection (Cassette)
+
+<font color='#FFBA85'>[Active Artifact<font color='#9D927B'>\n\nWhen using an item, you can activate the inactive artifact (cassette) slot to change it to a wearable state.
+
+ID=830000005
+
+Collection (Headset)
+
+<font color='#FFBA85'>[Active Artifact<font color='#9D927B'>\n\nWhen using an item, you can activate the inactive artifact (headset) slot to change it to a wearable state.
+
+ID=830000006
+
+Collection (Badge)
+
+<font color='#FFBA85'>[Active Artifact<font color='#9D927B'>\n\nWhen using an item, you can activate the inactive artifact (badge) slot to change it to a wearable state.
+
+ID=830000007
+
+Collection (Coins)
+
+<font color='#FFBA85'>[Active Artifact<font color='#9D927B'>\n\nWhen using an item, you can activate the inactive artifact (coins) slot to change it to a wearable state.
+
+ID=840001001
+
+Highly Concentraded Vitamin
+
+<font color='#FFBA85'>[Fatigue Recovery Item] 20 Fatigue is instantly restored.<font color='#9D927B'>\n\nA highly concentrated vitamin prepared by the Merchant Alliance for those suffering from fatigue. It was so highly concentrated that those who drant it felt strange. At the moment of drinking, the fatigue of the whole body seemed to fly away.
+
+ID=840001002
+
+Highly Concentrated Vitamin S
+
+<font color='#FFBA85'>[Fatigue Recovery Item] Fatgiue is instantly restored by 30.<font color='#9D927B'>\n\nA highly concentrated vitamin prepared by the Merchant Alliance for those suffering from fatigue. It was so high concentraded that those who drank it felt strange. At the moment of drinking, the fatigue of the whole body seems to fly away.
+
+ID=840001999
+
+Highly Concentrated Vitamin Z
+
+<font color='#FFBA85'>[Fatigue Recovery Item] Fatigue is instantly restored by 100.<font color='#9D927B'>\n\nI don't know how anyone invented it, but at the moment of drinking, all the fatigue in the body was gone. It was so highly concentrated that those who drank it felt strange. The moment as it was drunk, the person felt like reborn, as a new person. There is no side effect, so you can drink unlimited time. After all, money is the best. The name "Z" is attached to the meaning of the vitamin based revolution\n-King of the End.
+
+ID=840002001
+
+Ultra Concentrated Vitamin G
+
+<font color='#FFBA85'>[Fatigue Recovery Item] Fatgiue is instantly restored by 30.<font color='#9D927B'>\n\nA highly concentrated vitamin prepared by the Merchant Alliance for those suffering from fatigue. It was so high concentraded that those who drank it felt strange. At the moment of drinking, the fatigue of the whole body seems to fly away. It is a G-Class fatigue item, the highest level of vitamins.
+
+ID=710100097
+
+Melting Matter : Mineral
+
+<font color='#FFBA85'>[Crafting Materials]<font color='#9D927B'>\n\nCatalyst for processing minerals. A number of materials with different properties are temporarily converted to have the same properties to help them be processed. Can be purchased from Zaito.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710100098
+
+Melting Matter : Gear
+
+<font color='#FFBA85'>[Crafting Materials]<font color='#9D927B'>\n\nCatalyst for processing gear. A number of materials with different properties are temporarily converted to have the same properties to help them be processed. Can be purchased from Zaito.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710100099
+
+Melting Matter: Weapon
+
+<font color='#FFBA85'>[Crafting Materials]<font color='#9D927B'>\n\nCatalyst for processing weapons. A number of materials with different properties are temporarily converted to have the same properties to help them be processed. Can be purchased from Zaito.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710100100
+
+Melting Matter : Horn
+
+<font color='#FFBA85'>[Crafting Materials]<font color='#9D927B'>\n\nCatalyst for processing horns. A number of materials with different properties are temporarily converted to have the same properties to help them be processed. Can be purchased from Zaito.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710100001
+
+Metal Stone Catalyst
+
+ID=710100002
+
+Meteor piece Catalyst
+
+ID=710100003
+
+Geo Stream Catalyst
+
+ID=710100004
+
+Star Platinum Catalyst
+
+ID=710100005
+
+Tritium Catalyst
+
+ID=710100006
+
+Full Tritium Catalyst
+
+ID=710100101
+
+Metal Stone
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nThe most common ore found int he West of Clouddream. A stone mass containing high purity of iron, of which only iron is extracted and used as a manufacturing material for equipment. It can be obtained in [Rocco Town] and [Candus City] by killing enemys or dissassembly items.
+
+ID=710100102
+
+Meteor Piece
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA fragment of a meteorite. It flies trough the atmosphere and heats naturally, making it very easy to handle. It may be difficult to obtain it, because it is a piece of a meteorite, but it is easily to find a meteorite.
+
+ID=710100103
+
+Geo Stream
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nAn Ore called the stem of the ground, it glows on it own green. It could be said that to have a lot of nutrients to the earth and has a excellent compatibility with Soul Energy. It can be obtained in [Grace City] and [Ruin Fortress] trough killing enemies or disassemble items.
+
+ID=710100104
+
+Star Platinum
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA stone known as a piece of a star, when a star breaks. The intensity, flexibility, and soul affinity of a star are all compressed and overhelming. It has a shiny white color. Can be obtained in [Ruin Fortress] by killing enemys or disassemble items.
+
+ID=710100105
+
+Tritanium
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nAre ore capable to fusion with the soul. It's not an overstatement to say that the ore was created to communicate with the Soul. No existing material can exert more Soul Energy than Tritanium.
+
+ID=710100106
+
+Full Tritanium
+
+<font color='#FFBA85'>[Crafting Materials]<font color='#9D927B'>\n\nTritanium, 100% purity and not mixed with over substances. It is very rare, and some people consider it as a legendary ore.
+
+ID=710101001
+
+Lost Weapon Core
+
+<font color='#FFBA85'>[Crafting Material : Soul Weapon]<font color='#9D927B'>\n\nSoul Weapons core power. It is responsible for calibrating and amplifying soul energy. Depending on which weapon core you are using, the basic performance of the soul weapon is different, so it is the most important part.\nA weapon core with a lot of damage and unable to produce proper output. You can obtain the material in [Rocco Town] and [Candus City] trough killing enemys or disassembly items.
+
+ID=710101002
+
+Minor Weapon Core
+
+<font color='#FFBA85'>[Crafting Material : Soul Weapon]<font color='#9D927B'>\n\nSoul Weapons core power. It is responsible for calibrating and amplifying soul energy. Depending on which weapon core you are using, the basic performance of the soul weapon is different, so it is the most important part.\nLowest quality of the weapon core, the perfomance is unpredictable. You can obtain the material in [Candus City] and [Grace City] trough killing powerful enemys or trough dissassembly items.
+
+ID=710101003
+
+Great Weapon Core
+
+<font color='#FFBA85'>[Crafting Material : Soul Weapon]<font color='#9D927B'>\n\nSoul Weapons core power. It is responsible for calibrating and amplifying soul energy. Depending on which weapon core you are using, the basic performance of the soul weapon is different, so it is the most important part.\nIt is a mid-range weapon core and can not perform properly. You can obtain the material in [Ruin Fortress] and [Grace City] trough killing powerful enemys or trough dissassembly items.
+
+ID=710101004
+
+Advanced Weapon Core
+
+<font color='#FFBA85'>[Crafting Material : Soul Weapon]<font color='#9D927B'>\n\nSoul Weapons core power. It is responsible for calibrating and amplifying soul energy. Depending on which weapon core you are using, the basic performance of the soul weapon is different, so it is the most important part.\nWith the intact Weapon Core, the Soul Workers power is projected into the Soul Weapon. You can obtain the material in [Ruin Fortress] trough killing powerful enemys or trough dissassembly items.
+
+ID=710101005
+
+Perfect Weapon Core
+
+<font color='#FFBA85'>[Crafting Material : Soul Weapon]<font color='#9D927B'>\n\nSoul Weapons core power. It is responsible for calibrating and amplifying soul energy. Depending on which weapon core you are using, the basic performance of the soul weapon is different, so it is the most important part.\nA weapon core that was only given to special Soul Workers, the perfomance is literally the best.
+
+ID=710101006
+
+Blank Weapon Core
+
+<font color='#FFBA85'>[Crafting Material : Soul Weapon]<font color='#9D927B'>\n\nSoul Weapons core power. It is responsible for calibrating and amplifying soul energy. Depending on which weapon core you are using, the basic performance of the soul weapon is different, so it is the most important part.\nA weapon core with blank energy, it is said that it is capable of overwhelming the perfect weapon core.
+
+ID=710102001
+
+빛을 잃은 기어 코어
+
+<font color='#FFBA85'>[Crafting Material : Soul Weapon]<font color='#9D927B'>\n\nGear core power. It is responsible for calibrating and amplifying soul energy. Depending on which weapon gear you are using, the basic performance of the gear is different, so it is the most important part.\nA gear core that is damaged and not able to produce a proper output. Obtainable in [Rucco Town] and [Candace City] trough killing enemys or dissassembly items.
+
+ID=710102002
+
+Minor Gear Core
+
+<font color='#FFBA85'>[Crafting Material : Soul Weapon]<font color='#9D927B'>\n\nGear core power. It is responsible for calibrating and amplifying soul energy. Depending on which weapon gear you are using, the basic performance of the gear is different, so it is the most important part.\nLowest quality of a gear core, the perfomance is unpredictable. Obtainable in [Grace City] and [Candace City] trough killing enemys or dissassembly items.
+
+ID=710102003
+
+Great Gear Core
+
+<font color='#FFBA85'>[Crafting Material : Gear]<font color='#9D927B'>\n\nGear core power. It is responsible for calibrating and amplifying soul energy. Depending on which gear core you are using, the basic performance of the gear is different, so it is the most important part.\nIt is a mid-range gear core and can not perform properly. You can obtain the material in [Ruin Fortress] and [Grace City] trough killing powerful enemys or trough dissassembly items.
+
+ID=710102004
+
+Advanced Gear Core
+
+<font color='#FFBA85'>[Crafting Material : Gear]<font color='#9D927B'>\n\nGear core power. It is responsible for calibrating and amplifying soul energy. Depending on which gear core you are using, the basic performance of the gear is different, so it is the most important part.\nWith the intact Gear Core, the Soul Workers power is projected into the Soul Weapon. You can obtain the material in [Ruin Fortress] trough killing powerful enemys or trough dissassembly items.
+
+ID=710102005
+
+Perfect Gear Core
+
+<font color='#FFBA85'>[Crafting Material : Gear]<font color='#9D927B'>\n\nGear core power. It is responsible for calibrating and amplifying soul energy. Depending on which Gear core you are using, the basic performance of the Gear is different, so it is the most important part.\nA  Gear core that was only given to special Soul Workers, the perfomance is literally the best.
+
+ID=710102006
+
+Blank Gear Core
+
+<font color='#FFBA85'>[Crafting Material : Gear]<font color='#9D927B'>\n\nGear core power. It is responsible for calibrating and amplifying soul energy. Depending on which Gear core you are using, the basic performance of the Gear is different, so it is the most important part.\nA Gear core with blank energy, it is said that it is capable of overwhelming the perfect gear core.
+
+ID=710200001
+
+Sticky Mucus
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nVery sticky mucus. I don't think if I touch it once, it will ever fall from my hand.The smell is terrible.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200002
+
+Broken Parts
+
+<font color='#FFBA85'>[Crafting Materials]<font color='#9D927B'>\n\nSeriously broken parts. I struggled to repair it somehow, but I can't.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200003
+
+Ragged Wires
+
+<font color='#FFBA85'>[Crafting Materials]<font color='#9D927B'>\n\nAn electric wire that doesn't work, because the sheath is peeled off. Holding this in your hand and pluggin it in is not dangerous at all.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200004
+
+Suspicious Badge
+
+<font color='#FFBA85'>[Crafting Materials]<font color='#9D927B'>\n\nA very suspicious badge. It looks like Edgar, but I can't figure it out, where he use it. It's not even tasty if I chewed it.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200005
+
+Withered Pool
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nGrass that dried up. It was a sorrowful plant that bloomed among the Soul Junks, but now the nutrients are gone and it died. It's sad, but I can't think of a place to write.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200006
+
+Mysterious Liquid
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nIt's not poison. It's a mysterious liquid that's neither oil nor anything else. It seems harmless to the human body, but we shouldn't drink it. Don't give it to plants.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200007
+
+A Rough Shell
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA rough skin without any moisture. Some creatures seem to have taken it off. If you hold it strongly, it seems to getting crumbly. It's fragile.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200008
+
+Soft Cells
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA flimsy cell of a jellyfish. I have a feeling that is too big to call a cell, but Raining decided to call it a cell because it resembles a cell anyway. I wonder if I'm still alive and wake up.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200009
+
+Shiny feathers
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nYou can see that there is only one feather that is not shiny. Unlike the bird's, it is heavy. Was this really a feather?\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200010
+
+Concrete Sculpture
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nAfter mixing cement, sand, and water in the proper ratio, it will be hardened concrete. At this time, the difference between the craftsman and the amateur clearly appears depending on how the proportions of the mixing are distributed. This piece of concrete seems to have been made from a amateur.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200011
+
+A Piece of Paper
+
+<font color='#FFBA85'>[Crafting Materials]<font color='#9D927B'>\n\nOrdinary A4 paper that is everywhere torn.Various letters and numbers as well as pictures are attached to the paper. The word [unpaid] that sometimes appears, hurts my heart.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200012
+
+Animal Hair
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA bundle of hair whose animal is unknown. It's so stiff that it's almost bundled with each other. Occasionally, there are foreign substances on it, which effectively reduces the appetite.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200013
+
+Cloth Stripped Wire
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nCloth Stripped Wire. I do think it is better for the mental health if I buy new a new one.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200014
+
+A Piece of Cloth
+
+<font color='#FFBA85'>[Crafting Materials]<font color='#9D927B'>\n\nTorn clothes. It is too tattered to make clothes, so I don't think I can use it as a rag. It may be better to use it as firewood.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200015
+
+Iron Sculpture
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA piece of iron with a sharp cut at the end. If I touch it wrong, I'll cut myself. I'm trying to pick it up with my fingers, but if I get a cut under my fingernail....\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200016
+
+Digital Chip
+
+<font color='#FFBA85'>[Crafting Materials]<font color='#9D927B'>\n\nA digital chip that seems to contain something important. However, there is only dummy data inside. It is impossible to delete or format, so it is useless.Can only be used as a material.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200017
+
+Energy Chunks
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA lump of miscellaneous energies. I think it can be used as pure energy, but literally all the miscellaneous energies are mixed and cannot be used properly. I don't think I can use it to charge the battery. However, in the merchants association, I think I will buy it for some reason.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200018
+
+Ordinary Screws
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA screw that seems so ordinary that I can't continue talking anymore. It's better if you don't know what he wrote here, since he doen't know either, so I stopped to translate his words. After all, it is a ordinary screw. -Raining\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200019
+
+Wet Gunpowder
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA gunpowder filled with moisture. Gunpowder explodes when it is lit by a fire, and it is intended to use the explosive energy around, but it is too wet and does not catch fire. I think I can use it if I dry it, but it is a waste of time.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200020
+
+Broken Wire
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nWire with a tattered cross section. The support seems to be excellent, but it is too short. I think it can only be used to dig ears or pick noses. It may be used as a crafting material.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200021
+
+Floppy Diskette
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA storage medium used long ago, in ancient times.The capacity is also very small and bulky, so I wonder how I used it. \n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200022
+
+Weathered Stone
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA stone shaved and worn out in the wind of time. When you think of a rock that has been withstanding the heavy wind and strong rain at one place for a long time. Of course it is useless.\n\n<font color='#FF0000'>※ This item is no longer used as a crafting material. Please sell it to the store.<font color='#9D927B'>
+
+ID=710200023
+
+Old Coins
+
+<font color='#FFBA85'>[For Sale] Earn a lot of Money<font color='#9D927B'>\n\nif you sell this item.\nCoins made of various metals are unusable now, but are traded at a price higher than the original value for collectors.
+
+ID=710200024
+
+Old Piggy Bank
+
+<font color='#FFBA85'>[For Sale] Earn a lot of Money<font color='#9D927B'>\n\nif you sell this item.\nOld Piggy Bank with dozen of coins. It's stored in a barrel, because of the corrosion. It is traded for a higher price for collectors and also sellable to the Merchant Association.
+
+ID=710200025
+
+Old Small Safe
+
+<font color='#FFBA85'>[For Sale] Earn a lot of Money<font color='#9D927B'>\n\nif you sell this item.\nA vault that is sturdy and cannot be opened physically. Even if you don't know what you've heard, the merchants union is buying it at a high price. What is in it?
+
+ID=710200026
+
+Broken Doll Core
+
+<font color='#FFBA85'>[For Sale] Earn a lot of Money<font color='#9D927B'>\n\nif you sell this item.\nA device embedded in the broken doll's chest is radiating a bright light of unknown identity. It is bought at a high price by the merchant association.
+
+ID=710200027
+
+High Purity Mucus Sample
+
+<font color='#FFBA85'>[For Sale] Earn a lot of money<font color='#9D927B'>\n\nif you sell this item. It's moving little by little.\nIt is a high-value item for some researchers who research Soul Junk. It is a material that can be collected only by the power of Soul Worker and feels like it is still alive. It is bought at a high price by the merchant association.
+
+ID=710200028
+
+Limited Edition Poison Figure
+
+<font color='#FFBA85'>[For Sale] Earn a lot of money<font color='#9D927B'>\n\nif you sell this item.\nNo one knows who made the Poison of Rapid Flame, a popular cult in the Void and the underworld, with the same figures. Among them, only some limited editions have special poses that are different from ordinary figures, making it a very expensive deal among collectors and fans. The merchant association is also buying it at a very high price.\n\nHow would you like to be bothered?\n - Poison-
+
+ID=710200029
+
+Robot Blueprint
+
+<font color='#FFBA85'>[For Sale] Earn a lot of money<font color='#9D927B'>\n\nif you sells this item..\nA complex blueprint is drawn as a robot design diagram and was created by the developers of Ned Company. Ned Company's robot design, which you have been monopolizing for advanced technology, is sold at a very high price to engineers and technicians.\nIt is said to be bought at a high price by the merchant association.
+
+ID=710200030
+
+Warped Statue
+
+<font color='#FFBA85'>[For Sale] Earn alot of money<font color='#9D927B'>\n\nif you sell this item.\nIt is a statue brought into the void and is twisted strangely unlike the original form. However, the figure is similar to a painting of a painter, and it is said that it is purchased at a very high price from the merchant association.
+
+ID=710200031
+
+Souled Statue
+
+<font color='#FFBA85'>[For Sale] Earn alot of money<font color='#9D927B'>\n\nif you sell this item.\nIt is a statue taken into the void and when it is taken to a dark place without even a small light, it radiates a strange blue light. There is a rumor that everyone who saw the light just stared at it as if the soul had passed away. It is said to be bought at a very high price by the merchant association.
+
+ID=710200032
+
+Black Mineral Quartz
+
+<font color='#FFBA85'>[For Sale] Earn alot of money<font color='#9D927B'>\n\nif you sell this item.\nIf you look closely inside the quartz, you can see the swirling black. Many people try to avoid it because it looks like a blank shape, but rather, this specificity makes collectors more curios. The merchant association is also buying it at a very high price.
+
+ID=710200033
+
+Blood Quartz
+
+<font color='#FFBA85'>[For Sale] Earn alot of money<font color='#9D927B'>\n\nif you sell this item.\nIf you look closely inside the quartz, you can see the swirling red. Many people try to avoid it because it looks like a blank shape, but rather, this specificity makes collectors more curios. The merchant association is also buying it at a very high price.
+
+ID=710200034
+
+Geno Stone
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA special stone chunk paid for the performance reward of [Operation: Dimension Shutter] ordered by the Star Forest League.\nIt can be used as a crafting material for special designs provided by the Star Forest League.
+
+ID=720102011
+
+Life Fiber
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nAt first glance, it is just a shining fiber, but in reality it is a high-performance nanomachine assembly. It has a great ability to change the arrangement and structure according to the user's will. The appearance of fibers and the appearance of life are called life fibers. Used to build special Soulworker equipment. Strangely, I feel like I should shout [Integrity of Man!]. It can be obtained from Star Forest League's virtual battle program [Steel Grave].
+
+ID=720102012
+
+Phantom Metal
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA ridiculous substance that has energy and mass compressed to its limits. It is like a metal material. The place of use is no different from a metal, so it can be used to manufacture various kinds of objects. It takes a tremendous amount of skill to deal with, but it's a waste of the formula, metal is still the best. Used to build special SoulWorker equipment. It can be obtained from Star Forest League's virtual battle program [Steel Grave].
+
+ID=720102013
+
+Space Energy
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA mass of light that has its own energy exhaled by a blank space. It is blowing a great negative wave, and if the general public does not wear thick protective clothing, standing nearby will have a negative impact on the body. The amount of potential energy is literally unknown because it contains the characteristics of the void. It can be obtained in the void.
+
+ID=720102014
+
+Irregular Stone
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA stone found only inside the warped dimension. Apparently, it is no different from an ordinary stone, but the word [Unknown] embroidered on the screen as a result of the investigation of ingredients made many scientists despair. The blank energy and strangely high assimilation power are high. It can be obtained in the void.
+
+ID=720102015
+
+Shimmering Dimensional Light
+
+<font color='#FFBA85'>[Crafting Materials]<font color='#9D927B'>\n\n[Something] that fuses the energy of the space with the regular stone. It is not possible to define whether it is energy type or solid form. Some call it a "small vacuum" and some call it a disaster that shouldn't exist in this world. It is said that if handled incorrectly, the whole area will be devastated, so special care should be taken.
+
+ID=720102016
+
+Code GK
+
+<font color='#FFBA85'>[Crafting Material]<font color='#9D927B'>\n\nA chunk of code that encrypts battle data generated by Steel Graves. It seems like a simple hieroglyph to an outsider of Korean, but it can be said to be the key to the production of the [Grave Keeper] series, which can be called the essence of steel graves. It cannot be used alone, but is used to input information to a weapon core or gear core.
+
+ID=720102017
+
+Weapon Core GK
+
+<font color='#FFBA85'>[Crafting Material : Soul Weapon]<font color='#9D927B'>\n\nA core that overwrites the information contained in [Code GK] on the existing weapon core.The appearance is not very different from the previous one, but the contents of the code GK are overwritten and the contents are completely different. [Grave Keeper] is used as a material for the Soul Weapon series.
+
+ID=720102018
+
+Gear Core GK
+
+<font color='#FFBA85'>[Crafting Material : Gear]<font color='#9D927B'>\n\nA core that overwrites the information contained in [Code GK] on the existing gear core. The appearance is not very different from the previous one, but the contents of the code GK are overwritten and the contents are completely different. [Grave Keeper] is used as a material for gear series.
+
+ID=720102019
+
+Weapon Core GK MK II
+
+<font color='#FFBA85'>[Crafting Material: Soul Weapon]<font color='#9D927B'>\n\nA core that overwrites the information contained in [Code GK] on the existing weapon core. The appearance is not very different from the previous one, but the contents of the code GK are overwritten and the contents are completely different. [Grave Keeper MK.II] is used as a material for the Soul Weapon series.
+
+ID=720102020
+
+Gear Core GK MK II
+
+<font color='#FFBA85'>[Crafting Material: Gear]<font color='#9D927B'>\n\nA core that overwrites the information contained in [Code GK] on the existing gear core. The appearance is not very different from the previous one, but the contents of the code GK are overwritten and the contents are completely different. [Grave Keeper MK.II] is used as a material for the gear series.
+
+ID=720102021
+
+Weapon Core GK MK.III
+
+<font color='#FFBA85'>[Crafting Material: Soul Weapon]<font color='#9D927B'>\n\nA core that overwrites the information contained in [Code GK] on the existing weapon core. The appearance is not very different from the previous one, but the contents of the code GK are overwritten and the contents are completely different. [Grave Keeper MK.III] is used as a material for the Soul Weapon series.
+
+ID=720102022
+
+Gear core GK MK.III
+
+<font color='#FFBA85'>[Crafting Material: Gear]<font color='#9D927B'>\n\nA core that overwrites the information contained in [Code GK] on the existing gear core. The appearance is not very different from the previous one, but the contents of the code GK are overwritten and the contents are completely different. [Grave Keeper MK.III] is used as a material for the gear series.
+
+ID=710103001
+
+Half Offensive Soul
+
+ID=710103002
+
+Silence Offensive Soul
+
+ID=710103003
+
+태동의 오펜시브 소울
+
+ID=710103004
+
+Offensive Soul of Awakening
+
+ID=710103005
+
+Loud Offensive Soul
+
+ID=710103006
+
+파천의 오펜시브 소울
+
+ID=710104001
+
+Half Body Defense Soul
+
+ID=710104002
+
+Silent Defensive Soul
+
+ID=710104003
+
+태동의 디펜시브 소울
+
+ID=710104004
+
+Defensive Soul of Awakening
+
+ID=710104005
+
+Defensive Soul of a Iron Wall
+
+ID=710104006
+
+Absolute Defensive Soul
+
+ID=710105001
+
+Fabric
+
+<font color='#FFBA85'>[Crafting Material : Costume]<font color='#9D927B'>\n\nA fabric that feels so soft that it feels like a part of the body. Can be acquired by completing the episode reward.
+
+ID=710105002
+
+Leather
+
+<font color='#FFBA85'>[Crafting Material : Costume]<font color='#9D927B'>\n\nLeather that seems to emphasize toughness. The stiff texture is amazing. Can be acquired by completing the episode reward.
+
+ID=710105003
+
+Rubber
+
+<font color='#FFBA85'>[Crafting Material : Costume]<font color='#9D927B'>\n\nVery elastic rubber. No matter what you do, it doesn't seem to be torn or worn out. Can be acquired by completing the episode reward.
+
+ID=710105004
+
+Polyester
+
+<font color='#FFBA85'>[Crafting Material : Costume]<font color='#9D927B'>\n\nPolyester, synonymous with toughness. It seems to be too tough to process. Can be acquired by completing the episode reward.
+
+ID=710105005
+
+Wool
+
+<font color='#FFBA85'>[Crafting Material : Costume]<font color='#9D927B'>\n\nIt's so fluffy that it feels like falling asleep just by touching it. Can be acquired by completing the episode reward.
+
+ID=710105006
+
+Acrylic
+
+<font color='#FFBA85'>[Crafting Material : Costume]<font color='#9D927B'>\n\nAcrylic with excellent smooth texture that is unlikely to get wet with water. Can be acquired by completing the episode reward.
+
+ID=720100001
+
+Aetharite Powder
+
+<font color='#FFBA85'>[Reinforced Material]<font color='#9D927B'>\n\nPowder from the Etherite Stone. Ether power, which is mixed with impurities, is weak and lacks utilization. Eliminate the strong enemies of Rocco Town, or obtain them through disassembly.
+
+ID=720100002
+
+Aetharite Fragment
+
+<font color='#FFBA85'>[Reinforced Material]<font color='#9D927B'>\n\nA fragment from Etherite's ore. A piece alone has enough power, but it's a little less than Ethers original power. Can be obtained by killing the strong enemies of Candus City or by disassembly items.
+
+ID=720100003
+
+Inferior Aetharite
+
+<font color='#FFBA85'>[Reinforced Material]<font color='#9D927B'>\n\nEtherites raw ore was purified and crystallized. Impurity was mixed in the refining process, but the performance was observed by strongly raising the power of Ether. Eliminate the strong enemies of Grace City or obtain them through disassembly.
+
+ID=720100004
+
+Normal Aetharite
+
+<font color='#FFBA85'>[Reinforced Material]<font color='#9D927B'>\n\nIt was crystallized by refining the gemstone of etherite, which increased the purity process. The proportion of impurities was lowered and the power of Ether was further amplified. Can be obtained by defeating the strongest enemy of [Ruin Fortress] or by dissassembly items.
+
+ID=720100005
+
+Primary Aetharite
+
+<font color='#FFBA85'>[Reinforced Material]<font color='#9D927B'>\n\nIt is crystallized by refining the gemstone of etherite, and the purity has been further increased through the purification process. It is safe to say that there is almost no proportion of impurities.
+
+ID=720100006
+
+Refined Aetharite
+
+<font color='#FFBA85'>[Enhancing material]<font color='#9D927B'>\n\nDr. H-Refined etherite is the best etherite that remove all impurities. Inside a bright light shines like a circuit.
+
+ID=720101001

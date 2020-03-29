@@ -1,0 +1,7252 @@
+# Eisou <nanamiide@gmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-02-26 06:38-0500\n"
+"Last-Translator: Eisou <nanamiide@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "299a9906dcec8c7dd9ad64d31f758f32"
+msgid ""
+"<font color='#FFBA85'>[아카식레코드 획득 아이템] 아카식레코드 무작위 획득\\n# 특별한 일러스트를 가진 아만다의 "
+"아카식레코드를 획득할 수 있는 아이템<font color='#9D927B'>\\n\\n아카식레코드를 획득할 수 있는 전송 장치. "
+"소울리스트들이 오랜 시간에 걸쳐 기록한 아카식레코드를 전송 받을 수 있는 장치로 이 장치를 이용하면 지금까지 볼 수 없었던 매우 특별한 "
+"아카식레코드를 얻을 수 있다고 한다.\\n액티브 타입의 아카식레코드는 [제 6구역]에서 사용할 수 없으니 주의."
+msgstr ""
+
+msgctxt "f3ca3d97a77032466d2c855fd1c2dcb8"
+msgid "ID=640101011"
+msgstr ""
+
+msgctxt "cfcd208495d565ef66e7dff9f98764da"
+msgid "0"
+msgstr ""
+
+msgctxt "e78de30b6a948c5161abbed498de0071"
+msgid "무료 부활 장치"
+msgstr ""
+
+msgctxt "160c25e5eab8d1a2daf9de07ce7a9d87"
+msgid ""
+"<font color='#FFBA85'>[개인 부활 아이템] 쿨타임 20초<font color='#9D927B'>\\n\\n순수한 소울 "
+"에너지를 응집시켜 놓은 작은 기계. 사용 시 소울 에너지가 폭발적으로 터져 나와, 전투 불능 상태의 소울워커를 다시 일으킨다."
+msgstr ""
+
+msgctxt "1a0e0b91ff4a7b19d766aeffac09a6ec"
+msgid "ID=640101022"
+msgstr ""
+
+msgctxt "63f5392bb88cc15a5304b78b91943817"
+msgid "유료 부활 장치"
+msgstr ""
+
+msgctxt "0518e079822491cea8c22f269e6fa5a9"
+msgid "ID=820001100"
+msgstr ""
+
+msgctxt "a878b1fedaeb670a09acd961c1a06774"
+msgid "[코스튬 박스]트윙클 바니걸/바니보이"
+msgstr ""
+
+msgctxt "587c141589b2271f51240c98ecff2278"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸/바니보이] "
+"코스튬이 담긴 패키지.\\n개봉하는 캐릭터가 장비할 수 있는 것으로 나온다. "
+msgstr ""
+
+msgctxt "a858ee5b087c83eb400e878ce0903fc2"
+msgid "ID=820001101"
+msgstr ""
+
+msgctxt "b9992aa9b90112cecab0c464f45aa25b"
+msgid "[코스튬 박스]트윙클 바니걸"
+msgstr ""
+
+msgctxt "e79b847a6934ed219cc7894e180660a8"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 코스튬이 담긴 "
+"패키지로 해당 구성품은 하루만 착용할 수 있다.\\n\\n-구성품-\\n[트윙클 바니걸] 귀 x 1\\n[트윙클 바니걸] 의상 x "
+"1\\n[트윙클 바니걸] 팔찌 x 1\\n[트윙클 바니걸] 스타킹 x 1\\n[트윙클 바니걸] 구두 x 1"
+msgstr ""
+
+msgctxt "fcc9ff00bb0938b22ce5966d9f5c4016"
+msgid "ID=820001102"
+msgstr ""
+
+msgctxt "5eb2c4a8fd35f1171fe34a57e183a119"
+msgid "[코스튬 박스]트윙클 바니보이"
+msgstr ""
+
+msgctxt "161e3d6e723d254c62ed6bc7c6d5c7a5"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니보이] 코스튬이 "
+"담긴 패키지로 해당 구성품은 어윈만 착용할 수 있다.\\n\\n-구성품-\\n[트윙클 바니보이] 귀 x 1\\n[트윙클 바니보이] 의상 "
+"x 1\\n[트윙클 바니보이] 장갑 x 1\\n[트윙클 바니보이] 부츠 x 1"
+msgstr ""
+
+msgctxt "1404ab1cbf9248a372930c76ddf20e91"
+msgid "ID=820001103"
+msgstr ""
+
+msgctxt "5135779564fa06e566ce2128e475aa80"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 코스튬이 담긴 "
+"패키지로 해당 구성품은 릴리만 착용할 수 있다.\\n\\n-구성품-\\n[트윙클 바니걸] 귀 x 1\\n[트윙클 바니걸] 의상 x "
+"1\\n[트윙클 바니걸] 팔찌 x 1\\n[트윙클 바니걸] 스타킹 x 1\\n[트윙클 바니걸] 구두 x 1"
+msgstr ""
+
+msgctxt "b67c6ceca4b4eb8d4cc09557d00a90f4"
+msgid "ID=820001104"
+msgstr ""
+
+msgctxt "ef08b096d0cc0e8fcfd90f57561b6cea"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니보이] 코스튬이 "
+"담긴 패키지로 해당 구성품은 진만 착용할 수 있다.\\n\\n-구성품-\\n[트윙클 바니보이] 귀 x 1\\n[트윙클 바니보이] 의상 x "
+"1\\n[트윙클 바니보이] 장갑 x 1\\n[트윙클 바니보이] 부츠 x 1"
+msgstr ""
+
+msgctxt "388ec0132761ba9ff08a726173d95fc3"
+msgid "ID=820001105"
+msgstr ""
+
+msgctxt "41bdb38992e7f53de5b9ff3c7ee02f66"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 코스튬이 담긴 "
+"패키지로 해당 구성품은 스텔라만 착용할 수 있다.\\n\\n-구성품-\\n[트윙클 바니걸] 귀 x 1\\n[트윙클 바니걸] 의상 x "
+"1\\n[트윙클 바니걸] 팔찌 x 1\\n[트윙클 바니걸] 스타킹 x 1\\n[트윙클 바니걸] 구두 x 1"
+msgstr ""
+
+msgctxt "2e40e07789c7b092ee35026f04df5bd1"
+msgid "ID=820001106"
+msgstr ""
+
+msgctxt "f2cc82e6bb98c34ebe4fdfc7ad35403f"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[트윙클 바니걸] 코스튬이 담긴 "
+"패키지로 해당 구성품은 이리스만 착용할 수 있다.\\n\\n-구성품-\\n[트윙클 바니걸] 귀 x 1\\n[트윙클 바니걸] 의상 x "
+"1\\n[트윙클 바니걸] 팔찌 x 1\\n[트윙클 바니걸] 스타킹 x 1\\n[트윙클 바니걸] 구두 x 1"
+msgstr ""
+
+msgctxt "f7c30552fb110fef3f7414aefd14a807"
+msgid "ID=991000189"
+msgstr ""
+
+msgctxt "45ae52cabe6da96615e2046e9a4aad77"
+msgid "복귀자 칭호_ 복학생"
+msgstr ""
+
+msgctxt "659d46b4694f38b02ccec8b50b6be9dc"
+msgid ""
+"<font color='#FFD700'>[칭호 획득 아이템] 접미<font color='#9D927B'>\\n\\n복귀자를 위한 칭호 "
+"아이템\\n\\n- 획득 칭호 -\\n복학생"
+msgstr ""
+
+msgctxt "904563094d97325ef9022e0478055e30"
+msgid "ID=837001104"
+msgstr ""
+
+msgctxt "3ec870b82ea14f96fe97e7ee032201ce"
+msgid "2월 브로치 보조 패키지"
+msgstr ""
+
+msgctxt "49509ea51ef20e129def4bc0aefc194f"
+msgid ""
+"<font color='#FFBA85'>[월간 패키지]<font color='#9D927B'>\\n\\n월간 패키지의 세 번째 시리즈로 "
+"브로치 보조 아이템 위주로 구성되어있다.\\n\\n[패키지 아이템]\\n-구성품-\\n브로치 소켓 추가권 x 2\\n브로치 합성기 x "
+"10"
+msgstr ""
+
+msgctxt "013e9940209f5c31e48b2f18055ff699"
+msgid "ID=837001105"
+msgstr ""
+
+msgctxt "7899441a78efb98d85c7b184bf1df3a4"
+msgid "1주년 특별 패키지"
+msgstr ""
+
+msgctxt "eb384921cfeffa50c78b8c258e89fbf7"
+msgid ""
+"<font color='#FFBA85'>[1주년 패키지]<font color='#9D927B'>\\n\\n1주년을 기념하여 구성되어있는 "
+"특별 패키지.\\n\\n[패키지 아이템]\\n-구성품-\\nBSK 브로치 전송기 x 20\\nBSK 공격형 테라 확정 브로치 큐브 x "
+"1\\n강화 파괴 방지 장치 x 8\\n봉인 스템프 x 1\\n에너지 컨버터 x 1\\n강화 제련석 x 1"
+msgstr ""
+
+msgctxt "e6012b54aa9e100e986580b9ddd1c0cf"
+msgid "ID=837001106"
+msgstr ""
+
+msgctxt "0a46a58034b9f6944f4a984aceacfba3"
+msgid "1주년 파격 지원 패키지"
+msgstr ""
+
+msgctxt "a553ed70a0b0832adfb332340f61866d"
+msgid ""
+"<font color='#FFBA85'>[1주년 패키지]<font color='#9D927B'>\\n\\n1주년을 기념하여 구성되어있는 "
+"특별 패키지.\\n\\n[패키지 아이템]\\n-구성품-\\n인벤토리 확장권  x 3\\n보너스 카드키  x 20\\n아카식레코드 전송기 "
+"x 10 \\n(캐시)부활 장치  x 20\\n전투 교본[1H]  x 2\\n킬로 스트렝스 필 x 5 \\n킬로 바이탈 필 x 5  "
+"\\n킬로 어질리티 필 x 5 \\n킬로 인텔리전스 필 x 5 \\n킬로 러너스 필  x 5"
+msgstr ""
+
+msgctxt "2d35de2774b34ec97f270154d9808b7c"
+msgid "ID=837001107"
+msgstr ""
+
+msgctxt "980600798936f85ee9303c3a0e2a7a98"
+msgid "BSK 브로치 x 20 (보너스)"
+msgstr ""
+
+msgctxt "6c87473c548d877d1c6f1697341f942e"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\nBSK 브로치 전송기 x 20개 "
+"\\nBSK 공격형 테라 확정 브로치 큐브 x 1개 (보너스) "
+msgstr ""
+
+msgctxt "c860fd228e17b1addf57dfe454dce909"
+msgid "ID=213760211"
+msgstr ""
+
+msgctxt "03cdca20499d629e8171a6b07dfc1023"
+msgid "[윈터 캐쥬얼] 모자"
+msgstr ""
+
+msgctxt "c598021062f8ef67fe6b9dd53165dfa1"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 비니. "
+"눈밭에서 뒹구는 청춘을 구가하자.\\n하루가 장비할 수 있다."
+msgstr ""
+
+msgctxt "d6ba653b312eb4f15475c18393a85240"
+msgid "ID=213760912"
+msgstr ""
+
+msgctxt "8835515c86c8ac02b28f21ece9adf4a1"
+msgid "[윈터 캐쥬얼] 의상"
+msgstr ""
+
+msgctxt "90097b96f1c4e30e999a3945531aa800"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 가벼운 "
+"의상. 눈밭에서 뒹구는 청춘을 구가하자.\\n하루가 장비할 수 있다."
+msgstr ""
+
+msgctxt "ce1c3d1248e3d6945dbd6112e71504c5"
+msgid "ID=213760513"
+msgstr ""
+
+msgctxt "3808848fa5231e6884ebb76f6dbe5834"
+msgid "[윈터 캐쥬얼] 장갑"
+msgstr ""
+
+msgctxt "d81eb4a8460ac0d76bbc5f94e4617eea"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 가벼운 "
+"장갑. 눈밭에서 뒹구는 청춘을 구가하자.\\n하루가 장비할 수 있다."
+msgstr ""
+
+msgctxt "143a77c763e973f5ab4b9d9c1a503730"
+msgid "ID=213761114"
+msgstr ""
+
+msgctxt "3c78a99cf010c952d11a264c48c49fda"
+msgid "[윈터 캐쥬얼] 스타킹"
+msgstr ""
+
+msgctxt "c484fc3fcafd816be674c493a292a67d"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 스타킹. "
+"눈밭에서 뒹구는 청춘을 구가하자.\\n하루가 장비할 수 있다."
+msgstr ""
+
+msgctxt "53042138f4c4b1b730e6cde4fcd4e56c"
+msgid "ID=213761215"
+msgstr ""
+
+msgctxt "5fc752f0576f5715ffde2ab8feadcab5"
+msgid "[윈터 캐쥬얼] 부츠"
+msgstr ""
+
+msgctxt "524da2dbf3f7bbc914ac5d3430a81258"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 부츠. "
+"눈밭에서 뒹구는 청춘을 구가하자.\\n하루가 장비할 수 있다."
+msgstr ""
+
+msgctxt "2a8c18b77ac9773efd66681c6ef95da4"
+msgid "ID=223750216"
+msgstr ""
+
+msgctxt "bf21fc6a1a54af31f210cdc8f1f7f806"
+msgid "[윈터 캐쥬얼] 귀마개"
+msgstr ""
+
+msgctxt "470144b65a67a6c65019e1c9fff75f16"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 귀마개. "
+"눈밭에서 뒹구는 청춘을 구가하자.\\n어윈이 장비할 수 있다."
+msgstr ""
+
+msgctxt "515c3880f913fe60d74b936073191350"
+msgid "ID=223750717"
+msgstr ""
+
+msgctxt "d89d98bfbd1f976cfe678d87511289c3"
+msgid "[윈터 캐쥬얼] 상의"
+msgstr ""
+
+msgctxt "1e343d03d4332acc088d0968ff57e68d"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 편한 "
+"상의. 눈밭에서 뒹구는 청춘을 구가하자.\\n어윈이 장비할 수 있다."
+msgstr ""
+
+msgctxt "18d06f802895308025b2dd5a2a2b711c"
+msgid "ID=223750818"
+msgstr ""
+
+msgctxt "c99579a014b30e961f40cb996404cbf4"
+msgid "[윈터 캐쥬얼] 하의"
+msgstr ""
+
+msgctxt "82547741bbc288cf03d9f4817d6f5c78"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 편한 "
+"하의. 눈밭에서 뒹구는 청춘을 구가하자.\\n어윈이 장비할 수 있다."
+msgstr ""
+
+msgctxt "5510966e704d35d3818625ebbb0592fd"
+msgid "ID=223750519"
+msgstr ""
+
+msgctxt "d20e378d780bc7c4e182ca70f06e7819"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 가벼운 "
+"장갑. 눈밭에서 뒹구는 청춘을 구가하자.\\n어윈이 장비할 수 있다."
+msgstr ""
+
+msgctxt "45fe213e13f0141d3537548f99238f80"
+msgid "ID=223751220"
+msgstr ""
+
+msgctxt "8759c886ce73516f9eb3b8f280c49c1c"
+msgid "[윈터 캐쥬얼] 신발"
+msgstr ""
+
+msgctxt "756c48c6575b2258e5848416557f5f28"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 신발. "
+"눈밭에서 뒹구는 청춘을 구가하자.\\n어윈이 장비할 수 있다."
+msgstr ""
+
+msgctxt "d6271cd0fc6e193ca0b79489743d2a11"
+msgid "ID=233840221"
+msgstr ""
+
+msgctxt "179df274f86c92a89548289a3b1b5245"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 가벼운 "
+"귀마개. 눈밭에서 뒹구는 청춘을 구가하자.\\n릴리가 장비할 수 있다."
+msgstr ""
+
+msgctxt "c09125a6502ec353ddbc0fa446e75864"
+msgid "ID=233840922"
+msgstr ""
+
+msgctxt "e171cb8a2aad2b6639d89899c851be5d"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 편한 "
+"의상. 눈밭에서 뒹구는 청춘을 구가하자.\\n릴리가 장비할 수 있다."
+msgstr ""
+
+msgctxt "d1c749a6a64cf18c9deb91cc5f70d058"
+msgid "ID=233840523"
+msgstr ""
+
+msgctxt "c7df110e41f843f3b30e7d7df7d9e39e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 편한 "
+"장갑. 눈밭에서 뒹구는 청춘을 구가하자.\\n릴리가 장비할 수 있다."
+msgstr ""
+
+msgctxt "42a4ff0b206faf8d0b168bc4d362461e"
+msgid "ID=233841124"
+msgstr ""
+
+msgctxt "b734f333e93d9ee926308a9c111b0d9e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 가벼운 "
+"스타킹. 눈밭에서 뒹구는 청춘을 구가하자.\\n릴리가 장비할 수 있다."
+msgstr ""
+
+msgctxt "31ece9de394a6441ae3838155071a2fb"
+msgid "ID=233841225"
+msgstr ""
+
+msgctxt "e6b1bed22f1c1c843b6371c9f7e0d10e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 가벼운 "
+"부츠. 눈밭에서 뒹구는 청춘을 구가하자.\\n릴리가 장비할 수 있다."
+msgstr ""
+
+msgctxt "e6a4b8d242916beff161fab73131e290"
+msgid "ID=243720226"
+msgstr ""
+
+msgctxt "69b9495ca61b2bd069d5fb51d100419f"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 가벼운 "
+"귀마개. 눈밭에서 뒹구는 청춘을 구가하자.\\n진이 장비할 수 있다."
+msgstr ""
+
+msgctxt "e9c0e24cc8615995c43768ab1888138e"
+msgid "ID=243720927"
+msgstr ""
+
+msgctxt "d42f2d657c1ce2112168341266af29b6"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 편한 "
+"의상. 눈밭에서 뒹구는 청춘을 구가하자.\\n진이 장비할 수 있다."
+msgstr ""
+
+msgctxt "e502be0a24bcf45e3d51ef682ba6d364"
+msgid "ID=243720528"
+msgstr ""
+
+msgctxt "6b5868354ce72e6f4a5e6e30a0fa7277"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 편한 "
+"장갑. 눈밭에서 뒹구는 청춘을 구가하자.\\n진이 장비할 수 있다."
+msgstr ""
+
+msgctxt "9b88856232b9e8c862666ee4582900aa"
+msgid "ID=243721229"
+msgstr ""
+
+msgctxt "5c91a81525aa547a973572629929ed1c"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 가벼운 "
+"신발. 눈밭에서 뒹구는 청춘을 구가하자.\\n진이 장비할 수 있다."
+msgstr ""
+
+msgctxt "26714efa4a6ddf1c5d586f138f342c69"
+msgid "ID=253750230"
+msgstr ""
+
+msgctxt "3d3a0edfc0c9e639aa3da0ab438c9e4d"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 가벼운 "
+"모자. 눈밭에서 뒹구는 청춘을 구가하자.\\n스텔라가 장비할 수 있다."
+msgstr ""
+
+msgctxt "688ca344645376213871d20d840f8565"
+msgid "ID=253750931"
+msgstr ""
+
+msgctxt "2e2748936e384853ed18e30b2e173bb5"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 편한 "
+"의상. 눈밭에서 뒹구는 청춘을 구가하자.\\n스텔라가 장비할 수 있다."
+msgstr ""
+
+msgctxt "cc1b05dabfe7d176beb72c3278248004"
+msgid "ID=253750532"
+msgstr ""
+
+msgctxt "95c8be56981434f854895b1c49602196"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 편한 "
+"장갑. 눈밭에서 뒹구는 청춘을 구가하자.\\n스텔라가 장비할 수 있다."
+msgstr ""
+
+msgctxt "9b60f23a1a3fee824157762379198eba"
+msgid "ID=253751133"
+msgstr ""
+
+msgctxt "f6d10b0979700c1e34f090545e82cbd1"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 가벼운 "
+"스타킹. 눈밭에서 뒹구는 청춘을 구가하자.\\n스텔라가 장비할 수 있다."
+msgstr ""
+
+msgctxt "76770260e907f850babfa97aff9cb4fd"
+msgid "ID=253751234"
+msgstr ""
+
+msgctxt "f10609ec5692ce3d918274fd084b29da"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 가벼운 "
+"부츠. 눈밭에서 뒹구는 청춘을 구가하자.\\n스텔라가 장비할 수 있다."
+msgstr ""
+
+msgctxt "0257c845617f07d65d0a2257aa8ca4b8"
+msgid "ID=263750235"
+msgstr ""
+
+msgctxt "b41838a4eb9d32a730043709c4b35bff"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 귀마개. "
+"눈밭에서 뒹구는 청춘을 구가하자.\\n이리스가 장비할 수 있다."
+msgstr ""
+
+msgctxt "827417bedd41a4f7c7c76028f3c5c8a9"
+msgid "ID=263750736"
+msgstr ""
+
+msgctxt "f9c9001dc47fb146915c1493b0a52643"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 편한 "
+"상의. 눈밭에서 뒹구는 청춘을 구가하자.\\n이리스가 장비할 수 있다."
+msgstr ""
+
+msgctxt "d90c0421d92b6d443cc00090dcd72f06"
+msgid "ID=263750837"
+msgstr ""
+
+msgctxt "a6033036e121abb69bdd2e4dc5b3aea7"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 편한 "
+"하의. 눈밭에서 뒹구는 청춘을 구가하자.\\n이리스가 장비할 수 있다."
+msgstr ""
+
+msgctxt "0fac3338ae255751b9b77fdb43ff669f"
+msgid "ID=263750538"
+msgstr ""
+
+msgctxt "517e9a462681545aabbb36f6d0c08b87"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 가벼운 "
+"장갑. 눈밭에서 뒹구는 청춘을 구가하자.\\n이리스가 장비할 수 있다."
+msgstr ""
+
+msgctxt "6edc64a00ccf3bdaf2df104e94c45bcd"
+msgid "ID=263751239"
+msgstr ""
+
+msgctxt "05fa0f2c0e784be78ac669fe50360154"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n겨울을 따스하게 보낼 청소년들의 신발. "
+"눈밭에서 뒹구는 청춘을 구가하자.\\n이리스가 장비할 수 있다."
+msgstr ""
+
+msgctxt "894905543b42c7aeeaa6cdd51bd78a10"
+msgid "ID=813760211"
+msgstr ""
+
+msgctxt "6beab78cb1c02a53671ef93234478b88"
+msgid "[밀봉][윈터 캐쥬얼] 모자"
+msgstr ""
+
+msgctxt "905c7a8a3bc30772162cc97ebcf14afa"
+msgid "[밀봉][윈터 캐쥬얼] 모자가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "7a51e558a150ff50732b9c2f88534073"
+msgid "ID=813760912"
+msgstr ""
+
+msgctxt "ceab67b929b942576841e0405d7a1064"
+msgid "[밀봉][윈터 캐쥬얼] 의상"
+msgstr ""
+
+msgctxt "2e5e3896fc8d8e3b4dec7d77bcaae84a"
+msgid "[밀봉][윈터 캐쥬얼] 의상이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "9e543ad24ac4323ed99dcff2f99e7441"
+msgid "ID=813760513"
+msgstr ""
+
+msgctxt "9af52e22507af27fa316d3e174c5cebd"
+msgid "[밀봉][윈터 캐쥬얼] 장갑"
+msgstr ""
+
+msgctxt "634069e72363fbaa9fae751d8e9ac182"
+msgid "[밀봉][윈터 캐쥬얼] 장갑이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "8cf1839424b64568c556f164a269acbd"
+msgid "ID=813761114"
+msgstr ""
+
+msgctxt "8cdc7a6492a8e1a58d6ddbd927571454"
+msgid "[밀봉][윈터 캐쥬얼] 스타킹"
+msgstr ""
+
+msgctxt "3966fed728b739ecc7c0b03dc04d49ab"
+msgid "[밀봉][윈터 캐쥬얼] 스타킹이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "2eadbe1857c3fe631e8fb6dd4fad62d9"
+msgid "ID=813761215"
+msgstr ""
+
+msgctxt "b3cbb9c30a8f9534a593076c66bec211"
+msgid "[밀봉][윈터 캐쥬얼] 부츠"
+msgstr ""
+
+msgctxt "9b8ad3fba563eb7f0b735c50821ce0d0"
+msgid "[밀봉][윈터 캐쥬얼] 부츠가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "7fa0527e07334a3efd9040f3b22f8d47"
+msgid "ID=823750216"
+msgstr ""
+
+msgctxt "1c40eee48061ef80dcfe7e31a6ae3790"
+msgid "[밀봉][윈터 캐쥬얼] 귀마개"
+msgstr ""
+
+msgctxt "b02cd755b73d753e0709ae7f257b42e6"
+msgid "[밀봉][윈터 캐쥬얼] 귀마개가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "4df4507fcf6b6affc6e3a4cd0b3667c0"
+msgid "ID=823750717"
+msgstr ""
+
+msgctxt "967ab6043698b6dbf776e66fa2bf9e3e"
+msgid "[밀봉][윈터 캐쥬얼] 상의"
+msgstr ""
+
+msgctxt "21de8d9f6c2ac7b01ed6400fd9187556"
+msgid "[밀봉][윈터 캐쥬얼] 상의가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "8fcb179ee3d9b8ec57dd833e29a3423f"
+msgid "ID=823750818"
+msgstr ""
+
+msgctxt "cf8270392896d191bc3b83727d928808"
+msgid "[밀봉][윈터 캐쥬얼] 하의"
+msgstr ""
+
+msgctxt "5578eff35712837f953739dceac21079"
+msgid "[밀봉][윈터 캐쥬얼] 하의가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "476ea60c4bb461555b89099900e57a81"
+msgid "ID=823750519"
+msgstr ""
+
+msgctxt "a6902e27d7f9e337524f317ae516fbd7"
+msgid "ID=823751220"
+msgstr ""
+
+msgctxt "7335f5610509fa4eeeb6f8402a9a2201"
+msgid "[밀봉][윈터 캐쥬얼] 신발"
+msgstr ""
+
+msgctxt "1f8b43802ce6a8d10ede9cdc4517b9bf"
+msgid "[밀봉][윈터 캐쥬얼] 신발이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "b3173b3ed6556a7afc9dbd50e7714a93"
+msgid "ID=833840221"
+msgstr ""
+
+msgctxt "1b566c6524477616e266ff632277e7a6"
+msgid "ID=833840922"
+msgstr ""
+
+msgctxt "37e6055198edfd88ce73434d8504b1ae"
+msgid "ID=833840523"
+msgstr ""
+
+msgctxt "826507677d9d1fbc0766a3a69add2049"
+msgid "ID=833841124"
+msgstr ""
+
+msgctxt "aab2bfbb20d3def3bb16b9ee1813a8a9"
+msgid "ID=833841225"
+msgstr ""
+
+msgctxt "6663bce86e628526b01f4b019199fa46"
+msgid "ID=843720226"
+msgstr ""
+
+msgctxt "3a4c2e44d573a9a6a74a7903df018763"
+msgid "ID=843720927"
+msgstr ""
+
+msgctxt "49fd2408a686db7b0c0f032b55bf8b6f"
+msgid "ID=843720528"
+msgstr ""
+
+msgctxt "83f484aae04d0c02991f58266122539b"
+msgid "ID=843721229"
+msgstr ""
+
+msgctxt "e34d7e1b8b9e5a2850144c5b18b4d6fe"
+msgid "ID=853750230"
+msgstr ""
+
+msgctxt "649a4f95cfa290682217771f3d26236c"
+msgid "ID=853750931"
+msgstr ""
+
+msgctxt "b496c085df24341b7885fb3a953d6a8f"
+msgid "ID=853750532"
+msgstr ""
+
+msgctxt "5b82fe760d9eafd7ec9328f790f8f2b5"
+msgid "ID=853751133"
+msgstr ""
+
+msgctxt "5ce06a746b2f0d15be95e5c7f1af8887"
+msgid "ID=853751234"
+msgstr ""
+
+msgctxt "08f1f44f9081da67eaf7313b23a69da7"
+msgid "ID=863750235"
+msgstr ""
+
+msgctxt "f6ad69cffeb8a7354de50f998c7b20bc"
+msgid "ID=863750736"
+msgstr ""
+
+msgctxt "7b8c8dd400c3aadd81348ec0c0a107c6"
+msgid "ID=863750837"
+msgstr ""
+
+msgctxt "1eef5b10d7bbef836276a5512d1b86cd"
+msgid "ID=863750538"
+msgstr ""
+
+msgctxt "6646f3777a47b6eb89098e46cfcdbfe8"
+msgid "ID=863751239"
+msgstr ""
+
+msgctxt "8d213c78892ca0c50e6ea8b7459fb7ef"
+msgid "ID=813760913"
+msgstr ""
+
+msgctxt "0409d5677d65ac1f46aa098c64b00a3a"
+msgid "[코스튬 박스] 하루의 윈터 캐쥬얼"
+msgstr ""
+
+msgctxt "0e0f2f0c3de99dec50fcca1820b4f792"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[윈터 캐쥬얼] 코스튬이 담긴 "
+"패키지로 해당 구성품은 하루만 착용할 수 있다.\\n\\n-구성품-\\n[윈터 캐쥬얼] 모자 x 1\\n[윈터 캐쥬얼] 의상 x "
+"1\\n[윈터 캐쥬얼] 장갑 x 1\\n[윈터 캐쥬얼] 스타킹 x 1\\n[윈터 캐쥬얼] 부츠 x 1"
+msgstr ""
+
+msgctxt "be23d4ccd21cacb4a590e3465f3d0157"
+msgid "ID=823750713"
+msgstr ""
+
+msgctxt "ba5b01e67f38a894870d2118c12d0c91"
+msgid "[코스튬 박스] 어윈의 윈터 캐쥬얼"
+msgstr ""
+
+msgctxt "c674173d3179903daeb5a787286c29c7"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[윈터 캐쥬얼] 코스튬이 담긴 "
+"패키지로 해당 구성품은 어윈만 착용할 수 있다.\\n\\n-구성품-\\n[윈터 캐쥬얼] 귀마개 x 1\\n[윈터 캐쥬얼] 상의 x "
+"1\\n[윈터 캐쥬얼] 하의 x 1\\n[윈터 캐쥬얼] 장갑 x 1\\n[윈터 캐쥬얼] 신발 x 1"
+msgstr ""
+
+msgctxt "23ca622f16cddfcc0251d366eb3bda11"
+msgid "ID=833840923"
+msgstr ""
+
+msgctxt "6a0fabb5e6443c2da7275010cadc4f7a"
+msgid "[코스튬 박스] 릴리의 윈터 캐쥬얼"
+msgstr ""
+
+msgctxt "648d4bdfe441b1de7534630b02bd8d3b"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[윈터 캐쥬얼] 코스튬이 담긴 "
+"패키지로 해당 구성품은 릴리만 착용할 수 있다.\\n\\n-구성품-\\n[윈터 캐쥬얼] 귀마개 x 1\\n[윈터 캐쥬얼] 의상 x "
+"1\\n[윈터 캐쥬얼] 장갑 x 1\\n[윈터 캐쥬얼] 스타킹 x 1\\n[윈터 캐쥬얼] 부츠 x 1"
+msgstr ""
+
+msgctxt "12b1405ac7147c7434471cf192903885"
+msgid "ID=843720923"
+msgstr ""
+
+msgctxt "548cb802eeceb554b330c405ef87a5d0"
+msgid "[코스튬 박스] 진의 윈터 캐쥬얼"
+msgstr ""
+
+msgctxt "113fdb648936177dbfe43635da0573b9"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[윈터 캐쥬얼] 코스튬이 담긴 "
+"패키지로 해당 구성품은 진만 착용할 수 있다.\\n\\n-구성품-\\n[윈터 캐쥬얼] 귀마개 x 1\\n[윈터 캐쥬얼] 의상 x "
+"1\\n[윈터 캐쥬얼] 장갑 x 1\\n[윈터 캐쥬얼] 신발 x 1"
+msgstr ""
+
+msgctxt "5d8b6ef29c1025defce9e9af1d098901"
+msgid "ID=853750933"
+msgstr ""
+
+msgctxt "5c0cd3e50f0af488fc3884d34767fd56"
+msgid "[코스튬 박스] 스텔라의 윈터 캐쥬얼"
+msgstr ""
+
+msgctxt "99b08cc869bf442845d847893402d7c3"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[윈터 캐쥬얼] 코스튬이 담긴 "
+"패키지로 해당 구성품은 스텔라만 착용할 수 있다.\\n\\n-구성품-\\n[윈터 캐쥬얼] 모자 x 1\\n[윈터 캐쥬얼] 의상 x "
+"1\\n[윈터 캐쥬얼] 장갑 x 1\\n[윈터 캐쥬얼] 스타킹 x 1\\n[윈터 캐쥬얼] 부츠 x 1"
+msgstr ""
+
+msgctxt "505b00689d90716c9ffac72453baf39a"
+msgid "ID=863750733"
+msgstr ""
+
+msgctxt "3e45902a3a8053dc9067328e75d13e50"
+msgid "[코스튬 박스] 이리스의 윈터 캐쥬얼"
+msgstr ""
+
+msgctxt "7a6a937cc12e41223de7aa9cf71efd5f"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[윈터 캐쥬얼] 코스튬이 담긴 "
+"패키지로 해당 구성품은 이리스만 착용할 수 있다.\\n\\n-구성품-\\n[윈터 캐쥬얼] 귀마개 x 1\\n[윈터 캐쥬얼] 상의 x "
+"1\\n[윈터 캐쥬얼] 하의 x 1\\n[윈터 캐쥬얼] 장갑 x 1\\n[윈터 캐쥬얼] 신발 x 1"
+msgstr ""
+
+msgctxt "66237ddde878cf928449f99a8d76603d"
+msgid "ID=213480102"
+msgstr ""
+
+msgctxt "2e4aa679330b0aecce4b9a6ee42d1167"
+msgid "[사나래 한복] 족두리"
+msgstr ""
+
+msgctxt "8e496eb1e02806e140d3235c90bb9e8e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 복장의 족두리."
+" 하루가 장비할 수 있다"
+msgstr ""
+
+msgctxt "f635aa1d4e790a2e1fbfaab37f8ad17d"
+msgid "ID=213480902"
+msgstr ""
+
+msgctxt "5ea6315e197f91acc946effb69718ae0"
+msgid "[사나래 한복] 의상"
+msgstr ""
+
+msgctxt "9e15097c122e3bac6c2390c2cb75bdf4"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 의상. 하루가 "
+"장비할 수 있다"
+msgstr ""
+
+msgctxt "a6cd4b1cd41a57f214a6d3e552941aac"
+msgid "ID=213480502"
+msgstr ""
+
+msgctxt "99779bf9b40656d0fa9774b25fba197e"
+msgid "[사나래 한복] 장갑"
+msgstr ""
+
+msgctxt "61d54f873307974f513d1d06517a9fa0"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 장갑. 하루가 "
+"장비할 수 있다"
+msgstr ""
+
+msgctxt "c1cf22da1673c5b3b672944ae6d78e48"
+msgid "ID=213481102"
+msgstr ""
+
+msgctxt "5852e65910254e17b0de67a53824b77c"
+msgid "[사나래 한복] 니삭스"
+msgstr ""
+
+msgctxt "7156d84100d757ee28ea623f375b7f3d"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복의 니삭스. "
+"추운 겨울에도 입을 수 있도록 방한처리 되어있다. 하루가 장비할 수 있다"
+msgstr ""
+
+msgctxt "c0fbc4cfb71f906630f09d5566970677"
+msgid "ID=213481202"
+msgstr ""
+
+msgctxt "5cdea086ac5c5ebef1c316c491e47a94"
+msgid "[사나래 한복] 꽃신"
+msgstr ""
+
+msgctxt "da751fa6bfa5bfb275a223ea4b356ec0"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 복장의 꽃신."
+"\\n하루가 장비할 수 있다"
+msgstr ""
+
+msgctxt "4e3a5db2ea8a877606d5d64470a2a804"
+msgid "ID=223480902"
+msgstr ""
+
+msgctxt "b951967321fbaf17194652f4248b1228"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 의상. 어윈이 "
+"장비할 수 있다"
+msgstr ""
+
+msgctxt "814f6b594d71313563d7b1658c49afec"
+msgid "ID=223481202"
+msgstr ""
+
+msgctxt "4c97738f5a1965d2c9998aca221cd3a1"
+msgid "[사나래 한복] 신발"
+msgstr ""
+
+msgctxt "0c31a870e216c225d65d540072ab6e06"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 신발. 어윈이 "
+"장비할 수 있다"
+msgstr ""
+
+msgctxt "8490cee5003a08bc2a57b45886485e86"
+msgid "ID=233550102"
+msgstr ""
+
+msgctxt "59ef8fe2ae19e09219a65218123f7b5c"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 복장의 족두리."
+" 릴리가 장비할 수 있다"
+msgstr ""
+
+msgctxt "088f23771f1f8468bc73dc40c9caffdf"
+msgid "ID=233550902"
+msgstr ""
+
+msgctxt "6cb035e4c3aea6680850502eff32a85c"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 의상. 릴리가 "
+"장비할 수 있다"
+msgstr ""
+
+msgctxt "d5233c9788f4733118fa24d352f97f36"
+msgid "ID=233550502"
+msgstr ""
+
+msgctxt "480bae00f01716a9e038479ad4a9204a"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 장갑. 릴리가 "
+"장비할 수 있다"
+msgstr ""
+
+msgctxt "995d4ddb1f248424c5409916573a92b3"
+msgid "ID=233551102"
+msgstr ""
+
+msgctxt "a7af014b7f8b5f4e705dc26b21009f7b"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복의 니삭스. "
+"추운 겨울에도 입을 수 있도록 방한처리 되어있다. 릴리가 장비할 수 있다"
+msgstr ""
+
+msgctxt "d6567cb817f50a754f0ee4f283f8ceff"
+msgid "ID=233551202"
+msgstr ""
+
+msgctxt "53aead8e855f080c13153255978fdcaa"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 복장의 꽃신."
+"\\n릴리가 장비할 수 있다"
+msgstr ""
+
+msgctxt "c4e2ba885c3dc5dde2f9053699cd3942"
+msgid "ID=243500902"
+msgstr ""
+
+msgctxt "1ae62a600cb5e3626bfc96a832e39af3"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 의상. 진이 "
+"장비할 수 있다"
+msgstr ""
+
+msgctxt "6555ef1644364aff2b64c241aa888f61"
+msgid "ID=243501202"
+msgstr ""
+
+msgctxt "60f70be565ad3717fa4e2c1453077ce9"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 신발. 진이 "
+"장비할 수 있다"
+msgstr ""
+
+msgctxt "1fc04d627ce05405e4d2bf8e2ca53f1c"
+msgid "ID=253490102"
+msgstr ""
+
+msgctxt "174f0b2f7a15ce0c26869e1913abde6d"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 복장의 족두리."
+" 스텔라가 장비할 수 있다"
+msgstr ""
+
+msgctxt "7c5d1cf7952c9d390b6f383e031db2e3"
+msgid "ID=253490902"
+msgstr ""
+
+msgctxt "ba7d0c0bfae96b0f5c8cfc883f501822"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 의상. "
+"스텔라가 장비할 수 있다"
+msgstr ""
+
+msgctxt "08f545060185042467cb430b93b3e58d"
+msgid "ID=253490502"
+msgstr ""
+
+msgctxt "31891c894e7d0aa96d384f22669a99c3"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 장갑. "
+"스텔라가 장비할 수 있다"
+msgstr ""
+
+msgctxt "01a52ea0563b8f7cae30f150d0b799ed"
+msgid "ID=253491102"
+msgstr ""
+
+msgctxt "7caa9b358a3c00d6f887296ebb5453b7"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복의 니삭스. "
+"추운 겨울에도 입을 수 있도록 방한처리 되어있다. 스텔라가 장비할 수 있다"
+msgstr ""
+
+msgctxt "0f76d4b7a1209469fb5a77065dedd183"
+msgid "ID=253491202"
+msgstr ""
+
+msgctxt "ec6510abc7005931d974567fdff236af"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 복장의 꽃신."
+"\\n스텔라가 장비할 수 있다"
+msgstr ""
+
+msgctxt "431d9cfef0d10b11714d47bfa1df63b3"
+msgid "ID=263490102"
+msgstr ""
+
+msgctxt "f99787d802bb68e15c3114222d01d344"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 복장의 족두리."
+" 이리스가 장비할 수 있다"
+msgstr ""
+
+msgctxt "35fb936281ec538f25a218ed2843aaa3"
+msgid "ID=263490902"
+msgstr ""
+
+msgctxt "7050a828d7a82c583162494c1e2ce7c4"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 의상. "
+"이리스가 장비할 수 있다"
+msgstr ""
+
+msgctxt "3593bf4868b657c4f094ee6edbebfa73"
+msgid "ID=263490502"
+msgstr ""
+
+msgctxt "50e55037e400bf514fdd826e1b6696a6"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 장갑. "
+"이리스가 장비할 수 있다"
+msgstr ""
+
+msgctxt "58c953fc6964f465e5ef6ec26cb0be43"
+msgid "ID=263491102"
+msgstr ""
+
+msgctxt "a9f52559c6e0adda5b8151b84cefea04"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복의 니삭스. "
+"추운 겨울에도 입을 수 있도록 방한처리 되어있다. 이리스가 장비할 수 있다"
+msgstr ""
+
+msgctxt "ffedbe36acab64f8ac9a1356a6b1ac86"
+msgid "ID=263491202"
+msgstr ""
+
+msgctxt "4aa8a23091d916b3d3983083e8a44fde"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n천사의 날개라는 뜻의 한복 복장의 꽃신."
+"\\n이리스가 장비할 수 있다"
+msgstr ""
+
+msgctxt "73c004f7703edbb5028bf06a7f2ceb8c"
+msgid "ID=813480102"
+msgstr ""
+
+msgctxt "0049d8618897f09c6688f4ddda0011f8"
+msgid "[밀봉][사나래 한복] 족두리"
+msgstr ""
+
+msgctxt "6fec9cfe31294bfa7bf0598e1174d445"
+msgid "[밀봉][사나래 한복] 족두리가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "e0e4d30961ad133dfa91ba41ae937ae4"
+msgid "ID=813480902"
+msgstr ""
+
+msgctxt "8387d488ad439779dd043ecd240fffa6"
+msgid "[밀봉][사나래 한복] 의상"
+msgstr ""
+
+msgctxt "4661ebd8c60f0148ea53d0c638d20ff0"
+msgid "[밀봉][사나래 한복] 의상이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "6faa6d77565e2bc2da9275285efdb1e2"
+msgid "ID=813480502"
+msgstr ""
+
+msgctxt "592af689b88ac2fd6dfb437bd7331344"
+msgid "[밀봉][사나래 한복] 장갑"
+msgstr ""
+
+msgctxt "809a98caea2da508927a5e47dd5aa386"
+msgid "[밀봉][사나래 한복] 장갑이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "7f6c53bb0ab57a1bb53abcda7281433f"
+msgid "ID=813481102"
+msgstr ""
+
+msgctxt "2c7e0482150cbb76199224f07c3edea4"
+msgid "[밀봉][사나래 한복] 니삭스"
+msgstr ""
+
+msgctxt "22ccb4fcfe7186f13dd9798007edf3ea"
+msgid "[밀봉][사나래 한복] 니삭스가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "0cf75279b81f8f4f67b913525696f083"
+msgid "ID=813481202"
+msgstr ""
+
+msgctxt "3c77b2cb56bd6dd3bce7224c902a47bb"
+msgid "[밀봉][사나래 한복] 꽃신"
+msgstr ""
+
+msgctxt "0812a1e23e1fb0660c8186cb90062c18"
+msgid "[밀봉][사나래 한복] 꽃신이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "244037bbb6454b0e5036648538b555db"
+msgid "ID=823480902"
+msgstr ""
+
+msgctxt "680615d5e9603187529054eacb37da75"
+msgid "ID=823481202"
+msgstr ""
+
+msgctxt "862796b57cc90b439cbd933399ffaf08"
+msgid "[밀봉][사나래 한복] 신발"
+msgstr ""
+
+msgctxt "655588097cb0817b4ed103d3a33e3a14"
+msgid "[밀봉][사나래 한복] 신발이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "005f6b232197695869b7bf320f934065"
+msgid "ID=833550102"
+msgstr ""
+
+msgctxt "01cefa17ef0b1edc516ff1cce77f3deb"
+msgid "ID=833550902"
+msgstr ""
+
+msgctxt "281cd6f1fb4275104cb80fe29682d1d2"
+msgid "ID=833550502"
+msgstr ""
+
+msgctxt "108215dfcbe8ed95f70a8ae12e246e4f"
+msgid "ID=833551102"
+msgstr ""
+
+msgctxt "f1b1d1db98993b01ffcabab21baf31c6"
+msgid "ID=833551202"
+msgstr ""
+
+msgctxt "2e6284497734d34e0471c6d1d02f1137"
+msgid "ID=843500902"
+msgstr ""
+
+msgctxt "2ead8cc1303d541cb6b477187dd38140"
+msgid "ID=843501202"
+msgstr ""
+
+msgctxt "1e6287e27fbade687f029833ea6d069d"
+msgid "ID=853490102"
+msgstr ""
+
+msgctxt "cbfd4ea7874cf9b98e2832b18a4d1c52"
+msgid "ID=853490902"
+msgstr ""
+
+msgctxt "68c5b2c498de8af859e2b402fbe8212d"
+msgid "ID=853490502"
+msgstr ""
+
+msgctxt "2a115812d4147a02148994d0ffefc171"
+msgid "ID=853491102"
+msgstr ""
+
+msgctxt "158301f49aff36cd26bfe30063f3d9fd"
+msgid "ID=853491202"
+msgstr ""
+
+msgctxt "586ee5fec98643a30f126c97296aa9b5"
+msgid "ID=863480102"
+msgstr ""
+
+msgctxt "4a084bb1a05004f0bd6dd30c448d9d67"
+msgid "ID=863480902"
+msgstr ""
+
+msgctxt "9568b486baeaa16cf919f910a39796f4"
+msgid "ID=863480502"
+msgstr ""
+
+msgctxt "72cdd28c035a2ef9f435ee28ef412bdb"
+msgid "ID=863481102"
+msgstr ""
+
+msgctxt "5d3f397cb5233df172bf7b74d441fbd4"
+msgid "ID=863481202"
+msgstr ""
+
+msgctxt "cff785c79232dff63a5b264e143317ad"
+msgid "ID=813480904"
+msgstr ""
+
+msgctxt "db55338aa4608fb775c1b8ea15464bb4"
+msgid "[코스튬 박스] 사나래 한복"
+msgstr ""
+
+msgctxt "7d011d03e33c4c603def24ae51c31960"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[사나래 한복] 코스튬이 담긴 "
+"패키지로 해당 구성품은 하루만 착용할 수 있다.\\n\\n-구성품-\\n[사나래 한복] 족두리 x 1\\n[사나래 한복] 의상 x "
+"1\\n[사나래 한복] 장갑 x 1\\n[사나래 한복] 니삭스 x 1\\n[사나래 한복] 꽃신 x 1\\n황금 복주머니 x 10"
+msgstr ""
+
+msgctxt "36b479aa8e82f8c36f12e2b4f673c502"
+msgid "ID=823480904"
+msgstr ""
+
+msgctxt "c6d0466f635ee0befb53dfc5b2f7f42c"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[사나래 한복] 코스튬이 담긴 "
+"패키지로 해당 구성품은 어윈만 착용할 수 있다.\\n\\n-구성품-\\n[사나래 한복] 의상 x 1\\n[사나래 한복] 신발 x "
+"1\\n황금 복주머니 x 10"
+msgstr ""
+
+msgctxt "5c8d291b5bde0b64e6bc464bbc218f4b"
+msgid "ID=833550904"
+msgstr ""
+
+msgctxt "0e7986b0dc28a990c1cfeef764fd06c4"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[사나래 한복] 코스튬이 담긴 "
+"패키지로 해당 구성품은 릴리만 착용할 수 있다.\\n\\n-구성품-\\n[사나래 한복] 족두리 x 1\\n[사나래 한복] 의상 x "
+"1\\n[사나래 한복] 장갑 x 1\\n[사나래 한복] 니삭스 x 1\\n[사나래 한복] 꽃신 x 1\\n황금 복주머니 x 10"
+msgstr ""
+
+msgctxt "9dc6350f70dd4bfb9249e1ac42fb7f49"
+msgid "ID=843500904"
+msgstr ""
+
+msgctxt "1d50f3de006007df55befd5d538f897c"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[사나래 한복] 코스튬이 담긴 "
+"패키지로 해당 구성품은 진만 착용할 수 있다.\\n\\n-구성품-\\n[사나래 한복] 의상 x 1\\n[사나래 한복] 신발 x "
+"1\\n황금 복주머니 x 10"
+msgstr ""
+
+msgctxt "16de2f0433815204f5438e9f578a05b9"
+msgid "ID=853490904"
+msgstr ""
+
+msgctxt "5d1f21dea60d1000008e0407178580fc"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[사나래 한복] 코스튬이 담긴 "
+"패키지로 해당 구성품은 스텔라만 착용할 수 있다.\\n\\n-구성품-\\n[사나래 한복] 족두리 x 1\\n[사나래 한복] 의상 x "
+"1\\n[사나래 한복] 장갑 x 1\\n[사나래 한복] 니삭스 x 1\\n[사나래 한복] 꽃신 x 1\\n황금 복주머니 x 10"
+msgstr ""
+
+msgctxt "79a82d8468d6e1aeb524e8ab0a96f880"
+msgid "ID=863480904"
+msgstr ""
+
+msgctxt "00b51ee8e6ddf6849d0e945fd5e5b224"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[사나래 한복] 코스튬이 담긴 "
+"패키지로 해당 구성품은 이리스만 착용할 수 있다.\\n\\n-구성품-\\n[사나래 한복] 족두리 x 1\\n[사나래 한복] 의상 x "
+"1\\n[사나래 한복] 장갑 x 1\\n[사나래 한복] 니삭스 x 1\\n[사나래 한복] 꽃신 x 1\\n황금 복주머니 x 10"
+msgstr ""
+
+msgctxt "168033bfc57e621c3e7bb85c61e4c8a6"
+msgid "ID=980000001"
+msgstr ""
+
+msgctxt "9f7333f2bb6187edb9bcee64b91c4b64"
+msgid "만금의 형상"
+msgstr ""
+
+msgctxt "ac6cb2c332ba1e3f88fe625ba67cdf9e"
+msgid ""
+"<font color='#FFBA85'>[코스튬]<font color='#9D927B'>\\n\\n거대한 재복의 색이 눈에 보일 정도로 "
+"실체화되어 흡사 날개의 모양을 갖추었다."
+msgstr ""
+
+msgctxt "049041ee21e8ba2208224f483b327e02"
+msgid "ID=980000002"
+msgstr ""
+
+msgctxt "6fc5639734bb7323a6f9d5096d2498fb"
+msgid "ID=980000003"
+msgstr ""
+
+msgctxt "1d8fc2df109fa1621b2ad6597e3c9de8"
+msgid "ID=980000004"
+msgstr ""
+
+msgctxt "834109c2409f0d087c2a8e75bfee1060"
+msgid "ID=980000005"
+msgstr ""
+
+msgctxt "e8ed5ff370c42cb54ce1b1ca56857722"
+msgid "ID=980000006"
+msgstr ""
+
+msgctxt "874cafa777c883b7f4267a9d3b78003d"
+msgid "ID=980000011"
+msgstr ""
+
+msgctxt "b26ee51c432595e265b5e6a1fab9365b"
+msgid "만금의 형상 박스"
+msgstr ""
+
+msgctxt "87d6847681f01dab9e896aefa042b256"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n자신의 클래스의 만금의 형상 "
+"아이템이 들어 있는 패키지"
+msgstr ""
+
+msgctxt "a2a69e0815fca42dd20d0a46b2918362"
+msgid "ID=980000012"
+msgstr ""
+
+msgctxt "84bfa781459b031c5ff3117d38601722"
+msgid "[칭호 : 접두] 금빛"
+msgstr ""
+
+msgctxt "7ac3d6d3632d242c76c1d6b71a1be01d"
+msgid ""
+"<font color='#FFD700'>[색상 칭호 획득 아이템] 접두<font color='#9D927B'>\\n수수한 복주머니를 "
+"교환하여 얻을 수 있는 칭호\\n\\n- 획득 칭호 -\\n<font color='#FFCC33'>금빛</font>\\n\\n- 효과 -"
+"\\n마을 이동 속도 6% 증가\\n치명타 4.5% 증가\\n적에게 얻는 제니량 7% 증가"
+msgstr ""
+
+msgctxt "e8e377ac2408f34fa1b290de57c1d848"
+msgid "ID=980000013"
+msgstr ""
+
+msgctxt "037500ec6b2cd5726d9a0ebb345ac459"
+msgid "[칭호 : 접미] 날개"
+msgstr ""
+
+msgctxt "e307630e34aee4cd824b409f348981e5"
+msgid ""
+"<font color='#FFD700'>[색상 칭호 획득 아이템] 접미<font color='#9D927B'>\\n수수한 복주머니를 "
+"교환하여 얻을 수 있는 칭호\\n\\n\\n- 획득 칭호 -\\n<font color='#EAEAEA'>날개</font>\\n\\n- "
+"효과 -\\n전투 이동 속도 6% 증가\\n에어리얼  10% 증가\\n적에게 얻는 소울베이퍼 10% 증가"
+msgstr ""
+
+msgctxt "6cb40f4f9b1984f0f07616ebdc80cd07"
+msgid "ID=980000014"
+msgstr ""
+
+msgctxt "1f3147611fe56bab7a5fb85ee8f940dc"
+msgid "복주머니 랜덤 박스"
+msgstr ""
+
+msgctxt "cab82c906bd3389938a48dbb4324ac13"
+msgid ""
+"<font color='#FFBA85'>[물품 상자]<font color='#9D927B'>\\n\\n수수한 복주머니를 얻을 수 있는 "
+"상자. 코인샵에서만 판매된다."
+msgstr ""
+
+msgctxt "c3e4c953e706e77ad984b17138e8ac9c"
+msgid "ID=980000015"
+msgstr ""
+
+msgctxt "cd36787f23b3e39f9c0e73f0b9f14807"
+msgid "황금 복주머니 20개 상자"
+msgstr ""
+
+msgctxt "90ac0b3a19052626745b1038f10d9616"
+msgid ""
+"<font color='#FFBA85'>[물품 상자]<font color='#9D927B'>\\n\\n수수한 복주머니나 만금의 형상을 "
+"획득 할 수 있는 전송기 20개와 수수한 복주머니 100개가 들어있는 상자."
+msgstr ""
+
+msgctxt "30411d8fb841d0daae1e39162849eafb"
+msgid "ID=980000016"
+msgstr ""
+
+msgctxt "172ef5f462d32a49536652453eef49d2"
+msgid "황금 복주머니"
+msgstr ""
+
+msgctxt "29a3c4a015e6f91e0071833e584d42e4"
+msgid ""
+"<font color='#FFBA85'>[랜덤 상자]<font color='#9D927B'>\\n\\n설날의 기운과 함께 여러가지 "
+"아이템이 담겨있는 복주머니.\\n주머니의 안엔 거대한 복의 기운이 서려있다."
+msgstr ""
+
+msgctxt "abc8df431ee51716cb40159519258266"
+msgid "ID=980000017"
+msgstr ""
+
+msgctxt "b04d0f7d381dd877bdf8eea5c0911cab"
+msgid "수수한 복주머니"
+msgstr ""
+
+msgctxt "7a8ebb248ef1bc5c6fa241e47a5a02ea"
+msgid ""
+"<font color='#FFBA85'>[이벤트 아이템]<font color='#9D927B'>\\n\\n설날이 다가오면서 클라우드림 "
+"이곳 저곳에서 보이기 시작한 수수한 복주머니.\\n제니스를 통해 떡국 머리띠를 포함한 다양한 아이템으로 교환이 가능하다."
+msgstr ""
+
+msgctxt "b0a458283ea0841550687387fd62f6d2"
+msgid "ID=980000018"
+msgstr ""
+
+msgctxt "93d5109e885682bc2fd1de5159d7c8fe"
+msgid "떡국 머리띠"
+msgstr ""
+
+msgctxt "2b836373b210521f58d82ea69e7cb9cf"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n떡국의 형태를 그대로 머리의 위에 올릴 "
+"수 있도록 제작된 머리띠. 한 살을 먹기 싫다면 머리 위에 올리는 것도 하나의 방법.\\n하루 에스티아가 착용할 수 있다."
+msgstr ""
+
+msgctxt "870d6c936441eccdc63b5308589671c1"
+msgid "ID=980000019"
+msgstr ""
+
+msgctxt "568e6cf85b3b8d1a3cf7680b62c7916f"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n떡국의 형태를 그대로 머리의 위에 올릴 "
+"수 있도록 제작된 머리띠. 한 살을 먹기 싫다면 머리 위에 올리는 것도 하나의 방법.\\n어윈 아크라이트가 착용할 수 있다."
+msgstr ""
+
+msgctxt "0831670268b43451d1a3d18a57d362df"
+msgid "ID=980000020"
+msgstr ""
+
+msgctxt "ed5e81c1fbdc0c81e94c31f9dfbfbd54"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n떡국의 형태를 그대로 머리의 위에 올릴 "
+"수 있도록 제작된 머리띠. 한 살을 먹기 싫다면 머리 위에 올리는 것도 하나의 방법.\\n릴리 블룸메르헨이 착용할 수 있다."
+msgstr ""
+
+msgctxt "098f86658b5cfe2d69793adfcedcbf7e"
+msgid "ID=980000021"
+msgstr ""
+
+msgctxt "352c5db862b5a4e66e75691107631785"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n떡국의 형태를 그대로 머리의 위에 올릴 "
+"수 있도록 제작된 머리띠. 한 살을 먹기 싫다면 머리 위에 올리는 것도 하나의 방법.\\n진 세이파츠가 착용할 수 있다."
+msgstr ""
+
+msgctxt "c10f9783b4121bf62b29bee28ae4a918"
+msgid "ID=980000022"
+msgstr ""
+
+msgctxt "478bf261a3652fb3e377c235c6885331"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n떡국의 형태를 그대로 머리의 위에 올릴 "
+"수 있도록 제작된 머리띠. 한 살을 먹기 싫다면 머리 위에 올리는 것도 하나의 방법.\\n스텔라 유니벨이 착용할 수 있다."
+msgstr ""
+
+msgctxt "20baa8a4c032a29308f3a3dddb23d6b9"
+msgid "ID=980000023"
+msgstr ""
+
+msgctxt "c12416ca5f39331ee2376706ba2c71a9"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n떡국의 형태를 그대로 머리의 위에 올릴 "
+"수 있도록 제작된 머리띠. 한 살을 먹기 싫다면 머리 위에 올리는 것도 하나의 방법.\\n이리스 유마가 착용할 수 있다."
+msgstr ""
+
+msgctxt "9fe39392deff6775aa637d51c3d9fc99"
+msgid "ID=980000024"
+msgstr ""
+
+msgctxt "fd5316683eab714440a02751601e90ab"
+msgid "[코스튬 박스]떡국 머리띠"
+msgstr ""
+
+msgctxt "cd16e307aa8f752b2ee5bd838f2de559"
+msgid ""
+"<font color='#FFBA85'>[외형 패키지]<font color='#9D927B'>\\n떡국 머리띠 아이템이 들어 있는 "
+"패키지\\n개봉하는 캐릭터가 장비할 수 있는 것으로 나온다. "
+msgstr ""
+
+msgctxt "cee5058822a6217a4db62c2347b3699c"
+msgid "ID=980000030"
+msgstr ""
+
+msgctxt "bdf8af2263e195dcac9748cce685e2a2"
+msgid "[칭호 : 접두] 하얗게"
+msgstr ""
+
+msgctxt "57f0e474f7137b7578249b868a501fb1"
+msgid ""
+"<font color='#FFD700'>[색상 칭호 획득 아이템] 접두<font color='#9D927B'>\\n더 씽 토벌에서 가장 "
+"영향력을 발휘한 리그에게만 수여되는 칭호\\n\\n- 획득 칭호 -\\n<font color='#FFCC33'>하얗게</"
+"font>\\n\\n- 효과 -\\n마을 이동 속도 1% 증가"
+msgstr ""
+
+msgctxt "1956d674a7cb2a897bed26ee8a0fa3cf"
+msgid "ID=980000031"
+msgstr ""
+
+msgctxt "3fd9c22c95187eba470769bd0b520f05"
+msgid "[칭호 : 접미] 불태웠어"
+msgstr ""
+
+msgctxt "07a314a70636e5ece2a0ce659f0272ea"
+msgid ""
+"<font color='#FFD700'>[색상 칭호 획득 아이템] 접미<font color='#9D927B'>\\n더 씽 토벌에서 가장 "
+"영향력을 발휘한 리그에게만 수여되는 칭호\\n\\n\\n- 획득 칭호 -\\n<font color='#EAEAEA'>불태웠어</"
+"font>\\n\\n- 효과 -\\n공격력 1% 증가"
+msgstr ""
+
+msgctxt "2ceca10035711db644ecfd6cea39d8b9"
+msgid "ID=213810258"
+msgstr ""
+
+msgctxt "1e3af731c8a7280335e1c466c338a333"
+msgid "[빙상의 요정] 크라운"
+msgstr ""
+
+msgctxt "5b0f033ebbaf42c9cc38ad2c6e696549"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 왕관.\\n하루가 착용할 수 있다."
+msgstr ""
+
+msgctxt "911ae59ea5f89112b7aeed33ce3a9b27"
+msgid "ID=213810958"
+msgstr ""
+
+msgctxt "e0f2961907a58ec8cc70eaa0a3903a3a"
+msgid "[빙상의 요정] 의상"
+msgstr ""
+
+msgctxt "8e8611fd4b16aa34e990ffe0c2b89fb9"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 의상.\\n하루가 착용할 수 있다."
+msgstr ""
+
+msgctxt "cdb15f70aa11e2fc9f9ce4309da39a2f"
+msgid "ID=213810558"
+msgstr ""
+
+msgctxt "86aa1d2617c81177bc870779cf4a85ea"
+msgid "[빙상의 요정] 장갑"
+msgstr ""
+
+msgctxt "e58621530dd37c8367cf7c4795be0227"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 장갑.\\n하루가 착용할 수 있다."
+msgstr ""
+
+msgctxt "222620c2d57611ad19e8c115e10de3cc"
+msgid "ID=213811158"
+msgstr ""
+
+msgctxt "ce63298572816dae6cf2ed3123885969"
+msgid "[빙상의 요정] 스타킹"
+msgstr ""
+
+msgctxt "0124b12dba1c6a35bd9b7f663157ff44"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 스타킹.\\n하루가 착용할 수 있다."
+msgstr ""
+
+msgctxt "5c67e51c1855bbb2112e814d9fd0a519"
+msgid "ID=213811258"
+msgstr ""
+
+msgctxt "3f405d78b193b1d26c56287147b2e6ce"
+msgid "[빙상의 요정] 신발"
+msgstr ""
+
+msgctxt "55fbf6befb96ae14b6ae0697892fcc16"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 신발.\\n하루가 착용할 수 있다."
+msgstr ""
+
+msgctxt "9ce51037910fcf2432bb5b7d31aa89cf"
+msgid "ID=223810958"
+msgstr ""
+
+msgctxt "e22e15b5d15d74f9968f54ef1764738f"
+msgid "[빙하의 왕자] 의상"
+msgstr ""
+
+msgctxt "30524b6ffcc7471cea4e2004fc256ae0"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n빙하기에 특출난 외모로 많은 이들을 "
+"사로잡은 왕자의 형상을 구체화 하여 디자인된 아름다운 복장의 의상.\\n어윈이 착용할 수 있다."
+msgstr ""
+
+msgctxt "ba2498ceeedfdbaafae8315548566f96"
+msgid "ID=223810558"
+msgstr ""
+
+msgctxt "845fa4350a0a5ee69457ad676cf583d8"
+msgid "[빙하의 왕자] 장갑"
+msgstr ""
+
+msgctxt "afeb4ccd41181d36476a5cda068560d6"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n빙하기에 특출난 외모로 많은 이들을 "
+"사로잡은 왕자의 형상을 구체화 하여 디자인된 아름다운 복장의 장갑.\\n어윈이 착용할 수 있다."
+msgstr ""
+
+msgctxt "36526f4f05e8f56d4c813c2b409c76d7"
+msgid "ID=223811258"
+msgstr ""
+
+msgctxt "b2742027364c2bd048ac299b9db46f1a"
+msgid "[빙하의 왕자] 신발"
+msgstr ""
+
+msgctxt "08cb09425072f873e5da9295e00b104e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n빙하기에 특출난 외모로 많은 이들을 "
+"사로잡은 왕자의 형상을 구체화 하여 디자인된 아름다운 복장의 신발.\\n어윈이 착용할 수 있다."
+msgstr ""
+
+msgctxt "3a16ec1930fd40358d6601a5e77aa76c"
+msgid "ID=233890258"
+msgstr ""
+
+msgctxt "fdd30fbef4459d2f39ac80d0cb7fa496"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 왕관.\\n릴리가 착용할 수 있다."
+msgstr ""
+
+msgctxt "ef70419a7b3d26c5d2fe609faaea0844"
+msgid "ID=233890958"
+msgstr ""
+
+msgctxt "f28c5bdd31a2a8ebeaac1f5ee535bd28"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 의상.\\n릴리가 착용할 수 있다."
+msgstr ""
+
+msgctxt "0c9c641d2d9b1cbaf48f0950d405c1ef"
+msgid "ID=233890558"
+msgstr ""
+
+msgctxt "e7d25224eb31266db0dc2ca8fd942f9f"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 장갑.\\n릴리가 착용할 수 있다."
+msgstr ""
+
+msgctxt "57c4a0adb8d1607254db6c4ab9cd68d1"
+msgid "ID=233891158"
+msgstr ""
+
+msgctxt "d887c454c068ae355ae1ea0bdf394a89"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 스타킹.\\n릴리가 착용할 수 있다."
+msgstr ""
+
+msgctxt "f4d79f69f8a0c62cc727da703a719416"
+msgid "ID=233891258"
+msgstr ""
+
+msgctxt "094f42606e901a54eec31251bc0bf43a"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 신발.\\n릴리가 착용할 수 있다."
+msgstr ""
+
+msgctxt "774315fa5b2f2ff871853213e46f4aa2"
+msgid "ID=243780958"
+msgstr ""
+
+msgctxt "f9c2ac05874d6c1b84c8f08727d38c21"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n빙하기에 특출난 외모로 많은 이들을 "
+"사로잡은 왕자의 형상을 구체화 하여 디자인된 아름다운 복장의 의상.\\n진이 착용할 수 있다."
+msgstr ""
+
+msgctxt "326cfeb0f39d73c51165cc9946cf33f8"
+msgid "ID=243780558"
+msgstr ""
+
+msgctxt "d8eb04b35f32024b99cb10e9ff0919ab"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n빙하기에 특출난 외모로 많은 이들을 "
+"사로잡은 왕자의 형상을 구체화 하여 디자인된 아름다운 복장의 장갑.\\n진이 착용할 수 있다."
+msgstr ""
+
+msgctxt "0185047604c5db5d06d801222d7288e7"
+msgid "ID=243781258"
+msgstr ""
+
+msgctxt "5ae1ab8ca4b77b9c6112e8f34c9c6519"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n빙하기에 특출난 외모로 많은 이들을 "
+"사로잡은 왕자의 형상을 구체화 하여 디자인된 아름다운 복장의 신발.\\n진이 착용할 수 있다."
+msgstr ""
+
+msgctxt "b906229e25f0b1fe53d1d4b72829dce9"
+msgid "ID=253800258"
+msgstr ""
+
+msgctxt "409b5d32b2f4253a214bd17b89de4c53"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 왕관.\\n스텔라가 착용할 수 있다."
+msgstr ""
+
+msgctxt "6a33117e8f5ad58183298a4ed560b12f"
+msgid "ID=253800958"
+msgstr ""
+
+msgctxt "690aed8f086d54dfa2c9f9b461fc4489"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 의상.\\n스텔라가 착용할 수 있다."
+msgstr ""
+
+msgctxt "d09d0f540faa0a2e561b8ba984923a9e"
+msgid "ID=253800558"
+msgstr ""
+
+msgctxt "1d283afdd5f820b0e454adcd3858ae72"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 장갑.\\n스텔라가 착용할 수 있다."
+msgstr ""
+
+msgctxt "51c9d6d9f81e679f63957b7ad58c6ac2"
+msgid "ID=253801158"
+msgstr ""
+
+msgctxt "c9a2121b2ac537417c6d2e1dc5d7105a"
+msgid "[빙상의 요정] 오버니삭스"
+msgstr ""
+
+msgctxt "6b90b2f74af03c4523634854ace3a9a4"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 양말.\\n스텔라가 착용할 수 있다."
+msgstr ""
+
+msgctxt "6dbb0c4d843b97c18ddaa147bb2cf756"
+msgid "ID=253801258"
+msgstr ""
+
+msgctxt "f1633023e1c2c7183f7c94cf268beae3"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 신발.\\n스텔라가 착용할 수 있다."
+msgstr ""
+
+msgctxt "d7d59f52ef39713563a9f454d0ca5538"
+msgid "ID=263800258"
+msgstr ""
+
+msgctxt "cdf785474a0519f89c75d894b89c12d3"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 왕관.\\n이리스가 착용할 수 있다."
+msgstr ""
+
+msgctxt "7de71071151f6f5aa56db3f2f7bd04af"
+msgid "ID=263800958"
+msgstr ""
+
+msgctxt "4b83114660ef9a581aa9d66f80b5900c"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 의상.\\n이리스가 착용할 수 있다."
+msgstr ""
+
+msgctxt "969b17d58f498e3532074866ab32079c"
+msgid "ID=263800558"
+msgstr ""
+
+msgctxt "df6c44cdfd805c87843931b4a9c99ea5"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 장갑.\\n이리스가 착용할 수 있다."
+msgstr ""
+
+msgctxt "78b8b832611c2982b2b4ac4a339164a5"
+msgid "ID=263801158"
+msgstr ""
+
+msgctxt "920e61594a9b3475d57ab3e5b26705d4"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 스타킹.\\n이리스가 착용할 수 있다."
+msgstr ""
+
+msgctxt "c4959625d33e657b6d22899865d35caa"
+msgid "ID=263801258"
+msgstr ""
+
+msgctxt "55b13436c695170c0af3ec915691379e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n얼음의 위에서 마음껏 뛰노는 요정들의 "
+"형상을 구체화 하여 디자인된 아름다운 복장의 신발.\\n이리스가 착용할 수 있다."
+msgstr ""
+
+msgctxt "bfd9bf9791d11b276b990240125ecf92"
+msgid "ID=813810258"
+msgstr ""
+
+msgctxt "ca0cb7ec4bb951b56654ea29b51a0e4c"
+msgid "[밀봉][빙상의 요정] 크라운"
+msgstr ""
+
+msgctxt "68d198f112a8683c1eefd4481ce83b6e"
+msgid "[빙상의 요정] 크라운이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "e267e2b46ed0a2152aeb91ca2302b1ba"
+msgid "ID=813810958"
+msgstr ""
+
+msgctxt "451eec2598b53d48243c2b464e2dca82"
+msgid "[밀봉][빙상의 요정] 의상"
+msgstr ""
+
+msgctxt "ae2bf93d83c428c387d538888bf87241"
+msgid "[빙상의 요정] 의상이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "3be3b142757ebee7c737c6032450f82c"
+msgid "ID=813810558"
+msgstr ""
+
+msgctxt "a6acb1a9c0cf81213e2c6e8a69393656"
+msgid "[밀봉][빙상의 요정] 장갑"
+msgstr ""
+
+msgctxt "38f2b9edb769e4ae7ce58338d88cb5c6"
+msgid "[빙상의 요정] 장갑이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "63de30577556f74b34b161e6ce4da412"
+msgid "ID=813811158"
+msgstr ""
+
+msgctxt "656cd936e78070678d35629faeafc8ef"
+msgid "[밀봉][빙상의 요정] 스타킹"
+msgstr ""
+
+msgctxt "e8809f1402ff3ed1655859da4fbabe5f"
+msgid "[빙상의 요정] 스타킹이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "541f1fbd1ad43e9bab5cd618ae9bbc6b"
+msgid "ID=813811258"
+msgstr ""
+
+msgctxt "b54e98aedd687128dc30297cc605d92c"
+msgid "[밀봉][빙상의 요정] 신발"
+msgstr ""
+
+msgctxt "e1d5c42be08205ab7a6f97d0d68b55c5"
+msgid "[빙상의 요정] 신발이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "51114a18f57776ff051adf79efae86b9"
+msgid "ID=823810958"
+msgstr ""
+
+msgctxt "b86a0c40e78f2eea5d95d485d368e433"
+msgid "[밀봉][빙하의 왕자] 의상"
+msgstr ""
+
+msgctxt "5f27fd617a58191d3140a439f67aa37d"
+msgid "[빙하의 왕자] 의상이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "01038cf2c47c31d729b9296a9056c075"
+msgid "ID=823810558"
+msgstr ""
+
+msgctxt "c2de6e0749ef555e2dc0f7669a6ba523"
+msgid "[밀봉][빙하의 왕자] 장갑"
+msgstr ""
+
+msgctxt "eb1e8499f1aa7817d1cde15af315e30c"
+msgid "[빙하의 왕자] 장갑이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "a15475d83674ec483a17b93684e2fb2c"
+msgid "ID=823811258"
+msgstr ""
+
+msgctxt "a16b775766414902ab57964f18a04cde"
+msgid "[밀봉][빙하의 왕자] 신발"
+msgstr ""
+
+msgctxt "3c50e48049ecf898b3beb5cd793c32e3"
+msgid "[빙하의 왕자] 신발이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "4beb75f842d1279a713bf9649d2e8ce9"
+msgid "ID=833890258"
+msgstr ""
+
+msgctxt "3f1ea6b13b7d3b2f87a419a4c814e836"
+msgid "ID=833890958"
+msgstr ""
+
+msgctxt "668b4518b102c7eae6ef71d4009eb6bb"
+msgid "ID=833890558"
+msgstr ""
+
+msgctxt "41829fbc17b24b03451a4a9417d857f9"
+msgid "ID=833891158"
+msgstr ""
+
+msgctxt "d1c8b6c72f971d73af5dec76c8287824"
+msgid "ID=833891258"
+msgstr ""
+
+msgctxt "b21f2a5718a0734f1c59d7f0ae8ed13b"
+msgid "ID=843780958"
+msgstr ""
+
+msgctxt "93053a78afdd27f4f01fe20eade76ac3"
+msgid "ID=843780558"
+msgstr ""
+
+msgctxt "32d3acb2c2ebe18bdb7bdb3bb4069527"
+msgid "ID=843781258"
+msgstr ""
+
+msgctxt "d6919850b5d260bd17cf370123baf851"
+msgid "ID=853800258"
+msgstr ""
+
+msgctxt "3ebfcc4daf38e67413cd22f174d63deb"
+msgid "ID=853800958"
+msgstr ""
+
+msgctxt "06a2333445ce67af1cd896680c7cc486"
+msgid "ID=853800558"
+msgstr ""
+
+msgctxt "27ba14ecd60bff72ddf88c3d0b3d1e1e"
+msgid "ID=853801158"
+msgstr ""
+
+msgctxt "2a0bc02e9a01d2e8e4813f67589f7f6c"
+msgid "[밀봉][빙상의 요정] 오버니삭스"
+msgstr ""
+
+msgctxt "829dc9206d1fab3d7e9daa19485fef38"
+msgid "[빙상의 요정] 오버니삭스가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "b41e65ae21f8f845aea334e7003b24d2"
+msgid "ID=853801258"
+msgstr ""
+
+msgctxt "e3848a8f3ed47ab0c7042a42f2ec63c5"
+msgid "ID=863800258"
+msgstr ""
+
+msgctxt "b11425130c91cdff5205f30825507287"
+msgid "ID=863800958"
+msgstr ""
+
+msgctxt "0b1a5cf77d2bc3e35ce3dbd119f7d048"
+msgid "ID=863800558"
+msgstr ""
+
+msgctxt "95674076605afa9edcae1ae01a3a446c"
+msgid "ID=863801158"
+msgstr ""
+
+msgctxt "fe34b9c806e7edc6212ce37eeefa18d4"
+msgid "ID=863801258"
+msgstr ""
+
+msgctxt "e444d72d0023bfc85565497643bec5ba"
+msgid "ID=813810959"
+msgstr ""
+
+msgctxt "114d9b4f20bfc913bdf9004f22a575b1"
+msgid "[코스튬 박스] 하루의 빙상의 요정"
+msgstr ""
+
+msgctxt "ce1c8d927ea74baee2a7275effa67e62"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[빙상의 요정] 코스튬이 담긴 "
+"패키지로 해당 구성품은 하루만 착용할 수 있다.\\n\\n-구성품-\\n[빙상의 요정] 크라운 x 1\\n[빙상의 요정] 의상 x "
+"1\\n[빙상의 요정] 장갑 x 1\\n[빙상의 요정] 스타킹 x 1\\n[빙상의 요정] 신발 x 1"
+msgstr ""
+
+msgctxt "18ed1b36efad85a82026d22774a33544"
+msgid "ID=823810959"
+msgstr ""
+
+msgctxt "7640edb79acdce54ec7c636a054f8c6b"
+msgid "[코스튬 박스] 어윈의 빙하의 왕자"
+msgstr ""
+
+msgctxt "9b0d4ed9e33733f68087785f63be2d1e"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[빙하의 왕자] 코스튬이 담긴 "
+"패키지로 해당 구성품은 어윈만 착용할 수 있다.\\n\\n-구성품-\\n[빙하의 왕자] 의상 x 1\\n[빙하의 왕자] 장갑 x "
+"1\\n[빙하의 왕자] 신발 x 1"
+msgstr ""
+
+msgctxt "4baf6b5760ca115bf660d951d2b294e8"
+msgid "ID=833890959"
+msgstr ""
+
+msgctxt "78235552bd8163509323df705ef831d8"
+msgid "[코스튬 박스] 릴리의 빙상의 요정"
+msgstr ""
+
+msgctxt "0d82eb484d37d82614b408ce57d1f3e6"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[빙상의 요정] 코스튬이 담긴 "
+"패키지로 해당 구성품은 릴리만 착용할 수 있다.\\n\\n-구성품-\\n[빙상의 요정] 크라운 x 1\\n[빙상의 요정] 의상 x "
+"1\\n[빙상의 요정] 장갑 x 1\\n[빙상의 요정] 스타킹 x 1\\n[빙상의 요정] 신발 x 1"
+msgstr ""
+
+msgctxt "15c404ca26de5076f424e69d91eb098e"
+msgid "ID=843780959"
+msgstr ""
+
+msgctxt "52e466987499bda0c874b90632544e01"
+msgid "[코스튬 박스] 진의 빙하의 왕자"
+msgstr ""
+
+msgctxt "524a2c6ed4bc889559424561ac472344"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[빙하의 왕자] 코스튬이 담긴 "
+"패키지로 해당 구성품은 진만 착용할 수 있다.\\n\\n-구성품-\\n[빙하의 왕자] 의상 x 1\\n[빙하의 왕자] 장갑 x "
+"1\\n[빙하의 왕자] 신발 x 1"
+msgstr ""
+
+msgctxt "0dcde7d71b7aaff1f213e7d124105461"
+msgid "ID=853800959"
+msgstr ""
+
+msgctxt "368e2edf22bbef20512ca700031740b1"
+msgid "[코스튬 박스] 스텔라의 빙상의 요정"
+msgstr ""
+
+msgctxt "3dc9eeda40b8d89327b1d1f9800ae07f"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[빙상의 요정] 코스튬이 담긴 "
+"패키지로 해당 구성품은 스텔라만 착용할 수 있다.\\n\\n-구성품-\\n[빙상의 요정] 크라운 x 1\\n[빙상의 요정] 의상 x "
+"1\\n[빙상의 요정] 장갑 x 1\\n[빙상의 요정] 오버니삭스 x 1\\n[빙상의 요정] 신발 x 1"
+msgstr ""
+
+msgctxt "d906e1eec77de6c4b8acca979a473802"
+msgid "ID=863800959"
+msgstr ""
+
+msgctxt "2029b3e2db7c816b40060513eb8f90de"
+msgid "[코스튬 박스] 이리스의 빙상의 요정"
+msgstr ""
+
+msgctxt "11424a687f5718fb9f4bcbec73c891a4"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[빙상의 요정] 코스튬이 담긴 "
+"패키지로 해당 구성품은 이리스만 착용할 수 있다.\\n\\n-구성품-\\n[빙상의 요정] 크라운 x 1\\n[빙상의 요정] 의상 x "
+"1\\n[빙상의 요정] 장갑 x 1\\n[빙상의 요정] 스타킹 x 1\\n[빙상의 요정] 신발 x 1"
+msgstr ""
+
+msgctxt "30e176594a860cbc151fc38ddc2cebee"
+msgid "ID=999000100"
+msgstr ""
+
+msgctxt "ae5fb038c50ed6acc34c5f36d42a07f1"
+msgid "[1단계 재료] 장미"
+msgstr ""
+
+msgctxt "2db0e0e5ef97b0f9bd1bd7ee68e25746"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n화이트데이 칭호 아이템 제작에 "
+"필요한 재료.\\n"
+msgstr ""
+
+msgctxt "5d076e392b91096f9cdef7a1a87ec366"
+msgid "ID=999000101"
+msgstr ""
+
+msgctxt "61e543145db5536df54d64326d5b3d05"
+msgid "[1단계 재료] 만년필"
+msgstr ""
+
+msgctxt "0732335c62233cb559a80607cefd493a"
+msgid "ID=999000102"
+msgstr ""
+
+msgctxt "fac0d26ed303e37ca36e403ab4b871bc"
+msgid "[1단계 재료] 곰돌이"
+msgstr ""
+
+msgctxt "17ec32e61c18183ec0401c5bc03dade0"
+msgid "ID=999000103"
+msgstr ""
+
+msgctxt "9f5757675ca58351170ad08001695060"
+msgid "[1단계 재료] 디지털 카메라"
+msgstr ""
+
+msgctxt "fa8e0626f02c86b0d373464ccd00aeaa"
+msgid "ID=999000104"
+msgstr ""
+
+msgctxt "ef458f42e63fb5eecb81d1b9f283081f"
+msgid "[1단계 재료] 신용카드"
+msgstr ""
+
+msgctxt "3ac0e001b62d4d95471a96ec9c565ab7"
+msgid "ID=999000105"
+msgstr ""
+
+msgctxt "6c3aab32fef2f7cdcf6ad3c52b3d0b8a"
+msgid "[1단계 재료] 사탕 가루"
+msgstr ""
+
+msgctxt "118dd6d143619d3b656c8776d7b13100"
+msgid "ID=999000106"
+msgstr ""
+
+msgctxt "fec471c622ffcdeba0f7d3da601dd3db"
+msgid "[히든 재료] 보석"
+msgstr ""
+
+msgctxt "c40285dc06bb202e3035a5252be2c102"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n화이트데이 칭호 아이템 제작에 "
+"필요한 재료.\\n매우 낮은 확률로 획득할 수 있으며 분해하면 그루톤 코인을 획득할 수 있다."
+msgstr ""
+
+msgctxt "dd76080a4fd1a1d5d847857f218b6dd4"
+msgid "ID=999000107"
+msgstr ""
+
+msgctxt "2dad2364f619f48a9a71aaf2a2d71d17"
+msgid "[2단계 재료] 순수한 마음"
+msgstr ""
+
+msgctxt "02b4ff8f270e02fca7ea3384a83f774d"
+msgid "ID=999000108"
+msgstr ""
+
+msgctxt "6780865c745b657c7e748277b6df7cd8"
+msgid "[2단계 재료] 연애 편지"
+msgstr ""
+
+msgctxt "ad00fdf10fcddcc6ef8b63fd43bbb47a"
+msgid "ID=999000109"
+msgstr ""
+
+msgctxt "ba3aaefa379a14cc481155ffea43e3d8"
+msgid "[2단계 재료] 커플 목걸이"
+msgstr ""
+
+msgctxt "c0c76eab3f9df60c2b2156add38be514"
+msgid "ID=999000110"
+msgstr ""
+
+msgctxt "399e6a56d30aae869bcb408d258dd2bd"
+msgid "[2단계 재료] 사탕 세트"
+msgstr ""
+
+msgctxt "c195b90d139f5f32f3ccb35c6ab6e63a"
+msgid "ID=999000111"
+msgstr ""
+
+msgctxt "258c59ba91798123428cf17cee8ed997"
+msgid "[2단계 재료] 애인 사진"
+msgstr ""
+
+msgctxt "9ff5b42bda481736741758703cf35fd0"
+msgid "ID=999000112"
+msgstr ""
+
+msgctxt "d22bf2cc07157cd67b7e376b346040f5"
+msgid "[3단계 재료] 명품 지갑"
+msgstr ""
+
+msgctxt "f87980c4138d98189f7e3aa55f0ce163"
+msgid "ID=999000113"
+msgstr ""
+
+msgctxt "605df452a5fe5194c7b869903ec13216"
+msgid "[3단계 재료] 포이즌 피규어"
+msgstr ""
+
+msgctxt "505097a31b8a7c892972d36516f8c317"
+msgid "ID=999000114"
+msgstr ""
+
+msgctxt "21f8eeda8872cd402069195ff45b2287"
+msgid "[3단계 재료] 연애 일기"
+msgstr ""
+
+msgctxt "9864f7e0123d108780b4354c9ea36096"
+msgid "ID=999000115"
+msgstr ""
+
+msgctxt "3f655932f3cfe3ff500dc8b48f5ff08f"
+msgid "[3단계 재료] 100일 케익"
+msgstr ""
+
+msgctxt "4a0e0e1f37124396b11ef87e7b0295f7"
+msgid "ID=999000116"
+msgstr ""
+
+msgctxt "a6a60e56162c18f2c1d350a1a783388a"
+msgid "[3단계 재료] 향수"
+msgstr ""
+
+msgctxt "895c49746c0a6014f7e38de74335b640"
+msgid "ID=999000117"
+msgstr ""
+
+msgctxt "e637f93df536ed5b088adf7b63ab70b5"
+msgid "[히든 재료] 사랑의 묘약"
+msgstr ""
+
+msgctxt "efbb058e579a2ab30a9a404d5297d091"
+msgid "ID=999000118"
+msgstr ""
+
+msgctxt "883a08b55cb8a019a3fddd1edc3371a9"
+msgid "[칭호 : 접두] ♥"
+msgstr ""
+
+msgctxt "03150cfa74c25e52047f239459f28e04"
+msgid ""
+"<font color='#FFD700'>[색상 칭호 획득 아이템] 접두<font color='#9D927B'>\\n\\n화이트데이 재료를 "
+"교환하여 얻을 수 있는 칭호\\n\\n- 획득 칭호 -\\n<font color='#EADCDB'>♥</font>\\n\\n- 효과 -"
+"\\n치명타 피해 1000 증가\\n공격속도 3% 증가\\n최대 생명력 2500 증가"
+msgstr ""
+
+msgctxt "5a3d7dfca513de8cc31e36f49b96f3f3"
+msgid "ID=999000119"
+msgstr ""
+
+msgctxt "82ab20208567f7483ce22247e29976b3"
+msgid "[칭호 : 접두] 치명적인"
+msgstr ""
+
+msgctxt "0524159d07a4f6e50f2319ad6b07169b"
+msgid ""
+"<font color='#FFD700'>[칭호 획득 아이템] 접두<font color='#9D927B'>\\n\\n화이트데이 재료를 "
+"교환하여 얻을 수 있는 칭호\\n\\n- 획득 칭호 -\\n치명적인"
+msgstr ""
+
+msgctxt "97c50a1714e342df637122a026c6ff60"
+msgid "ID=999000120"
+msgstr ""
+
+msgctxt "65d241c1217b9e9c5fd47c38088c36bb"
+msgid "[칭호 : 접두] 사탕"
+msgstr ""
+
+msgctxt "00326f287f850eed07ec15ac9c4062be"
+msgid ""
+"<font color='#FFD700'>[색상 칭호 획득 아이템] 접두<font color='#9D927B'>\\n\\n화이트데이 재료를 "
+"교환하여 얻을 수 있는 칭호\\n\\n- 획득 칭호 -\\n<font color='#EADCDB'>사탕</font>"
+msgstr ""
+
+msgctxt "f0c9b964df2ca280ba7ad49635febc10"
+msgid "ID=999000121"
+msgstr ""
+
+msgctxt "2c07e9da3674d75ffce35d69a3c6e3b2"
+msgid "[칭호 : 접두] 러블리"
+msgstr ""
+
+msgctxt "bc3e5f2e3be5fc6301d70a555bfdb415"
+msgid ""
+"<font color='#FFD700'>[색상 칭호 획득 아이템] 접두<font color='#9D927B'>\\n\\n화이트데이 재료를 "
+"교환하여 얻을 수 있는 칭호\\n\\n- 획득 칭호 -\\n<font color='#FF00DD'>러블리</font>"
+msgstr ""
+
+msgctxt "1d0df24b8bacac6a24e9e02dc6f6b8a6"
+msgid "ID=999000122"
+msgstr ""
+
+msgctxt "0a3ba0252b5405a296c084284ed7726e"
+msgid "[칭호 : 접두] 부유한"
+msgstr ""
+
+msgctxt "aee7b46c6cf7cba82f7acff666ed6da7"
+msgid ""
+"<font color='#FFD700'>[칭호 획득 아이템] 접두<font color='#9D927B'>\\n\\n화이트데이 재료를 "
+"교환하여 얻을 수 있는 칭호\\n\\n- 획득 칭호 -\\n부유한"
+msgstr ""
+
+msgctxt "7313331499c7834adee92fcb1791ece6"
+msgid "ID=999000123"
+msgstr ""
+
+msgctxt "1aca0033460cf8aff6b8dbc3a8c74bb3"
+msgid "[칭호 : 접미] ♥"
+msgstr ""
+
+msgctxt "e3c782399e593f1defb8ad1d791ee295"
+msgid ""
+"<font color='#FFD700'>[색상 칭호 획득 아이템] 접미<font color='#9D927B'>\\n\\n화이트데이 재료를 "
+"교환하여 얻을 수 있는 칭호\\n\\n- 획득 칭호 -\\n<font color='#FF00DD'>♥</font>\\n\\n- 효과 -"
+"\\n치명타 피해 800 증가\\n공격속도 3% 증가\\n최대 생명력 2000 증가"
+msgstr ""
+
+msgctxt "e88550da0ab34b54c469f8f641e83c3a"
+msgid "ID=999000124"
+msgstr ""
+
+msgctxt "c2bedbc78fa7cb14776069692457a0b4"
+msgid "[칭호 : 접미] 화이트데이"
+msgstr ""
+
+msgctxt "ab2a7769505247a972e7566ee3396b13"
+msgid ""
+"<font color='#FFD700'>[색상 칭호 획득 아이템] 접미<font color='#9D927B'>\\n\\n화이트데이 재료를 "
+"교환하여 얻을 수 있는 칭호\\n\\n- 획득 칭호 -\\n<font color='#EADCDB'>화이트데이</font>"
+msgstr ""
+
+msgctxt "2f91cd5b631b955ee8a727ff7833b004"
+msgid "ID=999000125"
+msgstr ""
+
+msgctxt "af1df11f03750c48a54f4cad37f72b94"
+msgid "[칭호 : 접미] 저금통"
+msgstr ""
+
+msgctxt "e428b7654dd1dd4d7a8d6d9ddbe993d8"
+msgid ""
+"<font color='#FFD700'>[칭호 획득 아이템] 접미<font color='#9D927B'>\\n\\n화이트데이 재료를 "
+"교환하여 얻을 수 있는 칭호\\n\\n- 획득 칭호 -\\n저금통"
+msgstr ""
+
+msgctxt "802bf3c6202e2097835577c60fd0465b"
+msgid "ID=999000126"
+msgstr ""
+
+msgctxt "e7b1f60e79bcc7d1643b911ae77d2174"
+msgid "[칭호 : 접미] 수집광"
+msgstr ""
+
+msgctxt "6805affa39796b5bbe71eb59e135c62f"
+msgid ""
+"<font color='#FFD700'>[칭호 획득 아이템] 접미<font color='#9D927B'>\\n\\n화이트데이 재료를 "
+"교환하여 얻을 수 있는 칭호\\n\\n\\n- 획득 칭호 -\\n수집광"
+msgstr ""
+
+msgctxt "5319b78139e6013f231b78c5adb59385"
+msgid "ID=999000127"
+msgstr ""
+
+msgctxt "b07136c9773f3db8878c047d4c5d37d2"
+msgid "[칭호 : 접미] 큐피트"
+msgstr ""
+
+msgctxt "e1a08339ca707976c0de39a979eb6a96"
+msgid ""
+"<font color='#FFD700'>[색상 칭호 획득 아이템] 접미<font color='#9D927B'>\\n\\n화이트데이 재료를 "
+"교환하여 얻을 수 있는 칭호\\n\\n- 획득 칭호 -\\n<font color='#FF00DD'>큐피트</font>"
+msgstr ""
+
+msgctxt "65f92a2153c04090619aee919b47e908"
+msgid "ID=999000128"
+msgstr ""
+
+msgctxt "79d2cc541a988612f815ffa00e7227ca"
+msgid "화이트데이 사탕"
+msgstr ""
+
+msgctxt "12d4d1204698a8f09b1768c1da1225e3"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n화이트데이를 기념하기 위해 만든 "
+"사탕. 제니스에게서 화이트데이 재료상자로 교환 가능하다.\\n"
+msgstr ""
+
+msgctxt "b08629bb759f1707760233abf432d340"
+msgid "ID=999000129"
+msgstr ""
+
+msgctxt "0d47b0d46bc41c90baf488f44cfdbe67"
+msgid "밀수한 사탕 상자"
+msgstr ""
+
+msgctxt "5634496bba0f48d25b726ec34991675f"
+msgid ""
+"<font color='#FFBA85'>[물품 상자]<font color='#9D927B'>\\n\\n몰래 만들어 온 화이트데이 사탕을 "
+"획득 할 수 있는 상자\\n"
+msgstr ""
+
+msgctxt "f6d6244a193a68dc4059e609dde96baa"
+msgid "ID=999000130"
+msgstr ""
+
+msgctxt "6b3aaf1e27440ed62d71cf8ea3b3d830"
+msgid "화이트데이 재료상자"
+msgstr ""
+
+msgctxt "4f610a1b00b52461bdb2e30755596e64"
+msgid ""
+"<font color='#FFBA85'>[물품 상자]<font color='#9D927B'>\\n\\n화이트데이 이벤트 아이템 제작에 "
+"필요한 재료를 획득 할 수 있는 상자\\n"
+msgstr ""
+
+msgctxt "69c1bedfa050408125a5256dacab5e5d"
+msgid "ID=251521401"
+msgstr ""
+
+msgctxt "e48ec1f0f1856b7a4570395e6f29786d"
+msgid "[비상하는 희망의 투혼] 무기"
+msgstr ""
+
+msgctxt "51cfadd197e037d51adda8544b5d6d4d"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n스텔라가 본인의 에너지를 조금 더 효율적으로 "
+"활용하기 위하여 새로이 몸에 받아들인 힘을 효율적으로 사용할 수 있는 무기 아바타.\\n함께 싸우겠다고 결심한 자와 지켜보게 될 희망이 "
+"반영되어 있다."
+msgstr ""
+
+msgctxt "5072457fd15a804236ed1c8b2d5f07dd"
+msgid "ID=251821958"
+msgstr ""
+
+msgctxt "da83a0199c1776109f2d51444adb5d77"
+msgid "[비상하는 희망의 투혼] 헤어"
+msgstr ""
+
+msgctxt "fce812b1d203ae5d59e9bdccc2d6c373"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n새로운 힘을 가진 스텔라 유니벨이 성장한 "
+"모습을 최대한 반영하여 만들어진 헤어.\\n함께 싸우겠다고 결심한 자와 지켜보게 될 희망이 반영되어 있다."
+msgstr ""
+
+msgctxt "e2dee57c59beb6f2aaa45675b991063d"
+msgid "ID=251820958"
+msgstr ""
+
+msgctxt "4288379fe32a11f58362a56fda376e10"
+msgid "[비상하는 희망의 투혼] 의상"
+msgstr ""
+
+msgctxt "156d5ed8717abb7f9a2aa82a6d88388d"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n스텔라가 본인의 에너지를 조금 더 효율적으로 "
+"활용하기 위하여 새로이 몸에 받아들인 힘을 효율적으로 사용할 수 있는 의상.\\n함께 싸우겠다고 결심한 자와 지켜보게 될 희망이 반영되어 "
+"있다."
+msgstr ""
+
+msgctxt "4f2dd13c74b14967f1e9ca6c32559230"
+msgid "ID=251820558"
+msgstr ""
+
+msgctxt "52f80baec088fe263b60bbe50d1ba5ce"
+msgid "[비상하는 희망의 투혼] 장갑"
+msgstr ""
+
+msgctxt "87522cbb0f67a1eb9f1adc1b909e078f"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n스텔라가 본인의 에너지를 조금 더 효율적으로 "
+"활용하기 위하여 새로이 몸에 받아들인 힘을 효율적으로 사용할 수 있는 장갑.\\n함께 싸우겠다고 결심한 자와 지켜보게 될 희망이 반영되어 "
+"있다."
+msgstr ""
+
+msgctxt "6d86a2eed02444c4281d375128158bd0"
+msgid "ID=251821158"
+msgstr ""
+
+msgctxt "9d90c0f0886ef962db5a5bc1b67fded5"
+msgid "[비상하는 희망의 투혼] 오버니삭스"
+msgstr ""
+
+msgctxt "ff24867ce7f74176f058f57d579a25a2"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n스텔라가 본인의 에너지를 조금 더 효율적으로 "
+"활용하기 위하여 새로이 몸에 받아들인 힘을 효율적으로 사용할 수 있는 오버니삭스.\\n함께 싸우겠다고 결심한 자와 지켜보게 될 희망이 "
+"반영되어 있다."
+msgstr ""
+
+msgctxt "45e0cf6c61371a0c7ebc525cfe1c2096"
+msgid "ID=251821258"
+msgstr ""
+
+msgctxt "0ff82b5e82f3dd72a499d78c0df60fef"
+msgid "[비상하는 희망의 투혼] 신발"
+msgstr ""
+
+msgctxt "7886fdeb35b7adb28f834ee8e11af20a"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n스텔라가 본인의 에너지를 조금 더 "
+"효율적으로 활용하기 위하여 새로이 몸에 받아들인 힘을 효율적으로 사용할 수 있는 신발.\\n함께 싸우겠다고 결심한 자와 지켜보게 될 "
+"희망이 반영되어 있다."
+msgstr ""
+
+msgctxt "ee180d244bc2d59b6104fdedf63f408d"
+msgid "ID=851521401"
+msgstr ""
+
+msgctxt "9dd4989629840d5de5559bdded8bed23"
+msgid "[밀봉][비상하는 희망의 투혼] 무기"
+msgstr ""
+
+msgctxt "e58d5921f3ab7f889273c816d7cad9f4"
+msgid "[비상하는 희망의 투혼] 무기가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "29e4e60dee20b00346d72b96c01b0613"
+msgid "ID=851821958"
+msgstr ""
+
+msgctxt "1355281fac1a18f8da70a30c4ee4cfe7"
+msgid "[밀봉][비상하는 희망의 투혼] 헤어"
+msgstr ""
+
+msgctxt "02f2a6625052912208634bb0c2643866"
+msgid "[비상하는 희망의 투혼] 헤어가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "7f251de46ba3e271292c7d716be9c83b"
+msgid "ID=851820958"
+msgstr ""
+
+msgctxt "87c0737dce38b8cb1f15c44434519767"
+msgid "[밀봉][비상하는 희망의 투혼] 의상"
+msgstr ""
+
+msgctxt "39455f8fba3b5173f4102f1915215b4d"
+msgid "[비상하는 희망의 투혼] 의상이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "18aa8afeafbf34e2b9f09550dd688c13"
+msgid "ID=851820558"
+msgstr ""
+
+msgctxt "fe7c0cf6e7c85d9e22b3810030022f3f"
+msgid "[밀봉][비상하는 희망의 투혼] 장갑"
+msgstr ""
+
+msgctxt "3aba0c8cfd1739f2b71f0e7fd1605b71"
+msgid "[비상하는 희망의 투혼] 장갑이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "8092d45141c383e66c14393fd0f2b033"
+msgid "ID=851821158"
+msgstr ""
+
+msgctxt "bb54d366c940a65fca753b2c0d577103"
+msgid "[밀봉][비상하는 희망의 투혼] 오버니삭스"
+msgstr ""
+
+msgctxt "5af4469949c16a2e91b502e08cccc9e3"
+msgid "[비상하는 희망의 투혼] 오버니삭스가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "32d943a062fdee9813caedda3f2ab5d6"
+msgid "ID=851821258"
+msgstr ""
+
+msgctxt "b853b341631c986d1d364652efc1a8fd"
+msgid "[밀봉][비상하는 희망의 투혼] 신발"
+msgstr ""
+
+msgctxt "ca2bd46ecc6bf4311075fefb7f03abeb"
+msgid "[비상하는 희망의 투혼] 신발이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "0903844e60df18fdafa69a9498eea74d"
+msgid "ID=851820959"
+msgstr ""
+
+msgctxt "2dd292fa2d7991a98358a4437f01ef62"
+msgid "[코스튬 박스] 비상하는 희망의 투혼"
+msgstr ""
+
+msgctxt "b35c584f8762a48f67288d610b8f05d8"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[비상하는 희망의 투혼] "
+"코스튬이 담긴 패키지로 해당 구성품은 스텔라만 착용할 수 있다.\\n\\n-구성품-\\n[비상하는 희망의 투혼] 무기\\n[비상하는 "
+"희망의 투혼] 헤어\\n[비상하는 희망의 투혼] 의상\\n[비상하는 희망의 투혼] 장갑\\n[비상하는 희망의 투혼] "
+"오버니삭스\\n[비상하는 희망의 투혼] 신발"
+msgstr ""
+
+msgctxt "567231f7f09abfc01f275897fc883e45"
+msgid "ID=251521402"
+msgstr ""
+
+msgctxt "0deb72daf1e008f2305044cadb25c2d7"
+msgid "ID=251821957"
+msgstr ""
+
+msgctxt "a913fcd39f16d15ce9f675863ec7fc7b"
+msgid "ID=251820957"
+msgstr ""
+
+msgctxt "5cdba4fe339f43b9f0e2e63cf3125d4e"
+msgid "ID=251820557"
+msgstr ""
+
+msgctxt "af733648a5c05082bef06c2b68d3030b"
+msgid "ID=251821157"
+msgstr ""
+
+msgctxt "613f8de522b414850f95e893396fd2ed"
+msgid "ID=251821257"
+msgstr ""
+
+msgctxt "83fffa01d87ba7dc44da118a33a5a095"
+msgid "ID=851521402"
+msgstr ""
+
+msgctxt "474b1b815053e9dd6a34b66a13dc37d2"
+msgid "ID=851821957"
+msgstr ""
+
+msgctxt "e712e0a96dcdeb8b5ffe25235c8bf8a9"
+msgid "ID=851820957"
+msgstr ""
+
+msgctxt "065711e6972d6cb81ab645f2adebf383"
+msgid "ID=851820557"
+msgstr ""
+
+msgctxt "10855873f45492f54e5649b37872ba88"
+msgid "ID=851821157"
+msgstr ""
+
+msgctxt "c8925f89b6c39bdae70ec7348bb752cf"
+msgid "ID=851821257"
+msgstr ""
+
+msgctxt "beade1d3540ab2e703bcf73de0a3786a"
+msgid "ID=851820956"
+msgstr ""
+
+msgctxt "f273ae69c3b2b94268e8c5aee0502145"
+msgid "ID=837001108"
+msgstr ""
+
+msgctxt "5af0fa9f4cd058ef9ce81bb1ff6454ab"
+msgid "3월 인벤토리 확장패키지"
+msgstr ""
+
+msgctxt "2137a2e26c9ea1c3c4bff75b616131d4"
+msgid ""
+"<font color='#FFBA85'>[월간 패키지]<font color='#9D927B'>\\n\\n월간 패키지의 네 번째 시리즈로 "
+"인벤토리 확장용 보조 아이템 위주로 구성되어있다.\\n\\n[패키지 아이템]\\n-구성품-\\n인벤토리 확장권 x 2\\n은행 계정 창고 "
+"확장권 x 2\\n하트 폭죽 x 20"
+msgstr ""
+
+msgctxt "1b0644b4bf0189b478f9887a8a11841d"
+msgid "ID=837001109"
+msgstr ""
+
+msgctxt "f0fc645fa14c06d615c0721fa21100a0"
+msgid "화이트데이 선물박스"
+msgstr ""
+
+msgctxt "06e5a45dfb2560f945b36be5822504e4"
+msgid ""
+"<font color='#FFBA85'>[월간 패키지]<font color='#9D927B'>\\n\\n화이트데이를 기념하여 구성된 특별 "
+"패키지.\\n\\n[패키지 아이템]\\n-구성품-\\n보너스 카드키 랜덤박스 x 2\\n화이트데이 사탕 x 1000\\n하트 폭죽 x "
+"20"
+msgstr ""
+
+msgctxt "93f427b20e8a57f8b8ad73135faf7ee4"
+msgid "ID=837001110"
+msgstr ""
+
+msgctxt "befc990ab844fdf20f10be602c0e8d24"
+msgid "보너스 카드키 랜덤박스"
+msgstr ""
+
+msgctxt "737b2e37c771e42ae93ddfe30e9fe1e7"
+msgid ""
+"<font color='#FFBA85'>[물품 상자]<font color='#9D927B'>\\n\\n보너스 카드키를 얻을 수 있는 상자."
+" 화이트데이 선물박스에서 얻을 수 있다."
+msgstr ""
+
+msgctxt "079f5f43915f5468d204bf0a3eb53672"
+msgid "ID=837001111"
+msgstr ""
+
+msgctxt "2035988fb8ee70ff0dd2fd67b4037f93"
+msgid "4월 강화 지원 패키지"
+msgstr ""
+
+msgctxt "86ec13731af674814ffbdd6ac6cade69"
+msgid ""
+"<font color='#FFBA85'>[월간 패키지]<font color='#9D927B'>\\n\\n월간 패키지 시리즈로 강화 지원용 "
+"보조 아이템 위주로 구성되어있다.\\n\\n[패키지 아이템]\\n-구성품-\\n강화 파괴 방지장치 x 5\\n웨폰 익스텐션 x "
+"10\\n기어 익스텐션 x 10\\n봉인 스템프 x 1\\n강화 횟수 증가권 x 1"
+msgstr ""
+
+msgctxt "fb9347a69d636c48e65a548e6bbf4b67"
+msgid "ID=213830258"
+msgstr ""
+
+msgctxt "025b8240fcd6c5fe3151623c5e38b950"
+msgid "[음양의 기운] 머리장식"
+msgstr ""
+
+msgctxt "07a9962036856948af0d2bbc3ee6dd53"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 머리장식. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n하루가 착용할 수 있다"
+msgstr ""
+
+msgctxt "d7dbcf96853b5f9dcbfedc9e13e0719d"
+msgid "ID=213830958"
+msgstr ""
+
+msgctxt "1148a0396f6dff1b2c3f7624cb13e959"
+msgid "[음양의 기운] 의상"
+msgstr ""
+
+msgctxt "c7733d7f913c211b2f45781c2e76f292"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 의상. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n하루가 착용할 수 있다"
+msgstr ""
+
+msgctxt "bed7e03a236084c1ce7aea8045b41bf3"
+msgid "ID=213832058"
+msgstr ""
+
+msgctxt "c6ca13a39990bd5cb0e923a88695d4a9"
+msgid "[음양의 기운] 가면"
+msgstr ""
+
+msgctxt "bfc184024e192f25efeca27831d36ac0"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 가면. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n하루가 착용할 수 있다"
+msgstr ""
+
+msgctxt "5ab0f703de6629dfcc7f21e381e5fbb1"
+msgid "ID=213830558"
+msgstr ""
+
+msgctxt "996c9b76b3ecb0b4c5e31a7892adefc7"
+msgid "[음양의 기운] 장갑"
+msgstr ""
+
+msgctxt "de38c87ae03c9691ea69cf60fe63a252"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 장갑. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n하루가 착용할 수 있다"
+msgstr ""
+
+msgctxt "9d32dea93f3a39f88fd6077e0677e2dd"
+msgid "ID=213831158"
+msgstr ""
+
+msgctxt "cbbc8f2ed15b15f05f1ee823f3ccfd81"
+msgid "[음양의 기운] 오버니삭스"
+msgstr ""
+
+msgctxt "f686ce416933c52c4a9505f888061561"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 오버니삭스. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n하루가 착용할 수 있다"
+msgstr ""
+
+msgctxt "6412bdc51ea85f054551a3e19b741219"
+msgid "ID=213831258"
+msgstr ""
+
+msgctxt "e96f4502fc1ec1e46368ccff8eccc990"
+msgid "[음양의 기운] 조리"
+msgstr ""
+
+msgctxt "768cdc843adbc54971f644feff138018"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 조리. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n하루가 착용할 수 있다"
+msgstr ""
+
+msgctxt "e38d9a44fb9287d62ba4bd69c983ac56"
+msgid "ID=223830258"
+msgstr ""
+
+msgctxt "e107378a8805074340425ae322931a7d"
+msgid "[음양의 기운] 모자"
+msgstr ""
+
+msgctxt "de0581f553b42ef75eb17bf8df862fe0"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 모자. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n어윈이 착용할 수 있다"
+msgstr ""
+
+msgctxt "155f8e1e0d960c095f56dd02bddfb088"
+msgid "ID=223830958"
+msgstr ""
+
+msgctxt "cb4f2cca3d13cd4eae2df5f828376055"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 의상. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n어윈이 착용할 수 있다"
+msgstr ""
+
+msgctxt "aee06c7a3308a218c6a170747c739cf9"
+msgid "ID=223832058"
+msgstr ""
+
+msgctxt "86ff0a3b5d60c2cae58a76f68a1399a9"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 가면. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n어윈이 착용할 수 있다"
+msgstr ""
+
+msgctxt "bb5065e2fd8ebd15a6a37ac8b9227caf"
+msgid "ID=223830558"
+msgstr ""
+
+msgctxt "9828e415230c8eac7389effe0412c0aa"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 장갑. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n어윈이 착용할 수 있다"
+msgstr ""
+
+msgctxt "2d889b518992366f22b8205a16bc245c"
+msgid "ID=223831258"
+msgstr ""
+
+msgctxt "7a0c13938f69b46602c852df40f67882"
+msgid "[음양의 기운] 나막신"
+msgstr ""
+
+msgctxt "80237c7f89a78a861610c00767f73abd"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 나막신. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n어윈이 착용할 수 있다"
+msgstr ""
+
+msgctxt "dc566bb38ececddc7d497fc33cd264de"
+msgid "ID=233910258"
+msgstr ""
+
+msgctxt "651fcc20596fcc5e1caec8e8b642da95"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 머리장식. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n릴리가 착용할 수 있다"
+msgstr ""
+
+msgctxt "7ea290b21a2e294542f6ce034fcfac45"
+msgid "ID=233910958"
+msgstr ""
+
+msgctxt "88e811954809b5de27b78b611f982382"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 의상. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n릴리가 착용할 수 있다"
+msgstr ""
+
+msgctxt "e33272c96c2ec9fde705a10c628639e5"
+msgid "ID=233912058"
+msgstr ""
+
+msgctxt "876c0a3eeb69c7bbf61fa50f3056404a"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 가면. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n릴리가 착용할 수 있다"
+msgstr ""
+
+msgctxt "e64d9240840d3aac773da26aa5ee873a"
+msgid "ID=233910558"
+msgstr ""
+
+msgctxt "fc96a04953484f93fb4867dccb57e095"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 장갑. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n릴리가 착용할 수 있다"
+msgstr ""
+
+msgctxt "5851d3e0724ff63507bfd1f166be91fb"
+msgid "ID=233911158"
+msgstr ""
+
+msgctxt "10c6e05bdcdfd21be794f87c429c582e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 오버니삭스. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n릴리가 착용할 수 있다"
+msgstr ""
+
+msgctxt "e7fca061c5dbed072cc8c7799db44a6c"
+msgid "ID=233911258"
+msgstr ""
+
+msgctxt "48cadff299b50ef6c4cce3b571a6b6af"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 조리. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n릴리가 착용할 수 있다"
+msgstr ""
+
+msgctxt "2f8d3da6cfa0bec564d829f273fa8e3c"
+msgid "ID=243800258"
+msgstr ""
+
+msgctxt "adb1d5feaeaf1715eb79c9c18f510622"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 모자. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n진이 착용할 수 있다"
+msgstr ""
+
+msgctxt "a053126084e220fae6ccc6a4b60c29b9"
+msgid "ID=243800958"
+msgstr ""
+
+msgctxt "db2ccd0fcc57d18cf41b46dfc2571a89"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 의상. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n진이 착용할 수 있다"
+msgstr ""
+
+msgctxt "3fd171b4546e7b9d3e335742a2b31672"
+msgid "ID=243802058"
+msgstr ""
+
+msgctxt "eec906cc4a685022e72e7ecfda571b96"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 가면. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n진이 착용할 수 있다"
+msgstr ""
+
+msgctxt "19e0f233c9f2aa96c15074859316b7d3"
+msgid "ID=243800558"
+msgstr ""
+
+msgctxt "0ce6f87f4eb656779863200bff1f9c8b"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 장갑. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n진이 착용할 수 있다"
+msgstr ""
+
+msgctxt "48f9b92cb18692a3f8016ba8f4cbafb2"
+msgid "ID=243801258"
+msgstr ""
+
+msgctxt "0fc478ad19412e74cd7b4f3b0921a0ae"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 나막신. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n진이 착용할 수 있다"
+msgstr ""
+
+msgctxt "7017eed66bf0f12c4209bbf8a6389111"
+msgid "ID=253840258"
+msgstr ""
+
+msgctxt "ab79c72324e8d6b9c3915d5189476e0d"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 머리장식. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n스텔라가 착용할 수 있다"
+msgstr ""
+
+msgctxt "3868b2edd3cb2f41dc12d892b06f1b56"
+msgid "ID=253840958"
+msgstr ""
+
+msgctxt "7f6e85de1604d8f158eeb5e86bd6ba74"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 의상. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n스텔라가 착용할 수 있다"
+msgstr ""
+
+msgctxt "f33749a44b0dc62e9291768d507a5271"
+msgid "ID=253842058"
+msgstr ""
+
+msgctxt "8cb7db0dd02b0933a3c8d7524f52f960"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 가면. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n스텔라가 착용할 수 있다"
+msgstr ""
+
+msgctxt "621b7ba1adab72a06a603dd7570b6a2f"
+msgid "ID=253840558"
+msgstr ""
+
+msgctxt "13f88c5a5e698158f4446c0d56476259"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 장갑. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n스텔라가 착용할 수 있다"
+msgstr ""
+
+msgctxt "ec32dcec6a5842241f01899bd3221d20"
+msgid "ID=253841158"
+msgstr ""
+
+msgctxt "e07e1dba15b7d9a1b6f2f386229c5909"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 오버니삭스. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n스텔라가 착용할 수 있다"
+msgstr ""
+
+msgctxt "33829111be066e9103786902976b4f67"
+msgid "ID=253841258"
+msgstr ""
+
+msgctxt "c51ee3a9f07f885e5c5d601900305223"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 조리. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n스텔라가 착용할 수 있다"
+msgstr ""
+
+msgctxt "4d8b618976ab2ac24cbe57cab521e086"
+msgid "ID=263820258"
+msgstr ""
+
+msgctxt "dd4b94d7c00ad14f2559703dcfa4de07"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 머리장식. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n이리스가 착용할 수 있다"
+msgstr ""
+
+msgctxt "5ae628fa99fac12bf7a6773a3ce1a040"
+msgid "ID=263820958"
+msgstr ""
+
+msgctxt "4040e2567f0ec80d912859b2ba45d35c"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 의상. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n이리스가 착용할 수 있다"
+msgstr ""
+
+msgctxt "930df16178c41a17918150e4fcb24429"
+msgid "ID=263822058"
+msgstr ""
+
+msgctxt "98b78fa2eaa80a32e4c54e119d066edc"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 가면. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n이리스가 착용할 수 있다"
+msgstr ""
+
+msgctxt "4a593a6f54ba6ad3554d2f7b201402fb"
+msgid "ID=263820558"
+msgstr ""
+
+msgctxt "7097194e2d8bb6be9c38bd64077987a3"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 장갑. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n이리스가 착용할 수 있다"
+msgstr ""
+
+msgctxt "2ab146cf7d1a4e0638c424ded3f40401"
+msgid "ID=263821158"
+msgstr ""
+
+msgctxt "4eb6fa32496f68cecf331bbdd11a6279"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 오버니삭스. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n이리스가 착용할 수 있다"
+msgstr ""
+
+msgctxt "a1ef8a2840739babc7aa40f4ad5beb4c"
+msgid "ID=263821258"
+msgstr ""
+
+msgctxt "744939b075e75d36c36a4405ff002037"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n제3의 에너지라 불리는 영력을 끌어내는데 가장 "
+"이상적인 조리. 유령이 살짝 보이게 되는 정도여서 전투에 이용할만한 잠재력은 없다.\\n이리스가 착용할 수 있다"
+msgstr ""
+
+msgctxt "2f56e440b4012de8404d33da6a020d8a"
+msgid "ID=813830258"
+msgstr ""
+
+msgctxt "5799769ee19020c737c7438f6ef80cbd"
+msgid "[밀봉][음양의 기운] 머리장식"
+msgstr ""
+
+msgctxt "ea1ade88fe0c02460183b65f545501c4"
+msgid "[음양의 기운] 머리장식이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "4200bbfa776405b3b64c95e88210ba2d"
+msgid "ID=813830958"
+msgstr ""
+
+msgctxt "f37f1ffcddbc45ada6c8c7bc3034e5fc"
+msgid "[밀봉][음양의 기운] 의상"
+msgstr ""
+
+msgctxt "c5dc585e24776bb3c0fdb9a875a07b23"
+msgid "[음양의 기운] 의상이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "220044e1742816d04bfb87242b3daa91"
+msgid "ID=813832058"
+msgstr ""
+
+msgctxt "5c72b2a58bc4580851f849827ba97efc"
+msgid "[밀봉][음양의 기운] 가면"
+msgstr ""
+
+msgctxt "a846edb5de652da6962707dc936ba9d3"
+msgid "[음양의 기운] 가면이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "c6a75f06892e71ef5335e1d1004c09ad"
+msgid "ID=813830558"
+msgstr ""
+
+msgctxt "fcbd096335c58d6e3e19c313be501b09"
+msgid "[밀봉][음양의 기운] 장갑"
+msgstr ""
+
+msgctxt "55eadff6499232e98a616e04b93aa178"
+msgid "[음양의 기운] 장갑이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "d8373e57849d5c1e54635a7a82c3cf4f"
+msgid "ID=813831158"
+msgstr ""
+
+msgctxt "b9fa3bb5ff08d7946f73289dc1413ad2"
+msgid "[밀봉][음양의 기운] 오버니삭스"
+msgstr ""
+
+msgctxt "f38c56d1a1a6a9ae18305b4ab4029cdf"
+msgid "[음양의 기운] 오버니삭스가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "34506d1696cff7c3d0674d6ade317921"
+msgid "ID=813831258"
+msgstr ""
+
+msgctxt "61dfb160a9c71835c13c8b68fc55ceaa"
+msgid "[밀봉][음양의 기운] 조리"
+msgstr ""
+
+msgctxt "229a06617af71976805cd572a3b0e72d"
+msgid "[음양의 기운] 조리가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "c9f2b9991b1b11c1fbfa1906dedd6ed4"
+msgid "ID=823830258"
+msgstr ""
+
+msgctxt "8f0b2d30b24572fffa0b7499391514ce"
+msgid "[밀봉][음양의 기운] 모자"
+msgstr ""
+
+msgctxt "53a516b96574d761e9376e11415a6cb1"
+msgid "[음양의 기운] 모자가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "33d21d3ab41f060bf9e9a530dfe1a5ff"
+msgid "ID=823830958"
+msgstr ""
+
+msgctxt "d0d0ddb1e92ca1ee5e3ce545c9979679"
+msgid "ID=823832058"
+msgstr ""
+
+msgctxt "460205b6dd0965509f3165f021e7b4ed"
+msgid "ID=823830558"
+msgstr ""
+
+msgctxt "c5f998ffa0d30a889176aa263b420e77"
+msgid "ID=823831258"
+msgstr ""
+
+msgctxt "3d77992a0598c75613a0b2be59c040b4"
+msgid "[밀봉][음양의 기운] 나막신"
+msgstr ""
+
+msgctxt "405382a233e5bd19554a91a4935dadc4"
+msgid "[음양의 기운] 나막신이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "eebc68d92a8f47a1e8a8ec569a38ece7"
+msgid "ID=833910258"
+msgstr ""
+
+msgctxt "17b8441de58c7d3cb2d49ed69ec8c816"
+msgid "ID=833910958"
+msgstr ""
+
+msgctxt "276a610e64ae2f844b6676c77df3737e"
+msgid "ID=833912058"
+msgstr ""
+
+msgctxt "bda8cf752fbc3875191eeaf6e639b41b"
+msgid "ID=833910558"
+msgstr ""
+
+msgctxt "3f5e102e0d0245a885ea3e1620477879"
+msgid "ID=833911158"
+msgstr ""
+
+msgctxt "d99e392e712bd35bb2d8939d864786b0"
+msgid "ID=833911258"
+msgstr ""
+
+msgctxt "4764905599e55d1c3a986c66f9d19519"
+msgid "ID=843800258"
+msgstr ""
+
+msgctxt "7a5abb92ba376e6e521efa22f21579d3"
+msgid "ID=843800958"
+msgstr ""
+
+msgctxt "9bd23cfa019caf02bcef1894c0ecc068"
+msgid "ID=843802058"
+msgstr ""
+
+msgctxt "7fa8f47e3c0928c6f3830570bbf2a550"
+msgid "ID=843800558"
+msgstr ""
+
+msgctxt "9eb05308e59847bfe779abf4e1bf6cd8"
+msgid "ID=843801258"
+msgstr ""
+
+msgctxt "239d7109aa70a874db065bdd625741a5"
+msgid "ID=853840258"
+msgstr ""
+
+msgctxt "d1896345862089b7e74f406098bc8383"
+msgid "ID=853840958"
+msgstr ""
+
+msgctxt "df218120f155e4579b35e3e58b48a455"
+msgid "ID=853842058"
+msgstr ""
+
+msgctxt "4d77920acc6c7564c0df702511a1d4a3"
+msgid "ID=853840558"
+msgstr ""
+
+msgctxt "99c5c432d6b5bc335798ac0ca8808690"
+msgid "ID=853841158"
+msgstr ""
+
+msgctxt "c487daadada5eeabbb8c6b30ff824877"
+msgid "ID=853841258"
+msgstr ""
+
+msgctxt "5ba0537f20fbd51ada784b47aee0f30f"
+msgid "ID=863820258"
+msgstr ""
+
+msgctxt "6daba0a1b0d1e9703d6214c8ff465c34"
+msgid "ID=863820958"
+msgstr ""
+
+msgctxt "8b0016366c9ce772155dc115f29bee2b"
+msgid "ID=863822058"
+msgstr ""
+
+msgctxt "d3ef26c9fe96d5c9b47f48070443c93d"
+msgid "ID=863820558"
+msgstr ""
+
+msgctxt "0807996d78c3765f368f0fb812ce2f57"
+msgid "ID=863821158"
+msgstr ""
+
+msgctxt "38c188cfc20d77aceebfe201d9ef3481"
+msgid "ID=863821258"
+msgstr ""
+
+msgctxt "ce86571e6051c8ccb1db373ff60790ad"
+msgid "ID=813830959"
+msgstr ""
+
+msgctxt "92a2102d106fc5354095565f2f385eed"
+msgid "[코스튬 박스] 하루의 음양의 기운"
+msgstr ""
+
+msgctxt "2d5499cfd5b871a454996ea7426dd422"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[음양의 기운] 코스튬이 담긴 "
+"패키지로 해당 구성품은 하루만 착용할 수 있다.\\n\\n-구성품-\\n[음양의 기운] 머리장식\\n[음양의 기운] 의상\\n[음양의 "
+"기운] 가면\\n[음양의 기운] 장갑\\n[음양의 기운] 오버니삭스\\n[음양의 기운] 조리"
+msgstr ""
+
+msgctxt "35b8b2764f4ea10e69f17fc319cb64b1"
+msgid "ID=823830959"
+msgstr ""
+
+msgctxt "3fbf3c4f6f373bf7774d90b9b753c7d6"
+msgid "[코스튬 박스] 어윈의 음양의 기운"
+msgstr ""
+
+msgctxt "1e53728a49e62aa5e572e8cabea288f4"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[음양의 기운] 코스튬이 담긴 "
+"패키지로 해당 구성품은 어윈만 착용할 수 있다.\\n\\n-구성품-\\n[음양의 기운] 모자\\n[음양의 기운] 의상\\n[음양의 기운] "
+"가면\\n[음양의 기운] 장갑\\n[음양의 기운] 나막신"
+msgstr ""
+
+msgctxt "477e75c3410050493c46af8d5e261802"
+msgid "ID=833910959"
+msgstr ""
+
+msgctxt "c8e47fa645da7dc12b5c318d68099b15"
+msgid "[코스튬 박스] 릴리의 음양의 기운"
+msgstr ""
+
+msgctxt "3a7af581f8a99f0f869053022a5f3fa2"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[음양의 기운] 코스튬이 담긴 "
+"패키지로 해당 구성품은 릴리만 착용할 수 있다.\\n\\n-구성품-\\n[음양의 기운] 머리장식\\n[음양의 기운] 의상\\n[음양의 "
+"기운] 가면\\n[음양의 기운] 장갑\\n[음양의 기운] 오버니삭스\\n[음양의 기운] 조리"
+msgstr ""
+
+msgctxt "f2aa7166f21da3093a793e444cf03f52"
+msgid "ID=843800959"
+msgstr ""
+
+msgctxt "6c9f9e03b0bc5e6869691f7081a302ea"
+msgid "[코스튬 박스] 진의 음양의 기운"
+msgstr ""
+
+msgctxt "e6fff41542a4254501a1def30c53b7b3"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[음양의 기운] 코스튬이 담긴 "
+"패키지로 해당 구성품은 진만 착용할 수 있다.\\n\\n-구성품-\\n[음양의 기운] 모자\\n[음양의 기운] 의상\\n[음양의 기운] "
+"가면\\n[음양의 기운] 장갑\\n[음양의 기운] 나막신"
+msgstr ""
+
+msgctxt "10f5677c58adfd80dc6f7498f95f4463"
+msgid "ID=853840959"
+msgstr ""
+
+msgctxt "7167a6d59088b6179a159a257741363b"
+msgid "[코스튬 박스] 스텔라의 음양의 기운"
+msgstr ""
+
+msgctxt "cd79fdbfa89f457532f60e97506cb2bb"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[음양의 기운] 코스튬이 담긴 "
+"패키지로 해당 구성품은 스텔라만 착용할 수 있다.\\n\\n-구성품-\\n[음양의 기운] 머리장식\\n[음양의 기운] 의상\\n[음양의 "
+"기운] 가면\\n[음양의 기운] 장갑\\n[음양의 기운] 오버니삭스\\n[음양의 기운] 조리"
+msgstr ""
+
+msgctxt "284d91fd5c82cf8e07c56210a640b108"
+msgid "ID=863820959"
+msgstr ""
+
+msgctxt "949956c04d2124fab4a288a164833e90"
+msgid "[코스튬 박스] 이리스의 음양의 기운"
+msgstr ""
+
+msgctxt "024b52ff6f9132f83039a68c69404124"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[음양의 기운] 코스튬이 담긴 "
+"패키지로 해당 구성품은 이리스만 착용할 수 있다.\\n\\n-구성품-\\n[음양의 기운] 머리장식\\n[음양의 기운] 의상\\n[음양의 "
+"기운] 가면\\n[음양의 기운] 장갑\\n[음양의 기운] 오버니삭스\\n[음양의 기운] 조리"
+msgstr ""
+
+msgctxt "41630f0d015e4a0c3463be1985e21944"
+msgid "ID=600000010"
+msgstr ""
+
+msgctxt "761da542ea153c59256f95e4e056cb2f"
+msgid "[소셜 아이템] 벚꽃 돗자리 [60분]"
+msgstr ""
+
+msgctxt "ed5f4592ddd26c7d2a21ba09bb2af887"
+msgid ""
+"<font color='#FFBA85'>[소셜 아이템] 디스트릭트에서 사용 가능. 바닥에 앉아서 편히 쉰다. 1분당 1의 행동력 회복. "
+"사용시간 60분<font color='#9D927B'>\\n\\n산뜻한 봄기운을 물씬 풍기는 벚꽃의 그림이 그려진 돗자리. 봄바람에 "
+"떨어져 쌓인 벚꽃잎 침대에 누운 기분을 느낄 수 있다."
+msgstr ""
+
+msgctxt "1024f3ad7fcc07b76b03a92a1754b1e4"
+msgid "ID=999000133"
+msgstr ""
+
+msgctxt "b2e85b74c587f51913a199137a799298"
+msgid "사탕 가루"
+msgstr ""
+
+msgctxt "775429b334152c3def2a55a888f779f9"
+msgid ""
+"<font color='#FFBA85'>[이벤트 아이템]<font color='#9D927B'>\\n\\n맛보면 아주 단맛이 나는 사탕 "
+"가루.\\n제니스를 통해 다양한 아이템을 교환할 수 있으며, 사탕 액세서리 강화에도 사용된다."
+msgstr ""
+
+msgctxt "6284d0d1e8f7150058056d0c8fe2df83"
+msgid "ID=999000134"
+msgstr ""
+
+msgctxt "71adfff8549ab8f603c6d6ce8ecbd6d4"
+msgid "화이트데이 선물상자"
+msgstr ""
+
+msgctxt "411f39e62e839edb929b4f579e72cd53"
+msgid ""
+"<font color='#FFBA85'>[이벤트 랜덤박스]<font color='#9D927B'>\\n\\n화이트데이를 기념하여 제작한 "
+"다양한 선물이 들어있는 상자.\\n선물을 너무 많이 준비하다보니 무엇이 들어있는지 분류가 되지 않았다."
+msgstr ""
+
+msgctxt "73fd698dc2452f202cc4103ece1d776e"
+msgid "ID=999000135"
+msgstr ""
+
+msgctxt "8763c8da829042da621498f367a732ed"
+msgid "상큼한 사탕 반지"
+msgstr ""
+
+msgctxt "6fd149d9ceb413ebb9c423172f666dd7"
+msgid ""
+"<font color='#FFBA85'>[이벤트 링]<font color='#9D927B'>\\n\\n거대한 사탕 보석이 박혀있는 반지."
+"\\n사탕가루를 사용해 더욱 단단하게 강화할 수 있다."
+msgstr ""
+
+msgctxt "54658ad8bd273f6218295dc43e95b9a3"
+msgid "ID=999000136"
+msgstr ""
+
+msgctxt "5a13cec13bec2d0c9f4034e06ee73362"
+msgid "달콤한 사탕 반지"
+msgstr ""
+
+msgctxt "45c7a5e5de3a6f50266a9487155db987"
+msgid "ID=999000137"
+msgstr ""
+
+msgctxt "c2f12e899b0687f0f386778a694552b5"
+msgid "화려한 사탕 귀걸이"
+msgstr ""
+
+msgctxt "58cde13d02f6413f805b8787c2c848cc"
+msgid ""
+"<font color='#FFBA85'>[이벤트 이어링]<font color='#9D927B'>\\n\\n화려하게 장식된 사탕으로 만든 "
+"귀걸이.\\n사탕가루를 사용해 더욱 단단하게 강화할 수 있다."
+msgstr ""
+
+msgctxt "1fdc5e7fffe5b6e6f6e93cfd235fd258"
+msgid "ID=999000138"
+msgstr ""
+
+msgctxt "a58ec9b528e271d7d6b66ade9ebe185a"
+msgid "알록달록 사탕 목걸이"
+msgstr ""
+
+msgctxt "8af5d691b668cac61c47201dc59aba8f"
+msgid ""
+"<font color='#FFBA85'>[이벤트 팬던트]<font color='#9D927B'>\\n\\n다양한 색상의 사탕을 이어서 "
+"만든 목걸이.\\n사탕가루를 사용해 더욱 단단하게 강화할 수 있다.\\n"
+msgstr ""
+
+msgctxt "91526deeb31ce1abb2637f85ccd8e98b"
+msgid "ID=999000139"
+msgstr ""
+
+msgctxt "25d137a861a75d0769b7284da729d481"
+msgid "딸기맛 사탕"
+msgstr ""
+
+msgctxt "d38af822023d11b5a8140f7153e6cd43"
+msgid ""
+"<font color='#FFBA85'>[이벤트 HP 회복 아이템] 700의 HP를 즉시 회복. 쿨타임 1초<font color="
+"'#9D927B'>\\n\\n먹으면 달콤한 딸기맛이 나는 과일맛 사탕."
+msgstr ""
+
+msgctxt "9d472a07937d533337ef3c64789efd07"
+msgid "ID=999000140"
+msgstr ""
+
+msgctxt "0b7744b3548250871b9a5fd55b1adfe5"
+msgid "오렌지맛 사탕"
+msgstr ""
+
+msgctxt "b16c43e9587a859057931456eff4a408"
+msgid ""
+"<font color='#FFBA85'>[이벤트 HP 회복 아이템] 2100의 HP를 즉시 회복. 쿨타임 1초<font color="
+"'#9D927B'>\\n\\n먹으면 상큼한 오렌지맛이 나는 과일맛 사탕."
+msgstr ""
+
+msgctxt "63c101d16029ee0c5f4a14c47f8c2440"
+msgid "ID=999000141"
+msgstr ""
+
+msgctxt "dea6961aab06cc410ab2201f3655a213"
+msgid "파인애플맛 사탕"
+msgstr ""
+
+msgctxt "9ef3d47a909e6901db5938d50980d7c7"
+msgid ""
+"<font color='#FFBA85'>[이벤트 HP 회복 아이템] 6300의 HP를 즉시 회복. 쿨타임 1초<font color="
+"'#9D927B'>\\n\\n먹으면 상큼한 파인애플맛이 나는 과일맛 사탕."
+msgstr ""
+
+msgctxt "99ad3a10a5d2a379a758af9878ac279a"
+msgid "ID=999000142"
+msgstr ""
+
+msgctxt "ae1ac8dfec2c3752eef28a6e09fe8b7d"
+msgid "사탕 나무 씨앗"
+msgstr ""
+
+msgctxt "58a3fd06e3fc739be51f74bb395a46bf"
+msgid ""
+"<font color='#FFBA85'>[이벤트 재배 아이템]<font color='#9D927B'>\\n\\n대량의 사탕 가루를 획득할 "
+"수 있는 사탕 나무 씨앗.\\n마이룸에서 재배할 수 있다.\\n<font color='#FF0000'>영양제 사용 시, 작물 재배 시간 "
+"100%감소</font>"
+msgstr ""
+
+msgctxt "c95459c9ecf1c449e227760d61dcbb37"
+msgid "ID=999000143"
+msgstr ""
+
+msgctxt "4b3f01584ca33d5e83b7703fe5df55ac"
+msgid "화이트데이 패키지"
+msgstr ""
+
+msgctxt "b8055ded3b4b1c01901c18996edfe572"
+msgid ""
+"<font color='#FFBA85'>[이벤트 패키지]<font color='#9D927B'>\\n\\n화이트데이를 기념하여 제작한 "
+"패키지.\\n저련한 가격에 다양한 구성품이 들어있다.\\n\\n-구성품-\\n영양제 x 1\\n하트폭죽 x 10\\n사탕가루 x 100"
+msgstr ""
+
+msgctxt "b865c38dff3657de0980eb7002fa88af"
+msgid "ID=999000144"
+msgstr ""
+
+msgctxt "a5ae334abbd4db106c4bc768ad0223c8"
+msgid "사탕 가루 특선 패키지"
+msgstr ""
+
+msgctxt "8defc575448180267c13fd7a9c877e3b"
+msgid ""
+"<font color='#FFBA85'>[이벤트 패키지]<font color='#9D927B'>\\n\\n대량의 사탕 가루가 필요한 "
+"이들을 위해 특별히 제작한 패키지.\\n\\n-구성품-\\n보너스카드키 x 30\\n사탕가루 x 2000"
+msgstr ""
+
+msgctxt "ff9aa0034db303d25569dc80c4ad9dd5"
+msgid "ID=800000052"
+msgstr ""
+
+msgctxt "3016c74ca08c033d264b22c5f3951717"
+msgid "[밀봉][소셜 아이템] 벚꽃 돗자리 [60분]"
+msgstr ""
+
+msgctxt "95334475e44a95407894e54a86d19d82"
+msgid "[소셜 아이템] 벚꽃 돗자리 [60분]이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "4b2e900e9c3688dacfa7d30f90cfd409"
+msgid "ID=999000145"
+msgstr ""
+
+msgctxt "308e3c4bb2f5aa147d6457646f0c58f7"
+msgid "그루톤표 밀가루"
+msgstr ""
+
+msgctxt "86ae87925d578d2affc1f3c39e0082b4"
+msgid ""
+"<font color='#FFBA85'>[이벤트 아이템]<font color='#9D927B'>\\n\\n그루톤 월드에서 자란 밀로 만든 "
+"밀가루.\\n그루톤 코인샵에서 구매할 수 있다."
+msgstr ""
+
+msgctxt "c1e37d076f0395fdd823a40b1a1938d1"
+msgid "ID=999000146"
+msgstr ""
+
+msgctxt "c7b03e2390aa4efa7b117c9606981ef2"
+msgid "파스타 면"
+msgstr ""
+
+msgctxt "b7f880555781f1d94615d74c594528b3"
+msgid ""
+"<font color='#FFBA85'>[이벤트 아이템]<font color='#9D927B'>\\n\\n그루톤표 밀가루로 만든 파스타 "
+"면.\\n파스타를 만드는데에 없어서는 안될 재료."
+msgstr ""
+
+msgctxt "f5e57a780a22967622fbee6d7876c34b"
+msgid "ID=999000147"
+msgstr ""
+
+msgctxt "fbcec9954074185a76d261c5b66df9a0"
+msgid "샐러드"
+msgstr ""
+
+msgctxt "52f13afbb6b6f9d0e891e484e6c04ef5"
+msgid ""
+"<font color='#FFBA85'>[SG 회복 이벤트 아이템] 35%의 SG를 즉시 회복. 쿨타임 4초<font color="
+"'#9D927B'>\\n\\n여러 재료를 넣어 만든 샐러드.\\n신선한 재료들의 맛이 어우러져 맛이 좋아보인다."
+msgstr ""
+
+msgctxt "25dd26b8992e019f5227140f0965dd47"
+msgid "ID=999000148"
+msgstr ""
+
+msgctxt "6177a34b1e9cd6e54cbfc73bb53685d8"
+msgid "토마토 파스타"
+msgstr ""
+
+msgctxt "7476d95be1625ef9f101352d93a1c463"
+msgid ""
+"<font color='#FFBA85'>[HP 회복 이벤트 아이템] 7000의 HP를 즉시 회복. 쿨타임 4초<font color="
+"'#9D927B'>\\n\\n여러 재료를 넣어 만든 토마토 파스타.\\n신선한 재료들의 맛이 어우러져 맛이 좋아보인다."
+msgstr ""
+
+msgctxt "3d86ae1be5798b73fbd89eae1310840d"
+msgid "ID=999000149"
+msgstr ""
+
+msgctxt "0f6b92946cdb02756fc188f100a69bc9"
+msgid "고기"
+msgstr ""
+
+msgctxt "7ee2e45014de1a140811c73fd973232b"
+msgid ""
+"<font color='#FFBA85'>[이벤트 아이템]<font color='#9D927B'>\\n\\n신선해 보이는 고기. 그냥 "
+"굽기만해도 맛있어 보인다."
+msgstr ""
+
+msgctxt "597fb71ed61595b359918c962a5f5e54"
+msgid "ID=999000150"
+msgstr ""
+
+msgctxt "780ea834c4f3b1e44d98b516383dd557"
+msgid "찢어진 레시피"
+msgstr ""
+
+msgctxt "517a37f642201d8697377db23a47cc6d"
+msgid ""
+"<font color='#FFBA85'>[이벤트 아이템]<font color='#9D927B'>\\n\\n레시피 노트의 페이지."
+"\\n찢겨진 페이지만으로 무슨 요리인지 알 수가 없다."
+msgstr ""
+
+msgctxt "f43477abb3affc9ed3666168a8ae174e"
+msgid "ID=999000151"
+msgstr ""
+
+msgctxt "2bc45569db13a945d108aea752cdbaf0"
+msgid "레시피 북 I : [접두] 보조"
+msgstr ""
+
+msgctxt "265b7ddac877aeee4f78817215c93dd3"
+msgid ""
+"<font color='#FFBA85'>[칭호 획득 아이템] 접두<font color='#9D927B'>\\n\\n찢겨진 레시피를 모아서 "
+"만든 레시피 노트.\\n샐러드의 레시피가 기록되어 있다.\\n사용 시 칭호를 획득 할 수 있다.\\n\\n- 획득 칭호 -\\n보조"
+msgstr ""
+
+msgctxt "0edc8cb28dfedd263b10ca679a47666b"
+msgid "ID=999000152"
+msgstr ""
+
+msgctxt "9288f7c2e7a71068e108b32aa6cf93c1"
+msgid "레시피 북 II : [접미] 요리사"
+msgstr ""
+
+msgctxt "559aa49c765fe9ccb4e4db232648f8bb"
+msgid ""
+"<font color='#FFBA85'>[칭호 획득 아이템] 접두<font color='#9D927B'>\\n\\n찢겨진 레시피를 모아서 "
+"만든 레시피 노트.\\n토마토 파스타의 레시피가 기록되어 있다.\\n사용 시 칭호를 획득 할 수 있다.\\n\\n- 획득 칭호 -"
+"\\n요리사"
+msgstr ""
+
+msgctxt "ff53afc224ce32d3e6a28618341545ce"
+msgid "ID=999000153"
+msgstr ""
+
+msgctxt "d536af793248342079c94fb82754a8a9"
+msgid "[접두] 마스터"
+msgstr ""
+
+msgctxt "5b564e0db5c7bd9a8e87e76e78707de6"
+msgid ""
+"<font color='#FFBA85'>[칭호 획득 아이템] 접두<font color='#9D927B'>\\n\\n레시피 북 I과 "
+"샐러드를 이용하여 얻을 수 있는 칭호\\n\\n- 획득 칭호 -\\n마스터"
+msgstr ""
+
+msgctxt "55010f5167b618e0284265d3e24f077d"
+msgid "ID=999000154"
+msgstr ""
+
+msgctxt "f3de6edf91131425a9237136c7a89109"
+msgid "[접미] 셰프"
+msgstr ""
+
+msgctxt "3b65a79db159664f6465f2e319fcd6ab"
+msgid ""
+"<font color='#FFBA85'>[칭호 획득 아이템] 접미<font color='#9D927B'>\\n\\n레시피 북 II과  "
+"토마토 파스타를 이용하여 얻을 수 있는 칭호\\n\\n- 획득 칭호 -\\n셰프"
+msgstr ""
+
+msgctxt "34f8df8bce3d28fd0c03f785f79e2774"
+msgid "ID=999000155"
+msgstr ""
+
+msgctxt "1ef2b26838a475c09441e4232827df66"
+msgid "밀가루 랜덤박스"
+msgstr ""
+
+msgctxt "c46864e6f4a894afa1acd64f98ecf24d"
+msgid ""
+"<font color='#FFBA85'>[물품 상자]<font color='#9D927B'>\\n\\n그루톤표 밀가루를 얻을 수 있는 "
+"상자.\\n코인샵에서 구매할 수 있다."
+msgstr ""
+
+msgctxt "0b09efd67a3cd9b0c2ee85752173c5b0"
+msgid "ID=991000242"
+msgstr ""
+
+msgctxt "9a407e33e112a62678ff37cc82f107fc"
+msgid "판도라의 물약"
+msgstr ""
+
+msgctxt "70402840ffe1806d4516e6b66170dddb"
+msgid ""
+"<font color='#FFBA85'>[이벤트 버프 아이템] 사용효과 알려지지 않음. 쿨타임 3초<font color="
+"'#9D927B'>\\n\\n만우절을 기념하여 특별히 제작된 신비한 물약\\n사용하면 어떤 효과가 발생할지 알 수 없다."
+"\\n\\n<font color='#FF0000'>※ TIP: 위급한 상황에서 사용해 보자."
+msgstr ""
+
+msgctxt "0ae5b643a24d9df782ddff6fc475d404"
+msgid "ID=991000243"
+msgstr ""
+
+msgctxt "d3be7188e9f0cd218c59b147a987febc"
+msgid "ID=991000244"
+msgstr ""
+
+msgctxt "47fb1e1f724aeab672f1a12103f48a3c"
+msgid "ID=991000245"
+msgstr ""
+
+msgctxt "4725f08a9ef4f3eb2379c04b506e8ebf"
+msgid "ID=991000246"
+msgstr ""
+
+msgctxt "e62b7ee2bb1e7c08a13f9a77b9ab49e1"
+msgid "ID=999000247"
+msgstr ""
+
+msgctxt "51ca025875c0f7ac20eeb07fd0acc785"
+msgid "판도라의 상자"
+msgstr ""
+
+msgctxt "599d478c684d5788047c894db60bad09"
+msgid ""
+"<font color='#FFBA85'>[이벤트 물품 상자]<font color='#9D927B'>\\n\\n만우절을 기념하여 특별히 "
+"제작된 신비한 물약이 담긴 상자\\n사용하면 판도라의 물약을 획득할 수 있다."
+msgstr ""
+
+msgctxt "cf67be6f89f359f9ac8b4a8273a8342d"
+msgid "ID=999000248"
+msgstr ""
+
+msgctxt "a9bc90fc4f81e9c2f2180bc1d6b44777"
+msgid "만우절 특선 패키지"
+msgstr ""
+
+msgctxt "78a5b183eb08c6691e60980e08d88a58"
+msgid ""
+"<font color='#FFBA85'>[이벤트 물품 상자]<font color='#9D927B'>\\n\\n만우절을 기념하여 특별히 "
+"제작된 패키지."
+msgstr ""
+
+msgctxt "a2547395bef0729feaf03e697ba7eec9"
+msgid "ID=999000249"
+msgstr ""
+
+msgctxt "cf6a0df861664d51b7578fad8d8bb090"
+msgid "[접두] 뻥쟁이"
+msgstr ""
+
+msgctxt "25ad0df02014d5778de178e2cce826f6"
+msgid ""
+"<font color='#FFBA85'>[칭호 획득 아이템] 접두<font color='#9D927B'>\\n\\n만우절 특선 패키지에서 "
+"얻을 수 있는 칭호.\\n\\n- 획득 칭호 -\\n뻥쟁이"
+msgstr ""
+
+msgctxt "f0b53ef334b56b6c506b7f4b4151eb9d"
+msgid "ID=837001112"
+msgstr ""
+
+msgctxt "9af48a4c0c8d5eb9de9b2e6da2956262"
+msgid "신규/복귀 환영 패키지 I"
+msgstr ""
+
+msgctxt "a352a588090fd42a6efbe07e63153c9e"
+msgid ""
+"<font color='#FFBA85'>[패키지]<font color='#9D927B'>\\n\\n신규/복귀자를 환영하기 위해 제작된 "
+"특별 패키지.\\n\\n[패키지 아이템]\\n-구성품-\\n은행 계정 창고 확장권 x 3\\n인벤토리 확장권 x 3\\n보너스 카드키 x "
+"30\\n스킬 초기화권 x 3\\n부활 장치 x 10\\nHP SG 회복 키트 x 10\\nHP 회복 키트 EX x 10\\n확성기 x "
+"30"
+msgstr ""
+
+msgctxt "e1807a8a3de5eee1b2d7ff883951e064"
+msgid "ID=837001113"
+msgstr ""
+
+msgctxt "6c7e6516e265d330c1f6dd57c4747551"
+msgid "신규/복귀 환영 패키지 II"
+msgstr ""
+
+msgctxt "82194969e9c59dbf6f6b2993900dbce0"
+msgid ""
+"<font color='#FFBA85'>[패키지]<font color='#9D927B'>\\n\\n신규/복귀자를 환영하기 위해 제작된 "
+"특별 패키지.\\n\\n[패키지 아이템]\\n-구성품-\\n아카식 레코드 전송기 x 30\\n공격형 SD 브로치 전송기 x 5\\n방어형 "
+"SD 브로치 전송기 x 5\\n기능형 SD 브로치 전송기 x 5\\n공격형 BSK 브로치 전송기 x 5\\n방어형 BSK 브로치 전송기 "
+"x 5\\n기능형 BSK 브로치 전송기 x 5\\n공격형 FOT 브로치 전송기 x 5\\n방어형 FOT 브로치 전송기 x 5\\n기능형 "
+"FOT 브로치 전송기 x 5"
+msgstr ""
+
+msgctxt "c9ddad249a88c673e91e70b56611bfe0"
+msgid "ID=837001114"
+msgstr ""
+
+msgctxt "caa31b1d880ba02cf58669021e7efa4d"
+msgid "신규서버 정착 지원 패키지"
+msgstr ""
+
+msgctxt "cee4445ad40c1ea06e96eddb1182d8ae"
+msgid ""
+"<font color='#FFBA85'>[패키지]<font color='#9D927B'>\\n\\n신규서버 정착을 위해 꾸려진 "
+"패키지\\n\\n[패키지 아이템]\\n-구성품-\\n그레이브 키퍼 무기 상자 x 1\\n그레이브 키퍼 MK.II 무기 상자 x "
+"1\\n그레이브 키퍼 MK.III 무기 상자 x 1\\n그레이브 키퍼 방어구 상자 x 1\\n그레이브 키퍼 MK.II 방어구 상자 x "
+"1\\n그레이브 키퍼 MK.III 방어구 상자 x 1\\n코스튬 설계도 큐브 x 1\\n부활 장치 x 10"
+msgstr ""
+
+msgctxt "201fa56813ad65a0866f463538e09e25"
+msgid "ID=837001115"
+msgstr ""
+
+msgctxt "6590182662ce2bf4ba90a2b44e399429"
+msgid "5월 워리어 패키지 I"
+msgstr ""
+
+msgctxt "a32d2f151a2ed9a0803f0d4cb3269cb5"
+msgid ""
+"<font color='#FFBA85'>[월간 패키지]<font color='#9D927B'>\\n\\n월간 패키지 시리즈로 전투 지원용 "
+"보조 아이템 위주로 구성되어있다.\\n\\n[패키지 아이템]\\n-구성품-\\n부활 장치 x 100\\n특수 부활 장치 I x "
+"10\\n오버클럭 앰플 x 10\\n메가 바이탈 필 x 10\\n메가 어질리티 필 x 10"
+msgstr ""
+
+msgctxt "207b981023aea03d542b64812ed4d5d7"
+msgid "ID=837001116"
+msgstr ""
+
+msgctxt "0561a6533b117b8af6fd004a19b7484e"
+msgid "5월 워리어 패키지 II"
+msgstr ""
+
+msgctxt "fa1d946e42dac1e0630215cf12a73ce7"
+msgid ""
+"<font color='#FFBA85'>[월간 패키지]<font color='#9D927B'>\\n\\n월간 패키지 시리즈로 전투 지원용 "
+"보조 아이템 위주로 구성되어있다.\\n\\n[패키지 아이템]\\n-구성품-\\n보너스 카드키 x 100\\nHP 회복 키트 EX x "
+"10\\nHP SG 회복 키트 x 10\\n[소셜 아이템] 벚꽃 돗자리 x 3"
+msgstr ""
+
+msgctxt "2bb9b23d610fce81db9600ee29981e27"
+msgid "ID=837100050"
+msgstr ""
+
+msgctxt "9a6c7c6bfb63a553904074db32c88067"
+msgid "[PC방]기능형 SD 브로치 상자"
+msgstr ""
+
+msgctxt "1719a03dbf6e34b84f8afd3856f14941"
+msgid ""
+"<font color='#FFBA85'>[PC방 물품박스]<font color='#9D927B'>\\n기능형 SD 브로치 x 4 개를 "
+"획득할 수 있습니다."
+msgstr ""
+
+msgctxt "f34ceeb8ab394a24c73b42938ba7ad5e"
+msgid "ID=837100051"
+msgstr ""
+
+msgctxt "06a170ba0b467e5f4372e9557c46ac5e"
+msgid "[PC방]방어형 SD 브로치 상자"
+msgstr ""
+
+msgctxt "bee6f55fb314223955dcc9bc8724ed12"
+msgid ""
+"<font color='#FFBA85'>[PC방 물품박스]<font color='#9D927B'>\\n방어형 SD 브로치 x 4 개를 "
+"획득할 수 있습니다."
+msgstr ""
+
+msgctxt "94790c6218e5b20e94771c5902f2e5df"
+msgid "ID=837100052"
+msgstr ""
+
+msgctxt "d0698ed02ca2875132309ab446ed567a"
+msgid "[PC방]공격형 SD 브로치 상자"
+msgstr ""
+
+msgctxt "041d8e6c8e378a829062fc863f2d7e1a"
+msgid ""
+"<font color='#FFBA85'>[PC방 물품박스]<font color='#9D927B'>\\n공격형 SD 브로치 x 4 개를 "
+"획득할 수 있습니다."
+msgstr ""
+
+msgctxt "041e2ecf69d38dd3194cba8a0b389dee"
+msgid "ID=837000073"
+msgstr ""
+
+msgctxt "12f7545a4f4f1bd4882fd7a60fab1a69"
+msgid "[가구 패키지]미드 센츄리[A]"
+msgstr ""
+
+msgctxt "3f9c10b91d69125944d23f306cd58f3b"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n낮은 채도와 무광의 빈티지한 "
+"느낌을 꿈꾸는 사람들을 위한 미드 센츄리 시리즈 A타입 패키지. 임무에 지친 이들을 위해 일일이 가구를 비교해가면서 인테리어 해야 하는 "
+"수고 없이 한 번에 집을 꾸밀 수 있도록 구성해 놓았다.\\n\\n-구성품-\\n미드 센츄리 철제 침대[A] x 1\\n미드 센츄리 긴 "
+"소파[A] x 1\\n미드 센츄리 글래스 테이블[A] x 1\\n미드 센츄리 양털 매트[A] x 1\\n미드 센츄리 사각 욕조[A] x "
+"1"
+msgstr ""
+
+msgctxt "86684ba011884651f3ef92d506dc43ea"
+msgid "ID=837000074"
+msgstr ""
+
+msgctxt "e45cc40052904a213d39dad2d862f8c6"
+msgid "[가구 패키지]미드 센츄리[B]"
+msgstr ""
+
+msgctxt "ef755b5a5b7a2f8c5ddbe43e473132f8"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n낮은 채도와 무광의 빈티지한 "
+"느낌을 꿈꾸는 사람들을 위한 미드 센츄리 시리즈 B타입 패키지. 임무에 지친 이들을 위해 일일이 가구를 비교해가면서 인테리어 해야 하는 "
+"수고 없이 한 번에 집을 꾸밀 수 있도록 구성해 놓았다.\\n\\n-구성품-\\n미드 센츄리 철제 침대[B] x 1\\n미드 센츄리 긴 "
+"소파[B] x 1\\n미드 센츄리 글래스 테이블[B] x 1\\n미드 센츄리 양털 매트[B] x 1\\n미드 센츄리 사각 욕조[B] x "
+"1"
+msgstr ""
+
+msgctxt "838e84a6ce0a0470286db3e3373282a8"
+msgid "ID=837000075"
+msgstr ""
+
+msgctxt "d0a9d3719a388abdd4ea6a787652ed18"
+msgid "[가구 패키지]미드 센츄리[C]"
+msgstr ""
+
+msgctxt "c4303696f04828d4166565a19f75bf4a"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n낮은 채도와 무광의 빈티지한 "
+"느낌을 꿈꾸는 사람들을 위한 미드 센츄리 시리즈 C타입 패키지. 임무에 지친 이들을 위해 일일이 가구를 비교해가면서 인테리어 해야 하는 "
+"수고 없이 한 번에 집을 꾸밀 수 있도록 구성해 놓았다.\\n\\n-구성품-\\n미드 센츄리 철제 침대[C] x 1\\n미드 센츄리 긴 "
+"소파[C] x 1\\n미드 센츄리 글래스 테이블[C] x 1\\n미드 센츄리 양털 매트[C] x 1\\n미드 센츄리 사각 욕조[C] x "
+"1"
+msgstr ""
+
+msgctxt "bdd574b3518e61ae79aa53095cecd12c"
+msgid "ID=837000082"
+msgstr ""
+
+msgctxt "389b7cdcc46b35b7ca49842ac7fa44f5"
+msgid "[내장재 패키지] 미드 센츄리[A]"
+msgstr ""
+
+msgctxt "07e047d82edf973ef267d7793d9ba005"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n낮은 채도와 무광의 빈티지한 "
+"느낌을 꿈꾸는 사람들을 위한 미드 센츄리 시리즈 A타입 패키지. 임무에 지친 이들을 위해 일일이 내장재를 비교해가면서 인테리어 해야 하는 "
+"수고 없이 한 번에 집을 꾸밀 수 있도록 구성해 놓았다.\\n\\n-구성품-\\n미드 센츄리 패턴 벽지[A] x 1\\n미드 센츄리 나무 "
+"테라스 문[A] x 1\\n미드 센츄리 커튼 창문[A] x 1\\n무광처리한 단색 플로어[A] x 1\\n미드 센츄리 천장[A] x "
+"1\\n미드 센츄리 현관문[A] x 1"
+msgstr ""
+
+msgctxt "7b940614d489856e0cf6a462f6080f58"
+msgid "ID=837000083"
+msgstr ""
+
+msgctxt "342444b0ef5f289c351f740bdffcf976"
+msgid "[내장재 패키지] 미드 센츄리[B]"
+msgstr ""
+
+msgctxt "c40e0066ae4c8e0baa7dfa8bf3c2f7d6"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n낮은 채도와 무광의 빈티지한 "
+"느낌을 꿈꾸는 사람들을 위한 미드 센츄리 시리즈 B타입 패키지. 임무에 지친 이들을 위해 일일이 내장재를 비교해가면서 인테리어 해야 하는 "
+"수고 없이 한 번에 집을 꾸밀 수 있도록 구성해 놓았다.\\n\\n-구성품-\\n미드 센츄리 패턴 벽지[B] x 1\\n미드 센츄리 나무 "
+"테라스 문[B] x 1\\n미드 센츄리 커튼 창문[B] x 1\\n무광처리한 단색 플로어[B] x 1\\n미드 센츄리 천장[B] x "
+"1\\n미드 센츄리 현관문[B] x 1"
+msgstr ""
+
+msgctxt "0e2ec23a54374719a23945ae373fdab6"
+msgid "ID=837000084"
+msgstr ""
+
+msgctxt "af6c69b9a8e107b009d2a6adc0ccfbef"
+msgid "[내장재 패키지] 미드 센츄리[C]"
+msgstr ""
+
+msgctxt "2ad97ee5592056417eca77175e64d01c"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n낮은 채도와 무광의 빈티지한 "
+"느낌을 꿈꾸는 사람들을 위한 미드 센츄리 시리즈 C타입 패키지. 임무에 지친 이들을 위해 일일이 내장재를 비교해가면서 인테리어 해야 하는 "
+"수고 없이 한 번에 집을 꾸밀 수 있도록 구성해 놓았다.\\n\\n-구성품-\\n미드 센츄리 패턴 벽지[C] x 1\\n미드 센츄리 나무 "
+"테라스 문[C] x 1\\n미드 센츄리 커튼 창문[C] x 1\\n무광처리한 단색 플로어[C] x 1\\n미드 센츄리 천장[C] x "
+"1\\n미드 센츄리 현관문[C] x 1"
+msgstr ""
+
+msgctxt "528e96db2c765f49f9e0133f8b5cd638"
+msgid "ID=837001117"
+msgstr ""
+
+msgctxt "f247c4fb51b22fb716cb7774f808919f"
+msgid "[장식품 패키지] 미드 센츄리[A]"
+msgstr ""
+
+msgctxt "ca1012fb1d17ce6074e67487bb745a27"
+msgid ""
+"<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\\n\\n낮은 채도와 무광의 빈티지한 "
+"느낌을 꿈꾸는 사람들을 위한 미드 센츄리 시리즈 A타입 패키지. 임무에 지친 이들을 위해 일일이 장식품을 비교해가면서 인테리어 해야 하는 "
+"수고 없이 한 번에 집을 꾸밀 수 있도록 구성해 놓았다.\\n\\n-구성품-\\n미드 센츄리 기타 장식 [A] x 1\\n미드 센츄리 "
+"서랍장 [A] x 1\\n미드 센츄리 LP 테이블 [A] x 1\\n미드 센츄리 스탠딩 램프 [A] x 1"
+msgstr ""
+
+msgctxt "ebd73a4aa2b81d9f66725cd66dde9580"
+msgid "ID=837001118"
+msgstr ""
+
+msgctxt "375d05e6a81e52a932a259e7972af9a8"
+msgid "[장식품 패키지] 미드 센츄리[B]"
+msgstr ""
+
+msgctxt "f5d78d04e9db51e380e383b03db521c5"
+msgid ""
+"<font color='#FFBB85'>[패키지 아이템]<font color='#9D927B'>\\n\\n낮은 채도와 무광의 빈티지한 "
+"느낌을 꿈꾸는 사람들을 위한 미드 센츄리 시리즈 B타입 패키지. 임무에 지친 이들을 위해 일일이 장식품을 비교해가면서 인테리어 해야 하는 "
+"수고 없이 한 번에 집을 꾸밀 수 있도록 구성해 놓았다.\\n\\n-구성품-\\n미드 센츄리 기타 장식 [B] x 1\\n미드 센츄리 "
+"서랍장 [B] x 1\\n미드 센츄리 LP 테이블 [B] x 1\\n미드 센츄리 스탠딩 램프 [B] x 1"
+msgstr ""
+
+msgctxt "300bebd134febbe037d7745fb579a838"
+msgid "ID=837001119"
+msgstr ""
+
+msgctxt "b748079c2747f00aa7b8f4e638d2d4f5"
+msgid "[장식품 패키지] 미드 센츄리[C]"
+msgstr ""
+
+msgctxt "3133c91f7d2d8e2611a078a4072d16a9"
+msgid ""
+"<font color='#FFCC85'>[패키지 아이템]<font color='#9D927C'>\\n\\n낮은 채도와 무광의 빈티지한 "
+"느낌을 꿈꾸는 사람들을 위한 미드 센츄리 시리즈 C타입 패키지. 임무에 지친 이들을 위해 일일이 장식품을 비교해가면서 인테리어 해야 하는 "
+"수고 없이 한 번에 집을 꾸밀 수 있도록 구성해 놓았다.\\n\\n-구성품-\\n미드 센츄리 기타 장식 [C] x 1\\n미드 센츄리 "
+"서랍장 [C] x 1\\n미드 센츄리 LP 테이블 [C] x 1\\n미드 센츄리 스탠딩 램프 [C] x 1"
+msgstr ""
+
+msgctxt "c4c683018734c0ecdb59725934e2fc33"
+msgid "ID=213850958"
+msgstr ""
+
+msgctxt "bd52acd09d501f3ed01e985b7461980c"
+msgid "[해방된 분노의 검] 의상"
+msgstr ""
+
+msgctxt "0d4ad9a5fafbd4d808fae60472a6b73e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 하루에게 "
+"맞게 주문제작 된 의상.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "52e3190eb680a83f0bfbef22b5bd2b92"
+msgid "ID=213851158"
+msgstr ""
+
+msgctxt "f019587255df02ee3a0723d5e5158da5"
+msgid "[해방된 분노의 검] 다리 붕대"
+msgstr ""
+
+msgctxt "5c04b9f35741c436517f02bc4d26f67f"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 하루에게 "
+"맞게 주문제작 된 다리 붕대.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "3bbf4fbc1bdd241b1d4809b291273790"
+msgid "ID=213851258"
+msgstr ""
+
+msgctxt "e75cf281a0054462a4baf1c4494c4182"
+msgid "[해방된 분노의 검] 신발"
+msgstr ""
+
+msgctxt "9c6f694528f86a9ac9e6c2764afb5e29"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 하루에게 "
+"맞게 주문제작 된 신발.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "a60517133f9916687e4b2d9ad84695a9"
+msgid "ID=223850958"
+msgstr ""
+
+msgctxt "79769122d3ddaa11a4cd5fe0d59d176a"
+msgid "[타오르는 열정의 탄환] 의상"
+msgstr ""
+
+msgctxt "fa6d68eadbb8993469a3dd30f4e31c7f"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 어윈에게 "
+"맞게 주문제작 된 의상.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "6f91206ba2e3b7be38bfc95400bb9ef6"
+msgid "ID=223850558"
+msgstr ""
+
+msgctxt "677ba2c0aa2e6097b6e7e2cd18d8b446"
+msgid "[타오르는 열정의 탄환] 장갑"
+msgstr ""
+
+msgctxt "24d87c4a5a6a30ed9a2deb11fcbfe928"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 어윈에게 "
+"맞게 주문제작 된 장갑.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "afc3b3effac1a3e30d6d3ada35971f1d"
+msgid "ID=223851258"
+msgstr ""
+
+msgctxt "f6a7a503022493966165373bd828e232"
+msgid "[타오르는 열정의 탄환] 신발"
+msgstr ""
+
+msgctxt "3162cb26568ce25fa0de5a74430ce9c4"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 어윈에게 "
+"맞게 주문제작 된 신발.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "8809a8a0525c8cc043b024658c128802"
+msgid "ID=233930958"
+msgstr ""
+
+msgctxt "282c17ccfb5eb36554128f1b0814c53e"
+msgid "[침잠하는 슬픔의 사슬] 의상"
+msgstr ""
+
+msgctxt "7130e11c7dc3d1896a11064e171746e9"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 릴리에게 "
+"맞게 주문제작 된 의상.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "63e584d7c20ecee6404847efcd6723d3"
+msgid "ID=233931158"
+msgstr ""
+
+msgctxt "d1498e0809d231124a1575e552edc5b8"
+msgid "[침잠하는 슬픔의 사슬] 니삭스"
+msgstr ""
+
+msgctxt "1c014a0b874a06e64825d3e2b699bbbc"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 릴리에게 "
+"맞게 주문제작 된 니삭스.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "d93125c51770a4ef16bb641b33507084"
+msgid "ID=233931258"
+msgstr ""
+
+msgctxt "1f66a2687a4bb54df8b078892e131649"
+msgid "[침잠하는 슬픔의 사슬] 부츠"
+msgstr ""
+
+msgctxt "0bba9f0c129da8e3429d39cca15f5f06"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 릴리에게 "
+"맞게 주문제작 된 부츠.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "40d2692562aa96a0bb3f7cc86f82cfe7"
+msgid "ID=243820958"
+msgstr ""
+
+msgctxt "e10dc3cab8ba69a9527ce990934963ed"
+msgid "[미소짓는 쾌락의 주먹] 의상"
+msgstr ""
+
+msgctxt "e52492bd8a5a0f163f5f679db38bfc99"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 진에게 맞게 "
+"주문제작 된 의상.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "77060c60ed7dd0519818a9dc93b80c8d"
+msgid "ID=243820558"
+msgstr ""
+
+msgctxt "f4cb728a8c249f0666eb4129c9ba6361"
+msgid "[미소짓는 쾌락의 주먹] 팔찌"
+msgstr ""
+
+msgctxt "7d81dc9aa5e1cca42c04eb553183ea84"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 진에게 맞게 "
+"주문제작 된 팔찌.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "2144c88906df599325497f50ced3d27c"
+msgid "ID=243821258"
+msgstr ""
+
+msgctxt "25e0d1a6085752d32a704c46218b7aa6"
+msgid "[미소짓는 쾌락의 주먹] 부츠"
+msgstr ""
+
+msgctxt "e055ed528cc9d23c3ce815357e914364"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 진에게 맞게 "
+"주문제작 된 부츠.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "fa4bf42aacb1f333b38d5fb038ccadf0"
+msgid "ID=253860958"
+msgstr ""
+
+msgctxt "12546c47858c5df533f31a2baf224ca7"
+msgid "[방황하는 복수의 악상] 의상"
+msgstr ""
+
+msgctxt "40f29091ce8ae7e86bb608693a7be5b7"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 스텔라에게 "
+"맞게 주문제작 된 의상.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "f1cdf781340be8cc2832730949ba32ae"
+msgid "ID=253861158"
+msgstr ""
+
+msgctxt "b3ea9ee93d43c1d42f8b24b38e236c73"
+msgid "[방황하는 복수의 악상] 니삭스"
+msgstr ""
+
+msgctxt "9ea5962df8481465daa9cfb985a3dd79"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 스텔라에게 "
+"맞게 주문제작 된 니삭스.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "4f1115745428963d1359b4e97a4a3b44"
+msgid "ID=253861258"
+msgstr ""
+
+msgctxt "34c523d3b2091a8ebb0f2b9ba2c0ed62"
+msgid "[방황하는 복수의 악상] 부츠"
+msgstr ""
+
+msgctxt "3668125004a3c3361e78958189c076b5"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 스텔라에게 "
+"맞게 주문제작 된 부츠.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "1a972238fc5667242e3e768f7d096123"
+msgid "ID=263840958"
+msgstr ""
+
+msgctxt "dde9ad0858637f44fb7500755fb31cbc"
+msgid "[내달리는 광기의 망치] 의상"
+msgstr ""
+
+msgctxt "6443a7ee948f0967384532da1969f384"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 이리스에게 "
+"맞게 주문제작 된 의상.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "47207450fc484553abc19989347b66be"
+msgid "ID=263841158"
+msgstr ""
+
+msgctxt "9fa4ef0d68fd9ed23632db840a7136d5"
+msgid "[내달리는 광기의 망치] 스타킹"
+msgstr ""
+
+msgctxt "fc51a754f45a961cb7b38a477e7ba718"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 이리스에게 "
+"맞게 주문제작 된 스타킹.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "5097f8c87e28d44ad5431a6a4b775fe9"
+msgid "ID=263841258"
+msgstr ""
+
+msgctxt "d148fd2d8f04d8a38481ef647dd3b8b9"
+msgid "[내달리는 광기의 망치] 부츠"
+msgstr ""
+
+msgctxt "db6ec9d5ecdaab227966645e2f42cc0b"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n다른 소울워커 옷의 디자인을 빌려 이리스에게 "
+"맞게 주문제작 된 부츠.\\n조금 어색하지만 빠르게 익숙해질 것 같다."
+msgstr ""
+
+msgctxt "e6172ef9199e36e758aad80c6c98ddf4"
+msgid "ID=813850958"
+msgstr ""
+
+msgctxt "1f4d930bef0324ada6e2a0a0829e19e1"
+msgid "[밀봉][해방된 분노의 검] 의상"
+msgstr ""
+
+msgctxt "5710ab5e7798393e5438cd9c99e15c92"
+msgid "[해방된 분노의 검] 의상이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "76db659bcb4b8884d5f59791f4c0daa9"
+msgid "ID=813851158"
+msgstr ""
+
+msgctxt "ec37ffeaf064d955f41d181f67268c59"
+msgid "[밀봉][해방된 분노의 검] 다리 붕대"
+msgstr ""
+
+msgctxt "0c659b4b286a904258851ea8e7acb71a"
+msgid "[해방된 분노의 검] 다리 붕대가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "45e9245a0f2cdb0b4590611864350907"
+msgid "ID=813851258"
+msgstr ""
+
+msgctxt "6be4bed0a666384600c9fe155f236a45"
+msgid "[밀봉][해방된 분노의 검] 신발"
+msgstr ""
+
+msgctxt "02e7582fb9ac3dc51fdb496702c43faa"
+msgid "[해방된 분노의 검] 신발이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "cfd5f532d70eebb78570105b17846106"
+msgid "ID=823850958"
+msgstr ""
+
+msgctxt "e029b8f1264a228b0256878361c22d00"
+msgid "[밀봉][타오르는 열정의 탄환] 의상"
+msgstr ""
+
+msgctxt "21e3b1c474645a1a24dcc04c9444617a"
+msgid "[타오르는 열정의 탄환] 의상이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "9e7f20176f76db500969dd42136a4ac2"
+msgid "ID=823850558"
+msgstr ""
+
+msgctxt "190b3ec844dc5d452bbaa9fcf08b305c"
+msgid "[밀봉][타오르는 열정의 탄환] 장갑"
+msgstr ""
+
+msgctxt "849aa6254742f4172bccf916edaf69ba"
+msgid "[타오르는 열정의 탄환] 장갑이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "d41218a167066e51b43824aa4c202413"
+msgid "ID=823851258"
+msgstr ""
+
+msgctxt "0922d044147a24540f42b841d894eed9"
+msgid "[밀봉][타오르는 열정의 탄환] 신발"
+msgstr ""
+
+msgctxt "e61849a6e3ca603615d032aa840e61a7"
+msgid "[타오르는 열정의 탄환] 신발이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "4f79febd99908cf072d9e63a35b30894"
+msgid "ID=833930958"
+msgstr ""
+
+msgctxt "508402305c99cbbb16fe8a7f098e16aa"
+msgid "[밀봉][침잠하는 슬픔의 사슬] 의상"
+msgstr ""
+
+msgctxt "777f8386172ece1563df61df07bcbe37"
+msgid "[침잠하는 슬픔의 서슬] 의상이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "fbe231d997bbc2b419d5e5b189b538d0"
+msgid "ID=833931158"
+msgstr ""
+
+msgctxt "7f9c9b862eb371b88cd1f1a72c022aa7"
+msgid "[밀봉][침잠하는 슬픔의 사슬] 니삭스"
+msgstr ""
+
+msgctxt "9ba74a4cb52df5ff93cf269c7e4051dd"
+msgid "[침잠하는 슬픔의 서슬] 니삭스가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "4bbdc86510d44c25c615a5731b00cf19"
+msgid "ID=833931258"
+msgstr ""
+
+msgctxt "6849cc1f8356e918b404b046fd6f4d65"
+msgid "[밀봉][침잠하는 슬픔의 사슬] 부츠"
+msgstr ""
+
+msgctxt "03334c50f58945a74b659afd9aa3df22"
+msgid "[침잠하는 슬픔의 서슬] 부츠가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "41700a14d4343a63a12126cfe139a9b6"
+msgid "ID=843820958"
+msgstr ""
+
+msgctxt "7f8b03593abb084eda0315a19bd23928"
+msgid "[밀봉][미소짓는 쾌락의 주먹] 의상"
+msgstr ""
+
+msgctxt "63ac7c900d1b75c3ab3a571c5520e874"
+msgid "[미소짓는 쾌락의 주먹] 의상이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "3748e36ca545c9b55a2740f2eeed9bbc"
+msgid "ID=843820558"
+msgstr ""
+
+msgctxt "31fbb57e0cc1b03bb20ebaa148a49544"
+msgid "[밀봉][미소짓는 쾌락의 주먹] 팔찌"
+msgstr ""
+
+msgctxt "916f68b8597a2ccde7be642e99a405b9"
+msgid "[미소짓는 쾌락의 주먹] 팔찌가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "5f42f4a4b3ca9a8c756ed1c8dac1a0de"
+msgid "ID=843821258"
+msgstr ""
+
+msgctxt "c59680e5eb8007fe8d76bc62a9e759ae"
+msgid "[밀봉][미소짓는 쾌락의 주먹] 부츠"
+msgstr ""
+
+msgctxt "cba675f8ab136136b2a0b2bd37934208"
+msgid "[미소짓는 쾌락의 주먹] 부츠가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "e6ccf6dce10135140d5a1607e30e4420"
+msgid "ID=853860958"
+msgstr ""
+
+msgctxt "3884d9a3153f9d50ca64c049f0992621"
+msgid "[밀봉][방황하는 복수의 악상] 의상"
+msgstr ""
+
+msgctxt "9a9a33b39d23f700055f5e40cf7b49c3"
+msgid "[방황하는 복수의 악상] 의상이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "61626fe7c57e21b5bcf2d9c035c1a5be"
+msgid "ID=853861158"
+msgstr ""
+
+msgctxt "652a634d2e5b6b44b64388b6c2f9baa2"
+msgid "[밀봉][방황하는 복수의 악상] 니삭스"
+msgstr ""
+
+msgctxt "827fa489fb03a255b63a20ea87c40e7f"
+msgid "[방황하는 복수의 악상] 니삭스가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "c109f84864dc6df4317901dc08a033ab"
+msgid "ID=853861258"
+msgstr ""
+
+msgctxt "2b0e4fe8b5a9333b1cecda7039937f3a"
+msgid "[밀봉][방황하는 복수의 악상] 부츠"
+msgstr ""
+
+msgctxt "48f89cca56e499dfa5257bcd89c4a33f"
+msgid "[방황하는 복수의 악상] 부츠가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "37894714907f3d96bbbc8447ffcce8de"
+msgid "ID=863840958"
+msgstr ""
+
+msgctxt "0b5d2a0ab1b9c9b512abd58fcfa349df"
+msgid "[밀봉][내달리는 광기의 망치] 의상"
+msgstr ""
+
+msgctxt "d837b5b4ae6f2289b66261b4f8ea422e"
+msgid "[내달리는 광기의 망치] 의상이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "61419a6bf8590567b940dab4b6e47499"
+msgid "ID=863841158"
+msgstr ""
+
+msgctxt "15c8dbb2cb1907f6c840a2c2cba3f08a"
+msgid "[밀봉][내달리는 광기의 망치] 스타킹"
+msgstr ""
+
+msgctxt "d0c2f734cc335a06e1a6dc3c7140de27"
+msgid "[내달리는 광기의 망치] 스타킹이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "d21d3ceed1569ac8eb41538636a859dc"
+msgid "ID=863841258"
+msgstr ""
+
+msgctxt "86ddd727eaaeff008f411c3044c8361e"
+msgid "[밀봉][내달리는 광기의 망치] 부츠"
+msgstr ""
+
+msgctxt "f31d255a405b02ebac87ea2b11977919"
+msgid "[내달리는 광기의 망치] 부츠가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "da08fc58aaf1fbba0a653c8582eaa0f4"
+msgid "ID=813850957"
+msgstr ""
+
+msgctxt "cce2933c3c778dc2338ed1a7469d2bb1"
+msgid "[코스튬 박스] 하루의 해방된 분노의 검"
+msgstr ""
+
+msgctxt "4829999a2df7c7d1aa2e562076edc6be"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[해방된 분노의 검] 코스튬이 "
+"담긴 패키지로 해당 구성품은 하루만 착용할 수 있다.\\n\\n-구성품-\\n[해방된 분노의 검] 의상\\n[해방된 분노의 검] 다리 "
+"붕대\\n[해방된 분노의 검] 신발"
+msgstr ""
+
+msgctxt "cd5f8225750915fcafc0c85fb3e4eee8"
+msgid "ID=823850957"
+msgstr ""
+
+msgctxt "cf4b984508c581bc9fdef2a2128dd732"
+msgid "[코스튬 박스] 어윈의 타오르는 열정의 탄환"
+msgstr ""
+
+msgctxt "803201b9f7422431f20673b341e11f52"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[타오르는 열정의 탄환] "
+"코스튬이 담긴 패키지로 해당 구성품은 어윈만 착용할 수 있다.\\n\\n-구성품-\\n[타오르는 열정의 탄환] 의상\\n[타오르는 열정의 "
+"탄환] 장갑\\n[타오르는 열정의 탄환] 신발"
+msgstr ""
+
+msgctxt "447bda35bf234c90b408258fc37f24b6"
+msgid "ID=833930957"
+msgstr ""
+
+msgctxt "395c060325799694ef78b1f24ddc2492"
+msgid "[코스튬 박스] 릴리의 침잠하는 슬픔의 사슬"
+msgstr ""
+
+msgctxt "d38fd638908f1e16a0d2bae66fa63f31"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[침잠하는 슬픔의 사슬] "
+"코스튬이 담긴 패키지로 해당 구성품은 릴리만 착용할 수 있다.\\n\\n-구성품-\\n[침잠하는 슬픔의 사슬] 의상\\n[침잠하는 슬픔의 "
+"사슬] 니삭스\\n[침잠하는 슬픔의 사슬] 부츠"
+msgstr ""
+
+msgctxt "d320a55325b2b7c738b666f3e232fad8"
+msgid "ID=843820957"
+msgstr ""
+
+msgctxt "b66e5c4df41551a4e4591da4a9a80c32"
+msgid "[코스튬 박스] 진의 미소짓는 쾌락의 주먹"
+msgstr ""
+
+msgctxt "11aca22d2e7b92815f7103e6cdce736a"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[미소짓는 쾌락의 주먹] "
+"코스튬이 담긴 패키지로 해당 구성품은 진만 착용할 수 있다.\\n\\n-구성품-\\n[미소짓는 쾌락의 주먹] 의상\\n[미소짓는 쾌락의 "
+"주먹] 팔찌\\n[미소짓는 쾌락의 주먹] 부츠"
+msgstr ""
+
+msgctxt "c0ccccdc36c611c3ac581fefafa010c4"
+msgid "ID=853860957"
+msgstr ""
+
+msgctxt "a5c46537d007a552dfb07e4ecce89409"
+msgid "[코스튬 박스] 스텔라의 방황하는 복수의 악상"
+msgstr ""
+
+msgctxt "75e9c6979665a5b6b079b989ebca676e"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[방황하는 복수의 악상] "
+"코스튬이 담긴 패키지로 해당 구성품은 스텔라만 착용할 수 있다.\\n\\n-구성품-\\n[방황하는 복수의 악상] 의상\\n[방황하는 "
+"복수의 악상] 니삭스\\n[방황하는 복수의 악상] 부츠"
+msgstr ""
+
+msgctxt "d5286966d558137e42e6eb28f3d99b02"
+msgid "ID=863840957"
+msgstr ""
+
+msgctxt "1dc666df2cf2a603b0cc2a9b64418d17"
+msgid "[코스튬 박스] 이리스의 내달리는 광기의 망치"
+msgstr ""
+
+msgctxt "3b5150b9c74329cfa8313e593f9f3e28"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[내달리는 광기의 망치] "
+"코스튬이 담긴 패키지로 해당 구성품은 이리스만 착용할 수 있다.\\n\\n-구성품-\\n[내달리는 광기의 망치] 의상\\n[내달리는 "
+"광기의 망치] 스타킹\\n[내달리는 광기의 망치] 부츠"
+msgstr ""
+
+msgctxt "6609b8718fd45aeb82c299fd78ea7100"
+msgid "ID=212010291"
+msgstr ""
+
+msgctxt "fdb509502f9e55c9410391cd0c1e3192"
+msgid "[투명화 코스튬] 머리"
+msgstr ""
+
+msgctxt "40999cd7985ccc3211b67b0c357c92b3"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n입어도 입고 있는 기분만 날뿐 아무 것도 "
+"보이지 않는다!\\n가장 자연스러운 모습에 다가가기 위해 반드시 필요한 아이템.\\n하루가 착용할 수 있다."
+msgstr ""
+
+msgctxt "3c9a364cd8ffeafcfcd4e6ee301fd530"
+msgid "ID=212010292"
+msgstr ""
+
+msgctxt "e6a0a94323b59a33b50395ebafcebe49"
+msgid "[투명화 코스튬] 의상"
+msgstr ""
+
+msgctxt "93db135caeb535d567af7f82c80ccc0d"
+msgid "ID=212010293"
+msgstr ""
+
+msgctxt "1e705257a623f8f71e61944b14ac9e13"
+msgid "[투명화 코스튬] 장갑"
+msgstr ""
+
+msgctxt "894218ab3768fa5400a5581a36274c2d"
+msgid "ID=212010294"
+msgstr ""
+
+msgctxt "343ce89d9bbe06c57135d6abff9c1794"
+msgid "[투명화 코스튬] 신발"
+msgstr ""
+
+msgctxt "3b58c9fcb2f829febb689894d6b38a4b"
+msgid "ID=222010291"
+msgstr ""
+
+msgctxt "e5cdc9c67b9d79f111025f3d1a76cfa1"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n입어도 입고 있는 기분만 날뿐 아무 것도 "
+"보이지 않는다!\\n가장 자연스러운 모습에 다가가기 위해 반드시 필요한 아이템.\\n어윈이 착용할 수 있다."
+msgstr ""
+
+msgctxt "1a420d13c0f7c165ed81caee5506e9cf"
+msgid "ID=222010292"
+msgstr ""
+
+msgctxt "db876187370adceadb3eecdaf182f8d5"
+msgid "ID=222010293"
+msgstr ""
+
+msgctxt "0c52951a8a106262cd0313304409fdb4"
+msgid "ID=222010294"
+msgstr ""
+
+msgctxt "e735418ad9a7df04c0b03de459f32edb"
+msgid "ID=232010291"
+msgstr ""
+
+msgctxt "65196ac362ff28736575864885780fa9"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n입어도 입고 있는 기분만 날뿐 아무 것도 "
+"보이지 않는다!\\n가장 자연스러운 모습에 다가가기 위해 반드시 필요한 아이템.\\n릴리가 착용할 수 있다."
+msgstr ""
+
+msgctxt "e2536ebd888027bbdbe794c18e0e4414"
+msgid "ID=232010292"
+msgstr ""
+
+msgctxt "0ba32ec6d2d80915cd69635a293c5d77"
+msgid "ID=232010293"
+msgstr ""
+
+msgctxt "4331dc563d3e55d8146cb22dafc1626b"
+msgid "ID=232010294"
+msgstr ""
+
+msgctxt "6aabe462de7ffa90735b4a0ac37b4ae8"
+msgid "ID=242010291"
+msgstr ""
+
+msgctxt "af6516cdd202576ae6a882938925199e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n입어도 입고 있는 기분만 날뿐 아무 것도 "
+"보이지 않는다!\\n가장 자연스러운 모습에 다가가기 위해 반드시 필요한 아이템.\\n진이 착용할 수 있다."
+msgstr ""
+
+msgctxt "03b7b459d6fd116d0d37cac575a63366"
+msgid "ID=242010292"
+msgstr ""
+
+msgctxt "a10eed2b1d30ef5a83b0393600ccaadb"
+msgid "ID=242010293"
+msgstr ""
+
+msgctxt "80028c4c13061b25f8103c5fb5a4d030"
+msgid "ID=242010294"
+msgstr ""
+
+msgctxt "80adfa73c09b5fb0e0852568a2ff8ef1"
+msgid "ID=252010291"
+msgstr ""
+
+msgctxt "d3eeec3ec9899191647c1b648f8e462f"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n입어도 입고 있는 기분만 날뿐 아무 것도 "
+"보이지 않는다!\\n가장 자연스러운 모습에 다가가기 위해 반드시 필요한 아이템.\\n스텔라가 착용할 수 있다."
+msgstr ""
+
+msgctxt "b128a6844b7af0dc7f1f8b9d5ce78ea0"
+msgid "ID=252010292"
+msgstr ""
+
+msgctxt "10181cd7e7425954332b248a91b376a0"
+msgid "ID=252010293"
+msgstr ""
+
+msgctxt "dd99f66367717d4a3036395663601b08"
+msgid "ID=252010294"
+msgstr ""
+
+msgctxt "e23b15527daa06dfcacc254459f676f4"
+msgid "ID=262010291"
+msgstr ""
+
+msgctxt "05ec95b63678d553e7e083b0fb6b06e5"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n입어도 입고 있는 기분만 날뿐 아무 것도 "
+"보이지 않는다!\\n가장 자연스러운 모습에 다가가기 위해 반드시 필요한 아이템.\\n이리스가 착용할 수 있다."
+msgstr ""
+
+msgctxt "557a3f275b2a0f583b675835dae57eae"
+msgid "ID=262010292"
+msgstr ""
+
+msgctxt "95243ec73ec97c70bdbfff53c1727aaf"
+msgid "ID=262010293"
+msgstr ""
+
+msgctxt "6e2428759969303d52ec5aecc797b2b6"
+msgid "ID=262010294"
+msgstr ""
+
+msgctxt "26ee41cc9c62e22af5bc2a4973342bcd"
+msgid "ID=812010291"
+msgstr ""
+
+msgctxt "e5f108cd116b28c2eece001d24ffe6ff"
+msgid "[밀봉][투명화 코스튬] 머리"
+msgstr ""
+
+msgctxt "fad3e7ed9b340e0185cba7d37e094172"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[투명화 코스튬] 머리가 "
+"포장되어있는 패키지이다."
+msgstr ""
+
+msgctxt "39cce316f45f693796ed2648d77e060e"
+msgid "ID=812010292"
+msgstr ""
+
+msgctxt "dd47483df706bf4985e6350a8f06282f"
+msgid "[밀봉][투명화 코스튬] 의상"
+msgstr ""
+
+msgctxt "6888b1970ec45af00ab3afe4ed407be0"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[투명화 코스튬] 의상이 "
+"포장되어있는 패키지이다."
+msgstr ""
+
+msgctxt "aab2b723bfaad6a2d61197aead22456a"
+msgid "ID=812010293"
+msgstr ""
+
+msgctxt "f2efbc77cca81c6e24e2ca109a0b50ce"
+msgid "[밀봉][투명화 코스튬] 장갑"
+msgstr ""
+
+msgctxt "1f57387dca6e3bf0748a5ec30ed34447"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[투명화 코스튬] 장갑이 "
+"포장되어있는 패키지이다."
+msgstr ""
+
+msgctxt "2f28cb5d440533744da6e0cc21a65f9e"
+msgid "ID=812010294"
+msgstr ""
+
+msgctxt "f522e700568f086dcf9c193aba49658a"
+msgid "[밀봉][투명화 코스튬] 신발"
+msgstr ""
+
+msgctxt "a093eaeebacdeaacf9c3906fb960d83b"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[투명화 코스튬] 신발이 "
+"포장되어있는 패키지이다."
+msgstr ""
+
+msgctxt "9b10c6ae5439cd31833fc469df5a7964"
+msgid "ID=822010291"
+msgstr ""
+
+msgctxt "e8a1315898dee3d8dee63991799c9163"
+msgid "ID=822010292"
+msgstr ""
+
+msgctxt "d6970d542dd3191a3359c9f6d07ee95d"
+msgid "ID=822010293"
+msgstr ""
+
+msgctxt "069b15f60d163e85bd7722abacc62f95"
+msgid "ID=822010294"
+msgstr ""
+
+msgctxt "9d094393c17b4faad1b19b43b1dbdb21"
+msgid "ID=832010291"
+msgstr ""
+
+msgctxt "2cdcddee95aab20d12359cefda2f0655"
+msgid "ID=832010292"
+msgstr ""
+
+msgctxt "ce06212d2138a9ea663cd53c51a6789e"
+msgid "ID=832010293"
+msgstr ""
+
+msgctxt "21526bd37f349b40e9fbc8dab2b8e1bb"
+msgid "ID=832010294"
+msgstr ""
+
+msgctxt "265dffe53d630c8fa47fbcac01b3610a"
+msgid "ID=842010291"
+msgstr ""
+
+msgctxt "9015be0bef9ff0a94ec784b1ad66fa37"
+msgid "ID=842010292"
+msgstr ""
+
+msgctxt "f62b0ba2bf0d55b1e5f8489251cdf05e"
+msgid "ID=842010293"
+msgstr ""
+
+msgctxt "c8c248aecd23aa7404bd91a47edfcc86"
+msgid "ID=842010294"
+msgstr ""
+
+msgctxt "cb5a1b54833d26f24059d8e245918f05"
+msgid "ID=852010291"
+msgstr ""
+
+msgctxt "53da10708ae348e119470fe76ef5e3c9"
+msgid "ID=852010292"
+msgstr ""
+
+msgctxt "6fd9b594a1330093e4e1957544a24c27"
+msgid "ID=852010293"
+msgstr ""
+
+msgctxt "bf782f98525f9ce11705418efe3c09fb"
+msgid "ID=852010294"
+msgstr ""
+
+msgctxt "9cdd6e1f2616b13ec515d263279b0016"
+msgid "ID=862010291"
+msgstr ""
+
+msgctxt "5402434a1f6a0d0f7788d7bc05156980"
+msgid "ID=862010292"
+msgstr ""
+
+msgctxt "6dcf3bc2e882506f6b0a0a51d2f135fc"
+msgid "ID=862010293"
+msgstr ""
+
+msgctxt "21ce29011e52b966f19828ef1bed62c7"
+msgid "ID=862010294"
+msgstr ""
+
+msgctxt "9e81a095d4de651e09b1b7e23d570b92"
+msgid "ID=999000250"
+msgstr ""
+
+msgctxt "a62cf54ea75e6fa332183403521d01e3"
+msgid "소울워커 폭죽"
+msgstr ""
+
+msgctxt "13e89af5e258663d73677451b61466ce"
+msgid ""
+"<font color='#FFBA85'>[소셜 아이템] 사용하면 캐릭터 주변에 폭죽을 터뜨립니다. 1회용.<font color="
+"'#9D927B'>\\n\\n축하하는 자리에 적격인 불꽃놀이. 다함께 즐기자!"
+msgstr ""
+
+msgctxt "fc318042685fbd79027a2226fa4e3810"
+msgid "ID=720102028"
+msgstr ""
+
+msgctxt "310f72e8302cc02635bae21131c4425b"
+msgid "공허의 잔재"
+msgstr ""
+
+msgctxt "f9433f46a3b6cf239aac6fc208a3304d"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n공허의 형상이 부서져 잔재로 남게 "
+"된 형태. 물질 보다는 어떠한 힘이나 현상으로 밖에 느낄 수 없다."
+msgstr ""
+
+msgctxt "ec29d27616c7a9de7c3151594eed2629"
+msgid "ID=720102029"
+msgstr ""
+
+msgctxt "fe7ad12dfbcf869c7f6076bd1cdcdc67"
+msgid "공허 파편"
+msgstr ""
+
+msgctxt "69917fe80af4400acf8565db6a884e2c"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n공허의 형상이 그대로 드러나있는 "
+"조그마한 파편. 분명히 손 위에 존재하고 있지만 마치 아무것도 없는 것 같은 느낌이 든다."
+msgstr ""
+
+msgctxt "90888114dd6cf1fe4c86917b3bd508e3"
+msgid "ID=906030025"
+msgstr ""
+
+msgctxt "a68d32037ef0f215885c010ba2b032be"
+msgid "혼이 담긴 구체"
+msgstr ""
+
+msgctxt "f6b0e01c353e9026ed80cad95896a4f2"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n공백 속을 떠도는 수많은 혼들이 "
+"결집되어있는 구체.\\n한때는 욕망에 사로잡혔던 혼이지만 육신을 버려버린 탓일까 아직 순수하고 깨끗하다."
+msgstr ""
+
+msgctxt "c8c4df80acb9a24b1fad29575d6f2de5"
+msgid "ID=906030026"
+msgstr ""
+
+msgctxt "9ce34e89990b35dd7daf887e5fc04ab0"
+msgid "학살자의 징표"
+msgstr ""
+
+msgctxt "c5aa5d91380072589c232797e2706a09"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n이미 제정신을 잃고 학살만을 일삼던 "
+"자의 잔혹함을 나타내는 징표."
+msgstr ""
+
+msgctxt "e5805451b64a571d36e776e0e6ab3a89"
+msgid "ID=906030027"
+msgstr ""
+
+msgctxt "ef85a3744425340ee461005ac247face"
+msgid "어두운 혼이 담긴 구체"
+msgstr ""
+
+msgctxt "5f9acabfd6eaa0b325af806e5e8175ca"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n공백 속을 떠도는 수많은 혼들이 "
+"결집되어있는 구체.\\n악한 성질의 혼이 섞여 탁해진 상태이다."
+msgstr ""
+
+msgctxt "354402e95fa98ca1a92e37795251415a"
+msgid "ID=906030028"
+msgstr ""
+
+msgctxt "83511b92e03fe3697ffa96c85b90ea9a"
+msgid "황금의 징표"
+msgstr ""
+
+msgctxt "2550e666ead6732c79fa8b3d5574920a"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n막강한 황금의 힘을 지닌 자들의 "
+"안에서도 가장 강한 자가 지니고 있던 징표.\\n※[골든 시타델]을 3회 클리어 퀘스트 완료로 습득 가능."
+msgstr ""
+
+msgctxt "2b4162416585452d7d405e62f8f11cc1"
+msgid "ID=906030029"
+msgstr ""
+
+msgctxt "aeb5de5f7e08d8b73a4db1ad913d1902"
+msgid "공허한 혼이 담긴 구체"
+msgstr ""
+
+msgctxt "831871f64b651e030f819b5dcd87f117"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n공백 속을 떠도는 수많은 혼들이 "
+"결집되어있는 구체.\\n사악함과 잔혹함이 섞여들어 이미 맑았던 색을 잃었다."
+msgstr ""
+
+msgctxt "9ee45ac87e02bf347fd661e66edb74e4"
+msgid "ID=906030030"
+msgstr ""
+
+msgctxt "e9321d9eb90d94bc71dce4a5e1b7a712"
+msgid "탐욕의 징표"
+msgstr ""
+
+msgctxt "bd97619a1c4096c8cd5e7c70034504f1"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n속세에 얽매여 대가를 요구하는 "
+"자들의 이기심을 나타내는 징표.\\n※[잔디이불 캠프]에 존재하는 잡화상인 [요미]의 상점중 [퀘스트] 탭에서 구입 가능."
+msgstr ""
+
+msgctxt "c341cfdb5a44a4466b63cd945c66b336"
+msgid "ID=906030031"
+msgstr ""
+
+msgctxt "7259231e0018515fa23e3d16683e875e"
+msgid "요미에게 받은 샘플"
+msgstr ""
+
+msgctxt "373606e1a10705acffcd23cab9f99c66"
+msgid ""
+"<font color='#FFBA85'>[제작 재료]<font color='#9D927B'>\\n\\n요미가 선뜻 건네준 샘플. 겉보기엔 "
+"잡동사니 같지만 의외로 강한 힘이 깃들어 있다."
+msgstr ""
+
+msgctxt "1c4934d21c17b86aaa11bf9af8701d5e"
+msgid "ID=111604661"
+msgstr ""
+
+msgctxt "496243414f5e1abc86e71e59a0667871"
+msgid "티스 오브 보이드"
+msgstr ""
+
+msgctxt "4c6089d3434347e663ad829d074de96f"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"요르하카를 죽이고 남긴 잔해를 가지고 별숲리그의 모든 기술을 총집하여 가공한 무기로 소재 본래의 힘을 다 사용하고 있지는 않지만 충분히 "
+"강력한 힘을 가지고 있다. 하루 에스티아가 사용한다.\\n\\n그 재료를 가지고 이런걸 만든거야? 딱 이정도면 무리없이 사용할 수 "
+"없겠지… 같은 느낌이잖아? 힘을 위해 사용자의 육신과 영혼을 깎는 각오 같은 건 전혀 보이지 않고 어린 자식을 떠나보내며 안전무사를 "
+"기원하는 엄마의 마음이 담겨 있네.\\n뭐, 지금은 이런걸로 괜찮을지도 몰라. 하지만 다음엔 더 진하고 더 정신나간 그 괴물의 파편을 "
+"들고 나한테 와. 내가 진짜를 보여줄게.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "e570fce47d7357ea79c968468da05c57"
+msgid "ID=111604671"
+msgstr ""
+
+msgctxt "2354246f643ee18aece61aff1e76c0c8"
+msgid "디스오더즈 헤일로 I"
+msgstr ""
+
+msgctxt "816e8c04e1fafbf0468215537b42ff49"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"모든것을 공허로 집어삼키는 요르하카의 혼이 잠식한 잔해를 거의 그대로 보존한 채 검의 형태로 만들어져 상대를 베기 보다는 존재 자체를 "
+"이물로 취급하고 그대로 지우는 것에 특화되어있다. 사용자의 소울에너지를 빨아들여 움직이므로 일반인이 섣불리 건드리면 영혼채로 빨려들어 "
+"껍질만 남게 된다고 한다. 하루 에스티아가 사용한다.\\n\\n사용하면 영혼이 깎여 나갈거야. 하지만 영혼 에너지를 순식간에 회복하는 "
+"소울워커라면 괜찮겠지.\\n오래 사용해 익숙해지면 영혼 없이 싸우는 느낌이 들거야. 그땐 그냥 공허함에 몸을 던진채 싸워봐. 널 대신해 "
+"날뛰고 싶어하는 한 괴수가 나타날테니까.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "9370e8264889f4b74d1d6ce6a46e64be"
+msgid "ID=111604672"
+msgstr "ID=111604672"
+
+msgctxt "74f768af0c903a912f0475bf6f175de6"
+msgid "디스오더즈 헤일로 II"
+msgstr "Disorders Halo II"
+
+msgctxt "3ada703c9c26b94680adcb025fe2c539"
+msgid "ID=112604661"
+msgstr ""
+
+msgctxt "ac8652cb702e089af49c8608b45b2ff3"
+msgid "브레스 오브 보이드"
+msgstr ""
+
+msgctxt "2ca90c3b00c3e7839aa783f3aa0aecd6"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"요르하카를 죽이고 남긴 잔해를 가지고 별숲리그의 모든 기술을 총집하여 가공한 무기로 소재 본래의 힘을 다 사용하고 있지는 않지만 충분히 "
+"강력한 힘을 가지고 있다. 어윈 아크라이트가 사용한다.\\n\\n그 재료를 가지고 이런걸 만든거야? 딱 이정도면 무리없이 사용할 수 "
+"없겠지… 같은 느낌이잖아? 힘을 위해 사용자의 육신과 영혼을 깎는 각오 같은 건 전혀 보이지 않고 어린 자식을 떠나보내며 안전무사를 "
+"기원하는 엄마의 마음이 담겨 있네.\\n뭐, 지금은 이런걸로 괜찮을지도 몰라. 하지만 다음엔 더 진하고 더 정신나간 그 괴물의 파편을 "
+"들고 나한테 와. 내가 진짜를 보여줄게.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "8c57c67e2cccf1ee08c43006baedfbd4"
+msgid "ID=112604671"
+msgstr ""
+
+msgctxt "5cde509994242aa9e0ffc35476f0c5aa"
+msgid "디스오더즈 블리츠 I"
+msgstr ""
+
+msgctxt "04ad141ec4bd4aabc2534f8dbb9c3052"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"모든것을 공허로 집어삼키는 요르하카의 혼이 잠식한 잔해를 거의 그대로 보존한 채 총의 형태로 만들어져 상대를 꿰뚫기 보다는 존재 자체에 "
+"구멍을 내어 그대로 황폐화 시키는 것에 특화되어있다. 사용자의 소울에너지를 빨아들여 움직이므로 일반인이 섣불리 건드리면 영혼채로 빨려들어 "
+"껍질만 남게 된다고 한다. 어윈 아크라이트가 사용한다.\\n\\n사용하면 영혼이 깎여 나갈거야. 하지만 영혼 에너지를 순식간에 회복하는 "
+"소울워커라면 괜찮겠지.\\n오래 사용해 익숙해지면 영혼 없이 싸우는 느낌이 들거야. 그땐 그냥 공허함에 몸을 던진채 싸워봐. 널 대신해 "
+"날뛰고 싶어하는 한 괴수가 나타날테니까.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "7936b591bac5734b5df4c1fc3d60b511"
+msgid "ID=112604672"
+msgstr ""
+
+msgctxt "09642cd225ec24331c9634f20a0691ad"
+msgid "디스오더즈 블리츠 II"
+msgstr ""
+
+msgctxt "ea1d2976fae6a4bb41d007e2c5f5f5d9"
+msgid "ID=113604661"
+msgstr ""
+
+msgctxt "ca197b35432fb070e57d74c716b5161f"
+msgid "클로 오브 보이드"
+msgstr ""
+
+msgctxt "f01ece6324dbd08714efe2cbbfa705f6"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"요르하카를 죽이고 남긴 잔해를 가지고 별숲리그의 모든 기술을 총집하여 가공한 무기로 소재 본래의 힘을 다 사용하고 있지는 않지만 충분히 "
+"강력한 힘을 가지고 있다. 릴리 블룸메르헨이 사용한다.\\n\\n그 재료를 가지고 이런걸 만든거야? 딱 이정도면 무리없이 사용할 수 "
+"없겠지… 같은 느낌이잖아? 힘을 위해 사용자의 육신과 영혼을 깎는 각오 같은 건 전혀 보이지 않고 어린 자식을 떠나보내며 안전무사를 "
+"기원하는 엄마의 마음이 담겨 있네.\\n뭐, 지금은 이런걸로 괜찮을지도 몰라. 하지만 다음엔 더 진하고 더 정신나간 그 괴물의 파편을 "
+"들고 나한테 와. 내가 진짜를 보여줄게.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "9484644cf6818b9eb08f167123a66bd6"
+msgid "ID=113604671"
+msgstr ""
+
+msgctxt "cf90f77edab3addc1330db3eeb397914"
+msgid "디스오더즈 메서커 I"
+msgstr ""
+
+msgctxt "330c19cab9d3fed5fd3108ec3bf48246"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"모든것을 공허로 집어삼키는 요르하카의 혼이 잠식한 잔해를 거의 그대로 보존한 채 낫의 형태로 만들어져 상대를 베기 보다는 존재 자체를 "
+"유린하고 그대로 말살하는 것에 특화되어있다. 사용자의 소울에너지를 빨아들여 움직이므로 일반인이 섣불리 건드리면 영혼채로 빨려들어 껍질만 "
+"남게 된다고 한다. 릴리 블룸메르헨이 사용한다.\\n\\n사용하면 영혼이 깎여 나갈거야. 하지만 영혼 에너지를 순식간에 회복하는 "
+"소울워커라면 괜찮겠지.\\n오래 사용해 익숙해지면 영혼 없이 싸우는 느낌이 들거야. 그땐 그냥 공허함에 몸을 던진채 싸워봐. 널 대신해 "
+"날뛰고 싶어하는 한 괴수가 나타날테니까.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "71fe467d720d0d55887311c76238629c"
+msgid "ID=113604672"
+msgstr ""
+
+msgctxt "4db82dbf75f7cd68b17b5615624031cb"
+msgid "디스오더즈 메서커 II"
+msgstr ""
+
+msgctxt "9f32177c8c73d970fe7874bb5738ef00"
+msgid "ID=114604661"
+msgstr ""
+
+msgctxt "000cba894d0b987cdfdd410792313fbb"
+msgid "피스트 오브 보이드"
+msgstr ""
+
+msgctxt "0ebbd6ea91b54b8fd5e2b4d2837f3fec"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"요르하카를 죽이고 남긴 잔해를 가지고 별숲리그의 모든 기술을 총집하여 가공한 무기로 소재 본래의 힘을 다 사용하고 있지는 않지만 충분히 "
+"강력한 힘을 가지고 있다. 진 세이파츠가 사용한다.\\n\\n그 재료를 가지고 이런걸 만든거야? 딱 이정도면 무리없이 사용할 수 없겠지… "
+"같은 느낌이잖아? 힘을 위해 사용자의 육신과 영혼을 깎는 각오 같은 건 전혀 보이지 않고 어린 자식을 떠나보내며 안전무사를 기원하는 "
+"엄마의 마음이 담겨 있네.\\n뭐, 지금은 이런걸로 괜찮을지도 몰라. 하지만 다음엔 더 진하고 더 정신나간 그 괴물의 파편을 들고 나한테 "
+"와. 내가 진짜를 보여줄게.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "0c7639be8d4b4a0653e99cf571d0da0b"
+msgid "ID=114604671"
+msgstr ""
+
+msgctxt "295219c54c177c689105fe0d81e0e221"
+msgid "디스오더즈 램페이지 I"
+msgstr ""
+
+msgctxt "5f73884ffecc4fb15a8651942254e5e1"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"모든것을 공허로 집어삼키는 요르하카의 혼이 잠식한 잔해를 거의 그대로 보존한 채 권갑의 형태로 만들어져 상대를 두드리기 보다는 존재 "
+"자체를 짓누르고 그대로 박살내는 것에 특화되어있다. 사용자의 소울에너지를 빨아들여 움직이므로 일반인이 섣불리 건드리면 영혼채로 빨려들어 "
+"껍질만 남게 된다고 한다. 진 세이파츠가 사용한다.\\n\\n사용하면 영혼이 깎여 나갈거야. 하지만 영혼 에너지를 순식간에 회복하는 "
+"소울워커라면 괜찮겠지.\\n오래 사용해 익숙해지면 영혼 없이 싸우는 느낌이 들거야. 그땐 그냥 공허함에 몸을 던진채 싸워봐. 널 대신해 "
+"날뛰고 싶어하는 한 괴수가 나타날테니까.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "68d28a5de9e65270b0f3cd36da734b57"
+msgid "ID=114604672"
+msgstr ""
+
+msgctxt "98912a91c88830522c52a99064d6b494"
+msgid "디스오더즈 램페이지 II"
+msgstr ""
+
+msgctxt "2033464c6c4431748e6c25cbe023742b"
+msgid "ID=115604661"
+msgstr ""
+
+msgctxt "06dfd734ea426abcc606080f7d6c8800"
+msgid "보이스 오브 보이드"
+msgstr ""
+
+msgctxt "97f1b781749efa5531b6a8d99f7e1c73"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"요르하카를 죽이고 남긴 잔해를 가지고 별숲리그의 모든 기술을 총집하여 가공한 무기로 소재 본래의 힘을 다 사용하고 있지는 않지만 충분히 "
+"강력한 힘을 가지고 있다. 스텔라 유니벨이 사용한다.\\n\\n그 재료를 가지고 이런걸 만든거야? 딱 이정도면 무리없이 사용할 수 "
+"없겠지… 같은 느낌이잖아? 힘을 위해 사용자의 육신과 영혼을 깎는 각오 같은 건 전혀 보이지 않고 어린 자식을 떠나보내며 안전무사를 "
+"기원하는 엄마의 마음이 담겨 있네.\\n뭐, 지금은 이런걸로 괜찮을지도 몰라. 하지만 다음엔 더 진하고 더 정신나간 그 괴물의 파편을 "
+"들고 나한테 와. 내가 진짜를 보여줄게.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "03a70583c6d0c80ce54a06158c4f054b"
+msgid "ID=115604671"
+msgstr ""
+
+msgctxt "1e428ead56804a1413716b5b4b7dc66a"
+msgid "디스오더즈 오페라 I"
+msgstr ""
+
+msgctxt "eba51b6f906a66828e9e741f6034b362"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"모든것을 공허로 집어삼키는 요르하카의 혼이 잠식한 잔해를 거의 그대로 보존한 채 기타의 형태로 만들어져 연주하기 보다는 상대의 존재 "
+"자체를 흐리게 하고 그대로 소멸시키는 것에 특화되어있다. 사용자의 소울에너지를 빨아들여 움직이므로 일반인이 섣불리 건드리면 영혼채로 "
+"빨려들어 껍질만 남게 된다고 한다. 스텔라 유니벨이 사용한다.\\n\\n사용하면 영혼이 깎여 나갈거야. 하지만 영혼 에너지를 순식간에 "
+"회복하는 소울워커라면 괜찮겠지.\\n오래 사용해 익숙해지면 영혼 없이 싸우는 느낌이 들거야. 그땐 그냥 공허함에 몸을 던진채 싸워봐. 널 "
+"대신해 날뛰고 싶어하는 한 괴수가 나타날테니까.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "3bf25f6f73f2b97cdee672f84342c77d"
+msgid "ID=115604672"
+msgstr ""
+
+msgctxt "3680aed8783d8adbe2b78439dbbcd33f"
+msgid "디스오더즈 오페라 II"
+msgstr ""
+
+msgctxt "92e75d4b1cd8b8ee94d50a6fe9c37001"
+msgid "ID=116604661"
+msgstr ""
+
+msgctxt "7862cc6d793422cdbd7d4bb1d90e95f4"
+msgid "암 오브 보이드"
+msgstr ""
+
+msgctxt "70243117f6ee2a8861d060fa01c665e3"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"요르하카를 죽이고 남긴 잔해를 가지고 별숲리그의 모든 기술을 총집하여 가공한 무기로 소재 본래의 힘을 다 사용하고 있지는 않지만 충분히 "
+"강력한 힘을 가지고 있다. 이리스 유마가 사용한다.\\n\\n그 재료를 가지고 이런걸 만든거야? 딱 이정도면 무리없이 사용할 수 없겠지… "
+"같은 느낌이잖아? 힘을 위해 사용자의 육신과 영혼을 깎는 각오 같은 건 전혀 보이지 않고 어린 자식을 떠나보내며 안전무사를 기원하는 "
+"엄마의 마음이 담겨 있네.\\n뭐, 지금은 이런걸로 괜찮을지도 몰라. 하지만 다음엔 더 진하고 더 정신나간 그 괴물의 파편을 들고 나한테 "
+"와. 내가 진짜를 보여줄게.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "cb0ecfff101daadaf989bdc89e7fbeb4"
+msgid "ID=116604671"
+msgstr ""
+
+msgctxt "6a980eb8f1efdc01ea4c212bbe47927f"
+msgid "디스오더즈 디재스터 I"
+msgstr ""
+
+msgctxt "704bd87d977f7af4c9673291d48ee510"
+msgid ""
+"<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\\n\\n소울워커 전용 무기. "
+"모든것을 공허로 집어삼키는 요르하카의 혼이 잠식한 잔해를 거의 그대로 보존한 채 해머의 형태로 만들어져 상대를 부수기 보다는  존재 "
+"자체를 부정 하고 그대로 파괴하는 것에 특화되어있다. 사용자의 소울에너지를 빨아들여 움직이므로 일반인이 섣불리 건드리면 영혼채로 빨려들어 "
+"껍질만 남게 된다고 한다. 이리스 유마가 사용한다.\\n\\n사용하면 영혼이 깎여 나갈거야. 하지만 영혼 에너지를 순식간에 회복하는 "
+"소울워커라면 괜찮겠지.\\n오래 사용해 익숙해지면 영혼 없이 싸우는 느낌이 들거야. 그땐 그냥 공허함에 몸을 던진채 싸워봐. 널 대신해 "
+"날뛰고 싶어하는 한 괴수가 나타날테니까.\\n- 제니스 -"
+msgstr ""
+
+msgctxt "b40cb6875a5c6f5953b7dc59c6991dfb"
+msgid "ID=116604672"
+msgstr ""
+
+msgctxt "4adf67ef95dc8ceb22a52dd5b07ce5e8"
+msgid "디스오더즈 디재스터 II"
+msgstr ""
+
+msgctxt "203a3f0f2874ac589f48a6adcb53545f"
+msgid "ID=510604461"
+msgstr ""
+
+msgctxt "42a27bc074630d530fd68cabdcca99a0"
+msgid "혼 오브 보이드"
+msgstr ""
+
+msgctxt "a7624e8e2eca49e11be69c81ce359818"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"요르하카의 잔해로 만들어졌다. 단순히 소재를 가공해 몸에 두를 뿐이라 모든 것을 지워 없앨 것 같았던 존재의 힘은 대부분 사라졌지만 "
+"그럼에도 충분히 강력한 힘을 발휘하는 듯 하다. 머리에 착용할 수 있다.\\n\\n그 괴물의 일부군요. 위협적인 힘이었습니다만 자신의 "
+"것으로 한다면 유용할지도 모르겠네요.\\n- 테네브리스 -"
+msgstr ""
+
+msgctxt "4b65ce8f246edc76c9bc689f94122bae"
+msgid "ID=510604601"
+msgstr ""
+
+msgctxt "8ce898a605a82decbaa831df6af11ece"
+msgid "디스오더즈 파나틱 헤드 I"
+msgstr ""
+
+msgctxt "45cb76bd09e847532dc3c6fb060e55a2"
+msgid ""
+"<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"요르하카가 남긴 광기를 가공하여 사용자의 머리에 착용할 수 있는 형태로 만들어졌다. 요르하카가 지니고 있던 의식, 욕망, 영혼이 사용자를 "
+"잠식하기 위해 영혼에 흘러들어 오고 그 잠식에 저항하지 못한 자는 그대로 한줌의 식사가 되지만 반대로 저항한 자에겐 협력을 약속하여 힘을 "
+"공유한다.\\n\\n이용하는 것은 좋으나 의지하지는 마세요. 아무리 당신이라도 마음이 무너지는 순간 한줌의 영혼이 될 뿐입니다.\\n- "
+"테네브리스 -"
+msgstr ""
+
+msgctxt "c83015561087fd82e862967ff52643c6"
+msgid "ID=510604602"
+msgstr ""
+
+msgctxt "ceff479b2259c653b573e23c0fdf99d2"
+msgid "디스오더즈 파나틱 헤드 II"
+msgstr ""
+
+msgctxt "527e20a85076b3b680dec0196af02282"
+msgid "ID=520604461"
+msgstr ""
+
+msgctxt "4fc7b35707e9cc4175dbd9dab66b7c07"
+msgid "스킨 오브 보이드"
+msgstr ""
+
+msgctxt "c9644d7801123fb4f0b062dc1ca40a6b"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"요르하카의 잔해로 만들어졌다. 단순히 소재를 가공해 몸에 두를 뿐이라 모든 것을 지워 없앨 것 같았던 존재의 힘은 대부분 사라졌지만 "
+"그럼에도 충분히 강력한 힘을 발휘하는 듯 하다. 어깨에 착용할 수 있다.\\n\\n그 괴물의 일부군요. 위협적인 힘이었습니다만 자신의 "
+"것으로 한다면 유용할지도 모르겠네요.\\n- 테네브리스 -"
+msgstr ""
+
+msgctxt "44ceafa0881e0d20f1767dc038966fa2"
+msgid "ID=520604601"
+msgstr ""
+
+msgctxt "527f4dc251651c0d5ded13f9eb5b11cb"
+msgid "디스오더즈 파나틱 숄더 I"
+msgstr ""
+
+msgctxt "e9fd5121a16cefe2b4fcd5135b91de90"
+msgid ""
+"<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"요르하카가 남긴 광기를 가공하여 사용자의 어깨에 착용할 수 있는 형태로 만들어졌다. 요르하카가 지니고 있던 의식, 욕망, 영혼이 사용자를 "
+"잠식하기 위해 영혼에 흘러들어 오고 그 잠식에 저항하지 못한 자는 그대로 한줌의 식사가 되지만 반대로 저항한 자에겐 협력을 약속하여 힘을 "
+"공유한다.\\n\\n이용하는 것은 좋으나 의지하지는 마세요. 아무리 당신이라도 마음이 무너지는 순간 한줌의 영혼이 될 뿐입니다.\\n- "
+"테네브리스 -"
+msgstr ""
+
+msgctxt "cdfe269483ad86dcde2c3253f497b31b"
+msgid "ID=520604602"
+msgstr ""
+
+msgctxt "f58ba8ab2f4d72c50446a2a2e888a810"
+msgid "디스오더즈 파나틱 숄더 II"
+msgstr ""
+
+msgctxt "e76c6f7bca87740f294821131374b453"
+msgid "ID=530604461"
+msgstr ""
+
+msgctxt "22e9b668a2ed6a5bbb5350a4e74c3d66"
+msgid "하트 오브 보이드"
+msgstr ""
+
+msgctxt "d6c7d0390f2142ad5034e9f23bb5d9aa"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"요르하카의 잔해로 만들어졌다. 단순히 소재를 가공해 몸에 두를 뿐이라 모든 것을 지워 없앨 것 같았던 존재의 힘은 대부분 사라졌지만 "
+"그럼에도 충분히 강력한 힘을 발휘하는 듯 하다. 가슴에 착용할 수 있다.\\n\\n그 괴물의 일부군요. 위협적인 힘이었습니다만 자신의 "
+"것으로 한다면 유용할지도 모르겠네요.\\n- 테네브리스 -"
+msgstr ""
+
+msgctxt "f5c5f241a746ae27cad06954bc0c2cc9"
+msgid "ID=530604601"
+msgstr ""
+
+msgctxt "45c36f2cbd31762bf1f598dcf2a503e9"
+msgid "디스오더즈 파나틱 바디 I"
+msgstr ""
+
+msgctxt "d6634cc716629c0d34648a3ee89070c2"
+msgid ""
+"<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"요르하카가 남긴 광기를 가공하여 사용자의 가슴에 착용할 수 있는 형태로 만들어졌다. 요르하카가 지니고 있던 의식, 욕망, 영혼이 사용자를 "
+"잠식하기 위해 영혼에 흘러들어 오고 그 잠식에 저항하지 못한 자는 그대로 한줌의 식사가 되지만 반대로 저항한 자에겐 협력을 약속하여 힘을 "
+"공유한다.\\n\\n이용하는 것은 좋으나 의지하지는 마세요. 아무리 당신이라도 마음이 무너지는 순간 한줌의 영혼이 될 뿐입니다.\\n- "
+"테네브리스 -"
+msgstr ""
+
+msgctxt "59a35cc5deb777927ce19cfab3cff236"
+msgid "ID=530604602"
+msgstr ""
+
+msgctxt "df00fc387eff411fb6c9357f11382de2"
+msgid "디스오더즈 파나틱 바디 II"
+msgstr ""
+
+msgctxt "fe17ff8c4f01d312f625af357787e4dc"
+msgid "ID=540604461"
+msgstr ""
+
+msgctxt "16a5a44c430e472014e21e23516a5d66"
+msgid "텐던 오브 보이드"
+msgstr ""
+
+msgctxt "7a1a5a15ec4b260c23c677e6cc5ce462"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"요르하카의 잔해로 만들어졌다. 단순히 소재를 가공해 몸에 두를 뿐이라 모든 것을 지워 없앨 것 같았던 존재의 힘은 대부분 사라졌지만 "
+"그럼에도 충분히 강력한 힘을 발휘하는 듯 하다. 다리에 착용할 수 있다.\\n\\n그 괴물의 일부군요. 위협적인 힘이었습니다만 자신의 "
+"것으로 한다면 유용할지도 모르겠네요.\\n- 테네브리스 -"
+msgstr ""
+
+msgctxt "48e1f23e7ee2ab51cd974a140ca0e8a2"
+msgid "ID=540604601"
+msgstr ""
+
+msgctxt "88881c5e57267c08794fcda0e40cd2f5"
+msgid "디스오더즈 파나틱 레그 I"
+msgstr ""
+
+msgctxt "e7841a323212d89f11f5dadf8a60798d"
+msgid ""
+"<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\\n\\n소울워커 전용 방어구. "
+"요르하카가 남긴 광기를 가공하여 사용자의 다리에 착용할 수 있는 형태로 만들어졌다. 요르하카가 지니고 있던 의식, 욕망, 영혼이 사용자를 "
+"잠식하기 위해 영혼에 흘러들어 오고 그 잠식에 저항하지 못한 자는 그대로 한줌의 식사가 되지만 반대로 저항한 자에겐 협력을 약속하여 힘을 "
+"공유한다.\\n\\n이용하는 것은 좋으나 의지하지는 마세요. 아무리 당신이라도 마음이 무너지는 순간 한줌의 영혼이 될 뿐입니다.\\n- "
+"테네브리스 -"
+msgstr ""
+
+msgctxt "ef5f43ed07f83a5490dd46d22e705e66"
+msgid "ID=540604602"
+msgstr ""
+
+msgctxt "a7a31d7fb9a6e87ca6f25809db0e8a74"
+msgid "디스오더즈 파나틱 레그 II"
+msgstr ""
+
+msgctxt "71a13a9f4b9404003482d9ccb8cbfbd9"
+msgid "ID=410604402"
+msgstr ""
+
+msgctxt "21073855a87df3227359b76a78221ad2"
+msgid "블레싱 오브 보이드"
+msgstr ""
+
+msgctxt "6c23b3bb7b8d4a98f895e456da78f763"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"공허 안에서 날뛰던 요르하카가 자신을 토벌한 자들을 인정하고 마지막으로 남긴 자신의 잔해. 목에 착용할 수 있다.\\n\\n악의는 없어 "
+"보입니다… 단지 당신 곁에서 앞으로도 계속 존재하고 싶을 뿐인것 같군요.\\n- 테네브리스 -"
+msgstr ""
+
+msgctxt "c1e7cb269101d0b491391b847d033e64"
+msgid "ID=430604402"
+msgstr ""
+
+msgctxt "22b52e06a879d1493be9c60443b2e7b8"
+msgid "기프트 오브 보이드"
+msgstr ""
+
+msgctxt "18b354f65b9ef2ce8a974ecbf10a36d6"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"공허 안에서 날뛰던 요르하카가 자신을 토벌한 자들을 인정하고 마지막으로 남긴 자신의 잔해. 귀에 착용할 수 있다.\\n\\n악의는 없어 "
+"보입니다… 단지 당신 곁에서 앞으로도 계속 존재하고 싶을 뿐인것 같군요.\\n- 테네브리스 -"
+msgstr ""
+
+msgctxt "99d263ee531d32e963523b1cea4f7836"
+msgid "ID=440604403"
+msgstr ""
+
+msgctxt "3f2d15c966ce34923c9b04d265548823"
+msgid "프로미스 오브 보이드"
+msgstr ""
+
+msgctxt "fc5537e37056a06d00b2a01e508ebbb5"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. 공허 "
+"안에서 날뛰던 요르하카가 자신을 토벌한 자들을 인정하고 마지막으로 남긴 자신의 잔해. 손가락에 착용할 수 있다.\\n\\n악의는 없어 "
+"보입니다… 단지 당신 곁에서 앞으로도 계속 존재하고 싶을 뿐인것 같군요.\\n- 테네브리스 -"
+msgstr ""
+
+msgctxt "fac67b1327adeb6611a190520d707efb"
+msgid "ID=440604404"
+msgstr ""
+
+msgctxt "bcbe4aba0e752fc7975923f19151e3c8"
+msgid "콘트랙트 오브 보이드"
+msgstr ""
+
+msgctxt "61e8136df58f3ccda8476b5190ac6750"
+msgid "ID=410605401"
+msgstr ""
+
+msgctxt "a84f92a4e249ab402f6082a74a9bb784"
+msgid "디스오더즈 블레싱"
+msgstr ""
+
+msgctxt "19388a1a282446d3d71635af492a6483"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"공허 안에서 날뛰던 요르하카가 자신을 토벌한 자들의 운명을 인정하고 그들에게 잠식하면서 건네어준 축복. 목에 착용할 수 있다."
+"\\n\\n이곳에서 쓰러지기 보단 당신의 곁에서 더 추악하고 공허해질 세상을 보고 싶어하는 것 같습니다. 놈이 빌려준 힘은 고맙게 "
+"사용하도록 하죠.\\n- 테네브리스 -"
+msgstr ""
+
+msgctxt "09ae297452e05913750ab122ee8c194f"
+msgid "ID=430605401"
+msgstr ""
+
+msgctxt "f1fc0345cb4382ccaf4687c46cdfb282"
+msgid "디스오더즈 기프트"
+msgstr ""
+
+msgctxt "db2fb3a37ba7fcfc415c3b473b5e38ef"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. "
+"공허 안에서 날뛰던 요르하카가 자신을 토벌한 자들의 운명을 인정하고 그들에게 잠식하면서 건네어준 선물. 귀에 착용할 수 있다."
+"\\n\\n이곳에서 쓰러지기 보단 당신의 곁에서 더 추악하고 공허해질 세상을 보고 싶어하는 것 같습니다. 놈이 빌려준 힘은 고맙게 "
+"사용하도록 하죠.\\n- 테네브리스 -"
+msgstr ""
+
+msgctxt "bfd2465cfc80652773f18dbeaa7be5fd"
+msgid "ID=440605401"
+msgstr ""
+
+msgctxt "fc8df5597c43e816e67ea2179bef62e9"
+msgid "디스오더즈 프로미스"
+msgstr ""
+
+msgctxt "c9705828385116b0fa6dc71807306012"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. 공허 "
+"안에서 날뛰던 요르하카가 자신을 토벌한 자들의 운명을 인정하고 그들에게 잠식하면서 건네어준 약속. 손가락에 착용할 수 있다."
+"\\n\\n이곳에서 쓰러지기 보단 당신의 곁에서 더 추악하고 공허해질 세상을 보고 싶어하는 것 같습니다. 놈이 빌려준 힘은 고맙게 "
+"사용하도록 하죠.\\n- 테네브리스 -"
+msgstr ""
+
+msgctxt "f98197f2b8b99d38a25b327845a20e90"
+msgid "ID=440605402"
+msgstr ""
+
+msgctxt "eac63f80cd6341f96e18d2f0354b72d6"
+msgid "디스오더즈 콘트랙트"
+msgstr ""
+
+msgctxt "e992510e015c470e8eb5065e868f56ee"
+msgid ""
+"<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\\n\\n소울워커 전용 액세서리. 공허 "
+"안에서 날뛰던 요르하카가 자신을 토벌한 자들의 운명을 인정하고 그들에게 잠식하면서 건네어준 계약. 손가락에 착용할 수 있다."
+"\\n\\n이곳에서 쓰러지기 보단 당신의 곁에서 더 추악하고 공허해질 세상을 보고 싶어하는 것 같습니다. 놈이 빌려준 힘은 고맙게 "
+"사용하도록 하죠.\\n- 테네브리스 -"
+msgstr ""
+
+msgctxt "d913e12032c0bc48336c548498dca2a4"
+msgid "ID=711604661"
+msgstr ""
+
+msgctxt "57b7b65cdf94cf64a06f42d599e0dde4"
+msgid "[설계도]티스 오브 보이드"
+msgstr ""
+
+msgctxt "b6c076b3e9fe367f9fbd5059712b3394"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n티스 오브 보이드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "eae61305e0d3eea21f3460eedd854f7c"
+msgid "ID=711604671"
+msgstr ""
+
+msgctxt "6b5cdff1670b8d081c28aff13644efbd"
+msgid "[설계도]디스오더즈 헤일로 I"
+msgstr ""
+
+msgctxt "f8130192da6b7bb97114d9df52a96b4c"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 헤일로 I를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "7930d6afaec2a8f2aa48a89db24500d6"
+msgid "ID=711604672"
+msgstr ""
+
+msgctxt "7cafb392a2d06abbb4391ef08fe9c018"
+msgid "[설계도]디스오더즈 헤일로 II"
+msgstr ""
+
+msgctxt "a9ac2d9e59aa4e3e94777ca61cf141f1"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 헤일로 II를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "38eac95f5c1c7dc618f16fbcfad18826"
+msgid "ID=712604661"
+msgstr ""
+
+msgctxt "e9457ecf3fa76959e9a3e56862fcf35f"
+msgid "[설계도]브레스 오브 보이드"
+msgstr ""
+
+msgctxt "34720176ace9c9b507fc7b71f7817424"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n브레스 오브 보이드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "687f8fb7e1fddeb0f24e53c6deb03b2d"
+msgid "ID=712604671"
+msgstr ""
+
+msgctxt "42e7ba5b71021ba2c06e105029142bf7"
+msgid "[설계도]디스오더즈 블리츠 I"
+msgstr ""
+
+msgctxt "1b4c3cc640262f12e6297bfc7836e099"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 블리츠 I를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "9d0e5f93d893b297e724ed2f9bbc117a"
+msgid "ID=712604672"
+msgstr ""
+
+msgctxt "fa043b6f5abc9afb398447d46d788521"
+msgid "[설계도]디스오더즈 블리츠 II"
+msgstr ""
+
+msgctxt "2082290ddef4a41ce33515bd922d1b96"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 블리츠 II를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "685d7dadc6fb2f039e0db7513ee1a03f"
+msgid "ID=713604661"
+msgstr ""
+
+msgctxt "e372872eaec3cdce4cc5771e17ce489a"
+msgid "[설계도]클로 오브 보이드"
+msgstr ""
+
+msgctxt "321aa18410135ab7affafd7bda657b0d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n클로 오브 보이드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "5132d5704ed5e79dbf4013e799675005"
+msgid "ID=713604671"
+msgstr ""
+
+msgctxt "9c50a62bed49b9068e2dcd2c1045b61d"
+msgid "[설계도]디스오더즈 메서커 I"
+msgstr ""
+
+msgctxt "a1c50d22904c1d6fbf3a3d1e64738039"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 메서커 I를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "a35c2583329e6defee291d10555516c6"
+msgid "ID=713604672"
+msgstr ""
+
+msgctxt "cb704bca0a2d3310ab611c5f5b612bb1"
+msgid "[설계도]디스오더즈 메서커 II"
+msgstr ""
+
+msgctxt "61d6b88ad04abc10a2cb6d6880f06b3a"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 메서커 II를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "7499595cf94167f408ecfef53fa1ecd6"
+msgid "ID=714604661"
+msgstr ""
+
+msgctxt "05663a139b6cbfd5d36c2606eb786c35"
+msgid "[설계도]피스트 오브 보이드"
+msgstr ""
+
+msgctxt "2fe0647713970227802653951d262d0d"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n피스트 오브 보이드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "3b95bebcfd919768987e28802c4628bd"
+msgid "ID=714604671"
+msgstr ""
+
+msgctxt "af3ce1987767894c1d6b1565b2ae7569"
+msgid "[설계도]디스오더즈 램페이지 I"
+msgstr ""
+
+msgctxt "301030d64a312b982f0945c0f91d4de7"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 램페이지 I를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "cbe3d327c180445c73d46768f05faf57"
+msgid "ID=714604672"
+msgstr ""
+
+msgctxt "b56bc433dccd647a24900e80df8074ed"
+msgid "[설계도]디스오더즈 램페이지 II"
+msgstr ""
+
+msgctxt "f433a01c9aa3d404feb5cc401e9c4dcb"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 램페이지 II를 만들 수 "
+"있는 설계도."
+msgstr ""
+
+msgctxt "65a3404297ed3ffbcbdca6b49fdca9c1"
+msgid "ID=715604661"
+msgstr ""
+
+msgctxt "4b585bd4c2f6d2d78771e7cd2e7f5295"
+msgid "[설계도]보이스 오브 보이드"
+msgstr ""
+
+msgctxt "38da6ee967d54cf660baeaacb7c2c181"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n보이스 오브 보이드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "62290f5af50c085b53dbac48d2755f05"
+msgid "ID=715604671"
+msgstr ""
+
+msgctxt "3d59da38621f7e5ecc77e32853b4bc68"
+msgid "[설계도]디스오더즈 오페라 I"
+msgstr ""
+
+msgctxt "f9c8b0ea692d355c679248cc598923bb"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 오페라 I를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "3459fab459011ead40ce1412bdc0fa1c"
+msgid "ID=715604672"
+msgstr ""
+
+msgctxt "32752736bbe0096c85a94768a0ac8e8a"
+msgid "[설계도]디스오더즈 오페라 II"
+msgstr ""
+
+msgctxt "d4f7b16c8e67d010778e04c3c603e671"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 오페라 II를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "b242ddcbcb93bb0083a31d4039bc1203"
+msgid "ID=716604661"
+msgstr ""
+
+msgctxt "7ee98901002cf0b9c80cc794cb69c946"
+msgid "[설계도]암 오브 보이드"
+msgstr ""
+
+msgctxt "4031c621a58307602afc2ad67df8570f"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n암 오브 보이드를 만들 수 있는 설계도."
+""
+msgstr ""
+
+msgctxt "47bd392afe8c1bd5b055ef62d7249731"
+msgid "ID=716604671"
+msgstr ""
+
+msgctxt "319c33ab80e5ef1985b70f96d894ee05"
+msgid "[설계도]디스오더즈 디재스터 I"
+msgstr ""
+
+msgctxt "c94b74b744cc204b44b09b66b0a39d47"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 디재스터 I를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "d6e30956d2940d7a77c9cad4938ae07e"
+msgid "ID=716604672"
+msgstr ""
+
+msgctxt "9fa15bb87ec833cf7ebfe727ed43ea77"
+msgid "[설계도]디스오더즈 디재스터 II"
+msgstr ""
+
+msgctxt "9cea530a7720ac87538879bad52543c3"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 디재스터 II를 만들 수 "
+"있는 설계도."
+msgstr ""
+
+msgctxt "ca1e37c2ea7bd382ab2ff327c45d3a49"
+msgid "ID=710604461"
+msgstr ""
+
+msgctxt "377c8bffde4c833c0ffc2aab7382c1fd"
+msgid "[설계도]혼 오브 보이드"
+msgstr ""
+
+msgctxt "af57b2d7c1ccb06ebef5d9a5e4426ba8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n혼 오브 보이드를 만들 수 있는 설계도."
+""
+msgstr ""
+
+msgctxt "220ca63bec9ebb26d02ee95c75a0f305"
+msgid "ID=710604601"
+msgstr ""
+
+msgctxt "7700058642f7d43eddb50d283d6ce49d"
+msgid "[설계도]디스오더즈 파나틱 헤드 I"
+msgstr ""
+
+msgctxt "1590bcf1499121a989ae51d1458f51ba"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 파나틱 헤드 I를 만들 수 "
+"있는 설계도."
+msgstr ""
+
+msgctxt "e53a1c4ca20d1f54579605305732dbff"
+msgid "ID=710604602"
+msgstr ""
+
+msgctxt "d05330e0435fac261ea0c0e60ff08922"
+msgid "[설계도]디스오더즈 파나틱 헤드 II"
+msgstr ""
+
+msgctxt "4a0b031ff38e078be14d095bf33163f6"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 파나틱 헤드 II를 만들 수 "
+"있는 설계도."
+msgstr ""
+
+msgctxt "0d8a0ac962a3babd185da7c1c8dd2a0b"
+msgid "ID=720604461"
+msgstr ""
+
+msgctxt "17cb559e8fd2c59aafa6d045d2798364"
+msgid "[설계도]스킨 오브 보이드"
+msgstr ""
+
+msgctxt "1ff25b7f64c3cdb1096527994e258fac"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n스킨 오브 보이드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "55c019e3f16272ae023b1518b62eb4f3"
+msgid "ID=720604601"
+msgstr ""
+
+msgctxt "527c220096fe526bfe3bbda8a9ebc5fb"
+msgid "[설계도]디스오더즈 파나틱 숄더 I"
+msgstr ""
+
+msgctxt "5573bf3729014d817b0287290e62f461"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 파나틱 숄더 I를 만들 수 "
+"있는 설계도."
+msgstr ""
+
+msgctxt "15cff469acb0f7bfe8c33f13bcc63f84"
+msgid "ID=720604602"
+msgstr ""
+
+msgctxt "b23a49fcc2db1369d6b2de87d2756696"
+msgid "[설계도]디스오더즈 파나틱 숄더 II"
+msgstr ""
+
+msgctxt "023c28ff9475b24f5dbac834c9bf3954"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 파나틱 숄더 II를 만들 수 "
+"있는 설계도."
+msgstr ""
+
+msgctxt "0cbe5ce496b0fb096b0b05277af00bff"
+msgid "ID=730604461"
+msgstr ""
+
+msgctxt "ef5c75131c278d7dc5f66175110d8ad8"
+msgid "[설계도]하트 오브 보이드"
+msgstr ""
+
+msgctxt "d97a07e03735a3de2f6bb0768cdd62af"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n하트 오브 보이드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "84669d4325eb8faa3ceddac9c2e5d306"
+msgid "ID=730604601"
+msgstr ""
+
+msgctxt "fd6ae51f03ace4e1402c17f633a1e41c"
+msgid "[설계도]디스오더즈 파나틱 바디 I"
+msgstr ""
+
+msgctxt "b7bb7eb531703c54ede267d9ec904514"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 파나틱 바디 I를 만들 수 "
+"있는 설계도."
+msgstr ""
+
+msgctxt "bed2cb6fb0cf0fb7f5d67ec16033b3a6"
+msgid "ID=730604602"
+msgstr ""
+
+msgctxt "73cf79e1942439a8344380741832a233"
+msgid "[설계도]디스오더즈 파나틱 바디 II"
+msgstr ""
+
+msgctxt "ccb572922e25e7d75519373a79212b01"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 파나틱 바디 II를 만들 수 "
+"있는 설계도."
+msgstr ""
+
+msgctxt "2880bc17ad047a39e1eb9c2d5d367ce0"
+msgid "ID=740604461"
+msgstr ""
+
+msgctxt "866e3cbcd3f78c28ed745344f7ff522f"
+msgid "[설계도]텐던 오브 보이드"
+msgstr ""
+
+msgctxt "6b721c4ceafaf7ca5ef1b39c7bf12e61"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n텐던 오브 보이드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "ccb4e0abbd9df9785c1a2a189847207f"
+msgid "ID=740604601"
+msgstr ""
+
+msgctxt "70c845c7b6d9f6368ab1d63e621d10fb"
+msgid "[설계도]디스오더즈 파나틱 레그 I"
+msgstr ""
+
+msgctxt "7fac70f69355eea32d430292c44213db"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 파나틱 레그 I를 만들 수 "
+"있는 설계도."
+msgstr ""
+
+msgctxt "bb15ad279128f4e87c14217def0bcd06"
+msgid "ID=740604602"
+msgstr ""
+
+msgctxt "4600b5fc2d77c39d4bcf9ce54d6d8d47"
+msgid "[설계도]디스오더즈 파나틱 레그 II"
+msgstr ""
+
+msgctxt "d4ba5b13b17257b9e01a44e2848e00a3"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 파나틱 레그 II를 만들 수 "
+"있는 설계도."
+msgstr ""
+
+msgctxt "9c9886aabb21a65dd9a1b19467de7ff5"
+msgid "ID=710604401"
+msgstr ""
+
+msgctxt "a998916921e6801ddf475f1f4322d04a"
+msgid "[설계도]블레싱 오브 보이드"
+msgstr ""
+
+msgctxt "0d1eacb5977bbe039e8ec0432a264716"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n블레싱 오브 보이드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "8e9d86e449fe89266eb1b4b66aa841e4"
+msgid "ID=730604401"
+msgstr ""
+
+msgctxt "1cb534de00b346531af92bf860ebbd2f"
+msgid "[설계도]기프트 오브 보이드"
+msgstr ""
+
+msgctxt "c9543e10aeea2872a85a3e210037c0d8"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n기프트 오브 보이드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "787f68fb8c9fb9b65f6b4390b41a0c4f"
+msgid "ID=740604401"
+msgstr ""
+
+msgctxt "9a38c6ca15c97d4d9e190ca5a038219c"
+msgid "[설계도]프로미스 오브 보이드"
+msgstr ""
+
+msgctxt "7e4ea4b094253e88e138ee4e652154e5"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n프로미스 오브 보이드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "094b89dcea003cfd82feafbe34551a5e"
+msgid "ID=740604402"
+msgstr ""
+
+msgctxt "0f5922ace9670331a1f7dddef817977c"
+msgid "[설계도]콘트랙트 오브 보이드"
+msgstr ""
+
+msgctxt "f26a0f0fc41423ed8e7c7f990228b1e6"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n콘트랙트 오브 보이드를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "95870ae5c767e3e0aa5fbc1b2f519fba"
+msgid "ID=710605401"
+msgstr ""
+
+msgctxt "566129b55567e8ac82b095bdf55fdc0d"
+msgid "[설계도]디스오더즈 블레싱"
+msgstr ""
+
+msgctxt "0e3d0a3e878069080cf2e7f585eca8b3"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 블레싱를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "24d9bbc3a5aa35bc481c3a0f6ebfd238"
+msgid "ID=730605401"
+msgstr ""
+
+msgctxt "2e92de4b232057a2a4af247b919c2b26"
+msgid "[설계도]디스오더즈 기프트"
+msgstr ""
+
+msgctxt "68c450080c1dc80ea27b812ee603544b"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 기프트를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "5cbbfc063778a61debf4ac3f11e6af50"
+msgid "ID=740605401"
+msgstr ""
+
+msgctxt "044861eca8d2db5546e669e886bcb154"
+msgid "[설계도]디스오더즈 프로미스"
+msgstr ""
+
+msgctxt "5ef73b2a8f6d14b0ac5f4bb6d1c06318"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 프로미스를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "7078fc9fe5b233ec5df433079872c5b8"
+msgid "ID=740605402"
+msgstr ""
+
+msgctxt "4297895fa8c4b04a2a97eb7a50a9c3a4"
+msgid "[설계도]디스오더즈 콘트랙트"
+msgstr ""
+
+msgctxt "1252c11cf822f3df16929b5c3c8bacbb"
+msgid ""
+"<font color='#FFBA85'>[설계도]<font color='#9D927B'>\\n\\n디스오더즈 콘트랙트를 만들 수 있는 "
+"설계도."
+msgstr ""
+
+msgctxt "4ad615901d9081dd15b80d32f76043db"
+msgid "ID=837400098"
+msgstr ""
+
+msgctxt "d2074561ce71339c9b403a8bd80f4ecc"
+msgid "[칭호 : 접두] 공허한"
+msgstr ""
+
+msgctxt "c0d9f26d65571f5144f10034478f5744"
+msgid ""
+"<font color='#FFBA85'>[칭호 획득 아이템] 접두<font color='#9D927B'>\\n\\n요르하카를 제압한 "
+"자에게만 부여되는 명예로운 호칭"
+msgstr ""
+
+msgctxt "a33c0c4fb118f85516adf58080a60fc7"
+msgid "ID=837400099"
+msgstr ""
+
+msgctxt "9464e3c1e9464980008de838a3d23f0d"
+msgid "[칭호 : 접미] 괴수"
+msgstr ""
+
+msgctxt "113e17f4085da24bf958c4b1027b6e11"
+msgid ""
+"<font color='#FFBA85'>[칭호 획득 아이템] 접미<font color='#9D927B'>\\n\\n요르하카를 제압한 "
+"자에게만 부여되는 명예로운 호칭"
+msgstr ""
+
+msgctxt "d0efd75212e5578207637f243b46f710"
+msgid "ID=213471939"
+msgstr ""
+
+msgctxt "e522c5135da4990c736b589f4e46ba99"
+msgid "[축제의 소녀B] 머리핀"
+msgstr ""
+
+msgctxt "054dd22f21fa2004e651e58800271f62"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장을 장식해 주는 머리핀. 하루가 장비할 수 있다."
+msgstr ""
+
+msgctxt "1a40afacc6455de80bba6830a093586f"
+msgid "ID=213770940"
+msgstr ""
+
+msgctxt "d9599cde4b8a1dc0c54ddc74e687abf5"
+msgid "[축제의 소녀B] 의복"
+msgstr ""
+
+msgctxt "30678af5304dcc0fddd233085ec8e32e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장의 의복. 하루가 장비할 수 있다"
+msgstr ""
+
+msgctxt "0f7944521b5dcbe105cab33bd7aecb51"
+msgid "ID=213771141"
+msgstr ""
+
+msgctxt "0f09227788e81cbe0932867cb15b93df"
+msgid "[축제의 소녀B] 니삭스"
+msgstr ""
+
+msgctxt "cc407e8c7bf06584844e315cc506bcd2"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장의 니삭스. 하루가 장비할 수 있다."
+msgstr ""
+
+msgctxt "152bb9383362af2b6df4b38099286431"
+msgid "ID=213771242"
+msgstr ""
+
+msgctxt "d63b7559faaf49e14810bf339bb14b2d"
+msgid "[축제의 소녀B] 조리"
+msgstr ""
+
+msgctxt "cc0b9ec8ee31b7544d0b111ae2409f02"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장에 어울리는 조리. 하루가 장비할 수 있다."
+msgstr ""
+
+msgctxt "04467269bdc8698db8010f8ce3893adf"
+msgid "ID=223770943"
+msgstr ""
+
+msgctxt "cf90168804a5099caf03724a49c72608"
+msgid "[축제의 소년B] 의복"
+msgstr ""
+
+msgctxt "d35a67e994c4fed3aa56964d670edadb"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장의 의복. 집에서 입기도 편해보인다 어윈이 장비할 수 있다."
+msgstr ""
+
+msgctxt "5d8a1887633ddefbd196502d51b857d6"
+msgid "ID=223471244"
+msgstr ""
+
+msgctxt "deaf4b90b207b049532f5032bb2ace4d"
+msgid "[축제의 소년B] 조리"
+msgstr ""
+
+msgctxt "5c1b5d030516944daa9c435038a2561b"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장에 어울리는 조리. 어윈이 장비할 수 있다."
+msgstr ""
+
+msgctxt "4392232e1d639490277c982ef3805af3"
+msgid "ID=233541945"
+msgstr ""
+
+msgctxt "c3f327c31449d1e639415298b99a4720"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장을 장식해 주는 머리핀. 릴리가 장비할 수 있다."
+msgstr ""
+
+msgctxt "6e9362ebb39da136f1526c92f276613b"
+msgid "ID=233850946"
+msgstr ""
+
+msgctxt "e05d46229a99ba9d5d4f1b5a60546019"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장의 의복. 릴리가 장비할 수 있다"
+msgstr ""
+
+msgctxt "b05e94fc0f82f5b8f0d17f822f91044b"
+msgid "ID=233851147"
+msgstr ""
+
+msgctxt "da45fdbbe5e64eaa302e3b6691ff6e29"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장의 니삭스. 릴리가 장비할 수 있다."
+msgstr ""
+
+msgctxt "bb5c035a06c6c74650262534e646e74d"
+msgid "ID=233541248"
+msgstr ""
+
+msgctxt "7dfd776ca8814602025c446d0876a3e8"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장에 어울리는 조리. 릴리가 장비할 수 있다."
+msgstr ""
+
+msgctxt "4dd5334a3992ac4a38e80db63211cf50"
+msgid "ID=243730949"
+msgstr ""
+
+msgctxt "83a064595250acd3b977274510d5bbe4"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장의 의복. 집에서 입기도 편해보인다 진이 장비할 수 있다."
+msgstr ""
+
+msgctxt "42ebfad119922ebcaf55e9b10d044a55"
+msgid "ID=243481250"
+msgstr ""
+
+msgctxt "57c2ee1ec6da8a004cc2a6792c1adbd8"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장에 어울리는 조리. 진이 장비할 수 있다."
+msgstr ""
+
+msgctxt "f4fe89f74cbb6ef38359786fca4939d9"
+msgid "ID=253481951"
+msgstr ""
+
+msgctxt "c73bfa80c9e5593148124347e2b4e6ff"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장을 장식해 주는 머리핀. 스텔라가 장비할 수 있다."
+msgstr ""
+
+msgctxt "1c787f1797b3a94fb489ea55ca2ab764"
+msgid "ID=253760952"
+msgstr ""
+
+msgctxt "2043201a2555fd1f52c4960742590a58"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장의 의복. 스텔라가 장비할 수 있다"
+msgstr ""
+
+msgctxt "d0bcbc528fedb663c5aca8ef6390e340"
+msgid "ID=253761153"
+msgstr ""
+
+msgctxt "05da1d2fcb8140ae64048bfda744d6c0"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장의 니삭스. 스텔라가 장비할 수 있다."
+msgstr ""
+
+msgctxt "7d0d49e8e7b1d341a2990702b92a958d"
+msgid "ID=253481254"
+msgstr ""
+
+msgctxt "25f5f5be5b6cf495d2ad284b430e72f1"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장에 어울리는 조리. 스텔라가 장비할 수 있다."
+msgstr ""
+
+msgctxt "078911a609ad217fb56bd1a2cc7006a6"
+msgid "ID=263471955"
+msgstr ""
+
+msgctxt "2cc85460cb0c25746c21d0e72c0f5607"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장을 장식해 주는 머리핀. 이리스가 장비할 수 있다."
+msgstr ""
+
+msgctxt "46ab56a74214ada596959d3a621c62ec"
+msgid "ID=263760956"
+msgstr ""
+
+msgctxt "945e5aee38c2ec02ec802612005256ca"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장의 의복. 이리스가 장비할 수 있다"
+msgstr ""
+
+msgctxt "c165c4949f5a6f56f3e700fb22b8fb2b"
+msgid "ID=263761157"
+msgstr ""
+
+msgctxt "cc038444092a84e5c3e205ea63fdbb8b"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장의 니삭스. 이리스가 장비할 수 있다."
+msgstr ""
+
+msgctxt "23390981b48fadb1d7e688f53c0ce92d"
+msgid "ID=263471258"
+msgstr ""
+
+msgctxt "3f47796d03abc46a12b118ec4952b56a"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n축제나 모임을 즐길때 입기에 좋은 유카타 "
+"복장에 어울리는 조리. 이리스가 장비할 수 있다."
+msgstr ""
+
+msgctxt "c04246a68dc03f9ce88cd3cfc093ac4a"
+msgid "ID=813471939"
+msgstr ""
+
+msgctxt "287571e1377b016aa60f9142d5bc0f75"
+msgid "[밀봉][축제의 소녀B] 머리핀"
+msgstr ""
+
+msgctxt "92732245be2506c6d79f84ab36e10278"
+msgid "[밀봉][축제의 소녀B] 머리핀이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "bd883218236367d889d8ea5c7085150b"
+msgid "ID=813770940"
+msgstr ""
+
+msgctxt "83a65adc79addeb5b81149ecd3165cbe"
+msgid "[밀봉][축제의 소녀B] 의복"
+msgstr ""
+
+msgctxt "834d75ed8c76504f4e519415818967ea"
+msgid "[밀봉][축제의 소녀B] 의복이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "04eacd65e7fba724890020bfbae4ca80"
+msgid "ID=813771141"
+msgstr ""
+
+msgctxt "3fc2a4763673d7ab6702f1c07aff19b9"
+msgid "[밀봉][축제의 소녀B] 니삭스"
+msgstr ""
+
+msgctxt "9443fa9e79251cb3e98429cef5abbda6"
+msgid "[밀봉][축제의 소녀B] 니삭스가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "b4b5d83e86be22edb8a345e4eeb79603"
+msgid "ID=813771242"
+msgstr ""
+
+msgctxt "acabcb41fbeb57b61fbf307e10dcef10"
+msgid "[밀봉][축제의 소녀B] 조리"
+msgstr ""
+
+msgctxt "6e4a55a09a702c9a5e60dd4d755f2972"
+msgid "[밀봉][축제의 소녀B] 조리가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "fdb3d81c4e617aa9a90b062206126e5e"
+msgid "ID=823770943"
+msgstr ""
+
+msgctxt "eecbde020f38fa732c7c15f176d827ac"
+msgid "[밀봉][축제의 소년B] 의복"
+msgstr ""
+
+msgctxt "c04323462efd5a48ebc18391651be382"
+msgid "[밀봉][축제의 소년B] 의복이 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "cff84a554a609da3a7c1b6271f315ca6"
+msgid "ID=823471244"
+msgstr ""
+
+msgctxt "7a6d7c2ab3d9145fa3e7c8b5b1da9619"
+msgid "[밀봉][축제의 소년B] 조리"
+msgstr ""
+
+msgctxt "811cd6a9cf4d911852087e61704d6afb"
+msgid "[밀봉][축제의 소년B] 조리가 들어있는 패키지이다."
+msgstr ""
+
+msgctxt "75cb6200707b7d548abf0aa942ea6d3a"
+msgid "ID=833541945"
+msgstr ""
+
+msgctxt "c4c8558e29a45613446312767ee32343"
+msgid "ID=833850946"
+msgstr ""
+
+msgctxt "17390af2c6342f1f4f67402746d5d974"
+msgid "ID=833851147"
+msgstr ""
+
+msgctxt "a3ccc861fd33e3ccea51cde2a5e74ca2"
+msgid "ID=833541248"
+msgstr ""
+
+msgctxt "38a79c5b0c71f3a9ec5180de1de4592d"
+msgid "ID=843730949"
+msgstr ""
+
+msgctxt "989762c92c5ae29c14a37888278a1ce5"
+msgid "ID=843481250"
+msgstr ""
+
+msgctxt "e9594135b188bb6d732267683ff21bd0"
+msgid "ID=853481951"
+msgstr ""
+
+msgctxt "b4f9bbfaaa2c1b6349d090ffb5ae840e"
+msgid "ID=853760952"
+msgstr ""
+
+msgctxt "33814ef02c996cff00be5c5b12b6b5f4"
+msgid "ID=853761153"
+msgstr ""
+
+msgctxt "5c969e6fe9dc2c7fd5ed683f6dbc6705"
+msgid "ID=853481254"
+msgstr ""
+
+msgctxt "47dd41e0544861a590edfa5eee4ae512"
+msgid "ID=863471955"
+msgstr ""
+
+msgctxt "397ce6842ba5a5b01758a49a5f0a1dc5"
+msgid "ID=863760956"
+msgstr ""
+
+msgctxt "78ca1b12a9899ffa30e57e06fe000888"
+msgid "ID=863761157"
+msgstr ""
+
+msgctxt "ee0ee4a02fc348bee3e603fc4baf9eaf"
+msgid "ID=863471258"
+msgstr ""
+
+msgctxt "1355d790aa2df4a488e391eaf8c3644c"
+msgid "ID=813770941"
+msgstr ""
+
+msgctxt "4722411e266119b98f548eeb490ffc66"
+msgid "[코스튬 박스] 하루의 축제의 소녀B"
+msgstr ""
+
+msgctxt "dcfcc006a85cbad7f967bf9eb1264bff"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[축제의 소녀B] 코스튬이 담긴 "
+"패키지로 해당 구성품은 하루만 착용할 수 있다.\\n\\n-구성품-\\n[축제의 소녀B] 머리핀 x 1\\n[축제의 소녀B] 의복 x "
+"1\\n[축제의 소녀B] 니삭스 x 1\\n[축제의 소녀B] 조리 x 1"
+msgstr ""
+
+msgctxt "19a56e0d5bdc4ff6a32b6c11624cb90d"
+msgid "ID=823770941"
+msgstr ""
+
+msgctxt "c0d809cd40aee306dfcd715bfee4fe5b"
+msgid "[코스튬 박스] 어윈의 축제의 소년B"
+msgstr ""
+
+msgctxt "1da0318ec6026b657b1b24e731825461"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[축제의 소년B] 코스튬이 담긴 "
+"패키지로 해당 구성품은 어윈만 착용할 수 있다.\\n\\n-구성품-\\n[축제의 소년B] 의복 x 1\\n[축제의 소년B] 조리 x 1"
+msgstr ""
+
+msgctxt "7ae741e2abcbb6751855584876545974"
+msgid "ID=833850941"
+msgstr ""
+
+msgctxt "15ee05572e7da2b4d0d75dd6d2939a33"
+msgid "[코스튬 박스] 릴리의 축제의 소녀B"
+msgstr ""
+
+msgctxt "96c2c1c50bf4244eab45f50b50fe4c57"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[축제의 소녀B] 코스튬이 담긴 "
+"패키지로 해당 구성품은 릴리만 착용할 수 있다.\\n\\n-구성품-\\n[축제의 소녀B] 머리핀 x 1\\n[축제의 소녀B] 의복 x "
+"1\\n[축제의 소녀B] 니삭스 x 1\\n[축제의 소녀B] 조리 x 1"
+msgstr ""
+
+msgctxt "79ec4e78c906015996dcf23941196e1c"
+msgid "ID=843730941"
+msgstr ""
+
+msgctxt "8a0b94975fa8d79dda15f08eff9779a1"
+msgid "[코스튬 박스] 진의 축제의 소년B"
+msgstr ""
+
+msgctxt "32bdb3156fbf67395144dab1deebbc32"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[축제의 소년B] 코스튬이 담긴 "
+"패키지로 해당 구성품은 진만 착용할 수 있다.\\n\\n-구성품-\\n[축제의 소년B] 의복 x 1\\n[축제의 소년B] 조리 x 1"
+msgstr ""
+
+msgctxt "c6dc901fd60c286512d88e2e47966cc5"
+msgid "ID=853760951"
+msgstr ""
+
+msgctxt "61a1e10c121ba4cd3ed309d1b2fc505b"
+msgid "[코스튬 박스] 스텔라의 축제의 소녀B"
+msgstr ""
+
+msgctxt "bb038d22a5e229bbaa6da7fa21133cb0"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[축제의 소녀B] 코스튬이 담긴 "
+"패키지로 해당 구성품은 스텔라만 착용할 수 있다.\\n\\n-구성품-\\n[축제의 소녀B] 머리핀 x 1\\n[축제의 소녀B] 의복 x "
+"1\\n[축제의 소녀B] 니삭스 x 1\\n[축제의 소녀B] 조리 x 1"
+msgstr ""
+
+msgctxt "ee02e4cdfac35b914cce49f7c4b51463"
+msgid "ID=863760951"
+msgstr ""
+
+msgctxt "7781f2827cad9c59ea935c53f461ffae"
+msgid "[코스튬 박스] 이리스의 축제의 소녀B"
+msgstr ""
+
+msgctxt "1c536bfa68e82efc6017b2d54de0760c"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[축제의 소녀B] 코스튬이 담긴 "
+"패키지로 해당 구성품은 이리스만 착용할 수 있다.\\n\\n-구성품-\\n[축제의 소녀B] 머리핀 x 1\\n[축제의 소녀B] 의복 x "
+"1\\n[축제의 소녀B] 니삭스 x 1\\n[축제의 소녀B] 조리 x 1"
+msgstr ""
+
+msgctxt "8bab22354b8167820fd1daca338bea32"
+msgid "ID=991000106"
+msgstr ""
+
+msgctxt "d3a426a34c9dcada25808096a3797782"
+msgid "워프 오브 [감사의 메모리얼 홀]"
+msgstr ""
+
+msgctxt "a1046c8eeceb815616959a5d1f835c11"
+msgid ""
+"<font color='#FFBA85'>[워프 아이템]<font color='#9D927B'>\\n\\n오랜 기간 소울워커를 사랑해주신 "
+"유저분들에게 감사의 말씀을 전달하고자 깜짝 이벤트.\\n아이템을 사용하면 [메모리얼 홀]로 이동합니다."
+msgstr ""
+
+msgctxt "b51d41c63858fe581ecd182a460e6bac"
+msgid "ID=991000107"
+msgstr ""
+
+msgctxt "2c808ecaf55e867fb3477ad082c20709"
+msgid "워프 오브 [환영의 메모리얼 홀]"
+msgstr ""
+
+msgctxt "046c34033a72a85ae580c3a36b1c5b88"
+msgid ""
+"<font color='#FFBA85'>[워프 아이템]<font color='#9D927B'>\\n\\n소울워커를 새로 시작해주신 "
+"유저분들에게 감사의 말씀을 전달하고자 깜짝 이벤트.\\n아이템을 사용하면 [메모리얼 홀]로 이동합니다."
+msgstr ""
+
+msgctxt "65069b4603d5329626ff946748e46bce"
+msgid "ID=241010602"
+msgstr ""
+
+msgctxt "c60706bbae3e5cfd13b160e492a5c166"
+msgid "밀리터리 언더웨어"
+msgstr ""
+
+msgctxt "915054ab5540142533e0acd24cf60c0c"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n진의 밀리터리 언더웨어. 왜인지는 "
+"모르지만, 진만 입을 수 있다.\\n\\n속옷의 모습은 마이룸의 가구 중 욕조와 샤워 부스 사용 시에 확인할 수 있다."
+msgstr ""
+
+msgctxt "8caa5cda5e8e78e2c3c8e8705ea61225"
+msgid "ID=241020602"
+msgstr ""
+
+msgctxt "de2f97383ad7cdf9013a5c6b8ae61c80"
+msgid "스포츠 블루 언더웨어"
+msgstr ""
+
+msgctxt "0aa231e519784a28e86a781fef8e995e"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n진의 스포츠 블루 언더웨어. 왜인지는 "
+"모르지만, 진만 입을 수 있다.\\n\\n속옷의 모습은 마이룸의 가구 중 욕조와 샤워 부스 사용 시에 확인할 수 있다."
+msgstr ""
+
+msgctxt "6378d73093e888f175473214670a8179"
+msgid "ID=241030602"
+msgstr ""
+
+msgctxt "de557311c2d2de71aeda7cd8bf1c8293"
+msgid "베이워치 언더웨어"
+msgstr ""
+
+msgctxt "c96a22e2daa1852bb3ac44a064e663fd"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n진의 베이워치 언더웨어. 왜인지는 "
+"모르지만, 진만 입을 수 있다.\\n\\n속옷의 모습은 마이룸의 가구 중 욕조와 샤워 부스 사용 시에 확인할 수 있다."
+msgstr ""
+
+msgctxt "97769e4cb9823a1e0748719e8130cee3"
+msgid "ID=241040602"
+msgstr ""
+
+msgctxt "58884dc274bcd79116f0c6f81049224e"
+msgid "프리즈너 언더웨어"
+msgstr ""
+
+msgctxt "c354c89c10f77de548238c06b6dd5d13"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n진의 프리즈너 언더웨어. 왜인지는 "
+"모르지만, 진만 입을 수 있다.\\n\\n속옷의 모습은 마이룸의 가구 중 욕조와 샤워 부스 사용 시에 확인할 수 있다."
+msgstr ""
+
+msgctxt "38462bb68eb559b2ad9b64b284a59b82"
+msgid "ID=241050602"
+msgstr ""
+
+msgctxt "79fd59a7c0775f7f9ce013945f543b15"
+msgid "레오파드 언더웨어"
+msgstr ""
+
+msgctxt "f69aad7d6e40bf6fd7d22ed6d22265e8"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n진의 레오파드 언더웨어. 진의 숨겨진 "
+"야성이 꿈틀대고 있다.\\n\\n속옷의 모습은 마이룸의 가구 중 욕조와 샤워 부스 사용 시에 확인할 수 있다."
+msgstr ""
+
+msgctxt "2e69f1b856e1cd8828eab61caf758d80"
+msgid "ID=241060602"
+msgstr ""
+
+msgctxt "bd66f50ef1f348c6323850f1a437a203"
+msgid "블루 트렁크 언더"
+msgstr ""
+
+msgctxt "e1067f8bc1568235eea9159f4196beb6"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n진의 블루 트렁크 언더웨어. 왜인지는 "
+"모르지만, 진만 입을 수 있다.\\n\\n속옷의 모습은 마이룸의 가구 중 욕조와 샤워 부스 사용 시에 확인할 수 있다."
+msgstr ""
+
+msgctxt "a6361700a515a5495a57600f598f39fe"
+msgid "ID=241070602"
+msgstr ""
+
+msgctxt "1c0ef37dbdfc7b70c80b4e441adfe543"
+msgid "레드 트렁크 언더"
+msgstr ""
+
+msgctxt "32cf4febb7237d0e4441d9df2abd8ba0"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n진의 레드 트렁크 언더웨어. 왜인지는 "
+"모르지만, 진만 입을 수 있다.\\n\\n속옷의 모습은 마이룸의 가구 중 욕조와 샤워 부스 사용 시에 확인할 수 있다."
+msgstr ""
+
+msgctxt "583d895daba014d58a827434024bd30b"
+msgid "ID=841010602"
+msgstr ""
+
+msgctxt "6c6582f7c638607bd1277cd1e3f454b6"
+msgid "[밀봉] 밀리터리 언더웨어"
+msgstr ""
+
+msgctxt "9f7bd504c0c23e5f3356431931d0c24e"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n밀리터리 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "84d5d3492fe0ff3e9e9b2a3cee7dcc2d"
+msgid "ID=841020602"
+msgstr ""
+
+msgctxt "8296ff5a98fa9af26e5913dd313435db"
+msgid "[밀봉] 스포츠 블루 언더웨어"
+msgstr ""
+
+msgctxt "af9a127081989545a927bd8f02f42f6b"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n스포츠 블루 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "2f3ec261ad9777d479ffba1d36308c71"
+msgid "ID=841030602"
+msgstr ""
+
+msgctxt "9adaf5dd7035f21bbc800d0b6d46f3c2"
+msgid "[밀봉] 베이워치 언더웨어"
+msgstr ""
+
+msgctxt "9117738d0c6f191a1b6942ec2c9d13c3"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n베이워치 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "1c4565def954691383db66691f4fa4db"
+msgid "ID=841040602"
+msgstr ""
+
+msgctxt "ed8a559b4e24bf824163ac6d4d1858df"
+msgid "[밀봉] 프리즈너 언더웨어"
+msgstr ""
+
+msgctxt "bc50d76261241700b1ef76eb370cf788"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n프리즈너 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "b042171184092ba79a0a953603b8c530"
+msgid "ID=841050602"
+msgstr ""
+
+msgctxt "0af4d4f1c5efad6f8c94d9e7be888729"
+msgid "[밀봉] 레오파드 언더웨어"
+msgstr ""
+
+msgctxt "c0a1ccd21fe646da423897ef0b4a1bd1"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n레오파드 언더웨어가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "8ffd0aaed56586aa4b57a9247b2fbff1"
+msgid "ID=841060602"
+msgstr ""
+
+msgctxt "9363d936f6734145790bba59e9840a56"
+msgid "[밀봉] 블루 트렁크 언더"
+msgstr ""
+
+msgctxt "d416297b88f775df29760f35288f1668"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n블루 트렁크 언더가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "b2a4a46c68c28b8a680f0e51e98201a7"
+msgid "ID=841070602"
+msgstr ""
+
+msgctxt "740b3c4253b92c43fb528eb557051b8a"
+msgid "[밀봉] 레드 트렁크 언더"
+msgstr ""
+
+msgctxt "dd5524af2c26f46028fe4b239e1eb670"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n레드 트렁크 언더가 들어있는 "
+"패키지이다."
+msgstr ""
+
+msgctxt "07027b4f01f5ab1dd09f5cef87a4e73f"
+msgid "ID=837001122"
+msgstr ""
+
+msgctxt "caec992df761849a56e7e39480ea099a"
+msgid "속옷 상자"
+msgstr ""
+
+msgctxt "fb84a7195badf6a66e974a7aee06d567"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n속옷이 곱게 포장되어 있는 "
+"패키지. 캐릭터에 걸맞은 속옷이 들어있다."
+msgstr ""
+
+msgctxt "f4bfa84388ee8dfa874ff1924e457b66"
+msgid "ID=837001123"
+msgstr ""
+
+msgctxt "e29bac8ee4b105f7a3566bd86aec7179"
+msgid "ID=837001124"
+msgstr ""
+
+msgctxt "db93af6f896a9d7fc8f6aa3889da48bb"
+msgid "ID=837001125"
+msgstr ""
+
+msgctxt "0853398890ba217fb38d5632f28764e5"
+msgid "ID=837001126"
+msgstr ""
+
+msgctxt "af324a16338b802c65bc3fdd25cb0c9e"
+msgid "ID=837001127"
+msgstr ""
+
+msgctxt "19e27306f4f1ace316a9be8566ee3d25"
+msgid "ID=837001128"
+msgstr ""
+
+msgctxt "77dc45bbe069e79bc652871581ca67de"
+msgid "ID=836000111"
+msgstr ""
+
+msgctxt "377870f60c67e6393628e93b49108a9f"
+msgid " 150 BP 박스"
+msgstr ""
+
+msgctxt "690b6915ccd6e4c45be23df3022fe3e6"
+msgid ""
+"<font color='#FFBA85'>[BP 상자]<font color='#9D927B'>\\n\\n150BP를 획득 할 수 있는 박스"
+msgstr ""
+
+msgctxt "141f051eef7709210d4afde7c674db03"
+msgid "ID=836000112"
+msgstr ""
+
+msgctxt "07068c211fa053b0d162a3630ed5ab7a"
+msgid " 300 BP 박스"
+msgstr ""
+
+msgctxt "24e4343e56b101d4f07b98baeb1f9fd1"
+msgid ""
+"<font color='#FFBA85'>[BP 상자]<font color='#9D927B'>\\n\\n300BP를 획득 할 수 있는 박스"
+msgstr ""
+
+msgctxt "33fc3cbbf534292e008f48de4790ef95"
+msgid "ID=213860501"
+msgstr ""
+
+msgctxt "f07306bcf87c1bd1fd5d4397b90e2168"
+msgid "말랑말랑 그루톤 장갑"
+msgstr ""
+
+msgctxt "7eb070c525277fa59e3f0b934e758aa0"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n그루톤의 말랑말랑한 손을 본 떠 만든 "
+"장갑.\\n심장이 멎을 듯 너무 귀여워 인기가 많다."
+msgstr ""
+
+msgctxt "b5862bd37883dd674a8847445ed34003"
+msgid "ID=213861201"
+msgstr ""
+
+msgctxt "5fb215475d01bc7584d304f29661c187"
+msgid "말랑말랑 그루톤 신발"
+msgstr ""
+
+msgctxt "19ace690bb5952e6399e58a399c93a60"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n그루톤의 말랑말랑한 발을 본 떠 만든 "
+"신발.\\n심장이 멎을 듯 너무 귀여워 인기가 많다."
+msgstr ""
+
+msgctxt "0764a822601e7298c28421e5ad2b85f9"
+msgid "ID=213871001"
+msgstr ""
+
+msgctxt "5e5c72b7d88a37f4781b2345eb623ace"
+msgid "대롱대롱 그루톤 백팩"
+msgstr ""
+
+msgctxt "7d837c5103eff7a3af1dd42174f680a8"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n그루톤이 매달려 있는 가방\\n뛰거나 "
+"달릴 때, 그루톤이 떨어질 수 있으니 조심하자."
+msgstr ""
+
+msgctxt "7be96eedf28c2b879c26fd85cd00a10b"
+msgid "ID=213881001"
+msgstr ""
+
+msgctxt "390a5788c6ef9ea2d37eb84ee6adbcd2"
+msgid "순백의 형상"
+msgstr ""
+
+msgctxt "cdc39d09d03604f2654f19cde8abc75f"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n순수한 영혼이 착용한다는 백색 날개 형상."
+""
+msgstr ""
+
+msgctxt "795400266e8be2b40daa3612e31faf3e"
+msgid "ID=213891001"
+msgstr ""
+
+msgctxt "585ead7983e8d10a9dbaf53fd3955f48"
+msgid "칠흑의 형상"
+msgstr ""
+
+msgctxt "87126e8634628a7a28e4be75d0158d14"
+msgid ""
+"<font color='#FFBA85'>[외형]<font color='#9D927B'>\\n\\n악한 영혼이 착용한다는 흑색 날개 형상."
+msgstr ""
+
+msgctxt "0307741642c15c9e67e8bea38a46959d"
+msgid "ID=223860501"
+msgstr ""
+
+msgctxt "83e13754a9eb82a404c058d3fca62ef3"
+msgid "ID=223861201"
+msgstr ""
+
+msgctxt "29573c418e1ea1caf6eaf5c572c26d5f"
+msgid "ID=223871001"
+msgstr ""
+
+msgctxt "fea0d783f4424ca34a4e65fea55de15e"
+msgid "ID=223881001"
+msgstr ""
+
+msgctxt "ba8ff5e41a98475ed0301cd5214bbadf"
+msgid "ID=223891001"
+msgstr ""
+
+msgctxt "7dabb6b63da0234faa322b29f626f20c"
+msgid "ID=233940501"
+msgstr ""
+
+msgctxt "984adca8715c676b9a19693ed192bc57"
+msgid "ID=233941201"
+msgstr ""
+
+msgctxt "6c78e3ab2ab72090354f2a34cebb2b33"
+msgid "ID=233951001"
+msgstr ""
+
+msgctxt "9d004626a11179d04c6b3125db791737"
+msgid "ID=233961001"
+msgstr ""
+
+msgctxt "739395b72a70be0874616965185d7870"
+msgid "ID=233971001"
+msgstr ""
+
+msgctxt "47af98612b6db5115a06cff8589409e6"
+msgid "ID=243840501"
+msgstr ""
+
+msgctxt "380449a6aa2dc3760d102cc46149f8c2"
+msgid "ID=243841201"
+msgstr ""
+
+msgctxt "36713b1ffc0248b11b22a627deec6528"
+msgid "ID=243851001"
+msgstr ""
+
+msgctxt "785886aa7287ed0f287f1d45cead8200"
+msgid "ID=243861001"
+msgstr ""
+
+msgctxt "f9a9d0f3ddeec657e7d05ab0ae89a168"
+msgid "ID=243871001"
+msgstr ""
+
+msgctxt "b54506074a223292211507bb13a12b51"
+msgid "ID=253870501"
+msgstr ""
+
+msgctxt "b00c801e401f73f8c0ff248d492478e1"
+msgid "ID=253871201"
+msgstr ""
+
+msgctxt "5f99af3285d2cabbb62fae6aa751993c"
+msgid "ID=253881001"
+msgstr ""
+
+msgctxt "f615f26083e8911d39f1511976c1268e"
+msgid "ID=253891001"
+msgstr ""
+
+msgctxt "329a1f37f387f96232bead22720cf02b"
+msgid "ID=253901001"
+msgstr ""
+
+msgctxt "a12acd75926092b059200fde2d89946e"
+msgid "ID=263850501"
+msgstr ""
+
+msgctxt "0cac8fcff72453a3c15c526bcb462da6"
+msgid "ID=263851201"
+msgstr ""
+
+msgctxt "f83ef1d539aeccd7bccc1e08d5e582dc"
+msgid "ID=263861001"
+msgstr ""
+
+msgctxt "03670c5c2e6bf10094cbb0a11912b41b"
+msgid "ID=263871001"
+msgstr ""
+
+msgctxt "c7c216864a8b93287a2d9971f4210d8d"
+msgid "ID=263881001"
+msgstr ""
+
+msgctxt "3feeca2bd0cfe7a12e01edafd55897ad"
+msgid "ID=213841001"
+msgstr ""
+
+msgctxt "32aa6e5aca642c92bd567c2363e196d3"
+msgid "신화의 형상"
+msgstr ""
+
+msgctxt "de414b34b6b2fa0756dde13e485c66d5"
+msgid ""
+"<font color='#FFBA85'>[코스튬]<font color='#9D927B'>\\n\\n무감정한 관리신, 로스카가 몸에 걸친 "
+"옷감에서 모티브를 얻어 양산된 황금빛 날개. 신성한 대지의 기운이 감돌고 있다."
+msgstr ""
+
+msgctxt "d0dbb515267a00db0f387b13ae0632f8"
+msgid "ID=223841001"
+msgstr ""
+
+msgctxt "d70df9cdb40b4959f4ba6bec3de341be"
+msgid "ID=233921001"
+msgstr ""
+
+msgctxt "de7315872b924a064e93a0824d5795f4"
+msgid "ID=243811001"
+msgstr ""
+
+msgctxt "4477332df1aaa3a13c29ce974aaf576f"
+msgid "ID=253851001"
+msgstr ""
+
+msgctxt "055d96c3793a56cb039f56eb21fd9ed6"
+msgid "ID=263831001"
+msgstr ""
+
+msgctxt "3ca447aee32961a7e96a0b37581a1fca"
+msgid "ID=813640904"
+msgstr ""
+
+msgctxt "8aa59c7e977c01164fc74f1495a6b1f2"
+msgid "[코스튬 박스] 하루의 트릭 오어 트리트"
+msgstr ""
+
+msgctxt "ba3ccf1d9a26b21fe48b9e5333458be4"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[하루의 트릭 오어 트리트] "
+"코스튬이 담긴 패키지로 해당 구성품은 하루만 착용할 수 있다.\\n\\n-구성품-\\n[트릭 오어 트리트] 안면붕대 x 1\\n[트릭 "
+"오어 트리트] 의상 x 1\\n[트릭 오어 트리트] 손붕대 x 1\\n[트릭 오어 트리트] 발붕대 x 1"
+msgstr ""
+
+msgctxt "27e2e65eeb31943172683616b5416236"
+msgid "ID=823630904"
+msgstr ""
+
+msgctxt "c20a8ccaacc62f27ed1337a2818c51f8"
+msgid "[코스튬 박스] 어윈의 트릭 오어 트리트"
+msgstr ""
+
+msgctxt "e1b4fe2ef0fde892f2452f2c6a04336b"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[어윈의 트릭 오어 트리트] "
+"코스튬이 담긴 패키지로 해당 구성품은 어윈만 착용할 수 있다.\\n\\n-구성품-\\n[트릭 오어 트리트] 의상 x 1\\n[트릭 오어 "
+"트리트] 장갑 x 1\\n[트릭 오어 트리트] 신발 x 1"
+msgstr ""
+
+msgctxt "238c6e14dab111decbf8bc63ff144c47"
+msgid "ID=833720904"
+msgstr ""
+
+msgctxt "e82fbe98f1edad1cbf40597dd9b91811"
+msgid "[코스튬 박스] 릴리의 트릭 오어 트리트"
+msgstr ""
+
+msgctxt "f192d91291ee9fbba83ce0089ea224f9"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[릴리의 트릭 오어 트리트] "
+"코스튬이 담긴 패키지로 해당 구성품은 릴리만 착용할 수 있다.\\n\\n-구성품-\\n[트릭 오어 트리트] 모자 x 1\\n[트릭 오어 "
+"트리트] 의상 x 1\\n[트릭 오어 트리트] 장갑 x 1\\n[트릭 오어 트리트] 스타킹 x 1\\n[트릭 오어 트리트] 신발 x 1"
+msgstr ""
+
+msgctxt "ac3be83fd2f164ce02629b640588856a"
+msgid "ID=843610904"
+msgstr ""
+
+msgctxt "f88242612c22347707b51f833a7fc2bf"
+msgid "[코스튬 박스] 진의 트릭 오어 트리트"
+msgstr ""
+
+msgctxt "59cef56332c0e070861db4f8d231b2b8"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[진의 트릭 오어 트리트] "
+"코스튬이 담긴 패키지로 해당 구성품은 진만 착용할 수 있다.\\n\\n-구성품-\\n[트릭 오어 트리트] 의상 x 1\\n[트릭 오어 "
+"트리트] 장갑 x 1\\n[트릭 오어 트리트] 구두 x 1"
+msgstr ""
+
+msgctxt "3652f250b352b066df4498de2141cea0"
+msgid "ID=853630904"
+msgstr ""
+
+msgctxt "d0c0550400fac256a1ea30d762f3687b"
+msgid "[코스튬 박스] 스텔라의 트릭 오어 트리트"
+msgstr ""
+
+msgctxt "a09497bf1b461dd6ff5c7f5eca47c488"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[스텔라의 트릭 오어 트리트] "
+"코스튬이 담긴 패키지로 해당 구성품은 스텔라만 착용할 수 있다.\\n\\n-구성품-\\n[트릭 오어 트리트] 모자 x 1\\n[트릭 오어 "
+"트리트] 의상 x 1\\n[트릭 오어 트리트] 장갑 x 1\\n[트릭 오어 트리트] 스타킹 x 1\\n[트릭 오어 트리트] 신발 x 1"
+msgstr ""
+
+msgctxt "13ed7a92e2bdf8a9b5def688ee9037ed"
+msgid "ID=863630904"
+msgstr ""
+
+msgctxt "471819c1237956f7ed41c84a1cbb666b"
+msgid "[코스튬 박스] 이리스의 트릭 오어 트리트"
+msgstr ""
+
+msgctxt "e3229029dd65e677f10d851c73aee3db"
+msgid ""
+"<font color='#FFBA85'>[코스튬 패키지]<font color='#9D927B'>\\n\\n[이리스의 트릭 오어 트리트] "
+"코스튬이 담긴 패키지로 해당 구성품은 이리스만 착용할 수 있다.\\n\\n-구성품-\\n[트릭 오어 트리트] 안면붕대 x 1\\n[트릭 "
+"오어 트리트] 의상 x 1\\n[트릭 오어 트리트] 손붕대 x 1\\n[트릭 오어 트리트] 발붕대 x 1"
+msgstr ""
+
+msgctxt "9880963ff0ed660ce1db5dd759aa7bb5"
+msgid "ID=837100053"
+msgstr ""
+
+msgctxt "611a078ef4ae2e5fbc41447ebb943823"
+msgid "[PC방] 100 BP"
+msgstr ""
+
+msgctxt "ba4fadd27c3acb7c3fbdaf92eda03a59"
+msgid ""
+"<font color='#FFBA85'>[PC방 물품박스]<font color='#9D927B'>\\nBP가 100 들어있는 박스, "
+"이정도면 날로 먹어도 인정 받을만 하다."
+msgstr ""
+
+msgctxt "0fb110130b687f96931175b2833a2a26"
+msgid "ID=837100054"
+msgstr ""
+
+msgctxt "9e232560b4176f709e154ee29d1aee6c"
+msgid "[PC방]제니 박스 10000"
+msgstr ""
+
+msgctxt "910f26315561ffa95321f6f88b95616b"
+msgid ""
+"<font color='#FFBA85'>[PC방 물품박스]<font color='#9D927B'>\\n제니가 10000 들어있는 박스, "
+"꽤나 가치가 있다."
+msgstr ""
+
+msgctxt "3484bfb042b5d8f3a9f8307828909c32"
+msgid "ID=837100055"
+msgstr ""
+
+msgctxt "997e598785f56d7e817f96d3181f2957"
+msgid "[PC방]제니 박스 100000"
+msgstr ""
+
+msgctxt "3fd35647856a561683338a60e162a113"
+msgid ""
+"<font color='#FFBA85'>[PC방 물품박스]<font color='#9D927B'>\\n제니가 100000 들어있는 박스, "
+"꽤나 가치가 있다."
+msgstr ""
+
+msgctxt "2de5e262d1e4a88ccfbffd21ffcf43f3"
+msgid "ID=837100056"
+msgstr ""
+
+msgctxt "be6a3c6819ba7c481b5606b34ef453f2"
+msgid "[PC방]코인구슬 20"
+msgstr ""
+
+msgctxt "c99b4327d5495c4ae96be3b6150719f3"
+msgid ""
+"<font color='#FFBA85'>[PC방 물품박스]<font color='#9D927B'>\\n코인이 20개 들어있는 구슬, "
+"동전을 모아 내 차 마련하자."
+msgstr ""
+
+msgctxt "4b87c911e365bb3a707af80c1075f18b"
+msgid "ID=837100057"
+msgstr ""
+
+msgctxt "aafeb7d79515f01c16822a7d750993a2"
+msgid "[PC방]웨폰 익스텐션 상자"
+msgstr ""
+
+msgctxt "76d71422c43c44964656f29e7456befb"
+msgid ""
+"<font color='#FFBA85'>[PC방 물품박스]<font color='#9D927B'>\\n웨폰 익스텐션 x 1 개를 획득할 "
+"수 있습니다."
+msgstr ""
+

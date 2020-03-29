@@ -1,0 +1,550 @@
+# Eisou <nanamiide@gmail.com>, 2020. #zanata
+# Ling <lling7@web.de>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-02-10 04:52-0500\n"
+"Last-Translator: Eisou <nanamiide@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "dfb4dd499b8e2348c06f9e52ad4267f9"
+msgid "ID=1"
+msgstr "ID=1"
+
+msgctxt "6613e6f94ebc2e30ebd65ed38f7578eb"
+msgid "Icon/League/Skill/Icon_League_Skill_MemberIncrease"
+msgstr "Icon/League/Skill/Icon_League_Skill_MemberIncrease"
+
+msgctxt "788eeddfe876b92937902b150b1ab257"
+msgid "리그원 확장 1"
+msgstr "Guild One Expansion 1"
+
+msgctxt "a106bfb61fb330000acb1c8447ee899e"
+msgid "League_Person_Extend_1"
+msgstr "League_Person_Extend_1"
+
+msgctxt "9c735cc285758a0773337334ecd24eef"
+msgid "리그원의 최대 인원수를 확장시킵니다.\\n최대 인원수 : 25명"
+msgstr "Expand the maximum number of Guild Members.\\n Maximum number: 25"
+
+msgctxt "aecf8d6e60b943422b3e7aca596a4248"
+msgid "추가 인원수 : 5명\\n최대 인원수 : 30명"
+msgstr "Number of additional people: 5 \\n Maximum number: 30"
+
+msgctxt "1c06e4baf03acdeb787eed93dd855c52"
+msgid "ID=2"
+msgstr "ID=2"
+
+msgctxt "49c0d5ed7e25e39b846fc46306429585"
+msgid "리그원 확장 2"
+msgstr "Guild One Expansion 2"
+
+msgctxt "cc0ee05ae0598fb18443dca56c12e2b5"
+msgid "League_Person_Extend_2"
+msgstr "League_Person_Extend_2"
+
+msgctxt "a0ee43c0e448c62d2e701aa3c0508fa2"
+msgid "리그원의 최대 인원수를 확장시킵니다.\\n최대 인원수 : 30명"
+msgstr "Expand the maximum number of Guild Members. \\n Maximum number: 30"
+
+msgctxt "1c1d5d28374968bed8b794b4d79803b4"
+msgid "추가 인원수 : 5명\\n최대 인원수 : 35명"
+msgstr "Number of additional people: 5 \\n Maximum number: 35"
+
+msgctxt "dc08c27c1de8a603f12e1411346c8971"
+msgid "ID=3"
+msgstr "ID=3"
+
+msgctxt "88ad87315b50c020a051d87d07820fd0"
+msgid "리그원 확장 3"
+msgstr "Guild One Expansion 3"
+
+msgctxt "63c758593c6658260be8ccc9206c48b5"
+msgid "League_Person_Extend_3"
+msgstr "League_Person_Extend_3"
+
+msgctxt "829b9cb26b53269e09f32e7c059225e5"
+msgid "리그원의 최대 인원수를 확장시킵니다.\\n최대 인원수 : 35명"
+msgstr "Expand the maximum number of Guild Members. \\n Maximum number: 35"
+
+msgctxt "04918bf0ddb8376036874ce56fb957fc"
+msgid "추가 인원수 : 5명\\n최대 인원수 : 40명"
+msgstr "Number of additional people: 5 \\n Maximum number: 40"
+
+msgctxt "5cedd3acce477b51865226d3e293b578"
+msgid "ID=4"
+msgstr "ID=4"
+
+msgctxt "0f040ac805c0126f2ed5a6000cd28685"
+msgid "리그원 확장 4"
+msgstr "Guild One Expansion 4"
+
+msgctxt "3134fad891390c0f325a0847f66e81cc"
+msgid "League_Person_Extend_4"
+msgstr "League_Person_Extend_4"
+
+msgctxt "aa15e821ce7e0feb659a13361e311e9b"
+msgid "리그원의 최대 인원수를 확장시킵니다.\\n최대 인원수 : 40명"
+msgstr "Expand the maximum number of Guild Members. \\n Maximum number: 40"
+
+msgctxt "360a77a830d68d1090867d24a7aa4907"
+msgid "추가 인원수 : 5명\\n최대 인원수 : 45명"
+msgstr "Number of additional people: 5 \\n Maximum number: 45"
+
+msgctxt "53e5e07397f7f01c2b276af813901c29"
+msgid "ID=5"
+msgstr "ID=5"
+
+msgctxt "a991004b1560c848ebe478640962653c"
+msgid "리그원 확장 5"
+msgstr "Guild One Expansion 5"
+
+msgctxt "6cd315ffc52cea27ad55c17ccbe623ea"
+msgid "League_Person_Extend_5"
+msgstr "League_Person_Extend_5"
+
+msgctxt "4d75cba4d3f8cb8a9af61dcad55fe32c"
+msgid "리그원의 최대 인원수를 확장시킵니다.\\n최대 인원수 : 45명"
+msgstr "Expand the maximum number of Guild Members.\\nMaximum number: 45"
+
+msgctxt "d078b8e7c6181257ad9222cfc95abf43"
+msgid "추가 인원수 : 5명\\n최대 인원수 : 50명"
+msgstr "Number of additional people: 5 \\n Maximum number of people: 50"
+
+msgctxt "34399f012556aa724734de93378773bb"
+msgid "ID=6"
+msgstr "ID=6"
+
+msgctxt "2475ab16031cf8763776ac9bee6c7ed2"
+msgid "리그원 확장 6"
+msgstr "Guild One Expansion 6"
+
+msgctxt "10e8ecad1406711a607d593de01e7339"
+msgid "League_Person_Extend_6"
+msgstr "League_Person_Extend_6"
+
+msgctxt "8f849290d6ec16fe64a16c40a724e7b0"
+msgid "리그원의 최대 인원수를 확장시킵니다.\\n최대 인원수 : 50명"
+msgstr "Expand the maximum number of Guild Members. \\n Maximum number: 50"
+
+msgctxt "9857d9e2433a8b5d3f22a072d8735603"
+msgid "추가 인원수 : 5명\\n최대 인원수 : 55명"
+msgstr "Number of additional people: 5 \\n Maximum number: 55"
+
+msgctxt "c655142b4669fe759c3ab16d6ae2e67e"
+msgid "ID=7"
+msgstr "ID=7"
+
+msgctxt "9a2b275e7807f616901d6da224e8e972"
+msgid "리그원 확장 7"
+msgstr "Guild One Expansion 7"
+
+msgctxt "d163d96e8e30b3342a8f201a06915435"
+msgid "League_Person_Extend_7"
+msgstr "League_Person_Extend_7"
+
+msgctxt "02494a694eb7e722816beec1a9b2cab0"
+msgid "리그원의 최대 인원수를 확장시킵니다.\\n최대 인원수 : 55명"
+msgstr "Expand the maximum number of Guild Members. \\n Maximum number: 55"
+
+msgctxt "28d786ac75b6846b44cd8500a85a35bc"
+msgid "추가 인원수 : 5명\\n최대 인원수 : 60명"
+msgstr "Number of additional people: 5 \\n Maximum number: 60"
+
+msgctxt "fc86fdd3ede70f5c83d374b99089bdad"
+msgid "ID=8"
+msgstr "ID=8"
+
+msgctxt "7fa8bb3180f093625a717b5f8000f411"
+msgid "리그원 확장 8"
+msgstr "Guild One Expansion 8"
+
+msgctxt "11a21f2e596eaf58d8ca396109c08acc"
+msgid "League_Person_Extend_8"
+msgstr "League_Person_Extend_8"
+
+msgctxt "bc5d29822716f12f251fe311d466ca02"
+msgid "리그원의 최대 인원수를 확장시킵니다.\\n최대 인원수 : 60명"
+msgstr "Expand the maximum number of Guild Members. \\n Maximum number: 60"
+
+msgctxt "6477b91b64e5e5c4f69368d47cc818c7"
+msgid "최대 레벨입니다."
+msgstr "The maximum level."
+
+msgctxt "5a2561e879ad13bd5211adeed9369b4f"
+msgid "ID=9"
+msgstr "ID=9"
+
+msgctxt "ab07c0a8ec8c975f0777604f3493dba5"
+msgid "Icon/League/Skill/Icon_League_Skill_StorageOpen"
+msgstr "Icon/League/Skill/Icon_League_Skill_StorageOpen"
+
+msgctxt "04db603a422779413255a7e533968001"
+msgid "리그 창고 1"
+msgstr "Guild Warehouse 1"
+
+msgctxt "b129bf9ef6ebce754bc1e49dd915e9fa"
+msgid "League_Storage_1"
+msgstr "League_Storage_1"
+
+msgctxt "0b6e469f4c8c687a9bfccfdf4e649b21"
+msgid "리그 창고 이용이 가능합니다.\\n이용가능한 창고 슬롯 : 48칸"
+msgstr "Guild  Warehouse available. \\n Available Warehouse Slots: 48 slots"
+
+msgctxt "eb5ebb777d86c92ba02856765d7b0700"
+msgid "추가 되는 창고 슬롯 48칸\\n이용가능한 창고 슬롯 : 96칸"
+msgstr "48 additional warehouse slots \\n available warehouse slots: 96"
+
+msgctxt "f723a41e990270bf57e1396242121563"
+msgid "ID=10"
+msgstr "ID=10"
+
+msgctxt "47dd449b2a6d27e21828c472240b7589"
+msgid "리그 창고 2"
+msgstr "Guild Warehouse 2"
+
+msgctxt "f65e0487d99dd83a7af360c803ce9ed9"
+msgid "League_Storage_2"
+msgstr "League_Storage_2"
+
+msgctxt "fee0543a292e374ae3be4cf9ca4a8e4e"
+msgid "창고 이용이 가능합니다.\\n이용가능한 창고 슬롯 : 96칸"
+msgstr "Warehouse available. \\n Available Warehouse Slots: 96"
+
+msgctxt "c2adcce7f5faaf53387b8fa09457c04e"
+msgid "추가 되는 창고 슬롯 48칸\\n이용가능한 창고 슬롯 : 144칸"
+msgstr "48 additional warehouse slots \\n available warehouse slots: 144"
+
+msgctxt "87ac4846c6e71753f5fd8057ebf34ed4"
+msgid "ID=11"
+msgstr "ID=11"
+
+msgctxt "bf0b1427be3985fbd868388e6d443998"
+msgid "리그 창고 3"
+msgstr "Guild Warehouse 3"
+
+msgctxt "97674ac1bdb01e9e5054da54f1c7fa3f"
+msgid "League_Storage_3"
+msgstr "League_Storage_3"
+
+msgctxt "0f2c27413a64f19cb851be7a0179899c"
+msgid "리그 창고 이용이 가능합니다.\\n이용가능한 창고 슬롯 : 144칸"
+msgstr "Guild Warehouse available. \\n Available Warehouse Slots: 144"
+
+msgctxt "e9966517d22c82bbdcea6e9384d53dc0"
+msgid "ID=12"
+msgstr "ID=12"
+
+msgctxt "380263823d27ec5b8669335151fc3dbd"
+msgid "Icon/League/Skill/Icon_League_Skill_CreationEmblem"
+msgstr "Icon/League/Skill/Icon_League_Skill_CreationEmblem"
+
+msgctxt "a03d4d8ee0c7a2a953026d84bf29e085"
+msgid "리그 마크"
+msgstr "Guild Emblem"
+
+msgctxt "1f5e3ad953e5405ef16ff3f09bd42473"
+msgid "League_Mark"
+msgstr "League_Mark"
+
+msgctxt "63daf555fbf4aa8d910fb390d1d4c620"
+msgid "리그 마크를 지정 할 수 있습니다."
+msgstr "You can specify the Guild Emblem."
+
+msgctxt "bd47ba257e3e1ffe71fcf356739e575e"
+msgid "ID=13"
+msgstr "ID=13"
+
+msgctxt "48a811b10de99851ece2636034baaed0"
+msgid "Icon/League/Skill/Icon_League_Skill_SafeHouseOpen"
+msgstr "Icon/League/Skill/Icon_League_Skill_SafeHouseOpen"
+
+msgctxt "88aa077f93a0df131ffe0cb1e9ecc812"
+msgid "리그 아지트"
+msgstr "Guild Hangouts"
+
+msgctxt "b954f4d3517fcead8a599b35eaa64512"
+msgid "League_Agit"
+msgstr "League_Agit"
+
+msgctxt "c90946399de39be6ef0ffbf3470bbb01"
+msgid "리그 아지트를 생성 할 수 있습니다."
+msgstr "You can create a Guild Hangout."
+
+msgctxt "b2d53b674234fd637006f9aab77530e9"
+msgid "ID=14"
+msgstr "ID=14"
+
+msgctxt "1df0fe22f55bf75267dbb42978610aeb"
+msgid "Icon/League/Skill/Icon_League_Skill_LeagueExpUp"
+msgstr "Icon/League/Skill/Icon_League_Skill_LeagueExpUp"
+
+msgctxt "436c2993bf9349138684ba679eb1f0f1"
+msgid "경험치 증가 1"
+msgstr "Exp Increase 1"
+
+msgctxt "8ece9e9ea91963b13e6f29bb4b43778d"
+msgid "Exp_Up_1"
+msgstr "Exp_Up_1"
+
+msgctxt "7d61eb86f870569733c52d4a7a8429c4"
+msgid "경험치 획득량이 증가합니다.\\n경험치 증가량 : 5%\\n습득 필요 기금 : 350,000"
+msgstr ""
+"Experience gains increase. \\n Exp Increase: 5% \\n Acquisition Funds: "
+"350,000"
+
+msgctxt "5dd0cf0d3da04ed55377dfefad52d868"
+msgid "경험치 증가량 : 5%\\n총 경험치 증가량 : 10%\\n\\n습득 필요 기금 : 2,700,000"
+msgstr ""
+"Experience Increase: 5%\\n Total Exp Increase: 10%\\n \\n Acquisition "
+"Required Funds: 2,700,000"
+
+msgctxt "d2c2c8224f85574124791fad7c749e44"
+msgid "ID=15"
+msgstr "ID=15"
+
+msgctxt "0e032623a41a44e3fe1d6b56e3c34f8c"
+msgid "경험치 증가 2"
+msgstr "Exp Increase 2"
+
+msgctxt "67630b333e60ad6d988a7e0bf017268f"
+msgid "Exp_Up_2"
+msgstr "Exp_Up_2"
+
+msgctxt "258dbb20c1d88b9bfc5abde8ef907370"
+msgid "경험치 획득량이 증가합니다.\\n경험치 증가량 : 10%"
+msgstr "Exp earned increase. \\n Exp increased by 10%"
+
+msgctxt "05c9aa7751dc90acc918c2a51725dbfb"
+msgid "경험치 증가량 : 5%\\n총 경험치 증가량 : 15%\\n\\n습득 필요 기금 : 7,500,000"
+msgstr ""
+"Experience Increase: 5% \\n Total Exp Increase: 15%\\n \\n Acquisition "
+"Required Funds: 7,500,000"
+
+msgctxt "2b2fe8222b7847f97346a4f090c12829"
+msgid "ID=16"
+msgstr "ID=16"
+
+msgctxt "02b471d578f005867091a4e5f6b7cc63"
+msgid "경험치 증가 3"
+msgstr "Increased experience 3"
+
+msgctxt "e53fd20450a27ca9e72ffa2345239c97"
+msgid "Exp_Up_3"
+msgstr "Exp_Up_3"
+
+msgctxt "41e8a7f3799627d28ef0d6d355601305"
+msgid "경험치 획득량이 증가합니다.\\n경험치 증가량 : 15%"
+msgstr "Exp earned increase. \\n Exp increased by 15%"
+
+msgctxt "170719a219a4f9c0a1ff4afc97fb4bef"
+msgid "ID=17"
+msgstr "ID=17"
+
+msgctxt "f95cbe9526bc72f501a0cce2b128d0d7"
+msgid "Icon/League/Skill/Icon_League_Skill_CredibilityUp"
+msgstr "Icon/League/Skill/Icon_League_Skill_CredibilityUp"
+
+msgctxt "3a8823b3ccc1ff4433402ca4cf2ce8a8"
+msgid "신용도 증가 1"
+msgstr "Increasing credit worthiness 1"
+
+msgctxt "9b47b5e2414e62cfc2dc9ce4fd004e34"
+msgid "CraditRating_Grow_1"
+msgstr "CraditRating_Grow_1"
+
+msgctxt "235b8d6e8510c5427531f45b5aa34851"
+msgid "신용도 획득량이 증가합니다.\\n일일 최대 획득 신용도 증가량 : 3\\n\\n습득 필요 기금 : 550,000"
+msgstr ""
+"Credit gains increase.\\n Maximum gain credit increase: 3\\n \\n Acquisition "
+"funds: 550,000"
+
+msgctxt "7c06d8e0c15dcb7b64f0c1ad1ad98ba7"
+msgid "일일 최대 획득 신용도 증가량 : 3\\n일일 최대 획득 총 신용도 증가량 : 6\\n\\n습득 필요 기금 : 3,000,000"
+msgstr ""
+"Maximum daily credit gain credit increase: 3 \\n Daily maximum gain total "
+"credit worth: 6\\n \\n Acquisition required funds: 3,000,000"
+
+msgctxt "e248668dbdc7fdf60c3ad3145a73101d"
+msgid "ID=18"
+msgstr "ID=18"
+
+msgctxt "0936485f3a3a935007bc1e53b1cbcd36"
+msgid "신용도 증가 2"
+msgstr "Increasing credit worthiness 2"
+
+msgctxt "f7abf7c692f90bb9327e6edccbef5155"
+msgid "CraditRating_Grow_2"
+msgstr "CraditRating_Grow_2"
+
+msgctxt "0ceb9917964f972fc507374c65e8e257"
+msgid "신용도 획득량이 증가합니다.\\n일일 최대 획득 가능 신용도 증가량 : 6"
+msgstr ""
+"Credit gains increase. \\nMaximum number of credit-enabled credit gains per "
+"day: 6"
+
+msgctxt "7559d584c6a132b0d7ebaf8669c464cd"
+msgid "일일 최대 획득 신용도 증가량 : 4\\n일일 최대 획득 총 신용도 증가량 : 10\\n\\n습득 필요 기금 : 10,500,000"
+msgstr ""
+"Maximum daily credit gain credit increase: 4 \\n Daily maximum gain total "
+"credit worth: 10\\n \\n Acquisition required funds: 10,500,000"
+
+msgctxt "bf3c5f676ded809fa564eed630eed3ea"
+msgid "ID=19"
+msgstr "ID=19"
+
+msgctxt "5af03ea014796daebe2b040b49207dc9"
+msgid "신용도 증가 3"
+msgstr "Increase in credit worthiness 3"
+
+msgctxt "7b9d5655e587122c2a050a15fcd38f9f"
+msgid "CraditRating_Grow_3"
+msgstr "CraditRating_Grow_3"
+
+msgctxt "fa1625b9347c13d6313919a798d0f2dd"
+msgid "신용도 획득량이 증가합니다.\\n일일 최대 획득 총 신용도 증가량 : 10"
+msgstr ""
+"Credit gains increase. \\nMaximum gain total credit increase per day: 10"
+
+msgctxt "18dff4e962c31b38eaba0b112b888a88"
+msgid "ID=20"
+msgstr "ID=20"
+
+msgctxt "371c828a4483d78930a24c88d3b493dd"
+msgid "Icon/League/Skill/Icon_League_Skill_RepairDiscount"
+msgstr "Icon/League/Skill/Icon_League_Skill_RepairDiscount"
+
+msgctxt "00491f529e6051430a5b2517d2e08633"
+msgid "수리비 할인 1"
+msgstr "Discount on repair costs 1"
+
+msgctxt "79d4aed97b2a7b0a7230ee742f4f19ff"
+msgid "Repair_Cost_Discount_1"
+msgstr "Repair_Cost_Discount_1"
+
+msgctxt "90703695faae2c60f02d4d45fbd3c4d2"
+msgid "수리비를 할인 해줍니다.\\n수리비 할인량 : 3%\\n\\n습득 필요 기금 : 1,950,000"
+msgstr "Save on repair costs. \\nRepair discount: 3%\\n \\nNeed Fund: 1,950,000"
+
+msgctxt "05faa2dc2f018261cc0366f0a5162743"
+msgid "수리비 할인 증가량 : 3%\\n총 수리비 할인 증가량 : 6%\\n\\n습득 필요 기금 : 6,500,000"
+msgstr ""
+"Repair cost discount increase: 3% \\n Total repair discount increase: 6%\\n "
+"\\n Acquisition required fund: 6,500,000"
+
+msgctxt "1accf3ae40cf7c74d372450509d2ecc7"
+msgid "ID=21"
+msgstr "ID=21"
+
+msgctxt "c156307bbe2891a12fb77ac5f377bd8a"
+msgid "수리비 할인 2"
+msgstr "Repair price discount 2"
+
+msgctxt "43aef26ea77cb60637e4a0cd8d684e21"
+msgid "Repair_Cost_Discount_2"
+msgstr "Repair_Cost_Discount_2"
+
+msgctxt "af8c1714645397e5fe346a6be149a74a"
+msgid "수리비를 할인 해줍니다.\\n수리비 할인량 : 6%"
+msgstr "Save on repair costs. \\n Repair discount: 6%"
+
+msgctxt "6cc8227590425f0a9480fa36bd52f3c6"
+msgid "수리비 할인 증가량 : 4%\\n총 수리비 할인 증가량 : 10%\\n\\n습득 필요 기금 : 18,000,000"
+msgstr ""
+"Repair cost discount increase: 4% \\n Total repair discount increase: 10%\\n "
+"\\n Acquisition required fund: 18,000,000"
+
+msgctxt "e2052c78020f3ed252dbf71c4c73a3c9"
+msgid "ID=22"
+msgstr "ID=22"
+
+msgctxt "23130a6fa682f0d0c65ad50b6dc1d0a4"
+msgid "수리비 할인 3"
+msgstr "Repair price discount 3"
+
+msgctxt "bdfb28180455c64bb5bb85b9fd7a8604"
+msgid "Repair_Cost_Discount_3"
+msgstr "Repair_Cost_Discount_3"
+
+msgctxt "c7b8b13163df05db97a274566ba6a2b7"
+msgid "수리비를 할인 해줍니다.\\n총 수리 할인 증가량 : 10%"
+msgstr "Save on repair costs. \\nTotal repair discount increase: 10%"
+
+msgctxt "2f5627b265f27d03bb5e4162d27ee3c5"
+msgid "ID=23"
+msgstr "ID=23"
+
+msgctxt "26f01801e16e46b92839e8ecbc1e3bdd"
+msgid "Icon/League/Skill/Icon_League_Skill_CommissionDiscount"
+msgstr "Icon/League/Skill/Icon_League_Skill_CommissionDiscount"
+
+msgctxt "d5ac2f32a105612f513e2a46c5db9cd5"
+msgid "거래소 판매 수수료 할인 1"
+msgstr "Exchange sales commission discount 1"
+
+msgctxt "23a9bf03ceb70ad2f858233ab12bcc9b"
+msgid "CommissionDiscount_1"
+msgstr "CommissionDiscount_1"
+
+msgctxt "68f15d8c4b733e1df5124b6a9734f6ed"
+msgid "거래소 판매 수수료를 할인 해줍니다.\\n거래소 판매 수수료 할인 증가량 : 1%\\n\\n습득 필요 기금 : 1,950,000"
+msgstr ""
+"You can save on exchange sales fees. \\n Exchange sales commission discount "
+"increase: 1%\\n \\nAcquisition required funds: 1,950,000"
+
+msgctxt "11c5cb6797a19d59d2a40386d1d3c1f3"
+msgid ""
+"거래소 판매 수수료 할인 증가량 : 1%\\n총 거래소 판매 수수료 할인 총 증가량 : 2%\\n\\n습득 필요 기금 : "
+"9,000,000"
+msgstr ""
+"Exchange Sales Commission Discount Increase: 1% \\n Total Exchange Sales "
+"Commission Discount Total Increase: 2%\\n \\nAcquisition Required Funds: "
+"9,000,000"
+
+msgctxt "a856a4514b29addc71116e0e302af0de"
+msgid "ID=24"
+msgstr "ID=24"
+
+msgctxt "a7540ff3f1f7f738cc7e316ca5a366f4"
+msgid "거래소 판매 수수료 할인 2"
+msgstr "Exchange Sales Commission Discount 2"
+
+msgctxt "b51e0c963fe668652fbbd5b022ebe933"
+msgid "CommissionDiscount_2"
+msgstr "CommissionDiscount_2"
+
+msgctxt "32fca688d1a19f099ada3e47fafee512"
+msgid "거래소 수수료를 할인 해줍니다.\\n거래소 판매 수수료 할인 증가량 : 2%"
+msgstr "Discount exchange fees. \\n Exchange sales fee discount increase: 2%"
+
+msgctxt "e3558352780969b9d06f107f9ebb969b"
+msgid ""
+"거래소 판매 수수료 할인 증가량 : 1%\\n거래소 판매 수수료 할인 총 증가량 : 3%\\n\\n습득 필요 기금 : 20,000,000"
+msgstr ""
+"Exchange sales commission discount increase: 1% \\n Exchange sales "
+"commission discount Total increase: 3%\\n \\n Acquisition required funds: "
+"20,000,000"
+
+msgctxt "f2a624f5997487d8e0948603b8b62816"
+msgid "ID=25"
+msgstr "ID=25"
+
+msgctxt "ac0742f901dc445a87b0598f5011cb45"
+msgid "거래소 판매 수수료 할인 3"
+msgstr "Exchange Sales Commission Discount 3"
+
+msgctxt "62eee4dd43cd5523ccbdf48b5338310f"
+msgid "CommissionDiscount_3"
+msgstr "CommissionDiscount_3"
+
+msgctxt "a21d7b72aa1b37849256e96965d325ce"
+msgid "거래소 판매 수수료를 할인 해줍니다.\\n거래소 판매 수수료 할인 증가량 : 3%"
+msgstr ""
+"Discount exchange sales commission \\n Exchange sales commission increase: "
+"3%"
+

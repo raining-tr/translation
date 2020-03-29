@@ -1,0 +1,2471 @@
+# Eisou <nanamiide@gmail.com>, 2020. #zanata
+# Ling <lling7@web.de>, 2020. #zanata
+# Mitsuki <aimerninelie@gmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-03-16 04:07-0400\n"
+"Last-Translator: Mitsuki <aimerninelie@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "dfb4dd499b8e2348c06f9e52ad4267f9"
+msgid "ID=1"
+msgstr "ID=1"
+
+msgctxt "6a29db31880bcbade908bd6b8b058aa3"
+msgid "장비 상점"
+msgstr "Equipment Shop"
+
+msgctxt "1c06e4baf03acdeb787eed93dd855c52"
+msgid "ID=2"
+msgstr "ID=2"
+
+msgctxt "bd29ca459b52fa64a78be6fd0ee20c60"
+msgid "패션 상점"
+msgstr "Fashion Shops"
+
+msgctxt "dc08c27c1de8a603f12e1411346c8971"
+msgid "ID=3"
+msgstr "ID=3"
+
+msgctxt "8312091c6ca6c62a501d155fca4aeea9"
+msgid "잡화 상점"
+msgstr "Sundries Shop"
+
+msgctxt "5cedd3acce477b51865226d3e293b578"
+msgid "ID=4"
+msgstr "ID=4"
+
+msgctxt "96085a8bbc01fb9cacc5fdafca61d340"
+msgid "캐시 상점"
+msgstr "Cash Shop"
+
+msgctxt "53e5e07397f7f01c2b276af813901c29"
+msgid "ID=5"
+msgstr "ID=5"
+
+msgctxt "f80d23f14cbe734feec1380b98fc9b95"
+msgid "리사이클 상점"
+msgstr "Recycling Shop"
+
+msgctxt "c655142b4669fe759c3ab16d6ae2e67e"
+msgid "ID=7"
+msgstr "ID=7"
+
+msgctxt "89740770f3ca29f94755d4eccf849df5"
+msgid "B.P 상점"
+msgstr "B.P Shop"
+
+msgctxt "fc86fdd3ede70f5c83d374b99089bdad"
+msgid "ID=8"
+msgstr "ID=8"
+
+msgctxt "075ba23447caa56ff7a26a1feb003199"
+msgid "마이룸 단말기"
+msgstr "My Room Terminal"
+
+msgctxt "5a2561e879ad13bd5211adeed9369b4f"
+msgid "ID=9"
+msgstr "ID=9"
+
+msgctxt "e36df199a2b20b1f21fc1a17fc098e91"
+msgid "테스트 상점"
+msgstr "Test Shop"
+
+msgctxt "87ac4846c6e71753f5fd8057ebf34ed4"
+msgid "ID=11"
+msgstr "ID=11"
+
+msgctxt "9f2b8fadb5447aecd4a6e41b0240580d"
+msgid "소울 웨폰"
+msgstr "Soul Weapon"
+
+msgctxt "e9966517d22c82bbdcea6e9384d53dc0"
+msgid "ID=12"
+msgstr "ID=12"
+
+msgctxt "75503d727d5280900e396eec2bf5ec78"
+msgid "기어"
+msgstr "Gear"
+
+msgctxt "bd47ba257e3e1ffe71fcf356739e575e"
+msgid "ID=13"
+msgstr "ID=13"
+
+msgctxt "405638a6daa8866943314d6a05141c06"
+msgid "서브장비"
+msgstr "Sub Equipment"
+
+msgctxt "1accf3ae40cf7c74d372450509d2ecc7"
+msgid "ID=21"
+msgstr "ID=21"
+
+msgctxt "52d0268b3d354e8479ef0ad6fd7acf99"
+msgid "패션(일반)"
+msgstr "Fashion (general)"
+
+msgctxt "e2052c78020f3ed252dbf71c4c73a3c9"
+msgid "ID=22"
+msgstr "ID=22"
+
+msgctxt "8d08eba1beeb8449f136bea72f0063c3"
+msgid "패션(캐시)"
+msgstr "Fashion (cache)"
+
+msgctxt "e0c30dbf517bde28262736aa95f4d9c0"
+msgid "ID=31"
+msgstr "ID=31"
+
+msgctxt "f511e65902407bb6f2a11ed5271c652e"
+msgid "소비"
+msgstr "Consumption"
+
+msgctxt "f4e518bf43b0c9ac5e021a10584c1ba6"
+msgid "ID=32"
+msgstr "ID=32"
+
+msgctxt "7f598db05d45d19547f20091ce689b98"
+msgid "기타"
+msgstr "Other"
+
+msgctxt "9ca59d89c72c8bdd402160258ee78cff"
+msgid "ID=51"
+msgstr "ID=51"
+
+msgctxt "898f4e53ec6d7761e85593a3b0223f0e"
+msgid "ID=52"
+msgstr "ID=52"
+
+msgctxt "6dda0349a1fad22f5f9f4fe361e01663"
+msgid "ID=53"
+msgstr "ID=53"
+
+msgctxt "e6cadfe0c3c9b3352d09c5847fa5222a"
+msgid "코스튬"
+msgstr "Costume"
+
+msgctxt "450cfd3fff1838e99140c95dfeebbc4e"
+msgid "ID=54"
+msgstr "ID=54"
+
+msgctxt "92b34a57e0b51f9de451e9c5e8b375f2"
+msgid "패밀리어"
+msgstr "Family language"
+
+msgctxt "6ed66cf715e56ee796409daab57c479b"
+msgid "ID=55"
+msgstr "ID=55"
+
+msgctxt "9a3b96fbdccbd3d90ae5465148fe59cf"
+msgid "펫"
+msgstr "Pet"
+
+msgctxt "d6d0e288e991528e73f5416e0b100ce9"
+msgid "ID=71"
+msgstr "ID=71"
+
+msgctxt "ab5253031788819f3fb38d35ced7a700"
+msgid "ID=72"
+msgstr "ID=72"
+
+msgctxt "6e58291033abf8a02538391bd146f78d"
+msgid "ID=73"
+msgstr "ID=73"
+
+msgctxt "e530d0a0fa72d9372f441a6f9add65e2"
+msgid "악세서리"
+msgstr "Accessory"
+
+msgctxt "de697ff1bddbdd76e14141bcbc59ff77"
+msgid "ID=74"
+msgstr "ID=74"
+
+msgctxt "888076ea41ca0265647c2a6b5e0ba7e8"
+msgid "ID=75"
+msgstr "ID=75"
+
+msgctxt "5579f8524bf6670810d9021a5ba8f54e"
+msgid "아카식"
+msgstr "Akashik"
+
+msgctxt "b049459168fc76f21aac7b759b720620"
+msgid "ID=76"
+msgstr "ID=76"
+
+msgctxt "a175a14f0a7f407370a4ae56cac963b8"
+msgid "ID=99"
+msgstr "ID=99"
+
+msgctxt "713aeeef90138c4748b30fb1209f68ef"
+msgid "토큰"
+msgstr "Token"
+
+msgctxt "7a20c80ee83e6b215f613d313ea24099"
+msgid "ID=111"
+msgstr "ID=111"
+
+msgctxt "9275bcf51959d29abac1d4e3c558caa7"
+msgid "ID=112"
+msgstr "ID=112"
+
+msgctxt "bfa35024897503d307e09e020e9aea16"
+msgid "서브 웨폰"
+msgstr "Sub Weapon"
+
+msgctxt "f465c30f61788b5bff18c7d8467c9ba8"
+msgid "ID=113"
+msgstr "ID=113"
+
+msgctxt "b6d1c2f682978eee4cef560384fec3be"
+msgid "소울 웨폰 소켓"
+msgstr "Soul Weapon Socket"
+
+msgctxt "5bf2def70f5221fd74df985c9b098981"
+msgid "ID=114"
+msgstr "ID=114"
+
+msgctxt "660cdd4ebda744c1e99a4f075ab00fa6"
+msgid "코스튬소켓"
+msgstr "Costume Socket"
+
+msgctxt "a358ab1eeb13844656a79d07d5bfba6c"
+msgid "ID=121"
+msgstr "ID=121"
+
+msgctxt "1c0d508293265df68608af372096f042"
+msgid "헤드 기어"
+msgstr "Head Gear"
+
+msgctxt "f51c5c1d49a340070a5f98800d23e5a2"
+msgid "ID=122"
+msgstr "ID=122"
+
+msgctxt "eb42eae690877f5632ef5569bce8425e"
+msgid "숄더 기어"
+msgstr "Shoulder Gear"
+
+msgctxt "a71d335e62590d2c033b10ed6ba9bd45"
+msgid "ID=123"
+msgstr "ID=123"
+
+msgctxt "8ff6376e82ca54c188255f4bf374cc7c"
+msgid "바디 기어"
+msgstr "Body Gear"
+
+msgctxt "dd0317fda570e22968b7e7712ee2ea1c"
+msgid "ID=124"
+msgstr "ID=124"
+
+msgctxt "9acf04f90c6b32c41a23792528a13193"
+msgid "레그 기어"
+msgstr "Leg Gear"
+
+msgctxt "01802686c6fc0a10bfe0aabd46a96adf"
+msgid "ID=130"
+msgstr "ID=130"
+
+msgctxt "9fece5bb0d2be39d6205607ea5f57b27"
+msgid "귀걸이"
+msgstr "Earring"
+
+msgctxt "43a024b87538a2360866cab9cf78c91d"
+msgid "ID=131"
+msgstr "ID=131"
+
+msgctxt "17338c2dbdd195f56c3bb64d2869b538"
+msgid "목걸이"
+msgstr "Necklace"
+
+msgctxt "50c178ad1ac3f7b016bf61fee689a8f9"
+msgid "ID=132"
+msgstr "ID=132"
+
+msgctxt "1bc142ea1f863cecf720c3ee81c3b6d8"
+msgid "반지"
+msgstr "Ring"
+
+msgctxt "0591c2bbef500f3614d235ae8ec25cce"
+msgid "ID=133"
+msgstr "ID=133"
+
+msgctxt "d83cc5c6894e1437636007a377f9535e"
+msgid "인형"
+msgstr "Doll"
+
+msgctxt "1238f16857f26d553ced68a6683e4ed7"
+msgid "ID=134"
+msgstr "ID=134"
+
+msgctxt "a124f296ec3b340a48bb5b6494b6c564"
+msgid "워크맨"
+msgstr "Walkman"
+
+msgctxt "c52392eca9caa128eaab9c31a9a611b5"
+msgid "ID=135"
+msgstr "ID=135"
+
+msgctxt "ede0afe7d5f2ae4c106ecb0ea7e29e9e"
+msgid "카메라"
+msgstr "Camera"
+
+msgctxt "1c1b5e96a121d29673f00324dd6dbea5"
+msgid "ID=136"
+msgstr "ID=136"
+
+msgctxt "581d5fd48225fc79b99f1fc08abef141"
+msgid "펜"
+msgstr "Pen"
+
+msgctxt "399133c579fec51f4b13c4edbeeae71a"
+msgid "ID=137"
+msgstr "ID=137"
+
+msgctxt "b2a13aa78cc11554a292c6fef265d39d"
+msgid "학생증"
+msgstr "Student ID"
+
+msgctxt "6ea5c586e4cb23c534fd3ec2ecabe45b"
+msgid "ID=210"
+msgstr "ID=210"
+
+msgctxt "4219dcadc4fafa4f11c65e37ca6da78b"
+msgid "세트"
+msgstr "Set"
+
+msgctxt "d53170ca7a248a62c21e37579b2f19d2"
+msgid "ID=211"
+msgstr "ID=211"
+
+msgctxt "2957d45de199b87ec85e85eb36409118"
+msgid "머리장식"
+msgstr "Headdress"
+
+msgctxt "3ec2a8d6985ed6594eb3705d694dad27"
+msgid "ID=212"
+msgstr "ID=212"
+
+msgctxt "ed8523885d97dabec7fb770d5c765e76"
+msgid "헤어/모자"
+msgstr "Hair/Hat"
+
+msgctxt "45d439bc468d1150b129b2f886298a21"
+msgid "ID=213"
+msgstr "ID=213"
+
+msgctxt "0726db86e1da62b27539b7687dc928f8"
+msgid "눈"
+msgstr "Eye"
+
+msgctxt "a2d386f9c4a3939b250769378033aca8"
+msgid "ID=214"
+msgstr "ID=214"
+
+msgctxt "62368820ee32507e26847752f5578b26"
+msgid "입"
+msgstr "Mouth"
+
+msgctxt "8d969a3f70d61a95b4a082b1c6f79e85"
+msgid "ID=215"
+msgstr "ID=215"
+
+msgctxt "e0204577db223dfbf86cbb48461ef98d"
+msgid "손"
+msgstr "Hands"
+
+msgctxt "2be4f5991ab3548e60626acc744e4dfd"
+msgid "ID=216"
+msgstr "ID=216"
+
+msgctxt "051db84809ec08bcf80faa08b57db9d8"
+msgid "속옷"
+msgstr "Underwear"
+
+msgctxt "064cdd730bc461b76ed801c4e20bdc40"
+msgid "ID=217"
+msgstr "ID=217"
+
+msgctxt "35e2afb0889e3d9b0fa1268ea568f131"
+msgid "의상"
+msgstr "Outfit"
+
+msgctxt "c00ea410999643e687e8c135fde122de"
+msgid "ID=218"
+msgstr "ID=218"
+
+msgctxt "f941f867188a853c81588405bda8c31f"
+msgid "등"
+msgstr "Back"
+
+msgctxt "080832e2e2d8e52bd34f4fbd4b19256a"
+msgid "ID=219"
+msgstr "ID=219"
+
+msgctxt "4286ddb807fe7499e0096688e976fb01"
+msgid "다리"
+msgstr "Legs"
+
+msgctxt "116b8a468a83f1aa8d71d83bfff921a1"
+msgid "ID=220"
+msgstr "ID=220"
+
+msgctxt "8994d373cf61ebf4d5b4d47b47933125"
+msgid "발"
+msgstr "Feet"
+
+msgctxt "27ce0acbfa646ff6c3fc5ccabd7e4ecb"
+msgid "ID=311"
+msgstr "ID=311"
+
+msgctxt "7942de8b7667f20c14e68ad4c55bb299"
+msgid "회복"
+msgstr "Recovery"
+
+msgctxt "fcb31ed56e84da16d3b33048d739a2ca"
+msgid "ID=312"
+msgstr "ID=312"
+
+msgctxt "d8544bede18e4de8d178ef0b0bd40dcd"
+msgid "버프"
+msgstr "Buff"
+
+msgctxt "37b36ba8400ea38c6fb6a2d57412dd21"
+msgid "ID=313"
+msgstr "ID=313"
+
+msgctxt "03a0e2a5f76ebc4b224e4871be4bdbe8"
+msgid "디버프"
+msgstr "Debuff"
+
+msgctxt "e385f270acbb1b4ad3f583f3d8d77a5d"
+msgid "ID=314"
+msgstr "ID=314"
+
+msgctxt "c7fe50a13fd0459bc237b1f6d5c7fcb5"
+msgid "부활"
+msgstr "Resurrection"
+
+msgctxt "46912a7934720f80402258dc0cebbd69"
+msgid "ID=321"
+msgstr "ID=321"
+
+msgctxt "9e00da848a839e27cecc60fbcfe82195"
+msgid "제작"
+msgstr "Craft"
+
+msgctxt "baeb6560e4c0848cca47ab85c6dc582c"
+msgid "ID=322"
+msgstr "ID=322"
+
+msgctxt "22ef52cc4c5b8f253be2ba37b0783bbe"
+msgid "강화"
+msgstr "Enhance"
+
+msgctxt "2b02a00a73b4e0f923e78bf2253f91a5"
+msgid "ID=323"
+msgstr "ID=323"
+
+msgctxt "f9a644836d844306bad0303c9fdb2fa5"
+msgid "특수"
+msgstr "Special"
+
+msgctxt "c9d1e5aa32047a36dc816aaf4a1d0256"
+msgid "ID=324"
+msgstr "ID=324"
+
+msgctxt "b25b64fa2e8671d4ffa07962cc505851"
+msgid "입장권"
+msgstr "Admission Ticket"
+
+msgctxt "bdf1e2cdfad50227004319655d59bd7e"
+msgid "ID=511"
+msgstr "ID=511"
+
+msgctxt "4948f83fec73bf3c964833414ad09c0f"
+msgid "ID=521"
+msgstr "ID=521"
+
+msgctxt "6a3f2c9ad0a0d39c9f68c792a2be5d9e"
+msgid "ID=522"
+msgstr "ID=522"
+
+msgctxt "0f28383976116f61ee15a72c3e13e689"
+msgid "ID=523"
+msgstr "ID=523"
+
+msgctxt "510f87b0e5f4f868fd5e2abdc8711c36"
+msgid "ID=524"
+msgstr "ID=524"
+
+msgctxt "42492956cbd06c9cdc773b19fa8acf15"
+msgid "ID=531"
+msgstr "ID=531"
+
+msgctxt "9faa0b4ffaa96863048daddd4bbd7d6a"
+msgid "ID=532"
+msgstr "ID=532"
+
+msgctxt "2a22533a97033438c285ea3182f7f617"
+msgid "ID=533"
+msgstr "ID=533"
+
+msgctxt "cfe0356ef5247c0022815f7e45868c3c"
+msgid "ID=534"
+msgstr "ID=534"
+
+msgctxt "35eb728eefa5ab470deeeee5db8f2b02"
+msgid "ID=535"
+msgstr "ID=535"
+
+msgctxt "7836df03356a185737d10fca17c21b32"
+msgid "ID=536"
+msgstr "ID=536"
+
+msgctxt "d3ed8b81f97b97a69a252986349a7a29"
+msgid "ID=537"
+msgstr "ID=537"
+
+msgctxt "bddca91972e57987dc278b5c51ac15c4"
+msgid "ID=538"
+msgstr "ID=538"
+
+msgctxt "d5656b100c076ba4d990e52a616c5a74"
+msgid "ID=539"
+msgstr "ID=539"
+
+msgctxt "bbdd583534bdcc7bd06b71bc2b3c5bcc"
+msgid "ID=540"
+msgstr "ID=540"
+
+msgctxt "98d7f3e5fd33d84a5a1070fb39f4124a"
+msgid "ID=541"
+msgstr "ID=541"
+
+msgctxt "6ef4e503d30a51f967bbb54a4086fc7e"
+msgid "ID=551"
+msgstr "ID=551"
+
+msgctxt "c82b6b1275c3f471e6bc0309f86ae14b"
+msgid "ID=601"
+msgstr "ID=601"
+
+msgctxt "51169e151c65971f012a81c06eacd99a"
+msgid "아카식 레코드"
+msgstr "Akashic Records"
+
+msgctxt "02f0e851bd6af24f7b3375d4687ca5f4"
+msgid "ID=711"
+msgstr "ID=711"
+
+msgctxt "d1d0de88c6d771ab23f5282c31c64759"
+msgid "전체"
+msgstr "All"
+
+msgctxt "2c2241dc91cd83890ac5b18cba1b4507"
+msgid "ID=721"
+msgstr "ID=721"
+
+msgctxt "0be044f96f7cfc17ad755595d7a9b922"
+msgid "ID=731"
+msgstr "ID=731"
+
+msgctxt "7ae0c5fd22c0f81f41983ebdc428c5e7"
+msgid "ID=741"
+msgstr "ID=741"
+
+msgctxt "aa3dd48885edccae55f50a3aeb9b33b1"
+msgid "ID=751"
+msgstr "ID=751"
+
+msgctxt "1f17bac9c0ef38824bcac99b1f337331"
+msgid "ID=761"
+msgstr "ID=761"
+
+msgctxt "c3aec380a0e34a64c85ab422609d7a1e"
+msgid "ID=999"
+msgstr "ID=999"
+
+msgctxt "b656f4a87b35f052638651d74f16fcf3"
+msgid "ID=1000"
+msgstr "ID=1000"
+
+msgctxt "5485dba07364d6ac6cffd169da8672cb"
+msgid "ID=1001"
+msgstr "ID=1001"
+
+msgctxt "8d0f5c831b9ff3fed3e8b29cbcbbd455"
+msgid "이벤트"
+msgstr "Event"
+
+msgctxt "86c5d9d1b434ff88a5f247e27bcc8119"
+msgid "ID=1002"
+msgstr "ID=1002"
+
+msgctxt "864c69b38c23b3cf2ec3b4867e910406"
+msgid "패키지"
+msgstr "Package"
+
+msgctxt "26802d818251bd7aca0ced5fc02ff2be"
+msgid "ID=1003"
+msgstr "ID=1003"
+
+msgctxt "b22eef2139700ffe85632b63851efbaf"
+msgid "외형"
+msgstr "Appearance"
+
+msgctxt "8260d7d38be04ee154b982e81dc80d1f"
+msgid "ID=1004"
+msgstr "ID=1004"
+
+msgctxt "bbcfcfa450d9818893b903bbc12161be"
+msgid "패션"
+msgstr "Fashion"
+
+msgctxt "0cfe2a3d51c332e012f0604f1c11dc11"
+msgid "ID=1005"
+msgstr "ID=1005"
+
+msgctxt "69bebed22183bb8d788a87da3544088e"
+msgid "인테리어"
+msgstr "Interior"
+
+msgctxt "e179ce388288270d949b5ab92041161e"
+msgid "ID=1006"
+msgstr "ID=1006"
+
+msgctxt "b91776424714e7046fa7cc31476cf34d"
+msgid "편의"
+msgstr "Convenience"
+
+msgctxt "6b63d7bcd333279b6292756e74b73776"
+msgid "ID=1101"
+msgstr "ID=1101"
+
+msgctxt "a075574eccd12d9e899635db3d224a9a"
+msgid "ID=1201"
+msgstr "ID=1201"
+
+msgctxt "1e1178cdb0bb0d7cc2f9372cb5b5c36d"
+msgid "스페셜"
+msgstr "Special"
+
+msgctxt "f69972eef664e1e7363a3f81331d5671"
+msgid "ID=1202"
+msgstr "ID=1202"
+
+msgctxt "a4f6a2489b718fa811871b6cee08d646"
+msgid "ID=1203"
+msgstr "ID=1203"
+
+msgctxt "ee6ec499e09f32ba5727b11380466bf6"
+msgid "마이룸"
+msgstr "My Room"
+
+msgctxt "3b83fc86fa3e52b618a5b543ecbf975f"
+msgid "ID=1204"
+msgstr "ID=1204"
+
+msgctxt "f9cba024ddd76e61dbfc481f168b9d22"
+msgid "ID=1301"
+msgstr "ID=1301"
+
+msgctxt "7ed154d608bdb3d6619261ef8dbf172b"
+msgid "머리모양"
+msgstr "Head shape"
+
+msgctxt "4d2777397cade2d28c24fd46c20093a0"
+msgid "ID=1302"
+msgstr "ID=1302"
+
+msgctxt "c8ab3d282ee367f9e6d5d190b04f389c"
+msgid "머리색"
+msgstr "Hair color"
+
+msgctxt "9377285a07161e184b74671393c226fb"
+msgid "ID=1303"
+msgstr "ID=1303"
+
+msgctxt "ba1ccfbb6e8e561982a97d623abe6f4c"
+msgid "눈 색"
+msgstr "Eye Color"
+
+msgctxt "70f5bd481476f9befba9147482e79f13"
+msgid "ID=1304"
+msgstr "ID=1304"
+
+msgctxt "bda863381da4b1f4f9d9c4f52773b92d"
+msgid "피부색"
+msgstr "Skin Color"
+
+msgctxt "c038b3488d12e8dc864af7594eab58b8"
+msgid "ID=1401"
+msgstr "ID=1401"
+
+msgctxt "a9ca8a040d30ac8c4469dc94bc5dc437"
+msgid "상의"
+msgstr "Top"
+
+msgctxt "c2138a7e2ad562694fee0ab3819c8c32"
+msgid "ID=1402"
+msgstr "ID=1402"
+
+msgctxt "56529865f8b2a8c03599df48ae4a5cb8"
+msgid "하의"
+msgstr "Bottom"
+
+msgctxt "3c6ef52115707c088fb559bc17a676d2"
+msgid "ID=1403"
+msgstr "ID=1403"
+
+msgctxt "902ba1a96caa3879588ee7ecb1a3bd3a"
+msgid "모자"
+msgstr "Head"
+
+msgctxt "1ac7017a12e61b11f4991259af374f98"
+msgid "ID=1404"
+msgstr "ID=1404"
+
+msgctxt "1e7282f1cf56f6f1db7cf91f6e0d9157"
+msgid "ID=1405"
+msgstr "ID=1405"
+
+msgctxt "c4cd251cfad26362e578be755219ff9e"
+msgid "신발"
+msgstr "Shoes"
+
+msgctxt "ff74c7a944a16176bad68a10621133c8"
+msgid "ID=1406"
+msgstr "ID=1406"
+
+msgctxt "b756d64db48dc8ea4ef311fe25fd073e"
+msgid "스타일링"
+msgstr "Styling"
+
+msgctxt "d21713eb948e155f8a7ea30ae9139f3c"
+msgid "ID=1407"
+msgstr "ID=1407"
+
+msgctxt "92f61253f28b18ec0d92d19eefad99da"
+msgid "ID=1408"
+msgstr "ID=1408"
+
+msgctxt "f712f88daa161f22c2ead86d57610473"
+msgid "ID=1501"
+msgstr "ID=1501"
+
+msgctxt "eb0f43fa7f34a6ab5cea1b16a1de6f30"
+msgid "가구"
+msgstr "Furniture"
+
+msgctxt "7ce31269aa818528b5db1d54db867651"
+msgid "ID=1502"
+msgstr "ID=1502"
+
+msgctxt "89a2b304320f9ddba4437992aeec8915"
+msgid "욕실"
+msgstr "Bathroom"
+
+msgctxt "d3b135946dac4daaf063915527879b74"
+msgid "ID=1503"
+msgstr "ID=1503"
+
+msgctxt "a6b4764d17d92dff7d5b485b6f16fd02"
+msgid "외부"
+msgstr "Out"
+
+msgctxt "309584c3f83081876c3ba22d3a0f55ac"
+msgid "ID=1504"
+msgstr "ID=1504"
+
+msgctxt "dffecea22c8d27380f226c92236ebd46"
+msgid "내부"
+msgstr "Inside"
+
+msgctxt "bc0741f4d5a44ea6c3731b938ce0f494"
+msgid "ID=1505"
+msgstr "ID=1505"
+
+msgctxt "a5ff40b4a47d45400e96fd244f57e6b6"
+msgid "소품"
+msgstr "prop"
+
+msgctxt "0f558cf6fafe9391d8d1acd204bbf34f"
+msgid "ID=1506"
+msgstr "ID=1506"
+
+msgctxt "67030c39f909e5c713a4d8ae6f0e7138"
+msgid "ID=1601"
+msgstr "ID=1601"
+
+msgctxt "83d53d00acf88095c9a3f9b638eb85b1"
+msgid "기능성"
+msgstr "Functional"
+
+msgctxt "0d173ac08664eb7c4f6102931ff5b9bb"
+msgid "ID=1602"
+msgstr "ID=1602"
+
+msgctxt "9126ca7f97b5354318c4e1d709d67cb7"
+msgid "소모품"
+msgstr "Expendables"
+
+msgctxt "b07377f897f099ef58f031c90c1dc78d"
+msgid "ID=1603"
+msgstr "ID=1603"
+
+msgctxt "cc9e05f3ef65f2aa17abb791904ee460"
+msgid "물약류"
+msgstr "Potion"
+
+msgctxt "e72d3ce75921d2d49a36e3aaa75ca0e1"
+msgid "ID=2100"
+msgstr "ID=2100"
+
+msgctxt "8078cc3d2b1eb877cc50bd9b1292d0fa"
+msgid "ID=2200"
+msgstr "ID=2200"
+
+msgctxt "c9532f218a08f9e586198c6fb3821682"
+msgid "ID=2250"
+msgstr "ID=2250"
+
+msgctxt "53331382b3755efa2c670c76097a2217"
+msgid "내부/외부"
+msgstr "Inside / outside"
+
+msgctxt "1caba65ab21bfbd48c6d5f2668d66fba"
+msgid "ID=2300"
+msgstr "ID=2300"
+
+msgctxt "fc54aaf1c89e635c2f14135bd9ce65ee"
+msgid "ID=2400"
+msgstr "ID=2400"
+
+msgctxt "77c1906aae1d27ecfba3ad057fa62fff"
+msgid "ID=2500"
+msgstr "ID=2500"
+
+msgctxt "815f165e60b54f7694e4662533095190"
+msgid "ID=2600"
+msgstr "ID=2600"
+
+msgctxt "7084bcc146410b60a79ab3f1b15779a6"
+msgid "ID=2700"
+msgstr "ID=2700"
+
+msgctxt "61f634e3b01457f31dce8685106dd6de"
+msgid "ID=2800"
+msgstr "ID=2800"
+
+msgctxt "afe47fb2a3db4b28c5f7368e080dfcbd"
+msgid "ID=2900"
+msgstr "ID=2900"
+
+msgctxt "3f40827499f674151a7337fa59acac25"
+msgid "ID=2101"
+msgstr "ID=2101"
+
+msgctxt "e5007d39d103d726f61bea8e1bbfd738"
+msgid "ID=2201"
+msgstr "ID=2201"
+
+msgctxt "ba46841d0e7fc86bb38cf4a0b00e9294"
+msgid "매트"
+msgstr "mat"
+
+msgctxt "bf2e420e796de07d2db9c9118df7e825"
+msgid "ID=2202"
+msgstr "ID=2202"
+
+msgctxt "e724ec66e17f563fdbb8508f4a33c276"
+msgid "침대"
+msgstr "bed"
+
+msgctxt "ef1cb43a1e77d764f47b1b3bb17c08db"
+msgid "ID=2203"
+msgstr "ID=2203"
+
+msgctxt "2e34b8dfd6746cc0486b6b259b8c70aa"
+msgid "의자"
+msgstr "chair"
+
+msgctxt "609f58131a15f7cb5ac3072f01960433"
+msgid "ID=2204"
+msgstr "ID=2204"
+
+msgctxt "351f3e671be044008d8fff2eae8070c1"
+msgid "테이블"
+msgstr "table"
+
+msgctxt "a5a71d4736a4619bc8a69da4675891bd"
+msgid "ID=2205"
+msgstr "ID=2205"
+
+msgctxt "415bab10b2691aaa6d023b5318a7214c"
+msgid "욕조"
+msgstr "tub"
+
+msgctxt "933d0ac48159002e3439f3ff13953914"
+msgid "ID=2206"
+msgstr "ID=2206"
+
+msgctxt "98147953a36a3aa734546652a02dad9b"
+msgid "샤워부스"
+msgstr "Shower booth"
+
+msgctxt "d1cba1dfe664f6b534af01000fdec5e8"
+msgid "ID=2207"
+msgstr "ID=2207"
+
+msgctxt "f2d48fa1b9a95370be589916b03c8629"
+msgid "창문"
+msgstr "window"
+
+msgctxt "c5a7cdbfb14badc0c82b562d00814ea1"
+msgid "ID=2208"
+msgstr "ID=2208"
+
+msgctxt "0dadef774087022c6cd23b6a4fbf1461"
+msgid "문"
+msgstr "door"
+
+msgctxt "82a23de566af755b2d05bb71234b63bb"
+msgid "ID=2209"
+msgstr "ID=2209"
+
+msgctxt "07ec8117cee73b87447d9007a1d2e805"
+msgid "테라스 문"
+msgstr "Terrace door"
+
+msgctxt "a4829a33af517c1d42a85ed9df680193"
+msgid "ID=2210"
+msgstr "ID=2210"
+
+msgctxt "7530073b5b73c661c3f40b65245e5534"
+msgid "벽지"
+msgstr "wallpaper"
+
+msgctxt "4cfdeadf06606cb1d59294303db126d9"
+msgid "ID=2211"
+msgstr "ID=2211"
+
+msgctxt "2d6273f3b41e90ad048c28b44071c21f"
+msgid "타일"
+msgstr "tile"
+
+msgctxt "411e09161a29c00739363768b5f41dfa"
+msgid "ID=2212"
+msgstr "ID=2212"
+
+msgctxt "3565aec9ac32015bb222a431e51cfb52"
+msgid "천장"
+msgstr "ceiling"
+
+msgctxt "16aba4a1f9c5e153aade1214303b55c8"
+msgid "ID=3100"
+msgstr "ID=3100"
+
+msgctxt "84be88f5c9a3a99d8a2c3a8788185b6b"
+msgid "가공"
+msgstr "Processing"
+
+msgctxt "71d655aec60746e24f678c8b49d461db"
+msgid "ID=3101"
+msgstr "ID=3101"
+
+msgctxt "b94bbbf4ce6c8c09c18bce7ce66774fd"
+msgid "주괴"
+msgstr "Ingot"
+
+msgctxt "efbb99561f2c268fc064a55e35111926"
+msgid "ID=3102"
+msgstr "ID=3102"
+
+msgctxt "539cbb0634d89be6040d3bbf4b039724"
+msgid "목재"
+msgstr "Wood"
+
+msgctxt "d72916f406a8b04c6b725eaa1f8ad9da"
+msgid "ID=3103"
+msgstr "ID=3103"
+
+msgctxt "ef844b5ac086964af4bb5c016f35600b"
+msgid "점액"
+msgstr "Slime"
+
+msgctxt "0571ce57ecfa3ce2fc442c9fddd4b242"
+msgid "ID=3104"
+msgstr "ID=3104"
+
+msgctxt "dd4827de19f9550be381750b5cd1577c"
+msgid "섬유"
+msgstr "Fiber"
+
+msgctxt "8fd40789aed2b3fe0bf337be0ca3ec0a"
+msgid "ID=3105"
+msgstr "ID=3105"
+
+msgctxt "4c82b7a3ee752a63c88d3cbbabc40280"
+msgid "유리"
+msgstr "Glass"
+
+msgctxt "46f9ba2f86236f5e313ff79d0fdf1a32"
+msgid "ID=3106"
+msgstr "ID=3106"
+
+msgctxt "998bd863e807b52ea7ef8dd7b4bb3af6"
+msgid "고무"
+msgstr "Rubber"
+
+msgctxt "5e004fdf8b77dc3303570dc3877259d5"
+msgid "ID=3200"
+msgstr "ID=3200"
+
+msgctxt "a9de7b4afb86947a99ed3bca450eb4ea"
+msgid "설계도"
+msgstr "Blueprint"
+
+msgctxt "6dc41b8a902629eb78d81f6e19b904b4"
+msgid "ID=3201"
+msgstr "ID=3201"
+
+msgctxt "9d95adf3b639ed8749f96d5cd86f00f9"
+msgid "ID=3202"
+msgstr "ID=3202"
+
+msgctxt "e950ca7f22bf16549ee41b3f5353c58f"
+msgid "ID=3203"
+msgstr "ID=3203"
+
+msgctxt "220261bd5a175edf1163b9c32a0caf06"
+msgid "ID=3204"
+msgstr "ID=3204"
+
+msgctxt "b17aceba75205089190bceb909fa8e35"
+msgid "ID=3205"
+msgstr "ID=3205"
+
+msgctxt "5687cac058540969f665f45c0e644895"
+msgid "ID=3206"
+msgstr "ID=3206"
+
+msgctxt "0e0b3df0639d3d2c64fe01b1cf8ccd93"
+msgid "ID=3207"
+msgstr "ID=3207"
+
+msgctxt "0d76f362957520ffa8ca7bbf0c01ec16"
+msgid "ID=3208"
+msgstr "ID=3208"
+
+msgctxt "1750d1459ee26841fb9c87955c6b5a34"
+msgid "ID=3209"
+msgstr "ID=3209"
+
+msgctxt "b1e38293c9b67ea32becfe289ced9e66"
+msgid "ID=3210"
+msgstr "ID=3210"
+
+msgctxt "af081d1bc1c2ae0ffbcaf8b12c029fb6"
+msgid "ID=3211"
+msgstr "ID=3211"
+
+msgctxt "7a057c3f9985f4a3857a9ee327b3e3f6"
+msgid "ID=3212"
+msgstr "ID=3212"
+
+msgctxt "4f59884c598285b00f14409d1ff3716c"
+msgid "ID=3213"
+msgstr "ID=3213"
+
+msgctxt "53d13212b0b7afcd952df8da796b5494"
+msgid "ID=3300"
+msgstr "ID=3300"
+
+msgctxt "71aa4670558c680e1b15ca31918c3131"
+msgid "재배"
+msgstr "Cultivate"
+
+msgctxt "8302598fb278331dbd0de39647660e71"
+msgid "ID=3301"
+msgstr "ID=3301"
+
+msgctxt "8a5b6a7d5ef77a2ea851ad73af77aece"
+msgid "씨앗"
+msgstr "seed"
+
+msgctxt "3cf16dfe978c765f878ea5be04fd1c0d"
+msgid "ID=3302"
+msgstr "ID=3302"
+
+msgctxt "70703fcd40b1b8d6cea5637782027724"
+msgid "ID=763"
+msgstr "ID=763"
+
+msgctxt "15983a3d2fb309a5549c9a85eda28c8e"
+msgid "ID=764"
+msgstr "ID=764"
+
+msgctxt "abb169c3231c29c1b2c4bd5b77f31fd5"
+msgid "문신"
+msgstr "Tattoo"
+
+msgctxt "48955eda97f0ee71122aa5543a21db7a"
+msgid "ID=765"
+msgstr "ID=765"
+
+msgctxt "7bd7f7c2d408edea1bbee2f19562ddd1"
+msgid "ID=771"
+msgstr "ID=771"
+
+msgctxt "3aefe1400abfadf3c64ad5f3d1911a88"
+msgid "ID=800"
+msgstr "ID=800"
+
+msgctxt "bfed154e806394e936c4ac8f2c709799"
+msgid "ID=801"
+msgstr "ID=801"
+
+msgctxt "47fc31cd5a920baa86698b6d14a7cb36"
+msgid "한정 칭호"
+msgstr "Limited Title"
+
+msgctxt "56873c122bab9374fbdddaeaa4795f49"
+msgid "ID=4000"
+msgstr "ID=4000"
+
+msgctxt "4cf668d7a7b9bc62facd53dcf8998a2c"
+msgid "ID=4001"
+msgstr "ID=4001"
+
+msgctxt "ba3f0fc42048232c6c15e29c6625eda4"
+msgid "검"
+msgstr "Sword"
+
+msgctxt "bf9815474bb56765ce2c15c80437c991"
+msgid "ID=4002"
+msgstr "ID=4002"
+
+msgctxt "899f6951d7599113155b44aee1d9ade4"
+msgid "권총"
+msgstr "Pistol"
+
+msgctxt "ef60188706c1cd5da3e1661666da626c"
+msgid "ID=4003"
+msgstr "ID=4003"
+
+msgctxt "4151391dba86f0fa2928d73e4871fbfb"
+msgid "낫"
+msgstr "Scythe"
+
+msgctxt "8c0e8614144b3ee62803762ab794c6fc"
+msgid "ID=4004"
+msgstr "ID=4004"
+
+msgctxt "635a92d444d2fc2e93bf44f9cf9800c2"
+msgid "ID=4005"
+msgstr "ID=4005"
+
+msgctxt "08bf67a12e2d7cd122c824de6ea4e286"
+msgid "권갑"
+msgstr "Gauntlet"
+
+msgctxt "37adc73e73867b2cf0799c8c49dacd2d"
+msgid "ID=4006"
+msgstr "ID=4006"
+
+msgctxt "41633fda56c169dba5332cc4fadf991a"
+msgid "해머"
+msgstr "Hammer"
+
+msgctxt "487d2ee8db8906c474addb53752bf79e"
+msgid "ID=4100"
+msgstr "ID=4100"
+
+msgctxt "87b9e38e9f6767d22225be5106056811"
+msgid "ID=4101"
+msgstr "ID=4101"
+
+msgctxt "e4974778c5ed3ec23a84d6e5bb641521"
+msgid "ID=4102"
+msgstr "ID=4102"
+
+msgctxt "e8f5a17adf8d9b4127a1d68190f6819a"
+msgid "ID=4103"
+msgstr "ID=4103"
+
+msgctxt "e1781201d71a6c4c7f7c6c518e46b328"
+msgid "ID=4104"
+msgstr "ID=4104"
+
+msgctxt "b972f87d5f2629b0ab651f6f8784c836"
+msgid "ID=4110"
+msgstr "ID=4110"
+
+msgctxt "75246bfc2df94b139abb577fda8485bb"
+msgid "재료 가공"
+msgstr "Material processing"
+
+msgctxt "7d652f87b7f890df34eb095723813382"
+msgid "ID=4111"
+msgstr "ID=4111"
+
+msgctxt "4fcc532ea2f9ba2567846d491cc442b0"
+msgid "광물"
+msgstr "Mineral"
+
+msgctxt "88674d25b9f0695ed4ad16709b14ea68"
+msgid "ID=4112"
+msgstr "ID=4112"
+
+msgctxt "fa48f77217ee8ebc3c1370047a6e6b41"
+msgid "기어코어"
+msgstr "Gear core"
+
+msgctxt "2414015aa8f4cbf61bd0fc03e7165cf0"
+msgid "ID=4113"
+msgstr "ID=4113"
+
+msgctxt "9c0aa078d0c7dfd1a5b58ce21546f4e5"
+msgid "웨폰코어"
+msgstr "Weapon core"
+
+msgctxt "10ff77e0bc25301a323ada33777e34bb"
+msgid "ID=4114"
+msgstr "ID=4114"
+
+msgctxt "2bfd77fcb860452b3b940bfe1e156d87"
+msgid "혼"
+msgstr "spirit"
+
+msgctxt "0dcf572710b3baea800d159e59853a2a"
+msgid "ID=4115"
+msgstr "ID=4115"
+
+msgctxt "5d5fff8a7392b5c06d5654259c82488a"
+msgid "퀘스트 제작"
+msgstr "Quest Production"
+
+msgctxt "b1f23f266cc70a3d5707377583e4d510"
+msgid "ID=4116"
+msgstr "ID=4116"
+
+msgctxt "0345d64a496b547732227d98720523d4"
+msgid "ID=4150"
+msgstr "ID=4150"
+
+msgctxt "2dd447845b246d3fa771b005d5547b27"
+msgid "ID=4151"
+msgstr "ID=4151"
+
+msgctxt "9b6e1a3d13f20f7cce1de4eafd1e0056"
+msgid "ID=4152"
+msgstr "ID=4152"
+
+msgctxt "618e663a4d6755d1f114807297791794"
+msgid "ID=4153"
+msgstr "ID=4153"
+
+msgctxt "48b79752d46a7a6d26c0e086a8858ae8"
+msgid "ID=4154"
+msgstr "ID=4154"
+
+msgctxt "07d693942e0151d9fed32a9909eb5f84"
+msgid "ID=4155"
+msgstr "ID=4155"
+
+msgctxt "7c6dc51aaf3e7543fd7a09ba6a7ea9b1"
+msgid "ID=4156"
+msgstr "ID=4156"
+
+msgctxt "1e23f44b57b5bb024282bce5825d8274"
+msgid "ID=4157"
+msgstr "ID=4157"
+
+msgctxt "93b19b68b5acadaf7ec4c95a19f3610c"
+msgid "슈트"
+msgstr "suit"
+
+msgctxt "531c61fbcae9ca34a87e7a0ea5185530"
+msgid "ID=4201"
+msgstr "ID=4201"
+
+msgctxt "1df72b16f73caae06a2f3a3c9c4de936"
+msgid "ID=4202"
+msgstr "ID=4202"
+
+msgctxt "1cb1b04cb520797bb4096d72f0237766"
+msgid "ID=4203"
+msgstr "ID=4203"
+
+msgctxt "e7e1283a02a85aee65e5650ed4bb4573"
+msgid "ID=4204"
+msgstr "ID=4204"
+
+msgctxt "d2349c0f22ad3a0f2c475fb5c583e195"
+msgid "ID=4205"
+msgstr "ID=4205"
+
+msgctxt "53332df92fce191c04ca2dc8efa2f441"
+msgid "ID=4206"
+msgstr "ID=4206"
+
+msgctxt "c842718bc22ee9621a16bbbc40788104"
+msgid "ID=4211"
+msgstr "ID=4211"
+
+msgctxt "ab09ae57de66730801a48c5e1d36ca66"
+msgid "펜던트"
+msgstr "pendant"
+
+msgctxt "277133b117693efab27c91ecbb053c0d"
+msgid "ID=4212"
+msgstr "ID=4212"
+
+msgctxt "9de1a067b1a126b3fcfcbcaa6811d432"
+msgid "이어링"
+msgstr "earring"
+
+msgctxt "6b1a272e0ab430a97ce883d574d6de45"
+msgid "ID=4213"
+msgstr "ID=4213"
+
+msgctxt "4c3c7f1f64d221b160c2c8170618c36b"
+msgid "링"
+msgstr "ring"
+
+msgctxt "4b387fcfb2109b58694c3a1ee69e5602"
+msgid "ID=4301"
+msgstr "ID=4301"
+
+msgctxt "1d717b63802569394a0bb1b71f3f1203"
+msgid "하루"
+msgstr "Haru"
+
+msgctxt "9a3594f942f92212dcb9681cadb04c02"
+msgid "ID=4302"
+msgstr "ID=4302"
+
+msgctxt "6e0735b2af07d722e4d829950c46b2fe"
+msgid "어윈"
+msgstr "Erwin"
+
+msgctxt "93c8e7b1b9aec67651cb10a6c12560e7"
+msgid "ID=4303"
+msgstr "ID=4303"
+
+msgctxt "cd7ae9d8b8c92fc9b12e28589e8114a3"
+msgid "릴리"
+msgstr "Lily "
+
+msgctxt "4a9182552255a398344f2cb9491ea17d"
+msgid "ID=4304"
+msgstr "ID=4304"
+
+msgctxt "fea1a5fc3ecbd1d0cd187a957816ce47"
+msgid "진"
+msgstr "Jin"
+
+msgctxt "26a7615b790a4f3e559f7061c8958cc0"
+msgid "ID=4305"
+msgstr "ID=4305"
+
+msgctxt "0fc9f1132d7225b6f0a4ac4f70f49b93"
+msgid "스텔라"
+msgstr "Stella"
+
+msgctxt "71a5b64a5976ed54742c2031357e0025"
+msgid "ID=4306"
+msgstr "ID=4306"
+
+msgctxt "7b1b581efa878a89d79ad287373a98ab"
+msgid "이리스"
+msgstr "Iris"
+
+msgctxt "059211b3c21e665c9cb02af4c3ec81f2"
+msgid "ID=4400"
+msgstr "ID=4400"
+
+msgctxt "cf38f43931355aad6d373ec9eb1319b9"
+msgid "서포터 장비"
+msgstr "Supporter equipment"
+
+msgctxt "1c61c92e8ed5d135ffd48346f267dff0"
+msgid "ID=4401"
+msgstr "ID=4401"
+
+msgctxt "c81b955f036bbfbfbcb710825dad2bad"
+msgid "공격 장비"
+msgstr "Attack equipment"
+
+msgctxt "bec2bf4b83e174e389678c3f9d06913b"
+msgid "ID=4402"
+msgstr "ID=4402"
+
+msgctxt "2d2f254a8673aa70f782175ab843f476"
+msgid "방어 장비"
+msgstr "Defense equipment"
+
+msgctxt "7c5ab99cdc0762e37b733bf9be143e9f"
+msgid "ID=4500"
+msgstr "ID=4500"
+
+msgctxt "e5d464e59c4390bfa48dc6104bf30937"
+msgid "ID=4501"
+msgstr "ID=4501"
+
+msgctxt "6b21254524799f749e4c9d06835a044d"
+msgid "수리도구"
+msgstr "Repair tools"
+
+msgctxt "052130e8125d7335ae1cfcf48b4a526b"
+msgid "ID=4700"
+msgstr "ID=4700"
+
+msgctxt "87addfb7101ebbce11e72f73b9c6b829"
+msgid "소울스톤"
+msgstr "Soulstone"
+
+msgctxt "e79f56360ac2a2f8688525ced6cbace3"
+msgid "ID=4701"
+msgstr "ID=4701"
+
+msgctxt "e8a6b37bdf8cfaae0a71a61a59cbb208"
+msgid "광휘의 소울스톤"
+msgstr "Light Soulstone"
+
+msgctxt "5862e6969d975afd460f85bb68fc3062"
+msgid "ID=4702"
+msgstr "ID=4702"
+
+msgctxt "b1eece0a9acbad14393ffb9a02a9b42f"
+msgid "악념의 소울스톤"
+msgstr "Soulstone of Darkness"
+
+msgctxt "072f0170c179822d3b5a897daa50c5a9"
+msgid "ID=4703"
+msgstr "ID=4703"
+
+msgctxt "e55bf939dd87781a9c3ab4feb2d94805"
+msgid "냉정의 소울스톤"
+msgstr "Soulstone of Water"
+
+msgctxt "cde290dfda1d4358e92417b4ecd9310b"
+msgid "ID=4704"
+msgstr "ID=4704"
+
+msgctxt "dcb1d25fe82f35f2579b8515ea48ad46"
+msgid "증오의 소울스톤"
+msgstr "Soulstone of Fire"
+
+msgctxt "a211264640a4465a71a36f4a68e90dd6"
+msgid "ID=4705"
+msgstr "ID=4705"
+
+msgctxt "872b215fe490ea2f6ede69c8814e5b86"
+msgid "치유의 소울스톤"
+msgstr "Soulstone of Healing"
+
+msgctxt "075cf0172e65ddba8a50688e7ed0f55c"
+msgid "ID=4706"
+msgstr "ID=4706"
+
+msgctxt "df9c93d97613c619ff9e2a56df048850"
+msgid "고통의 소울스톤"
+msgstr "Soulstone of Poison"
+
+msgctxt "a6a6af31936a2d9892b4bd6aa0990741"
+msgid "ID=4800"
+msgstr "ID=4800"
+
+msgctxt "8f8c6758e263dc12c92bf29968f54f60"
+msgid "선지자의 파편"
+msgstr "Prophet's Fragment"
+
+msgctxt "636ad71c01cb86232b8fc4b9dcda5ebc"
+msgid "ID=4801"
+msgstr "ID=4801"
+
+msgctxt "38ba27db430118095404bc48642865bf"
+msgid "광휘의 파편"
+msgstr "Fragment of Light"
+
+msgctxt "a2fd758d8ac7126fdef4d3b8c454e748"
+msgid "ID=4802"
+msgstr "ID=4802"
+
+msgctxt "aedff7962447f071274123f647a1afb1"
+msgid "악념의 파편"
+msgstr "Fragment of Darkness"
+
+msgctxt "a3a2f3516c0f8ffde2130ab59b6473e6"
+msgid "ID=4803"
+msgstr "ID=4803"
+
+msgctxt "424a140ff372e25ee3c4ef883b34413c"
+msgid "냉정의 파편"
+msgstr "Fragment of Water"
+
+msgctxt "1a3d11e469f5420ce819949b996f7858"
+msgid "ID=4804"
+msgstr "ID=4804"
+
+msgctxt "a022ade33ea0f45023f1546026a3cb12"
+msgid "증오의 파편"
+msgstr "Fragment of Fire"
+
+msgctxt "2947968f87fb1026b6ea115745c0b848"
+msgid "ID=4805"
+msgstr "ID=4805"
+
+msgctxt "b5676a4047468d2e59a0ed49461bf563"
+msgid "치유의 파편"
+msgstr "Fragment of Healing"
+
+msgctxt "267c106b02646efa3ee3baabd351db87"
+msgid "ID=4806"
+msgstr "ID=4806"
+
+msgctxt "fb7fd2bdea577aab1c52ee38c0a905d7"
+msgid "고통의 파편"
+msgstr "Fragment of Poison"
+
+msgctxt "adb6d666269cb3c0857138d98608527e"
+msgid "ID=5000"
+msgstr "ID=5000"
+
+msgctxt "f3ad6dbb3e76d29020e5a9432645ae35"
+msgid "ID=5001"
+msgstr "ID=5001"
+
+msgctxt "aeed5e61e6c49e93b828c5ab6f771897"
+msgid "티켓"
+msgstr "ticket"
+
+msgctxt "6fb6674f143d3b7174a06bd06be37c51"
+msgid "ID=5003"
+msgstr "ID=5003"
+
+msgctxt "3b5c5b3c75bbfff5a2ceb63459b87d92"
+msgid "ID=5004"
+msgstr "ID=5004"
+
+msgctxt "28b7f02b9985b8e9177403567e4db3c6"
+msgid "아카식레코드"
+msgstr "Akashik Records"
+
+msgctxt "9ac232e27b2fdbe6c2ce702b33239386"
+msgid "ID=5005"
+msgstr "ID=5005"
+
+msgctxt "be31bd0dc5786163293f46bb24dbabc9"
+msgid "탈 것"
+msgstr "Vehicle"
+
+msgctxt "f4cc530114bc124857f27b2c2a57c292"
+msgid "ID=5100"
+msgstr "ID=5100"
+
+msgctxt "2e657a882654bead3d5e992a06fa1b14"
+msgid "피로 회복"
+msgstr "Fatigue recovery"
+
+msgctxt "776bc05a1554262fc9ad8af282d282c4"
+msgid "ID=5101"
+msgstr "ID=5101"
+
+msgctxt "7f6f8c41517f6b13f7bb1e30cdfae5bd"
+msgid "기능"
+msgstr "function"
+
+msgctxt "01cb39fddeed14f92ea8926c89dbfccf"
+msgid "ID=5102"
+msgstr "ID=5102"
+
+msgctxt "670d91648f321d1b972e23d1fcc8015b"
+msgid "ID=5103"
+msgstr "ID=5103"
+
+msgctxt "36b6afae794ab985c22e5cfb6743c9c5"
+msgid "브로치"
+msgstr "Brooch"
+
+msgctxt "41f583febd997c54c1d4e2b8c4f0948b"
+msgid "ID=5104"
+msgstr "ID=5104"
+
+msgctxt "8431812f0403ed43caedb54942088893"
+msgid "ID=5105"
+msgstr "ID=5105"
+
+msgctxt "91868e00ee5c2055294e9ff2e5585a1e"
+msgid "ID=5106"
+msgstr "ID=5106"
+
+msgctxt "3594fc4713ed2747d5831e088189de7d"
+msgid "랜덤박스"
+msgstr "Random box"
+
+msgctxt "93db634bb76d3f307d54cbaa750008a2"
+msgid "ID=5107"
+msgstr "ID=5107"
+
+msgctxt "61e35f072ae68c091daf1c5804dd52d4"
+msgid "ID=5108"
+msgstr "ID=5108"
+
+msgctxt "7ce9c5a7c4393c53baed64497b1fe783"
+msgid "ID=5109"
+msgstr "ID=5109"
+
+msgctxt "4c9a13523f38ec7df719d62d2eb9393d"
+msgid "ID=5110"
+msgstr "ID=5110"
+
+msgctxt "4f673095e04fed71d9cbdc0b8658b8da"
+msgid "파츠"
+msgstr "Parts"
+
+msgctxt "a45f2177171fcbcdab85681a4b399ae4"
+msgid "ID=6000"
+msgstr "ID=6000"
+
+msgctxt "abf6216642a5d7d7535949d9aa5798dd"
+msgid "스테이터스"
+msgstr "Status"
+
+msgctxt "c4d5e57a9a2b6b0e2cc90211eb9e4152"
+msgid "ID=6001"
+msgstr "ID=6001"
+
+msgctxt "e49ee7074917cb3bc012ba4047cb7f25"
+msgid "키"
+msgstr "key"
+
+msgctxt "eeb715910258eaee1bc9ae91e7f9fbf9"
+msgid "ID=6002"
+msgstr "ID=6002"
+
+msgctxt "3c9987754d0e83090bb09f2375574af8"
+msgid "스테미너"
+msgstr "Stamina"
+
+msgctxt "876b4459e03ca9848d45992279e490f3"
+msgid "ID=6003"
+msgstr "ID=6003"
+
+msgctxt "7d2905dd37ddd38c176022c60db47fbc"
+msgid "ID=3997"
+msgstr "ID=3997"
+
+msgctxt "f17cb999536f72430e1b8b6c1af002ed"
+msgid "ID=3998"
+msgstr "ID=3998"
+
+msgctxt "66d7ae2daa14a6f6ab67390471cc715c"
+msgid "체력 회복"
+msgstr "Health recovery"
+
+msgctxt "0ca4cb306f6fa9780c27e3891aae7eec"
+msgid "ID=3999"
+msgstr "ID=3999"
+
+msgctxt "c317f90a4a3da480db60133b632b1050"
+msgid "SG 회복"
+msgstr "SG Recovery"
+
+msgctxt "a2a829c87aec5efa16bbf89463320307"
+msgid "ID=4601"
+msgstr "ID=4601"
+
+msgctxt "03316c8d5309744fc323874f280ad797"
+msgid "ID=4602"
+msgstr "ID=4602"
+
+msgctxt "48e74ab5965151cccc9fa088345a1c8c"
+msgid "ID=4603"
+msgstr "ID=4603"
+
+msgctxt "9bbded710d2a8fead751384c7acbd0bd"
+msgid "ID=4604"
+msgstr "ID=4604"
+
+msgctxt "db9acf103467a5af4c93e4e6246fb739"
+msgid "ID=5201"
+msgstr "ID=5201"
+
+msgctxt "3274fd6ec64ae347b1cf1a29eb4b55eb"
+msgid "처음"
+msgstr "Start"
+
+msgctxt "49bf8bb596e7d36f7fabf1a7ff5bd301"
+msgid "ID=5202"
+msgstr "ID=5202"
+
+msgctxt "c9dcbcb273deeca297aeb46a4a3a8016"
+msgid "ID=5203"
+msgstr "ID=5203"
+
+msgctxt "26440cf21fca85babe041d36010e9409"
+msgid "ID=5204"
+msgstr "ID=5204"
+
+msgctxt "80555302f28e017b53b645ac17d16dd2"
+msgid "ID=5205"
+msgstr "ID=5205"
+
+msgctxt "19f3c0e55f0be98b0e5560eb4c0c18f9"
+msgid "ID=5301"
+msgstr "ID=5301"
+
+msgctxt "336d5ebc5436534e61d16e63ddfca327"
+msgid "-"
+msgstr "-"
+
+msgctxt "0a0895dadb1e87187af9afc7a65968fe"
+msgid "ID=5302"
+msgstr "ID=5302"
+
+msgctxt "b92ec81c084bc7434a15d1cab259196d"
+msgid "ID=5303"
+msgstr "ID=5303"
+
+msgctxt "9a1d4f69f58da83ac89ad50e3c202b54"
+msgid "ID=5304"
+msgstr "ID=5304"
+
+msgctxt "92f9b4ac69195f3addf9577a378ecf29"
+msgid "ID=5305"
+msgstr "ID=5305"
+
+msgctxt "1c52afa03d1743e810ac9dd9ab6b8544"
+msgid "ID=5306"
+msgstr "ID=5306"
+
+msgctxt "ebc770938f999748b39085f2dab7f71d"
+msgid "상하의"
+msgstr "Upper and lower"
+
+msgctxt "e9029802b0489086543ff87a98382a76"
+msgid "ID=5307"
+msgstr "ID=5307"
+
+msgctxt "6305ec44147706d82adcb74ba6fa28a3"
+msgid "ID=5308"
+msgstr "ID=5308"
+
+msgctxt "bdb89aa2f9ab0f154c21c08635237146"
+msgid "ID=5309"
+msgstr "ID=5309"
+
+msgctxt "eda63bf90b143ac5eb0a5d7efbdd457d"
+msgid "ID=5310"
+msgstr "ID=5310"
+
+msgctxt "643e7e5c175f3032b6a894d41841e3c6"
+msgid "ID=5311"
+msgstr "ID=5311"
+
+msgctxt "b21fccdce102a4f58ad05fffe2b34e05"
+msgid "양말"
+msgstr "Amount - say"
+
+msgctxt "b4b617471212d002c30aaf364854b38d"
+msgid "ID=5312"
+msgstr "ID=5312"
+
+msgctxt "6caa812071adb3a81d225b5697eaf4cd"
+msgid "ID=5313"
+msgstr "ID=5313"
+
+msgctxt "a334f3a05bb0d0d8f3de52e09d489fae"
+msgid "안경"
+msgstr "glasses"
+
+msgctxt "3138d10e3d6c6dead42139c0e3f44668"
+msgid "ID=5314"
+msgstr "ID=5314"
+
+msgctxt "b34fe79707e076789c02749674b6dd75"
+msgid "ID=5315"
+msgstr "ID=5315"
+
+msgctxt "78458c12b00a1848405037c88e9a427b"
+msgid "눈색"
+msgstr "Eye color"
+
+msgctxt "0a00b825db42ac6fee4b34abde81d658"
+msgid "ID=5316"
+msgstr "ID=5316"
+
+msgctxt "42378cc0014320bf02ca8505a46342bc"
+msgid "ID=5317"
+msgstr "ID=5317"
+
+msgctxt "638ff8def80740afd2a9fa7604f8b076"
+msgid "ID=5318"
+msgstr "ID=5318"
+
+msgctxt "2b7c5e87d7d36273910c469890fdf286"
+msgid "ID=5319"
+msgstr "ID=5319"
+
+msgctxt "354b53383f706fd3dc23ab6e3f038839"
+msgid "ID=5320"
+msgstr "ID=5320"
+
+msgctxt "c10e5530bb672c3fc57645cb631763e5"
+msgid "ID=5321"
+msgstr "ID=5321"
+
+msgctxt "9254f4a0d3cf80ec1072727651a38bb2"
+msgid "ID=5322"
+msgstr "ID=5322"
+
+msgctxt "5126be2afc1b50999bcd1153d6c1780a"
+msgid "전투보조"
+msgstr "Combat aid"
+
+msgctxt "a384b7218c7fc1b646e26c0dfb9a3878"
+msgid "ID=7000"
+msgstr "ID=7000"
+
+msgctxt "488f2f3825817e1bf839aee8522e644e"
+msgid "옵션 제련"
+msgstr "Option smelting"
+
+msgctxt "a43a3e3ee5a617c112466d6cab146bcf"
+msgid "ID=7001"
+msgstr "ID=7001"
+
+msgctxt "f4bd8010f51acf1c9869485dcf716915"
+msgid "등급 제련"
+msgstr "Grade smelting"
+
+msgctxt "8a2daf5ffd2626f8394f8fbd534a4ee3"
+msgid "ID=7002"
+msgstr "ID=7002"
+
+msgctxt "fca5d686b2e6fc7420bc7678a1b5ee88"
+msgid "태그 제련"
+msgstr "Tags Smelting"
+
+msgctxt "ceb3caa96cd71d481899c0119d0ecac8"
+msgid "ID=8001"
+msgstr "ID=8001"
+
+msgctxt "7a38d0737f182b4d6539f0840e52462c"
+msgid "ID=8002"
+msgstr "ID=8002"
+
+msgctxt "8bc2d1d8ed52d41ba3a64072be766930"
+msgid "ID=8003"
+msgstr "ID=8003"
+
+msgctxt "d1e8b7757a5d7026d19865ea4e617171"
+msgid "ID=8004"
+msgstr "ID=8004"
+
+msgctxt "9d9700220c55eeed18f293b0539d92b9"
+msgid "ID=8005"
+msgstr "ID=8005"
+
+msgctxt "6f77d7ca939d574e00948a74a502de86"
+msgid "ID=8006"
+msgstr "ID=8006"
+
+msgctxt "5826ea28583c6a5e6aa1936173ce6ae9"
+msgid "ID=1010"
+msgstr "ID=1010"
+
+msgctxt "9f36605c56f3cdf0bb6eedbf3af3fe12"
+msgid "ID=1020"
+msgstr "ID=1020"
+
+msgctxt "e3d4ad77b36114342c8883a1fb6a0d57"
+msgid "ID=1030"
+msgstr "ID=1030"
+
+msgctxt "1a0b6378a107856440f962c8be75b480"
+msgid "전송기"
+msgstr "telautograph"
+
+msgctxt "d6c4704614dbea314300d33e50fa6634"
+msgid "ID=1040"
+msgstr "ID=1040"
+
+msgctxt "48a75a3a5093fb5d63e0a5cfee115bd3"
+msgid "사진"
+msgstr "Photo"
+
+msgctxt "3cf8c32e1dece04087f90fd95fcdc7fe"
+msgid "ID=1050"
+msgstr "ID=1050"
+
+msgctxt "8dd9c1acba111ed8271b21834a746eb0"
+msgid "ID=1060"
+msgstr "ID=1060"
+
+msgctxt "2006da0c443de58e5f024cc63faece52"
+msgid "뷰티"
+msgstr "beauty"
+
+msgctxt "0acf9ac38da87d5d2b07bb0f4e4c0880"
+msgid "ID=1070"
+msgstr "ID=1070"
+
+msgctxt "d4c202e534c858735071adba3d5ddedd"
+msgid "ID=1011"
+msgstr "ID=1011"
+
+msgctxt "656e42502e14b59e8ae1e0cc419fa307"
+msgid "ID=1021"
+msgstr "ID=1021"
+
+msgctxt "efa413caf35a8e10248e3df3ac32d326"
+msgid "ID=1022"
+msgstr "ID=1022"
+
+msgctxt "8b64a52066d936847568015a0369867f"
+msgid "ID=1023"
+msgstr "ID=1023"
+
+msgctxt "6825a18fd7cf55af5759d0f29717e2ae"
+msgid "ID=1024"
+msgstr "ID=1024"
+
+msgctxt "d8766b366909f5a6449f03a064dcf447"
+msgid "ID=1025"
+msgstr "ID=1025"
+
+msgctxt "c63e7c8bbc5142a6420753ef1b4383a3"
+msgid "ID=1026"
+msgstr "ID=1026"
+
+msgctxt "79a0f8810820b4bbab130bc5ce9e8fbd"
+msgid "ID=1027"
+msgstr "ID=1027"
+
+msgctxt "d73e5ca5ec56f47d8ef758b325bfd20e"
+msgid "ID=1031"
+msgstr "ID=1031"
+
+msgctxt "0f890e9a2cfedb5548dc8a8bb3fe1b40"
+msgid "ID=1032"
+msgstr "ID=1032"
+
+msgctxt "b28764249b6e8d6add5451d2570fb22f"
+msgid "태그"
+msgstr "tag"
+
+msgctxt "1079fbb5e8ad743bff9c8e68d2b831e8"
+msgid "ID=1033"
+msgstr "ID=1033"
+
+msgctxt "38f99abbc1d339c277c0669e7bc373c0"
+msgid "SD"
+msgstr "SD"
+
+msgctxt "6d5a48aa5feb4d1313c44a8e3ac1422d"
+msgid "ID=1034"
+msgstr "ID=1034"
+
+msgctxt "bd26efee501c46dbbbc237cfb02aad4d"
+msgid "BSK"
+msgstr "BSK"
+
+msgctxt "401e24787d71b6597a0c75ac6bf47fb5"
+msgid "ID=1035"
+msgstr "ID=1035"
+
+msgctxt "30beda77239a9c52379407482d2ef529"
+msgid "FOT"
+msgstr "FOT"
+
+msgctxt "a15b353bf00d74f7e6092862a2dd1a59"
+msgid "ID=1036"
+msgstr "ID=1036"
+
+msgctxt "5b001d63db54e7383587771eeb2018a1"
+msgid "SIN"
+msgstr "SIN"
+
+msgctxt "c3984d28717cf5de2034740f42a1a5c2"
+msgid "ID=1037"
+msgstr "ID=1037"
+
+msgctxt "3218164c9e6e6084241b9b9332e2996e"
+msgid "ID=1041"
+msgstr "ID=1041"
+
+msgctxt "0ff1a13cf1ff02903e9aa632811decf0"
+msgid "ID=1051"
+msgstr "ID=1051"
+
+msgctxt "8f2f997d7bdac71e7dda0ae3e6a1d133"
+msgid "ID=1052"
+msgstr "ID=1052"
+
+msgctxt "348cedad4402bfd12eaf7ca8cb2d61f1"
+msgid "ID=1061"
+msgstr "ID=1061"
+
+msgctxt "8833d363af65607b59f23046e5f1d431"
+msgid "ID=1062"
+msgstr "ID=1062"
+
+msgctxt "8b4ddd9eff27d876d4c23c64e14d6206"
+msgid "ID=1063"
+msgstr "ID=1063"
+
+msgctxt "0a959c11f09e5f60507311e4a0d6976f"
+msgid "ID=1064"
+msgstr "ID=1064"
+
+msgctxt "0dc1ee0c62ec8db344f5026c8fd362d8"
+msgid "ID=1071"
+msgstr "ID=1071"
+
+msgctxt "ff764884c1c6d0d128b16fc8a66aa3d5"
+msgid "ID=1072"
+msgstr "ID=1072"
+
+msgctxt "f72a5fcf7fcdefa2fb6ff49ba9a2da9d"
+msgid "ID=1073"
+msgstr "ID=1073"
+
+msgctxt "662ad9c317752746c591b4170a44529e"
+msgid "ID=1074"
+msgstr "ID=1074"
+
+msgctxt "85eb25da1fc68c1a6a043183ede96276"
+msgid "ID=1075"
+msgstr "ID=1075"
+
+msgctxt "dea8239cf364d7d80a94e42429cafcfa"
+msgid "ID=1076"
+msgstr "ID=1076"
+
+msgctxt "132db3d18037365963eeabebd50083b8"
+msgid "바닥"
+msgstr "floor"
+
+msgctxt "81b3b131783ca04e8eebc3f68068df2d"
+msgid "ID=1077"
+msgstr "ID=1077"
+
+msgctxt "a3420f478be56fc7049040593404c9d4"
+msgid "ID=9000"
+msgstr "ID=9000"
+
+msgctxt "0476b27c2c5fe2d97ec05017c4e36cd7"
+msgid "퀘스트"
+msgstr "Quest"
+
+msgctxt "64cffbf2a96c534022f08c9da8add39f"
+msgid "ID=9001"
+msgstr "ID=9001"
+
+msgctxt "8209e50851590f2c7af374c8d8966e2a"
+msgid "일반"
+msgstr "General"
+
+msgctxt "ff67c6e1ba7f338a7ba2c41050c69628"
+msgid "ID=9100"
+msgstr "ID=9100"
+
+msgctxt "08b1a8856f1251ae8a5e2a6b4448e362"
+msgid "ID=9101"
+msgstr "ID=9101"
+
+msgctxt "72b4759fabad171968721d1424890a4d"
+msgid "A타입"
+msgstr "A type"
+
+msgctxt "b002878dbb01b813bf4fd88f98238a9f"
+msgid "ID=9102"
+msgstr "ID=9102"
+
+msgctxt "8a456e0f197c4fe92693463f36db002c"
+msgid "B타입"
+msgstr "B type"
+
+msgctxt "ea71223683d33b4a9089b62204e3ad55"
+msgid "ID=9103"
+msgstr "ID=9103"
+
+msgctxt "dfd413aaa78b5bade45ab02f63582ce9"
+msgid "C타입"
+msgstr "C type"
+
+msgctxt "99356d3f947935c686fd50efac0d1f9e"
+msgid "ID=9200"
+msgstr "ID=9200"
+
+msgctxt "5dc23023af76c12cc7d64e961704d30b"
+msgid "ID=9201"
+msgstr "ID=9201"
+
+msgctxt "781ee075b458a349857126474f875055"
+msgid "ID=10000"
+msgstr "ID=10000"
+
+msgctxt "57038eba61d347e0fb9d7b2c47eb8f9b"
+msgid "인기코스튬"
+msgstr "Popular Costumes"
+
+msgctxt "8a70873a26d2296b44337782fe3d26b3"
+msgid "ID=10100"
+msgstr "ID=10100"
+
+msgctxt "9e7ae5477e751b0f66dc8ac6950ce636"
+msgid "ID=10200"
+msgstr "ID=10200"
+
+msgctxt "f64d7291709b196eeec338240189e94a"
+msgid "ID=10300"
+msgstr "ID=10300"
+
+msgctxt "73403eef662d98857f20c83a68f11917"
+msgid "ID=10400"
+msgstr "ID=10400"
+
+msgctxt "a797417242c569d37d094fb5e97bca8e"
+msgid "ID=10500"
+msgstr "ID=10500"
+
+msgctxt "bb134469dc211ab87b9a2bdf95d04aa5"
+msgid "ID=10600"
+msgstr "ID=10600"
+
+msgctxt "7556b84450ea26d865070d2d4b7b9072"
+msgid "ID=9400"
+msgstr "ID=9400"
+
+msgctxt "83159425042d8e27dbfbd113090719cf"
+msgid "ID=9401"
+msgstr "ID=9401"
+
+msgctxt "59ebd47ef7b543617b2c34095524b51e"
+msgid "ID=9402"
+msgstr "ID=9402"
+
+msgctxt "1442d88239f2ac611144bbbed65c507f"
+msgid "재료"
+msgstr "Material"
+
+msgctxt "d74d074db615b1053be9cd6b863a5b25"
+msgid "ID=8007"
+msgstr "ID=8007"
+
+msgctxt "96e19e68e08304e1be2098ba3caa9377"
+msgid "ID=8008"
+msgstr "ID=8008"
+
+msgctxt "ecb10bf092d1c144c497d37e98560eeb"
+msgid "공격형 태그"
+msgstr "Offensive Tag"
+
+msgctxt "a16c0524f8f9b3bf6004aaf013a431de"
+msgid "ID=8009"
+msgstr "ID=8009"
+
+msgctxt "65049de866172fb7a6cb205551575ab8"
+msgid "방어형 태그"
+msgstr "Defensive Tag"
+
+msgctxt "23aa25732077b6d30afd110792a268c9"
+msgid "ID=5099"
+msgstr "ID=5099"
+
+msgctxt "47debebe4c825cdbca5d0bfe592f57a5"
+msgid "ID=4007"
+msgstr "ID=4007"
+
+msgctxt "bc15b38b6b911808e39e718023f385a5"
+msgid "도"
+msgstr "Degree"
+
+msgctxt "863d4875dc1ca0848588f4563712a5ec"
+msgid "ID=4207"
+msgstr "ID=4207"
+
+msgctxt "85e6f64f67ce58650517b5a61f0c61e6"
+msgid "ID=4307"
+msgstr "ID=4307"
+
+msgctxt "ec8a336d4630ff22d5117ec2402632ac"
+msgid "치이"
+msgstr "Chii"
+
+msgctxt "8f6566ea4f846fdf41a1c44268ff684f"
+msgid "ID=11010"
+msgstr "ID=11010"
+
+msgctxt "aafe6b0b32bfe14fe9c7e2f03dab9bd5"
+msgid "아카식 대여"
+msgstr "Akashic Records"
+
+msgctxt "84b860ed267e1999b83490122b599d38"
+msgid "ID=11011"
+msgstr "ID=11011"
+
+msgctxt "62f795895fbb974d7e7f4f7475479d02"
+msgid "액티브 아카식"
+msgstr "Active Akashik"
+
+msgctxt "0e4b11f7d24ae44a38c3ec22a23528ad"
+msgid "ID=11012"
+msgstr "ID=11012"
+
+msgctxt "bf2cf328f4d5ba76cf0679a7396191c8"
+msgid "패시브 아카식"
+msgstr "Passive Akashik"
+
+msgctxt "8b0b9914e48a0278c9bd19d9a165f90d"
+msgid "ID=11020"
+msgstr "ID=11020"
+
+msgctxt "7c544d9b52aa885d6598064c2ef70afe"
+msgid "보상 시스템"
+msgstr "Compensation system"
+
+msgctxt "663af28e9e180691ca092412c3e8b802"
+msgid "ID=11021"
+msgstr "ID=11021"
+
+msgctxt "8bcdceb96f64f03e45a67025acbc9cc7"
+msgid "일간 누적 시간"
+msgstr "Daily cumulative time"
+
+msgctxt "883238aa506506bfa01abf328fb11def"
+msgid "ID=11022"
+msgstr "ID=11022"
+
+msgctxt "915341c1683cb13237ac0ecd6f0af1dd"
+msgid "주간 누적 시간"
+msgstr "Weekly cumulative time"
+
+msgctxt "15c4f0ff833a0dfb1d6f4f47612b7751"
+msgid "ID=11023"
+msgstr "ID=11023"
+
+msgctxt "eaab14ef2f1a517cac6deafa4d4996b4"
+msgid "월간 누적 시간"
+msgstr "Monthly cumulative time"
+
+msgctxt "cab0cfe2f4a4f66c5bba8deb540ba385"
+msgid "ID=11024"
+msgstr "ID=11024"
+
+msgctxt "7896089804752d2cb5ff311fb4b530f2"
+msgid "접속 횟수(월)"
+msgstr "Number of Connections (Month)"
+
+msgctxt "17837ecedc676a7eec34588f2389e676"
+msgid "ID=11025"
+msgstr "ID=11025"
+
+msgctxt "475ce53ad1ffe34aac7c9817597c2c7b"
+msgid "메이즈 클리어"
+msgstr "Dungeon Clear"
+
+msgctxt "897fbce5e84403423011b564ea38e00b"
+msgid "ID=8010"
+msgstr "ID=8010"
+
+msgctxt "d4f7431ad47e1c90a8092a780a052aff"
+msgid "PC방"
+msgstr "PC Room"
+
+msgctxt "f440675c8435b1e31721b4bea8c2d3cc"
+msgid "ID=8020"
+msgstr "ID=8020"
+
+msgctxt "28ffb7d214e32936f119a609825ccca3"
+msgid "룰렛 이벤트"
+msgstr "Roulette events"
+
+msgctxt "cc10fdc85ea6b5d50d265b7bcb58060f"
+msgid "ID=8021"
+msgstr "ID=8021"
+
+msgctxt "1083675445cb1bd97653cbdf8d324d7f"
+msgid "황금 송편"
+msgstr "Golden rice cake"
+
+msgctxt "79a508ed7cb84bcc94ea38f750b50f17"
+msgid "ID=8022"
+msgstr "ID=8022"
+
+msgctxt "4ef143067bbaf65e095d48f1c32e6d2f"
+msgid "송편 세트"
+msgstr "Rice cake set"
+
+msgctxt "1e1d636f3aa8eaaeb7d5c36c9f9f00eb"
+msgid "ID=5098"
+msgstr "ID=5098"
+
+msgctxt "6557502caa4627a6bd29105829213cfd"
+msgid "시즌 1"
+msgstr "Season 1"
+
+msgctxt "f1f1ffc93f379ccd89bf7a6a543979d8"
+msgid "ID=5097"
+msgstr "ID=5097"
+
+msgctxt "b1b9bc02564fcf20cac19ca496e0abff"
+msgid "시즌 2"
+msgstr "Season 2"
+
+msgctxt "ad5f445fa3ebb9b14a8d0830b08cb76b"
+msgid "ID=5096"
+msgstr "ID=5096"
+
+msgctxt "e93483d99f2a15274e99029f3c72fe72"
+msgid "시즌 3"
+msgstr "Season 3"
+
+msgctxt "a5f90a755bfe824e00d1da2d9bd63fc2"
+msgid "ID=100"
+msgstr "ID=100"
+
+msgctxt "04fee854697b673adc03841e65d07c14"
+msgid "인기"
+msgstr "Popularity"
+
+msgctxt "bda4d7a7d272f20cb84ec4709cd91c11"
+msgid "ID=101"
+msgstr "ID=101"
+
+msgctxt "46cfe34372818b8f1f28397e06dc9a4f"
+msgid "추천"
+msgstr "recommendation"
+
+msgctxt "ce9bc6ce3763527b398d305b68c7d4f6"
+msgid "ID=8023"
+msgstr "ID=8023"
+
+msgctxt "9fd351671100ff4cdb8d636f09c68926"
+msgid "의뢰서"
+msgstr "Request"
+
+msgctxt "99b6847c66202be77166313924082580"
+msgid "ID=8024"
+msgstr "ID=8024"
+
+msgctxt "75098c81c75014f41c33392ef34e2703"
+msgid "에텔 코어"
+msgstr "Ether core"
+
+msgctxt "bc36dca7d15a8622d85ca4a6513d5158"
+msgid "ID=8025"
+msgstr "ID=8025"
+
+msgctxt "d9b97bb4aaef26ff4528b8c36bcde378"
+msgid "쿠폰 교환"
+msgstr "Coupon exchange"
+
+msgctxt "e470aea709b8b4b3ee52d44d4bc6f8d8"
+msgid "ID=8026"
+msgstr "ID=8026"
+
+msgctxt "9d0e923d06246a1fea24218adcca186f"
+msgid "쿠폰 제작"
+msgstr "Coupon creation"
+
+msgctxt "eb7ba0e3c5e5a3b465d140ed83a3ccd1"
+msgid "ID=8027"
+msgstr "ID=8027"
+
+msgctxt "eaf846a55a798e45610d9a7c312328b8"
+msgid "교환소"
+msgstr "Exchange"
+
+msgctxt "6bd44cdf1c1529c32d6b7e46f7c5f325"
+msgid "ID=9011"
+msgstr "ID=9011"
+
+msgctxt "56ffab72b2ce25dfb2ecfb2e2d3200bb"
+msgid "ID=9012"
+msgstr "ID=9012"
+
+msgctxt "91e77432bb47b9642ac1dccba0da1373"
+msgid "ID=9013"
+msgstr "ID=9013"
+
+msgctxt "55736ea5a8f2f74c30d8a5e14e6bfd1a"
+msgid "ID=8028"
+msgstr "ID=8028"
+
+msgctxt "224376ce025e129d71fa8bc149d4436b"
+msgid "고소한 밤"
+msgstr "Lofty night"
+
+msgctxt "2f0c9ca6c0ddd3f08215c728a524de17"
+msgid "ID=8029"
+msgstr "ID=8029"
+
+msgctxt "84bb4727b779f38d999e0ae202fde702"
+msgid "티켓 제작"
+msgstr "Ticket production"
+
+msgctxt "8b79aa2eb91abc35c03721c8e72ef717"
+msgid "ID=5323"
+msgstr "ID=5323"
+
+msgctxt "d99b729ab7511819f0c74458a860e001"
+msgid "장비"
+msgstr "Equipment"
+
+msgctxt "e7e0d5c864656b67a3f27b9cbf25214a"
+msgid "ID=8030"
+msgstr "ID=8030"
+
+msgctxt "8f9ed7fadf11cacb7159658b831bcbe4"
+msgid "재료 교환소"
+msgstr "Material exchange"
+
+msgctxt "b2b37bf13a039fa803cae73d0ba123e0"
+msgid "ID=4900"
+msgstr "ID=4900"
+
+msgctxt "a6db2031172fae8212d360b374d38f31"
+msgid "ID=4901"
+msgstr "ID=4901"
+
+msgctxt "7032602f082e65c9d50a627f78ae2ac4"
+msgid "ID=4008"
+msgstr "ID=4008"
+
+msgctxt "8e176ba2cc7b93475cca18d6dbc5c1cd"
+msgid "창"
+msgstr "Window"
+
+msgctxt "b9f085a0031cacad40fcdab363219d4a"
+msgid "ID=4208"
+msgstr "ID=4208"
+
+msgctxt "06b6d05fff53c3520cde304293c99164"
+msgid "ID=4308"
+msgstr "ID=4308"
+
+msgctxt "9418da76f0f063ac1ee82a8fd847c2d5"
+msgid "에프넬"
+msgstr "Ephnel"
+
+msgctxt "3faabb7ff3c595c460fed973ad42d7e2"
+msgid "ID=9014"
+msgstr "ID=9014"
+
+msgctxt "85bfeb38b38bc99441341483e4578f13"
+msgid "ID=9015"
+msgstr "ID=9015"
+
+msgctxt "f3f0eb6c4c274dfa72a85c93d3773466"
+msgid "구입"
+msgstr "Purchase"
+

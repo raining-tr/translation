@@ -1,0 +1,1657 @@
+# Eisou <nanamiide@gmail.com>, 2020. #zanata
+# Ling <lling7@web.de>, 2020. #zanata
+# Pengu <pengukouhai@gmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-03-02 07:10-0500\n"
+"Last-Translator: Eisou <nanamiide@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "dfb4dd499b8e2348c06f9e52ad4267f9"
+msgid "ID=1"
+msgstr "ID=1"
+
+msgctxt "26a58ee2538422f369e80abf93f27d9f"
+msgid "요미"
+msgstr "Yomi"
+
+msgctxt "5ac46280347e4b36374c1ba7358274dd"
+msgid "[고객 등급 상승] 요미"
+msgstr "[Customer Rating Rise] Yomi"
+
+msgctxt "7dcd39c00a1f7563bfc1d8929c48a80f"
+msgid "자주 이용해 주셔서 감사해요.\\n고객 등급이 상승하면 더 좋은 물품을 구매할 수 있으니, 앞으로도 자주 방문해주세요."
+msgstr ""
+"Thank you for your frequent visits. \\n If your customer rating rises, you "
+"can buy better items, so please come back often."
+
+msgctxt "d374ed94e0e73a6f047f7e10a9283416"
+msgid "Icon/Mail/SendImage_Systemmail01"
+msgstr "Icon/Mail/SendImage_Systemmail01"
+
+msgctxt "1c06e4baf03acdeb787eed93dd855c52"
+msgid "ID=2"
+msgstr "ID=2"
+
+msgctxt "2f3cd10b25743a352c8170486664744f"
+msgid "자이트"
+msgstr "Zaito"
+
+msgctxt "f0fe9bbc9b903a2818929306fc0a74a4"
+msgid "[고객 등급 상승] 자이트"
+msgstr "[VIP]"
+
+msgctxt "605d262c37db39c66e9d6b3b6a8b0db1"
+msgid ""
+"자주 이용해주셔서 감사합니다!\\n고객 등급도 올라갔으니 성원에 힘입어 더 좋은 물품을 많이 가져다 놓겠습니다.\\n앞으로도 많이 방문해 "
+"주십쇼!"
+msgstr ""
+"Thank you for your frequent visits! \\n Your customer rating has also "
+"improved, so we will be able to bring you many better items. \\n Please "
+"visit us in the future!"
+
+msgctxt "83e16ad609e708fd223d3d90b7b54e5c"
+msgid "Icon/Mail/SendImage_Systemmail02"
+msgstr "Icon/Mail/SendImage_Systemmail02"
+
+msgctxt "dc08c27c1de8a603f12e1411346c8971"
+msgid "ID=3"
+msgstr "ID=3"
+
+msgctxt "a50337e11595f3670a22c9eaceb1fb78"
+msgid "트리샤"
+msgstr "Trisha"
+
+msgctxt "0dda1e9d355eb641b6143ea37bb731b0"
+msgid "[고객 등급 상승] 트리샤"
+msgstr "[VIP] Trisha"
+
+msgctxt "53e86391795504aa332aa089f9ec6f05"
+msgid "이렇게나 자주 이용했었단 말야?\\n고마워~ 고객 등급이 올라갔으니까 서비스 많이 해줄게! 더 자주 이용해줘야 해!"
+msgstr ""
+"Did you use it so often? \\n Thank you ~ I'm going to give you a lot of "
+"service! You should use it more often!"
+
+msgctxt "8e5a82c0119e4607694abe558cc4f643"
+msgid "Icon/Mail/SendImage_Systemmail03"
+msgstr "Icon/Mail/SendImage_Systemmail03"
+
+msgctxt "5cedd3acce477b51865226d3e293b578"
+msgid "ID=4"
+msgstr "ID=4"
+
+msgctxt "6b10841335f3698b4947cae4cb82e890"
+msgid "제니스"
+msgstr "Zenith"
+
+msgctxt "b183f2a7fa5dd2b628261f76cab933b6"
+msgid "[고객 등급 상승] 제니스"
+msgstr "[Customer Rating Rise] Zenith"
+
+msgctxt "24c980a5400840b3c44faf534871438a"
+msgid "고객등급 상승이야. 축하해~ 소울워커씨.\\n앞으로도 좋은 재료만 가지고 와준다면 더 좋은 것들을 제작해 줄게. 기대하라고~"
+msgstr ""
+"It's an increase in customer rating. Congratulations, Soulworker. \\n If you "
+"bring only good ingredients in the future, I'll make better ones for you. "
+"Look forward to it ~"
+
+msgctxt "af921af8ce5cc7dde9f901d073b2e58d"
+msgid "Icon/Mail/SendImage_Systemmail04"
+msgstr "Icon/Mail/SendImage_Systemmail04"
+
+msgctxt "53e5e07397f7f01c2b276af813901c29"
+msgid "ID=5"
+msgstr "ID=5"
+
+msgctxt "36c059c85ff3496387e2d73f5f020ac7"
+msgid "클로이"
+msgstr "Chloe"
+
+msgctxt "054691c23f60887d84e4d75c5fe1ce25"
+msgid "[거래소] 구매 완료 안내"
+msgstr "[Exchange] Purchase Completion Guide"
+
+msgctxt "636187cef0010c8f311ccbd3484e9f41"
+msgid ""
+"[거래소]에서 {0} 물품을 구매해주셔서 감사하다고 메일이 왔어요\\n 구매하신 물품은 H.E.M.S로 전달해 드리니, 메시지의 첨부 "
+"물품을 확인해주세요!"
+msgstr ""
+"Thank you for purchasing {0} on [Exchange] \\n Your purchase will be "
+"forwarded to H.E.M.S, please check the attached items in your message!"
+
+msgctxt "96d8e7082fdebe58cfcbdd4b718af01f"
+msgid "Icon/Mail/SendImage_System"
+msgstr "Icon/Mail/SendImage_System"
+
+msgctxt "34399f012556aa724734de93378773bb"
+msgid "ID=6"
+msgstr "ID=6"
+
+msgctxt "a0b2a04b336b5973829d76094a670354"
+msgid "[거래소] 판매 완료 안내"
+msgstr "[Market] Item sold"
+
+msgctxt "2b5ea17c7d893cd14d834902499beea0"
+msgid ""
+"[거래소]에 출품한 물품이 [판매 완료] 되었다고 연락이 왔어요.\\n{0} X {1}개 가 판매되어, 수수료를 제외한 가격 {2} "
+"제니를 전달해 드릴게요."
+msgstr ""
+"{0} x {1} were sold sold on the [Market]\\nYou received {2} Zenny after the "
+"fees"
+
+msgctxt "c655142b4669fe759c3ab16d6ae2e67e"
+msgid "ID=7"
+msgstr "ID=7"
+
+msgctxt "a89579202bddd6f5928cce7ed543aaa2"
+msgid "[거래소] 물품 등록 취소 안내"
+msgstr "[Market] Items withdrawn"
+
+msgctxt "8a1655820b42f4d134a895a0028dd65a"
+msgid ""
+"[거래소]에서 [물품 등록 취소]가 완료되었다고 연락이 왔습니다.\\n등록 취소된 물품을 보내드리니, 메시지의 첨부 물품을 꼭 "
+"확인해주세요."
+msgstr ""
+"The items listed in the [Market] has been withdrawn successfully.\\nPlease "
+"check the mail attachments for your items"
+
+msgctxt "fc86fdd3ede70f5c83d374b99089bdad"
+msgid "ID=8"
+msgstr "ID=8"
+
+msgctxt "3c0abaa9479093ba12653e9265f0a4af"
+msgid "[CASH SHOP] 구매 완료 안내"
+msgstr "[CASH SHOP] Purchase successful"
+
+msgctxt "3152f0e421bf56c09a00bbd063ef1511"
+msgid ""
+"[CASH SHOP]에서 물품 구매가 완료되었다고 연락이 왔어요. 인벤토리 공간이 부족하기 때문에\\n구매하신 물품을 H.E.M.S를 "
+"통해 전달해 드리니, 메시지의 첨부 물품을 확인해주세요!"
+msgstr ""
+"Insufficient inventory space,  the items from [CASH SHOP] were sent HEMS. "
+"Please check your mail attachments for your items"
+
+msgctxt "5a2561e879ad13bd5211adeed9369b4f"
+msgid "ID=9"
+msgstr "ID=9"
+
+msgctxt "8e80d528a1f913364ba474318802fb1c"
+msgid "[시스템] 아이템 지급 안내"
+msgstr "[System] Gift"
+
+msgctxt "04df009ae41cbc4770a709dd7bdf7b7f"
+msgid "소울워커로 활약해 주셔서 감사합니다!\\n감사의 의미로 특별한 선물을 준비했으니, 첨부 물품을 확인해주세요."
+msgstr ""
+"Thank you Soulworker!\\nWe have prepared a special gift for you, please "
+"check your mail attachments."
+
+msgctxt "f723a41e990270bf57e1396242121563"
+msgid "ID=10"
+msgstr "ID=10"
+
+msgctxt "867d67a2610333d11c501516a5cc82fa"
+msgid "[시스템] 아이템 복원 안내"
+msgstr "[System] Item restoration "
+
+msgctxt "598bb9abb3e905196229247d76e80980"
+msgid ""
+"죄송합니다. 다시는 이와 같은 일이 일어나지 않도록 하겠습니다.\\n문제 된 아이템을 보내드리니, 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"We are deeply sorry for this error, we'll ensure it never happen again\\nWe "
+"have attached a compensatory item, please check your mail attachments."
+
+msgctxt "87ac4846c6e71753f5fd8057ebf34ed4"
+msgid "ID=11"
+msgstr "ID=11"
+
+msgctxt "334093aac305f5044fab7113b3f999f6"
+msgid "[시스템] 메이즈 클리어 보상"
+msgstr "[System] Dungeon clearance reward."
+
+msgctxt "b43787f784e30ce1d0eda01e1af0ae3d"
+msgid ""
+"[인벤토리 여유 공간 부족]으로, 지난번의 임무 지역 해결 보상을 대리 수령해 놓았습니다.\\n인벤토리에 여유 공간을 확보하신 후 첨부 "
+"물품을 수령해주세요."
+msgstr ""
+"[Insufficient inventory space]  You couldn't receive the reward for the last "
+"mission due to insufficient inventory space and instead it was mailed."
+"\\nPlease free up space in your inventory and collect the attached items."
+
+msgctxt "e9966517d22c82bbdcea6e9384d53dc0"
+msgid "ID=12"
+msgstr "ID=12"
+
+msgctxt "21a51a551e775d67315a7aa35d1f733d"
+msgid "데일리 미션 완료 보상"
+msgstr "Daily mission completion reward."
+
+msgctxt "9ac18e08ee490b8ea390a4c14624cd35"
+msgid "[데일리 미션] 완료 보상이 도착하였습니다.\\n인벤토리에 여유 공간을 확보하신 후 첨부 물품을 수령해주세요."
+msgstr ""
+"[Daily mission] Here is your daily mission's reward.\\nPlease make sure to "
+"have enough inventory space to collect the attached items."
+
+msgctxt "bd47ba257e3e1ffe71fcf356739e575e"
+msgid "ID=13"
+msgstr "ID=13"
+
+msgctxt "230c2b9140d60f9d1446a2908df2c929"
+msgid "[시스템] 히든 이벤트 완료 보상"
+msgstr "[System] Hidden quest completion reward."
+
+msgctxt "bc57336956c88e63caf8e5de6b7c3a34"
+msgid ""
+"[인벤토리 여유 공간 부족]으로, [히든 이벤트] 완료 보상을 대리 수령해 놓았습니다.\\n 인벤토리에 여유 공간을 확보하신 후 첨부 "
+"물품을 수령해주세요."
+msgstr ""
+"[Insufficient inventory space]  You couldn't receive the reward for the last "
+"hidden quest due to insufficient inventory space and instead it was mailed."
+"\\n Please free up space in your inventory and collect the attached items."
+
+msgctxt "b2d53b674234fd637006f9aab77530e9"
+msgid "ID=14"
+msgstr "ID=14"
+
+msgctxt "d2c2c8224f85574124791fad7c749e44"
+msgid "ID=15"
+msgstr "ID=15"
+
+msgctxt "20282c44446b7a15b454b10c1cf47c72"
+msgid "아진"
+msgstr "Azin"
+
+msgctxt "0a84c98d8570c3b930379e1fe751cdef"
+msgid "[고객 등급 상승] 아진"
+msgstr "[VIP Level increase] Azin"
+
+msgctxt "78e506523f53fd1c65fbdc861b9cc187"
+msgid ""
+"스카이 크래프트를 자주 이용해주셔서 감사합니다. \\n고객 등급 상승에 따라 이전보다 더 편안하고 안전한 여행길이 될 수 있도록 "
+"노력하겠습니다. 앞으로도 많은 이용을 부탁드리겠습니다."
+msgstr ""
+"Thank you for using Skycraft frequently.\\nWe'll ensure you have safer and "
+"more comfortable journeys.Please make sure to use Skycraft again in  the "
+"future."
+
+msgctxt "01d596e21bbea469d80811480549378d"
+msgid "Icon/Mail/SendImage_Systemmail05"
+msgstr "Icon/Mail/SendImage_Systemmail05"
+
+msgctxt "2b2fe8222b7847f97346a4f090c12829"
+msgid "ID=16"
+msgstr "ID=16"
+
+msgctxt "d72219898df8f36e09c5e4e447a7e285"
+msgid "[거래소] 출품 시간 만료 안내"
+msgstr "[Market] Item listing expired"
+
+msgctxt "04372f63de470bc874d87bcca268b6bf"
+msgid ""
+"[거래소]에서 [출품 시간]이 만료되었다고 연락이 왔습니다.\\n출품 시간이 만료된 물품을 보내드리니, 메시지의 첨부 물품을 꼭 "
+"확인해주세요."
+msgstr ""
+"The item's listing duration has expired and was sent back to you.\\nPlease "
+"check the attached items."
+
+msgctxt "170719a219a4f9c0a1ff4afc97fb4bef"
+msgid "ID=17"
+msgstr "ID=17"
+
+msgctxt "ffa91234d5a72d59490ba5f107209004"
+msgid "[CASH SHOP] 선물 안내"
+msgstr "[CASH SHOP] Gift"
+
+msgctxt "5299f3ac58b5d37fbaf02041465866e4"
+msgid ""
+"[CASH SHOP]에서 {0}님이 보내신 선물이 도착했다고 연락이 왔어요.\\nH.E.M.S를 통해 전달해 드리니, 메시지의 첨부 "
+"물품을 확인해주세요!"
+msgstr ""
+"[CASH SHOP] You have received a gift from {0}.\\nIt has been to your HEMS. "
+"Please check the attached items. "
+
+msgctxt "e248668dbdc7fdf60c3ad3145a73101d"
+msgid "ID=18"
+msgstr "ID=18"
+
+msgctxt "4f3e873d0aa5693f273795932e1b18b8"
+msgid ""
+"[거래소]에 출품한 {0} X {1}개가 [판매 완료] 되었습니다.\\n물품을 판매한 금액 {2} 제니를 전달해 드릴게요.\\n아! "
+"참고로 이번 거래는 수수료가 면제 되었답니다!"
+msgstr ""
+"{0} x {1} were sold on the [market]\\nYou will receive {2} Zenny. No fees "
+"were applied."
+
+msgctxt "bf3c5f676ded809fa564eed630eed3ea"
+msgid "ID=19"
+msgstr "ID=19"
+
+msgctxt "f5e859c0d5166ad4c4e574cb7c8b4ccf"
+msgid "[아이템] 기간제 아이템 기간만료 안내 "
+msgstr "[Item] Item expiration date"
+
+msgctxt "d243b7d7e04613a6a5263f080f96acd0"
+msgid "{0} 아이템의 사용 기간이 만료되어 회수처리 되었다는 안내입니다.\\n정해진 기간 동안 마음껏 사용하셨나요?"
+msgstr "Item {0} has expired and was removed. Did you enjoy using it?"
+
+msgctxt "18dff4e962c31b38eaba0b112b888a88"
+msgid "ID=20"
+msgstr "ID=20"
+
+msgctxt "c34213b82a2df7565209894fae3e6fd2"
+msgid "[아이템] 기간제 아이템 반납 안내"
+msgstr "[Item] Item returned"
+
+msgctxt "90db9a46d2795734ae69e50716d3bf8a"
+msgid ""
+"본인 요청에 의해 {0} 아이템의 반납이 완료되었다는 안내입니다.\\n반납된 아이템에 대해서는 금액 보상을 해드리기 어렵다고 하네요. "
+msgstr ""
+"We would like to inform you {0} item has been returned.\\Compensation for "
+"the returned item would be hard."
+
+msgctxt "1accf3ae40cf7c74d372450509d2ecc7"
+msgid "ID=21"
+msgstr "ID=21"
+
+msgctxt "f17ed51d26488151a060aa0189d323f5"
+msgid "[아이템] 쿠폰 보상"
+msgstr "[Item] Coupon Reward"
+
+msgctxt "08eb3389acb6a6414c4c313b3e40e5e7"
+msgid "등록하신 쿠폰으로 받으실 물품을 보내드립니다.\\n첨부 물품을 확인해주시기 바랍니다."
+msgstr "You have redeemed a coupon.\\nPlease check the attached items."
+
+msgctxt "e2052c78020f3ed252dbf71c4c73a3c9"
+msgid "ID=22"
+msgstr "ID=22"
+
+msgctxt "d8b361f11959a4f9e748720aec03ee09"
+msgid "[아이템] 신규유저 보상"
+msgstr "[Item] New player reward"
+
+msgctxt "ffee749f51d53d9eb5b5493838493122"
+msgid "소울워커를 가입해주셔서 감사합니다. 감사의 뜻으로 보상을 보내드립니다.\\n첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Thank you for playing Soulworker. We have sent you a gift.\\nPlease check "
+"the attached items."
+
+msgctxt "2f5627b265f27d03bb5e4162d27ee3c5"
+msgid "ID=23"
+msgstr "ID=23"
+
+msgctxt "75f4c8f18da115bea01bd2d76a8fb00a"
+msgid "[아이템] 복귀유저 보상"
+msgstr "[Item] Returning user reward"
+
+msgctxt "5d690a76336ba8a5445e632abc078bac"
+msgid "소울워커를 다시 복귀해주셔서 감사합니다. 감사의 뜻으로 보상을 보내드립니다.\\n첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Thank you for coming back to SoulWorker, we have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "a856a4514b29addc71116e0e302af0de"
+msgid "ID=24"
+msgstr "ID=24"
+
+msgctxt "6a2c7104788491de0d5bdb57420d73ab"
+msgid "[아이템] 2레벨 달성 보상"
+msgstr "[Item] Level 2 achievement reward"
+
+msgctxt "abfddd94804e24fe70e2863a866f0fcc"
+msgid "2레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 2. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "f2a624f5997487d8e0948603b8b62816"
+msgid "ID=25"
+msgstr "ID=25"
+
+msgctxt "452111ff8aef7d5c00298a69f22dbac0"
+msgid "[아이템] 3레벨 달성 보상"
+msgstr "[Item] Level 3 achievement reward"
+
+msgctxt "1ba7fd670bdb2a7dc02f46c43b5be5ab"
+msgid "3레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 3. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "ff2187a8f49a17e087d2f97738cf4368"
+msgid "ID=26"
+msgstr "ID=26"
+
+msgctxt "b4bdcc65b84faf5e51f0f932865a85c7"
+msgid "[아이템] 4레벨 달성 보상"
+msgstr "[Item] Level 4 achievement reward"
+
+msgctxt "e78103b41ad224e87460dd291469bd66"
+msgid "4레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 4. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "6d6a20169370dc676a215fd979bd7cf0"
+msgid "ID=27"
+msgstr "ID=27"
+
+msgctxt "386f6937e89c975c9692978c36a785af"
+msgid "[아이템] 5레벨 달성 보상"
+msgstr "[Item] Level 5 achievement reward"
+
+msgctxt "d070fd8a9a3394519bb2395ece87bbca"
+msgid "5레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 5. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "245c002d0826ce0ae8de7a0a7b8e4c24"
+msgid "ID=28"
+msgstr "ID=28"
+
+msgctxt "e93698b5db871863e594b8b1a7aa5220"
+msgid "[아이템] 6레벨 달성 보상"
+msgstr "[Item] Level 6 achievement reward"
+
+msgctxt "1433b01c87b8177c6a48fca4887d21bc"
+msgid "6레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 6. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "87c09c6a274f436070673215e12f119c"
+msgid "ID=29"
+msgstr "ID=29"
+
+msgctxt "2737d39c3ac69ec3908b158c778006df"
+msgid "[아이템] 7레벨 달성 보상"
+msgstr "[Item] Level 7 achievement reward"
+
+msgctxt "1c1a252f114a166950ef00e3bb92beb9"
+msgid "7레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 7. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "ac7afc7c4613ced918daa88bca6eafab"
+msgid "ID=30"
+msgstr "ID=30"
+
+msgctxt "e7fad3db4fffb4811a73c32c6dec591c"
+msgid "[아이템] 8레벨 달성 보상"
+msgstr "[Item] Level 8 achievement reward"
+
+msgctxt "4069b5589a0daf94af707e88419eee61"
+msgid "8레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 8. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "e0c30dbf517bde28262736aa95f4d9c0"
+msgid "ID=31"
+msgstr "ID=31"
+
+msgctxt "66420dff0f7a15d5713c2bbcc7eede96"
+msgid "[아이템] 9레벨 달성 보상"
+msgstr "[Item] Level 9 achievement reward"
+
+msgctxt "ff8948192cb3ba345b39f6c8d0418ddc"
+msgid "9레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 9. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "f4e518bf43b0c9ac5e021a10584c1ba6"
+msgid "ID=32"
+msgstr "ID=32"
+
+msgctxt "4d6373817e0436d29e4b27e2ec7dc035"
+msgid "[아이템] 10레벨 달성 보상"
+msgstr "[Item] Level 10 achievement reward"
+
+msgctxt "20c08a314b22d5276bf0859951377d9e"
+msgid "10레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 10. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "02b10e2079a5a5bbe9945bf7706b6927"
+msgid "ID=33"
+msgstr "ID=33"
+
+msgctxt "b295f0631cc9bc7c04293e1c5e76ac86"
+msgid "[아이템] 11레벨 달성 보상"
+msgstr "[Item] Level 11 achievement reward"
+
+msgctxt "874f7b5e1eb6a28730902fa32fc551e2"
+msgid "11레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 11. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "1d3d479cf0ac9e7231ff608fb93e616f"
+msgid "ID=34"
+msgstr "ID=34"
+
+msgctxt "c621bb11c8b71955a334baad0d5a3b11"
+msgid "[아이템] 12레벨 달성 보상"
+msgstr "[Item] Level 12 achievement reward"
+
+msgctxt "c94502a5f7945fd992d7f54d2aa3bb63"
+msgid "12레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 12. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "387cad33f920a55b4a9171ec772f0f39"
+msgid "ID=35"
+msgstr "ID=35"
+
+msgctxt "6fe6a2beb3effbc75917dce197bc3611"
+msgid "[아이템] 13레벨 달성 보상"
+msgstr "[Item] Level 13 achievement reward"
+
+msgctxt "5f1f8e3f251fd7684226c3b16289cf1c"
+msgid "13레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 13. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "beb7159468349db3d517c10ece4d95e2"
+msgid "ID=36"
+msgstr "ID=36"
+
+msgctxt "a8d4ea0b012fef31995ce197df16d32a"
+msgid "[아이템] 14레벨 달성 보상"
+msgstr "[Item] Level 14 achievement reward"
+
+msgctxt "dcb5c1d00b98e547b32ae32d27b6e049"
+msgid "14레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 14. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "1d1f93599c0e86ccddfd6314d1f016c4"
+msgid "ID=37"
+msgstr "ID=37"
+
+msgctxt "43fbbe469d6dd3da121c75e24fe24cda"
+msgid "[아이템] 15레벨 달성 보상"
+msgstr "[Item] Level 15 achievement reward"
+
+msgctxt "9827a1b02a3eae2daf9d6b84be35149d"
+msgid "15레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 15. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "0e0301009c1ec38310da63f2788f4b6e"
+msgid "ID=38"
+msgstr "ID=38"
+
+msgctxt "c881108b8342ceaade4f4bf07dc02be7"
+msgid "[아이템] 16레벨 달성 보상"
+msgstr "[Item] Level 16 achievement reward"
+
+msgctxt "fb776244b2c36668db3706bae1cc7963"
+msgid "16레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 16. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "1d447e68d02390c8ed9ade7316d26a3d"
+msgid "ID=39"
+msgstr "ID=39"
+
+msgctxt "d3cb4d7c4147f4e552d8f4d50fc187ae"
+msgid "[아이템] 17레벨 달성 보상"
+msgstr "[Item] Level 17 achievement reward"
+
+msgctxt "0c96d9555bd56f293b8a28b94185f155"
+msgid "17레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 17. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "99afb3b9cc36e5c479b630e41bff45cb"
+msgid "ID=40"
+msgstr "ID=40"
+
+msgctxt "382a0cf650d265d46fcd96bb4963b1a6"
+msgid "[아이템] 18레벨 달성 보상"
+msgstr "[Item] Level 18 achievement reward"
+
+msgctxt "eb7ea58d9c57f08e22c3a0196fe862a6"
+msgid "18레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 18. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "8bdb578f7c5114d2f58ad5718fcf32e9"
+msgid "ID=41"
+msgstr "ID=41"
+
+msgctxt "4dfb25a6cc9830881e3a536a5f19271d"
+msgid "[아이템] 19레벨 달성 보상"
+msgstr "[Item] Level 19 achievement reward"
+
+msgctxt "e57a6cbd68cc300b91ff86720581ced8"
+msgid "19레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 19. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "69cac848d8c13d0032e355abc31aa9c8"
+msgid "ID=42"
+msgstr "ID=42"
+
+msgctxt "be14ee4bf936424c3dd2a54c3560b494"
+msgid "[아이템] 20레벨 달성 보상"
+msgstr "[Item] Level 20 achievement reward"
+
+msgctxt "7d25544f45e1834387ca970786b2aaf4"
+msgid "20레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 20. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "6f5958d8943ee5c27a5b0d3b11684d6e"
+msgid "ID=43"
+msgstr "ID=43"
+
+msgctxt "208e4fc2ae66486449f6fcf1c295a36c"
+msgid "[아이템] 21레벨 달성 보상"
+msgstr "[Item] Level 21 achievement reward"
+
+msgctxt "436cda30b0de89005a0f48b1cd43f2d7"
+msgid "21레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 21. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "6907dbfe8ad1a1e655aba814a4d0f6b7"
+msgid "ID=44"
+msgstr "ID=44"
+
+msgctxt "caba565e00911d959ba536e741dff813"
+msgid "[아이템] 22레벨 달성 보상"
+msgstr "[Item] Level 22 achievement reward"
+
+msgctxt "749c650aa86f1efd4dd0e5cd75734310"
+msgid "22레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 22. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "9b9b9470e3685d0ae55679929fff9719"
+msgid "ID=45"
+msgstr "ID=45"
+
+msgctxt "40f0c4c56b42aaf6315105a22878a72c"
+msgid "[아이템] 23레벨 달성 보상"
+msgstr "[Item] Level 23 achievement reward"
+
+msgctxt "efd0d13240e46aa3a8b893a4104bf322"
+msgid "23레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 23. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "2a7e4abd18348eda2233f69b40a0534a"
+msgid "ID=46"
+msgstr "ID=46"
+
+msgctxt "759b4dcd5ea6001d187a2b9a68f17e01"
+msgid "[아이템] 24레벨 달성 보상"
+msgstr "[Item] Level 24 achievement reward"
+
+msgctxt "1e2e7429caeaeebe79a548b13b7e0ef2"
+msgid "24레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 24. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "3fd368fc5f31428f7753a4d24ec96992"
+msgid "ID=47"
+msgstr "ID=47"
+
+msgctxt "841d356d09f222bd15ecef5dab828e9a"
+msgid "[아이템] 25레벨 달성 보상"
+msgstr "[Item] Level 25 achievement reward"
+
+msgctxt "d1147921f5547a61fa6f6b02a707be79"
+msgid "25레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 25. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "f8262cf2d397b4f49b2ec45c9ef97749"
+msgid "ID=48"
+msgstr "ID=48"
+
+msgctxt "47f6c66898a5c23bbf0164f4d6f25fa6"
+msgid "[아이템] 26레벨 달성 보상"
+msgstr "[Item] Level 26 achievement reward"
+
+msgctxt "ca0dea6afa6b74264667aad8cee5ddae"
+msgid "26레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 26. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "344420c46378dfa322d0cc89459c38ab"
+msgid "ID=49"
+msgstr "ID=49"
+
+msgctxt "64e3abc88c3d756e8ffd2531680939a2"
+msgid "[아이템] 27레벨 달성 보상"
+msgstr "[Item] Level 27 achievement reward"
+
+msgctxt "cbfa400db2526a7e04e161dbd9ccf51f"
+msgid "27레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 27. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "1bd3565f6152f50611733241c01a07da"
+msgid "ID=50"
+msgstr "ID=50"
+
+msgctxt "261b3181efeaaf084b32dbd998009825"
+msgid "[아이템] 28레벨 달성 보상"
+msgstr "[Item] Level 28 achievement reward"
+
+msgctxt "c0e676549d382889a8b77e25a5d443b9"
+msgid "28레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 28. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "9ca59d89c72c8bdd402160258ee78cff"
+msgid "ID=51"
+msgstr "ID=51"
+
+msgctxt "d0b1c41f6b43d28e88e2e82cbdbde256"
+msgid "[아이템] 29레벨 달성 보상"
+msgstr "[Item] Level 29 achievement reward"
+
+msgctxt "94cba90f572a34d5df1eb9796e2516ba"
+msgid "29레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 29. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "898f4e53ec6d7761e85593a3b0223f0e"
+msgid "ID=52"
+msgstr "ID=52"
+
+msgctxt "df5918967f418e58abf4f86f11f8f9c5"
+msgid "[아이템] 30레벨 달성 보상"
+msgstr "[Item] Level 30 achievement reward"
+
+msgctxt "d18cb2350b92c999ffa26b0565e3b0a3"
+msgid "30레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 30. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "6dda0349a1fad22f5f9f4fe361e01663"
+msgid "ID=53"
+msgstr "ID=53"
+
+msgctxt "9d8edaa0152d773a401187f87d152242"
+msgid "[아이템] 31레벨 달성 보상"
+msgstr "[Item] Level 31 achievement reward"
+
+msgctxt "101029ca03844cab50876793b5a9d4df"
+msgid "31레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 31. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "450cfd3fff1838e99140c95dfeebbc4e"
+msgid "ID=54"
+msgstr "ID=54"
+
+msgctxt "f1020427d2b13d31244548d7c0046a60"
+msgid "[아이템] 32레벨 달성 보상"
+msgstr "[Item] Level 32 achievement reward"
+
+msgctxt "e7741d1650532a7d0d0067ab6871d44e"
+msgid "32레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 32. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "6ed66cf715e56ee796409daab57c479b"
+msgid "ID=55"
+msgstr "ID=55"
+
+msgctxt "1aa27a9d6df20d8fffa385422137e2e4"
+msgid "[아이템] 33레벨 달성 보상"
+msgstr "[Item] Level 33 achievement reward"
+
+msgctxt "5fd35c1531fa48a4987bd6bc27bd11c5"
+msgid "33레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 33. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "dc211462fe1776fdedc6f6285ca04f04"
+msgid "ID=56"
+msgstr "ID=56"
+
+msgctxt "5d9270dc92ad8ff3799782a308dab8eb"
+msgid "[아이템] 34레벨 달성 보상"
+msgstr "[Item] Level 34 achievement reward"
+
+msgctxt "b1a8fd217735c1cf9828b18c31c9dae4"
+msgid "34레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 34. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "ca5081bab32f6d57d5ce34aef6df4380"
+msgid "ID=57"
+msgstr "ID=57"
+
+msgctxt "eb6045266c2cb1efbf308191daf6a20e"
+msgid "[아이템] 35레벨 달성 보상"
+msgstr "[Item] Level 35 achievement reward"
+
+msgctxt "6f954a642410b30fba38b81c7df18acd"
+msgid "35레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 35. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "f9fddb8a3b71763df307c2418ec2c21c"
+msgid "ID=58"
+msgstr "ID=58"
+
+msgctxt "a917ad9250245b169cee7c97181544c6"
+msgid "[아이템] 36레벨 달성 보상"
+msgstr "[Item] Level 36 achievement reward"
+
+msgctxt "0b5760348152d6b74cfa81297e482c82"
+msgid "36레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 36. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "20e206cbdf61aeceadbac94c6632b2d6"
+msgid "ID=59"
+msgstr "ID=59"
+
+msgctxt "8bc0861cba0783c00ce23ba118423cff"
+msgid "[아이템] 37레벨 달성 보상"
+msgstr "[Item] Level 37 achievement reward"
+
+msgctxt "7c7963cd29d5bb10d0005194aae4b17a"
+msgid "37레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 37. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "a378b40bbbeba07ff074bb94e817938c"
+msgid "ID=60"
+msgstr "ID=60"
+
+msgctxt "21a130e608137e918caa4a84653e0656"
+msgid "[아이템] 38레벨 달성 보상"
+msgstr "[Item] Level 38 achievement reward"
+
+msgctxt "47b75ad652fd34b33b937ce81ea1887f"
+msgid "38레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 38. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "c11d081133b80033b05ed5ea4ab470a0"
+msgid "ID=61"
+msgstr "ID=61"
+
+msgctxt "738c3328f2d8d505839b78f918442412"
+msgid "[아이템] 39레벨 달성 보상"
+msgstr "[Item] Level 39 achievement reward"
+
+msgctxt "bf34347466be0b02e76e9dd24f4e9b0b"
+msgid "39레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 39. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "d1fdb8a563e7dd11f47f6b87c270b684"
+msgid "ID=62"
+msgstr "ID=62"
+
+msgctxt "c038dff4ad651dbd7572e6f4ffd39231"
+msgid "[아이템] 40레벨 달성 보상"
+msgstr "[Item] Level 40 achievement reward"
+
+msgctxt "a76391e656cee9ed701b1f5fa2707e2a"
+msgid "40레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 40. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "d59b9a5a27c549de8cb23a8ab1d9c452"
+msgid "ID=63"
+msgstr "ID=63"
+
+msgctxt "787055501c1295f9148fd7fb708fe296"
+msgid "[아이템] 41레벨 달성 보상"
+msgstr "[Item] Level 41 achievement reward"
+
+msgctxt "e7a0ad4114491037f01780b597de5e5e"
+msgid "41레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 41. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "c917cc059ab807c11dac37cd9acdbc2e"
+msgid "ID=64"
+msgstr "ID=64"
+
+msgctxt "a9a75d1be5fa2c17dbe3210c4e5bcddf"
+msgid "[아이템] 42레벨 달성 보상"
+msgstr "[Item] Level 42 achievement reward"
+
+msgctxt "4ab56ddebca13ae32e4bbebb7af842a1"
+msgid "42레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 42. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "f0ecb99503f6510a10e5cf628dd21219"
+msgid "ID=65"
+msgstr "ID=65"
+
+msgctxt "7222af15b84d15bf08e5e59294c8a3e7"
+msgid "[아이템] 43레벨 달성 보상"
+msgstr "[Item] Level 43 achievement reward"
+
+msgctxt "9753e610d21e4d7aa11aca943180c2da"
+msgid "43레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 43. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "bbd4d9dd750a98a9ee312c7093f336fd"
+msgid "ID=66"
+msgstr "ID=66"
+
+msgctxt "1d35b7704cd88824b475ba7453bde373"
+msgid "[아이템] 44레벨 달성 보상"
+msgstr "[Item] Level 44 achievement reward"
+
+msgctxt "7fb807955eb97d344532e81471ef44cf"
+msgid "44레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 44. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "373ec1781546b36c522c17d181f90a07"
+msgid "ID=67"
+msgstr "ID=67"
+
+msgctxt "bfd3d3a337d03b009fc5bf5528b3e6f5"
+msgid "[아이템] 45레벨 달성 보상"
+msgstr "[Item] Level 45 achievement reward"
+
+msgctxt "1034e4986a09ec428acee47e64b4d539"
+msgid "45레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 45. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "00cec152177d682e25f32ae04cc0d8a1"
+msgid "ID=68"
+msgstr "ID=68"
+
+msgctxt "64601fa39c3eebcb967ffe15abe50637"
+msgid "[아이템] 46레벨 달성 보상"
+msgstr "[Item] Level 46 achievement reward"
+
+msgctxt "3ca56e304be4f363c570c2e6fb11ac19"
+msgid "46레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 46. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "a2ca7be7dbaff836697b57246ae678c0"
+msgid "ID=69"
+msgstr "ID=69"
+
+msgctxt "1bb93717b98c1068c830244c9fc90972"
+msgid "[아이템] 47레벨 달성 보상"
+msgstr "[Item] Level 47 achievement reward"
+
+msgctxt "36819a54a1d6709dca58c562687af2ec"
+msgid "47레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 47. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "a2293dd9c906450cdae331e7c699fcc3"
+msgid "ID=70"
+msgstr "ID=70"
+
+msgctxt "eca7791fc124506b12f417ba620058ea"
+msgid "[아이템] 48레벨 달성 보상"
+msgstr "[Item] Level 48 achievement reward"
+
+msgctxt "79789341fb00f728e3e9b25d71a31818"
+msgid "48레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 48. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "d6d0e288e991528e73f5416e0b100ce9"
+msgid "ID=71"
+msgstr "ID=71"
+
+msgctxt "073199ad1e1d9e2ff700cbfb5430b287"
+msgid "[아이템] 49레벨 달성 보상"
+msgstr "[Item] Level 49 achievement reward"
+
+msgctxt "639dc6488cd6a3fa923ea0525721eae7"
+msgid "49레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 49. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "ab5253031788819f3fb38d35ced7a700"
+msgid "ID=72"
+msgstr "ID=72"
+
+msgctxt "0647f42c6a79313b2444af432b26e2a4"
+msgid "[아이템] 50레벨 달성 보상"
+msgstr "[Item] Level 50 achievement reward"
+
+msgctxt "07993f32e7389bb7d36ace0466361ed0"
+msgid "50레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 50. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "6e58291033abf8a02538391bd146f78d"
+msgid "ID=73"
+msgstr "ID=73"
+
+msgctxt "09980f9138238a8c4b9d1bc0f82c7581"
+msgid "[아이템] 51레벨 달성 보상"
+msgstr "[Item] Level 51 achievement reward"
+
+msgctxt "8b7e79ccefe9830ae58f56faa454a10e"
+msgid "51레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 51. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "de697ff1bddbdd76e14141bcbc59ff77"
+msgid "ID=74"
+msgstr "ID=74"
+
+msgctxt "9a0dc16f1294daeeaeb52167f4fc3ee8"
+msgid "[아이템] 52레벨 달성 보상"
+msgstr "[Item] Level 52 achievement reward"
+
+msgctxt "b6462f0f3a270e55bf0613135e16d810"
+msgid "52레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 52. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "888076ea41ca0265647c2a6b5e0ba7e8"
+msgid "ID=75"
+msgstr "ID=75"
+
+msgctxt "c7b0877a4ce0701ffc1a61ac7a0c332f"
+msgid "[아이템] 53레벨 달성 보상"
+msgstr "[Item] Level 53 achievement reward"
+
+msgctxt "ed24d48052cfde8bfc33247e8ec1b89d"
+msgid "53레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 53. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "b049459168fc76f21aac7b759b720620"
+msgid "ID=76"
+msgstr "ID=76"
+
+msgctxt "30eac8e00aecb1ae7efb198a43fbb069"
+msgid "[아이템] 54레벨 달성 보상"
+msgstr "[Item] Level 54 achievement reward"
+
+msgctxt "236e2af0df0789279d0d09a96de75368"
+msgid "54레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 54. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "d074b22afe925612d6369c83db4f5228"
+msgid "ID=77"
+msgstr "ID=77"
+
+msgctxt "1da4f31883525d65bac811594e6b2086"
+msgid "[아이템] 55레벨 달성 보상"
+msgstr "[Item] Level 55 achievement reward"
+
+msgctxt "d2102f87717a6391a3bef604b91b3b53"
+msgid "55레벨 달성을 축하합니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 55. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "be7e212dbe510e7d6a76a7ec676bda6b"
+msgid "ID=78"
+msgstr "ID=78"
+
+msgctxt "4372b7622538cad0abfc89b75e7f55cb"
+msgid "[마이룸] 랭킹 보상"
+msgstr "[My room] Ranking reward"
+
+msgctxt "2dd4a97ca49aa6fdf70011e621e42fb8"
+msgid "마이룸 랭킹 보상을 보내드립니다.\\n첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"My room ranking reward will be sent soon.\\nPlease check the attached items."
+
+msgctxt "92be4bbbb4879d3e5140fe6c1ed675c4"
+msgid "ID=80"
+msgstr "ID=80"
+
+msgctxt "06ec450386679b30f1ef20ba09856eba"
+msgid "ID=90"
+msgstr "ID=90"
+
+msgctxt "2187e195eb7118d5bbad549695ed297b"
+msgid "[계정 복구] 안내"
+msgstr "[Account recovery] Information"
+
+msgctxt "18cdb5dd398f8e89bba02cd2df74a881"
+msgid "계정도용으로 인해 아이템을 복구했어요.\\n복구된 아이템을 확인해보세요.\\n심려를 끼쳐 드려 죄송합니다."
+msgstr ""
+"We have recovered your lost items due to account hacking.\\nPlease check the "
+"attached items.\\nWe apologize for the trouble. "
+
+msgctxt "e39c72d2028c63cbb44c0faa82dae051"
+msgid "ID=91"
+msgstr "ID=91"
+
+msgctxt "2dd63519eb8d25349cfc6617648808b0"
+msgid "출석 보상을 보내 드립니다."
+msgstr "Attendance reward "
+
+msgctxt "c6f80825a4ac798161f73e6551ff0efb"
+msgid "출석 시스템 오류로 불편을 드려 죄송합니다.\\n출석 일수가 정상적으로 복구 되었습니다."
+msgstr ""
+"We apologize for the inconvenience in the attendance system.\\nAttendance "
+"rewards have been restored. "
+
+msgctxt "a5f90a755bfe824e00d1da2d9bd63fc2"
+msgid "ID=100"
+msgstr "ID=100"
+
+msgctxt "69f0be1f488e5ea58a4b293efa54952f"
+msgid "[프리 매치] 참가 보상"
+msgstr "[Free match] Participation reward."
+
+msgctxt "183faa9df4975955a3ae14b7675918ab"
+msgid "일일 프리 매치 5회 플레이를 달성하였습니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"You have completed 5 free matched today.\\nWe have sent you a reward."
+"\\nPlease check the attached items."
+
+msgctxt "a02ad18a2a735c1ab4b10cabb9d00cdd"
+msgid "ID=149"
+msgstr "ID=149"
+
+msgctxt "a7a851a860dc5be093968c317aff79b6"
+msgid "거래소 보상"
+msgstr "Exchange Reward"
+
+msgctxt "336d5ebc5436534e61d16e63ddfca327"
+msgid "-"
+msgstr "-"
+
+msgctxt "8ad5da58663cd11a6e51eb7478ff917d"
+msgid "ID=150"
+msgstr "ID=150"
+
+msgctxt "b6f86f057c4698d0eacc8636f1c5e414"
+msgid "세츠카"
+msgstr "Setsuka"
+
+msgctxt "aef13a06bd0c28cb0612537557143dd5"
+msgid "Icon/Mail/SendImage_Systemmail07"
+msgstr "Icon/Mail/SendImage_Systemmail07"
+
+msgctxt "9721bcf553f323c576cd15069c4e78fa"
+msgid "ID=151"
+msgstr "ID=151"
+
+msgctxt "30ba77ab7fc277e42fec44edf3a61de2"
+msgid "료코"
+msgstr "Ryoko"
+
+msgctxt "25451d15faf7aee0a0a777f394e77427"
+msgid "Icon/Mail/SendImage_Systemmail06"
+msgstr "Icon/Mail/SendImage_Systemmail06"
+
+msgctxt "e8ab7d30355d0af44fc880b2496e4012"
+msgid "ID=152"
+msgstr "ID=152"
+
+msgctxt "6abf350ed21eff4c4d260c6ba219ee71"
+msgid "ID=153"
+msgstr "ID=153"
+
+msgctxt "e0f1a66bca73dd07a8bbd317a4ce570b"
+msgid "ID=154"
+msgstr "ID=154"
+
+msgctxt "5406986d29ce735b4b7eb66c31f4e480"
+msgid "[오퍼레이션 : 디멘션 셔터] 보상"
+msgstr "[Operation : Dimension Shutter] Reward"
+
+msgctxt "40b8f0f9e56267d9d7114ef44df52062"
+msgid ""
+"[오퍼레이션 : 디멘션 셔터] 의 보상이 도착했습니다.\\n\\n감사의 뜻으로 별 숲 리그에서 보상을 보내드립니다.\\n첨부 물품을 "
+"확인해주시기 바랍니다."
+msgstr ""
+"[Operation : Dimension Shutter] Reward.\\n\\nAs a thank you Starry Forest "
+"league have sent you a reward.\\nPlease check the attached items"
+
+msgctxt "6819aa82cce8e8d6f3184720b4df5570"
+msgid "ID=155"
+msgstr "ID=155"
+
+msgctxt "ee1eb23292713fb1fbb4501a5eced258"
+msgid "[오퍼레이션 : 디멘션 셔터] 랭킹 보상"
+msgstr "[Operation : Dimension Shutter] Ranking Reward"
+
+msgctxt "f6e41038b9e6e1dcd428d1bea5c73c74"
+msgid ""
+"[오퍼레이션 : 디멘션 셔터] 의 랭킹 보상이 도착했습니다.\\n\\n{0}위 랭킹으로 해당 순위의 보상을 보내드립니다.\\n첨부 물품을 "
+"확인해주시기 바랍니다."
+msgstr ""
+"[Operation : Dimension Shutter] Ranking Reward.\\n\\nStarry Forest league "
+"have sent you a reward for achieving rank {0}.\\nPlease check the attached "
+"items"
+
+msgctxt "ed856dfc5aa3e493dd64755b9c7f2a24"
+msgid "ID=201"
+msgstr "ID=201"
+
+msgctxt "19582ee9bbfbd9f20e076d604e1e9f56"
+msgid "[PC방] 접속 보상"
+msgstr "[PC Room] Connection Reward"
+
+msgctxt "beff7338adc52b02a6095d5ff4eca476"
+msgid "PC방에서 접속한지 30분이 되었네요.\\n감사의 선물을 전달해 드립니다."
+msgstr ""
+"You have been logged in for 30 minutes from the PC Room.\\nWe have sent you "
+"a reward."
+
+msgctxt "e1728a56d292c980080d7a53f0cf2b01"
+msgid "ID=202"
+msgstr "ID=202"
+
+msgctxt "2b0ff1c3e8c69548223b919cc36065f7"
+msgid "PC방에서 접속한지 1시간이 되었네요.\\n감사의 선물을 전달해 드립니다."
+msgstr ""
+"You have been logged in for 1 hour from the PC Room.\\nWe have sent you a "
+"reward."
+
+msgctxt "f2746243d5f6419b8eb3f19bb506a387"
+msgid "ID=203"
+msgstr "ID=203"
+
+msgctxt "ce6be38927addb88f5cb63bcc3391536"
+msgid "PC방에서 접속한지 1시간 30분이 되었네요.\\n감사의 선물을 전달해 드립니다."
+msgstr ""
+"You have been logged in for 1 hour and 30 minutes from the PC Room.\\nWe "
+"have sent you a reward."
+
+msgctxt "f9b92e5c9d77daad4de56ae2209c6452"
+msgid "ID=204"
+msgstr "ID=204"
+
+msgctxt "d83188c5eda7f1e9039523346d99206c"
+msgid "PC방에서 접속한지 2시간이 되었네요.\\n감사의 선물을 전달해 드립니다."
+msgstr ""
+"You have been logged in for 2 hours from the PC Room.\\nWe have sent you a "
+"reward."
+
+msgctxt "6627499e5a75dd3cf2fce6381654d38f"
+msgid "ID=205"
+msgstr "ID=205"
+
+msgctxt "27921bbc91658eb980abab8e2c6a72d4"
+msgid "PC방에서 접속한지 2시간 30분이 되었네요.\\n감사의 선물을 전달해 드립니다."
+msgstr ""
+"You have been logged in for 2 hours and 30 minutes from the PC Room.\\nWe "
+"have sent you a reward."
+
+msgctxt "7d97cadf5b8176833acd7a9625b403ca"
+msgid "ID=255"
+msgstr "ID=255"
+
+msgctxt "5ed71ffb9c3bf7ee2e7be5eefdf269a3"
+msgid "[아이템] 캐릭터 사전 생성 보상"
+msgstr "[Item] Character pre-creation reward."
+
+msgctxt "ba30beaed1dcbdb328fb153a7b7e5e06"
+msgid "캐릭터 사전 생성 보상입니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"We have sent you a reward for pre-creating a character.\\nPlease check the "
+"attached items."
+
+msgctxt "fcda29d4cc07852452cff58b2a372f15"
+msgid "ID=118"
+msgstr "ID=118"
+
+msgctxt "4b750a52a572499fbd4a0511e3ef64f5"
+msgid "[아이템] 60레벨 달성 보상"
+msgstr "[Item] Level 60 achievement reward"
+
+msgctxt "b502537d733713bf7d5c18e1259c7756"
+msgid "60레벨 달성을 축하드립니다.\\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다."
+msgstr ""
+"Congratulations on reaching level 60. We have sent you a reward.\\nPlease "
+"check the attached items."
+
+msgctxt "a40baf5535809202a8ba1b5105c09d50"
+msgid "ID=110"
+msgstr "ID=110"
+
+msgctxt "4c70f722ceaf9284d30ab718acd61da1"
+msgid "설명"
+msgstr "Explanation"
+
+msgctxt "fa6163980fba59bce73f02129c680ce5"
+msgid "[응원 이벤트] 월드 보상"
+msgstr "[Cheer event] World reward."
+
+msgctxt "2cd98dca7bd2591d09d03a45be5a2209"
+msgid "[응원 이벤트]의 보상 아이템이 도착하였습니다. 첨부 물품을확인해 주시기 바랍니다."
+msgstr ""
+"We have sent you a reward for [Cheer event].\\nPlease check the attached "
+"items."
+
+msgctxt "01802686c6fc0a10bfe0aabd46a96adf"
+msgid "ID=130"
+msgstr "ID=130"
+
+msgctxt "5dd8709274eefbf76b73b4441082e2f1"
+msgid "접속 보상"
+msgstr "Login Reward"
+
+msgctxt "2fda4f56beced61e84ed0b2717f30ed2"
+msgid "접속한지 1시간이 되었네요.\\n감사의 선물을 전달해 드립니다."
+msgstr "You have been logged in for 1 hour.\\nWe have sent you a reward."
+
+msgctxt "3c84322e23e0a05d064407b6f7479aee"
+msgid "ID=206"
+msgstr "ID=206"
+
+msgctxt "87f371b6109eb83f8d61816038715857"
+msgid "PC방에서 접속한지 3시간이 되었네요.\\n감사의 선물을 전달해 드립니다."
+msgstr ""
+"You have been logged in for 3 hours from the PC Room.\\nWe have sent you a "
+"reward."
+
+msgctxt "7a20c80ee83e6b215f613d313ea24099"
+msgid "ID=111"
+msgstr "ID=111"
+
+msgctxt "506013beb99fb8fc5674e946945e192c"
+msgid "[룰렛] 이벤트 아이템이 도착했어요!"
+msgstr "[Roulette] Even item has arrived!"
+
+msgctxt "5e3c4e1dad3adb89c9c950609828588c"
+msgid "[이벤트] 룰렛 당첨 상품 입니다. 아이템을 수령해 주세요."
+msgstr ""
+"[Event] You won a prize on the roulette.\\nPlease check the attached items."
+
+msgctxt "fce36244797eb53364e081ecfc8f8364"
+msgid "ID=116"
+msgstr "ID=116"
+
+msgctxt "b130ba2264eb5ecfe5df1d1675f2d4af"
+msgid "[미션] 일차별 완료 보상"
+msgstr "[Mission] Primary mission completion reward."
+
+msgctxt "54727f791d976de8641367af9be005a8"
+msgid ""
+"[미션] 미션의 보상 획득 조건을 달성하였습니다.\\n보상 물품을 보내드리니 메시지의 첨부 물품을\\n꼭 확인해주세요.\\n※ 미션: "
+"리턴 대시, 7일 미션, 페스티발"
+msgstr ""
+"[Mission] The mission have been completed.\\We've sent you a reward."
+"\\nPlease check the attached items.\\n※Mission: Return dash, 7 day mission, "
+"festival."
+
+msgctxt "b211da1398c56d67768e7017fd87d2b7"
+msgid "ID=117"
+msgstr "ID=117"
+
+msgctxt "a1ccd9506feb7556c85eb89f636e1acd"
+msgid "[미션] 최종 완료 보상"
+msgstr "[Mission] All missions completion reward."
+
+msgctxt "a77f1071cc5e80109a106196008b3647"
+msgid ""
+"[미션] 미션을 모두 완료하여, 보상 획득 조건을 달성하였습니다.\\n보상 물품을 보내드리니 메시지의 첨부 물품을\\n꼭 확인해주세요."
+"\\n※ 미션: 리턴 대시, 7일 미션, 페스티발"
+msgstr ""
+"[Mission] All missions have been completed.\\We've sent you a reward."
+"\\nPlease check the attached items.\\n※Mission: Return dash, 7 day mission, "
+"festival."
+
+msgctxt "e6a6cd4658403e12bf065b2371ce2f0b"
+msgid "ID=140"
+msgstr "ID=140"
+
+msgctxt "245dec0fa2952ff43bb4874e863c1672"
+msgid "[출석] 연속 출석 체크 보상"
+msgstr "[Attendance] Consecutive attendance reward"
+
+msgctxt "059a35aea589b45f1cd34fbdb068bb4d"
+msgid "[연속 출석] {0}일 연속 출석 보상을 보내 드립니다.\\n보상 물품을 보내드리니 메시지의 첨부 물품을 꼭 확인해주세요."
+msgstr ""
+"[Consecutive Attendance] We have sent you a reward for {0} consecutive days "
+"of attendance.\\nPlease check the attached items. "
+
+msgctxt "5d98c2710d02c22757f558fb228927a4"
+msgid "ID=141"
+msgstr "ID=141"
+
+msgctxt "d426aabb9c4b321b7d9c31fb6a9f03ea"
+msgid "[출석] 출석 보상"
+msgstr "[Attendance] Attendance reward"
+
+msgctxt "0ba48f5eee10a6731acd249b9b61771a"
+msgid ""
+"[출석] {0}일자 출석을 달성 하였습니다.\\n해당 출석일에 맞는 보상 물품을 보내드리니 메시지의 첨부 물품을 꼭 확인해주세요."
+msgstr ""
+"[Attendance] We have sent you a reward for {0} days of attendance.\\nPlease "
+"check the attached items."
+
+msgctxt "435cc94ec71e8d99db5bb35661f16c5a"
+msgid "ID=142"
+msgstr "ID=142"
+
+msgctxt "d754bc2cde7d5d8c73cf768d559f5144"
+msgid "[출석] 접속 유지 보상"
+msgstr "[Attendance] Connection reward."
+
+msgctxt "2830e7d1491039b2c41d0adc0ebe2c41"
+msgid ""
+"[접속유지] {0}분을 접속 유지하여 보상 획득 조건을 달성하였습니다.\\n보상 물품을 보내드리니 메시지의 첨부 물품을 꼭 확인해주세요."
+msgstr ""
+"[Attendance] We have sent you a reward for staying logged in for {0} minutes."
+"\\nPlease check the attached items."
+
+msgctxt "3c6c93f999f594461067e3f8fc92e89a"
+msgid "ID=143"
+msgstr "ID=143"
+
+msgctxt "c39ef4077fe541d1a9126e179c987dcb"
+msgid "[연속 출석] {0}일 연속 출석 보상 입니다.\\n보상 물품을 보내드리니 메시지의 첨부 물품을 꼭 확인해주세요."
+msgstr ""
+"[Consecutive Attendance] We have sent you a reward for {0} consecutive days "
+"of attendance.\\nPlease check the attached items. "
+
+msgctxt "217098e25313d1b9085a72486b978547"
+msgid "ID=144"
+msgstr "ID=144"
+
+msgctxt "60129705003ec1c235f38d693a46cc7f"
+msgid "ID=145"
+msgstr "ID=145"
+
+msgctxt "43a024b87538a2360866cab9cf78c91d"
+msgid "ID=131"
+msgstr "ID=131"
+
+msgctxt "17ea7db3a025ee653aa28999fbc65e17"
+msgid "[PC방] 일간 누적 접속"
+msgstr "[PC Room] Daily Cumulative Connection"
+
+msgctxt "c4f7b52bae7d8f28d8f387dc2aa114cf"
+msgid "PC방 일간 접속 시간 {0} 분 달성하셔서 {1}단계 보상을 드립니다."
+msgstr ""
+"Receive {1} rewards by staying logged in for {0} minutes from the PC Room."
+
+msgctxt "50c178ad1ac3f7b016bf61fee689a8f9"
+msgid "ID=132"
+msgstr "ID=132"
+
+msgctxt "84b81b35b3dcf4ed8b81ff69a768e05c"
+msgid "[PC방] 주간 누적 접속"
+msgstr "[PC Room] Weekly Cumulative Connection"
+
+msgctxt "6801a5cb2e8a9841eff4de4fe7341dfd"
+msgid "PC방 주간 접속 시간 {0} 분 달성하셔서 {1}단계 보상을 드립니다."
+msgstr ""
+"Receive {1} rewards by staying logged in for a total of {0} minutes a week "
+"from the PC Room."
+
+msgctxt "0591c2bbef500f3614d235ae8ec25cce"
+msgid "ID=133"
+msgstr "ID=133"
+
+msgctxt "ab644c694474ace651d13186d0a09e7b"
+msgid "[PC방] 월간 누적 접속"
+msgstr "[PC Room] Monthly cumulative connection"
+
+msgctxt "3e8e573af94dd12e8d99ede95cf3fc6f"
+msgid "PC방 월간 접속 시간 {0} 분 달성하셔서 {1}단계 보상을 드립니다."
+msgstr ""
+"Receive {1} rewards by staying logged in for a total of {0} minutes per "
+"month from the PC Room."
+
+msgctxt "1238f16857f26d553ced68a6683e4ed7"
+msgid "ID=134"
+msgstr "ID=134"
+
+msgctxt "434b06ba513cf73c2af8956dd4f79436"
+msgid "PC방 접속 횟수 보상"
+msgstr "PC Room connection reward."
+
+msgctxt "a6dfd6c5121ad907b85196d6ddb5a020"
+msgid "PC방 접속을 {0} 회 달성하셔서 {1}단계 보상을 드립니다."
+msgstr "Receive {1} rewards by connecting {0} times from the PC Room."
+
+msgctxt "c52392eca9caa128eaab9c31a9a611b5"
+msgid "ID=135"
+msgstr "ID=135"
+
+msgctxt "e48b3f8b034ff0c17f89a95c1695952e"
+msgid "PC방 메이즈 클리어 횟수 보상"
+msgstr "PC Room dungeon clearance reward."
+
+msgctxt "742ea9fce3368b4ffb477f486ab8fa90"
+msgid "PC방 {0} 클리어 이벤트를 {1}단계  달성하셔서 보상을 드립니다."
+msgstr "Receive {1} rewards by clearing {0} dungeons from the PC Room"
+
+msgctxt "1c1b5e96a121d29673f00324dd6dbea5"
+msgid "ID=136"
+msgstr "ID=136"
+
+msgctxt "8a6b2438701271afddd5ea126a329482"
+msgid "퀘스트 발급 아이템 재지급"
+msgstr "Reissue quest items"
+
+msgctxt "6d8928c16753a94658d1f7129f5501e9"
+msgid "아이템을 통해 발급된 퀘스트를 포기하여 해당 아이템을 재지급하였습니다."
+msgstr ""
+"The items were reissued by giving up the quest issued thought the items"
+
+msgctxt "241071f9d0c111da92e308db66e1bdce"
+msgid "ID=92"
+msgstr "ID=92"
+
+msgctxt "05eec3ec0688022c1ac31416b56ddb49"
+msgid "레오나"
+msgstr "Leona"
+
+msgctxt "b60dc67e4a3c428051c4dd059e7987d2"
+msgid "[고객 등급 상승] 레오나"
+msgstr "[VIP] Leona"
+
+msgctxt "e5b6383acce740f699084bcca9fc2a8b"
+msgid "호감도 이벤트 등급에 따라 쓸모있는 아이템을 준비 했어요.\\n요긴하게 쓰도록 하세요."
+msgstr ""
+"You have received useful items according to your affection event level."
+"\\nPlease use them."
+
+msgctxt "caa1d4e0ef017b543fbbd5ae176c5c88"
+msgid "Icon/Mail/SendImage_Systemmail11"
+msgstr "Icon/Mail/SendImage_Systemmail11"
+
+msgctxt "af258545871293b17d6d643bf325adc1"
+msgid "ID=93"
+msgstr "ID=93"
+
+msgctxt "1b3f7a2d20e1c91f7fe93c9c1137d389"
+msgid "아만다"
+msgstr "Amanda"
+
+msgctxt "9c9e42db8b3ad9128edcac451c7519f5"
+msgid "[고객 등급 상승] 아만다"
+msgstr "[VIP] Amanda"
+
+msgctxt "1e4b4300dc7752ec89307caad9332b3f"
+msgid "Icon/Mail/SendImage_Systemmail36"
+msgstr "Icon/Mail/SendImage_Systemmail36"
+
+msgctxt "8b7f27b4910a45a225b2329b4cf10455"
+msgid "ID=94"
+msgstr "ID=94"
+
+msgctxt "0e016a5ac59b3fc2b84323b4e795bc93"
+msgid "세듀린"
+msgstr "Sedurin"
+
+msgctxt "de35cfa066c0f38ce0db9a57c2fab4e6"
+msgid "[고객 등급 상승] 세듀린"
+msgstr "[VIP] Sedurin"
+
+msgctxt "7c6aa09fb1c814c19d5844b1d87ce426"
+msgid "호감도 이벤트 등급에 따라 쓸모있는 아이템을 준비 했어.\\n요긴하게 쓰도록 해."
+msgstr ""
+"You have received useful items according to your affection event level."
+"\\nPlease use them."
+
+msgctxt "77371d412e6c422e29d675549a7d5f3c"
+msgid "Icon/Mail/SendImage_Systemmail21"
+msgstr "Icon/Mail/SendImage_Systemmail21"
+

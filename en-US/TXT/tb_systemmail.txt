@@ -1,0 +1,699 @@
+ID=1
+
+Yomi
+
+[Customer Rating Rise] Yomi
+
+Thank you for your frequent visits. \n If your customer rating rises, you can buy better items, so please come back often.
+
+Icon/Mail/SendImage_Systemmail01
+
+ID=2
+
+Zaito
+
+[VIP]
+
+Thank you for your frequent visits! \n Your customer rating has also improved, so we will be able to bring you many better items. \n Please visit us in the future!
+
+Icon/Mail/SendImage_Systemmail02
+
+ID=3
+
+Trisha
+
+[VIP] Trisha
+
+Did you use it so often? \n Thank you ~ I'm going to give you a lot of service! You should use it more often!
+
+Icon/Mail/SendImage_Systemmail03
+
+ID=4
+
+Zenith
+
+[Customer Rating Rise] Zenith
+
+It's an increase in customer rating. Congratulations, Soulworker. \n If you bring only good ingredients in the future, I'll make better ones for you. Look forward to it ~
+
+Icon/Mail/SendImage_Systemmail04
+
+ID=5
+
+Chloe
+
+[Exchange] Purchase Completion Guide
+
+Thank you for purchasing {0} on [Exchange] \n Your purchase will be forwarded to H.E.M.S, please check the attached items in your message!
+
+Icon/Mail/SendImage_System
+
+ID=6
+
+[Market] Item sold
+
+{0} x {1} were sold sold on the [Market]\nYou received {2} Zenny after the fees
+
+ID=7
+
+[Market] Items withdrawn
+
+The items listed in the [Market] has been withdrawn successfully.\nPlease check the mail attachments for your items
+
+ID=8
+
+[CASH SHOP] Purchase successful
+
+Insufficient inventory space,  the items from [CASH SHOP] were sent HEMS. Please check your mail attachments for your items
+
+ID=9
+
+[System] Gift
+
+Thank you Soulworker!\nWe have prepared a special gift for you, please check your mail attachments.
+
+ID=10
+
+[System] Item restoration 
+
+We are deeply sorry for this error, we'll ensure it never happen again\nWe have attached a compensatory item, please check your mail attachments.
+
+ID=11
+
+[System] Dungeon clearance reward.
+
+[Insufficient inventory space]  You couldn't receive the reward for the last mission due to insufficient inventory space and instead it was mailed.\nPlease free up space in your inventory and collect the attached items.
+
+ID=12
+
+Daily mission completion reward.
+
+[Daily mission] Here is your daily mission's reward.\nPlease make sure to have enough inventory space to collect the attached items.
+
+ID=13
+
+[System] Hidden quest completion reward.
+
+[Insufficient inventory space]  You couldn't receive the reward for the last hidden quest due to insufficient inventory space and instead it was mailed.\n Please free up space in your inventory and collect the attached items.
+
+ID=14
+
+ID=15
+
+Azin
+
+[VIP Level increase] Azin
+
+Thank you for using Skycraft frequently.\nWe'll ensure you have safer and more comfortable journeys.Please make sure to use Skycraft again in  the future.
+
+Icon/Mail/SendImage_Systemmail05
+
+ID=16
+
+[Market] Item listing expired
+
+The item's listing duration has expired and was sent back to you.\nPlease check the attached items.
+
+ID=17
+
+[CASH SHOP] Gift
+
+[CASH SHOP] You have received a gift from {0}.\nIt has been to your HEMS. Please check the attached items. 
+
+ID=18
+
+{0} x {1} were sold on the [market]\nYou will receive {2} Zenny. No fees were applied.
+
+ID=19
+
+[Item] Item expiration date
+
+Item {0} has expired and was removed. Did you enjoy using it?
+
+ID=20
+
+[Item] Item returned
+
+We would like to inform you {0} item has been returned.\Compensation for the returned item would be hard.
+
+ID=21
+
+[Item] Coupon Reward
+
+You have redeemed a coupon.\nPlease check the attached items.
+
+ID=22
+
+[Item] New player reward
+
+Thank you for playing Soulworker. We have sent you a gift.\nPlease check the attached items.
+
+ID=23
+
+[Item] Returning user reward
+
+Thank you for coming back to SoulWorker, we have sent you a reward.\nPlease check the attached items.
+
+ID=24
+
+[Item] Level 2 achievement reward
+
+Congratulations on reaching level 2. We have sent you a reward.\nPlease check the attached items.
+
+ID=25
+
+[Item] Level 3 achievement reward
+
+Congratulations on reaching level 3. We have sent you a reward.\nPlease check the attached items.
+
+ID=26
+
+[Item] Level 4 achievement reward
+
+Congratulations on reaching level 4. We have sent you a reward.\nPlease check the attached items.
+
+ID=27
+
+[Item] Level 5 achievement reward
+
+Congratulations on reaching level 5. We have sent you a reward.\nPlease check the attached items.
+
+ID=28
+
+[Item] Level 6 achievement reward
+
+Congratulations on reaching level 6. We have sent you a reward.\nPlease check the attached items.
+
+ID=29
+
+[Item] Level 7 achievement reward
+
+Congratulations on reaching level 7. We have sent you a reward.\nPlease check the attached items.
+
+ID=30
+
+[Item] Level 8 achievement reward
+
+Congratulations on reaching level 8. We have sent you a reward.\nPlease check the attached items.
+
+ID=31
+
+[Item] Level 9 achievement reward
+
+Congratulations on reaching level 9. We have sent you a reward.\nPlease check the attached items.
+
+ID=32
+
+[Item] Level 10 achievement reward
+
+Congratulations on reaching level 10. We have sent you a reward.\nPlease check the attached items.
+
+ID=33
+
+[Item] Level 11 achievement reward
+
+Congratulations on reaching level 11. We have sent you a reward.\nPlease check the attached items.
+
+ID=34
+
+[Item] Level 12 achievement reward
+
+Congratulations on reaching level 12. We have sent you a reward.\nPlease check the attached items.
+
+ID=35
+
+[Item] Level 13 achievement reward
+
+Congratulations on reaching level 13. We have sent you a reward.\nPlease check the attached items.
+
+ID=36
+
+[Item] Level 14 achievement reward
+
+Congratulations on reaching level 14. We have sent you a reward.\nPlease check the attached items.
+
+ID=37
+
+[Item] Level 15 achievement reward
+
+Congratulations on reaching level 15. We have sent you a reward.\nPlease check the attached items.
+
+ID=38
+
+[Item] Level 16 achievement reward
+
+Congratulations on reaching level 16. We have sent you a reward.\nPlease check the attached items.
+
+ID=39
+
+[Item] Level 17 achievement reward
+
+Congratulations on reaching level 17. We have sent you a reward.\nPlease check the attached items.
+
+ID=40
+
+[Item] Level 18 achievement reward
+
+Congratulations on reaching level 18. We have sent you a reward.\nPlease check the attached items.
+
+ID=41
+
+[Item] Level 19 achievement reward
+
+Congratulations on reaching level 19. We have sent you a reward.\nPlease check the attached items.
+
+ID=42
+
+[Item] Level 20 achievement reward
+
+Congratulations on reaching level 20. We have sent you a reward.\nPlease check the attached items.
+
+ID=43
+
+[Item] Level 21 achievement reward
+
+Congratulations on reaching level 21. We have sent you a reward.\nPlease check the attached items.
+
+ID=44
+
+[Item] Level 22 achievement reward
+
+Congratulations on reaching level 22. We have sent you a reward.\nPlease check the attached items.
+
+ID=45
+
+[Item] Level 23 achievement reward
+
+Congratulations on reaching level 23. We have sent you a reward.\nPlease check the attached items.
+
+ID=46
+
+[Item] Level 24 achievement reward
+
+Congratulations on reaching level 24. We have sent you a reward.\nPlease check the attached items.
+
+ID=47
+
+[Item] Level 25 achievement reward
+
+Congratulations on reaching level 25. We have sent you a reward.\nPlease check the attached items.
+
+ID=48
+
+[Item] Level 26 achievement reward
+
+Congratulations on reaching level 26. We have sent you a reward.\nPlease check the attached items.
+
+ID=49
+
+[Item] Level 27 achievement reward
+
+Congratulations on reaching level 27. We have sent you a reward.\nPlease check the attached items.
+
+ID=50
+
+[Item] Level 28 achievement reward
+
+Congratulations on reaching level 28. We have sent you a reward.\nPlease check the attached items.
+
+ID=51
+
+[Item] Level 29 achievement reward
+
+Congratulations on reaching level 29. We have sent you a reward.\nPlease check the attached items.
+
+ID=52
+
+[Item] Level 30 achievement reward
+
+Congratulations on reaching level 30. We have sent you a reward.\nPlease check the attached items.
+
+ID=53
+
+[Item] Level 31 achievement reward
+
+Congratulations on reaching level 31. We have sent you a reward.\nPlease check the attached items.
+
+ID=54
+
+[Item] Level 32 achievement reward
+
+Congratulations on reaching level 32. We have sent you a reward.\nPlease check the attached items.
+
+ID=55
+
+[Item] Level 33 achievement reward
+
+Congratulations on reaching level 33. We have sent you a reward.\nPlease check the attached items.
+
+ID=56
+
+[Item] Level 34 achievement reward
+
+Congratulations on reaching level 34. We have sent you a reward.\nPlease check the attached items.
+
+ID=57
+
+[Item] Level 35 achievement reward
+
+Congratulations on reaching level 35. We have sent you a reward.\nPlease check the attached items.
+
+ID=58
+
+[Item] Level 36 achievement reward
+
+Congratulations on reaching level 36. We have sent you a reward.\nPlease check the attached items.
+
+ID=59
+
+[Item] Level 37 achievement reward
+
+Congratulations on reaching level 37. We have sent you a reward.\nPlease check the attached items.
+
+ID=60
+
+[Item] Level 38 achievement reward
+
+Congratulations on reaching level 38. We have sent you a reward.\nPlease check the attached items.
+
+ID=61
+
+[Item] Level 39 achievement reward
+
+Congratulations on reaching level 39. We have sent you a reward.\nPlease check the attached items.
+
+ID=62
+
+[Item] Level 40 achievement reward
+
+Congratulations on reaching level 40. We have sent you a reward.\nPlease check the attached items.
+
+ID=63
+
+[Item] Level 41 achievement reward
+
+Congratulations on reaching level 41. We have sent you a reward.\nPlease check the attached items.
+
+ID=64
+
+[Item] Level 42 achievement reward
+
+Congratulations on reaching level 42. We have sent you a reward.\nPlease check the attached items.
+
+ID=65
+
+[Item] Level 43 achievement reward
+
+Congratulations on reaching level 43. We have sent you a reward.\nPlease check the attached items.
+
+ID=66
+
+[Item] Level 44 achievement reward
+
+Congratulations on reaching level 44. We have sent you a reward.\nPlease check the attached items.
+
+ID=67
+
+[Item] Level 45 achievement reward
+
+Congratulations on reaching level 45. We have sent you a reward.\nPlease check the attached items.
+
+ID=68
+
+[Item] Level 46 achievement reward
+
+Congratulations on reaching level 46. We have sent you a reward.\nPlease check the attached items.
+
+ID=69
+
+[Item] Level 47 achievement reward
+
+Congratulations on reaching level 47. We have sent you a reward.\nPlease check the attached items.
+
+ID=70
+
+[Item] Level 48 achievement reward
+
+Congratulations on reaching level 48. We have sent you a reward.\nPlease check the attached items.
+
+ID=71
+
+[Item] Level 49 achievement reward
+
+Congratulations on reaching level 49. We have sent you a reward.\nPlease check the attached items.
+
+ID=72
+
+[Item] Level 50 achievement reward
+
+Congratulations on reaching level 50. We have sent you a reward.\nPlease check the attached items.
+
+ID=73
+
+[Item] Level 51 achievement reward
+
+Congratulations on reaching level 51. We have sent you a reward.\nPlease check the attached items.
+
+ID=74
+
+[Item] Level 52 achievement reward
+
+Congratulations on reaching level 52. We have sent you a reward.\nPlease check the attached items.
+
+ID=75
+
+[Item] Level 53 achievement reward
+
+Congratulations on reaching level 53. We have sent you a reward.\nPlease check the attached items.
+
+ID=76
+
+[Item] Level 54 achievement reward
+
+Congratulations on reaching level 54. We have sent you a reward.\nPlease check the attached items.
+
+ID=77
+
+[Item] Level 55 achievement reward
+
+Congratulations on reaching level 55. We have sent you a reward.\nPlease check the attached items.
+
+ID=78
+
+[My room] Ranking reward
+
+My room ranking reward will be sent soon.\nPlease check the attached items.
+
+ID=80
+
+ID=90
+
+[Account recovery] Information
+
+We have recovered your lost items due to account hacking.\nPlease check the attached items.\nWe apologize for the trouble. 
+
+ID=91
+
+Attendance reward 
+
+We apologize for the inconvenience in the attendance system.\nAttendance rewards have been restored. 
+
+ID=100
+
+[Free match] Participation reward.
+
+You have completed 5 free matched today.\nWe have sent you a reward.\nPlease check the attached items.
+
+ID=149
+
+Exchange Reward
+
+-
+
+ID=150
+
+Setsuka
+
+Icon/Mail/SendImage_Systemmail07
+
+ID=151
+
+Ryoko
+
+Icon/Mail/SendImage_Systemmail06
+
+ID=152
+
+ID=153
+
+ID=154
+
+[Operation : Dimension Shutter] Reward
+
+[Operation : Dimension Shutter] Reward.\n\nAs a thank you Starry Forest league have sent you a reward.\nPlease check the attached items
+
+ID=155
+
+[Operation : Dimension Shutter] Ranking Reward
+
+[Operation : Dimension Shutter] Ranking Reward.\n\nStarry Forest league have sent you a reward for achieving rank {0}.\nPlease check the attached items
+
+ID=201
+
+[PC Room] Connection Reward
+
+You have been logged in for 30 minutes from the PC Room.\nWe have sent you a reward.
+
+ID=202
+
+You have been logged in for 1 hour from the PC Room.\nWe have sent you a reward.
+
+ID=203
+
+You have been logged in for 1 hour and 30 minutes from the PC Room.\nWe have sent you a reward.
+
+ID=204
+
+You have been logged in for 2 hours from the PC Room.\nWe have sent you a reward.
+
+ID=205
+
+You have been logged in for 2 hours and 30 minutes from the PC Room.\nWe have sent you a reward.
+
+ID=255
+
+[Item] Character pre-creation reward.
+
+We have sent you a reward for pre-creating a character.\nPlease check the attached items.
+
+ID=118
+
+[Item] Level 60 achievement reward
+
+Congratulations on reaching level 60. We have sent you a reward.\nPlease check the attached items.
+
+ID=110
+
+Explanation
+
+[Cheer event] World reward.
+
+We have sent you a reward for [Cheer event].\nPlease check the attached items.
+
+ID=130
+
+Login Reward
+
+You have been logged in for 1 hour.\nWe have sent you a reward.
+
+ID=206
+
+You have been logged in for 3 hours from the PC Room.\nWe have sent you a reward.
+
+ID=111
+
+[Roulette] Even item has arrived!
+
+[Event] You won a prize on the roulette.\nPlease check the attached items.
+
+ID=116
+
+[Mission] Primary mission completion reward.
+
+[Mission] The mission have been completed.\We've sent you a reward.\nPlease check the attached items.\n※Mission: Return dash, 7 day mission, festival.
+
+ID=117
+
+[Mission] All missions completion reward.
+
+[Mission] All missions have been completed.\We've sent you a reward.\nPlease check the attached items.\n※Mission: Return dash, 7 day mission, festival.
+
+ID=140
+
+[Attendance] Consecutive attendance reward
+
+[Consecutive Attendance] We have sent you a reward for {0} consecutive days of attendance.\nPlease check the attached items. 
+
+ID=141
+
+[Attendance] Attendance reward
+
+[Attendance] We have sent you a reward for {0} days of attendance.\nPlease check the attached items.
+
+ID=142
+
+[Attendance] Connection reward.
+
+[Attendance] We have sent you a reward for staying logged in for {0} minutes.\nPlease check the attached items.
+
+ID=143
+
+[Consecutive Attendance] We have sent you a reward for {0} consecutive days of attendance.\nPlease check the attached items. 
+
+ID=144
+
+ID=145
+
+ID=131
+
+[PC Room] Daily Cumulative Connection
+
+Receive {1} rewards by staying logged in for {0} minutes from the PC Room.
+
+ID=132
+
+[PC Room] Weekly Cumulative Connection
+
+Receive {1} rewards by staying logged in for a total of {0} minutes a week from the PC Room.
+
+ID=133
+
+[PC Room] Monthly cumulative connection
+
+Receive {1} rewards by staying logged in for a total of {0} minutes per month from the PC Room.
+
+ID=134
+
+PC Room connection reward.
+
+Receive {1} rewards by connecting {0} times from the PC Room.
+
+ID=135
+
+PC Room dungeon clearance reward.
+
+Receive {1} rewards by clearing {0} dungeons from the PC Room
+
+ID=136
+
+Reissue quest items
+
+The items were reissued by giving up the quest issued thought the items
+
+ID=92
+
+Leona
+
+[VIP] Leona
+
+You have received useful items according to your affection event level.\nPlease use them.
+
+Icon/Mail/SendImage_Systemmail11
+
+ID=93
+
+Amanda
+
+[VIP] Amanda
+
+Icon/Mail/SendImage_Systemmail36
+
+ID=94
+
+Sedurin
+
+[VIP] Sedurin
+
+You have received useful items according to your affection event level.\nPlease use them.
+
+Icon/Mail/SendImage_Systemmail21

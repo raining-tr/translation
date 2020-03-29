@@ -1,0 +1,8124 @@
+# Eisou <nanamiide@gmail.com>, 2020. #zanata
+# Ling <lling7@web.de>, 2020. #zanata
+# yunseojun <cy8erjp@gmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2020-02-22 04:09-0500\n"
+"Last-Translator: Eisou <nanamiide@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "781ee075b458a349857126474f875055"
+msgid "ID=10000"
+msgstr "ID=10000"
+
+msgctxt "09d2e5f206fe4206efe542c9f7110918"
+msgid "SP의"
+msgstr "SP"
+
+msgctxt "97bd33b75a1c1c289fc765a59152dec0"
+msgid "테스트를 참가한 자에게 주어지는 보상"
+msgstr "Title given to players who participated in the World Premier Test."
+
+msgctxt "d7fd8fb0d25e668cdd871c94a9eeb392"
+msgid "[테스트 참가]"
+msgstr "[Participated in World Premier]"
+
+msgctxt "3eff4315caf9c7863085f39378c0255c"
+msgid "ID=20000"
+msgstr "ID=20000"
+
+msgctxt "8802c06a3665e52cf2a9b256b93f50e6"
+msgid "SP인"
+msgstr "SP "
+
+msgctxt "929bb103f01149ba5c4f631f384d029a"
+msgid "ID=10005"
+msgstr "ID=10005"
+
+msgctxt "cc28d0f8979bb684ae44936dc154397d"
+msgid "라스트 카니발의"
+msgstr "Last Carnival"
+
+msgctxt "f118818ab0f9473e727f0aab8c70730a"
+msgid ""
+"라스트 카니발은 로코 타운에 발생한 이상 공백으로, 로코 타운의 정보를 토대로 만들어졌습니다. [라스트 카니발]의 100인에 선택되신 "
+"분들께 이 칭호를 선사합니다."
+msgstr ""
+"The Last Carnival is an aberration that occurred in Rocco Town and was "
+"created based on information from Rocco Town. The title is given to those "
+"who have completed [Last Carnival] 100 times."
+
+msgctxt "626d490f9816ab6777657c375b449f7b"
+msgid "이벤트 보상"
+msgstr "Event Rewards"
+
+msgctxt "62514a023d1c72139daa122f382e8798"
+msgid "ID=10006"
+msgstr "ID=10006"
+
+msgctxt "f43870ad9e062beaecc40bdd10033c5c"
+msgid "광기에 충만한"
+msgstr "Sated Madness"
+
+msgctxt "aaa531db670658324b4560b2611fa341"
+msgid ""
+"광기는 주로 부정적인 뜻으로 사용되곤 하지만 때로는 미친 것 처럼 열정적인 모습을 표현하기 위해 사용하기도 합니다. 광기로 가득한 "
+"[라스트 카니발]을 5번이나 클리어하신 분들께 이 칭호를 선사합니다."
+msgstr ""
+"Madness is often used in a negative sense, but sometimes it is used to "
+"express a passionate appearance like crazy. This title is given to those who "
+"have completed [Last Carnival] 5 times."
+
+msgctxt "6da67e3ba206005982cf3f875ebf57df"
+msgid "ID=10007"
+msgstr "ID=10007"
+
+msgctxt "3dc5f8a1c41681d99209cac3e7eec253"
+msgid "정크 하이브의"
+msgstr "Junk hive"
+
+msgctxt "db3193edb8a13e2d232aa1dfa04a1a26"
+msgid ""
+"정크 하이브는 캔더스 시티에 발생한 이상 공백으로, 캔더스 시티의 정보를 토대로 만들어졌습니다. [정크 하이브]의 100인에 선택되신 "
+"분들께 이 칭호를 선사합니다."
+msgstr ""
+"The Junk Hive is an anomaly that occurred in Candus City and is based on "
+"information from Candus City. The title is given to those who have completed "
+"[Junk Hive] 100 times."
+
+msgctxt "34e650f24af7a5c1de5d8292ba980df5"
+msgid "ID=10008"
+msgstr "ID=10008"
+
+msgctxt "01f98b07a22430e192469ea2192e2830"
+msgid "바이올렛의"
+msgstr "Violet"
+
+msgctxt "92aaebd171f7c958118a308440af6317"
+msgid ""
+"바이올렛은 귀족적인 느낌과 독을 품은 듯 위험한 느낌을 동시에 지닌 색입니다. 귀족처럼 우아하고, 독을 품은 듯 위험한 [정크 하이브]를 "
+"5번이나 클리어하신 분들께 이 칭호를 선사합니다."
+msgstr ""
+"Violet has both a sense of nobility and a sense of danger. This title is "
+"given to those who have cleared Junk Hive 5 times, which is as graceful and "
+"venomous as a nobleman."
+
+msgctxt "659ef1ef0320cbde4db313ca98bb932f"
+msgid "ID=10009"
+msgstr "ID=10009"
+
+msgctxt "5c53c1bf9bd1960b54e6834b5693ecf9"
+msgid "밴디트 하이웨이의"
+msgstr "Bandit Highway"
+
+msgctxt "295f8d1a94cce1654bdca343e9725730"
+msgid ""
+"밴디트 하이웨이는 그레이스 시티에 발생한 이상 공백으로, 그레이스 시티의 정보를 토대로 만들어졌습니다. [밴디트 하이웨이]의 100인에 "
+"선택되신 분들께 이 칭호를 선사합니다."
+msgstr ""
+"The Bandit Highway is an anomaly in Grace City, built on information from "
+"Grace City. This title is given to those who have completed [Bandit Highway] "
+"100 times."
+
+msgctxt "b2c406e3c47abc49d24ed9f0e351c61e"
+msgid "ID=10010"
+msgstr "ID=10010"
+
+msgctxt "de5014cb7e9fc580d02f0bac1486cc93"
+msgid "심연을 아는"
+msgstr "Abyss Awareness"
+
+msgctxt "b75a3b13bdd4812e1b5a4042318904d2"
+msgid ""
+"심연이란 깊은 늪을 뜻하는 말로, 끝이 보이지 않는 아득한 장소를 설명할 때 사용되곤 합니다. 끝이 보이지 않는 아득한 길, [밴디트 "
+"하이웨이]를 5번이나 클리어하신 분들께 이 칭호를 선사합니다."
+msgstr ""
+"The Abyss is a deep swamp, which is often used to describe distant places "
+"where there is no end. This title is given to those who have completed "
+"[Bandit Highway] 5 times, a far-off road that never ends."
+
+msgctxt "14ccca521748d2fefb3d25daaec77467"
+msgid "ID=10011"
+msgstr "ID=10011"
+
+msgctxt "10ca7315e432866d63471e53ec0b0ad9"
+msgid "아이언 캐슬의"
+msgstr "Iron Castle"
+
+msgctxt "c983f29f16ea673298c6666f660d19a3"
+msgid ""
+"아이언 캐슬은 루인 포트리스에 발생한 이상 공백으로, 루인 포트리스의 정보를 토대로 만들어졌습니다. [아이언 캐슬]의 100인에 선택되신 "
+"분들께 이 칭호를 선사합니다."
+msgstr ""
+"The Iron Castle is an anomaly that occurred in Ruin Fortress and is based on "
+"information from Ruin Fortress. The title is given to those who have "
+"completed [Iron Castle] 100 times."
+
+msgctxt "ff80717fda895a7b2cdd6cd29db71e4d"
+msgid "ID=10012"
+msgstr "ID=10012"
+
+msgctxt "3870af180f41cda0682e68f0b3a868b3"
+msgid "중량급의"
+msgstr "Heavyweight"
+
+msgctxt "7078617f43b03a8a2d653e7b5e50379d"
+msgid ""
+"중량급이란 큰 무게를 뜻하는 말로, 묵직하고 거대한 무언가를 설명할 때 사용되곤 합니다. 묵직하고 거대한 철의 성, [아이언 캐슬]을 "
+"5번이나 클리어하신 분들께 이 칭호를 선사합니다."
+msgstr ""
+"Heavy weight means big weight, and is used to describe something heavy and "
+"huge. This title is given to those who have completed the Iron Castle 5 "
+"times, a mighty and massive Iron Castle."
+
+msgctxt "13ad16be2363ff52b8d3e5e3d20de09d"
+msgid "ID=10013"
+msgstr "ID=10013"
+
+msgctxt "7eace96e53c45eddf7a2ba762c8d6827"
+msgid "버닝"
+msgstr "Burning"
+
+msgctxt "9e2b8ecf3b9622d12728a7a0ca45223c"
+msgid "소울워커 사전 등록자 수 5만명 돌파를 기념하는 한정 칭호"
+msgstr ""
+"Limited title to commemorate the 50,000-year-old soulwalker pre-registered"
+
+msgctxt "b1d0b73169462cb07b7a500ef4b2d46a"
+msgid "ID=10014"
+msgstr "ID=10014"
+
+msgctxt "88873db92f704ffb8618d9f45db51528"
+msgid "십오야"
+msgstr "Fifteen"
+
+msgctxt "edb9831bc9424570ef63f46f6a0d4445"
+msgid "스틸 그레이브 15층에 도달한 이들에게 주어지는 영광스러운 칭호"
+msgstr ""
+"A prestigious title given to players who have reached chapter 15 of Steel "
+"Grave."
+
+msgctxt "64794ffed7649aec533d2d8207280795"
+msgid "ID=10015"
+msgstr "ID=10015"
+
+msgctxt "a381876e56827ea5a2244a8f1b7dcde4"
+msgid "불타오르는"
+msgstr "Burning"
+
+msgctxt "9e187d405ba514a8b8ff575635328b4b"
+msgid "새롭게 합류한 소울워커, 진 세이파츠를 생성한 플레이어에게 주어지는 칭호"
+msgstr ""
+"Title given to players who have created the new Soulworker, \"Jin Seipatsu\"."
+""
+
+msgctxt "268d297f560769ac9d2bbe42d1426ad5"
+msgid "ID=10016"
+msgstr "ID=10016"
+
+msgctxt "d01fe5d0c9fab7045eeeb5d096c57d9f"
+msgid "속권의"
+msgstr "Quick Fists"
+
+msgctxt "039729b48a74d0e195c0fff3c0a7a0e9"
+msgid "새롭게 합류한 소울워커, 진 세이파츠를 생성한 유저가 1000명이 넘었을 때 주어진 칭호"
+msgstr ""
+"Title given to the first 1,000 players who have created the new Soulworker, "
+"\"Jin Seipatsu\"."
+
+msgctxt "96023c2c310da9f0d59dfadc844f4fe6"
+msgid "ID=10017"
+msgstr "ID=10017"
+
+msgctxt "b5b4a06007979aa1cdf9443497bc5352"
+msgid "빛나는"
+msgstr "Sparkle"
+
+msgctxt "f7a247b54ef1ad50f0653b49cf16f2c5"
+msgid "디스트릭트 레이드를 클리어한 유저들에게 주어지는 칭호"
+msgstr "Title given to players who have participated in the Raid District."
+
+msgctxt "5e1b5d3cd6c08f6bd7fc4eb1fafee9ce"
+msgid "ID=10018"
+msgstr "ID=10018"
+
+msgctxt "1445c2a61ed26649686c65ed40c4237b"
+msgid "광속의"
+msgstr "Light Speeds"
+
+msgctxt "2f0a91cb030cf677785a65344f7d7603"
+msgid "디스트릭트 레이드를 그 누구보다 빠르게 클리어한 유저들에게 주어지는 칭호"
+msgstr ""
+"Title given to players who clear Raid Districts faster than anyone else"
+
+msgctxt "25f4db25cb8c05b5869236e17bc07fd4"
+msgid "ID=10019"
+msgstr "ID=10019"
+
+msgctxt "16534ea3fcfaeca929b93bd4612cde5b"
+msgid "여름을 독차지한"
+msgstr "Summer Takeover"
+
+msgctxt "45e46c33775f3c818c04f2f51a566ff3"
+msgid "여름을 가장 열심히 즐긴 유저에게 주어지는 칭호"
+msgstr "Title given to players who enjoyed summer the most."
+
+msgctxt "0b8720375971bb68382c915ece56ae5d"
+msgid "ID=10020"
+msgstr "ID=10020"
+
+msgctxt "89d78331b18a19314fb1a220191939ab"
+msgid "첫 조우의"
+msgstr "First Encounter"
+
+msgctxt "5b38f718776ff99aff2cd4adfb831dea"
+msgid "더 씽 토벌 이벤트를 참가한 유저에게 주어지는 칭호"
+msgstr "Title given to players who participated in The Thing Event."
+
+msgctxt "cd57d21edffb6c416b83c9d5905bd3cc"
+msgid "ID=10021"
+msgstr "ID=10021"
+
+msgctxt "4c6a95ac19840aed4889e3cbafeb960c"
+msgid "견습"
+msgstr "New Hope"
+
+msgctxt "9d4b3180e189fd60c05f7e09498bcecf"
+msgid ""
+"이벤트 기간 동안 통합 레벨 50 이상에 도달하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 진심으로 감사드립니다."
+msgstr ""
+"Title given to players who achieved Level of 50 or higher during the Event "
+"period.\\nThank you for supporting SoulWorker!"
+
+msgctxt "1867a9b8d50b2af9c3feda2f53cbc4a3"
+msgid "ID=10022"
+msgstr "ID=10022"
+
+msgctxt "0ba4165106cd79003d6b5ee0badb8c34"
+msgid "일반인"
+msgstr "Ocean Awareness"
+
+msgctxt "427fc57ce5de400ed816c06ca5a8704b"
+msgid ""
+"이벤트 기간 동안 통합 레벨 100 이상에 도달하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 진심으로 감사드립니다."
+msgstr ""
+"Title given to players who achieved Level of 100 or higher during the event "
+"period.\\nThank you for supporting SoulWorker!"
+
+msgctxt "3b674a84330e052131848ed7fbd319d6"
+msgid "ID=10023"
+msgstr "ID=10023"
+
+msgctxt "e6cf95dd61ba4b4491180e35029cf60c"
+msgid "정상이 보이기 시작한다"
+msgstr "Well Aware of"
+
+msgctxt "5cd2aa32ee353bf6c48ab339fbc326a4"
+msgid ""
+"이벤트 기간 동안 통합 레벨 150 이상에 도달하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 진심으로 감사드립니다."
+msgstr ""
+"Title given to players who achieved Level of 150 or higher during the event "
+"period.\\nThank you for supporting SoulWorker!"
+
+msgctxt "6b72bf091df601cd9387c50e69d2d0e2"
+msgid "ID=10024"
+msgstr "ID=10024"
+
+msgctxt "1ece297039973c89cb08191f88cd1738"
+msgid "신의 뜻을 사냥하는"
+msgstr "Hunting God's Will"
+
+msgctxt "acdfeaded09ccd7d99a72cf81e6ef064"
+msgid "더 프라이멀 이벤트에 참가한 유저들에게 주어지는 칭호"
+msgstr "Title given to players who participated in The Primal Event."
+
+msgctxt "5c6677d1d9c061a63864b5668a11a480"
+msgid "ID=10025"
+msgstr "ID=10025"
+
+msgctxt "5b002f1e12963927184d52b4ca9657ab"
+msgid "GM의 친구"
+msgstr "GM's Friend"
+
+msgctxt "fddd9140c34b9dc2ee6e97398fc2def5"
+msgid "GM 육성 보조 이벤트에 참가한 유저들에게 주어지는 칭호"
+msgstr ""
+"Title given to players who participated in the GM Trainings Support Event."
+
+msgctxt "898b441af1999b2054acf37be458e798"
+msgid "ID=10026"
+msgstr "ID=10026"
+
+msgctxt "6d7f87194bfd4d9ccf2df57bfbfbb72f"
+msgid "운명을 거스르는"
+msgstr "Against Destiny"
+
+msgctxt "a5cc6c40db2ccd1e104f9160c12fe29f"
+msgid "이리스 업데이트 관련 이벤트 칭호"
+msgstr "Title for the new Soulworker Iris Yuma Implementation Event."
+
+msgctxt "b6fccb5ead4e1adf5ba87a720c506984"
+msgid "ID=10027"
+msgstr "ID=10027"
+
+msgctxt "3db1aec60d95c3dc203017bf0c1e0c02"
+msgid "분노의"
+msgstr "Fury "
+
+msgctxt "97f3b8ed9a37fdea84afd03c2f8a2700"
+msgid "ID=10028"
+msgstr "ID=10028"
+
+msgctxt "0929862302f5e17c95a8097850e0c90a"
+msgid "퀴즈에 입문한"
+msgstr "Quiz Novice"
+
+msgctxt "f4fdfed0ff46a5e9e1de318c526e97a2"
+msgid "퀴즈 이벤트 관련 이벤트 칭호"
+msgstr "Event title related to quiz Events."
+
+msgctxt "fa8968283f54c76235cbff3f0a7ccfa2"
+msgid "ID=10029"
+msgstr "ID=10029"
+
+msgctxt "383e979c9d61343c1b1586aacddd15e8"
+msgid "퀴즈를 좋아하는"
+msgstr "Quiz Lover"
+
+msgctxt "c97bd327761a5b11a6a87f1fc64541d1"
+msgid "ID=10030"
+msgstr "ID=10030"
+
+msgctxt "97ca1e4244bd1e97c64027b9e8b334a1"
+msgid "퀴즈 매니아"
+msgstr "Quiz Maniac"
+
+msgctxt "9b8d2ee647e6571cab19a97f9c8bdf31"
+msgid "ID=10031"
+msgstr "ID=10031"
+
+msgctxt "c02bb7d7f5f253f511822f010d90f01e"
+msgid "퀴즈왕"
+msgstr "Quiz King"
+
+msgctxt "10d3fd1180932cea5b53df5fcef9962a"
+msgid "ID=10032"
+msgstr "ID=10032"
+
+msgctxt "ed917c86bc0380e4136649ba4910e8c3"
+msgid "술래잡기 정말 좋아"
+msgstr "I like to talk"
+
+msgctxt "36ab7adbc64996941294dd44107f44d2"
+msgid "술래잡기 이벤트 관련 이벤트 칭호"
+msgstr "Event Title for Tag Event"
+
+msgctxt "35c15f1338f037de994fc00096da15e9"
+msgid "ID=10033"
+msgstr "ID=10033"
+
+msgctxt "c943d208c0cf68fcce04c520f1553ad4"
+msgid "술래잡기의 달인"
+msgstr "A Master of Tag"
+
+msgctxt "f85281ad09b4eda2cd21c57169ab4eb1"
+msgid "ID=10034"
+msgstr "ID=10034"
+
+msgctxt "56bb36ed9e5fe7df9f522f8dd439d498"
+msgid "태초의"
+msgstr "Primal"
+
+msgctxt "0101740435968281a53af35a8835530b"
+msgid "클라우드림 세계의 문이 열림과 동시에 선두에 서서 길을 개척한 분들에게 부여하는 칭호."
+msgstr ""
+"Title given to those who have started their journey at the same time as the "
+"doors of Cloudream opened."
+
+msgctxt "3ef67c6b125399f95476d112e4ba2714"
+msgid "ID=10038"
+msgstr "ID=10038"
+
+msgctxt "f9b64fb00d94f8d34d6948879119ca98"
+msgid "녹아버린"
+msgstr "Melted"
+
+msgctxt "bfac3ff8bf1b45fe41ec493f585c2ef9"
+msgid "발렌타인 이벤트의 보상으로 지급된 보상 칭호. 녹아버리는 것은 사랑일까 초콜릿일까."
+msgstr ""
+"Title given as reward for Valentine's event. Is it love or chocolate to "
+"melt?"
+
+msgctxt "a75234ace9f7c83807ce663f9b0b0da2"
+msgid "ID=10039"
+msgstr "ID=10039"
+
+msgctxt "555e51e470e8320fc4652fc20c5e5122"
+msgid "더 이상은"
+msgstr "No more"
+
+msgctxt "9d97636fd2e23a5a6d57541fed94509b"
+msgid "더 이상은 NAVER"
+msgstr "No more NAVER"
+
+msgctxt "8454fbcc2a5edff8a1a16d8d1ba8c5f5"
+msgid "ID=10040"
+msgstr "ID=10040"
+
+msgctxt "394c7a990a203683ad1b679972383856"
+msgid "새콤달콤한"
+msgstr "Sweet and sour"
+
+msgctxt "2853fc2d7d82aaf2e3a41b69cd21f6b2"
+msgid "화이트 데이 이벤트의 보상으로 지급된 보상 칭호. 새콤달콤하게 꾸며보자."
+msgstr ""
+"Title give as reward for White Day's Event. Decorate it sweet and sour."
+
+msgctxt "a1f583855dbb2d6ad3eb9dac28e0572d"
+msgid "ID=10041"
+msgstr "ID=10041"
+
+msgctxt "7b1b581efa878a89d79ad287373a98ab"
+msgid "이리스"
+msgstr "Iris"
+
+msgctxt "a687a9df00fad03c11fc3d7a0a56cf04"
+msgid "이리스에 대한 애정을 과시하는 칭호."
+msgstr "A title that shows off your affection for Iris."
+
+msgctxt "ede848ce612eb8d8aa4b55d20c76f7fb"
+msgid "ID=10042"
+msgstr "ID=10042"
+
+msgctxt "45e578471a13969f969c34abf9fa581b"
+msgid "너도 이미"
+msgstr "You already"
+
+msgctxt "b458c5c84bff53205c65cf92fc0cbf54"
+msgid "너도 이미…"
+msgstr "You already..."
+
+msgctxt "7c13ffc5e8686b24004ff76a1c27dc37"
+msgid "ID=10043"
+msgstr "ID=10043"
+
+msgctxt "fba594a332f67d45c3ce2567866e939a"
+msgid "명예의"
+msgstr "Honor"
+
+msgctxt "d477f339fe9ea0efa5942f0e566cb8fd"
+msgid "100일을 함께한 워커님들께 지급되는 특별 칭호"
+msgstr "100 days special title given to SoulWorker's"
+
+msgctxt "e3f288aeb416e32402266891c05aec90"
+msgid "ID=10044"
+msgstr "ID=10044"
+
+msgctxt "36879f22573418dec622a0f249ba958c"
+msgid "100일을"
+msgstr "100 days"
+
+msgctxt "95dbebe6877fa0a5d4108e2720eb2d27"
+msgid "100일의 순간, 클라우드림에서 가장 눈부신 활약을 위해 지급되는 칭호."
+msgstr "100 days special title, given to active players in Cloudream"
+
+msgctxt "7fa7d752b5e175492a20f42a90bfb5f9"
+msgid "ID=10045"
+msgstr "ID=10045"
+
+msgctxt "0d7a7a8ce7550f513ca2294d45e08104"
+msgid "보고싶은"
+msgstr "Want to see"
+
+msgctxt "dcd89c648a2bfdb8ef1744e7c56b585a"
+msgid " 부모님에 대한 세츠카와 료코의 간절한 애정이 담겨 있는 칭호."
+msgstr ""
+"A title that contains Setsuka's and Ryoko's affection for their parents."
+
+msgctxt "be2653f9bb9df912bdcd4f9f599da23a"
+msgid "ID=10049"
+msgstr "ID=10049"
+
+msgctxt "3fa03176d09030da9ffd72a4cf4b59e8"
+msgid "그루그루"
+msgstr "Gru Gru"
+
+msgctxt "32780f888be9b675b4225c4d32b66530"
+msgid "그루톤 월드 이벤트 기념으로 한정 판매되는 칭호. "
+msgstr ""
+"Limited title sold to those who participated in the Glutton World event."
+
+msgctxt "95888d88fd113bf69be056a2d9f7da1c"
+msgid "이벤트 판매"
+msgstr "Event sales"
+
+msgctxt "69ec6f573725d8a6f25a25a0378f4b99"
+msgid "ID=10050"
+msgstr "ID=10050"
+
+msgctxt "2f09edab394bc72f5625ed6920915435"
+msgid "<font color='#FAED7D'>§</font>치킨<font color='#FAED7D'>§</font>"
+msgstr "<font color='#FAED7D'>§</font>Chicken<font color='#FAED7D'>§</font>"
+
+msgctxt "13c34e3f527d7148e951079bcc3bb935"
+msgid "ID=10051"
+msgstr "ID=10051"
+
+msgctxt "3a71fa7d5f854395f94e9cad8896ab16"
+msgid "<font color='#FF0000'>⊙</font>산타<font color='#FF0000'>⊙</font>"
+msgstr "<font color='#FF0000'>⊙</font>Santa<font color='#FF0000'>⊙</font>"
+
+msgctxt "f223c5cc6901760c920e7da2c5ba92ec"
+msgid "ID=10052"
+msgstr "ID=10052"
+
+msgctxt "570f0a999986c3f3bf025f5575ad9b0f"
+msgid "<font color='#FFBB00'>★</font>여름<font color='#FFBB00'>★</font"
+msgstr "<font color='#FFBB00'>★</font>Summer<font color='#FFBB00'>★</font"
+
+msgctxt "381133541e890af9ddce553cb9cc550a"
+msgid "ID=10053"
+msgstr "ID=10053"
+
+msgctxt "f083cf5605261762a389a8591b134f24"
+msgid "<font color='#F15F5F'>♥</font>엔젤<font color='#F15F5F'>♥</font>"
+msgstr "<font color='#F15F5F'>♥</font>Angel<font color='#F15F5F'>♥</font>"
+
+msgctxt "ad8d8a8128277455cde34bfc2bd40a7a"
+msgid "ID=20001"
+msgstr "ID=20001"
+
+msgctxt "0a4d2fbf885c03f73d09f394fd35a346"
+msgid "개척하는 자"
+msgstr "Pioneer"
+
+msgctxt "58feb9743ca3bca39490b28146af1f9e"
+msgid ""
+"개척한다는 것은 새로운 영역을 나아간다는 점에서 많은 용기가 필요한 일이라 할 수 있습니다. [라스트 카니발]을 용감하게 도전하여 "
+"클리어해 주신 분들께 이 칭호를 선사합니다."
+msgstr ""
+"Pioneering requires a lot of courage in moving to new territory. This title "
+"is given to those who bravely challenged and completed the [Last Carnival]."
+
+msgctxt "186450310f9012933e39c6033c87b0bd"
+msgid "ID=20002"
+msgstr "ID=20002"
+
+msgctxt "63281e595162753f2afd5255d4768f59"
+msgid "첫 경험"
+msgstr "First Experience"
+
+msgctxt "1de198dcd09db21c9218b4fb3dd432bb"
+msgid ""
+"첫 경험은 그동안 경험해 보지 못한 것을 행한다는 점에서 매우 두렵고 힘든 일이 아닐 수 없습니다. [정크 하이브]를 첫 경험의 두려움을 "
+"이겨내고 클리어해 주신 분들께 이 칭호를 선사합니다."
+msgstr ""
+"My first experience was very scary and it was hard because I did something I "
+"haven't experienced before. This title is given to those who bravely "
+"challenged and completed the [Junk Hive]."
+
+msgctxt "04f97d255393e38dfaf6833dd385dae2"
+msgid "ID=20003"
+msgstr "ID=20003"
+
+msgctxt "35a2f6def802779ec04293fb9d81d0c3"
+msgid "불붙이는 역할"
+msgstr "The role of lighting"
+
+msgctxt "50a6a0e80486c1de93c86b927e8e295e"
+msgid ""
+"불붙이는 역할이라는 말은 선두로 나서서 일을 시작하는 역할에 사용되곤 합니다. [밴디트 하이웨이]를 용감하게 앞장서서 클리어해 주신 "
+"분들께 이 칭호를 선사합니다."
+msgstr ""
+"The lighter role is often used to take the lead and start work. This title "
+"is given to those who bravely challenged and completed the [Bandit Highway]."
+
+msgctxt "63badc425ea4049bc36378fbca4d1caf"
+msgid "ID=20004"
+msgstr "ID=20004"
+
+msgctxt "a040546700a796370f0fa0d1905f9298"
+msgid "돌격 대장"
+msgstr "Assault Captain"
+
+msgctxt "db342491ddd6b26e50d6da42dc11cbdd"
+msgid ""
+"돌격 대장은 적진으로 돌진하는 임무를 맡은 용맹한 장수를 지칭할 때 사용되곤 합니다. [아이언 캐슬]을 용감하게 돌격하여 클리어해 주신 "
+"분들께 이 칭호를 선사합니다."
+msgstr ""
+"Assault Captains are often used to refer to valiant longevers who are tasked "
+"to rush into enemy lines. This title is given to those who bravely "
+"challenged and completed the [Iron Castle]."
+
+msgctxt "1a1adabe06cf720a052f32662cddfa78"
+msgid "ID=20005"
+msgstr "ID=20005"
+
+msgctxt "fb12bba801106726fe4c9e1867d3a8bb"
+msgid "이로하니 이호"
+msgstr "With this code"
+
+msgctxt "19f30f9de1030d6391358b3c34b38f6b"
+msgid ""
+"이벤트 기간 동안 계정 내 모든 캐릭터의 통합 레벨을 50 이상 79 이하로 달성하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 "
+"주셔서 진심으로 감사드립니다."
+msgstr ""
+"This title is awarded to those who have achieved a combined level of 50 to "
+"79 for all characters in their account during the April event. Thank you for "
+"being with SoulWorker."
+
+msgctxt "62ac4ab38069bf9ecc326d9d18b6a591"
+msgid "ID=20006"
+msgstr "ID=20006"
+
+msgctxt "de4311956dd866e3f740c128df4578ce"
+msgid "이로하니 로호"
+msgstr "This is to protect"
+
+msgctxt "50ae80c1ac5a7b11e150c2aec500a364"
+msgid ""
+"이벤트 기간 동안 계정 내 모든 캐릭터의 통합 레벨을 80 이상 119 이하로 달성하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 "
+"주셔서 진심으로 감사드립니다."
+msgstr ""
+
+msgctxt "a92637e222e5dda9848f6f3467aecdd1"
+msgid "ID=20007"
+msgstr ""
+
+msgctxt "104a6f8a1ed31d3325f063bbcce99a28"
+msgid "이로하니 하호"
+msgstr ""
+
+msgctxt "b027ac28a2f5e4b191a22b407453d64e"
+msgid ""
+"이벤트 기간 동안 계정 내 모든 캐릭터의 통합 레벨을 120 이상 149 이하로 달성하신 분들께 해당 칭호를 선사합니다. 소울워커와 "
+"함께해 주셔서 진심으로 감사드립니다."
+msgstr ""
+
+msgctxt "c3d8ba2d9b6f0439f1642bf5224f632e"
+msgid "ID=20008"
+msgstr ""
+
+msgctxt "726ca0985b3813c38d7ed8c86bfa10a8"
+msgid "이로하니 니호"
+msgstr ""
+
+msgctxt "3bd420073bd8ab7d7e6ee70ebb9ab81b"
+msgid ""
+"이벤트 기간 동안 계정 내 모든 캐릭터의 통합 레벨을 150 이상 달성하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 "
+"진심으로 감사드립니다."
+msgstr ""
+
+msgctxt "3528f43c9bdb3b8c0fb32942b72d41a1"
+msgid "ID=20009"
+msgstr ""
+
+msgctxt "1103449141293b7ef5baf2e68a258b69"
+msgid "푸들 팀"
+msgstr ""
+
+msgctxt "16280b5932bc5fca643045f656a90910"
+msgid "2016년 5월에 실시한 팀 대항 이벤트 중 푸들 팀에 소속된 사람들에게 주어지는 칭호"
+msgstr ""
+
+msgctxt "f0a967078bdbd9b76414acdcc910411c"
+msgid "ID=20010"
+msgstr ""
+
+msgctxt "1a3e6ce3f4382965c15edf822ed1b0b2"
+msgid "치와와 팀"
+msgstr ""
+
+msgctxt "b540293e9fefceecb0a3382b6b2e7801"
+msgid "2016년 5월에 실시한 팀 대항 이벤트 중 치와와 팀에 소속된 사람들에게 주어지는 칭호"
+msgstr ""
+
+msgctxt "a281a2c544816a725b105db1b8bb884e"
+msgid "ID=20011"
+msgstr ""
+
+msgctxt "3f6020e25548bd6d04e7920c53bddc09"
+msgid "닥스훈트 팀"
+msgstr ""
+
+msgctxt "30205096a9de54b5bcc02ff2c6cc9539"
+msgid "2016년 5월에 실시한 팀 대항 이벤트 중 닥스훈트 팀에 소속된 사람들에게 주어지는 칭호"
+msgstr ""
+
+msgctxt "daf0adc8f0d5368f0a5a658a382a2358"
+msgid "ID=20012"
+msgstr ""
+
+msgctxt "43e1653dfd0292fc1cf613ed1db33e8e"
+msgid "시바 팀"
+msgstr ""
+
+msgctxt "eb8684edfd03076452cede737c11bd0f"
+msgid "2016년 5월에 실시한 팀 대항 이벤트 중 시바 팀에 소속된 사람들에게 주어지는 칭호"
+msgstr ""
+
+msgctxt "a2e02993590fb4829594a26e4c55cfbf"
+msgid "ID=20013"
+msgstr ""
+
+msgctxt "32e490ad24d6a1ee9f205ab99a035f40"
+msgid "퍼그 팀"
+msgstr ""
+
+msgctxt "fed004e94eac3413f17e34683c5ae5d4"
+msgid "2016년 5월에 실시한 팀 대항 이벤트 중 퍼그 팀에 소속된 사람들에게 주어지는 칭호"
+msgstr ""
+
+msgctxt "a9a26ea626d09ec64c82d63da2d28a28"
+msgid "ID=20014"
+msgstr ""
+
+msgctxt "3340be58eafa6ef77756da6bc85b63c0"
+msgid "비글 팀"
+msgstr ""
+
+msgctxt "48fec608c7dbd788939e1ac0f5af2da2"
+msgid "2016년 5월에 실시한 팀 대항 이벤트 중 비글 팀에 소속된 사람들에게 주어지는 칭호"
+msgstr ""
+
+msgctxt "80c7f2bedc114b908cc3bc65d370326b"
+msgid "ID=20015"
+msgstr ""
+
+msgctxt "9077a7e5a787648cdba1acfb2dfdb6a5"
+msgid "아키타 팀"
+msgstr ""
+
+msgctxt "a2839291e8a54ac781bd7eac6ecdfef9"
+msgid "2016년 5월에 실시한 팀 대항 이벤트 중 아키타 팀에 소속된 사람들에게 주어지는 칭호"
+msgstr ""
+
+msgctxt "e8e56b691927434e894098abb55a0928"
+msgid "ID=20016"
+msgstr ""
+
+msgctxt "5fd0caf856063fd472c3ba3e662f7abc"
+msgid "격투가"
+msgstr ""
+
+msgctxt "d636cbc31db42432c0b61879a849a243"
+msgid "새롭게 합류한 소울워커, 진 세이파츠를 생성한 유저가 2000명이 넘었을 때 주어진 칭호"
+msgstr ""
+
+msgctxt "dd68fb76373b68ed648a80d2f0fa0d89"
+msgid "ID=20017"
+msgstr ""
+
+msgctxt "0b6e42a4bdb15dbab5426b97a835387a"
+msgid "후광"
+msgstr ""
+
+msgctxt "c6e501dd4d41b152a71c7b5bed3cb55f"
+msgid "ID=20018"
+msgstr ""
+
+msgctxt "4b2eadfb94aff281153f2a6b18d578e8"
+msgid "슬레이어"
+msgstr ""
+
+msgctxt "fc1c180664aa397558dfb92d8590a3ce"
+msgid "ID=20019"
+msgstr ""
+
+msgctxt "ae2df4ed45dd31c242b97103cb66853f"
+msgid "중2병"
+msgstr ""
+
+msgctxt "5978d1fac4cfc9c5728c16ffd4083536"
+msgid ""
+"이벤트 기간 동안 통합 레벨 200 이상에 도달하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 진심으로 감사드립니다."
+msgstr ""
+
+msgctxt "a412404d5eb230a8bac799229ede2439"
+msgid "ID=20020"
+msgstr ""
+
+msgctxt "10d7192439596652d13e2470ffd24b6f"
+msgid "세컨드 스테어 거주"
+msgstr ""
+
+msgctxt "1f1441255b62655494750d6ac187af53"
+msgid ""
+"이벤트 기간 동안 통합 레벨 250 이상에 도달하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 진심으로 감사드립니다."
+msgstr ""
+
+msgctxt "69ddfa9e3e2db770d730beae17efeed5"
+msgid "ID=20021"
+msgstr ""
+
+msgctxt "b77b37bbb86d16d013ed4172d7d384a3"
+msgid "만랩 장인"
+msgstr ""
+
+msgctxt "e01c2c45e20b06a4d5b6abd9226e8e74"
+msgid ""
+"이벤트 기간 동안 통합 레벨 275 이상에 도달하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 진심으로 감사드립니다."
+msgstr ""
+
+msgctxt "e7d475e23385b104fab254a616bfec65"
+msgid "ID=20022"
+msgstr ""
+
+msgctxt "4fc3f3bae93367755f4df95ba0a7fbd2"
+msgid "도달한 자"
+msgstr ""
+
+msgctxt "959464979ce09109a7e5f96959945ce4"
+msgid "ID=20023"
+msgstr ""
+
+msgctxt "6ed18b886076a940d79a7db6413653e4"
+msgid "해피 할로윈"
+msgstr ""
+
+msgctxt "62059b5ecfbea84db1ff8874ffd5b628"
+msgid "할로윈 이벤트에 참가한 유저들에게 주어지는 칭호"
+msgstr ""
+
+msgctxt "e4866469743fc891dc896431b35d72b1"
+msgid "ID=100010"
+msgstr ""
+
+msgctxt "30a0ee6fda50656faa5428d7551c9796"
+msgid "세계 최초의"
+msgstr ""
+
+msgctxt "c81bbd0c2a73e221249a4f880b4a34a9"
+msgid ""
+"뒤에 무엇이 붙든, 세계 최초라는 말은 위대한 업적을 세운 것이라 할 수 있습니다. WPT 참가로 위대한 시작을 일깨워 주셔서 "
+"감사합니다!"
+msgstr ""
+
+msgctxt "09859bad004b0dd711d47ffcee4d9adc"
+msgid "WPT에 응모"
+msgstr ""
+
+msgctxt "0015b99943c98ffe32502a71d8cfe62c"
+msgid "ID=100020"
+msgstr ""
+
+msgctxt "258a986185c130b44157983339f5a769"
+msgid "숙명에 눈 뜬"
+msgstr ""
+
+msgctxt "ba831542c73f958eae11ab9ed68b3dbf"
+msgid ""
+"뒤틀린 세계에서 소년소녀들은 어떤 숙명에 눈 뜨게 될까요? 함께 그 숙명을 걸어나가기 위해 EXCBT에 참가해주신 여러분들에게 가호가 "
+"함께 하길!"
+msgstr ""
+
+msgctxt "d76f9ae73d87c455e75fbce8c2eb49eb"
+msgid "EXCBT 1일차에 게임 접속"
+msgstr ""
+
+msgctxt "bf48d592e742cd294753a32d020a5c5c"
+msgid "ID=100030"
+msgstr ""
+
+msgctxt "0fe7c5fd1ae4598a4b0c18df970063b5"
+msgid "4Gamer"
+msgstr ""
+
+msgctxt "a84c87def78ccbae8832de208562cb55"
+msgid "소울워커의 시작을 4Gamer와 함께해 주셔서 감사합니다. 소중한 만남을 기념하기 위해 이 칭호를 선사합니다."
+msgstr ""
+
+msgctxt "4aa0a87231397198cd5b1e9100ef30c6"
+msgid "ID=100040"
+msgstr ""
+
+msgctxt "bc22c34f78dee4ddc0f65ebcd5e46873"
+msgid "전격 온라인"
+msgstr ""
+
+msgctxt "179a6a1066660cf73811ec7ce3ca500b"
+msgid "소울워커의 시작을 전격 온라인과 함께해 주셔서 감사합니다. 소중한 만남을 기념하기 위해 이 칭호를 선사합니다."
+msgstr ""
+
+msgctxt "cad05167bf4fa298182152687760969f"
+msgid "ID=100050"
+msgstr ""
+
+msgctxt "a63739bf1e52d3bbcb0bd0b1bcedd97c"
+msgid "온라인 게이머"
+msgstr ""
+
+msgctxt "7a56a8b89c8cb009ad60b9db2cfc3a78"
+msgid "소울워커의 시작을 온라인 게이머와 함께해 주셔서 감사합니다. 소중한 만남을 기념하기 위해 이 칭호를 선사합니다."
+msgstr ""
+
+msgctxt "ba4f874927e604eba13cc5025f376a57"
+msgid "ID=100060"
+msgstr ""
+
+msgctxt "572e6fb32992bc3f9400f48908ce838c"
+msgid "패미통"
+msgstr ""
+
+msgctxt "d02d551769b547dbcf4e5810465d6fd2"
+msgid "소울워커의 시작을 패미통과 함께해 주셔서 감사합니다. 소중한 만남을 기념하기 위해 이 칭호를 선사합니다."
+msgstr ""
+
+msgctxt "d94430c96b6604d4826ccdeb7b94a793"
+msgid "ID=100070"
+msgstr ""
+
+msgctxt "a2cf0a9a184fc5028e95f9a6a856e228"
+msgid "게임 워치"
+msgstr ""
+
+msgctxt "df3b83d936b2e02140e526d84d572291"
+msgid "소울워커의 시작을 게임 워치와 함께해 주셔서 감사합니다. 소중한 만남을 기념하기 위해 이 칭호를 선사합니다."
+msgstr ""
+
+msgctxt "edaa44bfb1f5efbf543fd69526908629"
+msgid "ID=100100"
+msgstr ""
+
+msgctxt "c9a7ebe0c61bd0da6540b568eda925f3"
+msgid "태동의"
+msgstr ""
+
+msgctxt "2625f3fb5d3dd9907beeff7b0b2899ed"
+msgid "태동이라는 말은 그 자체에도 두근거림을 내포하고 있는 것 같습니다. 미약하지만 확실하게 존재의 증거를 내뿜고 있는 것이니까요."
+msgstr ""
+
+msgctxt "1480e297a0660b50f7f518b4f6b5670e"
+msgid "퀘스트 [당당한 복귀] 완료 보상"
+msgstr ""
+
+msgctxt "96118968e069cddb73622cc1714d8d28"
+msgid "ID=100200"
+msgstr ""
+
+msgctxt "f164a33ec820807bda6c0f0edc4a2805"
+msgid "거룩한"
+msgstr ""
+
+msgctxt "f7e498d86a3e4fa3d9c3ebdb970d079c"
+msgid "뜻이 높고 위대한 그 이름마저도 거대한 무엇인가를 품을 것만 같은 칭호입니다."
+msgstr ""
+
+msgctxt "77ce6188ec44e574a9411d7e460d6f65"
+msgid "퀘스트 [거룩한 희생] 완료 보상"
+msgstr ""
+
+msgctxt "b390fdd5bad8ba3210adc74062f1b065"
+msgid "ID=100300"
+msgstr ""
+
+msgctxt "50fad73129f5db20ace082de6f5441e7"
+msgid "칠흑의"
+msgstr ""
+
+msgctxt "49a58c0e39b0d010670440206a67266c"
+msgid "칠흑은 검은 것보다 더 어두운 무언가를 담고 있는 듯한 느낌을 줍니다. 그래서 더 깊은 어둠을 나타낼 때 사용되곤 합니다."
+msgstr ""
+
+msgctxt "2ac69bf3709168a2f7946758967b6f37"
+msgid "퀘스트 [칠흑의 갑주] 완료 보상"
+msgstr ""
+
+msgctxt "414005d7d8eb452a6360c19e9014f6ec"
+msgid "ID=100401"
+msgstr ""
+
+msgctxt "0f65257f3834f8809a436e66cc2ed40b"
+msgid "비탄 섞인 소녀의"
+msgstr ""
+
+msgctxt "4de0ef3584b913232bf2be399e68c8d1"
+msgid "비탄은 그 단어만으로도 슬픔을 가득 담고 있습니다.\\n비통하고도 원통한 감정 속에서 소년 소녀들은 어떤 길로 나아갈까요."
+msgstr ""
+
+msgctxt "17707bfd55ba2905b32940548c374f71"
+msgid "퀘스트 [비탄의 하늘] 완료 보상"
+msgstr ""
+
+msgctxt "904aaf96c16d4d25315acc15a98f63eb"
+msgid "ID=100402"
+msgstr ""
+
+msgctxt "41c3ca9342fce708ed73c08bbd140799"
+msgid "비탄 섞인 소년의"
+msgstr ""
+
+msgctxt "cb494431bc4597c9665613abcc9a6893"
+msgid "ID=100403"
+msgstr ""
+
+msgctxt "932d4c81d68a5297218ad92d1ca809f0"
+msgid "ID=100404"
+msgstr ""
+
+msgctxt "30d1a7709071f2e22f4cc6e17f4b6e0a"
+msgid "ID=100405"
+msgstr ""
+
+msgctxt "6144f31431e59d3a6cc827c1789432d5"
+msgid "ID=100406"
+msgstr ""
+
+msgctxt "5b933f844bc8f242c91b1d2d056fd2d1"
+msgid "ID=100500"
+msgstr ""
+
+msgctxt "cb7d1f967df75f90ed21c242df4b4c94"
+msgid "창공의"
+msgstr ""
+
+msgctxt "df3d7fd60c57250a56ba1ff31cb7e0ba"
+msgid "맑고 푸른 하늘을 말하는 창공은 하늘의 넓고, 가슴이 뻥 뚫릴 것만 같은 느낌을 내포하고 있는 듯합니다."
+msgstr ""
+
+msgctxt "c5ca6bf2b863e29716aa3efe81437c46"
+msgid "퀘스트 [미소 짓고 있다면] 완료 보상"
+msgstr ""
+
+msgctxt "65be16150dfd4a9918a32e50d5786443"
+msgid "ID=100601"
+msgstr ""
+
+msgctxt "3d367fabcd4856637a79e839e3a3edd9"
+msgid "응징의 칼날을"
+msgstr ""
+
+msgctxt "a101b45532cf5854fbdd848ce73487b3"
+msgid ""
+"응징은 잘못한 것을 깨우쳐 뉘우칠 수 있도록 징계하는 것을 의미합니다. 신의를 저버린 이들에게 응징을 가한 당신에게 이 칭호를 선사합니다."
+""
+msgstr ""
+
+msgctxt "f5edac96e2e47e8dee830b259256a8e7"
+msgid "퀘스트 [백의 검] 완료 보상"
+msgstr ""
+
+msgctxt "d37b5acc5f328e71a563f40f81c2bfb3"
+msgid "ID=100602"
+msgstr ""
+
+msgctxt "367a0f6ec360312ca75b0d32d8bda66b"
+msgid "응징의 탄환을"
+msgstr ""
+
+msgctxt "91c4cd77ea185a5c48ba884aba9c2d95"
+msgid "ID=100603"
+msgstr ""
+
+msgctxt "81ac79c0b4858603faa83aa25cc3f34a"
+msgid "응징의 서슬을"
+msgstr ""
+
+msgctxt "f3fda2de404f6fa1cc37f3b491ad88df"
+msgid "ID=100604"
+msgstr ""
+
+msgctxt "9e88af62debe0493fa22ff9b5f00eda2"
+msgid "응징의 주먹을"
+msgstr ""
+
+msgctxt "6451b1ed921cb571af1b05ed42de9fb4"
+msgid "ID=100605"
+msgstr ""
+
+msgctxt "e4da4847b8704f7d5b752f6cf0280e9e"
+msgid "응징의 악상을"
+msgstr ""
+
+msgctxt "e857500396f784f186aa60a99e966684"
+msgid "ID=100606"
+msgstr ""
+
+msgctxt "522c647aad8bcb86532e47ae820a9fea"
+msgid "응징의 포화를"
+msgstr ""
+
+msgctxt "392173893d2e59b0afca90f72d6d8a19"
+msgid "ID=100700"
+msgstr ""
+
+msgctxt "f6ea1fc2dbdca8122007495d12425bea"
+msgid "폭풍을 부르는"
+msgstr ""
+
+msgctxt "a679408222b991b780210ee48129f6e4"
+msgid ""
+"이번 사건으로 알 수 없는 무언가가 움직여 거대한 폭풍을 부르는 신호가 될 것만 같습니다. 폭풍에 휩쓸려 다치지 않도록 주의하세요. "
+msgstr ""
+
+msgctxt "732216ee17356d725151496eafad4773"
+msgid "퀘스트 [폭풍을 부르는 창] 완료 보상"
+msgstr ""
+
+msgctxt "a837f171b1a1ba2775fdc0ae1d9d3452"
+msgid "ID=100800"
+msgstr ""
+
+msgctxt "3fcc2245aa477e31961626bfaeb56786"
+msgid "운명 속을"
+msgstr ""
+
+msgctxt "b41e2cd2ff51942dfe33904ff507122f"
+msgid "운명이라는 것은 이미 정해져 있는 삶의 길을 뜻합니다. 그것에 따를지 거부할지는 온전히 자신의 판단이라는 것을 꼭 기억하시길."
+msgstr ""
+
+msgctxt "6064b1209bd5a8f7e1fb07ea32eb2e3a"
+msgid "퀘스트 [격돌하는 숙명] 완료 보상"
+msgstr ""
+
+msgctxt "20b065bbf15a3fadceb806797af34c01"
+msgid "ID=100910"
+msgstr ""
+
+msgctxt "d23b03b7804da7c8f13471c3a76933b3"
+msgid "대처 능력이"
+msgstr ""
+
+msgctxt "57aee82cf82fe76b22ee75b50caeb52d"
+msgid "위기 대처능력이 뛰어난 당신을 위한 칭호. 대처능력이 뛰어나지 않더라도 괜찮을 거에요."
+msgstr ""
+
+msgctxt "a0586f0330c81fcfc71654e6855bd53f"
+msgid "업적 [위기… 대처인가요?] 획득보상"
+msgstr ""
+
+msgctxt "5276f2da6280614cfc0ae5344834bd8a"
+msgid "ID=100920"
+msgstr ""
+
+msgctxt "a65e8d8d2dacd200489e296e50289d05"
+msgid "건강검진이 필요한"
+msgstr ""
+
+msgctxt "bded0ee1ab34cda5aef85eda1c172d5d"
+msgid "소비 아이템을 많이 먹으면 몸이 무척 안 좋아 집니다. 건강검진은 필수니 확인해 주세요!"
+msgstr ""
+
+msgctxt "e76a2353a851fc7b2c36a755053881af"
+msgid "업적 [건강검진을 받아보는 건…?] 획득보상"
+msgstr ""
+
+msgctxt "b83bced6ec1bd5abe6c7c9f87e4ce0f8"
+msgid "ID=100930"
+msgstr ""
+
+msgctxt "2b1b9f63f5312fc35a0ac24ef378498d"
+msgid "아름다운"
+msgstr ""
+
+msgctxt "8b9a75ee36aa6ef14ec45a1c1728f6ab"
+msgid "숨겨진 아름다움을 찾아낼 수 있는 칭호. \\n안 예뻐도 자주자주 불러줍시다."
+msgstr ""
+
+msgctxt "37765d7c2b9ab5b16687f9cc397674e6"
+msgid "업적 [소비하는 그대가 아름답다] 획득보상"
+msgstr ""
+
+msgctxt "7e464fe26812a6bb48beac4c118e2cb0"
+msgid "ID=101010"
+msgstr ""
+
+msgctxt "8d2638c1b14dd7e43a9889bde5af9977"
+msgid "과소비 문화의"
+msgstr ""
+
+msgctxt "6cabb7e90740a4f84c27af1af94f2df9"
+msgid "과도한 소비를 권장하는 문화. \\n뭐든 과도한 이라는 단어가 붙으면 좋지 않다는 것을 명심하세요~"
+msgstr ""
+
+msgctxt "d459113551f6120f8458a9c9de8995e0"
+msgid "업적 [돈을 벌면 써야하는거야!] 획득보상"
+msgstr ""
+
+msgctxt "d5bb8439f84406cf420f61fbdec3dee1"
+msgid "ID=101020"
+msgstr ""
+
+msgctxt "cd2d645a33dabea224c4ed52cd6f8546"
+msgid "상인 연합의"
+msgstr ""
+
+msgctxt "817045f0cf186a55abfb87b8befcada5"
+msgid "상인연합에서 인정한 사람들만이 이 칭호를 쓸 수 있다고 합니다. 하지만 그렇다 해도 더 할인해 주는 건 없으니 명심하세요!"
+msgstr ""
+
+msgctxt "0363795c845f7b7fa574008c2627c32a"
+msgid "업적 [단골 할인 없나요?] 획득보상"
+msgstr ""
+
+msgctxt "ec1e3f8cd199f6a7e85631d2273955ff"
+msgid "ID=101030"
+msgstr ""
+
+msgctxt "006ecd6e196cbd4d7eee74c9d139a3ca"
+msgid "훌륭한"
+msgstr ""
+
+msgctxt "9acd7f12bc9cb175c96536fc377c1bd3"
+msgid "당신의 훌륭함을 자랑할 수 있게 만들어 주는 칭호입니다. 상인연합이 감사의 마음을 담아 전달하였습니다."
+msgstr ""
+
+msgctxt "2c8b8c27b0798accb3abb7367f2ca431"
+msgid "업적 [여기 전부다 내가 산 물건] 획득보상"
+msgstr ""
+
+msgctxt "cd3c9f5ac3143613459ed8a38297cad4"
+msgid "ID=101040"
+msgstr ""
+
+msgctxt "2ec9d5add9b7791c99f1d426899e333e"
+msgid "영광의"
+msgstr ""
+
+msgctxt "37c09031e88d02cef1fc8adcfdce9fdc"
+msgid "상인연합이 당신의 VVIP자격을 더욱 드높이려 붙인 칭호입니다. 영광이라는 단어가 붙은 만큼 혜택도 빵빵하게 채워 놓았겠죠?"
+msgstr ""
+
+msgctxt "1e621fa345e55115e8969b61f40c0ef7"
+msgid "업적 [상인 연합 VVIP] 획득보상"
+msgstr ""
+
+msgctxt "c7444d753265e598d20774045c19e318"
+msgid "ID=101110"
+msgstr ""
+
+msgctxt "59852363c22b3f5d272ed83d366baadd"
+msgid "마음 여린"
+msgstr ""
+
+msgctxt "ef5f2885752c13e20a2388c517839a8b"
+msgid "마음이 여린 당신. \\n과자처럼 부서지지 않도록 조심하세요!"
+msgstr ""
+
+msgctxt "9b1ebcbcf3da122ec692777368ead771"
+msgid "업적 [사라질까 두렵다] 획득보상"
+msgstr ""
+
+msgctxt "5a03585c992f96a59a5082a0c184f15f"
+msgid "ID=101120"
+msgstr ""
+
+msgctxt "d905556a996deca922a70512a31766da"
+msgid "골동품"
+msgstr ""
+
+msgctxt "459559a7fa1df5ff95f30b4d2a2ce8a0"
+msgid ""
+"오래된 물건은 모두 골동품이 되기 마련이죠. \\n오래 쓴다고 다 좋은 것은 아니지만, 오래 될수록 빛나는 멋도 있는 법이랍니다."
+msgstr ""
+
+msgctxt "7a8fe9280f8b80976245de9357fa39c7"
+msgid "업적 [오래 쓸수록 빛나는 내무기] 획득보상"
+msgstr ""
+
+msgctxt "10e790fa2b64251def1477b933ed09ed"
+msgid "ID=101130"
+msgstr ""
+
+msgctxt "010797ad5b44d7b95875857deb50d343"
+msgid "수리계의"
+msgstr ""
+
+msgctxt "de0a4e7156a6e84171feb8466d4bb47f"
+msgid "수리에 많은 돈을 들인 당신을 위한 칭호. 당신에게 업계의 이름을 걸 정도로 임팩트 있는 일을 하셨군요!"
+msgstr ""
+
+msgctxt "411026997ac744c8447ab42bd45a83da"
+msgid "업적 [수리계의 큰손] 획득보상"
+msgstr ""
+
+msgctxt "bdd854c9f8bd53241515262e7fc46f31"
+msgid "ID=101210"
+msgstr ""
+
+msgctxt "9804bc9ae71f3b593c8f0d58640e5feb"
+msgid "이불 없는"
+msgstr ""
+
+msgctxt "fcaaecd212e84d9c2173db2d1e89af4a"
+msgid "세상에 이불은 많지만 내 이불은 없는 법이죠. 유사한 것으로 대체할 수 있으니 고려 부탁드리겠습니다."
+msgstr ""
+
+msgctxt "4e59479a9d6ba7569b730d6e28e7501d"
+msgid "업적 [바닥이 차다] 획득보상"
+msgstr ""
+
+msgctxt "0b507152450404383f602d13971fe84a"
+msgid "ID=101220"
+msgstr ""
+
+msgctxt "1f65ed4e858e231648064ad32c6a43b8"
+msgid "신문 덮은"
+msgstr ""
+
+msgctxt "56705673e2a8911690d6ebafdc035816"
+msgid "이불은 없는데 신문지만 있군요! 하지만 신문지를 잘못 쓰면 몹시 비루해질 수 있으니 조심하세요~"
+msgstr ""
+
+msgctxt "f5771c806b923a7607da2ddf71dec825"
+msgid "업적 [이젠 일어나기가 싫다] 획득보상"
+msgstr ""
+
+msgctxt "6a232424fe595bbbd769fd0d56790842"
+msgid "ID=101230"
+msgstr ""
+
+msgctxt "dbe66301c330266757de507507c15971"
+msgid "되살아난"
+msgstr ""
+
+msgctxt "2825bd1bef741fff4c26007f68132d60"
+msgid "되살아난 것들은 몸 상태가 온전하지 못한 경우가 많습니다. 되살아 난 만큼 건강한 몸을 유지하시길 빕니다!"
+msgstr ""
+
+msgctxt "88547943aeccca7aef9f2ceb2cba9bcf"
+msgid "업적 [양지바른 곳에 묻어주오] 획득보상"
+msgstr ""
+
+msgctxt "02fac65d4b9767ae6ab228211e310d22"
+msgid "ID=101240"
+msgstr ""
+
+msgctxt "cc8d0d22fbe066123514ba6ab00e21cc"
+msgid "알고보면"
+msgstr ""
+
+msgctxt "84840667d8164375e328cccd85e42c6e"
+msgid ""
+"가끔 알고 있던 게 다 진실이 아닐 수 있다는 걸 종종 깨닫곤 합니다. 그래도 모르고 보는 것보다 알고 보는 게 더 좋을지도 몰라요!"
+msgstr ""
+
+msgctxt "70bf85ed7f6ac0d04f6e6e4a393fd9fb"
+msgid "업적 [알고보면 불사신] 획득보상"
+msgstr ""
+
+msgctxt "28d1510cbffc509ab98638b1636a1888"
+msgid "ID=101310"
+msgstr ""
+
+msgctxt "d7b79fdb4929ff1b82aca35cc0e9641f"
+msgid "적을"
+msgstr ""
+
+msgctxt "07eb2551f525828c523a76c6886ddd46"
+msgid "적이라는 것은 아무래도 본인에게 위해를 끼치는 것들을 통칭해서 지칭하는 것이겠죠!"
+msgstr ""
+
+msgctxt "38ea807b9aefe8ac67f32e2b950d07b8"
+msgid "업적 [다 쓸어 버리겠다] 획득보상"
+msgstr ""
+
+msgctxt "13a7f11c4a323d9668533218ccbdab8a"
+msgid "ID=101320"
+msgstr ""
+
+msgctxt "f7c3384dfb0e97932df5cae7612f3648"
+msgid "눈앞의 적을"
+msgstr ""
+
+msgctxt "76301a6fead1e2774261fbee216463ac"
+msgid "적이 눈앞에 있다면 때려 주는 게 제맛 아닐까요? \\n왠지 일반적인 타격도 강해질 것만 같군요!"
+msgstr ""
+
+msgctxt "56a1ca4347bc12ea9f2bde1b9d1888d2"
+msgid "업적 [전부 섬멸해 버리겠다!] 획득보상"
+msgstr ""
+
+msgctxt "5cea747fb4ff193ad7b880fb0a013cbb"
+msgid "ID=101330"
+msgstr ""
+
+msgctxt "ff78979892020e71e134ca87cc3de866"
+msgid "10만대군을"
+msgstr ""
+
+msgctxt "06f3169448288930abf983f1e90445fc"
+msgid "10만 대군이라는 것은 얼마나 많은 인원을 지칭하는 것일까요. 10만을 일일이 세는 것만으로도 질리는데…."
+msgstr ""
+
+msgctxt "eb0662f545ad2eacb86cfe46b6a0b22b"
+msgid "업적 [적 처치 10만 돌파!] 획득보상"
+msgstr ""
+
+msgctxt "9d7cc3a069469d3def8b607a156f6dab"
+msgid "ID=101340"
+msgstr ""
+
+msgctxt "26e40b634c2de42ba222f6a765ee01cc"
+msgid "몬스터의"
+msgstr ""
+
+msgctxt "a7571cfe75860cef73a22dd899be583c"
+msgid ""
+"앞뒤로 고루고루 사용하시라고 좋은 기능 많이 붙여 앞뒤로 모두 제공해 드립니다.\\n당신의 전투가 몬스터화 될 수 있길 바랍니다~"
+msgstr ""
+
+msgctxt "863487ee541a68d8c3bd4027589b5543"
+msgid "업적 [적에겐 내가 몬스터] 획득보상"
+msgstr ""
+
+msgctxt "4ebf31cc35a4e66de2b4b1b26d064c4c"
+msgid "ID=101410"
+msgstr ""
+
+msgctxt "82d95b7bc3f74f539c61201890c4a47a"
+msgid "얻어걸린"
+msgstr ""
+
+msgctxt "c0027a93c2fde523474ab2b3fbe34168"
+msgid "얻어걸렸다는 것은 의도하지 않고 이득을 봤다는 것이겠죠! 제법 운이 좋으시군요!"
+msgstr ""
+
+msgctxt "a851cfd88502653e1265236194460496"
+msgid "업적 [네덕분에 늘어난 전투실력] 획득보상"
+msgstr ""
+
+msgctxt "fbfb1748602e601f2dc83599159dbf91"
+msgid "ID=101420"
+msgstr ""
+
+msgctxt "d21dc68d9b8a787b6e150491dbd01a6c"
+msgid "의도된"
+msgstr ""
+
+msgctxt "947cb665ffe2c831d7f53ca60a049177"
+msgid "저번의 운은 실력으로 기반으로 한 것이었나 봅니다. \\n이번엔 의도해서 이득을 보셨군요!"
+msgstr ""
+
+msgctxt "44e6287c16faad68b4f18399a4bb0df6"
+msgid "업적 [너만 골라 잡은건 아니야] 획득보상"
+msgstr ""
+
+msgctxt "6621d2987a433cadf19c309b07bcdeb8"
+msgid "ID=101430"
+msgstr ""
+
+msgctxt "3ab076eef83716cc1c14adf136fe4bd2"
+msgid "안목 좋은"
+msgstr ""
+
+msgctxt "79aa9bdaabf25ed46decd24a4f4cca33"
+msgid "당신의 안목을 돋보여 주는 칭호로군요! "
+msgstr ""
+
+msgctxt "31720f9871aba33484d6be5b998e2443"
+msgid "업적 [약해보여서 잡는건 아니야] 획득보상"
+msgstr ""
+
+msgctxt "fb12abd2234ec9a40275f810aa28755b"
+msgid "ID=101440"
+msgstr ""
+
+msgctxt "ab76f32314828ead906a2ca5a8795c27"
+msgid "위크니스"
+msgstr ""
+
+msgctxt "a4e98d40d6637908605ab9b1511e4edd"
+msgid "얼핏 보면 휘트니스 같기도 하고, [위크]같기도 하지만 이 [위크니스]는 약자를 뜻하는 것이랍니다."
+msgstr ""
+
+msgctxt "3bd0626bf89ab98b39fa8ccf1b34f4a4"
+msgid "업적 [위크니스 헌터] 획득보상"
+msgstr ""
+
+msgctxt "211046b6baf842d9a3dc8d69e999451e"
+msgid "ID=101510"
+msgstr ""
+
+msgctxt "83b13163d9d81beedcacf2fb684f3983"
+msgid "겁없는"
+msgstr ""
+
+msgctxt "c76ad3da9485b10ded9a44882a4b853c"
+msgid "겁이 없는 사람은 무서운 걸 보아도 겁내지 않겠죠. \\n징그러운 것을 봐도 끔찍한 것을 봐도 겁내지 않을 겁니다! "
+msgstr ""
+
+msgctxt "ebc4d8b166e7a53cc274a80bc27a9461"
+msgid "업적 [무기가 커도 무섭지 않아] 획득보상"
+msgstr ""
+
+msgctxt "95b9be59c497a698c5f2f606cae4a461"
+msgid "ID=101520"
+msgstr ""
+
+msgctxt "4943315263f68edc1cd369dd068012de"
+msgid "용감한"
+msgstr ""
+
+msgctxt "8f4ba5058202a1a07af184aa7f283bce"
+msgid "용감한 당신을 위한 용감한 단어! \\n이걸 끼고 있으면 더 용감해 질 거에요!"
+msgstr ""
+
+msgctxt "c8f7452fcf0c960c11e580c8361bd902"
+msgid "업적 [레벨이 높아도 무섭지 않아] 획득보상"
+msgstr ""
+
+msgctxt "a8543e330c6f9b32c812c2d54c03c76b"
+msgid "ID=101530"
+msgstr ""
+
+msgctxt "6b730aa7fe2582d6d65f90b40a18572d"
+msgid "오만한"
+msgstr ""
+
+msgctxt "bc12b261fa2e5ea4d688c76894ae23be"
+msgid "오만한 이란 단어는 안 좋은 의미이기는 하지만 그 단어가 지닌 고급스러운 느낌이 있는 것 같습니다."
+msgstr ""
+
+msgctxt "c83203a6b54d237e8e8f89a8addc0595"
+msgid "업적 [지나가다만날것 같은게 감히] 획득보상"
+msgstr ""
+
+msgctxt "a765fb321610a64ae36b46d923cd298d"
+msgid "ID=101540"
+msgstr ""
+
+msgctxt "040a0a2128e8534da8967135f47c0f2d"
+msgid "커먼"
+msgstr ""
+
+msgctxt "b0d37b4cb42021ff4bc1960feadb6d89"
+msgid ""
+"커먼은 커몬을 잘못쓴 것이 아닙니다. \\n보통의 평범한이라는 뜻을 지닌 영단어 입니다.\\n이상하게 들려도 보다 보면 익숙해질 거에요!"
+msgstr ""
+
+msgctxt "7dd1cd5cb80cbe9688fd7d68c401bfc7"
+msgid "업적 [커먼 버스터] 획득보상"
+msgstr ""
+
+msgctxt "e20230588bea27ac65244744d983ae84"
+msgid "ID=101610"
+msgstr ""
+
+msgctxt "ed0f09e6eeadb2fbdc14d5a98d0c768e"
+msgid "2% 부족한"
+msgstr ""
+
+msgctxt "5ec0a89cb1cbb12e0492c08f4c24b19f"
+msgid ""
+"2%가 부족하다는 것은 많은 부분이 부족하다는 것을 뜻하는 것일지도 모릅니다.\\n2%를 보완하여 100%가 될때까지 모두 힘내세요~"
+msgstr ""
+
+msgctxt "fb663f16bc9bbfc746f7e63ccafa7cea"
+msgid "업적 [강해보이지만 괜찮아] 획득보상"
+msgstr ""
+
+msgctxt "fd92bc6361fca478408d3370fcea40c9"
+msgid "ID=101620"
+msgstr ""
+
+msgctxt "6de156961ef237b7ae6ca81628ddcc3a"
+msgid "움츠러든"
+msgstr ""
+
+msgctxt "d43b2b7dc840ae5695d1be2845498676"
+msgid ""
+"움츠러들었다는 건 그 전에는 거대했었다는 것이었을까요. 겉은 조그마해지려 했어도 본래의 타고난 것은 \\n줄어들지 않았을 것입니다."
+msgstr ""
+
+msgctxt "5fc7442e99efb0e21494fe446bb77bd5"
+msgid "업적 [네가 3000번째래] 획득보상"
+msgstr ""
+
+msgctxt "f8e290adfcea8c48ccfa935905d0c4d1"
+msgid "ID=101630"
+msgstr ""
+
+msgctxt "11d83d52ec502af98079b9f1b4ff13f3"
+msgid "골라잡는"
+msgstr ""
+
+msgctxt "3b5aaf86cd8bda62022017210854a472"
+msgid "골라서 잡는다는 것은 고를 것들이 존재한다는 것이겠죠. 그 선택이 옳은 결과로 나타나길 바랍니다."
+msgstr ""
+
+msgctxt "26d27c912664c44276d8cac8c632cd99"
+msgid "업적 [이젠 너만 잡는다] 획득보상"
+msgstr ""
+
+msgctxt "88793f6478efacebc224da5482cf6bd0"
+msgid "ID=101640"
+msgstr ""
+
+msgctxt "f73376d46a932b5b39d4117620879e21"
+msgid "스트롱"
+msgstr ""
+
+msgctxt "aa751e497ef98ba9ee04f2b4f0fd0c5a"
+msgid "스트롱~한 당신에게 스트롱한 칭호를 드립니다!"
+msgstr ""
+
+msgctxt "9928090f341e223e16be8fee1b5912b2"
+msgid "업적 [스트롱 체이서] 획득보상"
+msgstr ""
+
+msgctxt "01e25c28f17ea231ef18bd4d1a24242a"
+msgid "ID=101710"
+msgstr ""
+
+msgctxt "0449028561dbcf5d15c0834fca227109"
+msgid "보스 같은"
+msgstr ""
+
+msgctxt "d4035dd7f591ff53bc62afc7163b7159"
+msgid "보스 같다는 것은 보스는 아니라는 것이니까 딱히 어려울 것은 없겠군요!"
+msgstr ""
+
+msgctxt "e151b1b63ce229ef91bcc7aca2b8fa08"
+msgid "업적 [때리는 건 보스같은데…?] 획득보상"
+msgstr ""
+
+msgctxt "e69bf7568c01f571e69af878dfd149ed"
+msgid "ID=101720"
+msgstr ""
+
+msgctxt "47aa3b430fe1051fafae8dee9018ddb8"
+msgid "미들"
+msgstr ""
+
+msgctxt "6b05b39b1942dc504330db314fb39d2d"
+msgid "미들은 중간을 뜻하는 말이죠. 중간이라는 것은 조금 어중되다는 말로 해석될 수도 있습니다."
+msgstr ""
+
+msgctxt "654b291bdc33a7ad90233ceab14f6658"
+msgid "업적 [상대로 부족함이 없다] 획득보상"
+msgstr ""
+
+msgctxt "d1bc0a4fa571aa13b5e3b0539058c2d8"
+msgid "ID=101730"
+msgstr ""
+
+msgctxt "4202f4b246b52a690b7a7912654eaadd"
+msgid "2인자를"
+msgstr ""
+
+msgctxt "eb21e0d283e779b5e0f64984e4e397d1"
+msgid "2인자라는 것은 1인자는 결국 되지 못했다는 말입니다. 하지만 2등도 정말 잘한 거에요!"
+msgstr ""
+
+msgctxt "db85af924414938f71fa080fb2da1dde"
+msgid "업적 [2인자에게 도전하는 자] 획득보상"
+msgstr ""
+
+msgctxt "fc34847ebeda95899315cdbaa8bf80dd"
+msgid "ID=101740"
+msgstr ""
+
+msgctxt "0bb65c98889f2675d36b5713effede9b"
+msgid "미들 보스"
+msgstr ""
+
+msgctxt "d082ac4b305c3872643393b29f8e62f4"
+msgid "미들보스는 보스가 미들만 하다는 게 아니라, 중간 보스를 뜻합니다."
+msgstr ""
+
+msgctxt "abb40445b394381a77b0d96f314dc06c"
+msgid "업적 [미들 보스 킬러] 획득보상"
+msgstr ""
+
+msgctxt "d72332d2fe864d858a625a708f63f52d"
+msgid "ID=101810"
+msgstr ""
+
+msgctxt "269e8d3911ebd96094071e3bd87dc2ca"
+msgid "무의식적"
+msgstr ""
+
+msgctxt "42316fdf7d0d3677a2c480d1bcd4cf77"
+msgid "무의식적으로 좀 더 강한 힘을 내뿜을 수 있을 것만 같은 느낌! 하지만 통제는 안 될 수 있다는 점!"
+msgstr ""
+
+msgctxt "c21f309a39921dc1d6968b885e19fc96"
+msgid "업적 [무의식적으로 잡았을 뿐] 획득보상"
+msgstr ""
+
+msgctxt "82ef8f3d20b5b66c60f6a91a8484606e"
+msgid "ID=101820"
+msgstr ""
+
+msgctxt "017f4f10abc20d1826f51b54fafc1486"
+msgid "왕좌를"
+msgstr ""
+
+msgctxt "567328b78c2c6ea5ab6f8d09c4bf4987"
+msgid "왕좌라는 것은 오르기도 힘들지만, 온전히 내려오는 것도 힘들다고 합니다."
+msgstr ""
+
+msgctxt "1e4c4e6a770cfe827b1d8c2d1c7b7cad"
+msgid "업적 [골라서 잡고 있을 뿐] 획득보상"
+msgstr ""
+
+msgctxt "fd0080241de6292f654c7e1babfab8c7"
+msgid "ID=101830"
+msgstr ""
+
+msgctxt "280f8ed58418173d89cc9c1477f0164b"
+msgid "보스"
+msgstr ""
+
+msgctxt "e46cfd472f81fbdcddbd65efbc0e61f7"
+msgid "보스는 뭐랄까, 단어 자체만으로도 엄숙한 느낌을 줍니다."
+msgstr ""
+
+msgctxt "e4bc35204444c9b4098ca7a7cdb1010f"
+msgid "업적 [보스 버스터] 획득보상"
+msgstr ""
+
+msgctxt "f0d67867455c17ef9c9851f3ec5a866b"
+msgid "ID=101840"
+msgstr ""
+
+msgctxt "b7601eb8f214f47bbb586bab523aa093"
+msgid "킹"
+msgstr ""
+
+msgctxt "b5d19a1d043d6a1d1aa3bc905772e6ae"
+msgid "보스를 꺾은 당신에게 보스의 자리를 물려 주기 위하여, 킹을 선사합니다."
+msgstr ""
+
+msgctxt "da1c638ba131142b2151a3a575fd7cda"
+msgid "업적 [보스 슬레이어] 획득보상"
+msgstr ""
+
+msgctxt "4bcda472d4983e0a4fd5e99b1edbd45e"
+msgid "ID=101910"
+msgstr ""
+
+msgctxt "e0e0e26b93347780b6e644935ef0c795"
+msgid "호기로운"
+msgstr ""
+
+msgctxt "0c950c733d2faad3755507a6acda96b9"
+msgid "호기롭다는 건 씩씩하고 호방한 느낌을 가지고 있다는 것입니다. 당신의 호기로움이 적들에게 큰 위협이 될 수 있길 바랍니다!"
+msgstr ""
+
+msgctxt "237831f0cfbaeef3088b7e9afb2bd855"
+msgid "업적 [100명의 적장을 잡았다!] 획득보상"
+msgstr ""
+
+msgctxt "43ffcc15baf8de87d0217b172adfaacf"
+msgid "ID=101920"
+msgstr ""
+
+msgctxt "d1df6b90ccc8a8a93d7c65f3a94837f6"
+msgid "개선"
+msgstr ""
+
+msgctxt "a1bd593287d2ca2ccfd8ecdd25126428"
+msgid "여기에서 개선은 나쁜것을 개선한다는 것이 아니라 전쟁이나 경기에 이기고 돌아오는 것을 뜻합니다~"
+msgstr ""
+
+msgctxt "c1f2ad0c912a4fb084baa0d634a4b5e6"
+msgid "업적 [200명의 적장을 처치했다!] 획득보상"
+msgstr ""
+
+msgctxt "259a573a363375fa7b51ac342a6d96ab"
+msgid "ID=101930"
+msgstr ""
+
+msgctxt "d4598ab0c4fbeb53b64daba10a0410d5"
+msgid "협동의"
+msgstr ""
+
+msgctxt "795b0cb1aff59a9c5e1d433d58348c9b"
+msgid "혼자서 하는 것보다 함께하는 것이 더 큰 일을 이뤄 낼 수 있게 합니다."
+msgstr ""
+
+msgctxt "5b1d41e7a4588b01ef52e889516058f5"
+msgid "업적 [500명의 적장을 베고 베어] 획득보상"
+msgstr ""
+
+msgctxt "6b1376aaa61c99aebbbe4fbfbbc5c875"
+msgid "ID=101940"
+msgstr ""
+
+msgctxt "e05f03f3570f7bb18c5c816555c261ed"
+msgid "레이드"
+msgstr ""
+
+msgctxt "08cc21ad3f9387e3c9ab09525243dcf2"
+msgid "레이드 마스터인 당신에게 레이드의 이름을 선사합니다."
+msgstr ""
+
+msgctxt "da12239679ca9dd8d12e6daceca1f17a"
+msgid "업적 [레이드 마스터] 획득보상"
+msgstr ""
+
+msgctxt "a84e66172e92f75f49963c9df77c8962"
+msgid "ID=102010"
+msgstr ""
+
+msgctxt "f21c9d048a2186fece0d1d6fe7aca8ba"
+msgid "호러 인형"
+msgstr ""
+
+msgctxt "7e6e0faee1d65899029386ed62ff9dce"
+msgid "호러인형은 여러의미로 좋지 않습니다.\\n멀쩡한 인형들이 전부 호러로 보이기 시작하니까요~"
+msgstr ""
+
+msgctxt "3cd56463e7b9d3dee6b27dd9d3e1fefb"
+msgid "업적 [제발 웃지만 말아다오] 획득보상"
+msgstr ""
+
+msgctxt "15534c0f97745af49f422bb050709eb0"
+msgid "ID=102020"
+msgstr ""
+
+msgctxt "886e73c49b2ad08c3ad39a535ec644c0"
+msgid "풍선을"
+msgstr ""
+
+msgctxt "7ba22022fd596ee04bf592f3889abe7d"
+msgid "하늘에 둥둥 떠다니는 풍선을 잡아채어 날아가고 싶네요~"
+msgstr ""
+
+msgctxt "8fbdcfb148225fe624a98c7dbcdfa9a1"
+msgid "업적 [풍선에 숨어있지 말아다오] 획득보상"
+msgstr ""
+
+msgctxt "c021c5fa261bc207aec0a6e8c64f6d2b"
+msgid "ID=102030"
+msgstr ""
+
+msgctxt "bc8643a8a0c4621cc426ba50f00e426d"
+msgid "문뒤의"
+msgstr ""
+
+msgctxt "adfaf4538a775605d771fd7eeff464c9"
+msgid "문뒤의 라는 말만 있을 뿐인데 왠지 모를 불안감이 뇌리를 스치는 건 왜인지 모르겠습니다."
+msgstr ""
+
+msgctxt "50cc890a40b66700424de7ec8a4f13b6"
+msgid "업적 [문뒤에 숨어있지 말아다오] 획득보상"
+msgstr ""
+
+msgctxt "1fb31083caa83bd581f4d39be206ef83"
+msgid "ID=102040"
+msgstr ""
+
+msgctxt "72f3c8f5cf385520ffe9dca57810cae9"
+msgid "돌"
+msgstr ""
+
+msgctxt "8d19c0a14cdf3c990cbf47f999813ba9"
+msgid "여기에서 돌은 길가의 돌이 아니라 인형을 뜻하는 것이니 정말정말 주의 부탁드립니다~"
+msgstr ""
+
+msgctxt "e562f871a85f99fa6647c1617eeaf960"
+msgid "업적 [인형의 구조를 이해하다] 획득보상"
+msgstr ""
+
+msgctxt "c622f66afb24398652d7da58fdae0ea7"
+msgid "ID=102110"
+msgstr ""
+
+msgctxt "b6aafb48dc184395f4c07bc1432d8b20"
+msgid "머스트 헤브"
+msgstr ""
+
+msgctxt "fe7e2ced3ea93106fb284bc29ae07b9b"
+msgid "이걸 달고 있으면 왠지 내가 머스트 헤브가 될 수 있을 것만 같은 느낌?!"
+msgstr ""
+
+msgctxt "61081ea0fdbe9ce38237efe111d3d99c"
+msgid "업적 [좀 씻겨 드릴까요?] 획득보상"
+msgstr ""
+
+msgctxt "5663101475514261ac3e7a6a894d3b6d"
+msgid "ID=102120"
+msgstr ""
+
+msgctxt "95b3f008092d4c98de3936ef9dfddaf7"
+msgid "더럽혀진"
+msgstr ""
+
+msgctxt "540b7d5d90553234d5ab911ad803530d"
+msgid "더럽혀져 있다는 것은 언젠가 깨끗하게 만들 수 있다는 것일까요…. "
+msgstr ""
+
+msgctxt "f4cbcc4a645307968b0d5949bb03191e"
+msgid "업적 [촉각도 마비되었다] 획득보상"
+msgstr ""
+
+msgctxt "55d1532272473db8dc2f752569f2253d"
+msgid "ID=102130"
+msgstr ""
+
+msgctxt "47d7822b9596bddbdfb3a4ef0555d2d5"
+msgid "하수구"
+msgstr ""
+
+msgctxt "e77e152435f13cf7a274067852311212"
+msgid "여름이 되면 하수구에서 온갖 썩은 내가 올라오기 시작합니다. 정크 풀의 냄새가 아마도 이러하겠죠?"
+msgstr ""
+
+msgctxt "d4620271fc75fe3ac443dbdb217ecded"
+msgid "업적 [이젠 하수구가 내집 같다] 획득보상"
+msgstr ""
+
+msgctxt "fa3031c18bcc4318642132b72b666001"
+msgid "ID=102140"
+msgstr ""
+
+msgctxt "61637923c83e4b7628253e1de4a3f665"
+msgid "정크"
+msgstr ""
+
+msgctxt "3e3974ce525c0fa147f5ba2ae6c0281a"
+msgid "정크를 달고 있으면 무뎌진 감각을 좀 더 무뎌지게 만드는 것 같습니다."
+msgstr ""
+
+msgctxt "f4eb5088f6d47c9bc22576952cef0c3f"
+msgid "업적 [정크 클리너] 획득보상"
+msgstr ""
+
+msgctxt "b8b708812bc627f3612be2017f21c79c"
+msgid "ID=102210"
+msgstr ""
+
+msgctxt "9e9ada97c2f7fb776e7d1c8357b469cf"
+msgid "일그러진"
+msgstr ""
+
+msgctxt "44058a37616f299670842fe64c37b26a"
+msgid "일그러져 있다는 것은 비뚤어진다는 것을 말하는 것일지도 모릅니다."
+msgstr ""
+
+msgctxt "79a8d49735225d3e78902d1f66009136"
+msgid "업적 [배신자를 어여삐 여기지 마라] 획득보상"
+msgstr ""
+
+msgctxt "3bc1c9ef3fabad629a6f9f451707b37e"
+msgid "ID=102220"
+msgstr ""
+
+msgctxt "c6682f93804801fdb04eaf57b30876e1"
+msgid "자비없는"
+msgstr ""
+
+msgctxt "68fd8150176c0c25f42295baca49e19f"
+msgid "배신자에게는 자비 따윈 없는 겁니다. \\n방심했다가 다시 배신당할 수 있으니까요."
+msgstr ""
+
+msgctxt "6025b93996f129b376960ac7d61134c1"
+msgid "업적 [배신자에게 복수를 말하지 마라] 획득보상"
+msgstr ""
+
+msgctxt "fc45183b88257d159c5d1c2632903b59"
+msgid "ID=102230"
+msgstr ""
+
+msgctxt "87e09984fe5bdf86c71dd937bc3768aa"
+msgid "분노에 휩싸인"
+msgstr ""
+
+msgctxt "ea18699642cd8a6ec82e122971b830e7"
+msgid ""
+"분노에 휩싸이면 이성이 모두 사라지고 분노로 가득차 혼란스러워 지겠지요. 나 자신을 잃어버리지 않도록 모쪼록 주의하시길 바랍니다."
+msgstr ""
+
+msgctxt "8697b58f6ab528b0f59370cc53446614"
+msgid "업적 [분노에 사로잡힌 복수자] 획득보상"
+msgstr ""
+
+msgctxt "42ad35439ed7edd0703111b5ee69edbc"
+msgid "ID=102240"
+msgstr ""
+
+msgctxt "2c710aff58c2868d986ef5f7deff4cd1"
+msgid "네드"
+msgstr ""
+
+msgctxt "552c9d0484035175e6e6e539e4da3b4a"
+msgid "네드 컴퍼니를 줄여 말하는 네드는 잘 못 보면 너드 같기도 합니다."
+msgstr ""
+
+msgctxt "a88b759b84612147821a39590f103a1f"
+msgid "업적 [이상적 복수를 말하는 자] 획득보상"
+msgstr ""
+
+msgctxt "ffbffc05ee79678006e897954cdf9b7c"
+msgid "ID=102310"
+msgstr ""
+
+msgctxt "387e8bdddd28077d8b8cbf5351a7f0d2"
+msgid "어설픈"
+msgstr ""
+
+msgctxt "e10ff9ae4e6b737deafa3918e58d8352"
+msgid "어설프다는 것은 완벽하지 못하다는 것. \\n완벽해질 수 있도록 우리 모두 노력합시다!"
+msgstr ""
+
+msgctxt "a88976a90596e96421ac48d5939c0ffa"
+msgid "업적 [다이어트 욕구 유발자] 획득보상"
+msgstr ""
+
+msgctxt "d9b933f19d6d3ead61882790bb2d89dc"
+msgid "ID=102320"
+msgstr ""
+
+msgctxt "2e999f2e550cf82b4df87c094473fd5b"
+msgid "다이어트를"
+msgstr ""
+
+msgctxt "81d1382f26b9450f4b12537a1c8c51a9"
+msgid "세상에서 가장 흔하게 하는 거짓말은 \\n[내일부터 다이어트다!]가 아닐까 싶습니다."
+msgstr ""
+
+msgctxt "4cae680b7590e9756a76c84b3abc0ee8"
+msgid "업적 [왠지 체력이 늘어난 것 같아] 획득보상"
+msgstr ""
+
+msgctxt "d0e34bb9c4ea65dd6cc869258958bc66"
+msgid "ID=102330"
+msgstr ""
+
+msgctxt "ccdbf5122378584491ebf6390c385ff6"
+msgid "헬스"
+msgstr ""
+
+msgctxt "e6cdffc6f1138bdcad064dabd6afe38e"
+msgid "헬스를 통하여 건강한 다이어트를…! 하면 좋겠지만, 일반 다이어트보다 난이도가 높다는 게 함정."
+msgstr ""
+
+msgctxt "f253d57c3396f75093009b1572538bfc"
+msgid "업적 [왠지 몸매가 좋아진 것 같아] 획득보상"
+msgstr ""
+
+msgctxt "b6dc0ac6d62e539c81244e551b3e3d60"
+msgid "ID=102340"
+msgstr ""
+
+msgctxt "bcf4c47bc988479be0849b66b8872056"
+msgid "플레임"
+msgstr ""
+
+msgctxt "27883e30dd80eaff154cc579bc57a167"
+msgid "플레임이 가진 불꽃은 쉽게 꺼지지 않는 거대한 불길을 머금고 있는 것 같습니다."
+msgstr ""
+
+msgctxt "87c4e50f53802acfda4ff376a6ffc3cc"
+msgid "업적 [근육박명] 획득보상"
+msgstr ""
+
+msgctxt "cc4f9f7e0195fc83fb35255d379613ff"
+msgid "ID=102410"
+msgstr ""
+
+msgctxt "5dcb6bd19bd460ed53232429df1ac942"
+msgid "의식적"
+msgstr ""
+
+msgctxt "b209553e212f025ef7374333eeb97903"
+msgid "의도하여 행한 파괴는 무의식적 파괴보다 그 힘이 적을진 모르지만, 정신이 깨어있다는 점에서 더 위협적입니다."
+msgstr ""
+
+msgctxt "70aa9c04726a301b2a437d19c80f709a"
+msgid "업적 [의식적 파괴를 시작하다] 획득보상"
+msgstr ""
+
+msgctxt "6d36236dddfe1eabef60e90f1cc012da"
+msgid "ID=102420"
+msgstr ""
+
+msgctxt "93ef290aa24669a386f697261201daa1"
+msgid "아이언"
+msgstr ""
+
+msgctxt "0d852f86fbff4946dbeda6e036269dfa"
+msgid "왠지 모르게 어딘가의 히어로가 생각나는 단어입니다."
+msgstr ""
+
+msgctxt "0c9a4699cbedc265f6e8b7791b6d1d53"
+msgid "업적 [파괴하는 재미에 들리다] 획득보상"
+msgstr ""
+
+msgctxt "2e44a4ab0e378a9b9e87491299b7e8cf"
+msgid "ID=102430"
+msgstr ""
+
+msgctxt "482b2cf789f088a212c09d87fb8c035a"
+msgid "프라모델도"
+msgstr ""
+
+msgctxt "c0943e91fc32dc63545d38ceb47e8142"
+msgid "프라모델은 소중합니다. \\n메카 매니아의 아이덴티티이기 때문이죠."
+msgstr ""
+
+msgctxt "8294d07d15c51f86b010d7ee48bae237"
+msgid "업적 [로봇은 부수는게 제맛이지!] 획득보상"
+msgstr ""
+
+msgctxt "42aaccd8466606044f0b94b4c0e07148"
+msgid "ID=102440"
+msgstr ""
+
+msgctxt "60909f3b178c770ef8fdc2b4a4c85630"
+msgid "로봇"
+msgstr ""
+
+msgctxt "1f265bd243a455514353eb617271b6d1"
+msgid "세상의 문명이 발달할수록 과학은 끝도 없이 성장해 나갑니다. \\n그에 대표적인 상징물이 바로 로봇이겠죠!"
+msgstr ""
+
+msgctxt "50c3829d44a9ec933e2afc8cd3af6533"
+msgid "업적 [로봇의 구조를 이해하다] 획득보상"
+msgstr ""
+
+msgctxt "00143f21be841fd29a2bac8216daded7"
+msgid "ID=102510"
+msgstr ""
+
+msgctxt "616301f0b6ccb33f215d42c596c3f943"
+msgid "자주보고"
+msgstr ""
+
+msgctxt "bb78ff83ab4ac66a9d58f53aedacde0a"
+msgid "자주자주 보면 얼굴이 익숙해지니까~ \\n정이 들지도 몰라요~"
+msgstr ""
+
+msgctxt "4c21fece83a5da9a1f6e9a617f4ef416"
+msgid "업적 [100번째 결투를 신청했다] 획득보상"
+msgstr ""
+
+msgctxt "82b8cbe4c8d3da09939e050356e12e3c"
+msgid "ID=102520"
+msgstr ""
+
+msgctxt "e55836c81e49b52972bb92c61e3b5a77"
+msgid "살벌한"
+msgstr ""
+
+msgctxt "979e0e69d6b9eb5b926599e5bceab7d3"
+msgid "살벌해지면 왠지 얼굴이 굳을 것만 같고, \\n인상이 날카로워 걸리면 베어버릴 것만 같은 느낌!"
+msgstr ""
+
+msgctxt "86d9e37ce29c60bf9d38d8b60efbd6c1"
+msgid "업적 [200번이나 만났다] 획득보상"
+msgstr ""
+
+msgctxt "7639e45e55dd3e95f05297ecff30a4e1"
+msgid "ID=102530"
+msgstr ""
+
+msgctxt "9b0696736d27aaedba99e06c86690202"
+msgid "달콤살벌"
+msgstr ""
+
+msgctxt "4a641dccdeaf90fd66a82f10fef2b665"
+msgid "살벌에 달콤함을 끼얹져 [살벌함] 특유의 느낌을 누그러뜨린 것 같습니다."
+msgstr ""
+
+msgctxt "557ae0b5c9390dbde6ec8ef58c74317b"
+msgid "업적 [500번 싸운 그대] 획득보상"
+msgstr ""
+
+msgctxt "e114ba0feb5f2974c77061908a359d84"
+msgid "ID=102540"
+msgstr ""
+
+msgctxt "a810a2f04eb0aeffee04e6721ae72619"
+msgid "니어"
+msgstr ""
+
+msgctxt "038402c9306014864577c4223d18ef50"
+msgid "니어는 가까운 느낌을 주는 것인데, 이렇게 많이 싸우면 가깝던 사람들도 멀어질 것만 같은 느낌!"
+msgstr ""
+
+msgctxt "f0db4f45aef8f4c2bd890ca011da8820"
+msgid "업적 [1000번이나 너를 베었다] 획득보상"
+msgstr ""
+
+msgctxt "6871b527e666ba87b4084485c6d5409f"
+msgid "ID=102610"
+msgstr ""
+
+msgctxt "775993a488f8e765e5dce940b816e2b2"
+msgid "부수는게"
+msgstr ""
+
+msgctxt "950005bcb941b87204f12215c87b5e9e"
+msgid "부수는 건 스트레스를 해소하는 데 탁월하게 작용하기도 합니다."
+msgstr ""
+
+msgctxt "37fd8c8911923f1299e5c56f474d4af6"
+msgid "업적 [부수는게 좋아] 획득보상"
+msgstr ""
+
+msgctxt "625d7bb6c91d4b60b84d70b1bc5f90fd"
+msgid "ID=102620"
+msgstr ""
+
+msgctxt "b6ba4ad9fd899cab0e272c85aa41d55b"
+msgid "방패를"
+msgstr ""
+
+msgctxt "0f332a8de6089e5684df4a10214544a8"
+msgid "방패로 막는 것을 볼 때면 왠지 모를 파괴의 충동이 들곤 합니다."
+msgstr ""
+
+msgctxt "17e640356e096e10e349da25a88eb4c1"
+msgid "업적 [부수는게 정말 정말 좋아] 획득보상"
+msgstr ""
+
+msgctxt "296f715e32648a673246fabf574c6f3c"
+msgid "ID=102630"
+msgstr ""
+
+msgctxt "77822a5761fb97d4247b7636165de3da"
+msgid "금강불괴"
+msgstr ""
+
+msgctxt "f9785c86e8af1891578f123484a19fb1"
+msgid "금강불괴를 하고 있으면 나도 같이 금강이 되어가는 것 같다."
+msgstr ""
+
+msgctxt "7ca633e136ce46c1762ca31b155a1590"
+msgid "업적 [금강불괴도 부숴주지] 획득보상"
+msgstr ""
+
+msgctxt "c6bf851fa37cbe7dd5e212f9d4b1aeb6"
+msgid "ID=102640"
+msgstr ""
+
+msgctxt "6ba82e853092dced3a661ace122e9ae8"
+msgid "아머"
+msgstr ""
+
+msgctxt "e44c85d305d602dcece863a70e01fd3b"
+msgid "아머를 차고 있으면 맞아도 안 아플 것 같지만, 아픔이 덜어지긴 해도 사라지지 않는다는 사실!"
+msgstr ""
+
+msgctxt "7923b29f696b0da73863e4ba1fb26533"
+msgid "업적 [아머 브레이커] 획득보상"
+msgstr ""
+
+msgctxt "3cdae58cf7601ad4273c599a69225a89"
+msgid "ID=102710"
+msgstr ""
+
+msgctxt "ca006e5bcf1dcae8df9ec37407d9656b"
+msgid "팔 아파도"
+msgstr ""
+
+msgctxt "fe878601aff9403582d4069852b85090"
+msgid "콤보를 한다는 것은 고도의 인내심을 요하는 것입니다. 팔과 손가락의 아픔은 자연스레 따라오는 것들이지요."
+msgstr ""
+
+msgctxt "795c6d5acc0eb858d931a59243d0cd5f"
+msgid "업적 [333Hit! 요령을 깨우쳤군요!] 획득보상"
+msgstr ""
+
+msgctxt "38cf83429cc85216554c18a3c34cd75d"
+msgid "ID=102720"
+msgstr ""
+
+msgctxt "1822e369de84e507c26d4b6236f741dc"
+msgid "판타스틱"
+msgstr ""
+
+msgctxt "407299fcbbb88a2f615563771594fd44"
+msgid "판타스틱을 끼고 있으면 판타스틱이 가득가득 일어날지도?!"
+msgstr ""
+
+msgctxt "d1cb8950d0fadc8911f067bbc36d3d01"
+msgid "업적 [555Hit! Oh! Fantastic!] 획득보상"
+msgstr ""
+
+msgctxt "68c30b328d01f909f5bc0a036bc5dc28"
+msgid "ID=102730"
+msgstr ""
+
+msgctxt "991e7f233ea2fc4a3a7e96b5bb4eeecd"
+msgid "럭키"
+msgstr ""
+
+msgctxt "92d2b2f86a3849091a22cffb487f4366"
+msgid "럭키~! 운 좋은 일들이 가득하기를!"
+msgstr ""
+
+msgctxt "775ee643a4139b9773e3a2769fe78787"
+msgid "업적 [777Hit! Lucky for you!] 획득보상"
+msgstr ""
+
+msgctxt "ffb0b9e9828a319c31108e7d03f157d4"
+msgid "ID=102740"
+msgstr ""
+
+msgctxt "fae546462a1958c3ab73ae67497880d2"
+msgid "전설의"
+msgstr ""
+
+msgctxt "c198852e45b6fb030d40916f590ea0b0"
+msgid "전설의 레전드~! 그 이름하고도 유명한! \\n전설의 콤보왕 입니다."
+msgstr ""
+
+msgctxt "dc58504eef5ca60a12ff7829324d9bff"
+msgid "업적 [999Hit! 전설의 콤보 999!] 획득보상"
+msgstr ""
+
+msgctxt "c78f71fa95c6bb2aa759680834b51879"
+msgid "ID=102810"
+msgstr ""
+
+msgctxt "1a0d39222f9463472fb123a5154707f8"
+msgid "마음착한"
+msgstr ""
+
+msgctxt "36a75ba2701192334cb4ed926bd5e99c"
+msgid "착한 사람들은 좋은 사람들입니다. \\n하지만 쉽게 이용당할 수 있으니 조심하세요~"
+msgstr ""
+
+msgctxt "285a61acd51ddd5df9ae0b1e8634ea89"
+msgid "업적 […호구로 보이는 건 아니겠지] 획득보상"
+msgstr ""
+
+msgctxt "e78a470f1d3842a13c6ffa0830320191"
+msgid "ID=102820"
+msgstr ""
+
+msgctxt "c9c632e8b55caf56de050e9004049262"
+msgid "파란 물음표의"
+msgstr ""
+
+msgctxt "506d71f9246451ea69b41b7c896b42bb"
+msgid "파란색 물음표를 보면 왠지 모를 뿌듯함이 드는건 왜인지 모르겠습니다."
+msgstr ""
+
+msgctxt "89fba0af3abb31ad65d40869cbe54458"
+msgid "업적 [파란 느낌표로 부르지 말아줘요] 획득보상"
+msgstr ""
+
+msgctxt "f2e20a3fc73afceda67f0dce7aa7f844"
+msgid "ID=102830"
+msgstr ""
+
+msgctxt "894929166fb8d52d01d169979b77e089"
+msgid "전생의"
+msgstr ""
+
+msgctxt "4921e425a5ebae5301b5c6f4f9bb376c"
+msgid "전생을 믿으십니까? 환생은 믿고 계시나요? \\n도를 믿으라고까지는 안 하겠습니다~"
+msgstr ""
+
+msgctxt "ecac1aa667598c195c5a6fba59be0eb7"
+msgid "업적 [모두가 의뢰인으로 보여] 획득보상"
+msgstr ""
+
+msgctxt "014f808fc3ddfd66b196915ccddf6a27"
+msgid "ID=102840"
+msgstr ""
+
+msgctxt "d86dc3f4e57761aaf1ea46796b81784e"
+msgid "1000th"
+msgstr ""
+
+msgctxt "9d5f873b7ef034d3663f73e72e17190d"
+msgid ""
+"1000이라는 숫자는 정말 뿌듯하고 기분좋게 다가오는 숫자인 것 같습니다.\\n1000의 발음이 하늘 천과 같아서 그러는 것일까요?"
+msgstr ""
+
+msgctxt "fd6204311cdf11ae9b04ad709996b4ea"
+msgid "업적 [당신이 이룬 1000개의 소원] 획득보상"
+msgstr ""
+
+msgctxt "e92775ba331f8d4928345ae41b292c8c"
+msgid "ID=102910"
+msgstr ""
+
+msgctxt "6b46c894767fca3a42cf858a9d7e67df"
+msgid "미로를"
+msgstr ""
+
+msgctxt "71d93dde0b0208ac75d0e8bef564d2b0"
+msgid "미로라는 건 헤매는 것이 매력인 곳입니다! \\n여기가 거기 같고 거기가 여기 같은 미지의 세계~"
+msgstr ""
+
+msgctxt "ad31362bccc00ab4dd44d0597f0a5ef0"
+msgid "업적 [200번, 메이즈를 걸어가다] 획득보상"
+msgstr ""
+
+msgctxt "4c09efbc43bbf38bb2c97549a8f112f6"
+msgid "ID=102920"
+msgstr ""
+
+msgctxt "9b91a892b2ff3ceab503b0470231d617"
+msgid "미로 속의"
+msgstr ""
+
+msgctxt "7dc0cfff03924b9d281fd01f743fe7cc"
+msgid "미로 속에 오래 있으면 스트레스를 심하게 받을 수 있으니 주의하세요!"
+msgstr ""
+
+msgctxt "769381f58b6484456d735cee4fc4f326"
+msgid "업적 [1500번째, 메이즈를 완주하다] 획득보상"
+msgstr ""
+
+msgctxt "2b391903b69844f8489c32c4c1f6768b"
+msgid "ID=102930"
+msgstr ""
+
+msgctxt "f8dfa4fc9af2c38a9479a3a6d6809ea2"
+msgid "메이즈"
+msgstr ""
+
+msgctxt "2e72333ad1ce38c3e88f7ca535aa471d"
+msgid "메이즈는 메이즈라서 매력이 있죠. 미로랑 메이즈는 같은 뜻인데 조금 다르게 느껴지곤 합니다."
+msgstr ""
+
+msgctxt "ebef076e5f31354cef5848a40ee3d984"
+msgid "업적 [메이즈 탐험가] 획득보상"
+msgstr ""
+
+msgctxt "69fd14aa87ad6861b265e4161db73fac"
+msgid "ID=103010"
+msgstr ""
+
+msgctxt "aa1b3c1fa6325f30e529f01d29709f1f"
+msgid "빛속을"
+msgstr ""
+
+msgctxt "224b714b42950cd21bdc5af1a0d22056"
+msgid "빛 속에 있으면 어떤 기분이 들까요! \\n빛을 몸에 두르고 있는 느낌? \\n아니면 그냥 조명 밑에 있는 느낌만 들까요?"
+msgstr ""
+
+msgctxt "c090ce89acafad0de7bd17e0ce7a332e"
+msgid "업적 [3분요리 좋아하시나요?] 획득보상"
+msgstr ""
+
+msgctxt "ec6b44abd2ae9c0ec93585bd2272bb33"
+msgid "ID=103020"
+msgstr ""
+
+msgctxt "4b2c2e10f8260e4515aa5d4257ca9a7f"
+msgid "광속이라는 건 지구의 적도원주를 1/7초 미만에 돌 수 있는 속도라고 합니다~"
+msgstr ""
+
+msgctxt "157c81316dc62d39aa0b2f07fe2c8b4e"
+msgid "업적 [달리기를 잘하시네요] 획득보상"
+msgstr ""
+
+msgctxt "34e3f5ab415bf2880eb181c68a57e1a4"
+msgid "ID=103030"
+msgstr ""
+
+msgctxt "311ee2fb220b451d0b87b8756b40b5e4"
+msgid "축지법"
+msgstr ""
+
+msgctxt "1eebd24940c5322615daeddd51e81798"
+msgid ""
+"축지법은 다른 사람이 10보에 갈 거리를 \\n2~3보에 가는 것을 뜻한다고 합니다. \\n음… 다리가 길어야 할 수 있는건 아니겠죠…."
+msgstr ""
+
+msgctxt "f7acb91df2058cdd2e9059b70ba39687"
+msgid "업적 [축지법을 배우신건….] 획득보상"
+msgstr ""
+
+msgctxt "4a376830a22ed643bd5097be98d45bd6"
+msgid "ID=103040"
+msgstr ""
+
+msgctxt "2cdb38a891379ecd80bea4e2ed125e9c"
+msgid "스피드"
+msgstr ""
+
+msgctxt "ab2f2224b7ecb7a878de24504ccefafc"
+msgid ""
+"스피드는 속도를 뜻하면서도 빠른 속도를 의미하기도 하죠! 빠른 속도를 지칭할때 스피드를 사용하는게 더 잘 어울리는 거 같습니다."
+msgstr ""
+
+msgctxt "3dda2c783ed3103f8bbdca40f8133e34"
+msgid "업적 [You are Speed Racer~!] 획득보상"
+msgstr ""
+
+msgctxt "5a39348c94857749a1ccbc724596b3f2"
+msgid "ID=103110"
+msgstr ""
+
+msgctxt "c5382542587491e99039a85d824f1160"
+msgid "앨리트"
+msgstr ""
+
+msgctxt "159408828684e054347fb497f99620c4"
+msgid "앨리트가 아니어도 이 칭호를 달고 있으면 앨리트가 될 것만 같은 느낌!"
+msgstr ""
+
+msgctxt "914ddb2c2fe62b810d07d08868c6a93e"
+msgid "업적 [정말~ 정말! 잘했어요!] 획득보상"
+msgstr ""
+
+msgctxt "1265dee9551797457a742a6a402e0e3c"
+msgid "ID=103120"
+msgstr ""
+
+msgctxt "05fe4bbb33d3db4826229a69d8921e5d"
+msgid "영광스런"
+msgstr ""
+
+msgctxt "56b8a515397fecb964cf56be61706f0e"
+msgid "당신의 컨트롤 실력을 칭하고자 영광스런 이라는 단어를 사용합니다.\\n당신의 컨트롤에 영광이 있기를!"
+msgstr ""
+
+msgctxt "7d45acf0f4e27f6528f7ebdfadea67c1"
+msgid "업적 [탁월한 게임센스!] 획득보상"
+msgstr ""
+
+msgctxt "5c5eadc6a258b52318166b5abbe28891"
+msgid "ID=103130"
+msgstr ""
+
+msgctxt "312c6343e3a41eedf88717a518d02196"
+msgid "퍼스트"
+msgstr ""
+
+msgctxt "1ee7738a725e173d9c0fcc6b8f8dc1ce"
+msgid "퍼스트라는 것은 첫번째를 뜻하죠. 하지만 이 칭호는 SS등급을 500번 달성해야 받을 수 있습니다."
+msgstr ""
+
+msgctxt "93cc63fa0a13b569980c62d4575f877e"
+msgid "업적 [500번째! SS!] 획득보상"
+msgstr ""
+
+msgctxt "2526bc49259d759cdd9f93b16cb71544"
+msgid "ID=103140"
+msgstr ""
+
+msgctxt "b2806c20b79865448e54df67e72b8bae"
+msgid "신의"
+msgstr ""
+
+msgctxt "1a708eda2d82ae487d02e365bb274dc3"
+msgid "당신의 컨트롤은 이제 신의 경지에 달하였군요! \\n왕도 아니고 신이라니! 멋집니다!"
+msgstr ""
+
+msgctxt "5b08e6b61e9989a1a8c181dd28f22d24"
+msgid "업적 [컨트롤이 신의 경지에 달하다] 획득보상"
+msgstr ""
+
+msgctxt "b2e77b4a6a60f6a4741fa97188312daa"
+msgid "ID=103210"
+msgstr ""
+
+msgctxt "9d1177b8af64038429be77e2edc01f59"
+msgid "쌍권총을"
+msgstr ""
+
+msgctxt "5a32b7a5dd0e1e1b43f70505a15e86c3"
+msgid "흔히 F가 두 개면 쌍권총이라 하지요. \\nF를 많이 소유하고 계신 당신께 쌍권총을 선물합니다~"
+msgstr ""
+
+msgctxt "3f8bf5e4150aca47b94f10f3e17afc89"
+msgid "업적 [무기를 바꿔보는건?] 획득보상"
+msgstr ""
+
+msgctxt "f0ef9f68860f4d0d06d7302a98be14f6"
+msgid "ID=103220"
+msgstr ""
+
+msgctxt "646a473ca45638e1f8c0a3879d4a05e1"
+msgid "절대 의지를"
+msgstr ""
+
+msgctxt "5e85c040531990a3d81718783de65822"
+msgid "그냥 의지도 아니고 절대 의지를 갖춘 당신이라면 흔들리지 않고 F를 맞는 뚝심을 이어나갈 수 있을 겁니다."
+msgstr ""
+
+msgctxt "c7d0bfc456739af2d0e045684d79eff8"
+msgid "업적 [강화나 제작을 해보시는 건?] 획득보상"
+msgstr ""
+
+msgctxt "cfbdf8f9eec6a0b626741bf81e69a7ba"
+msgid "ID=103230"
+msgstr ""
+
+msgctxt "43bb861fe3b1b4332647188bb81253a3"
+msgid "무언가 이상한"
+msgstr ""
+
+msgctxt "88916bd53e54d7c0fed406fc90670374"
+msgid "남들은 SS를 노릴 때 당당히 F를 노리는 당신! \\n무언가 이상해 보일 수 있지만 괜찮아요~"
+msgstr ""
+
+msgctxt "3ded2b5f26c7ce277bb69bb3f78e4f1a"
+msgid "업적 [이것도 명예이겠죠?] 획득보상"
+msgstr ""
+
+msgctxt "c1577b3d8cb9b9f3adad0513dfd7dbdb"
+msgid "ID=103240"
+msgstr ""
+
+msgctxt "f209a598e632e4e73a2bf898bf546e88"
+msgid "의도적"
+msgstr ""
+
+msgctxt "0285b738285c954be53a049e3ccaa049"
+msgid "자고로 100점 보다 0점 맞기가 더 어렵다 했습니다. \\n당신은 알고보면 SS보다 더 신의 컨트롤을 가졌는지도 모릅니다!"
+msgstr ""
+
+msgctxt "25dbb60940067dbd324504daa6747302"
+msgid "업적 [의도적 실패로 판명났습니다~] 획득보상"
+msgstr ""
+
+msgctxt "b0d5a8d2a65e51c928ec67f90208cc02"
+msgid "ID=103310"
+msgstr ""
+
+msgctxt "fe87cb0b6e830088e55fc88e9fd4d927"
+msgid "놀이터의"
+msgstr ""
+
+msgctxt "8a315f6ec345fd4f63d63ba6189a6888"
+msgid "놀이터. \\n어린아이들의 유희공간으로 사용되는 곳입니다.\\n성인도 사용할수는 있지만 따가운 시선을 받을지도~?"
+msgstr ""
+
+msgctxt "50e8ddf28558c82e3531e706a4d4c75a"
+msgid "업적 [놀이터에 가면 땅부터 파지] 획득보상"
+msgstr ""
+
+msgctxt "ad9b3f077d07ae735c52d9b090b83ac6"
+msgid "ID=103320"
+msgstr ""
+
+msgctxt "9424172e2fcdccde3a87b548ae0be4db"
+msgid "노다지"
+msgstr ""
+
+msgctxt "7e34d5d50428588b3a51a8964f4afffd"
+msgid "노다지라는 광맥을 찾아낸다면 뒤도 돌아보지말고 곡괭이를 들고 달려가리라~"
+msgstr ""
+
+msgctxt "680eb506c6d681a20ce11a22d2b98564"
+msgid "업적 [돈이 떨어지는 소리가 들려] 획득보상"
+msgstr ""
+
+msgctxt "930a04b5e2612d4f31faa7c35bbaeb3f"
+msgid "ID=103330"
+msgstr ""
+
+msgctxt "a733ca64bce54e7571ac6957654baf4d"
+msgid "백전의"
+msgstr ""
+
+msgctxt "42d3d888a6bdaa66a5d0551ec8c712c8"
+msgid "많은 전투를 치르듯 돈을 벌기 위해선 언제나 숱한 전쟁터를 거쳐야 합니다. "
+msgstr ""
+
+msgctxt "e3ca41e163e3e81cb49576a5e7285b5a"
+msgid "업적 [저축의 중요성] 획득보상"
+msgstr ""
+
+msgctxt "233af761b949f17c75015e32e817c217"
+msgid "ID=103340"
+msgstr ""
+
+msgctxt "05b03817b82e75727b19c4c037830a46"
+msgid "드랍"
+msgstr ""
+
+msgctxt "a19c74cbbd15f28db62bd9b2598c92a0"
+msgid "돈이란건 원래 떨어져 있던 것을 주웠을 때,\\n공짜로 얻은 충족감에 기뻐하는 법이지요!"
+msgstr ""
+
+msgctxt "ffa0f3eb06c83b59d11d76792bdc85c8"
+msgid "업적 [티끌 모아 태산] 획득보상"
+msgstr ""
+
+msgctxt "7fdca562d0806c9b96af2a56028b57fa"
+msgid "ID=103410"
+msgstr ""
+
+msgctxt "2e9f228f2cc815df3a78cda664a54d95"
+msgid "고집센"
+msgstr ""
+
+msgctxt "c610a5fb31f3c7563eac77d9464fc407"
+msgid ""
+"고집을 세운다는 건 강한 의지를 가지고 있다는 것일지도 모릅니다. 하지만 남들이 봤을땐 그냥 생떼처럼 \\n보일 수도 있다는 것을 명심!"
+msgstr ""
+
+msgctxt "e5e4b49f1334019c4f176dc78fa691a9"
+msgid "업적 [아직 강화할 생각이...?] 획득보상"
+msgstr ""
+
+msgctxt "38b06513c800b8d0f93b8a9b4e8852e4"
+msgid "ID=103420"
+msgstr ""
+
+msgctxt "a6879bd381c9b71c9879fb54a9773d7e"
+msgid "강화 요망"
+msgstr ""
+
+msgctxt "543c10a135c998453243fb6df3f21207"
+msgid "강화는 내가 가지고 익숙해져 있던 것을 새롭게 인식할 수 있게 만드는 좋은 기회로 작용할 수도 있습니다."
+msgstr ""
+
+msgctxt "a15a0d16316c2df48caccb586344caf4"
+msgid "업적 [강화 좀 하세요! ] 획득보상"
+msgstr ""
+
+msgctxt "ecea426826790345134c8b56dc0c2122"
+msgid "ID=103430"
+msgstr ""
+
+msgctxt "65360e5546d59a1eb1161a5a9139066a"
+msgid "동그라미"
+msgstr ""
+
+msgctxt "8ee4c00e87246e1f29db347b38adfc7a"
+msgid "동그라미는 무수한 점으로 이루어진 도형이라고 합니다. \\n도형 중에 가장 많은 점을 소유하고 있다고 하네요!"
+msgstr ""
+
+msgctxt "edd7ac00d6f905a3cb8749f369533585"
+msgid "업적 [동그란게 좋아서 모으시는건….] 획득보상"
+msgstr ""
+
+msgctxt "9a7231b696c2203735f2c3a53260f290"
+msgid "ID=103440"
+msgstr ""
+
+msgctxt "d09a28bbd41358c7991a959cda16d46b"
+msgid "에텔"
+msgstr ""
+
+msgctxt "711c66cfd69cbb96aa447b1f3b2a090c"
+msgid "에텔은 반짝반짝거리는 게, 구슬치기하고 싶게 만드는 물질입니다."
+msgstr ""
+
+msgctxt "76abedd72ef909bf9890eccefaeb7fca"
+msgid "업적 [에텔 수집가] 획득보상"
+msgstr ""
+
+msgctxt "49477f95295087f6829d9c50caa3cf82"
+msgid "ID=103510"
+msgstr ""
+
+msgctxt "c5a5c0de2e81355b9b8fa29503370a65"
+msgid "지름신의"
+msgstr ""
+
+msgctxt "3c17e50c24d0092867b78e0c6f724ed2"
+msgid "지름신이라는 것은 언제나 충동적으로 내려와 화끈하게 지를 수 있게 만들어 주시곤 합니다."
+msgstr ""
+
+msgctxt "264317545bed4035bd79f44077ac68cf"
+msgid "업적 [지름신의 신도] 획득보상"
+msgstr ""
+
+msgctxt "1c52ebb406c6535e3cf3064fdf0236f6"
+msgid "ID=103520"
+msgstr ""
+
+msgctxt "a91ed5cd6f4be0ffb54636334934e4c4"
+msgid "폭주한 지름신의"
+msgstr ""
+
+msgctxt "32a7bffe1382bb18c8217ee09483b1c9"
+msgid "지름신이 폭주하게 되면, 폭주 상태가 되면서 순시간에 모아놓았던 돈들을 쓸어가곤 합니다.\\n부디 조심하시기를!"
+msgstr ""
+
+msgctxt "82940d3c558f6f1ee6794e3f9e7b101f"
+msgid "업적 [지름신께서 강림하셨습니다] 획득보상"
+msgstr ""
+
+msgctxt "54e26219a96d7a65c4403569d855acaf"
+msgid "ID=103530"
+msgstr ""
+
+msgctxt "1c1eb16793ff88319956c54c56627956"
+msgid "No.1"
+msgstr ""
+
+msgctxt "3b2442afff10d1aef377e713374a069f"
+msgid ""
+"역시 넘버 하면 원인 게 제맛 아니겠습니까.\\nNo.1을 앞에 달고 있으면 묘하게 맨 앞에 서 있어야만 할 것 같은 느낌이 듭니다."
+msgstr ""
+
+msgctxt "290eec852a800851924c3e2046f85816"
+msgid "업적 [투자에 감사드립니다] 획득보상"
+msgstr ""
+
+msgctxt "325a01036e31de77eb0c675faef626e6"
+msgid "ID=103610"
+msgstr ""
+
+msgctxt "ed516c83f520296f0ea6a65885d01e0b"
+msgid "새로운 경지의"
+msgstr ""
+
+msgctxt "14047a6d27a00d029ff725ae12bf90fe"
+msgid "새로운 경지라는 것은 수많은 수련을 통해야 오를 수 있을 것입니다."
+msgstr ""
+
+msgctxt "33db880c21ee5b6b88624a3e03cf6591"
+msgid "업적 [슬슬 익숙해지는데?] 획득보상"
+msgstr ""
+
+msgctxt "3e9fea62d70170dea79d627063771279"
+msgid "ID=103620"
+msgstr ""
+
+msgctxt "36d54030f061e1cadbf94206e7c6c24f"
+msgid "여유부리는"
+msgstr ""
+
+msgctxt "1d8c88187540f531e6b3c1ff88bfe587"
+msgid "익숙해지면 슬슬 여유를 부리는 법이지요.\\n하지만 이럴 때야 말로 더 긴장해야 한다는 사실!"
+msgstr ""
+
+msgctxt "b33ec176310ef3788bd048f8b2279282"
+msgid "업적 [이젠 즐길 수 있을 거 같아] 획득보상"
+msgstr ""
+
+msgctxt "1611f2486309ff37748ac45c55f4682a"
+msgid "ID=103630"
+msgstr ""
+
+msgctxt "32f49d7e17d6e02ea70f1194cf9f2283"
+msgid "전투의"
+msgstr ""
+
+msgctxt "fd0d8c140257086f0746686ac2151686"
+msgid "전투라는 것은 일종의 대화일지도 모릅니다. \\n음~ 몸의 대화?"
+msgstr ""
+
+msgctxt "f8ab25041b98ac0ff8f31554110fb652"
+msgid "업적 [이젠 노련해진 것 같아] 획득보상"
+msgstr ""
+
+msgctxt "5849596fbdf54208ca9b4dad5cd92c9b"
+msgid "ID=103640"
+msgstr ""
+
+msgctxt "21650f8b70d5693aeee18747a1658cbb"
+msgid "인정받는"
+msgstr ""
+
+msgctxt "b535d311e52739d30c70c00c580035b0"
+msgid "누군가에게 인정을 받는다는 것은 주관적으로도 객관적으로도 인정할 수 있는 수준의 경지에 올랐다는 것이겠지요!"
+msgstr ""
+
+msgctxt "b8f3ae38de65af8c933f9ae996cc91ff"
+msgid "업적 [능숙한 전투로 인정받다] 획득보상"
+msgstr ""
+
+msgctxt "b3e167003c3ec67f254aa0f49776f699"
+msgid "ID=103710"
+msgstr ""
+
+msgctxt "7eac475752d46f505c1fe81966ed6bab"
+msgid "스트레칭하는"
+msgstr ""
+
+msgctxt "f7d95c6ae4c4760e676f54119dc7d6f8"
+msgid "하루에 한 번 의식적으로라도 스트레칭을 해주는 것이 몸 건강에 매우매우 좋다고 합니다!"
+msgstr ""
+
+msgctxt "3b0f22a2097e336a0404603df6077957"
+msgid "업적 [천천히 목을 돌려줍니다] 획득보상"
+msgstr ""
+
+msgctxt "976ea71cb5f3e8ed06610a1edce10178"
+msgid "ID=103720"
+msgstr ""
+
+msgctxt "b17dd964e039b3617de2d76ac743caa6"
+msgid "배고픈"
+msgstr ""
+
+msgctxt "426c74197475c1ff1e1299eaad5208d2"
+msgid ""
+"배가 고프면 할 수 있는 것이 없어집니다. \\n사람을 무기력해지게 만들어 소생할 수 없게 만들지요. 그래서 밥은 소중한 겁니다!"
+msgstr ""
+
+msgctxt "ecdb3969306c8fcd07784dc30a2de639"
+msgid "업적 [클라우드림에서 150시간 경과] 획득보상"
+msgstr ""
+
+msgctxt "5aec24484ab60ffc8a9b95eaa2c8301f"
+msgid "ID=103730"
+msgstr ""
+
+msgctxt "6b9513a7015a737642bd36b14eaa7959"
+msgid "잠들지 못하는"
+msgstr ""
+
+msgctxt "387a1f86c35e4c9a0e242bf2fdaca2c5"
+msgid "잠들지 못하는 고통은 그 어떤 것보다 \\n괴로운 일입니다. 잠이라는 것은 소중한 것이니까요!"
+msgstr ""
+
+msgctxt "049cbef8a07619e0cab1b8d442f25a8d"
+msgid "업적 [잠시 주무셔도 좋습니다] 획득보상"
+msgstr ""
+
+msgctxt "4380578d1d1bd7ef918d852d6fb39db8"
+msgid "ID=103740"
+msgstr ""
+
+msgctxt "3e5b89fad9335537357cc546e52006d7"
+msgid "시간의"
+msgstr ""
+
+msgctxt "f334df826e5ec1f3f0aceed08f6bd449"
+msgid "시간이라는 건 잡으려 해도 잡히지 않고, 막으려 해도 흘러가는 것이라 하지요.\\n삶의 후회가 남지 않도록 늘 최선을 다하시길!"
+msgstr ""
+
+msgctxt "8dc12db64cfff164e83294767a083d6f"
+msgid "업적 [축! 100일!!] 획득보상"
+msgstr ""
+
+msgctxt "ff5a2bda6157a38dcfd6de8756dadc41"
+msgid "ID=103810"
+msgstr ""
+
+msgctxt "22ef52cc4c5b8f253be2ba37b0783bbe"
+msgid "강화"
+msgstr ""
+
+msgctxt "b6e5f64f152edcc700fbafb2b1e023e6"
+msgid "강화라는 것은 강해지고 싶은 욕구에서 나오기 마련이지요."
+msgstr ""
+
+msgctxt "979333b077e442c2e1e3056e60b0aa6d"
+msgid "업적 [무기에서 후광이!] 획득보상"
+msgstr ""
+
+msgctxt "26b3bc3d2580ce646c097198a27bfc3d"
+msgid "ID=103820"
+msgstr ""
+
+msgctxt "714f58c4e47c07099780e3541c31c9c1"
+msgid "골든"
+msgstr ""
+
+msgctxt "c04f80d60ddda99d54187cd48068e99b"
+msgid "마치 금메달을 목에 건 듯한 기분이 듭니다.\\n골드는 좋은 것입니다. 좋은 것이에요."
+msgstr ""
+
+msgctxt "349d91098a8955ba697e79f73d6445db"
+msgid "업적 [골든 해커] 획득보상"
+msgstr ""
+
+msgctxt "9fb9cd62f911fd3547b08cea03aa844b"
+msgid "ID=103910"
+msgstr ""
+
+msgctxt "fe6879802f984b240a7b717cbcd9e067"
+msgid "다음"
+msgstr ""
+
+msgctxt "d3098bb06fa1f7f88c18f47e554d7186"
+msgid "다음에는 꼭 성공할 수 있기를!\\n다음에는 반드시 성공할 수 있기를! 아자!"
+msgstr ""
+
+msgctxt "0336837794185075b5afa02f29b218bf"
+msgid "업적 [내가 잃은 돈은 얼마인가] 획득보상"
+msgstr ""
+
+msgctxt "b2b1118fccae59690f20a17d04486f31"
+msgid "ID=103920"
+msgstr ""
+
+msgctxt "7cb98debe01e87c904bdbced8e3bb73c"
+msgid "이것이"
+msgstr ""
+
+msgctxt "112df05be7cbfa8a1f4e686966e35021"
+msgid "이것은 이것일 뿐. 무슨 설명이 더 필요할까요."
+msgstr ""
+
+msgctxt "b3043cb51b9399b6d991e3b2d566ebc6"
+msgid "업적 [이것이 꽝인가] 획득보상"
+msgstr ""
+
+msgctxt "5833c6723d4a488c8a8a54e298ce10e2"
+msgid "ID=103930"
+msgstr ""
+
+msgctxt "4d6252e7df68bc8f86b9ed17be15c97d"
+msgid "강화 아닌"
+msgstr ""
+
+msgctxt "882d4a6e3ed18fd6813ebd9df601d176"
+msgid "강화가 아니긴 한데 그렇다고 해서 완전히 강화가 아닌 것도 아닌 아주 애매한 단계에 있다고 말할 수 있을 것 같습니다."
+msgstr ""
+
+msgctxt "052576cc50478b74d9c0ad83ee899c15"
+msgid "업적 [강화가 아니라 약화] 획득보상"
+msgstr ""
+
+msgctxt "57b65dbf267b388c850b598e5f535c4c"
+msgid "ID=103940"
+msgstr ""
+
+msgctxt "7a330fcd34640db8ff718fccdc0751ae"
+msgid "레전드 오브"
+msgstr ""
+
+msgctxt "625789a77b03412f2d85c8b2bb3e0ac0"
+msgid "축하합니다. 전설의 단계에 오르셨군요!\\n뒤에 무엇이 붙든 전설은 좋은 것입니다."
+msgstr ""
+
+msgctxt "27c211d9a5c3e04302f8d790624c54d9"
+msgid "업적 [레전드 오브 망금술사] 획득보상"
+msgstr ""
+
+msgctxt "952c3da1b7acf0e142f2eed020034e0f"
+msgid "ID=104010"
+msgstr ""
+
+msgctxt "9e00da848a839e27cecc60fbcfe82195"
+msgid "제작"
+msgstr ""
+
+msgctxt "064a18ae7a75dd333a273844ff382ea4"
+msgid "제작은 아주 심오한 작업입니다.\\n재료를 어떻게 섞느냐에 따라서 다채로운 결과물이 나오기 때문이지요."
+msgstr ""
+
+msgctxt "2ef4f7e35d1f5f1a26d81fe7832a3b51"
+msgid "업적 [제작 후원자] 획득보상"
+msgstr ""
+
+msgctxt "ccc4e50b83d4ee38f178cab92f560abd"
+msgid "ID=104020"
+msgstr ""
+
+msgctxt "ef98dae7fd06dea03944f4939ea92d5b"
+msgid "황금의"
+msgstr ""
+
+msgctxt "5d73ecef37ff13b0239490ef3f477ccf"
+msgid "황금 보기를 돌같이 하라곤 하지만, 만약 황금이 눈앞에 있다면 어떻게 돌같이 볼 수 있을까요?"
+msgstr ""
+
+msgctxt "b1b87e179d844c4281db72b6cc82b828"
+msgid "업적 [황금의 연금술사] 획득보상"
+msgstr ""
+
+msgctxt "6c9c4e34c8381751b77733b3679f73b1"
+msgid "ID=104110"
+msgstr ""
+
+msgctxt "e54ccada2a2557e73be41eeac62160bf"
+msgid "신비로운"
+msgstr ""
+
+msgctxt "9c0c7c0fc9343c590af89b2179d5d72a"
+msgid "일이나 현상 따위가 사람의 힘이나 지혜 또는 보통의 이론이나 상식으로 도저히 설명할 수 없을 때 사용한다고 합니다."
+msgstr ""
+
+msgctxt "a23c25fdc96854649fb67528ca9fd500"
+msgid "업적 [신비하고 아름다운 분해의 세계] 획득보상"
+msgstr ""
+
+msgctxt "3c8258fa59130df423beb39cfc38f71b"
+msgid "ID=104120"
+msgstr ""
+
+msgctxt "8c31e359249330cffe28b27b53d13ddc"
+msgid "리셋"
+msgstr ""
+
+msgctxt "de4a193938df0f620a752f2d793edbcc"
+msgid "리셋이라는 말은 묘하게 단호한 느낌을 줍니다.\\n지금까지 해 왔던 것에서 여지를 남기지 않는다는 느낌이랄까요."
+msgstr ""
+
+msgctxt "fe018ad0260bcfe8e192cb1323b7dbf5"
+msgid "업적 [되돌리는 건 불가능] 획득보상"
+msgstr ""
+
+msgctxt "a1c02bf9138c17fcde5071ec4f1dbed8"
+msgid "ID=104130"
+msgstr ""
+
+msgctxt "9627380226f51d0d2336947c468a54d0"
+msgid "분해는"
+msgstr ""
+
+msgctxt "440bb4e23b7ef3eb02026abaf2dc8925"
+msgid "분해 할 땐 망설이지 말고 한 번에 내리쳐야 제대로 아이템을 얻어낼 수 있습니다."
+msgstr ""
+
+msgctxt "1e89bb912d82a609d9e45891f6fe7cf3"
+msgid "업적 [분해는 나의 힘] 획득보상"
+msgstr ""
+
+msgctxt "7a2e711cf197c13526964704e29cb593"
+msgid "ID=104140"
+msgstr ""
+
+msgctxt "68344089bc5c0a45fd105272cc6e6900"
+msgid "마이너스의"
+msgstr ""
+
+msgctxt "b4e7962ea84bab91dc4a5898973ab425"
+msgid "플러스와 마이너스를 두고 보았을 때, 마이너스는 보통 안 좋은 의미로 많이 사용되곤 합니다."
+msgstr ""
+
+msgctxt "1262a96a549b21fbcb67e398fa274829"
+msgid "업적 [마이너스의 손] 획득보상"
+msgstr ""
+
+msgctxt "706a17fbdd8ab635d6dc0cec9d3ac8a5"
+msgid "ID=104210"
+msgstr ""
+
+msgctxt "8580bb7c37cdf9b50ba0975e88dd1da9"
+msgid "철저한"
+msgstr ""
+
+msgctxt "e32e678dc361329dcfbcc31dbbffb0cf"
+msgid "철저하다는 것은 꼼꼼하다와 비슷한 의미이기는 한데, 뭔가 더 냉철하고 차가운 느낌을 줍니다."
+msgstr ""
+
+msgctxt "652058f364e01850de3596b07dcd060f"
+msgid "업적 [구매하신 물건은 마음에 드시나요?] 획득보상"
+msgstr ""
+
+msgctxt "605ec388dfaf5ce5ca31d585ddcdb0df"
+msgid "ID=104220"
+msgstr ""
+
+msgctxt "d31fc9c7465ebf5a602e6ab67d304370"
+msgid "능숙한"
+msgstr ""
+
+msgctxt "40981b589b6387175251c2fbdae77c96"
+msgid "능숙하다는 것은 능숙해질 정도로 많이 그 일을 했다는 것이겠지요.\\n능하고 익숙하다는 뜻이니까요."
+msgstr ""
+
+msgctxt "1c28f4e27c78965e4cf7555d035aa979"
+msgid "업적 [능숙한 거래자] 획득보상"
+msgstr ""
+
+msgctxt "de5b908b72e4960d31ab52dbe7176ffa"
+msgid "ID=104230"
+msgstr ""
+
+msgctxt "a13155574440863a3fdfd05948db7fe1"
+msgid "머니"
+msgstr ""
+
+msgctxt "16fc01663f213952baa681646885dc89"
+msgid "머니 하면 왠지 어떤 노래가 계속해서 떠오르는 건 왜인지 모르겠습니다."
+msgstr ""
+
+msgctxt "e54fb528050417aaf2908f1730197d21"
+msgid "업적 [돈의 흐름을 느끼다] 획득보상"
+msgstr ""
+
+msgctxt "d5e9a19562dfe4d1d4baacb0c28df857"
+msgid "ID=104240"
+msgstr ""
+
+msgctxt "b1a364a0464470178c31cd967e936a4c"
+msgid "쇼핑의"
+msgstr ""
+
+msgctxt "172b981b61c8c08e503e9b0f1798b69c"
+msgid "쇼핑이라는 것은 계획을 세워 놓고 하지 않으면 엄청난 자금의 손실을 맛볼 수 있으니 주의하시기 바랍니다."
+msgstr ""
+
+msgctxt "32e74f1e6d364f0e9f6893ec2685080d"
+msgid "업적 [쇼핑의 제왕] 획득보상"
+msgstr ""
+
+msgctxt "b1e26530d25018ddb0c7cc6f2d06d909"
+msgid "ID=104310"
+msgstr ""
+
+msgctxt "48d02857877e1b8fdf1c4150e39f719e"
+msgid "그루톤의"
+msgstr ""
+
+msgctxt "9a605527cea2bb8f381b3559995de645"
+msgid "그루톤은 귀여운 얼굴을 하고 있지만 사실 눈앞에 있는 무엇이든 잡아먹는 바큠 이레귤러 입니다. 귀여운 얼굴에 속지 마세요~"
+msgstr ""
+
+msgctxt "a887028a791c1ca0a336aa8ec88018a0"
+msgid "업적 [그루톤의 천적] 획득보상"
+msgstr ""
+
+msgctxt "7dffb335bab0915c643e80fda05f061f"
+msgid "ID=104410"
+msgstr ""
+
+msgctxt "7eee5f543de17692090fdbd07c50dcc1"
+msgid "부지런히"
+msgstr ""
+
+msgctxt "3ec23ae7330df53e2299d10a99153495"
+msgid "부지런하다는 것은 어떤 일을 꾸물거리거나 미루지 않는 태도라고 할 수 있죠.\\n대단하다고 생각합니다."
+msgstr ""
+
+msgctxt "80e9002055cb190b24a3f463b1b73ae8"
+msgid "업적 [부지런히 일하는 자] 획득보상"
+msgstr ""
+
+msgctxt "b2b275bf658f3f46e065d168248f8b48"
+msgid "ID=104510"
+msgstr ""
+
+msgctxt "190f68aaa10169212be8262c161cde4a"
+msgid "히든"
+msgstr ""
+
+msgctxt "83d4d8eafc5af6a6f16a7b2b4ffcb945"
+msgid "히든이라는 말이 붙으면 묘하게 파고들고 싶어지는 무언가가 있습니다."
+msgstr ""
+
+msgctxt "a5efd908616afdb34cfbdb3f68680fc0"
+msgid "업적 [히든 프론티어] 획득보상"
+msgstr ""
+
+msgctxt "c2f4981e1c49ea127d8050cf74c476ea"
+msgid "ID=104610"
+msgstr ""
+
+msgctxt "4a135c0d6d19ba7ee5a21c59cf23e5ef"
+msgid "가상 세계의"
+msgstr ""
+
+msgctxt "8ee92f0525b47f1218420c7dd5dd845e"
+msgid "가상 세계는 진짜 세계 같지만 사실 진짜 세계가 아닌 곳을 말합니다."
+msgstr ""
+
+msgctxt "7145dafe9d9217c2dad66bb119b0fbd0"
+msgid "업적 [가상세계의 훈련자] 획득보상"
+msgstr ""
+
+msgctxt "2460b18eaca20aff615132bf87a2cf7a"
+msgid "ID=104710"
+msgstr ""
+
+msgctxt "ee46779cc82bb1ba90edb1ebc7c63ede"
+msgid "돈의"
+msgstr ""
+
+msgctxt "9b3dd6eac7f0d34b2a0660780e561aa2"
+msgid "돈이라는 것은 있으면 있을수록 좋습니다. 정말로 좋습니다. 갖고 싶습니다."
+msgstr ""
+
+msgctxt "58e72de3528f45af032d03cb0bc432a1"
+msgid "업적 [이게 돈을 쓰는 맛인가!] 획득보상"
+msgstr ""
+
+msgctxt "788eca87c1b005e79d73757bad609900"
+msgid "ID=104810"
+msgstr ""
+
+msgctxt "53420bc2b38e4295106c43cc62a2d081"
+msgid "자이트의"
+msgstr ""
+
+msgctxt "99f1f3420835f92afcdd0646770d3520"
+msgid "자이트는 무기 상점을 운영하는 상인연합 소속의 상인입니다.\\n쾌활한 분위기 메이커이지만 허당의 면모가 강합니다."
+msgstr ""
+
+msgctxt "5c8289e32e8419365e46017d431b680f"
+msgid "업적 [이게 바로 단골이라는 건가요! 감사합니다!] 획득보상"
+msgstr ""
+
+msgctxt "ce4204b99a51f4a267ba6aaad3fcbb6a"
+msgid "ID=104910"
+msgstr ""
+
+msgctxt "3e6d433e971665cd842dcc896dcdf61f"
+msgid "요미의"
+msgstr ""
+
+msgctxt "f7cd8086fa859d7405db1bde4fa72538"
+msgid "요미는 잡화 상점을 운영하는 상인 연합 소속의 상인입니다.\\n차분하고 새침해 보이지만 알고 보면 정이 많은 사람입니다."
+msgstr ""
+
+msgctxt "b5b2f68f614969d8cf7b3c43a9f4bbaf"
+msgid "업적 [정말 고마워요. 최고의 고객으로 대접할게요.] 획득보상"
+msgstr ""
+
+msgctxt "9b562214b5112621f2c914cdb5fdbf74"
+msgid "ID=105010"
+msgstr ""
+
+msgctxt "630a56d4e05cad766c0bf8684de29cdc"
+msgid "제니스의"
+msgstr ""
+
+msgctxt "6a80cdbeac2bb1f813b98dd4a771292a"
+msgid "제니스는 제작 관련 일을 하는 불법 상인입니다.\\n차갑고 냉소적이지만 알고보면 츤데레 일지도?"
+msgstr ""
+
+msgctxt "aa230b90a637a146224c74281d007832"
+msgid "업적 [정말 재미있는 사람이야. 앞으로도 자주 보고 살자~] 획득보상"
+msgstr ""
+
+msgctxt "d39e3004e3c8a6fe5622a58d6776eb3d"
+msgid "ID=105110"
+msgstr ""
+
+msgctxt "75da82c891750e91bc3739b71081e5fd"
+msgid "트리샤의"
+msgstr ""
+
+msgctxt "2e435831a16f6e5a4a8223dea68b6040"
+msgid "트리샤는 강화 관련 일을 하는 불법 상인입니다.\\n호탕하고 유쾌한 성격에 소유자인데 조금 엉뚱한 면이 있습니다."
+msgstr ""
+
+msgctxt "44660de905feda02611bb12b1bb6a621"
+msgid "업적 [이젠 뭐 손님이 아니라 친구 같네. 앞으로도 잘 지내보자.] 획득보상"
+msgstr ""
+
+msgctxt "6f05c1dbc43bac75dda15ebbde86f5f4"
+msgid "ID=105210"
+msgstr ""
+
+msgctxt "40577d100b57dfb33eac24ef2d305a25"
+msgid "아진의"
+msgstr ""
+
+msgctxt "80dba3167f6fe2e207dc2a1d00fd1ca5"
+msgid "아진은 별숲리그 제 6구역 지부 소속의 하사입니다.\\n냉철하고 꼼꼼한 성격을 가지고 있습니다."
+msgstr ""
+
+msgctxt "d0731758e541e082dddcdac2b3087306"
+msgid "업적 [퍼스트 클래스에 맞는 최고의 서비스로 모시겠습니다. ] 획득보상"
+msgstr ""
+
+msgctxt "44a512140a00c112a726c52a1a045c75"
+msgid "ID=105310"
+msgstr ""
+
+msgctxt "9346ac00b81d78b33e7e753660857a37"
+msgid "비틀린 세계의"
+msgstr ""
+
+msgctxt "cc36bf8dd3d67ab06a821500cfa99e59"
+msgid "비틀린 세계라는 것은 같은 듯 같지 않은, 다른 듯 다르지 않은 세계라는 것을 뜻합니다."
+msgstr ""
+
+msgctxt "3bb78d89f8d55a94fa47939dea86e291"
+msgid "업적 [비틀린 세계의 톱니바퀴] 획득보상"
+msgstr ""
+
+msgctxt "b50b2fe9ef13287cfea901d4b9b32bd9"
+msgid "ID=105410"
+msgstr ""
+
+msgctxt "ca4505b342687b11cd7148d8b49a8982"
+msgid "금빛 세계의"
+msgstr ""
+
+msgctxt "a6a1ff2a47c1be2001d8e8beafe87263"
+msgid "금빛 세계라면 길거리에 황금이 돌처럼 굴러다니고 있겠죠?"
+msgstr ""
+
+msgctxt "ad1c1ad9e983d2ed8e641710c712c097"
+msgid "업적 [금빛 세계의 레지스탕스] 획득보상"
+msgstr ""
+
+msgctxt "4905490ab3a96a5822dacda96ee7c790"
+msgid "ID=105510"
+msgstr ""
+
+msgctxt "d26c12e4350de0be92abeca7b9a02ac4"
+msgid "황량한 세계의"
+msgstr ""
+
+msgctxt "39b832724efa1982506cb04a4add992d"
+msgid "황량한 세계는 거칠고 쓸쓸한 느낌을 줍니다."
+msgstr ""
+
+msgctxt "9d8ea2b4821902ce1f0832106dbfba3e"
+msgid "업적 [황량한 세계의 정복자] 획득보상"
+msgstr ""
+
+msgctxt "d1e94ca8d0bc4a88c1b69fb6a0b18fe4"
+msgid "ID=105610"
+msgstr ""
+
+msgctxt "95798d52d025e5b6df0abb5f513fc501"
+msgid "꼭두각시"
+msgstr ""
+
+msgctxt "868e7c0a1e48cea61f112ae513b78773"
+msgid "꼭두각시 인형을 보면, 신기하다는 느낌도 들지만 조금 으스스하다는 느낌이 들기도 합니다."
+msgstr ""
+
+msgctxt "0c96370e063d56455fdf8aaa1c7afb81"
+msgid "업적 [꼭두각시 지휘자] 획득보상"
+msgstr ""
+
+msgctxt "96f19a747edc1fde5dbc9bcee5a9f4d2"
+msgid "ID=105710"
+msgstr ""
+
+msgctxt "1da1631e45bf75a77ba5a077235432c6"
+msgid "보랏빛"
+msgstr ""
+
+msgctxt "e17de7482b2b18968353498480162aa9"
+msgid "보랏빛은 우아한 느낌을 줘서 귀족을 상징하는 색으로도 사용했다고 합니다."
+msgstr ""
+
+msgctxt "db58caad513b4aa61197aa463d423413"
+msgid "업적 [보랏빛 거미 여왕] 획득보상"
+msgstr ""
+
+msgctxt "f1d3c8f9f662b7730d7cece145d1becb"
+msgid "ID=105810"
+msgstr ""
+
+msgctxt "c7fec013e23e89811e896e7e3387791c"
+msgid "묵빛"
+msgstr ""
+
+msgctxt "7330d8996167f270aa1e663ef0a5c3af"
+msgid "묵빛은 이름만 들어도 깜깜하고, 차분한 느낌을 줍니다."
+msgstr ""
+
+msgctxt "9f5d46875ce8a6cb87f0a46a02aee557"
+msgid "업적 [묵빛 그림자] 획득보상"
+msgstr ""
+
+msgctxt "5bcbbc48b3f2598eb5ae78163b833b9d"
+msgid "ID=105910"
+msgstr ""
+
+msgctxt "7a1357b6500295b6e92b2cbb3c58c50b"
+msgid "미완성의"
+msgstr ""
+
+msgctxt "40cd7ac913fb6fc7f489c1123f4f5262"
+msgid "미완성이라는 것은 아직 완성되지 않았다는 말이기에, 거칠고 정제되지 않은 느낌을 줍니다."
+msgstr ""
+
+msgctxt "e625136f61fa5cdf2c4e1df0820d9c1a"
+msgid "업적 [미완성의 대적자] 획득보상"
+msgstr ""
+
+msgctxt "e39c831e0fb1e44717e0c7977863b50d"
+msgid "ID=106010"
+msgstr ""
+
+msgctxt "f9fc17ffdd420ed453ba971e29a31d87"
+msgid "금빛의"
+msgstr ""
+
+msgctxt "1cfb60cf4fbc384b436024acc204c97c"
+msgid "금빛의 무언가는 눈이 부시고, 반짝반짝 빛나서 멀리서 봐도 쉽게 알아볼 수 있겠지요?"
+msgstr ""
+
+msgctxt "b27012f744fb1b0fd2062bfca0696856"
+msgid "업적 [금빛의 이레귤러] 획득보상"
+msgstr ""
+
+msgctxt "ce3a571fdcbac39a12a4fef1c9ff5a19"
+msgid "ID=106110"
+msgstr ""
+
+msgctxt "976f7ca2fab74d3109a6a6b50cf3d86f"
+msgid "숨겨왔던"
+msgstr ""
+
+msgctxt "ef32376112ee9e0764416b3d8f938d02"
+msgid "숨겨놨다고 하면 더 찾아내고 싶고 알아내고 싶은 게 사람 마음 아니겠습니까~"
+msgstr ""
+
+msgctxt "1690da6fb058f77842acff7712d9e33e"
+msgid "업적 [숨겨왔던 노숙기질] 획득보상"
+msgstr ""
+
+msgctxt "8b2fc8723d441afefc62c3cc0ce7f2d0"
+msgid "ID=106210"
+msgstr ""
+
+msgctxt "24a12167c391962db7e8a5a7af6063a9"
+msgid "움트는"
+msgstr ""
+
+msgctxt "8eb266ba282190e1fabef827ec644000"
+msgid "움튼다는 것은 싹이 새로 돋아 나오기 시작하는 현상을 뜻합니다.\\n무언가의 시작을 알리는 단어이지요!"
+msgstr ""
+
+msgctxt "1c7256fba31bda91ad92807ef053c94b"
+msgid "업적 [생명이 자라나는 소리를 듣다] 획득보상"
+msgstr ""
+
+msgctxt "4e7daae5eb91379020207a986c8c3163"
+msgid "ID=106310"
+msgstr ""
+
+msgctxt "26e99992582c4657f406018bb6cb197e"
+msgid "격동의"
+msgstr ""
+
+msgctxt "ad01e9af86928adab6eb6cde6a6a2eaa"
+msgid "무언가가 강하고 급격하게 움직인다는 것을 뜻하는 격동은 무언가에 큰 변화가 일어났을 때 자주 쓰이곤 합니다."
+msgstr ""
+
+msgctxt "b5bc12e017f88cfca0b959adaed6cca5"
+msgid "업적 [생명의 기지개를 듣다] 획득보상"
+msgstr ""
+
+msgctxt "6bd58160b28eb476a9bf82cbea037cda"
+msgid "ID=106410"
+msgstr ""
+
+msgctxt "9d339930f90f3f8083c7c10cff3c6b10"
+msgid "자라나는"
+msgstr ""
+
+msgctxt "4e4a25622068784d28e6d529a451a3c8"
+msgid "자라난다는 것은 많은 것을 겪고 경험하며 살아나간다는 것을 뜻합니다.\\n그것은 즐거움과 슬픔을 반복하며 삶을 성장시킵니다."
+msgstr ""
+
+msgctxt "c1316be766b57ad32fc46f9ee5bd7e89"
+msgid "업적 [자라나는 즐거움을 듣다] 획득보상"
+msgstr ""
+
+msgctxt "481b6b0208e4087805b8012e90148401"
+msgid "ID=106510"
+msgstr ""
+
+msgctxt "35b66a7fc341c8dacfe0c89a22b8f13e"
+msgid "만개하는"
+msgstr ""
+
+msgctxt "b7df5edd36fcb009a3b7e351686f6b34"
+msgid ""
+"만개한다는 것은 활짝 열리고, 활짝 피는 만발하는 형태의 것을 뜻합니다.\\n그야말로 만발하는 생명의 아름다움을 담고 있다고 할 수 "
+"있습니다."
+msgstr ""
+
+msgctxt "f0bc1afd79042d524462994aafa1489e"
+msgid "업적 [만개하는 환희를 듣다] 획득보상"
+msgstr ""
+
+msgctxt "864b0080f262222bc3d174cb1e469bad"
+msgid "ID=106610"
+msgstr ""
+
+msgctxt "2e2f6e9abe0716990ff533a4eeb61535"
+msgid "초보"
+msgstr ""
+
+msgctxt "e8f171239cd17f8b680cab84ce405c58"
+msgid "무언가를 처음 시작할 때에는 누구나 다 초보가 되기 마련입니다.\\n초보인 것을 너무 부끄러워하지 마세요!"
+msgstr ""
+
+msgctxt "29f7cdb4ab0229b0786cab110cfb5bb1"
+msgid "업적 [농장 생활을 즐기다] 획득보상"
+msgstr ""
+
+msgctxt "02f400f227eaf5c6995a150c1b924d99"
+msgid "ID=106710"
+msgstr ""
+
+msgctxt "668b7a6498455f37a1095b8367d5002d"
+msgid "자급"
+msgstr ""
+
+msgctxt "e03938910b458c0eb54c5c7259b89012"
+msgid "자신에게 필요한 물자를 스스로 마련하여 충당한다는 의미의 자급은 독립적 개체로서 살아갈 수 있다는 증거로 표현되곤 합니다."
+msgstr ""
+
+msgctxt "0a01e3c97b29276d30ec3968165616a8"
+msgid "업적 [자급자족의 즐거움을 알다] 획득보상"
+msgstr ""
+
+msgctxt "d53721e92d0a00faa623d9031fb2e573"
+msgid "ID=106810"
+msgstr ""
+
+msgctxt "3e6db901bab8feaac9c27863a89dd693"
+msgid "하다 보니"
+msgstr ""
+
+msgctxt "808ce7837bf703d705da69f710d5923f"
+msgid ""
+"직접 해 보면 해보기 전에는 알 수 없었던 많은 사실을 알 수 있게 됩니다.\\n행하는 것이 맞는 것인지 아닌지 고민된다면 일단 해보는 "
+"것도 나쁘지 않은 선택인 것 같습니다."
+msgstr ""
+
+msgctxt "3e6049becef34043def80976a5c3089b"
+msgid "업적 [천직이 농부임을 깨닫다] 획득보상"
+msgstr ""
+
+msgctxt "f8ddeb3fff9b92bee6d9efa35f1582d8"
+msgid "ID=106910"
+msgstr ""
+
+msgctxt "6c160bfb4a7f84ef147e2b1350272e1d"
+msgid "그레이트"
+msgstr ""
+
+msgctxt "bb86c0a48e9f36b824d216696750a90a"
+msgid ""
+"아주 많은, 거대한 이란 의미를 지닌 그레이트는 독보적인 큰 산과도 같은 존재를 수식할 때 사용되곤 합니다. 독보적 농장기술을 지닌 "
+"당신에게 이 칭호를 선사합니다."
+msgstr ""
+
+msgctxt "78d43d5d4467822102c4f897824ed2e1"
+msgid "업적 [그레이트 파머] 획득보상"
+msgstr ""
+
+msgctxt "0e1ddd017376a8847d5b4d6b827a7ade"
+msgid "ID=107010"
+msgstr ""
+
+msgctxt "1a4ae932b26ab5d1882d5a4a56bdcc09"
+msgid "골든 타임"
+msgstr ""
+
+msgctxt "0b10fecc71c82c60a3ca2770b8a60898"
+msgid ""
+"골든 타임은 사고나 사건에서 인명을 구조하기 위한 초반의 소중한 시간을 뜻합니다. 골든 타임을 아슬아슬하게 지키는 농부에게 이 칭호를 "
+"드립니다."
+msgstr ""
+
+msgctxt "6deb3f02c66d35ecfd17c96e1d7fcc11"
+msgid "업적 [골드 타임 가드너] 획득보상"
+msgstr ""
+
+msgctxt "8011e3aced2c4ecba3a2abda0403bb75"
+msgid "ID=107110"
+msgstr ""
+
+msgctxt "6c56e9bdb707db3c0e4772d4a5423fb0"
+msgid "비료"
+msgstr ""
+
+msgctxt "91c1fec80240077787f3a6f48a0674ea"
+msgid "비료란 경작지에 뿌리는 영양물질을 뜻합니다.\\n식물을 키우기 위해선 필수적으로 필요한 요소라고 할 수 있죠!"
+msgstr ""
+
+msgctxt "2e845e2154e8edc3d4be5aac5348c032"
+msgid "업적 [비료 생산자] 획득보상"
+msgstr ""
+
+msgctxt "93b0ddc57e7d15a83f9c30478b6c368d"
+msgid "ID=107210"
+msgstr ""
+
+msgctxt "f87f2b35b7ee898601dcdd2c3f56a045"
+msgid "도움의"
+msgstr ""
+
+msgctxt "53ddba1cf9e12032ffd10ed2a307d835"
+msgid ""
+"도움은 남에게 보탬이 되고, 어려움이 처한 상대에게 원조를 보내는 것을 뜻합니다. 상냥함과 따뜻함이 가득 담긴 단어라고 할 수 있습니다."
+msgstr ""
+
+msgctxt "6c5eda6567085db91fb3fcb543ee0675"
+msgid "업적 [함께 하는 행복을 깨우치다] 획득보상"
+msgstr ""
+
+msgctxt "56d92be23feb58f87d0bd3d572e563b9"
+msgid "ID=107310"
+msgstr ""
+
+msgctxt "a41d6d73c804e41fa5f5d18a02183d71"
+msgid "함께하는"
+msgstr ""
+
+msgctxt "2958993f6b1a53cef50dfbead9eca613"
+msgid ""
+"무언가를 함께한다는 것은 홀로서 할 수 있는 일을 해낼 수 있게 만드는 힘을 만들어 줍니다. 무언가를 홀로 하다가 잘 되지 않는다면 함께 "
+"해보는 것이 어떨까요?"
+msgstr ""
+
+msgctxt "ad886f5e9ea39e5a31e3966df7b7bf5a"
+msgid "업적 [함께 하는 선행의 미덕] 획득보상"
+msgstr ""
+
+msgctxt "e3f6306dc31c6c175074f084754a33f1"
+msgid "ID=107410"
+msgstr ""
+
+msgctxt "4f0efb602f6579eb3af1f89c6c347849"
+msgid "선행의"
+msgstr ""
+
+msgctxt "c439f3b9782951bfc93423902b392249"
+msgid ""
+"선행이라는 건 따뜻한 마음을 지닌 사람들이 자신이 지닌 따뜻함을 남에게 베푸는 것을 뜻합니다. 그렇기에 선행이라는 말만 들어도 마음이 "
+"따뜻해지는 느낌이 듭니다."
+msgstr ""
+
+msgctxt "ff7db99da3712cbcc2de0a3da108aab2"
+msgid "업적 [쌓여나가는 선행의 미덕] 획득보상"
+msgstr ""
+
+msgctxt "c736952bc039fffff37a548caec6b75e"
+msgid "ID=107510"
+msgstr ""
+
+msgctxt "34445b9fbcf3d7171d75c8e7fe2f98a4"
+msgid "갓"
+msgstr ""
+
+msgctxt "38acf4f7691f68f9ae7a8355ede5ec8a"
+msgid ""
+"[God]이라는 말의 갓은 신이라는 뜻답게 최고라는 의미에 사용되곤 합니다.\\n아끼지 않은 선행을 베푼 당신에게 이 칭호를 선사합니다."
+msgstr ""
+
+msgctxt "2015d057fc8e1cf5fd4ba466aef937d8"
+msgid "업적 [성스러운 선행의 손길] 획득보상"
+msgstr ""
+
+msgctxt "2f53ea20de48e52f6389a190f7175e7c"
+msgid "ID=107610"
+msgstr ""
+
+msgctxt "534b1cf4eea36b52056c3737930b894c"
+msgid "공백을"
+msgstr ""
+
+msgctxt "bdd7ac57672ccac9936b1eda235c30d5"
+msgid "제 6 구역에 출현한 공백의 틈을 막지 않았다면 소울정크의 세력은 더욱 커졌을 것입니다. "
+msgstr ""
+
+msgctxt "575cdc7700ae9276394e1fc78c6198cd"
+msgid "업적 [당신의 방문을 거절합니다!!] 획득보상"
+msgstr ""
+
+msgctxt "da11ab57c4135f9268381d0d69c8a301"
+msgid "ID=107710"
+msgstr ""
+
+msgctxt "a76f6286f2bc6c3f6e156ecdd3f7b06a"
+msgid "6 구역의"
+msgstr ""
+
+msgctxt "544f6b71f60169df6c9687bbd9ac7252"
+msgid "그 것은 이 세상의 모든 것을 파괴하고, 포식할 존재. 그것을 쓰러뜨린 당신이야말로 이 6 구역의 해방자입니다."
+msgstr ""
+
+msgctxt "99e625b62b45f9c5fe63e9b802c49631"
+msgid "업적 [더 씽의 부름] 획득보상"
+msgstr ""
+
+msgctxt "b39c3a99ed44359a006a6d865414774c"
+msgid "ID=107810"
+msgstr ""
+
+msgctxt "8453383ca66166800171fb2841316edb"
+msgid "재앙의"
+msgstr ""
+
+msgctxt "f0dce98c4f9cad734c7ebcc61b74ff3f"
+msgid "존재함으로서 세상을 멸망시키고, 파멸로 이끌 존재.\\n그 존재를 쓰러뜨린 당신이야말로 이 세계의 구원자입니다."
+msgstr ""
+
+msgctxt "52fcebfdfaf91e5095fa10cbd778d0ad"
+msgid "업적 [원초적 공포] 획득보상"
+msgstr ""
+
+msgctxt "cb82131fef7af7d4370b2ba745199f14"
+msgid "ID=107910"
+msgstr ""
+
+msgctxt "44f7d754878e0579e5b81c2becccd4f0"
+msgid "이상 공백의"
+msgstr ""
+
+msgctxt "63148f37ddff37a136ee05e01fb19d3e"
+msgid "일련의 이상공백을 해결한 이들에게 주어지는 칭호.\\n이제 클라우드림은 조금 더 평화로워진 것이겠죠?"
+msgstr ""
+
+msgctxt "1ad5acde4f4fb0d805711a2a0b3667ca"
+msgid "더 프라이멀 점유율 보상"
+msgstr ""
+
+msgctxt "8adf45ba33eff41f69495b0c29ad7471"
+msgid "ID=108010"
+msgstr ""
+
+msgctxt "1ff6799b193aa6370bb84903456e4d3f"
+msgid "의욕 넘치는"
+msgstr ""
+
+msgctxt "d74fbc1d5726abb22925937c202d4277"
+msgid "전투의 극의를 깨닫기 시작한 자에게 주어지는 칭호"
+msgstr ""
+
+msgctxt "6fd70bec250a52a194146c4c4da1359a"
+msgid "루키D 계급달성 시 획득"
+msgstr ""
+
+msgctxt "90a6eccf08e5bedc79cd54ae0ac005f1"
+msgid "ID=108020"
+msgstr ""
+
+msgctxt "c4685cc34d71b0ba42eb76141fa24716"
+msgid "열정 있는"
+msgstr ""
+
+msgctxt "2d3095c679d9941791b5d642677c514a"
+msgid "루키C 계급달성 시 획득"
+msgstr ""
+
+msgctxt "6640c27d8ef48b0ce1f9bc4c1d740b2c"
+msgid "ID=108030"
+msgstr ""
+
+msgctxt "494c2a011e922665e607a48301cff4c4"
+msgid "호전적인"
+msgstr ""
+
+msgctxt "158abc9db97e8f769d73f1b5cef3c277"
+msgid "루키B 계급달성 시 획득"
+msgstr ""
+
+msgctxt "27fb1d30f63a47c48b067c15b8327a39"
+msgid "ID=108040"
+msgstr ""
+
+msgctxt "ae365040b9f6006c04ea0b5fb1730b01"
+msgid "투지의"
+msgstr ""
+
+msgctxt "45e41d91a190672938f9f87086f2a0ed"
+msgid "루키A 계급달성 시 획득"
+msgstr ""
+
+msgctxt "13d060b8d5e19838b362fb8e32227121"
+msgid "ID=200010"
+msgstr ""
+
+msgctxt "b9872244d18082fcdbb19f573c58fac7"
+msgid "CBT 선발대"
+msgstr ""
+
+msgctxt "470efef7c21b642e7e8d78638fe6cfe6"
+msgid ""
+"선발대는 미지의 임무를 맞서 나아가는 용기가 필요한 멋진 부대라고 할 수 있습니다. CBT 1차 선발대로 불굴의 의지로 함께 나아가 "
+"주셔서 감사합니다!"
+msgstr ""
+
+msgctxt "ba753aeb6b598a8800de7bc6c2a0343a"
+msgid "1차 CBT에 응모"
+msgstr ""
+
+msgctxt "513bc963b353cceaf0a2554e415f736f"
+msgid "ID=200020"
+msgstr ""
+
+msgctxt "0403d15079878e739287ccb8280babe3"
+msgid "무게를 아는 자"
+msgstr ""
+
+msgctxt "23403e1c570889163cb151cd5e666c43"
+msgid ""
+"앞에 무슨 말이 붙든, 무게를 안다는 것은 그만큼 진중하고, 든든하게 지탱해 나간다는 느낌을 줍니다. CBT 2차에 참가하여 진중하고 "
+"무게감 있게 함께 해주셔서 감사합니다!"
+msgstr ""
+
+msgctxt "39e362f71247acc30ea777eeb083fe62"
+msgid "2차 CBT에 사전등록"
+msgstr ""
+
+msgctxt "23e07ddf9db51bdc444ed0c60afd05d1"
+msgid "ID=200100"
+msgstr ""
+
+msgctxt "cbdb8e776fbbcc8b517cd41d72ad3fe6"
+msgid "소울워커"
+msgstr ""
+
+msgctxt "fa149ca157b16fbafeb418b44879b07c"
+msgid "소울워커가 되신 것을 환영합니다."
+msgstr ""
+
+msgctxt "94516c64ada8549e64331aafdc337c12"
+msgid "ID=200201"
+msgstr ""
+
+msgctxt "01e229276ac8b2c583f5bb2a83bea477"
+msgid "헌신"
+msgstr ""
+
+msgctxt "b1e1633d57c19a044e73c3cbf5dd3c50"
+msgid ""
+"거룩한 무언가를 이루려 할 때 우리는 다양한 감정을 느끼고 경험합니다. \\n그것이 무엇일지는 각자가 정하는 길에 따라 다른 것이겠죠."
+msgstr ""
+
+msgctxt "fbc8c59fdff5b7752ec1b7ecd072f458"
+msgid "ID=200202"
+msgstr ""
+
+msgctxt "d465dbb48028b97874b7efa2fd2f6feb"
+msgid "자아"
+msgstr ""
+
+msgctxt "4fb66822d9bde8dd430d5c08fe96b52d"
+msgid "ID=200203"
+msgstr ""
+
+msgctxt "4ac6ff03c7d927c49014af7936f57b3a"
+msgid "안위"
+msgstr ""
+
+msgctxt "ebf114dfab8f5b1f6cb6cba4ff069eb8"
+msgid "ID=200204"
+msgstr ""
+
+msgctxt "d67f599e9fa5862066042613ec1feeac"
+msgid "체념"
+msgstr ""
+
+msgctxt "c3a2672cf79f8897fd0a6fa2e664997d"
+msgid "ID=200205"
+msgstr ""
+
+msgctxt "6117f238edf8024f38e69a00fd529d9b"
+msgid "안도"
+msgstr ""
+
+msgctxt "a105616222e2dcb9c974cc029fade56b"
+msgid "ID=200206"
+msgstr ""
+
+msgctxt "9a2a6df94e64e2c746cd06c134e00ceb"
+msgid "희생"
+msgstr ""
+
+msgctxt "b3da20a05f13ab49abac02055f9c9095"
+msgid "ID=200300"
+msgstr ""
+
+msgctxt "1b7c3f1d15afbc22838cb84d4c20293b"
+msgid "안식"
+msgstr ""
+
+msgctxt "5d8671647d3709c6b92cf0fcf9b050a6"
+msgid "안식은 편히 쉰다는 것을 의미합니다. 타의에 의해 고통스러운 삶을 지속하고 있는 이들에게 안식을 내려줍시다."
+msgstr ""
+
+msgctxt "12de7a455a01c5eff50302de5b7a5074"
+msgid "ID=200401"
+msgstr ""
+
+msgctxt "ba3f0fc42048232c6c15e29c6625eda4"
+msgid "검"
+msgstr ""
+
+msgctxt "b936747e30e504206f11974f48eb3466"
+msgid "비탄 섞인 소년 소녀들이 휘두른 무기는 그들의 마음을 달래줄 수 있는 것일까요."
+msgstr ""
+
+msgctxt "4604c6737faa2854e712efd65e345d56"
+msgid "ID=200402"
+msgstr ""
+
+msgctxt "e8c497abf4d025226b6f9f8bb19459c2"
+msgid "탄환"
+msgstr ""
+
+msgctxt "4974d660d28d657fcaf89613616322a1"
+msgid "ID=200403"
+msgstr ""
+
+msgctxt "30e253eb68b03f83406ffdfacbf44841"
+msgid "서슬"
+msgstr ""
+
+msgctxt "6c57da6cb418943ceabb45927e42f9a9"
+msgid "ID=200404"
+msgstr ""
+
+msgctxt "cd3d617243a119850d0464f894830cf2"
+msgid "주먹"
+msgstr ""
+
+msgctxt "b3747897b8c051180338f0ac6b842605"
+msgid "ID=200405"
+msgstr ""
+
+msgctxt "62264f11d74e99ee4466980ac44dd8be"
+msgid "악상"
+msgstr ""
+
+msgctxt "53d539ebcf47fa8c7020e3bd757e9abd"
+msgid "ID=200406"
+msgstr ""
+
+msgctxt "e87d263559c76e1d718953befd24dc7b"
+msgid "포화"
+msgstr ""
+
+msgctxt "2d22b21740517a984ad6812b63f9fffb"
+msgid "ID=200500"
+msgstr ""
+
+msgctxt "cc2a7a1a1225ed522a09a9be1bd78e5d"
+msgid "패자"
+msgstr ""
+
+msgctxt "06b41498b0bfd171199c0ff5a4be50e0"
+msgid "창공을 제패하는 느낌은 어떨까요?\\n하늘의 왕이 된다는 느낌? \\n어떤 만화처럼 신이 되는 느낌일까요?"
+msgstr ""
+
+msgctxt "d97efdef8815c300146e5195bb884727"
+msgid "ID=200600"
+msgstr ""
+
+msgctxt "446ee490ccf761aaa13bdf2f4762ae51"
+msgid "내리는 자"
+msgstr ""
+
+msgctxt "070bb635c23a42d5d7da16ab85e319d0"
+msgid ""
+"내린다는 것은 상이나 벌 따위가 주어지거나, 그렇게 할 때 사용되곤 합니다. 신의를 저버린 이들이 스스로 벌을 받을 생각이 없으니 나서서 "
+"엄벌을 내려야만 합니다."
+msgstr ""
+
+msgctxt "0cd09a87ddc31071b2867ad85b4254d7"
+msgid "ID=200700"
+msgstr ""
+
+msgctxt "94b6ee1f8a88cf5e4426056e68e0f453"
+msgid "인연"
+msgstr ""
+
+msgctxt "6afc27216daf6625e89de6d2f09c9fca"
+msgid ""
+"사람과 사람 사이의 인연은 자신도 알 수 없는 어느 때, 어느 공간에서 어떻게 찾아올지 아무도 알 수 없는 것입니다. 그렇기에 더욱더 "
+"소중한 것이겠죠?"
+msgstr ""
+
+msgctxt "d5fe83ebadd789748e4f5aeb10284c04"
+msgid "ID=200801"
+msgstr ""
+
+msgctxt "8369e25cc8b43461e85f0a49de97f691"
+msgid "방황하는 소녀"
+msgstr ""
+
+msgctxt "8775736b32b48216e051673b949e10fa"
+msgid ""
+"운명에 휩쓸려 방황하게 된 소년 소녀들은 앞으로 어떤 선택을 하게 될까요. 운명에 순응할 것인지, 거부할 것인지 선택의 시기는 머지않아 "
+"찾아올 것입니다."
+msgstr ""
+
+msgctxt "173aec423de253da0e79e424f34bef8e"
+msgid "ID=200802"
+msgstr ""
+
+msgctxt "58a5aa0946baf5ebfe4f99d188e6454f"
+msgid "방황하는 소년"
+msgstr ""
+
+msgctxt "09bfe5b0ee4536e7ced7bee0ccf89015"
+msgid "ID=200803"
+msgstr ""
+
+msgctxt "d60a79d2eee1accdc18ad4bb9f436e40"
+msgid "ID=200804"
+msgstr ""
+
+msgctxt "cfd9034badcbabf21ea1204f2c1a53a4"
+msgid "ID=200805"
+msgstr ""
+
+msgctxt "85d3dd3876526bbceeeff2ee3d103512"
+msgid "ID=200806"
+msgstr ""
+
+msgctxt "f58995574e51135e68a6ca35eb66049c"
+msgid "ID=200910"
+msgstr ""
+
+msgctxt "a49254a16d5a8956e8ace4a7c4a20f7a"
+msgid "뛰어난 자"
+msgstr ""
+
+msgctxt "206ad1a6fb271336d7a79e166de460a9"
+msgid "무슨 일이든 뛰어난 사람이라고 인정받는 것은 대단히 어렵지만 그만큼 굉장히 자랑스러운 일일 겁니다!"
+msgstr ""
+
+msgctxt "e02d1ff8e6c057fbbde45f524859de1c"
+msgid "ID=200920"
+msgstr ""
+
+msgctxt "cc624b945bb697ba55d6031a57ad05ee"
+msgid "부상자"
+msgstr ""
+
+msgctxt "d4f5b4aa352cf78df9e0e60347fe7768"
+msgid "부상자는 즉시 병원으로 향하는 것이 좋습니다.\\n민간의료 행위에는 한계가 있는 법이니까요."
+msgstr ""
+
+msgctxt "a0aa1a8881ab99e3a8b22d13720c1aec"
+msgid "ID=200930"
+msgstr ""
+
+msgctxt "410f2ec5a0e5f290a7b60ed69efe9407"
+msgid "소비자"
+msgstr ""
+
+msgctxt "4478ea940c0d74d931b3879c22f6bd42"
+msgid ""
+"소비자는 소비자만의 권리를 가지고 있는 법이죠.\\n자신의 가지고 있는 권리를 잘 알아보고 사용하시어 기분좋은 소비생활을 영위하시길!"
+msgstr ""
+
+msgctxt "4e63e8a0dbe493c7bc2853e0e22782f9"
+msgid "ID=201010"
+msgstr ""
+
+msgctxt "3b9abb7ee9220dfddddd23f9954f7e41"
+msgid "선구자"
+msgstr ""
+
+msgctxt "ae957c15643549060a9a50daf559142f"
+msgid "어떤 일의 선구자가 될 것만 같은 칭호로군요.\\n왠지 무언가 먼저 해야만 할 것 같은 압박이 듭니다."
+msgstr ""
+
+msgctxt "67893baa0863b671e521cd9bf2833c05"
+msgid "ID=201020"
+msgstr ""
+
+msgctxt "bb832b78d30d6a0f76df3c7cba720376"
+msgid "단골"
+msgstr ""
+
+msgctxt "36b4b9d232896e9328ff0827f6d180ab"
+msgid ""
+"한곳에 단골이 된다는 것은 그곳의 물건, 음식들도 중요하지만, 가게 직원들이 어떤 느낌을 주는지가 더 중요하게 여겨지곤 합니다!"
+msgstr ""
+
+msgctxt "ee13a36d75e2f8650887235f5b2e2148"
+msgid "ID=201030"
+msgstr ""
+
+msgctxt "5a11e0bd65af42743f1db2f10bcbba8e"
+msgid "VIP"
+msgstr ""
+
+msgctxt "2b47d32f53f1735f8353d28929f33b1b"
+msgid "매우 중요한 사람의 약자인 VIP는 그 이름을 \\n받는 것만으로도 기분이 정말정말 좋아집니다."
+msgstr ""
+
+msgctxt "6138c662c690d245d85f318cf45cf8ef"
+msgid "ID=201040"
+msgstr ""
+
+msgctxt "78139dd8e23e1ccd4ed4d3d613dfb73f"
+msgid "VVIP"
+msgstr ""
+
+msgctxt "126ef0978dd9844512a434825557ed91"
+msgid "기존 VIP에, V를 하나 더 붙여 중요한 사람인 것을 한 번 더 강조하였습니다."
+msgstr ""
+
+msgctxt "257124f1ce52d531e6fd2980e6a2526d"
+msgid "ID=201110"
+msgstr ""
+
+msgctxt "f38abf6ed13d65bc8aa59995213fcfd4"
+msgid "무기 주인"
+msgstr ""
+
+msgctxt "b85ace89f230be7fd05ebc9a7b07b13e"
+msgid "무기의 좋은 주인이 가져야 할 덕목이 있습니다.\\n깨지면 수리해주기, 예쁜 코스튬 입혀주기…?"
+msgstr ""
+
+msgctxt "cfbcc09e3f9540f2b5bc17ecb4e7843c"
+msgid "ID=201120"
+msgstr ""
+
+msgctxt "8ce6e9879fa70d0f1b4fb29a514097fd"
+msgid "수집가"
+msgstr ""
+
+msgctxt "8936693212832c2fb32a195a78693ef3"
+msgid "수집가는 한가지에 굉장한 몰입을 하는 사람들을 지칭하는 것일지도 모릅니다."
+msgstr ""
+
+msgctxt "7df2da4f062482f90beb1f62926b5c33"
+msgid "ID=201130"
+msgstr ""
+
+msgctxt "5cb6906345872b03d5225ee8900230dd"
+msgid "큰 손"
+msgstr ""
+
+msgctxt "b9f74e0f7c3da91d79624e2c7257402a"
+msgid "큰 손을 가진 사람은 얼마나 큰 손을 가지고 있어야 큰 손이라고 부르는 것일까요?"
+msgstr ""
+
+msgctxt "baf500b8092b920a7f1a044e95ae6b68"
+msgid "ID=201210"
+msgstr ""
+
+msgctxt "309c1f138610bccc15eca66494fa7485"
+msgid "패배자"
+msgstr ""
+
+msgctxt "de11b37879023cadb1abf6ae27ca618b"
+msgid "패배자에서 승리자가 되는 그 날까지 우리 모두 파이팅입니다!"
+msgstr ""
+
+msgctxt "588eb9c37158aa7b9faad767db0e69a6"
+msgid "ID=201220"
+msgstr ""
+
+msgctxt "aa6ff1feec5ecefe12c65e82f318c8fb"
+msgid "노숙자"
+msgstr ""
+
+msgctxt "210dcc5dbe652a95d5636c219381524b"
+msgid "밖에서 노숙한다는 건 많은 체력을 소모로 합니다.\\n집을 사랑합시다!"
+msgstr ""
+
+msgctxt "4551c292decec5d69730316e5a3fdf0c"
+msgid "ID=201230"
+msgstr ""
+
+msgctxt "f9106cf74c7dc35262650caba98e1237"
+msgid "시체"
+msgstr ""
+
+msgctxt "59aae185bed3b7b05de4686488f5a424"
+msgid ""
+"되살아난 시체들은 몸 유지를 잘못하여 괴상한 형태를 지닌 경우가 많습니다. \\n부디 몸 관리 잘하셔서 퇴치당하지 않도록 조심하세요~"
+msgstr ""
+
+msgctxt "fb1bd502d63f27df9afa45443d2a3bf3"
+msgid "ID=201240"
+msgstr ""
+
+msgctxt "7c02e3aa7b327251d80ef8bef6b2d656"
+msgid "불사신"
+msgstr ""
+
+msgctxt "621d3c04955416aefe66da3126c6b280"
+msgid ""
+"불사신이라는 것은 무엇을 당해도 죽지 않는다는 것이죠! 이걸 끼고 있으면 다가오는 죽음도 당신만 피해갈 거에요! 아마도 말이죠…."
+msgstr ""
+
+msgctxt "198081b5d325855bd65257a7f6a1fc29"
+msgid "ID=201310"
+msgstr ""
+
+msgctxt "f7c8c6edab5890f4031f7b51353a4cb3"
+msgid "청소하는 자"
+msgstr ""
+
+msgctxt "8e081f4ff97db6753aa1bc644fb99a4b"
+msgid "청소라는 것은 많은 체력을 소모로 합니다.\\n도구에 따라 허리가 끊어질 것 같은 아픔을 느낄 수도 있습니다."
+msgstr ""
+
+msgctxt "11c82574076ea17649337bed2602b754"
+msgid "ID=201320"
+msgstr ""
+
+msgctxt "f1f03a0296acfb6813164f4c07298cd4"
+msgid "섬멸하는 자"
+msgstr ""
+
+msgctxt "c2a995940870b00731208d18b5da73b6"
+msgid "섬멸은 모조리 무찔러 멸망시킨다는 뜻이라고 합니다.\\n정말 살벌한 단어였군요!"
+msgstr ""
+
+msgctxt "46c15e289342f72cc91921a566a31e4c"
+msgid "ID=201330"
+msgstr ""
+
+msgctxt "e7d29e6c1caee2fe02aa26ea06008012"
+msgid "물리친 자"
+msgstr ""
+
+msgctxt "c1b014b004c559a8a3e9a63ea32e63d0"
+msgid "섬멸을 말하다가 물리친 자를 이야기하니까,\\n굉장히 캐쥬얼해진 느낌입니다?"
+msgstr ""
+
+msgctxt "e830d4794819f48a484aed2bce4301b1"
+msgid "ID=201340"
+msgstr ""
+
+msgctxt "3ef8e737bfa5c3a137c7b8f3a2287d99"
+msgid "몬스터"
+msgstr ""
+
+msgctxt "1b3863600208111dc6751ce9f92350bb"
+msgid "ID=201410"
+msgstr ""
+
+msgctxt "7715b236f72787c2b6ee28875f83e978"
+msgid "실력자"
+msgstr ""
+
+msgctxt "68efb944246d53fa2d653ec8ccbfea77"
+msgid "실력이 좋은 사람을 말할 때 실력자라고 이야기하는데 왜 실력자라고 하는 것일까요.\\n실력이 좋은 자는 너무 길어서?"
+msgstr ""
+
+msgctxt "529639113e2c82355d2e447c1decb0ae"
+msgid "ID=201420"
+msgstr ""
+
+msgctxt "df8db32da3e1c1f2a1f70fa6db02c6ec"
+msgid "수혜자"
+msgstr ""
+
+msgctxt "28948d9b18a009154879537afc3966c4"
+msgid "수혜자. 혜택을 받는 사람이라고 하죠.\\n무언가 혜택을 받지 않아도 이 칭호를 사용하실 수 있습니다."
+msgstr ""
+
+msgctxt "d76bfdcf25ce5fcb8fbf53557d7baf8d"
+msgid "ID=201430"
+msgstr ""
+
+msgctxt "5b89cb753bebf57702f67894e1f2c412"
+msgid "투사"
+msgstr ""
+
+msgctxt "919036f123314ee464206c0237b3250b"
+msgid "용맹한 당신이 더 용맹해지시라고 투사의 이름을 선사합니다~"
+msgstr ""
+
+msgctxt "3c92a743d81075096b41f3532ebbc596"
+msgid "ID=201440"
+msgstr ""
+
+msgctxt "ab1087fb6126aecd6d802a13c9b4575c"
+msgid "헌터"
+msgstr ""
+
+msgctxt "3da068b5f0ba1af1b2211c4b3f2214d3"
+msgid "[헌터]라 하니 어떤 만화의 제목이 생각나네요.\\n당신은 어떤 헌터를 지향하시나요?"
+msgstr ""
+
+msgctxt "fb266f9de9949b6fc8bba0547f45e3ce"
+msgid "ID=201510"
+msgstr ""
+
+msgctxt "391b2a0a0ce285d0da9627f0ce23dc45"
+msgid "소시민"
+msgstr ""
+
+msgctxt "9611dc4146a4ca8d4370270efded6bdc"
+msgid "소시민은 부르주아 계급과 프롤레타리아 계급의 중간에 존재하여, \\n중간적 또는 부르주아적 의식을 가진 계층이라고도 합니다."
+msgstr ""
+
+msgctxt "b93e68027e7273b333dce3aa11521af5"
+msgid "ID=201520"
+msgstr ""
+
+msgctxt "8e8eb560976187c0f1c635c405c690a8"
+msgid "시민"
+msgstr ""
+
+msgctxt "481040891d99d106b6f278cf968c907f"
+msgid "이제 당신도 훌륭한 클라우드림의 시민입니다.\\n뜬금없겠지만 축하드려요~"
+msgstr ""
+
+msgctxt "6cf2e9db21b8d0f90ae97c9807f9e287"
+msgid "ID=201530"
+msgstr ""
+
+msgctxt "9983c03a4c4a19ee0e4821c31ede78e2"
+msgid "도전자"
+msgstr ""
+
+msgctxt "d78ca32366ad2100378e11775e538f40"
+msgid "도전하는 사람은 아름답다고 하지요.\\n당신은 도전자니까 분명 아름다울 거에요!"
+msgstr ""
+
+msgctxt "23a8194e7b99fcc98064699db6debd5e"
+msgid "ID=201540"
+msgstr ""
+
+msgctxt "5541fdb96083226ebfa1b9104af70631"
+msgid "버스터"
+msgstr ""
+
+msgctxt "0a9185126c02e64012af95f43cd11322"
+msgid "버스터는 아무래도 파괴적 성향이 강하게 나타나는 단어이지요. 착용하는 당신도 매우 파괴적이 될지도?"
+msgstr ""
+
+msgctxt "df89c2916eed62609d89e6ada2652160"
+msgid "ID=201610"
+msgstr ""
+
+msgctxt "aaa24c0ee5963e7629ce2ba8d8e97b32"
+msgid "위안"
+msgstr ""
+
+msgctxt "655b5731aee039510a28cb08f7d7e071"
+msgid "괜찮아요. 잘될 거에요! 하고 위안을 해봅니다."
+msgstr ""
+
+msgctxt "9f77c40fd045de14bdfee289c998cab6"
+msgid "ID=201620"
+msgstr ""
+
+msgctxt "858032a9aba3b01cf3b9e13362b67b77"
+msgid "스트롱거"
+msgstr ""
+
+msgctxt "81cf1a771ad94651f2bda7b93c38d3bf"
+msgid "빨대같이 느껴지지만 기분 탓일 거에요."
+msgstr ""
+
+msgctxt "a0aac150e484e588ddcae7a120bb2c71"
+msgid "업적 [네가 4000번째래] 획득보상"
+msgstr ""
+
+msgctxt "04756752f2d044580a75586b35254109"
+msgid "ID=201630"
+msgstr ""
+
+msgctxt "737809794ac1e65fbe77f55fceca7613"
+msgid "사냥꾼"
+msgstr ""
+
+msgctxt "20ac266dc34976ea0d715cffe51660be"
+msgid "무엇을 사냥하느냐에 따라 사냥꾼의 \\n느낌이 달라지는 것 같습니다."
+msgstr ""
+
+msgctxt "a4cf098b6e0c75dd13e06cb1e313dc6a"
+msgid "ID=201640"
+msgstr ""
+
+msgctxt "402cc7695147a9dc6359a90f75975baf"
+msgid "체이서"
+msgstr ""
+
+msgctxt "4a0ddcbece0328684591824f021bbb67"
+msgid "체이서는 뒤도 돌아보지 말고 원하는 것만 보고 달려야 합니다! "
+msgstr ""
+
+msgctxt "638bbe38f2de8bcb34f5e49caf0d3266"
+msgid "ID=201710"
+msgstr ""
+
+msgctxt "49be5ba93ffb90bd31a83879aa0c4f93"
+msgid "2인자"
+msgstr ""
+
+msgctxt "e81ebdb901c7f501506f3ff403ab7c5f"
+msgid "접두 2인자에서도 이야기하였지만, 2등은 소중한 겁니다! 2등도 잘하는 거에요!"
+msgstr ""
+
+msgctxt "b753771a12a7a037a1f1526ecb24675b"
+msgid "ID=201720"
+msgstr ""
+
+msgctxt "84c2f63cf071c79b74991de1cb80cef0"
+msgid "첼린져"
+msgstr ""
+
+msgctxt "423cb47875cdd698afd71155c6c63800"
+msgid "도전하는 사람을 말하기도 하지만 도전하는 사람들을 지칭해서 첼린져라고 하기도 하죠."
+msgstr ""
+
+msgctxt "232c428e0133b80632d4863c48a0879a"
+msgid "ID=201730"
+msgstr ""
+
+msgctxt "7334f21983929c60d06937973b74bd94"
+msgid "탐내는 자"
+msgstr ""
+
+msgctxt "f7668fdcb118d4daac296b0c813f4177"
+msgid "무언갈 탐내 하게 되면, 침을 흘리지 않게 조심해야 합니다. \\n왠지 그런 이미지랄까~ 느낌이 있으니까요!"
+msgstr ""
+
+msgctxt "23ac9deaf59d892fe091d1dde72bfedf"
+msgid "ID=201740"
+msgstr ""
+
+msgctxt "a157e394c74a44390a57eb474d775263"
+msgid "킬러"
+msgstr ""
+
+msgctxt "c6f3ee8ec474baccee7f9aa81a9c2f1b"
+msgid "킬러는 정말로 조용히 움직여야 할 것만 같습니다.\\n왠지 그런 느낌이 듭니다."
+msgstr ""
+
+msgctxt "28a52ce953985248a5feb2a1f59c7010"
+msgid "ID=201810"
+msgstr ""
+
+msgctxt "719387b9e227210139b6e0400655fd57"
+msgid "추적자"
+msgstr ""
+
+msgctxt "656c04eb929aac0942e675cdfd58d648"
+msgid "추적자도 뒤도 돌아보지 말고 잡아야 하는 것만 보고 열심히 달려야 하는 겁니다!"
+msgstr ""
+
+msgctxt "d592da7938ca9e5efe4d68478dee7d6e"
+msgid "ID=201820"
+msgstr ""
+
+msgctxt "76adfc5cd9b7eac8ee661cb42e369bbf"
+msgid "위협하는 자"
+msgstr ""
+
+msgctxt "318dff67a6386485d6566ac6f26e9e14"
+msgid "당신이 이것으로 인해, 적에게 더 큰 위협이 되길 바랍니다~"
+msgstr ""
+
+msgctxt "deb0c91f804220692b7e53c397a8ef62"
+msgid "ID=201830"
+msgstr ""
+
+msgctxt "98a547b300f36c6408a0072abcb97d95"
+msgid "트랙커"
+msgstr ""
+
+msgctxt "f77ada2eb4d6bf7437aa0955abf149cc"
+msgid "트랙터 같은 느낌을 줄 수 있지만, 기분 탓일 겁니다."
+msgstr ""
+
+msgctxt "0c5c3730cfab54070a57fe21c58ed638"
+msgid "ID=201840"
+msgstr ""
+
+msgctxt "633f9b9fb85002ff358d19e589a7cc20"
+msgid "이와 비슷한 단어가 사용된 만화 제목이 생각나는군요.\\n왠지 드래곤 어쩌고를 외쳐야 할 것만 같습니다."
+msgstr ""
+
+msgctxt "d57f0a9a524ecd759a72d1b782066ea1"
+msgid "ID=201910"
+msgstr ""
+
+msgctxt "f5fa29aea22b60a019eff1c532ff825f"
+msgid "참가자"
+msgstr ""
+
+msgctxt "fc0c42d7966b9b597e5bd73830c5b229"
+msgid "일반인 참가자 1, 2가 되지 않도록 우리 모두 힘을 냅시다!"
+msgstr ""
+
+msgctxt "c7f889d21bce678a888320986de2564f"
+msgid "ID=201920"
+msgstr ""
+
+msgctxt "6b7277b12ceab973a88ec5c7adc6c90d"
+msgid "장군"
+msgstr ""
+
+msgctxt "bde854d85b1e1307e0404e821b2126e1"
+msgid "장군! 적장을 처치하셨다니!\\n감축 드리옵니다~"
+msgstr ""
+
+msgctxt "898c9daec392b0dbbca910bc06590cc6"
+msgid "ID=201930"
+msgstr ""
+
+msgctxt "40503ea7e4db03e77e14759718314bed"
+msgid "영광"
+msgstr ""
+
+msgctxt "59a8e3f83667128408ef034964cff24d"
+msgid "500명의 적장을 벤 당신에게 영광이 함께하기를!"
+msgstr ""
+
+msgctxt "24c4d140d9ca46b44a8a7e3b37c61bcb"
+msgid "ID=201940"
+msgstr ""
+
+msgctxt "3bccffd77a5307b329fa7518c309261d"
+msgid "마스터"
+msgstr ""
+
+msgctxt "a80a4b14ee77b9a563fb589f32f06806"
+msgid "레이드를 제패한 당신에게 마스터의 칭호를 드립니다."
+msgstr ""
+
+msgctxt "338f75dfe8cfc97ccd65585bd298df32"
+msgid "ID=202010"
+msgstr ""
+
+msgctxt "32e4bec9d90ac0841d28c86176ab2053"
+msgid "기피자"
+msgstr ""
+
+msgctxt "fdb705ad099affc54605566a169744b4"
+msgid "기피자는 정말로 그걸 싫어하고 꺼리는 겁니다."
+msgstr ""
+
+msgctxt "b120ae30d4649107e9b9ef4a13844dbb"
+msgid "ID=202020"
+msgstr ""
+
+msgctxt "7a9dbf758ccbf9c763b3162f43e4dffc"
+msgid "터트리는 자"
+msgstr ""
+
+msgctxt "0b61ea12de2cdb13d7abe03e6c80676f"
+msgid "무엇을 터트리느냐에 따라 정말 느낌이 많이~달라질 수 있습니다."
+msgstr ""
+
+msgctxt "164ba9f7f6bf98f174294cabb742331e"
+msgid "ID=202030"
+msgstr ""
+
+msgctxt "02b75cefe9dcd72d2a658fbec6874375"
+msgid "투시자"
+msgstr ""
+
+msgctxt "5ef0b06edcf27be9dd638f4286f2b555"
+msgid "투시하는 사람은 시력이 어떻게 될까요?\\n시력이 정말 높겠죠?"
+msgstr ""
+
+msgctxt "b9e4c422c4c245a992ac6b09bd05ddff"
+msgid "ID=202040"
+msgstr ""
+
+msgctxt "adc5b29d28e04cdbf03afc9371283821"
+msgid "디스트로이어"
+msgstr ""
+
+msgctxt "6b6f0a7d4b7241b3bc10b14da989b6e3"
+msgid "파괴자는 최대한 적군에게만 피해를 줄 수 있도록 주의를 기울여야 합니다."
+msgstr ""
+
+msgctxt "188150c7ba800ea61a546743e4235989"
+msgid "ID=202110"
+msgstr ""
+
+msgctxt "b8039ba05c08557d4fa982d4be3a077e"
+msgid "샤워"
+msgstr ""
+
+msgctxt "9e4d27968a988479f04c0fffc74303d1"
+msgid "샤워기 밑에서 따뜻한 물을 맞고 있으면 하루의 피로가 모두 날아가는 느낌이어서 정말 좋습니다!"
+msgstr ""
+
+msgctxt "6f5cca35acccf9e31763ac9bb675a94d"
+msgid "ID=202120"
+msgstr ""
+
+msgctxt "1c0c79eb602328e9209162ce13d06f29"
+msgid "감각"
+msgstr ""
+
+msgctxt "78ac0f15f56211c614b9e187c8741d85"
+msgid "감각은 시각, 촉각, 미각, 후각, 청각을 통한 자극을 알아차리는 것을 뜻하지요~"
+msgstr ""
+
+msgctxt "8063787fe19f8b2ef66059b47d952b33"
+msgid "ID=202130"
+msgstr ""
+
+msgctxt "50ff34071ca762e06be9ec2d3b201fe5"
+msgid "거주자"
+msgstr ""
+
+msgctxt "05b2b91b16e6eed32e9aa4e04785d804"
+msgid "아무리 하수구가 익숙해져도 하수구 거주자가 되는 것은 안 될 말입니다.\\n몸에서 냄새가 빠지지 않게 될 거에요."
+msgstr ""
+
+msgctxt "c421efc2b615aa19baa1af6c272fc89c"
+msgid "ID=202140"
+msgstr ""
+
+msgctxt "90307f64cf898680bb3de14205fb5db5"
+msgid "클리너"
+msgstr ""
+
+msgctxt "60b02765bcd8613f5783bd7309d691b7"
+msgid "정크들에게서 찐득거리는 미확인 액체를 제거할 수 있는 클리너가 하루빨리 개발되었으면 좋겠습니다."
+msgstr ""
+
+msgctxt "42e45426a2a304b5bef3470570c6f84f"
+msgid "ID=202210"
+msgstr ""
+
+msgctxt "647d252252819fec76237992ebca68e9"
+msgid "신뢰"
+msgstr ""
+
+msgctxt "8b4d745b7048124f7a7585390bc8630c"
+msgid "신뢰를 유지한다는 것은 정말 어려운 일입니다.\\n한 번의 실수로도 쌓아온 것들을 모두 잃어버릴 수 있으니까요."
+msgstr ""
+
+msgctxt "4a0aae3729f7203dbcf0190f702141e9"
+msgid "ID=202220"
+msgstr ""
+
+msgctxt "198a810eae459ec626b6730da1b16043"
+msgid "분노"
+msgstr ""
+
+msgctxt "7728acc8fbc1e83e7d9bb802d325d87c"
+msgid "분노에 몸을 맡기면, 분노의 대상보다 본인이 더 큰 피해와 상처를 받을 수 있으니 주의하세요~"
+msgstr ""
+
+msgctxt "26ebcbea718071f3ab26e2c2d177023d"
+msgid "ID=202230"
+msgstr ""
+
+msgctxt "dcb51be3005395cfcdba84d77a6162c4"
+msgid "복수자"
+msgstr ""
+
+msgctxt "15b9218b875d974dd5f2323bdc947359"
+msgid "복수자라고 하면 희번덕이는 안광이 생각나는 건 왜인지 모르겠습니다."
+msgstr ""
+
+msgctxt "79f441dd93b5337f7257f331a285c37a"
+msgid "ID=202240"
+msgstr ""
+
+msgctxt "e4a22c3fa07190b78b7885077ca62029"
+msgid "리벤저"
+msgstr ""
+
+msgctxt "e1004e7bbd6ee92cce1608e225180e9f"
+msgid "같은 복수자라는 뜻을 가지고 있지만, 왠지 리벤져는 조금 덜 무서운 느낌을 줍니다."
+msgstr ""
+
+msgctxt "63433bd7da4ad45f9e5e6779643d560d"
+msgid "ID=202310"
+msgstr ""
+
+msgctxt "ccdc3e80da71ef958bafcff057dc2489"
+msgid "소방수"
+msgstr ""
+
+msgctxt "81de4adecca726046cb0d3580dd6eac5"
+msgid "소방수분들은 정말 대단하신 분들입니다.\\n목숨을 걸고 화재를 진압하는 멋진 분들이십니다!"
+msgstr ""
+
+msgctxt "a56944e4f8a98eb36f73a2b97f67919e"
+msgid "ID=202320"
+msgstr ""
+
+msgctxt "780241ab5ef7357fd2c67a8cebdc4f25"
+msgid "꿈꾸는 자"
+msgstr ""
+
+msgctxt "d1f2f36dc74e8c13c303b8cb99e069c0"
+msgid "사람은 자고로 꿈을 꾸면서 살아야 하는 겁니다."
+msgstr ""
+
+msgctxt "6b6c2e1b6b4bf723fb8a25c805b2019a"
+msgid "ID=202330"
+msgstr ""
+
+msgctxt "321d947a0717448058f31810d7050a05"
+msgid "트레이너"
+msgstr ""
+
+msgctxt "10a9df6bfdc64af71a5ec5f4e9cf4e31"
+msgid "다이어트를 할때, 트레이너분들은 호랑이가 되어버립니다. 음식을 먹으면 가차 없이 물어 뜯으실것 같습니다."
+msgstr ""
+
+msgctxt "1ec01a0930c5f02deac578b2d9d5a505"
+msgid "ID=202340"
+msgstr ""
+
+msgctxt "ce531e2ab39ad97483c2d5987398ae51"
+msgid "파이터"
+msgstr ""
+
+msgctxt "40710d096594828aaf6177f8ba413944"
+msgid "접두가 무엇이냐에 따라 매우 다른 의미로 작용할 수 있는 파이터 입니다."
+msgstr ""
+
+msgctxt "2f8190832e895e1b43cf7cb5a3bdd6ee"
+msgid "ID=202410"
+msgstr ""
+
+msgctxt "7e03233b3faf8ea39d6d9214b14ea850"
+msgid "파괴범"
+msgstr ""
+
+msgctxt "cd2fc2162c812a899469b8c34809799a"
+msgid "파괴를 할 때에는 주위를 둘러보시고, 아군에게 피해가 가지 않도록 주의를 부탁드리겠습니다."
+msgstr ""
+
+msgctxt "1b4f4ff5e37911ab9e02b2d6a4026bc2"
+msgid "ID=202420"
+msgstr ""
+
+msgctxt "659d81a35e6886fcbb7f7cd0523b027b"
+msgid "디스트로이"
+msgstr ""
+
+msgctxt "71bca60acc2303a39d914100b691a806"
+msgid "무차별 파괴를 일삼게 되면, 아군도 본인을 슬슬 피하게 되는 불상사가 생길 수 있습니다."
+msgstr ""
+
+msgctxt "536b4a043750cbd2d6e0e1d3cffe87ca"
+msgid "ID=202430"
+msgstr ""
+
+msgctxt "f4b9e837971cfac36d4f8eacc4f44c33"
+msgid "파괴하는 자"
+msgstr ""
+
+msgctxt "206710a99c37472368e4e1fa34859d65"
+msgid "프라모델을 파괴한다는 것은 어떤 사람에게는 마치 죽음을 선사하는 충격적인 일이기도 합니다."
+msgstr ""
+
+msgctxt "f0c036fe240f6db3ea503b96c51f62bb"
+msgid "ID=202440"
+msgstr ""
+
+msgctxt "eeee096caae1456d314993c98ec09ab0"
+msgid "엔지니어"
+msgstr ""
+
+msgctxt "157c9ec4e771a74c1a7824ce2ef2adeb"
+msgid "대단한 기술을 가지고 있지 않아도, 기계치라 하여도!\\n이 칭호를 사용하실 수 있습니다~"
+msgstr ""
+
+msgctxt "9d7b780b425086c914c7446236498fb3"
+msgid "ID=202510"
+msgstr ""
+
+msgctxt "0744b8cfd13023e3a38c77a0d59ccd34"
+msgid "정든 사람"
+msgstr ""
+
+msgctxt "57c9b218d90fcb6da93426c0f3d32f6d"
+msgid "역시 정이 붙이는 데에는 자주자주 보는 게 가장 좋은 방법이지요!"
+msgstr ""
+
+msgctxt "2d31ea7b89d234b62a1344d8a18c487b"
+msgid "ID=202520"
+msgstr ""
+
+msgctxt "e16168a2643fcf558951ad6f82a496d4"
+msgid "프랜드 쉽"
+msgstr ""
+
+msgctxt "66cb4dd111018f39957cf52399535c75"
+msgid "자주자주 얼굴을 보고 정이 들면 프랜드쉽은 자연스레 동반돼서 따라오기 마련이지요!"
+msgstr ""
+
+msgctxt "16ca10d877e9c61b677d75390c20aa14"
+msgid "ID=202530"
+msgstr ""
+
+msgctxt "79a70291dd4036c100612aaba2d57c5a"
+msgid "친구 사이"
+msgstr ""
+
+msgctxt "5b7647087bbba4c2b8898d7c11f6c02e"
+msgid "500번이나 싸웠지만 싸울때 베실베실 웃게 된다면,\\n어쩌면 친구 사이인 걸지도…?"
+msgstr ""
+
+msgctxt "cac11d4492286928bace23cffe3fdfb6"
+msgid "ID=202540"
+msgstr ""
+
+msgctxt "2262c194ac85ad8f877ea3473f5cc5dc"
+msgid "프렌즈"
+msgstr ""
+
+msgctxt "085e1153293da3fbf4da1084f131a73a"
+msgid "친구라는 것은 소중하고 좋은 것입니다~\\n아껴주면서 살아갑시다!"
+msgstr ""
+
+msgctxt "8d2e0b1143f8fe76b0d93e93e6f2cd1d"
+msgid "ID=202610"
+msgstr ""
+
+msgctxt "b6d0e55f11a2d280b3ce8fadf6d14be9"
+msgid "좋은 사람"
+msgstr ""
+
+msgctxt "7f19dde8d1d2fa328e8eb0865ca13422"
+msgid "무엇이든 좋아하는 것이 있다는 것은 \\n좋은 일인 겁니다."
+msgstr ""
+
+msgctxt "729294cc1d7c0ddb36be08321ac272fb"
+msgid "ID=202620"
+msgstr ""
+
+msgctxt "aa7b57c798565f190a77a03b50ecc952"
+msgid "부수는 자"
+msgstr ""
+
+msgctxt "c2b5261413b65ef5e7148cecac2d8d71"
+msgid "가끔, 스트레스를 해소하기 위해, 샌드백을 때리는 등,\\n부수는 것을 대체하는 행위를 하면 정신적 위안이 되곤 합니다."
+msgstr ""
+
+msgctxt "846b6efec0b15058cb7a619f64271a5e"
+msgid "ID=202630"
+msgstr ""
+
+msgctxt "85590491166f0b54511a78db03f5efbb"
+msgid "파괴자"
+msgstr ""
+
+msgctxt "60706cee5f6eacc1cd3aa15b257c5c1c"
+msgid "왠지 이 칭호를 달면 내가 적보다 더 나쁜 사람이 된 것만 같은 느낌이 들지도 모르겠네요~"
+msgstr ""
+
+msgctxt "34820ad82cbf029370d4daa84e30e762"
+msgid "ID=202640"
+msgstr ""
+
+msgctxt "ddd409d465ed549d19a9fbb4da633b31"
+msgid "브레이커"
+msgstr ""
+
+msgctxt "1cf1fdbac44f6faf53ff1d23c92e8217"
+msgid "아머 브레이크의 달인인 당신께 앞으로 더 잘 부수시라고 브레이커의 칭호를 선사합니다!"
+msgstr ""
+
+msgctxt "6a0231fd5e018e091cdbf70e6f986b68"
+msgid "ID=202710"
+msgstr ""
+
+msgctxt "625b2b96f4ec8313597e60b5acda1ca8"
+msgid "참는 자"
+msgstr ""
+
+msgctxt "332c7a0e0d04fa94c4529c8cad36c356"
+msgid "참고 참아서 이겨내는 당신!\\n무려 333번의 아픔을 이겨내셨군요!"
+msgstr ""
+
+msgctxt "3c15f1a937c0ce8a5c78ffa99018b728"
+msgid "ID=202720"
+msgstr ""
+
+msgctxt "4034d5ec44ecd71b8f46e6a24a830510"
+msgid "콤보"
+msgstr ""
+
+msgctxt "e115c18b4a034756dd370eaed0734150"
+msgid "콤보라는 것은 쭉쭉 이어지게 공격할 수 있다는 점에서 기분 좋은 느낌을 주곤 합니다."
+msgstr ""
+
+msgctxt "05c9786371bcba95574865cbcb8a8288"
+msgid "ID=202730"
+msgstr ""
+
+msgctxt "0a3221a8bd38d16a4769ff0a8a31b306"
+msgid "777!"
+msgstr ""
+
+msgctxt "def56481d52d02f0c8b92b9d35e79ac0"
+msgid "행운을 불러오는 숫자 777! \\n당신에게 행운이 늘 함께하길 바랍니다~"
+msgstr ""
+
+msgctxt "3e4308291501fa26e4ce8d06c99594a5"
+msgid "ID=202740"
+msgstr ""
+
+msgctxt "2e5574502fb9527e7b6055b7aec0b556"
+msgid "콤보왕"
+msgstr ""
+
+msgctxt "59540f336b3bd67db860e34dc02c9bbe"
+msgid "전설의 콤보 999를 이룬 당신에게 콤보왕의 칭호를 선사합니다~"
+msgstr ""
+
+msgctxt "449deeff10adf5bca36bec1f7ed5a7d1"
+msgid "ID=202810"
+msgstr ""
+
+msgctxt "2168cb40738851e41ac576bf297e7960"
+msgid "호구씨"
+msgstr ""
+
+msgctxt "5f8af1905173b870efc925f246d24322"
+msgid "너무 기분 나빠 말아요~ 좋은 사람이라는 거에요~"
+msgstr ""
+
+msgctxt "b25c6ba77f114580f6e7fe2140811362"
+msgid "ID=202820"
+msgstr ""
+
+msgctxt "06883ca12d0b7a44be551d01a7479bf9"
+msgid "유혹"
+msgstr ""
+
+msgctxt "f6847993a9ef8920e40dedbe1d93c9fe"
+msgid "파란 느낌표와 물음표에게 유혹을 당한다는 것은조금 기분나쁜 일일지도 모릅니다."
+msgstr ""
+
+msgctxt "3076e08a2a39597c1a0121dc57c72f95"
+msgid "ID=202830"
+msgstr ""
+
+msgctxt "f676f05365a032134c3a3aaafc4082fb"
+msgid "용병왕"
+msgstr ""
+
+msgctxt "678fdb74447d678b289c009e8655bbb5"
+msgid "서브 퀘스트를 충실히 임해주신 당신께는 용병왕이라는 칭호도 잘 어울리는군요!"
+msgstr ""
+
+msgctxt "650e60fc5de892e246bde703e6c08ecc"
+msgid "ID=202840"
+msgstr ""
+
+msgctxt "22a36bb4c81f673f0bdc7fc43101d6bb"
+msgid "올마이티"
+msgstr ""
+
+msgctxt "3808362bc99097fe97a9f6f933346cbb"
+msgid "당신은 클라우드림을 떠도는 1000개의 소원을 이루어 주신 분! 전지전능한 신과도 같군요!"
+msgstr ""
+
+msgctxt "7fecaec5198a153b3e38178452ea7f4b"
+msgid "ID=202910"
+msgstr ""
+
+msgctxt "04f76e841bb570c5050de8a405185d99"
+msgid "헤메이는 자"
+msgstr ""
+
+msgctxt "892e7f94a5ca0e6ac16a94f8fb56492e"
+msgid "헤매는 사람에게 있어 지도는 정말로 소중한 물건입니다."
+msgstr ""
+
+msgctxt "d76ec721df0aabef509c1957c4ec0424"
+msgid "ID=202920"
+msgstr ""
+
+msgctxt "22fea75f252bff7f667ac88f1dddf602"
+msgid "탐험가"
+msgstr ""
+
+msgctxt "d218bcc938bf1bfea52504e106e33785"
+msgid "미지를 향해 나가는 탐험가는 멋진 사람들이지요!"
+msgstr ""
+
+msgctxt "d795c3eba045914460db0cab1b78edd5"
+msgid "ID=202930"
+msgstr ""
+
+msgctxt "853ac42fcb6323c2af43183ef05b6c12"
+msgid "익스플로러"
+msgstr ""
+
+msgctxt "6d2f0fe34eb735907986990bc52d5401"
+msgid "왜인지 인터넷이 생각나는 칭호이네요."
+msgstr ""
+
+msgctxt "6fb185832ee3f0faef8b4589af5b184c"
+msgid "ID=203010"
+msgstr ""
+
+msgctxt "31112ebe72ff3c1b4f5f3836529a7e70"
+msgid "걷는 자"
+msgstr ""
+
+msgctxt "2ff95964a53c1f3e830d3827785f97f4"
+msgid "하루에 1시간 정도 걸으면 건강한 다이어트에 도움을 준다고 합니다."
+msgstr ""
+
+msgctxt "45a981e49b5efb5f0cf98a4c1c95a841"
+msgid "ID=203020"
+msgstr ""
+
+msgctxt "8564f75adf4b1a5b4453b086bd121063"
+msgid "러너"
+msgstr ""
+
+msgctxt "4a97354d7770eceb55496190f4b32648"
+msgid "달리기 경주에서 신나게 뛰어나가는 러너의 모습을 보면 가슴이 뻥 뚫리는 것 같습니다."
+msgstr ""
+
+msgctxt "f69a4ae5e923fa671f6f451d6259dade"
+msgid "ID=203030"
+msgstr ""
+
+msgctxt "a2940b8c062d4eb819f53692c86bcfb3"
+msgid "연마자"
+msgstr ""
+
+msgctxt "e0b9dc6dbc7e6bb592f72a4b8a84358a"
+msgid "축지법을 연마하면, 아침 등교, 출근 등에서 지각하는 일이 없어지게 될까요?"
+msgstr ""
+
+msgctxt "573c572142a685c6ac9ff4492865fc56"
+msgid "ID=203040"
+msgstr ""
+
+msgctxt "0b3ee493f68ea346f1e1bba13a9cc29e"
+msgid "레이서"
+msgstr ""
+
+msgctxt "11d8a4dda6dc75fd9fca90f22f776e5f"
+msgid "스피드에 심취하신 당신께,\\n레이서의 칭호를 드립니다."
+msgstr ""
+
+msgctxt "4630ea26ddd26d331a20c83d9bb019f9"
+msgid "ID=203110"
+msgstr ""
+
+msgctxt "7b63486ee7ff17a89add9bc852cc7de7"
+msgid "랭커"
+msgstr ""
+
+msgctxt "bf1fc4568fd693b31055e72ce0765db7"
+msgid "컨트롤이 매우 뛰어나시군요! 랭커에 등극하셨습니다!"
+msgstr ""
+
+msgctxt "95f34772c5a1448b18bb2f63e10b1191"
+msgid "ID=203120"
+msgstr ""
+
+msgctxt "cd889ef4beba7cff3d71e6b3e81698ed"
+msgid "기록"
+msgstr ""
+
+msgctxt "d7ac846be88c10ba509e5ad395f48dba"
+msgid "기록이란 것은 두고두고 남길수록 좋은 것이겠죠!\\n물론, 남기면 좋은 것들만 그렇겠지만요!"
+msgstr ""
+
+msgctxt "2f0c762258190e97bc57b8aaa9ec190e"
+msgid "ID=203130"
+msgstr ""
+
+msgctxt "1b90902151b4794b4ae9d344d705e960"
+msgid "클래스"
+msgstr ""
+
+msgctxt "dbb55a6e95714448d472cec48493419a"
+msgid "500번의 SS가 당신의 클래스를 나타내 줍니다!"
+msgstr ""
+
+msgctxt "5cb5f815f382e738e85fb8530ce5afc5"
+msgid "ID=203140"
+msgstr ""
+
+msgctxt "b9ce42a95fd73f4543b2e4d26f59a2b5"
+msgid "컨트롤"
+msgstr ""
+
+msgctxt "39510f21b41812e7fcca6d96d8fa940f"
+msgid "당신의 컨트롤은 이제 신의 경지에 달하였군요! \\n당신의 컨트롤에 찬사를 보냅니다."
+msgstr ""
+
+msgctxt "7267fa426304b5258a5f37b316a5d2f0"
+msgid "ID=203210"
+msgstr ""
+
+msgctxt "f22efd1a5bca487cc7a4f93d5c4444ff"
+msgid "맞은 자"
+msgstr ""
+
+msgctxt "98a0c8f81867611a73e10ac7ac78591d"
+msgid "뭘 맞느냐에 따라 굉장한 의미들로 해석되기에 충분한 칭호 입니다. 재미있게 착용하세요~"
+msgstr ""
+
+msgctxt "91f3b3523c3d9d1688316f76daeedc26"
+msgid "ID=203220"
+msgstr ""
+
+msgctxt "ccb9204264f2f0a22e95501d994f2d2e"
+msgid "지닌 자"
+msgstr ""
+
+msgctxt "227060e2471f59f5e9dde8949cbc8e99"
+msgid "그냥 의지도 아니고 절대 의지를 갖춘 당신! \\n흔들리지 않고 F를 맞는 뚝심을 이어나가시길 바랍니다!"
+msgstr ""
+
+msgctxt "1defcf88ae53b44e0cf186aece41f03d"
+msgid "ID=203230"
+msgstr ""
+
+msgctxt "889820a9a7bb37d2ad689799d71ee221"
+msgid "명예"
+msgstr ""
+
+msgctxt "52e48ebb9035f2d8cad988f99c471c65"
+msgid "F를 받는 일이지만 명예는 명예이겠죠?!"
+msgstr ""
+
+msgctxt "e5ffdbe9441b502343137552b7f8e988"
+msgid "ID=203240"
+msgstr ""
+
+msgctxt "9ed5505f449d7998c1701cb77b5dc4cb"
+msgid "실패자"
+msgstr ""
+
+msgctxt "bb1a4a39b10ee93f2b88f2ae3eaf3a3d"
+msgid "의도적으로 실패한 거니까. \\n실패자이지만 실패자이지 않은 걸 겁니다."
+msgstr ""
+
+msgctxt "e120a77b75fabbc0911b9bae35031981"
+msgid "ID=203310"
+msgstr ""
+
+msgctxt "6b15456d984638e43656a4532c9eacf9"
+msgid "굴삭기"
+msgstr ""
+
+msgctxt "4bbb7d1eae7ca4f585562e65a6b93c39"
+msgid "돈을 위해서라면 안면을 몰수하고 놀이터에서 굴삭기 정도는 되어줄 수 있겠죠…?"
+msgstr ""
+
+msgctxt "2688d949a6f3ba6f8c75eb2ca7d16cf4"
+msgid "ID=203320"
+msgstr ""
+
+msgctxt "bb6e4fd6bcd6bc1312fa3aefdef33193"
+msgid "개척자"
+msgstr ""
+
+msgctxt "50e649407cc5bc540772bfbcade196ce"
+msgid "노다지를 개척해 낸다면 당신은 어쩌면 소울워커가 되는 것보다 더 한 영웅이 될 수 있을지도 모릅니다."
+msgstr ""
+
+msgctxt "edfc970af98599c75ab68e717d782c66"
+msgid "ID=203330"
+msgstr ""
+
+msgctxt "2732815177ab7d1242cdd28fd54e8399"
+msgid "수전노"
+msgstr ""
+
+msgctxt "e67726e9a4724da64222b0eaf91b6971"
+msgid "돈을 쓰려고 모으는 것인데, 모으다 보면 어느새 돈의 노예가 되는 나를 경험할 수 있습니다."
+msgstr ""
+
+msgctxt "5b471d9a40c82c7cac2303d1e2907e55"
+msgid "ID=203340"
+msgstr ""
+
+msgctxt "8e8fbedca49c35239595e72896ad3dcd"
+msgid "대부호"
+msgstr ""
+
+msgctxt "2e493b7cc164b62385eafca5c4fcf2b5"
+msgid "이 세상에 태어나서 한 번쯤은 대부호를 꿈꿔보는 것도 좋겠죠?"
+msgstr ""
+
+msgctxt "2fdba7c7343fd3afe76dc305b8c3853d"
+msgid "ID=203410"
+msgstr ""
+
+msgctxt "627fd8e6b329b84d8f377c136ac1b5c9"
+msgid "모험가"
+msgstr ""
+
+msgctxt "0574101cd6ccba407d94ac89a60ab26e"
+msgid "모험가라면 로망에 살고 로망에 죽는 것이 제맛 아니겠습니까!"
+msgstr ""
+
+msgctxt "80699dcd26056bc42ba103495fc5f3db"
+msgid "ID=203420"
+msgstr ""
+
+msgctxt "90f7d5d49c05822e3676d333054d3b1b"
+msgid "콜렉션"
+msgstr ""
+
+msgctxt "53559b2e921f6e4edd65d23a844c8b06"
+msgid "진정한 콜렉터라면 콜렉션을 유지하기 위해 강화 정도는 포기하는 뚝심이 필수 아니겠습니까!"
+msgstr ""
+
+msgctxt "a8b355d8ef8a8a9f96700dd8285928d6"
+msgid "ID=203430"
+msgstr ""
+
+msgctxt "736eeb33c1b48954dd232fc39b3027c3"
+msgid "애호가"
+msgstr ""
+
+msgctxt "34c8b7af5efa05ba8bcc7a09ec412968"
+msgid "무언가를 좋아하는 사람에게 있어, 그 대상은 목숨보다 더 소중하게 작용하는 법이지요!"
+msgstr ""
+
+msgctxt "bad1e16991bbe07a4d04c3169fc80e4c"
+msgid "ID=203440"
+msgstr ""
+
+msgctxt "aa184969f710d2dd8aee356643af3a5b"
+msgid "콜렉터"
+msgstr ""
+
+msgctxt "3dcdba50debb6731ddc619e5b45919c9"
+msgid "에텔을 진정으로 사랑하는 당신에게 \\n콜렉터의 칭호를 부여합니다!"
+msgstr ""
+
+msgctxt "72b55f9c01166c864cd580ab1f4b1278"
+msgid "ID=203510"
+msgstr ""
+
+msgctxt "857454bf33e87083d5d285a77147370b"
+msgid "신도"
+msgstr ""
+
+msgctxt "c6959887218f40d54ba77fb6d7338d96"
+msgid "당신은 지름신을 이제 막 맞이한 신도로군요.\\n앞으로 왕성한 활동 부탁드리겠습니다!"
+msgstr ""
+
+msgctxt "0f2b12d4dac3c0d9b657378ad81f89b4"
+msgid "ID=203520"
+msgstr ""
+
+msgctxt "2bbdda464537fb3d280d06778f373c24"
+msgid "광신도"
+msgstr ""
+
+msgctxt "eb808d93ae3bf6ab41bdb3326c97ae6f"
+msgid "당신은 지름신을 영접한 광신도로군요!\\n당신의 열정 지름신께서도 알아주실 겁니다!"
+msgstr ""
+
+msgctxt "38e71320da82eb24c98105cd0ab05abc"
+msgid "ID=203530"
+msgstr ""
+
+msgctxt "a3f3a18078f63d75d0ef4a96af10c8dc"
+msgid "투자자"
+msgstr ""
+
+msgctxt "bd077e74e58b611a8ed4630206480bbb"
+msgid "당신은 진정한 의미의 투자자입니다.\\nNo.1투자자이신 당신께 경이의 의미로 칭호를 선사합니다."
+msgstr ""
+
+msgctxt "bc6e75e96c93180e0d8780d5c3e1423e"
+msgid "ID=203610"
+msgstr ""
+
+msgctxt "40670163ca8cdb428c0306de8b0e7a71"
+msgid "전투"
+msgstr ""
+
+msgctxt "93969b455de3da4aa248a78eb7ad63e0"
+msgid "새로운 전투는 조금 무섭기도 하지만, 새로운 것을 즐길 수 있다는 사실에 설레기도 합니다."
+msgstr ""
+
+msgctxt "52bf54a5a7e20f4317936ee46112cdea"
+msgid "ID=203620"
+msgstr ""
+
+msgctxt "f68c77ea6a75a8cf97b866506287e880"
+msgid "수련자"
+msgstr ""
+
+msgctxt "7680f93b6f92c9666ce728688bd533bb"
+msgid "수련자는 마음을 가다듬고, 인내를 필요로 하는 사람들입니다.\\n꾸준히 노력해서 수련해야 경지에 오를 수 있기 마련이지요."
+msgstr ""
+
+msgctxt "7ca1b659bf5b9a66e0d4189494a2d14b"
+msgid "ID=203630"
+msgstr ""
+
+msgctxt "5ae10883a787ac2b065753e227f66f94"
+msgid "노련미"
+msgstr ""
+
+msgctxt "a4c0e5b427fa6f237a2780146b868796"
+msgid "노련미는 많은 경험에 의해 나오기 마련입니다.\\n그렇기 때문에 노련미가 넘칠수록 사람이 매력적으로 보이지요."
+msgstr ""
+
+msgctxt "fd24dc052b2218fbe865e3ea7889574d"
+msgid "ID=203640"
+msgstr ""
+
+msgctxt "f4e0b36be4eb98949b25e4ccee661533"
+msgid "배틀"
+msgstr ""
+
+msgctxt "c0608b85e1f5831cbfcd827b0349309d"
+msgid "능숙한 배틀을 즐 길줄 아는 능숙한 사람이로군요."
+msgstr ""
+
+msgctxt "382224a18b5ca5c31cc8ac9a7a458057"
+msgid "ID=203710"
+msgstr ""
+
+msgctxt "e6df7af299b685d1fdc228448af179da"
+msgid "방랑가"
+msgstr ""
+
+msgctxt "dba3af0f4184df4bd767206325aa6d6a"
+msgid "방랑이란 건 로망으로 느껴질 수도 있지만,\\n자칫 비루하게 느껴질 수도 있다는 것에 유의하세요!"
+msgstr ""
+
+msgctxt "51d63c3da65e486da1fd65a9e7ca824e"
+msgid "ID=203720"
+msgstr ""
+
+msgctxt "c64d78af676b3d6a2929f6930f240806"
+msgid "이야기꾼"
+msgstr ""
+
+msgctxt "b9ecbac8953c68123be1a4f10e31b710"
+msgid "클라우드림에서의 150시간! \\n당신에겐 수많은 이야깃거리들이 가득하겠군요!"
+msgstr ""
+
+msgctxt "bfa155c40af4eba41a662665e485e969"
+msgid "ID=203730"
+msgstr ""
+
+msgctxt "dda41cdf34ccc61e48d63bcc741f0ded"
+msgid "음유시인"
+msgstr ""
+
+msgctxt "8e39c2e60a184702373bf077225783ad"
+msgid "음유시인은 중세 유럽에서 봉건제후의 궁정을 찾아다니며 스스로 지은 시를 낭송하던 시인이라고 합니다."
+msgstr ""
+
+msgctxt "48f4af07a96e95e78a07d70a685a4fb9"
+msgid "ID=203740"
+msgstr ""
+
+msgctxt "872b7d9a17969e219832cd1f09a28f2f"
+msgid "기록자"
+msgstr ""
+
+msgctxt "4ef8a4726d948a10b79b9488d0d62de3"
+msgid "당신이 클라우드림에서 100일 동안 경험한 일들이 좋은 기억으로 기록되길 기원합니다."
+msgstr ""
+
+msgctxt "d2053ecca51ea6f6c36ba761858f3276"
+msgid "ID=203810"
+msgstr ""
+
+msgctxt "7f6b1f12a446848b03e8fd2908033d59"
+msgid "맹신자"
+msgstr ""
+
+msgctxt "76da818967df716cabcf5e75b1f6db83"
+msgid "무언가에 맹신했다는 것은 정말 앞뒤 가리지 않고 그것을 믿는다는 것인데,\\n그 대상이 무엇이 되든 지양할 필요가 있습니다."
+msgstr ""
+
+msgctxt "082a5c6e8b3acd0cdf5d5cf7aebe2c64"
+msgid "ID=203820"
+msgstr ""
+
+msgctxt "cf64349a83782ac7209f88ac7ed56abe"
+msgid "해커"
+msgstr ""
+
+msgctxt "4391be4adaf09b659e9b6e5c23441b61"
+msgid "해커는 사이버 세계의 무법자와도 같습니다.\\n어마어마한 컴퓨터 지식을 가지고 있겠지요?"
+msgstr ""
+
+msgctxt "aa2bec722f8718885d082a2e063bb654"
+msgid "ID=203910"
+msgstr ""
+
+msgctxt "802c2fbb83f4f0dcb304ae9cad29b8f2"
+msgid "기회에"
+msgstr ""
+
+msgctxt "50dc6e35b0d2079d1bee1c1bcb1aeaf9"
+msgid "기회라는 것은 언제 오는 것인지 모르기 때문에 우리는 늘 준비해야 한다고 어디선가 본 기억이 납니다."
+msgstr ""
+
+msgctxt "2e56e3e1b1d44daed43e13f8b54d1f04"
+msgid "ID=203920"
+msgstr ""
+
+msgctxt "35278c439b8d48b2e293f27a0c0a58e0"
+msgid "꽝"
+msgstr ""
+
+msgctxt "bbaa49cdab237995fab0eee144975c09"
+msgid "꽝이라는 것은 의미도 의미지만 어감부터가 꽝 같은 느낌을 줍니다."
+msgstr ""
+
+msgctxt "c4313c8b272f488f495aab6fa12656cd"
+msgid "ID=203930"
+msgstr ""
+
+msgctxt "6d336e537477cfbf617f64ecfad84f4e"
+msgid "약화"
+msgstr ""
+
+msgctxt "1cab9cbcb8a008f03929552a31168df6"
+msgid "약화라는 것은 강화와는 반대되는 의미로, 무기 강화와 관련된 단어로써는 이보다 더 안좋은 단어가 있을 수 없습니다."
+msgstr ""
+
+msgctxt "64ed94f7c0e70fcc2c9ad6314e2afa54"
+msgid "ID=203940"
+msgstr ""
+
+msgctxt "53b3d8adba7151387dbf170d3df193a0"
+msgid "망금술사"
+msgstr ""
+
+msgctxt "1f638e139d0071e5fc028b71e16b99a2"
+msgid "어디에서 무엇을 하든 최고가 되면 좋다고 했습니다.\\n망금술사여도 너무 슬퍼 말아요~"
+msgstr ""
+
+msgctxt "60dc72cd7470a007f1bb8327764a4025"
+msgid "ID=204010"
+msgstr ""
+
+msgctxt "de4c8327925ee7524b8c2e56a71ecf51"
+msgid "후원자"
+msgstr ""
+
+msgctxt "65c5c301f03a2df07275feaf1380b4f0"
+msgid "후원자라 함은 대부호 같은 느낌을 줍니다.\\n든든하고 기대도 될 것만 같은 느낌도 듭니다~"
+msgstr ""
+
+msgctxt "e7a8d223036a2d3df5bb67361f9b2066"
+msgid "ID=204020"
+msgstr ""
+
+msgctxt "b290a07dd9b6a63ab9052a7f82893065"
+msgid "연금술사"
+msgstr ""
+
+msgctxt "498f2499903e8aa39ba1ce00f47bf574"
+msgid "뛰어난 연금술사라고 하면 왠지 박수를 한 번 치고 바닥을 짚으면 바닥에 연성이 될 것만 같은 느낌?"
+msgstr ""
+
+msgctxt "88d9d317fb46e5d6f0ed68838c8aca79"
+msgid "ID=204110"
+msgstr ""
+
+msgctxt "5b21050f9dd050aeb840d0d98b241a41"
+msgid "분해"
+msgstr ""
+
+msgctxt "c2d798e8863e5320d1eb37f3d1d84a29"
+msgid "분해라 함은 왠지 양팔에 잔뜩 문신이 그려져 있고 만지기만 해도 분해해 버릴 것 만 같은 느낌?"
+msgstr ""
+
+msgctxt "ed9fef09e260b431afa78cda7d0d5a91"
+msgid "ID=204120"
+msgstr ""
+
+msgctxt "0a405442d41e2185c40bb2a97c2efdc0"
+msgid "불가"
+msgstr ""
+
+msgctxt "ef1204e01b3c7a8114bca47469cef788"
+msgid "할 수 없다고 합니다. 기대도 하지 말라고 합니다.\\n그런 말이 불가라고 합니다."
+msgstr ""
+
+msgctxt "afd14870a604a022be2d3d5d0c0beeeb"
+msgid "ID=204130"
+msgstr ""
+
+msgctxt "92d9c31d943c63c2c37fd42ef17f6f80"
+msgid "나의 힘"
+msgstr ""
+
+msgctxt "606fac085dea8931b29b03337ad60f4c"
+msgid "내 힘이라는 것은 누군가에게 기대지 않고 스스로 그 일을 해낼 수 있다는 점에서 좋은 것 같습니다."
+msgstr ""
+
+msgctxt "79f80bbbac84deb6d96cfdf58c2812f0"
+msgid "ID=204140"
+msgstr ""
+
+msgctxt "e0204577db223dfbf86cbb48461ef98d"
+msgid "손"
+msgstr ""
+
+msgctxt "bae66fe19de0ce6c84740300f2217dfe"
+msgid "이 손은 신체 중의 손을 뜻합니다.\\n무슨 설명이 더 필요할까요."
+msgstr ""
+
+msgctxt "6b4cca8eea38c6056948c8a553d99ada"
+msgid "ID=204210"
+msgstr ""
+
+msgctxt "fc80ca8a7328ccb7c80fc9d1f71d97cf"
+msgid "가격비교"
+msgstr ""
+
+msgctxt "232f546142b44f02cd671ab2abd8ff25"
+msgid "쇼핑에서 가격비교는 정말 중요한 일이라고 할 수 있습니다.\\n신중한 쇼핑의 증거라고도 할 수 있지요."
+msgstr ""
+
+msgctxt "ab356c80e8661e08b3b9cd4ea9955fa7"
+msgid "ID=204220"
+msgstr ""
+
+msgctxt "87aca8cb17c5ffbcf15334dade4960e6"
+msgid "거래자"
+msgstr ""
+
+msgctxt "d4c1a95db7cf0f5ff24f13c45386b021"
+msgid "거래자라고 하니 무언가 모를 위험함이 느껴집니다.\\n암흑의 무언가, 불법의 무언가를 주고받는 거래가 떠오릅니다."
+msgstr ""
+
+msgctxt "1b5e05e85b9d02450e1097d077d42567"
+msgid "ID=204230"
+msgstr ""
+
+msgctxt "e541cee977457b162c346ce124b8a4a4"
+msgid "플로우"
+msgstr ""
+
+msgctxt "f30964340c66d9efb345fa09037ebb52"
+msgid "플로우는 흐름이라는 말인데, 왠지 모르게 랩을 해야 할 것 만 같은 느낌이 듭니다."
+msgstr ""
+
+msgctxt "c2485d379639c6e31c336328b86a76aa"
+msgid "ID=204240"
+msgstr ""
+
+msgctxt "c09f41ca99a92eb1ebb83203684afffa"
+msgid "제왕"
+msgstr ""
+
+msgctxt "8a1f22d7a49b6abc7c8192a67a717955"
+msgid "어떤 것이든 제왕이 된다면 좋은 것이 아닐까요?\\n무엇이 되든 최고가 되는 것이 좋은 겁니다."
+msgstr ""
+
+msgctxt "4cc43821f01ca8ce5731d8a0074c7367"
+msgid "ID=204310"
+msgstr ""
+
+msgctxt "0d59805af34745a5f30dece6a08d9db2"
+msgid "천적"
+msgstr ""
+
+msgctxt "257d887808a2136ffced9a19c4f43208"
+msgid ""
+"천적이라는 말은 어떤 생물이 다른 생물에게 잡아먹힐 경우, 잡아먹히는 생물이 상대를 보며 하는 말이라고 합니다. 이렇게 무서운 말일 "
+"줄이야…."
+msgstr ""
+
+msgctxt "8a37067d2da1bdaa91c1d03e9c4594e8"
+msgid "ID=204410"
+msgstr ""
+
+msgctxt "e2b6fd4d27b51479e3433612768ac2d4"
+msgid "일하는 자"
+msgstr ""
+
+msgctxt "5dd74ac46722b90781837d458386384f"
+msgid ""
+"우리는 매일 일을 하지만 내일도 일을 해야 하는 운명에 놓여있습니다.\\n하지만 막상 일이 없으면 의외로 삶이 무력해 질지도 모릅니다."
+msgstr ""
+
+msgctxt "33b2ca5a28031e65019a6d9df4a7afc9"
+msgid "ID=204510"
+msgstr ""
+
+msgctxt "4856680fd17bbbfc245c98c8a4bd0dfc"
+msgid "프론티어"
+msgstr ""
+
+msgctxt "7f5758ef40fa8c3daddcb3c50b264104"
+msgid "무언가를 개척한다는 것은 큰 용기와 도전의식을 필요로 합니다."
+msgstr ""
+
+msgctxt "084c1a2b92b0fc409b6dc3c5e20d5422"
+msgid "ID=204610"
+msgstr ""
+
+msgctxt "361329baf9c2046009ba4f9a678df123"
+msgid "훈련자"
+msgstr ""
+
+msgctxt "fe39a8fb8ace3834a146346728a04623"
+msgid "훈련자는 왠지 이름만 들어도 절로 피곤해집니다."
+msgstr ""
+
+msgctxt "3df3f0fdb9c1ddcff00880592cadbfa0"
+msgid "ID=204710"
+msgstr ""
+
+msgctxt "e80c49a004c98b4eb54fd812f5ee9eef"
+msgid "맛"
+msgstr ""
+
+msgctxt "dc34bfefb66a77d69a8607586329ca9c"
+msgid "여기서 맛은 제격으로 느껴지는 만족스러운 기분이라는 뜻으로 사용되었습니다."
+msgstr ""
+
+msgctxt "28190fd19a9330454b6b1f6936242ff4"
+msgid "ID=204810"
+msgstr ""
+
+msgctxt "7438c23e81144c137d8a6e0fc6232ca7"
+msgid "단골손님"
+msgstr ""
+
+msgctxt "10b2288242a63fed61d7b44a3b219946"
+msgid "이건 자이트에게 있어서 정말로 중요한 사람을 말할 때 사용되는 말입니다."
+msgstr ""
+
+msgctxt "7cbd518fa171a75c8a9c93e066777538"
+msgid "ID=204910"
+msgstr ""
+
+msgctxt "dc2ae6193a3086c6828054231596b9f3"
+msgid "최고 고객"
+msgstr ""
+
+msgctxt "340b51ec167748f7fdc57e781b9f68fd"
+msgid "이건 요미에게 있어서 정말로 중요한 사람을 말할 때 사용되는 말입니다."
+msgstr ""
+
+msgctxt "529563c5b67e9cf4c5b7dcf9b6715509"
+msgid "ID=205010"
+msgstr ""
+
+msgctxt "3fe5444a5b1bf6a1127305decd6245b0"
+msgid "흥밋거리"
+msgstr ""
+
+msgctxt "31d61ba4b2cb0aba297ab01ff48a71db"
+msgid "이건 제니스에게 있어서 정말로 중요한 사람을 말할 때 사용되는 말입니다.\\n조금 오해의 소지가 있지만 그런 건 넘겨 둡시다."
+msgstr ""
+
+msgctxt "37b13873fde7c5a44eb2b41da78d6f69"
+msgid "ID=205110"
+msgstr ""
+
+msgctxt "0d4a4d0dd90e454f5845f47e05e76318"
+msgid "불법 친구"
+msgstr ""
+
+msgctxt "176e68292ad0ba62e7486cdf2a0011e0"
+msgid "이건 트리샤에게 있어서 정말로 중요한 사람을 말할 때 사용되는 말입니다.\\n조금 오해의 소지가 있지만 그런 건 넘겨 둡시다."
+msgstr ""
+
+msgctxt "437ab93e527e2d9bf13c44520ca35b54"
+msgid "ID=205210"
+msgstr ""
+
+msgctxt "88345ebf9bc63a2d300911177040defd"
+msgid "퍼스트 클래스"
+msgstr ""
+
+msgctxt "b271b0037254478071de8959519c1b27"
+msgid "이건 아진에게 있어서 정말로 중요한 사람을 말할 때 사용되는 말입니다."
+msgstr ""
+
+msgctxt "07ccb40d6752c66eacaa28bd24cbd913"
+msgid "ID=205310"
+msgstr ""
+
+msgctxt "fe5dcb068bd6f97aad79b0bb1575f3e9"
+msgid "톱니바퀴"
+msgstr ""
+
+msgctxt "3735f55d8b20199741c0bfd3e48ebba0"
+msgid "톱니바퀴는 다른 무언가와 맞물리기 위해 만들어졌고, 맞물려 돌아갔을 때 비로소 무언가의 기능을 하게 됩니다."
+msgstr ""
+
+msgctxt "c5e244fdf57db5e0e0544d32bca2d12d"
+msgid "ID=205410"
+msgstr ""
+
+msgctxt "1503fc71b2c75002d5cab99f86668326"
+msgid "레지스탕스"
+msgstr ""
+
+msgctxt "524b5c389deb7071ded76a9e48a9998f"
+msgid "레지스탕스는 권력이나 침략자에 대한 저항이나 저항운동을 뜻합니다."
+msgstr ""
+
+msgctxt "7b3af0aead5a7cc10f608571f07ddc44"
+msgid "ID=205510"
+msgstr ""
+
+msgctxt "54990ebb4c235ee3571356983d159106"
+msgid "정복자"
+msgstr ""
+
+msgctxt "2fe1b53950ded6893ecbe78182d8a0b3"
+msgid "정복자는 정복한 곳에 우뚝 서 있는 느낌을 줍니다.\\n그것이 황량한 세계라 하면 조금 더 쓸쓸한 느낌을 주는군요."
+msgstr ""
+
+msgctxt "2459475500d0ccb686dce2d9badb05d6"
+msgid "ID=205610"
+msgstr ""
+
+msgctxt "749c99f6610e82c810e283b6579d3e1d"
+msgid "지휘자"
+msgstr ""
+
+msgctxt "0f5818fac09a3721f49877b33251853d"
+msgid "지휘자의 특성에 따라 이끄는 군단의 성격이 변하기 마련입니다.\\n그래서 지휘자는 더 힘들고 무거운 직업인 것 같습니다."
+msgstr ""
+
+msgctxt "7a8ee3f5ffa7cd1cd9ea9ce98b3534db"
+msgid "ID=205710"
+msgstr ""
+
+msgctxt "be0459c5e36c0b3f154cabe9f35ec0fd"
+msgid "거미 여왕"
+msgstr ""
+
+msgctxt "2863a5f38b2923a5941168867e816fb2"
+msgid "거미 여왕은 맹독을 지닌 우아한 무언가 같다는 느낌을 줍니다."
+msgstr ""
+
+msgctxt "3f7d5c9b29c1d79ea39cf4c82b232dff"
+msgid "ID=205810"
+msgstr ""
+
+msgctxt "23fadaaf2db1df094a2afe647708dfaa"
+msgid "그림자"
+msgstr ""
+
+msgctxt "806c7e742892125b980ba473af1ff648"
+msgid "그림자는 빛이 있는 곳에서 태어나 어둠이 있는 곳에서 사라집니다."
+msgstr ""
+
+msgctxt "84220b06d5580bc18ba071d853d7b2b1"
+msgid "ID=205910"
+msgstr ""
+
+msgctxt "c5127f7b8397794805a26793df8b0e5e"
+msgid "대적자"
+msgstr ""
+
+msgctxt "9db84bd8c13540fd0ab100bfa939b6b3"
+msgid "대적자는 맞선다는 의미가 강한 느낌의 단어입니다."
+msgstr ""
+
+msgctxt "d77fb86edf5d6f93d9a7950bccfa5fc9"
+msgid "ID=206010"
+msgstr ""
+
+msgctxt "a3c81545429010c8b24ca4814b67ae9a"
+msgid "이레귤러"
+msgstr ""
+
+msgctxt "9230457af87b61b20f70395923612bc9"
+msgid "이레귤러는 변칙적이고, 비정상적인 것들을 특정할 때 사용하곤 합니다.\\n보통 사건들은 이런 이레귤러로 부터 시작되곤 하죠."
+msgstr ""
+
+msgctxt "f282e6cd55631f75671700b93e8cc54c"
+msgid "ID=206110"
+msgstr ""
+
+msgctxt "5a095c2946abb3b84959cf9dcaac0c0c"
+msgid "노숙기질"
+msgstr ""
+
+msgctxt "fde26436fb180ead118bd8927958c01c"
+msgid "노숙을 하는 것은 매우 괴로운 일입니다.\\n언제 추울지 모르고, 언제 더울지 모르고, 언제 배고플지 모르니까요."
+msgstr ""
+
+msgctxt "068e67fcc3507224ec0126d0d6747a31"
+msgid "ID=206210"
+msgstr ""
+
+msgctxt "82281946885038018957056676fa162a"
+msgid "생명"
+msgstr ""
+
+msgctxt "efeb7884a2549ae580eed86b5b57b8d5"
+msgid ""
+"살아서 숨 쉬고 활동할 수 있게 만드는 힘인 생명은 단어만 들어도 왠지 뭉클해지게 만드는 무언가를 내재하고 있는 것만 같습니다."
+msgstr ""
+
+msgctxt "894860d841d0f8ad062f6750e6aac28d"
+msgid "ID=206310"
+msgstr ""
+
+msgctxt "6fcd5ce441ed385432520120804ba9f0"
+msgid "태어남"
+msgstr ""
+
+msgctxt "ca63bc0970c53b1c03e9703524003f55"
+msgid ""
+"태어난다는 것은 생명이 세상에 나와서 살아갈 수 있는 형태를 갖추고 세상에 나오는 것을 뜻합니다. 실로 경이로운 일이 아닐 수 없습니다."
+msgstr ""
+
+msgctxt "1402cfa02fda4da563bc9c2c8d4b9a5c"
+msgid "ID=206410"
+msgstr ""
+
+msgctxt "7ea11c4b20e85aac7df7f36cff8c1c7e"
+msgid "즐거움"
+msgstr ""
+
+msgctxt "7c0d79d5e4a764b0b404e67eecb85219"
+msgid ""
+"즐거움은 무언가를 행할 때 동기나 원천이 되어주곤 합니다.\\n그렇기에 자신이 무엇에 즐거움을 느끼는지 신중하게 생각해 볼 필요가 "
+"있습니다."
+msgstr ""
+
+msgctxt "4cfea263f9ab5d012e6144c404bb9207"
+msgid "ID=206510"
+msgstr ""
+
+msgctxt "774f80fd1d00a5544aaa8f2da8a4d708"
+msgid "환희"
+msgstr ""
+
+msgctxt "94832dccd2bf2ca80df6909574fc44b1"
+msgid "말만 들어도 커다란 기쁨이 느껴지는 환희는 단어만으로도 큰 행복이 전해지는 것만 같은 기분이 듭니다."
+msgstr ""
+
+msgctxt "a7b27b946637dc02479878af70fcbe56"
+msgid "ID=206610"
+msgstr ""
+
+msgctxt "46ac4717e437d058ca3f1792cf580ba4"
+msgid "농부"
+msgstr ""
+
+msgctxt "06d5be2748f65f76e620f21920070a12"
+msgid "농사짓는 일을 직업으로 삼는다는 의미의 농부입니다. 어떤 농부가 될지는 앞에 수식하는 단어에 따라 달라지겠지요!"
+msgstr ""
+
+msgctxt "21fa5ff5540c8b96e37f05cf18ed7abb"
+msgid "ID=206710"
+msgstr ""
+
+msgctxt "a21c27c256d545456598bbc009510a43"
+msgid "자족"
+msgstr ""
+
+msgctxt "d0efbe3086259833ee3b9ecb7c696bda"
+msgid "스스로 넉넉함을 느끼고, 만족한다는 의미의 자족은 가장 쉬운 말이지만 어쩌면 가장 어려운 말일지도 모릅니다."
+msgstr ""
+
+msgctxt "e97dbaab21e613dea081e5f33042b8b9"
+msgid "ID=206810"
+msgstr ""
+
+msgctxt "451e83690061cd7faae899086537a6f9"
+msgid "천직"
+msgstr ""
+
+msgctxt "e76ee58fb521cbfe5e0f419e6a7cc97a"
+msgid ""
+"하늘이 내려준 직업. 타고난 직업이나 직분이라는 뜻의 천직입니다.\\n자신에게 있어 어떤 일이 천직인지 한번 곰곰이 생각해 보는 것도 "
+"좋을 것 같습니다."
+msgstr ""
+
+msgctxt "34c81d372a30c60e41037bb5a378fa62"
+msgid "ID=206910"
+msgstr ""
+
+msgctxt "a3243270f934d6c1af7437d5e0047a33"
+msgid "파머"
+msgstr ""
+
+msgctxt "bf9137f9b4375829ddb3b07336a0c9b3"
+msgid "농부라는 의미의 파머입니다. 이제는 제법 훌륭한 텃밭을 일궈내신 당신께 이 칭호를 선사합니다."
+msgstr ""
+
+msgctxt "bc29de252d1cb08371f4a5c3b78c928b"
+msgid "ID=207010"
+msgstr ""
+
+msgctxt "500b94e03103bd3e70bae774ba4229be"
+msgid "가드너"
+msgstr ""
+
+msgctxt "202b1bde68d21af0083d116320b5dbef"
+msgid ""
+"정원을 가꾸고, 원예를 좋아하는 사람을 뜻하는 의미의 가드너입니다. 앞에 어떤 수식어가 붙느냐에 따라 다른 의미의 가드너가 되겠지요!"
+msgstr ""
+
+msgctxt "f3b3464df3bbda12106c211c47997823"
+msgid "ID=207110"
+msgstr ""
+
+msgctxt "295bb0142b66642201e644ace84f4103"
+msgid "생산자"
+msgstr ""
+
+msgctxt "a34d33ef4bd9c4533281d65dbd089efc"
+msgid ""
+"무언가를 만들어 내는 생산자는 창조해낸다는 의미에서 대단한 사람이라고 할 수 있습니다. 물론 뭘 만드는 것이냐에 따라 다르겠지만요."
+msgstr ""
+
+msgctxt "50ac1297779f32282f9afcc5ba0cce77"
+msgid "ID=207210"
+msgstr ""
+
+msgctxt "ec4afc5801143ed7cec3d87bc73caa2e"
+msgid "손길"
+msgstr ""
+
+msgctxt "888cdbf3f2e9232459d2b40b15b40818"
+msgid ""
+"도움을 주거나 해하는 일을 비유적으로 이를 때 사용되는 말인 손길입니다.\\n앞에 어떤 수식어가 붙느냐에 따라 의미가 극단적으로 달라질 "
+"수 있다는 점에서 재미있는 단어가 아닐 수 없습니다."
+msgstr ""
+
+msgctxt "2d0713865a630363440c9b3f9563e481"
+msgid "ID=207310"
+msgstr ""
+
+msgctxt "98d4aec53c004df700e88ba454c5e5fd"
+msgid "행복"
+msgstr ""
+
+msgctxt "d20dbbd7796c6fdf07094ce03734d576"
+msgid ""
+"생활에서 충분한 만족과 기쁨을 느끼어 흐뭇하다는 의미의 행복입니다.\\n어디에서 행복을 얻느냐에 따라 삶의 방향이 결정되곤 합니다."
+msgstr ""
+
+msgctxt "54abdbab4765130dfc0c11aec2fccdbb"
+msgid "ID=207410"
+msgstr ""
+
+msgctxt "ddffbd08546a8ee230d72eb2893076dd"
+msgid "미덕"
+msgstr ""
+
+msgctxt "fc0a0b580206b995e87c771915e65f77"
+msgid "미덕은 아름답고 갸륵한 덕행을 뜻합니다.\\n수많은 선행으로 덕을 쌓아 올린 당신께 이 칭호를 선사합니다."
+msgstr ""
+
+msgctxt "2a1d2a27d0be2d8d069461e9109e9135"
+msgid "ID=207510"
+msgstr ""
+
+msgctxt "2d811fb79febcec4dae8fc883481d166"
+msgid "핸드"
+msgstr ""
+
+msgctxt "b90060f15af5ba3b4517718e1ccd6388"
+msgid ""
+"손이라는 의미의 핸드는 신체의 손을 의미하기도 하지만 무언가를 행하는 행위를 의미하기도 합니다. 성스러운 손길로 많은 이들에게 도움을 준 "
+"당신께 이 칭호를 드립니다."
+msgstr ""
+
+msgctxt "fae38884a531fb14bee41544ce4232f3"
+msgid "ID=207610"
+msgstr ""
+
+msgctxt "61c37d4ce72131dae4e37fc3ff48234f"
+msgid "차단하는 자"
+msgstr ""
+
+msgctxt "2a7003e586b1e3a62547d6fd7fbdb709"
+msgid "ID=207710"
+msgstr ""
+
+msgctxt "8eaebf5760cd450ac9889a2bdc99ecdc"
+msgid "해방자"
+msgstr ""
+
+msgctxt "01470af2921f7a81234d112b10b10589"
+msgid "ID=207810"
+msgstr ""
+
+msgctxt "00870a8cb28652312f63c6508254e4e0"
+msgid "구제자"
+msgstr ""
+
+msgctxt "f606ab41856a04785c37d5d55213d2bf"
+msgid "ID=207910"
+msgstr ""
+
+msgctxt "0ea4b1c16fafb6bedc86c2d169f610fd"
+msgid "해결사"
+msgstr ""
+
+msgctxt "3175b3356254918790b41e50859cfcf1"
+msgid "ID=208010"
+msgstr ""
+
+msgctxt "af5cb39ca54ce50150e7423aa7038887"
+msgid "루키"
+msgstr ""
+
+msgctxt "236cb90501dd791212a28ba69c527a0e"
+msgid "ID=208020"
+msgstr ""
+
+msgctxt "a25a2ca23716ed3403f7c4782d28807d"
+msgid "싸움꾼"
+msgstr ""
+
+msgctxt "c63c9dd708f40afc7f976b944c064b3a"
+msgid "ID=208030"
+msgstr ""
+
+msgctxt "fa786bc8a13a3c57154ad4512966c081"
+msgid "방랑자"
+msgstr ""
+
+msgctxt "e2ac36c56d78412b99c4077a0b5aa238"
+msgid "ID=208040"
+msgstr ""
+
+msgctxt "c81f9475bd3b4b27af3b644bf643027f"
+msgid "길을 걷는자"
+msgstr ""
+
+msgctxt "f76b3935a0de78c645a6f7c966af28e0"
+msgid "ID=20024"
+msgstr ""
+
+msgctxt "742932be031d46d272ce12f846ba91fd"
+msgid "철퇴"
+msgstr ""
+
+msgctxt "8dc3507aa78a5a5f7c3fed35a8cb9d61"
+msgid "ID=20026"
+msgstr ""
+
+msgctxt "7928c1be1680494d042ddf6d86294dd3"
+msgid "구원자"
+msgstr ""
+
+msgctxt "61c5927f7af48a3dbd4edf3ca81581a4"
+msgid "클라우드림 세계의 문이 열림과 동시에 선두에 서서 모두를 구원한 분들에게 부여하는 칭호."
+msgstr ""
+
+msgctxt "4665397676109e02154cccdf0288a114"
+msgid "ID=20027"
+msgstr ""
+
+msgctxt "ca3b237221d855e077f8ac61daaf7d59"
+msgid "CBT 러버"
+msgstr ""
+
+msgctxt "d2c43e4c8419491e620b3bf2344444ed"
+msgid "모든 CBT 신청자 대상 보상 칭호"
+msgstr ""
+
+msgctxt "9d743bf0e501cb7b2e8e4ebe085208d4"
+msgid "ID=20028"
+msgstr ""
+
+msgctxt "c7e547a70b52f0484a9e65def3b45d04"
+msgid "CBT 마스터"
+msgstr ""
+
+msgctxt "f0298589b0f76ffc7aa8b5e280f6d62a"
+msgid "4일의 기적 미션 완료 대상 보상 칭호"
+msgstr ""
+
+msgctxt "1930a6d0b39d64f3007c35c3b08fb4cc"
+msgid "ID=20032"
+msgstr ""
+
+msgctxt "1be29cfd1cd1d996d94674e81e3164ba"
+msgid "사랑"
+msgstr ""
+
+msgctxt "36860e1ececf0f3130f22fa4dc4f1c06"
+msgid "발렌타인 이벤트의 보상으로 지급된 보상 칭호. 강렬한 마음을 드러내보자."
+msgstr ""
+
+msgctxt "03d65ffae6474f0da9ed98b3524f4708"
+msgid "ID=20033"
+msgstr ""
+
+msgctxt "b6c7d7074498643b2ce5ce63af76c829"
+msgid "NAVER"
+msgstr ""
+
+msgctxt "a67b75e329d5495d85df13e520962b07"
+msgid "절대 부정을 표현하는 영어 단어이다."
+msgstr ""
+
+msgctxt "3a93e4ec627bc125e285a586f2e3909d"
+msgid "ID=20034"
+msgstr ""
+
+msgctxt "44d30cb65945a4d110a6b997c38b5d97"
+msgid "추억"
+msgstr ""
+
+msgctxt "8cd01b201639c597660f77cc11cf7c6b"
+msgid "화이트 데이 이벤트의 보상으로 지급된 보상 칭호. 추억으로 남는 것은 나쁜 것일까, 아니면 좋은 것일까."
+msgstr ""
+
+msgctxt "6698ac84a20b3fa755ebc913799940c3"
+msgid "ID=20035"
+msgstr ""
+
+msgctxt "456f5b6edfc333031775c934a260e2c0"
+msgid "대상"
+msgstr ""
+
+msgctxt "a19d762da2ffcedbe679a9d55b394230"
+msgid "최고의 그림으로 선발된 대상 수상자를 위한 칭호."
+msgstr ""
+
+msgctxt "6dc87cc41f904b335fbf2e4e371d2e30"
+msgid "ID=20036"
+msgstr ""
+
+msgctxt "f3e1deef822a58ee903d5071ae4f599b"
+msgid "최우수상"
+msgstr ""
+
+msgctxt "8b639c65bcc1c58481fea0dbe4a2a589"
+msgid "최우수상 팬아트 수상자를 위한 칭호."
+msgstr ""
+
+msgctxt "7a3f903cbe0135f35298b71853b97a09"
+msgid "ID=20037"
+msgstr ""
+
+msgctxt "9c851d8682de030935d6bbeeaf722fb1"
+msgid "우수상"
+msgstr ""
+
+msgctxt "afd95ffaa8864090f1c2beba7994d1b4"
+msgid "우수상 팬아트 수상자를 위한 칭호."
+msgstr ""
+
+msgctxt "247615033a9bd6abe10862d5539af266"
+msgid "ID=20038"
+msgstr ""
+
+msgctxt "f6dbd4f0b63eef2cb2bc065f12ff277e"
+msgid "한게임"
+msgstr ""
+
+msgctxt "6daa326bfe2e016bc5b0e83065c4e8ea"
+msgid "와버린 이상 즐기다 가세요!"
+msgstr ""
+
+msgctxt "f99793b50d816b564bb6a04cf9ed1893"
+msgid "ID=20039"
+msgstr ""
+
+msgctxt "f28b3b29e54da2ecde136948164e93d8"
+msgid "전당"
+msgstr ""
+
+msgctxt "0fce18d2e4e7a22a81c7c2ec67e3b652"
+msgid "ID=20040"
+msgstr ""
+
+msgctxt "c554b72407fb9fc4310830104234c7f1"
+msgid "함께한"
+msgstr ""
+
+msgctxt "9bad27011cb0bd976ab11c0682460bbf"
+msgid "ID=20045"
+msgstr ""
+
+msgctxt "3819210d06a3fa6d83a005389bcd6c66"
+msgid "부모님"
+msgstr ""
+
+msgctxt "743535f845a65e6fce37de8b52e0a209"
+msgid "ID=20049"
+msgstr ""
+
+msgctxt "ddc0055b011faea5e9466fbb178e9fd7"
+msgid "그루톤"
+msgstr ""
+
+msgctxt "b3b65ceacb1ec2b523a4aee14034ace3"
+msgid "ID=101350"
+msgstr ""
+
+msgctxt "078186500afff9cc2b3b42de0a36b9d6"
+msgid "무시무시한"
+msgstr ""
+
+msgctxt "109b0fa74a3aa8405ce2be5b88a55599"
+msgid "몬스터들이 당신의 악명에 벌벌 떨고 있습니다.. 잔인하고 악독한 소울워커라고… 소문이 자자하네요."
+msgstr ""
+
+msgctxt "37706b6fd10634fbe53e5231fe3e6b60"
+msgid "업적 [이쯤되면 내가 마왕] 획득보상"
+msgstr ""
+
+msgctxt "971624669d3cb5ab2cb83a73ec1ad775"
+msgid "ID=101850"
+msgstr ""
+
+msgctxt "bd6de28501d5c671d64bfdb31ed45bf1"
+msgid "모두의"
+msgstr ""
+
+msgctxt "f5e7ef92cc8cfc5f151ac62b2b532c0e"
+msgid "당신을 이길수 있는 자는 없기에 모두는 당신에게 존경심을 표합니다."
+msgstr ""
+
+msgctxt "6206a0b84084f85aba140e9ac46d6205"
+msgid "업적 [보스 중의 보스] 획득보상"
+msgstr ""
+
+msgctxt "896683dc29453397089e7f0f6bb563ca"
+msgid "ID=102940"
+msgstr ""
+
+msgctxt "a47fdbd99456940c37c28b773c112394"
+msgid "역대급"
+msgstr ""
+
+msgctxt "e3a2b684cd6dde4e99b40eb912f2a336"
+msgid "당신의 노력과 끈기는 정말 역대급이네요."
+msgstr ""
+
+msgctxt "5ab1827a0a0cadd139194b95b289ac68"
+msgid "업적 [눈 감고도 할 수 있다] 획득보상"
+msgstr ""
+
+msgctxt "c593ef54eb70590bb6c9c8cb06bea6bc"
+msgid "ID=103150"
+msgstr ""
+
+msgctxt "534cbe4266f11682d5a4396da39f9166"
+msgid "세기의"
+msgstr ""
+
+msgctxt "b81e71ef7b028419809774989cb95226"
+msgid "이 정도면 한 세기에 한 번 나올까 말까 한 능력자시군요. 존경합니다."
+msgstr ""
+
+msgctxt "b3b6b1efd6e94e9363577cfc7468f960"
+msgid "업적 [세기의 컨트롤러] 획득보상"
+msgstr ""
+
+msgctxt "08295cff0740a918b79832b342c4105d"
+msgid "ID=103250"
+msgstr ""
+
+msgctxt "c8b757b0c733891254838cb9361edc2a"
+msgid "매니악"
+msgstr ""
+
+msgctxt "8a200b1f095fee4c63094a380d50a011"
+msgid "좀 매니악한 느낌 아시죠?"
+msgstr ""
+
+msgctxt "4f66d1dd90d69f53b65a73af7f25c009"
+msgid "업적 [매니악 플레이] 획득보상"
+msgstr ""
+
+msgctxt "523d6f9ec9d0ccd5c784714c02f661fb"
+msgid "ID=108110"
+msgstr ""
+
+msgctxt "5792d1b246842280161184ba725377f6"
+msgid "다다른"
+msgstr ""
+
+msgctxt "43d0172aa5bf8ee25168b41e4c0ecf5a"
+msgid "기나긴 여행의 끝에 다다른 진실은…"
+msgstr ""
+
+msgctxt "cb718352286b06ba4c6de65517c40138"
+msgid "퀘스트 [소녀와의 재회] 완료 보상"
+msgstr ""
+
+msgctxt "77de87c4762888403db4bba4fc6b112e"
+msgid "ID=108210"
+msgstr ""
+
+msgctxt "2a670700151775c7b7028c250c6ba97a"
+msgid "나아가는"
+msgstr ""
+
+msgctxt "864f16025418dcf61bb6d8e6680b7917"
+msgid "저 높은 고지를 향해 또 한 걸음 내딛었습니다."
+msgstr ""
+
+msgctxt "c2d22eacc323c08b2fc0fe0b29f5ddc7"
+msgid "퀘스트 [나아가는 투지의 칼날] 완료 보상"
+msgstr ""
+
+msgctxt "f90cbfc3d13d5214c33e679a4015fbd6"
+msgid "ID=108230"
+msgstr ""
+
+msgctxt "523a2ae788d44baed2c783b51e0a0065"
+msgid "치고나가는"
+msgstr ""
+
+msgctxt "772f72179184e8b580dbfa60165c3c09"
+msgid "퀘스트 [치고나가는 결사의 사슬] 완료 보상"
+msgstr ""
+
+msgctxt "59486112df6ca61691dcd219110c0189"
+msgid "ID=108240"
+msgstr ""
+
+msgctxt "e365aa243eda0e6cf10336d2cfaa8f0e"
+msgid "열화하는"
+msgstr ""
+
+msgctxt "e46e2e959807a29c8ea02f5e764e4ca7"
+msgid "퀘스트 [열화하는 단결의 방패] 완료 보상"
+msgstr ""
+
+msgctxt "01b1add7b82222f56aa40e9231e71741"
+msgid "ID=108260"
+msgstr ""
+
+msgctxt "6311d57e1c5471c451c3b6f8c311658b"
+msgid "앞서나가는"
+msgstr ""
+
+msgctxt "7362c9f4cd24990ce717213a32ae83ff"
+msgid "퀘스트 [앞서나가는 용맹의 성단] 완료 보상"
+msgstr ""
+
+msgctxt "9a193d8a7b5981df27347174e7b76d9b"
+msgid "ID=201350"
+msgstr ""
+
+msgctxt "16ae51edba55d853f87983f80e676703"
+msgid "마왕"
+msgstr ""
+
+msgctxt "73a9e22ebdab30f77debc7cf71f7dfc0"
+msgid "모두가 당신에게 공포감을 느끼고 있을지도 모릅니다…"
+msgstr ""
+
+msgctxt "b444d42e0fe272906b74a542f687f3d2"
+msgid "ID=201850"
+msgstr ""
+
+msgctxt "551498223b042b5f4da1909e08c5f01c"
+msgid "존경"
+msgstr ""
+
+msgctxt "c55277af3cfb25fc72eed1e01e233f7c"
+msgid "당신은 모두의 존경을 받는 훌륭한 소울워커입니다."
+msgstr ""
+
+msgctxt "11b2c7f9abec37d0f498b8c0884efc30"
+msgid "업적 [보스 중의 보스 ] 획득보상"
+msgstr ""
+
+msgctxt "7c0d485bdba916c91ab48238ff05edc8"
+msgid "ID=202940"
+msgstr ""
+
+msgctxt "e61ab25b3a411c9776e0726cf030a654"
+msgid "베테랑"
+msgstr ""
+
+msgctxt "37062b669596d80ec14f19ebbb5f19d2"
+msgid "너무 잘해서 '어이가 없네?' 라는 이야기를 들으실 듯 합니다. 당신을 베테랑으로 인정합니다."
+msgstr ""
+
+msgctxt "7b5a92a037c267bd1f81fcaaba0d0db0"
+msgid "ID=203150"
+msgstr ""
+
+msgctxt "39a110870d256bb41e0b86ce24b084cd"
+msgid "금손"
+msgstr ""
+
+msgctxt "3e0fd22ffdfb895bd2d7440b88b0b364"
+msgid "타고난 금손이시네요.\\n부럽습니다!"
+msgstr ""
+
+msgctxt "cce2c5ec7628f6bb359974bf90af4146"
+msgid "ID=203250"
+msgstr ""
+
+msgctxt "73615660cdae6865780c7feaf9d5784a"
+msgid "플레이"
+msgstr ""
+
+msgctxt "bfccbb94da51751d0c7ae511079f7f7e"
+msgid "당신만의 플레이 방식으로 봐도 될까요?"
+msgstr ""
+
+msgctxt "25ecdc96331924cb2099a13439dbb709"
+msgid "ID=204320"
+msgstr ""
+
+msgctxt "0a16266d514736ba656a54316f2f5aa3"
+msgid "기념물"
+msgstr ""
+
+msgctxt "6dda0e84b90077359a51962d49951c77"
+msgid "당신의 능력을 기념해야 할 것 같아요. 그래서 이 칭호를 드립니다."
+msgstr ""
+
+msgctxt "f05fbaed4660a05d5e303aa07e3f9de1"
+msgid "업적 [천연기념물 그루톤] 획득보상"
+msgstr ""
+
+msgctxt "af81ee4332a312ed64d3a1c0d1f40496"
+msgid "ID=208110"
+msgstr ""
+
+msgctxt "c72dec75734887a2d82a236cefaa461c"
+msgid "진실"
+msgstr ""
+
+msgctxt "77ce39598f7151a48d8f0a3e46e3bf29"
+msgid "ID=208210"
+msgstr ""
+
+msgctxt "6440fcc808fa70e19ad9988c49c53145"
+msgid "칼날"
+msgstr ""
+
+msgctxt "4abeff5022b96a17662dbcfbf51b6bf4"
+msgid "한 차원 높은 힘이 느껴집니다."
+msgstr ""
+
+msgctxt "ce9adfbf8ee26dc26001cc4ad780061f"
+msgid "ID=208230"
+msgstr ""
+
+msgctxt "ef095efa514a3fd316fda235b6a1531f"
+msgid "사슬"
+msgstr ""
+
+msgctxt "59e21c72febe876465a81d3c797aecf7"
+msgid "ID=208240"
+msgstr ""
+
+msgctxt "e85e3668052630b3a0721ab52ec19b00"
+msgid "방패"
+msgstr ""
+
+msgctxt "3d9629674c20345059c15a59abffa366"
+msgid "ID=208260"
+msgstr ""
+
+msgctxt "3d3e7cbe3d2e7256d3d391ea5fb856ce"
+msgid "성단"
+msgstr ""
+
+msgctxt "9086d08080ecf25ffba47cc7869db738"
+msgid "ID=108050"
+msgstr ""
+
+msgctxt "33275a264a7548e2086c6ed552dce627"
+msgid ""
+"<font color='#CDFFFF'>환</font><font color='#A9FFFF'>상</font><font color="
+"'#85FFFF'>적</font><font color='#61DBF0'>인</font>"
+msgstr ""
+
+msgctxt "19929071f277eda06a486eb9b9860cd2"
+msgid "환상을 극복한 자들에게 수여되는 칭호. 몸이 가벼워지는 느낌이다."
+msgstr ""
+
+msgctxt "db038662807f4b0e065081f72e0424ae"
+msgid "퀘스트 [더욱 더 강한 정신을 위해] 완료 보상"
+msgstr ""
+
+msgctxt "87eb8588f89ad3f7097bc61b9d253594"
+msgid "ID=108270"
+msgstr ""
+
+msgctxt "b8c4b4b93c8d44c1b8e4f3d141b5be10"
+msgid "<font color='#FF0000'>불패의</font>"
+msgstr ""
+
+msgctxt "f78f6585a9b2c73480199b8ac1393ec9"
+msgid "[오퍼레이션 : 디멘션셔터]에서 매우 좋은 성적으로 임무를 수행한 워커들에게 주어지는 칭호."
+msgstr ""
+
+msgctxt "f5bc52694a1edc227fa87a3616179d38"
+msgid "배틀 [오퍼레이션 : 디멘션셔터]의 상위 랭킹 보상"
+msgstr ""
+
+msgctxt "cd818d5122ba9c65a89cb90f99edf876"
+msgid "ID=208270"
+msgstr ""
+
+msgctxt "dfd67d42edf36a1e61b94447638268f1"
+msgid "<font color='#FF0000'>작전집행자</font>"
+msgstr ""
+
+msgctxt "601eaa8133f3572facb7163a74d59fe8"
+msgid "ID=104320"
+msgstr ""
+
+msgctxt "d7e697236e5cb850a06c0188d6965c30"
+msgid "천연"
+msgstr ""
+
+msgctxt "ebd7a54d78da166cfbc3d65973c5d3ea"
+msgid "그루톤이 천연기념물로 곧 등록된다고 합니다… 누구 때문에…"
+msgstr ""
+
+msgctxt "ac0c8cffbb2b741458875c41c35a7ad8"
+msgid "ID=10054"
+msgstr ""
+
+msgctxt "1fa61868b414084b8eebd9e354e3cbef"
+msgid "달빛의"
+msgstr ""
+
+msgctxt "f8bc90cb239ddf8ba7de4fe35826cc4a"
+msgid "저 높이 하늘에 뜬 달로부터 내려오는 은은한 빛."
+msgstr ""
+
+msgctxt "6a2a818f5b5cf873f323b58965e5b507"
+msgid "추석 이벤트 보상"
+msgstr ""
+
+msgctxt "324fe5e0b0ace4e07124f0b61544dd0c"
+msgid "ID=20054"
+msgstr ""
+
+msgctxt "6f2b6e209fed0d0ac000a34b369eda1f"
+msgid "가호"
+msgstr ""
+
+msgctxt "a31b264371bdecfb20676a8ee883731e"
+msgid "가장 완벽한 달로부터 받은 가호"
+msgstr ""
+
+msgctxt "fa3842228ac86437a3d4988ab581898e"
+msgid "ID=20055"
+msgstr ""
+
+msgctxt "97d0f44562eb198fe05ab5ba0620f198"
+msgid "<font color='#5F00FF'>잭오랜턴</font>"
+msgstr ""
+
+msgctxt "53f1891296ec4f748e7b7d99c7e796f4"
+msgid "할로윈 데이 기념 칭호."
+msgstr ""
+
+msgctxt "d5850aeede3a641d5750482378c48ab8"
+msgid "이벤트 판매 상품"
+msgstr ""
+
+msgctxt "d787da27cf2bfd5845722e9d82b51d1c"
+msgid "ID=108120"
+msgstr ""
+
+msgctxt "2cf932ee65ffa5b69459c88ddee0fff4"
+msgid "남겨진"
+msgstr ""
+
+msgctxt "9606c4aea10a8d56b35c627e9efaca6a"
+msgid "그리고 전투 끝에 남은 것은 비참한 상처 뿐이었습니다."
+msgstr ""
+
+msgctxt "5d62bf1c22816ed69ac3c54883180b76"
+msgid "퀘스트 [복수를 갈망하는 자들] 완료 보상"
+msgstr ""
+
+msgctxt "9326155a3e4d36fbc6253d5c41bf4083"
+msgid "ID=208050"
+msgstr ""
+
+msgctxt "cee6b82b9c9f3fe7ec39dfba5cf39de3"
+msgid ""
+"<font color='#F5A9A9'>데</font><font color='#F78181'>자</font><font color="
+"'#FA5858'>이어</font><font color='#F78181'>워</font><font color='#F5A9A9'>커</"
+"font><font color='#9D927B'></font>"
+msgstr ""
+
+msgctxt "d184a8c380db0fa838d005ea650d7d26"
+msgid "싸움으로 향하는 힘, 하지만 그 힘을 준 것이 누구인지 고민해야 하지 않을까?"
+msgstr ""
+
+msgctxt "7691f64f9f529512fbf884c7e36f91ed"
+msgid "퀘스트 [예정과 계획 III] 완료 보상"
+msgstr ""
+
+msgctxt "818c59f900764bf6144a6f0cadde127c"
+msgid "ID=208120"
+msgstr ""
+
+msgctxt "2770520b4532da6c0663904a5b9b3c8d"
+msgid "상흔"
+msgstr ""
+
+msgctxt "b9181d77dffa88769e61aa6f600b53bc"
+msgid "ID=10055"
+msgstr ""
+
+msgctxt "737bfe83c37d47495dd04c84c8acd633"
+msgid "루돌프"
+msgstr ""
+
+msgctxt "cd5d89c8c3940b4f6d11966e454f67d7"
+msgid "크리스마스 데이를 축복하기 위해 제작된 기념 칭호. 코인샵에서 한정 판매된다."
+msgstr ""
+
+msgctxt "bf60c158738cfb35b2a212cafb3c41fa"
+msgid "ID=10056"
+msgstr ""
+
+msgctxt "9a73a28e7b43a52b08fc9c5e7f232c74"
+msgid "반짝"
+msgstr ""
+
+msgctxt "7fd9c6e3be4242c95c51bfcd9418e227"
+msgid "ID=10057"
+msgstr ""
+
+msgctxt "1cca0be42b5eb076bc8674b81ad242f1"
+msgid "하얀"
+msgstr ""
+
+msgctxt "800ea3438dfaf873b6ff84954e6e30e4"
+msgid "ID=20056"
+msgstr ""
+
+msgctxt "157077af8e93a90a36d4135ffbf8d59b"
+msgid "사슴코"
+msgstr ""
+
+msgctxt "b05409c49b280aebb0aec7be961988ee"
+msgid "ID=20057"
+msgstr ""
+
+msgctxt "5adaa61b31cbd47058e9d30521352258"
+msgid "ID=20058"
+msgstr ""
+
+msgctxt "905c5408fee780ebbd96fc4437f2253d"
+msgid "눈꽃"
+msgstr ""
+
+msgctxt "344b103f26266887e53f23c4bd9edf83"
+msgid "ID=108220"
+msgstr ""
+
+msgctxt "83436c7c0a0e3e03b44a1a50e84f53b6"
+msgid "영속되는"
+msgstr ""
+
+msgctxt "29594297028ba3219f92466ec6226e3a"
+msgid "퀘스트 [영속되는 맹세의 포탄] 완료 보상"
+msgstr ""
+
+msgctxt "6867d6ce138428fee8c092eb48960166"
+msgid "ID=208220"
+msgstr ""
+
+msgctxt "45ad104ff776e8dbdfa526f3152d1587"
+msgid "포탄"
+msgstr ""
+
+msgctxt "6f8d2460ea41e6d30b44e577129ab7e1"
+msgid "ID=10059"
+msgstr ""
+
+msgctxt "3f54f2e9b39c5daa5a44a74a1db78e65"
+msgid "<font color='#F21C74'>해피</font><font color='#FFFA00'>버스데이</font>"
+msgstr ""
+
+msgctxt "6e1c7b0c65b1e707885c565d29476642"
+msgid "1주년을 기념 칭호. 코인샵에서 한정 판매된다."
+msgstr ""
+
+msgctxt "f5044d96d5e2947cd85aff9a18ff646d"
+msgid "ID=20059"
+msgstr ""
+
+msgctxt "a734e661d3cd9f9a7997be3ae6eb4d46"
+msgid "워커홀릭"
+msgstr ""
+
+msgctxt "f0ca5391df589ef51a63526f1fc61c91"
+msgid "월드 이벤트 5500개 이상 보상"
+msgstr ""
+
+msgctxt "84fb48f3d9f8f618c4b0fab48556a331"
+msgid "ID=20060"
+msgstr ""
+
+msgctxt "b675680b68f0fe216f3f2e9663c3a6dc"
+msgid "복학생"
+msgstr ""
+
+msgctxt "5bf0ed656695bba7d436a66892eb38d2"
+msgid "복귀유저 보상"
+msgstr ""
+
+msgctxt "5e95891c70c1c762d03902c181a0320b"
+msgid "복귀 유저 보상"
+msgstr ""
+
+msgctxt "587ce003a1e497c9691e881d6afbdb7c"
+msgid "ID=10061"
+msgstr ""
+
+msgctxt "f5d8187436da0f96f15abf8bad8015a7"
+msgid "<font color='#FFCC33'>금빛</font>"
+msgstr ""
+
+msgctxt "10b727315cda79f617e249934ce67041"
+msgid "수수한 복주머니를 교환하여 획득할 수 있는 칭호. 복주머니를 모아 제니스에게서 교환하자."
+msgstr ""
+
+msgctxt "0bd424fba686b7eaf87386c45d13d39e"
+msgid "이벤트 교환 상품"
+msgstr ""
+
+msgctxt "f5a0da7c6d446a3b9a9456f2639c40a9"
+msgid "ID=20061"
+msgstr ""
+
+msgctxt "cb8ac6bae30d00fbb31690fd7787f4e3"
+msgid "<font color='#EAEAEA'>날개</font>"
+msgstr ""
+
+msgctxt "438cade390bc5c5ed33491cceb58f97a"
+msgid "ID=10062"
+msgstr ""
+
+msgctxt "639100d494743addf7ad25c6344205a3"
+msgid "하얗게"
+msgstr ""
+
+msgctxt "31b0254543566ef19ada4afbef09ed7c"
+msgid "더씽 리그 이벤트 기념 칭호."
+msgstr ""
+
+msgctxt "680dcf49f271cc28f77f85b2c8bf7df3"
+msgid "ID=20062"
+msgstr ""
+
+msgctxt "8ae2109d11c5b35d372471b14e70b6cd"
+msgid "불태웠어"
+msgstr ""
+
+msgctxt "ad2c26453e23d592b63aefc55921736b"
+msgid "ID=10063"
+msgstr ""
+
+msgctxt "1d977f6825009c01072bca732ce386d9"
+msgid "<font color='#EADCDB'>♥</font>"
+msgstr ""
+
+msgctxt "a7ed72d02f97dfe26dddbb84cd6f5c25"
+msgid "화이트데이 재료를 교환하여 획득할 수 있는 칭호. 재료를 모아 제니스에게서 교환하자."
+msgstr ""
+
+msgctxt "b9f9136bfbc0811d1ea88cf1aa8482bf"
+msgid "ID=10064"
+msgstr ""
+
+msgctxt "8d8f1b613dba2c69bcb131278ad8a637"
+msgid "치명적인"
+msgstr ""
+
+msgctxt "773db582c793f7ace9ee0001c78c8e45"
+msgid "ID=10065"
+msgstr ""
+
+msgctxt "f42bfddabc78dfeef9ae7a661caf34a2"
+msgid "<font color='#EADCDB'>사탕</font>"
+msgstr ""
+
+msgctxt "f10a67d8afa31a7717c177d8a5b25268"
+msgid "ID=10066"
+msgstr ""
+
+msgctxt "2149a4e58448ae4450cecb57f5ebeb83"
+msgid "<font color='#FF00DD'>러블리</font>"
+msgstr ""
+
+msgctxt "5c3b66ab4c52421c16d73deb4a4109c4"
+msgid "ID=10067"
+msgstr ""
+
+msgctxt "d6cdffbb64c39f5653ca139760567c2b"
+msgid "부유한"
+msgstr ""
+
+msgctxt "85e37806aa573efc42af9a241364be1e"
+msgid "ID=20063"
+msgstr ""
+
+msgctxt "e8f89f783bcc0584f1d89ed31e46aa18"
+msgid "<font color='#FF00DD'>♥</font>"
+msgstr ""
+
+msgctxt "095505285c3bfee33dbebfc4f818f523"
+msgid "ID=20064"
+msgstr ""
+
+msgctxt "33f17c5074b6df16f8030aa8fcb856fc"
+msgid "<font color='#EADCDB'>화이트데이</font>"
+msgstr ""
+
+msgctxt "14b03106eebdbe139b9c45dc3bd10eec"
+msgid "ID=20065"
+msgstr ""
+
+msgctxt "d81a34f26b503bec277b26d1bdbc89a5"
+msgid "저금통"
+msgstr ""
+
+msgctxt "03a04e0047d339240b2961491a62e991"
+msgid "ID=20066"
+msgstr ""
+
+msgctxt "09da43c4b7841903b25dff34892059e1"
+msgid "수집광"
+msgstr ""
+
+msgctxt "af4490aa0ec71090cb150a38d9c46774"
+msgid "ID=20067"
+msgstr ""
+
+msgctxt "f2c9f3664f3733dcac5df36193a704d9"
+msgid "<font color='#FF00DD'>큐피트</font>"
+msgstr ""
+
+msgctxt "2bc8692f8edbbbd9400b2c61d154a177"
+msgid "ID=99996"
+msgstr ""
+
+msgctxt "c4ca4238a0b923820dcc509a6f75849b"
+msgid "1"
+msgstr ""
+
+msgctxt "ceb11270c86dbb54e11b9ec42572779a"
+msgid "으아아아"
+msgstr ""
+
+msgctxt "3b6e849001f408cb0a6a8721844a8839"
+msgid "테스트"
+msgstr ""
+
+msgctxt "40413d047383f763dbc10a6fc3b70627"
+msgid "ID=99997"
+msgstr ""
+
+msgctxt "bd33c17d24e2a1742de39fd3c1271389"
+msgid "옵션"
+msgstr ""
+
+msgctxt "32aa6b85fe7962fffac4d18cebdebde4"
+msgid "ID=99999"
+msgstr ""
+
+msgctxt "c81e728d9d4c2f636f067f89cc14862c"
+msgid "2"
+msgstr ""
+
+msgctxt "ec0eb53112b442dc979d3e19f67f7f08"
+msgid "으으아아아"
+msgstr ""
+
+msgctxt "bb5d1ba688d322cffeffc646c8b11aba"
+msgid "ID=99998"
+msgstr ""
+
+msgctxt "6f1ce7047f16c3d3800980e90f8f51d8"
+msgid "ID=108250"
+msgstr ""
+
+msgctxt "8181b580f2e05decd0389156043d2e45"
+msgid "비상하는"
+msgstr ""
+
+msgctxt "3924a74dd2ff31eddd89dfd5511f1fe9"
+msgid "퀘스트 [비상하는 희망의 투혼] 완료 보상"
+msgstr ""
+
+msgctxt "4abacbf9a69dc610b087448e1584c42e"
+msgid "ID=208250"
+msgstr ""
+
+msgctxt "ea78f607e6dd8a67262e1776540aebcd"
+msgid "투혼"
+msgstr ""
+
+msgctxt "795447c0dd6c300a3a2d4e5c18e00a57"
+msgid "ID=10068"
+msgstr ""
+
+msgctxt "67475a5ec7412a879e459aba9dff6113"
+msgid "보조"
+msgstr ""
+
+msgctxt "b10e0209584b5f35a0a90e04319ee77d"
+msgid "레시피 북 I을 이용해서 얻을 수 있는 기념 칭호. 제니스를 통해 제작할 수 있다."
+msgstr ""
+
+msgctxt "1063bd1611676543c262a422b42bbf5e"
+msgid "ID=20068"
+msgstr ""
+
+msgctxt "d2b7e3b9fb29bd7b276d635ea775dcec"
+msgid "요리사"
+msgstr ""
+
+msgctxt "6926b89facc3d4f566b0beb984785727"
+msgid "레시피 북 II을 이용해서 얻을 수 있는 기념 칭호. 제니스를 통해 제작할 수 있다."
+msgstr ""
+
+msgctxt "f9947582aed65be956e93a034a17f85b"
+msgid "ID=10069"
+msgstr ""
+
+msgctxt "bb26cf35a8ba893595adadcdd101b1d3"
+msgid "샐러드와 레시피 북 I을 이용해서 얻을 수 있는 기념 칭호. 제니스를 통해 제작할 수 있다."
+msgstr ""
+
+msgctxt "fa0e4d60d7ff33d870e4d56e3493a14e"
+msgid "ID=20069"
+msgstr ""
+
+msgctxt "d235aeb0cac075030daaa63afdd42682"
+msgid "셰프"
+msgstr ""
+
+msgctxt "18501bbafd1f57d39bacc7f26dab2606"
+msgid "토마토 파스타와 레시피 북 II을 이용해서 얻을 수 있는 기념 칭호. 제니스를 통해 제작할 수 있다."
+msgstr ""
+
+msgctxt "e915f09283cf94d0044bee4a0842adca"
+msgid "ID=10070"
+msgstr ""
+
+msgctxt "5063226f1b06ca09deb653b39aed43e8"
+msgid "뻥쟁이"
+msgstr ""
+
+msgctxt "f217b63bc7cb1a51d80dbf13a84f6772"
+msgid "판도라의 상자에서 얻을 수 있는 만우절 기념 칭호."
+msgstr ""
+
+msgctxt "d40ca5023201fe314d259bbb9eff904f"
+msgid "ID=109270"
+msgstr ""
+
+msgctxt "aaa80542de1d08293c47f2f76ac32616"
+msgid "<font color='#8904B1'>공허한</font>"
+msgstr ""
+
+msgctxt "1ff2a1d0073f246019f266f7b55633c9"
+msgid "공허의 괴수 요르하카를 저지에 성공한 워커에게만 주어지는 칭호"
+msgstr ""
+
+msgctxt "4b1948f6bd20b99ae950bbe6669d058e"
+msgid "업적 [공허를 정복한 자] 완료 보상"
+msgstr ""
+
+msgctxt "aabc70a0f45626621c63a1f7dbb05551"
+msgid "ID=209270"
+msgstr ""
+
+msgctxt "380334e88211e9a21be619dfbeb257f5"
+msgid "<font color='#DF013A'>괴수</font>"
+msgstr ""
+
+msgctxt "ea59ff67c85a1c14288b20d9421ed3a9"
+msgid "ID=20074"
+msgstr ""
+
+msgctxt "93b428cf54e6d9bdc2d96cc5929e3e48"
+msgid "대한민국"
+msgstr ""
+
+msgctxt "04ebfa89589dde0dadfc1b87b6317115"
+msgid "워커들의 힘을 모아 달성한 월드 이벤트 보상 칭호"
+msgstr ""
+
+msgctxt "d3cb5ea7135b3b9c037cbad24d4cf07e"
+msgid "ID=10074"
+msgstr ""
+
+msgctxt "4acc645c37ad7dd69b18305d2b3d2c29"
+msgid "<font color='#FF5A5A'>승리하라</font>"
+msgstr ""
+
+msgctxt "952e200175dc9a6fd9708485fcfbf82a"
+msgid "ID=20075"
+msgstr ""
+
+msgctxt "37a4200c018e2ae63bb76bb15bc7b33f"
+msgid "<font color='#A566FF'>국가대표</font>"
+msgstr ""
+
+msgctxt "d11017496900b75fc65c2a4816c94330"
+msgid "이벤트 기간 동안 축구공을 모아 그루톤 코인샵에서 교환하여 획득한 칭호"
+msgstr ""
+
+msgctxt "08b313fbc9c49e6d31893a671a3e9aea"
+msgid "ID=10075"
+msgstr ""
+
+msgctxt "10e9a206843e8a6b7a565eef7322fdc2"
+msgid "<font color='#7F00FF'>영혼의</font>"
+msgstr ""
+
+msgctxt "d5cf5a14df8f363074d20d5ec00c9b5c"
+msgid "2018 할로윈 이벤트를 통해 획득한 칭호."
+msgstr ""
+
+msgctxt "e3d8f4b912181ff967490e92ae7d96c0"
+msgid "ID=20076"
+msgstr ""
+
+msgctxt "98db7b7d1ee129c99e058f4d59c846a4"
+msgid "<font color='#7F00FF'>축제</font>"
+msgstr ""
+
+msgctxt "a0dbe713d38cb1348ce85401fc892a48"
+msgid "ID=10077"
+msgstr ""
+
+msgctxt "abbbc8d84be51fccd2f5fa076d556972"
+msgid ""
+"<font color='#DB0000'>성</font><font color='#C90000'>숙</font><font color="
+"'#B70000'>한</font>"
+msgstr ""
+
+msgctxt "b6c6b6e33d196fba5f3f65b5613694c0"
+msgid "랭킹 보상을 통해 획득한 칭호."
+msgstr ""
+
+msgctxt "5022e7ce2e02210a2bbe175f0d4cded1"
+msgid "랭킹 보상"
+msgstr ""
+
+msgctxt "e44cc68d982c486e92c41350eacb2565"
+msgid "ID=10078"
+msgstr ""
+
+msgctxt "3af6df3ffbe4667250818170eb84640f"
+msgid "<font color='#47C83E'>거침</font><font color='#23A41A'>없는</font>"
+msgstr ""
+
+msgctxt "5ccb13aa9a4edffd869580a22ca73794"
+msgid "ID=10079"
+msgstr ""
+
+msgctxt "6bdc88ad76c1046b5bb9faff0989328c"
+msgid ""
+"<font color='#F15F5F'>사</font><font color='#CD3B3B'>나</font><font color="
+"'#A91717'>운</font>"
+msgstr ""
+
+msgctxt "f5bbc63b6df9a58999c8ac8bebb80682"
+msgid "ID=10080"
+msgstr ""
+
+msgctxt "2c27833082c675be4b94c12de019b0f5"
+msgid "<font color='#FF4848'>무자비</font><font color='#CC2929'>한</font>"
+msgstr ""
+
+msgctxt "529f02bea8c8d5579fbea50469bfcf75"
+msgid "ID=10081"
+msgstr ""
+
+msgctxt "210fe821832f72c3dcb9fc290ba597e5"
+msgid "<font color='#003399'>냉혹</font><font color='#3669CF'>한</font>"
+msgstr ""
+
+msgctxt "1b57a28482c3314e967df4d32af60435"
+msgid "ID=10082"
+msgstr ""
+
+msgctxt "0ba486f5881087bd31a8874a7b7a601c"
+msgid ""
+"<font color='#B2A535'>위</font><font color='#C4B747'>대</font><font color="
+"'#D6C959'>한</font>"
+msgstr ""
+
+msgctxt "2713ed904d4750a57ade8b5bb6cc5cc8"
+msgid "ID=20077"
+msgstr ""
+
+msgctxt "6e42be6e37f4eb1fee2ebc0450b54ea7"
+msgid ""
+"<font color='#FAED7D'>구</font><font color='#E8DB6B'>원</font><font color="
+"'#FAED7D'>자</font>"
+msgstr ""
+
+msgctxt "22dfb58004f8a8c314058f31d30fbe64"
+msgid "ID=20078"
+msgstr ""
+
+msgctxt "ad64fe5cace20b38052d2cbe37c6100f"
+msgid ""
+"<font color='#BDBDBD'>추</font><font color='#999999'>격</font><font color="
+"'#757575'>자</font>"
+msgstr ""
+
+msgctxt "55c206aa4a770c624eb47b97a2f593dc"
+msgid "ID=20079"
+msgstr ""
+
+msgctxt "e8f02ae21b62420750a1ff7d5b7b59ef"
+msgid ""
+"<font color='#B2EBF4'>수</font><font color='#C4FDFF'>호</font><font color="
+"'#D6FFFF'>자</font>"
+msgstr ""
+
+msgctxt "1325496b8d7a56ecd562d7d7ea81a4b8"
+msgid "ID=20080"
+msgstr ""
+
+msgctxt "c95992dd96421678795bf51d91953565"
+msgid ""
+"<font color='#CC723D'>파</font><font color='#A84E19'>괴</font><font color="
+"'#842A00'>자</font>"
+msgstr ""
+
+msgctxt "2d3c137ed4970d6add56caceecb8b3d3"
+msgid "ID=20081"
+msgstr ""
+
+msgctxt "9d6c1e1ace47727926b6d7720baea126"
+msgid ""
+"<font color='#6B66FF'>불</font><font color='#5954ED'>멸</font><font color="
+"'#4742DB'>자</font>"
+msgstr ""
+
+msgctxt "5bb9a2bdbf6ad9d4fa221e40d797c02f"
+msgid "ID=20082"
+msgstr ""
+
+msgctxt "dd29c6a5f5ae5a3a9cfd4bd4f9b4e5ca"
+msgid ""
+"<font color='#CC3D3D'>정</font><font color='#BA2B2B'>복</font><font color="
+"'#A81919'>자</font>"
+msgstr ""
+
+msgctxt "e86b32954349ed40f3e2b39daec1032a"
+msgid "ID=10076"
+msgstr ""
+
+msgctxt "9f9556e114f47f0c39bb72fb6ae3f1e1"
+msgid "<font color='#FF69B4'>커플</font>"
+msgstr ""
+
+msgctxt "3d7d65dbfc512422466a55d85b29306b"
+msgid "2018 크리스마스 이벤트를 통해 획득한 칭호."
+msgstr ""
+
+msgctxt "a721700a07d23df24a5d75e458ed2d9c"
+msgid "ID=20083"
+msgstr ""
+
+msgctxt "2aa4b18cc19cc57e3bc0518a9da305c6"
+msgid "<font color='#808080'>솔로</font>"
+msgstr ""
+
+msgctxt "28000a24ffb79d3f2f8b257748dc59b9"
+msgid "ID=208051"
+msgstr ""
+
+msgctxt "476eae735063cb0b1725864066966b5c"
+msgid ""
+"<font color='#6C6C73'>학</font><font color='#5B5B61'>살</font><font color="
+"'#46464B'>자</font>"
+msgstr ""
+
+msgctxt "b86ffc56cab207c4fc7312a49b888bd9"
+msgid "소울정크를 혐오하는 자들에게 어울리는 칭호"
+msgstr ""
+
+msgctxt "96c53c2edc7ed46eb949c4d4232af0e4"
+msgid "퀘스트 [소울정크 학살자] 완료 보상"
+msgstr ""
+
+msgctxt "d506e0a00b3a547ac54f4ae0b690919f"
+msgid "ID=10090"
+msgstr ""
+
+msgctxt "a00ff13e63bb1b69d2572ef0c125914d"
+msgid ""
+"<font color='#00FFBF'>두</font><font color='#58FAD0'>번</font><font color="
+"'#81F7D8'>째</font>"
+msgstr ""
+
+msgctxt "4d228f1d4ba29f8452397d6a91b7d0b9"
+msgid "2주년 이벤트 제작 칭호"
+msgstr ""
+
+msgctxt "a32eb3a95e3138e1ad5c7210d681c3c1"
+msgid "ID=20090"
+msgstr ""
+
+msgctxt "708618b19d693b20d47bab43558922ab"
+msgid "<font color='#A9F5E1'>생</font><font color='#E0F8F1'>일</font>"
+msgstr ""
+
+msgctxt "be508315086afbfc577b0daac14f7967"
+msgid "ID=10091"
+msgstr ""
+
+msgctxt "d393581133cbab09214c2ec4806f188e"
+msgid ""
+"<font color='#8A0886'>올</font><font color='#A901DB'>해</font><font color="
+"'#BF00FF'>에</font><font color='#CC2EFA'>도</font>"
+msgstr ""
+
+msgctxt "8ce84d819af313b64bf1337deb8aae4d"
+msgid "ID=20091"
+msgstr ""
+
+msgctxt "03f89c691ff74022dd27bb727b4f10ac"
+msgid "<font color='#D358F7'>함</font><font color='#DA81F5'>께</font>"
+msgstr ""
+
+msgctxt "f652aadb795782ccc0b36e2576505eec"
+msgid "ID=10092"
+msgstr ""
+
+msgctxt "07c7d7074f3a3f9988141dc3777fb485"
+msgid ""
+"<font color='#FF8000'>함</font><font color='#FFBF00'>께</font><font color="
+"'#FACC2E'>하</font><font color='#F7FE2E'>는</font>"
+msgstr ""
+
+msgctxt "32e8fda0bb8240224276099689476502"
+msgid "ID=20092"
+msgstr ""
+
+msgctxt "747f8e34b1e3496ceb410cd37d301c38"
+msgid ""
+"<font color='#F4FA58'>2</font><font color='#D0FA58'>주</font><font color="
+"'#D8F781'>년</font>"
+msgstr ""
+
+msgctxt "d4fc78ad53f62cb74e503d531c3a2e0c"
+msgid "ID=208052"
+msgstr ""
+
+msgctxt "77708f6d37b24fcbeb7c14a774ee2fca"
+msgid ""
+"<font color='#5F9EA0'>고</font><font color='#73B2BE'>고</font><font color="
+"'#87C6D2'>한 </font><font color='#FAB2B2'>이</font><font color='#FA9E9E'>상</"
+"font><font color='#F08080'>의</font>"
+msgstr ""
+
+msgctxt "16e3ca8cd39143436dfb7ffb90b68427"
+msgid "드높은 명예를 가진 기사단장과의 전투에서 자신만의 고고한 이상을 이룩한 자들에게 어울리는 칭호"
+msgstr ""
+
+msgctxt "89be6a8ca2924b94c97a1c8a7ad6b79f"
+msgid "퀘스트 [명예로운 기사] 완료 보상"
+msgstr ""
+
+msgctxt "86af159d9bcb610705852e41aaeb2af0"
+msgid "ID=208053"
+msgstr ""
+
+msgctxt "fbd42296ed4c0eb41988a41af2bccde9"
+msgid ""
+"<font color='#F6F6F6'>하</font><font color='#EAEAEA'>얀 </font><font color="
+"'#D5D5D5'>기</font><font color='#BDBDBD'>사</font>"
+msgstr ""
+
+msgctxt "2250130310a40299d89fce957fa53af4"
+msgid "ID=100407"
+msgstr ""
+
+msgctxt "1231f8f6793c5f0a30d5e30f91094a89"
+msgid "ID=100607"
+msgstr ""
+
+msgctxt "0b67ddb7786400f09b37c20cf8d316c7"
+msgid "응징의 검신을"
+msgstr ""
+
+msgctxt "63f68f72e9adee28ad44724667352f8b"
+msgid "ID=108271"
+msgstr ""
+
+msgctxt "7f2bfc6321436a3e2a2f7b5735244652"
+msgid "옆을 걷는"
+msgstr ""
+
+msgctxt "5a1dd8c53c7a6c25ca0ce2a939f1b3cf"
+msgid "퀘스트 [옆을 걷는 결의의 화살] 완료 보상"
+msgstr ""
+
+msgctxt "6db3f1215e98fb2985716162103e069b"
+msgid "ID=200207"
+msgstr ""
+
+msgctxt "10675de406b211580c4e72180d9d0a5c"
+msgid "염원"
+msgstr ""
+
+msgctxt "6fb678b0b2623063ef6ea26e5d1362fa"
+msgid "ID=200407"
+msgstr ""
+
+msgctxt "ef5a0a6ec14c18bcb0ffe72c77987916"
+msgid "검날"
+msgstr ""
+
+msgctxt "ffa7588da248c465f7106661d751d8e7"
+msgid "ID=200807"
+msgstr ""
+
+msgctxt "efea1b48e145a8e61adaeb19fd9dec1f"
+msgid "ID=208271"
+msgstr ""
+
+msgctxt "3aa9f6c03714e9293c7608eae079a562"
+msgid "화살"
+msgstr ""
+
+msgctxt "162f0adffa3f9e51b672f813f0f4b888"
+msgid "ID=100107"
+msgstr ""
+
+msgctxt "da7a7bbf5a734025283ee3074f6da79d"
+msgid "또 하나의"
+msgstr ""
+
+msgctxt "c410ae1895b138735c606bc15dccaf8d"
+msgid "또 하나의 예정으로써 깨어난 자를 위한 칭호"
+msgstr ""
+
+msgctxt "46d185d9fc1d022b7114b478ee44ab63"
+msgid "퀘스트 [또 하나의 예정] 완료 보상"
+msgstr ""
+
+msgctxt "b4b779dc62fc9d84a73ce7771773a2f7"
+msgid "ID=200107"
+msgstr ""
+
+msgctxt "72cd53d1ee7ace3047faf2fc65f2f6c8"
+msgid "예정"
+msgstr ""
+
+msgctxt "0daeb31bb841e18b878a54b4617101fa"
+msgid "ID=10093"
+msgstr ""
+
+msgctxt "8cd4b5fa4314a0eca2fb6a5cb92b444a"
+msgid "그녀의"
+msgstr ""
+
+msgctxt "c919261b6495eae9dcc885a8d85a33f7"
+msgid "2019 발렌타인 이벤트를 통해 획득한 칭호."
+msgstr ""
+
+msgctxt "65a72cd9bcce78a87b9887887b053611"
+msgid "ID=10094"
+msgstr ""
+
+msgctxt "a9595c0e598bdbb7c8373352e55d6789"
+msgid "매력적인"
+msgstr ""
+
+msgctxt "0596b83220e6b708109f5d0a2750eae3"
+msgid "ID=20093"
+msgstr ""
+
+msgctxt "247fda3c1f8b56855ea4f2887f1dc4b0"
+msgid "마음"
+msgstr ""
+
+msgctxt "4227ca1cd07a680978aff57f78bfbf41"
+msgid "ID=20094"
+msgstr ""
+
+msgctxt "45424f07010ec0c37d2be2a438d5ec41"
+msgid "프로듀서"
+msgstr ""
+
+msgctxt "f71b6ff80f3c07d939af6c4dc06562cd"
+msgid "ID=20095"
+msgstr ""
+
+msgctxt "582080c5bb7a5dbb54eca29c48a0fbd0"
+msgid "<font color='#F6BB43'>캐서린</font>"
+msgstr ""
+
+msgctxt "c91a62ecfeaee47e4c02785ccdad87d6"
+msgid "ID=10095"
+msgstr ""
+
+msgctxt "2e057a0cbff02c5d208e4b4f49d6e09c"
+msgid "신사의"
+msgstr ""
+
+msgctxt "bba1588c424082cc1e275d84ee6c429f"
+msgid "2019 화이트데이 이벤트를 통해 획득한 칭호."
+msgstr ""
+
+msgctxt "b2d786e14bfa5070cc5de78926b5ac02"
+msgid "ID=10096"
+msgstr ""
+
+msgctxt "1e4de7f39dfae2be8cbd5e1f6e11fd89"
+msgid "스위트"
+msgstr ""
+
+msgctxt "72f82781d6451af13c16930f408493c1"
+msgid "ID=20096"
+msgstr ""
+
+msgctxt "b3a8a224ac890a28d4563d27c9b801e4"
+msgid "자격"
+msgstr ""
+
+msgctxt "e1b97cc0dd6b818a908449556658c103"
+msgid "ID=20097"
+msgstr ""
+
+msgctxt "afec8386690ab562979c22b7e1a9825d"
+msgid "오빠"
+msgstr ""
+
+msgctxt "11ec7f4260e48410307a5f1d78582031"
+msgid "ID=20098"
+msgstr ""
+
+msgctxt "bb282c27b14a5b3a4c86024e88adc42d"
+msgid "<font color='#43f6bd'>굿보이</font>"
+msgstr ""
+
+msgctxt "064094ce0b055d29012539fab92081e6"
+msgid "ID=10099"
+msgstr ""
+
+msgctxt "21f4dfd96663fa8a59a5e33adfbb0b8f"
+msgid "줄리의"
+msgstr ""
+
+msgctxt "d20f4dffd8e52281352e79cb877999ec"
+msgid "가정의 달 이벤트를 통해 획득한 칭호."
+msgstr ""
+
+msgctxt "8a70873a26d2296b44337782fe3d26b3"
+msgid "ID=10100"
+msgstr ""
+
+msgctxt "a6ac5ae510544e2af9126ed954aeb6d9"
+msgid "아론의"
+msgstr ""
+
+msgctxt "6fa2b6025c741c67b53450bffcf099c2"
+msgid "ID=10101"
+msgstr ""
+
+msgctxt "b4f4b40859bcd1310712a634498da936"
+msgid "테네브리스의"
+msgstr ""
+
+msgctxt "84da9f07a05bec1ae8fd7dfa4d9fa7aa"
+msgid "ID=20099"
+msgstr ""
+
+msgctxt "508fbe9f56e75d9a1ae4a98bfe3ea6c4"
+msgid "후견인"
+msgstr ""
+
+msgctxt "3168654dc3d1679b5619927f6d91307f"
+msgid "ID=20100"
+msgstr ""
+
+msgctxt "0566b115fc585a727a07582b331a6d44"
+msgid "혈육"
+msgstr ""
+
+msgctxt "f071c437db3c26428271c3cd57c61510"
+msgid "ID=20101"
+msgstr ""
+
+msgctxt "5d4523ef3ae6b82488d3e59a0194f4d6"
+msgid "애제자"
+msgstr ""
+
+msgctxt "0f35f590179199b5295fcb78a34f413e"
+msgid "ID=109280"
+msgstr ""
+
+msgctxt "8a509781f539a4ecc02bae44c132e254"
+msgid "<font color='#FFE08C'>숨겨진</font>"
+msgstr ""
+
+msgctxt "faaeb65e0041877cf414a28a3c6c0c68"
+msgid "라파쿰바를 저지에 성공한 워커에게만 주어지는 칭호"
+msgstr ""
+
+msgctxt "22835007a4a6bfeb59f9d47a004fd58c"
+msgid "업적 [은신처의 정복자] 완료 보상"
+msgstr ""
+
+msgctxt "cb9f09e73c71198954d1024eed15d297"
+msgid "ID=209280"
+msgstr ""
+
+msgctxt "23c0d43c5b6e56586ab787412a3f6ed2"
+msgid "<font color='#9FC93C'>은신처</font>"
+msgstr ""
+
+msgctxt "960bf461a46d00a48c0554b862864eae"
+msgid "ID=10102"
+msgstr ""
+
+msgctxt "2e8cf98c7cef0cd1e5708b2645f469f6"
+msgid "언럭키"
+msgstr ""
+
+msgctxt "4ee40dbd4038daf56d6e0791e509ecaf"
+msgid "2019 그루톤 마트료시카 이벤트를 통해 획득한 칭호"
+msgstr ""
+
+msgctxt "4522985acf4273a16d7c8dd7f7a0fec8"
+msgid "ID=20102"
+msgstr ""
+
+msgctxt "a948a64df38c9dec0ab25781315ac7d2"
+msgid "ID=10103"
+msgstr ""
+
+msgctxt "e7936c6f826b73c238a2fdc97495ea46"
+msgid "<font color='#D1B2FF'>너무너무</font>"
+msgstr ""
+
+msgctxt "340c12617120ef91ab94af14a07490d1"
+msgid "스텔라 생일 이벤트를 통해 획득한 칭호"
+msgstr ""
+
+msgctxt "f564dcbeb642d1af59a5e7cbe52085b0"
+msgid "ID=20103"
+msgstr ""
+
+msgctxt "42fa01b3bc5c277acecf2542201f4bb9"
+msgid "<font color='#D1B2FF'>행복해</font color='#D1B2FF'>"
+msgstr ""
+
+msgctxt "de772ecd7c43582abbb1b9beb7376465"
+msgid "ID=10104"
+msgstr ""
+
+msgctxt "c241f0c4f7e8f95d5eab247f9137a725"
+msgid "<font color='#D1B2FF'>A.K.A</font>"
+msgstr ""
+
+msgctxt "27a3df7ea856fa4c1af5badbfa5df16a"
+msgid "ID=20104"
+msgstr ""
+
+msgctxt "d1c88459d78559962b20116785590c97"
+msgid "<font color='#D1B2FF'>댕라</font color='#D1B2FF'>"
+msgstr ""
+
+msgctxt "098fb2c025d7c618817137e50c188eb2"
+msgid "ID=10105"
+msgstr ""
+
+msgctxt "47630ee209686cdc85b13aa261668a29"
+msgid "<font color='#D1B2FF'>스텔라와</font>"
+msgstr ""
+
+msgctxt "31721d8109555517df260b3cac524f8c"
+msgid "ID=20105"
+msgstr ""
+
+msgctxt "58ea146599731c30f2c1c06dad752fe8"
+msgid "<font color='#D1B2FF'>영감님</font color='#D1B2FF'>"
+msgstr ""
+
+msgctxt "f485c58fa9023137243d3471f528cb3a"
+msgid "ID=10106"
+msgstr ""
+
+msgctxt "8b4fa701343599b907f5824d0c5ba1db"
+msgid "<font color='#FFFF6C'>진짜</font>"
+msgstr ""
+
+msgctxt "b52bfeec5d11f9df2816fdb336f0ae92"
+msgid "진 생일 이벤트를 통해 획득한 칭호"
+msgstr ""
+
+msgctxt "9facbea95d2556b17591dc5fd945ebc0"
+msgid "ID=20106"
+msgstr ""
+
+msgctxt "5bbe2fc039364ee2c2ec017d2bc88e9a"
+msgid "<font color='#FFFF6C'>멋진</font color='#FFFF6C'>"
+msgstr ""
+
+msgctxt "f66b4c042047f1dda74e7cf8610744ed"
+msgid "ID=10107"
+msgstr ""
+
+msgctxt "6baaace8362c42797928c138e24b8013"
+msgid "<font color='#FFFF6C'>호피입은</font>"
+msgstr ""
+
+msgctxt "1a26d0f65eaff43e7a2d03e8c9ac16c9"
+msgid "ID=20107"
+msgstr ""
+
+msgctxt "c303b1abe9aa9f48354cb14b3e1052a8"
+msgid "<font color='#FFFF6C'>진시황제</font color='#FFFF6C'>"
+msgstr ""
+
+msgctxt "1a9de6e684ae13ad5bdb14f4509dd3ba"
+msgid "ID=10108"
+msgstr ""
+
+msgctxt "9e09880641f0ace0d456217f5cea2ac5"
+msgid "<font color='#FFFF6C'>괜찮아</font>"
+msgstr ""
+
+msgctxt "019448aadcf52ad8a3f79b665382193d"
+msgid "ID=20108"
+msgstr ""
+
+msgctxt "06062f97608b8df9c0aad28df410a4b7"
+msgid "<font color='#FFFF6C'>잘될거야</font color='#FFFF6C'>"
+msgstr ""
+
+msgctxt "0ed6202f89ae260faa75608150661734"
+msgid "ID=10109"
+msgstr ""
+
+msgctxt "0c55764c44704f600e7a3ce82292729b"
+msgid "<font color='#F49255'>하루하루</font>"
+msgstr ""
+
+msgctxt "685856431de53062282517a1f9aec5ab"
+msgid "하루 생일 이벤트를 통해 획득한 칭호"
+msgstr ""
+
+msgctxt "ab9ebfd0e34b402c14eb4b405011b191"
+msgid "ID=20109"
+msgstr ""
+
+msgctxt "0492e9a35be37da8e86c07befb98e75c"
+msgid "<font color='#F49255'>하루룽</font color='#F49255'>"
+msgstr ""
+
+msgctxt "e83be6b3607636c958a60bb81af465ea"
+msgid "ID=10110"
+msgstr ""
+
+msgctxt "737ff81d97676095bc299d56d12766b9"
+msgid "<font color='#F49255'>바람</font>"
+msgstr ""
+
+msgctxt "e2b036e174c349900da74f2990d519c3"
+msgid "ID=20110"
+msgstr ""
+
+msgctxt "7f56ee7a03608c16c5bf56671eda20b0"
+msgid "<font color='#F49255'>하나 둘 셋</font color='#F49255'>"
+msgstr ""
+
+msgctxt "4e39bba92355eeaa6185e6dafae64f7c"
+msgid "ID=10111"
+msgstr ""
+
+msgctxt "9ade017fc5328f002280a1fe9a83810d"
+msgid "<font color='#F49255'>벌써</font>"
+msgstr ""
+
+msgctxt "f8622bda1d86b20b1f960be9d294f59d"
+msgid "ID=20111"
+msgstr ""
+
+msgctxt "447ce36479e341c052a5311223f2d01d"
+msgid "<font color='#F49255'>죽은거야</font color='#F49255'>"
+msgstr ""
+
+msgctxt "36a59fb32907d3d7ce50fc0a12d763ce"
+msgid "ID=10112"
+msgstr ""
+
+msgctxt "d53d44dba11261a136bbfa29d9a4e0c6"
+msgid ""
+"<font color='#58CED2'>천</font><font color='#5FD1D1'>일</font><font color="
+"'#67D9D9'>밤</font><font color='#6ADFD6'>을</font> <font color='#6DE2D9'>지</"
+"font><font color='#84EED8'>샌</font>"
+msgstr ""
+
+msgctxt "f8d2901855f2cdbc3dce42a6325a1479"
+msgid "서비스 1000일 이벤트를 통해 획득한 칭호"
+msgstr ""
+
+msgctxt "7697e718dabdc28d24487b5ae92f8e27"
+msgid "ID=20112"
+msgstr ""
+
+msgctxt "23a5e40e77953d0a881382a8344f215a"
+msgid ""
+"<font color='#A2F4E8'>노</font><font color='#A2FBE7'>련</font><font color="
+"'#B9FEE9'>한</font> <font color='#CDFEE8'>영</font><font color='#CEFFE9'>웅</"
+"font>"
+msgstr ""
+
+msgctxt "346c9c118721158868fdbab843096743"
+msgid "ID=10113"
+msgstr ""
+
+msgctxt "5da5858a99bd56d614c22a3a2f1688e1"
+msgid ""
+"<font color='#CEFFE9'>2</font><font color='#CDFEE8'>천</font><font color="
+"'#B9FEE9'>일</font> <font color='#A2FBE7'>까</font><font color='#A2F4E8'>지</"
+"font>"
+msgstr ""
+
+msgctxt "277fce4231e1767cee4254dbdd44050a"
+msgid "ID=20113"
+msgstr ""
+
+msgctxt "80e0a243a2e1a6e9aa0941907ceb1ad1"
+msgid ""
+"<font color='#84EED8'>숨</font> <font color='#6DE2D9'>참</font><font color="
+"'#6ADFD6'>는</font><font color='#67D9D9'>다</font>"
+msgstr ""
+
+msgctxt "d3cf6f641fbe032a86931aefdc8b9419"
+msgid "ID=10114"
+msgstr ""
+
+msgctxt "2ab174745020de44a3404b9b2b0e1891"
+msgid "<font color='#CC4400'>부커스의</font>"
+msgstr ""
+
+msgctxt "fdcce1cd466bc6a2c2ed65fafcd105c6"
+msgid "2019 에텔 코어 이벤트를 통해 획득한 칭호"
+msgstr ""
+
+msgctxt "c22d92087f9590a87a529cccfe18797b"
+msgid "ID=20114"
+msgstr ""
+
+msgctxt "5c52589ed69f32cd8cddb560a33f40b9"
+msgid "<font color='#CC4400'>의뢰인</font>"
+msgstr ""
+
+msgctxt "421e4146a5a635211b8298b876dbfe71"
+msgid "ID=20115"
+msgstr ""
+
+msgctxt "f89c1b1368b57035301f0185eeee37d9"
+msgid "<font color='#EFDECD'>채굴왕</font>"
+msgstr ""
+
+msgctxt "5fe196d3c504be3fb26077b2ae96872f"
+msgid "ID=109380"
+msgstr ""
+
+msgctxt "df6c0f6dd3e519fc28f1849b8821aebe"
+msgid "<font color='#FF8224'>집결한</font>"
+msgstr ""
+
+msgctxt "e61f305efd80c8b958ba4b95c4a043ca"
+msgid "새로이 하나가 된 집단은 그 자체로도 강력한 영향력을 낼 수 있게 됩니다."
+msgstr ""
+
+msgctxt "507cd1b0c866448b918a6d5212831395"
+msgid "퀘스트 [소울워커들] 완료 보상"
+msgstr ""
+
+msgctxt "310e43eafb04e28bce170a2818ecebe7"
+msgid "ID=209380"
+msgstr ""
+
+msgctxt "af6dd3ce534e4a799f18407185c3fc64"
+msgid "<font color='#FF8224'>영웅들</font>"
+msgstr ""
+
+msgctxt "735d366f292fac3f1655a430ccfcefa5"
+msgid "영웅은 위기의 순간에 사람들이 지나온 역사를 통해 필연적으로 만들어집니다."
+msgstr ""
+
+msgctxt "755e6a3b465b40dbf5a21160aea31547"
+msgid "ID=10116"
+msgstr ""
+
+msgctxt "b9984d9d3019f7fe621cf3e2b440bfb6"
+msgid "<font color='#90021C'>슈퍼스타</font>"
+msgstr ""
+
+msgctxt "a420ea43a3700f38f3f67672b358d51a"
+msgid "이리스 생일 이벤트를 통해 획득한 칭호"
+msgstr ""
+
+msgctxt "68eeaab685ac7b928d77e4dc8a64c7be"
+msgid "ID=10117"
+msgstr ""
+
+msgctxt "6c19d99cefe16981a7f8ef0dea54bbd1"
+msgid "<font color='#90021C'>더 이상</font>"
+msgstr ""
+
+msgctxt "33354bb832aa96c233c8f20afa94187d"
+msgid "ID=10118"
+msgstr ""
+
+msgctxt "7011ecc37a93f263328e086cef558b6f"
+msgid "<font color='#90021C'>외모도</font>"
+msgstr ""
+
+msgctxt "2a9f23769f83306e2d6a1dd4bacafebd"
+msgid "ID=20116"
+msgstr ""
+
+msgctxt "d9a073181012bb8bdf888574d194700a"
+msgid "<font color='#90021C'>지민이</font>"
+msgstr ""
+
+msgctxt "b3682c00d40d305e281984456ceaaa3a"
+msgid "ID=20117"
+msgstr ""
+
+msgctxt "5fab856fc8b0ed1e720829e4730dc8d2"
+msgid "<font color='#90021C'>참지 않겠어</font>"
+msgstr ""
+
+msgctxt "080cd413bdc85c2570265fd2ece3a6a1"
+msgid "ID=20118"
+msgstr ""
+
+msgctxt "7d3874bbd73c42a28d8afc17830c6d24"
+msgid "<font color='#90021C'>성능</font>"
+msgstr ""
+
+msgctxt "c2844d93955c07ed31fd27b2effb7338"
+msgid "ID=10119"
+msgstr ""
+
+msgctxt "ee680dfee761826cfa96aaafd0057ce1"
+msgid ""
+"<font color='#c9265d'>점</font><font color='#d1547e'>유</font><font color="
+"'#d17594'>율</font>"
+msgstr ""
+
+msgctxt "65586d013a21a08b4012cee8ae0541ba"
+msgid "점유율을 수호하는 자들만이 가질 수 있는 칭호"
+msgstr ""
+
+msgctxt "f05b5601c987d5360021d05f6a772798"
+msgid "[PC방] 마일리지 포인트 티켓으로 제작"
+msgstr ""
+
+msgctxt "91ccf3a81c97656fcaef0b5d5209d962"
+msgid "ID=20119"
+msgstr ""
+
+msgctxt "9e95277d76df3831fd67258f2f15402d"
+msgid "<font color='#d1547e'>수</font><font color='#c9265d'>호</font>"
+msgstr ""
+
+msgctxt "be815959085caa73c6ea0fee44b4e15b"
+msgid "ID=10120"
+msgstr ""
+
+msgctxt "65af39f98f026541de941381f513c242"
+msgid ""
+"<font color='#ebd781'>별</font><font color='#d9c159'>빛</font><font color="
+"'#c4a933'>의</font>"
+msgstr ""
+
+msgctxt "490db0376edc1da807230be56178fe41"
+msgid "별빛과 함께 하는 발길을 머금은 방문자들을 위한 칭호"
+msgstr ""
+
+msgctxt "2f22cb41ebe3d64a7cdb9c2ae90c61d6"
+msgid "ID=20120"
+msgstr ""
+
+msgctxt "bc2541a359fc31db6efe1fda535354f8"
+msgid ""
+"<font color='#c4a933'>방</font><font color='#d9c159'>문</font><font color="
+"'#ebd781'>자</font>"
+msgstr ""
+
+msgctxt "2a5f8aa035a082525875a178ba2802bd"
+msgid "ID=10121"
+msgstr ""
+
+msgctxt "6bfa2ef1bb5012a63a639091796edcea"
+msgid "<font color='#e9d9ff'>검은 달의</font>"
+msgstr ""
+
+msgctxt "331bc61ec1629f5ce9c7f3a4f10e375d"
+msgid "정크퀸 저지에 성공한 워커에게만 주어지는 칭호"
+msgstr ""
+
+msgctxt "f6170d8c2f982eab6b0b186bfa2e83e1"
+msgid "업적 [검은 달을 몰락시키다] 완료 보상"
+msgstr ""
+
+msgctxt "c8d279b7bc64405597ec5f3fa19b7923"
+msgid "ID=20121"
+msgstr ""
+
+msgctxt "8448a72c98e0317e5f0321fbec057433"
+msgid "<font color='#c9f5ff'>군단</font>"
+msgstr ""
+
+msgctxt "c286b269fb1b60f6609eebbcf5ed81e2"
+msgid "ID=10122"
+msgstr ""
+
+msgctxt "cba410217ac853f2fe001f4f5a93464e"
+msgid "수평선의"
+msgstr ""
+
+msgctxt "8881ee4e744123161662f20674e99c08"
+msgid "디플루스 호라이즌에 다다른 거대한 위기들을 극복한 이들에게 주어지는 칭호.\\n계속된 추격의 끝에 도달하였습니다."
+msgstr ""
+
+msgctxt "05ec3b0351d519321dac050f04607c74"
+msgid "디플루스 레이드 점유율 보상 칭호"
+msgstr ""
+
+msgctxt "984aa56328796d68937346f0ce5d6831"
+msgid "ID=20122"
+msgstr ""
+
+msgctxt "5ef3eea8d77dfef7074e009ced0f0a58"
+msgid "추격자"
+msgstr ""
+
+msgctxt "0990716260cbbcb1da1c6eb7bec7a7a1"
+msgid "ID=10123"
+msgstr ""
+
+msgctxt "55ba6a5f07afe05741c9ef747158a4f6"
+msgid "<font color='#00d600'>HAPPY</font>"
+msgstr ""
+
+msgctxt "b281151301715fe453d93570332a0a6a"
+msgid "크리스마스를 기념하기 위한 칭호"
+msgstr ""
+
+msgctxt "1d8de3f776fbcb10956e91878a3aaadc"
+msgid "ID=20123"
+msgstr ""
+
+msgctxt "b3c1a8e81f912b3c25c6c5ce2f7893e5"
+msgid "<font color='#ff0000'>X-MAS</font>"
+msgstr ""
+
+msgctxt "5e8df51c0c1b03abab845fbce6e11df5"
+msgid "ID=100408"
+msgstr ""
+
+msgctxt "abddf094fb216a0066f8153074ff1563"
+msgid "ID=100608"
+msgstr ""
+
+msgctxt "ec281b057968e9d46cd8abe726caf2b8"
+msgid "응징의 창격을"
+msgstr ""
+
+msgctxt "7b7a057e0f800ad33d8c29d9fedfe656"
+msgid "ID=200208"
+msgstr ""
+
+msgctxt "43e89f3adcb01537950e2c06bb6291b5"
+msgid "애도"
+msgstr ""
+
+msgctxt "a7fb483280323ca9bf32787b32a6dd40"
+msgid "ID=200408"
+msgstr ""
+
+msgctxt "899a63045076a5fe7effab1f2c479742"
+msgid "창격"
+msgstr ""
+
+msgctxt "94abfbe57a67b9f327428f463022f6ba"
+msgid "ID=200808"
+msgstr ""
+
+msgctxt "e7b2d0afe721e526f5e706404ee42f65"
+msgid "ID=100108"
+msgstr ""
+
+msgctxt "d3a5deeff192f4707ceb6a4c0ab6de43"
+msgid "ID=200108"
+msgstr ""
+
