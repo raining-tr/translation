@@ -1,699 +1,775 @@
 ID=1
-
 Yomi
-
 [Customer Rating Rise] Yomi
-
 Thank you for your frequent visits. \n If your customer rating rises, you can buy better items, so please come back often.
-
 Icon/Mail/SendImage_Systemmail01
 
 ID=2
-
 Zaito
-
 [VIP]
-
 Thank you for your frequent visits! \n Your customer rating has also improved, so we will be able to bring you many better items. \n Please visit us in the future!
-
 Icon/Mail/SendImage_Systemmail02
 
 ID=3
-
 Trisha
-
 [VIP] Trisha
-
 Did you use it so often? \n Thank you ~ I'm going to give you a lot of service! You should use it more often!
-
 Icon/Mail/SendImage_Systemmail03
 
 ID=4
-
 Zenith
-
 [Customer Rating Rise] Zenith
-
 It's an increase in customer rating. Congratulations, Soulworker. \n If you bring only good ingredients in the future, I'll make better ones for you. Look forward to it ~
-
 Icon/Mail/SendImage_Systemmail04
 
 ID=5
-
 Chloe
-
 [Exchange] Purchase Completion Guide
-
 Thank you for purchasing {0} on [Exchange] \n Your purchase will be forwarded to H.E.M.S, please check the attached items in your message!
-
 Icon/Mail/SendImage_System
 
 ID=6
-
 [Market] Item sold
-
+[거래소] 판매 완료 안내
 {0} x {1} were sold sold on the [Market]\nYou received {2} Zenny after the fees
+Icon/Mail/SendImage_System
 
 ID=7
-
 [Market] Items withdrawn
-
 The items listed in the [Market] has been withdrawn successfully.\nPlease check the mail attachments for your items
+[거래소]에서 [물품 등록 취소]가 완료되었다고 연락이 왔습니다.\n등록 취소된 물품을 보내드리니, 메시지의 첨부 물품을 꼭 확인해주세요.
+Icon/Mail/SendImage_System
 
 ID=8
-
+클로이
 [CASH SHOP] Purchase successful
-
 Insufficient inventory space,  the items from [CASH SHOP] were sent HEMS. Please check your mail attachments for your items
+Icon/Mail/SendImage_System
 
 ID=9
-
 [System] Gift
-
 Thank you Soulworker!\nWe have prepared a special gift for you, please check your mail attachments.
+소울워커로 활약해 주셔서 감사합니다!\n감사의 의미로 특별한 선물을 준비했으니, 첨부 물품을 확인해주세요.
+Icon/Mail/SendImage_System
 
 ID=10
-
 [System] Item restoration 
-
 We are deeply sorry for this error, we'll ensure it never happen again\nWe have attached a compensatory item, please check your mail attachments.
+죄송합니다. 다시는 이와 같은 일이 일어나지 않도록 하겠습니다.\n문제 된 아이템을 보내드리니, 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=11
-
 [System] Dungeon clearance reward.
-
 [Insufficient inventory space]  You couldn't receive the reward for the last mission due to insufficient inventory space and instead it was mailed.\nPlease free up space in your inventory and collect the attached items.
+[인벤토리 여유 공간 부족]으로, 지난번의 임무 지역 해결 보상을 대리 수령해 놓았습니다.\n인벤토리에 여유 공간을 확보하신 후 첨부 물품을 수령해주세요.
+Icon/Mail/SendImage_System
 
 ID=12
-
 Daily mission completion reward.
-
 [Daily mission] Here is your daily mission's reward.\nPlease make sure to have enough inventory space to collect the attached items.
+[데일리 미션] 완료 보상이 도착하였습니다.\n인벤토리에 여유 공간을 확보하신 후 첨부 물품을 수령해주세요.
+Icon/Mail/SendImage_System
 
 ID=13
-
 [System] Hidden quest completion reward.
-
 [Insufficient inventory space]  You couldn't receive the reward for the last hidden quest due to insufficient inventory space and instead it was mailed.\n Please free up space in your inventory and collect the attached items.
+[인벤토리 여유 공간 부족]으로, [히든 이벤트] 완료 보상을 대리 수령해 놓았습니다.\n 인벤토리에 여유 공간을 확보하신 후 첨부 물품을 수령해주세요.
+Icon/Mail/SendImage_System
 
 ID=14
+클로이
+[시스템] 아이템 복원 안내
+죄송합니다. 다시는 이와 같은 일이 일어나지 않도록 하겠습니다.\n문제 된 아이템을 보내드리니, 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=15
-
 Azin
-
 [VIP Level increase] Azin
-
 Thank you for using Skycraft frequently.\nWe'll ensure you have safer and more comfortable journeys.Please make sure to use Skycraft again in  the future.
-
 Icon/Mail/SendImage_Systemmail05
 
 ID=16
-
 [Market] Item listing expired
-
 The item's listing duration has expired and was sent back to you.\nPlease check the attached items.
+[거래소]에서 [출품 시간]이 만료되었다고 연락이 왔습니다.\n출품 시간이 만료된 물품을 보내드리니, 메시지의 첨부 물품을 꼭 확인해주세요.
+Icon/Mail/SendImage_System
 
 ID=17
-
+클로이
 [CASH SHOP] Gift
-
 [CASH SHOP] You have received a gift from {0}.\nIt has been to your HEMS. Please check the attached items. 
+Icon/Mail/SendImage_System
 
 ID=18
-
+클로이
+[거래소] 판매 완료 안내
 {0} x {1} were sold on the [market]\nYou will receive {2} Zenny. No fees were applied.
+Icon/Mail/SendImage_System
 
 ID=19
-
 [Item] Item expiration date
-
+[아이템] 기간제 아이템 기간만료 안내 
 Item {0} has expired and was removed. Did you enjoy using it?
+Icon/Mail/SendImage_System
 
 ID=20
-
 [Item] Item returned
-
+[아이템] 기간제 아이템 반납 안내
 We would like to inform you {0} item has been returned.\Compensation for the returned item would be hard.
+Icon/Mail/SendImage_System
 
 ID=21
-
 [Item] Coupon Reward
-
 You have redeemed a coupon.\nPlease check the attached items.
+등록하신 쿠폰으로 받으실 물품을 보내드립니다.\n첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=22
-
 [Item] New player reward
-
 Thank you for playing Soulworker. We have sent you a gift.\nPlease check the attached items.
+소울워커를 가입해주셔서 감사합니다. 감사의 뜻으로 보상을 보내드립니다.\n첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=23
-
 [Item] Returning user reward
-
 Thank you for coming back to SoulWorker, we have sent you a reward.\nPlease check the attached items.
+소울워커를 다시 복귀해주셔서 감사합니다. 감사의 뜻으로 보상을 보내드립니다.\n첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=24
-
 [Item] Level 2 achievement reward
-
 Congratulations on reaching level 2. We have sent you a reward.\nPlease check the attached items.
+2레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=25
-
 [Item] Level 3 achievement reward
-
 Congratulations on reaching level 3. We have sent you a reward.\nPlease check the attached items.
+3레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=26
-
 [Item] Level 4 achievement reward
-
 Congratulations on reaching level 4. We have sent you a reward.\nPlease check the attached items.
+4레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=27
-
 [Item] Level 5 achievement reward
-
 Congratulations on reaching level 5. We have sent you a reward.\nPlease check the attached items.
+5레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=28
-
 [Item] Level 6 achievement reward
-
 Congratulations on reaching level 6. We have sent you a reward.\nPlease check the attached items.
+6레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=29
-
 [Item] Level 7 achievement reward
-
 Congratulations on reaching level 7. We have sent you a reward.\nPlease check the attached items.
+7레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=30
-
 [Item] Level 8 achievement reward
-
 Congratulations on reaching level 8. We have sent you a reward.\nPlease check the attached items.
+8레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=31
-
 [Item] Level 9 achievement reward
-
 Congratulations on reaching level 9. We have sent you a reward.\nPlease check the attached items.
+9레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=32
-
 [Item] Level 10 achievement reward
-
 Congratulations on reaching level 10. We have sent you a reward.\nPlease check the attached items.
+10레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=33
-
 [Item] Level 11 achievement reward
-
 Congratulations on reaching level 11. We have sent you a reward.\nPlease check the attached items.
+11레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=34
-
 [Item] Level 12 achievement reward
-
 Congratulations on reaching level 12. We have sent you a reward.\nPlease check the attached items.
+12레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=35
-
 [Item] Level 13 achievement reward
-
 Congratulations on reaching level 13. We have sent you a reward.\nPlease check the attached items.
+13레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=36
-
 [Item] Level 14 achievement reward
-
 Congratulations on reaching level 14. We have sent you a reward.\nPlease check the attached items.
+14레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=37
-
 [Item] Level 15 achievement reward
-
 Congratulations on reaching level 15. We have sent you a reward.\nPlease check the attached items.
+15레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=38
-
 [Item] Level 16 achievement reward
-
 Congratulations on reaching level 16. We have sent you a reward.\nPlease check the attached items.
+16레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=39
-
 [Item] Level 17 achievement reward
-
 Congratulations on reaching level 17. We have sent you a reward.\nPlease check the attached items.
+17레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=40
-
 [Item] Level 18 achievement reward
-
 Congratulations on reaching level 18. We have sent you a reward.\nPlease check the attached items.
+18레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=41
-
 [Item] Level 19 achievement reward
-
 Congratulations on reaching level 19. We have sent you a reward.\nPlease check the attached items.
+19레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=42
-
 [Item] Level 20 achievement reward
-
 Congratulations on reaching level 20. We have sent you a reward.\nPlease check the attached items.
+20레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=43
-
 [Item] Level 21 achievement reward
-
 Congratulations on reaching level 21. We have sent you a reward.\nPlease check the attached items.
+21레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=44
-
 [Item] Level 22 achievement reward
-
 Congratulations on reaching level 22. We have sent you a reward.\nPlease check the attached items.
+22레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=45
-
 [Item] Level 23 achievement reward
-
 Congratulations on reaching level 23. We have sent you a reward.\nPlease check the attached items.
+23레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=46
-
 [Item] Level 24 achievement reward
-
 Congratulations on reaching level 24. We have sent you a reward.\nPlease check the attached items.
+24레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=47
-
 [Item] Level 25 achievement reward
-
 Congratulations on reaching level 25. We have sent you a reward.\nPlease check the attached items.
+25레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=48
-
 [Item] Level 26 achievement reward
-
 Congratulations on reaching level 26. We have sent you a reward.\nPlease check the attached items.
+26레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=49
-
 [Item] Level 27 achievement reward
-
 Congratulations on reaching level 27. We have sent you a reward.\nPlease check the attached items.
+27레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=50
-
 [Item] Level 28 achievement reward
-
 Congratulations on reaching level 28. We have sent you a reward.\nPlease check the attached items.
+28레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=51
-
 [Item] Level 29 achievement reward
-
 Congratulations on reaching level 29. We have sent you a reward.\nPlease check the attached items.
+29레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=52
-
 [Item] Level 30 achievement reward
-
 Congratulations on reaching level 30. We have sent you a reward.\nPlease check the attached items.
+30레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=53
-
 [Item] Level 31 achievement reward
-
 Congratulations on reaching level 31. We have sent you a reward.\nPlease check the attached items.
+31레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=54
-
 [Item] Level 32 achievement reward
-
 Congratulations on reaching level 32. We have sent you a reward.\nPlease check the attached items.
+32레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=55
-
 [Item] Level 33 achievement reward
-
 Congratulations on reaching level 33. We have sent you a reward.\nPlease check the attached items.
+33레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=56
-
 [Item] Level 34 achievement reward
-
 Congratulations on reaching level 34. We have sent you a reward.\nPlease check the attached items.
+34레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=57
-
 [Item] Level 35 achievement reward
-
 Congratulations on reaching level 35. We have sent you a reward.\nPlease check the attached items.
+35레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=58
-
 [Item] Level 36 achievement reward
-
 Congratulations on reaching level 36. We have sent you a reward.\nPlease check the attached items.
+36레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=59
-
 [Item] Level 37 achievement reward
-
 Congratulations on reaching level 37. We have sent you a reward.\nPlease check the attached items.
+37레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=60
-
 [Item] Level 38 achievement reward
-
 Congratulations on reaching level 38. We have sent you a reward.\nPlease check the attached items.
+38레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=61
-
 [Item] Level 39 achievement reward
-
 Congratulations on reaching level 39. We have sent you a reward.\nPlease check the attached items.
+39레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=62
-
 [Item] Level 40 achievement reward
-
 Congratulations on reaching level 40. We have sent you a reward.\nPlease check the attached items.
+40레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=63
-
 [Item] Level 41 achievement reward
-
 Congratulations on reaching level 41. We have sent you a reward.\nPlease check the attached items.
+41레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=64
-
 [Item] Level 42 achievement reward
-
 Congratulations on reaching level 42. We have sent you a reward.\nPlease check the attached items.
+42레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=65
-
 [Item] Level 43 achievement reward
-
 Congratulations on reaching level 43. We have sent you a reward.\nPlease check the attached items.
+43레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=66
-
 [Item] Level 44 achievement reward
-
 Congratulations on reaching level 44. We have sent you a reward.\nPlease check the attached items.
+44레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=67
-
 [Item] Level 45 achievement reward
-
 Congratulations on reaching level 45. We have sent you a reward.\nPlease check the attached items.
+45레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=68
-
 [Item] Level 46 achievement reward
-
 Congratulations on reaching level 46. We have sent you a reward.\nPlease check the attached items.
+46레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=69
-
 [Item] Level 47 achievement reward
-
 Congratulations on reaching level 47. We have sent you a reward.\nPlease check the attached items.
+47레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=70
-
 [Item] Level 48 achievement reward
-
 Congratulations on reaching level 48. We have sent you a reward.\nPlease check the attached items.
+48레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=71
-
 [Item] Level 49 achievement reward
-
 Congratulations on reaching level 49. We have sent you a reward.\nPlease check the attached items.
+49레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=72
-
 [Item] Level 50 achievement reward
-
 Congratulations on reaching level 50. We have sent you a reward.\nPlease check the attached items.
+50레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=73
-
 [Item] Level 51 achievement reward
-
 Congratulations on reaching level 51. We have sent you a reward.\nPlease check the attached items.
+51레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=74
-
 [Item] Level 52 achievement reward
-
 Congratulations on reaching level 52. We have sent you a reward.\nPlease check the attached items.
+52레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=75
-
 [Item] Level 53 achievement reward
-
 Congratulations on reaching level 53. We have sent you a reward.\nPlease check the attached items.
+53레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=76
-
 [Item] Level 54 achievement reward
-
 Congratulations on reaching level 54. We have sent you a reward.\nPlease check the attached items.
+54레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=77
-
 [Item] Level 55 achievement reward
-
 Congratulations on reaching level 55. We have sent you a reward.\nPlease check the attached items.
+55레벨 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=78
-
 [My room] Ranking reward
-
 My room ranking reward will be sent soon.\nPlease check the attached items.
+마이룸 랭킹 보상을 보내드립니다.\n첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=80
+클로이
+[아이템] 쿠폰 보상
+등록하신 쿠폰으로 받으실 물품을 보내드립니다.\n첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=90
-
 [Account recovery] Information
-
 We have recovered your lost items due to account hacking.\nPlease check the attached items.\nWe apologize for the trouble. 
+계정도용으로 인해 아이템을 복구했어요.\n복구된 아이템을 확인해보세요.\n심려를 끼쳐 드려 죄송합니다.
+Icon/Mail/SendImage_System
 
 ID=91
-
 Attendance reward 
-
+출석 보상을 보내 드립니다.
+출석 시스템 오류로 불편을 드려 죄송합니다.\n출석 일수가 정상적으로 복구 되었습니다.
 We apologize for the inconvenience in the attendance system.\nAttendance rewards have been restored. 
 
 ID=100
-
 [Free match] Participation reward.
-
 You have completed 5 free matched today.\nWe have sent you a reward.\nPlease check the attached items.
+일일 프리 매치 5회 플레이를 달성하였습니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=149
-
 Exchange Reward
-
 -
+-
+Icon/Mail/SendImage_System
 
 ID=150
-
-Setsuka
-
+세츠카
+-
+-
 Icon/Mail/SendImage_Systemmail07
 
 ID=151
-
-Ryoko
-
+료코
+-
+-
 Icon/Mail/SendImage_Systemmail06
 
 ID=152
+세츠카
+-
+-
+Icon/Mail/SendImage_Systemmail07
 
 ID=153
+료코
+-
+-
+Icon/Mail/SendImage_Systemmail06
 
 ID=154
-
 [Operation : Dimension Shutter] Reward
-
+[오퍼레이션 : 디멘션 셔터] 보상
 [Operation : Dimension Shutter] Reward.\n\nAs a thank you Starry Forest league have sent you a reward.\nPlease check the attached items
+Icon/Mail/SendImage_System
 
 ID=155
-
 [Operation : Dimension Shutter] Ranking Reward
-
+[오퍼레이션 : 디멘션 셔터] 랭킹 보상
 [Operation : Dimension Shutter] Ranking Reward.\n\nStarry Forest league have sent you a reward for achieving rank {0}.\nPlease check the attached items
+Icon/Mail/SendImage_System
 
 ID=201
-
 [PC Room] Connection Reward
-
 You have been logged in for 30 minutes from the PC Room.\nWe have sent you a reward.
+PC방에서 접속한지 30분이 되었네요.\n감사의 선물을 전달해 드립니다.
+Icon/Mail/SendImage_System
 
 ID=202
-
 You have been logged in for 1 hour from the PC Room.\nWe have sent you a reward.
+[PC방] 접속 보상
+PC방에서 접속한지 1시간이 되었네요.\n감사의 선물을 전달해 드립니다.
+Icon/Mail/SendImage_System
 
 ID=203
-
 You have been logged in for 1 hour and 30 minutes from the PC Room.\nWe have sent you a reward.
+[PC방] 접속 보상
+PC방에서 접속한지 1시간 30분이 되었네요.\n감사의 선물을 전달해 드립니다.
+Icon/Mail/SendImage_System
 
 ID=204
-
 You have been logged in for 2 hours from the PC Room.\nWe have sent you a reward.
+[PC방] 접속 보상
+PC방에서 접속한지 2시간이 되었네요.\n감사의 선물을 전달해 드립니다.
+Icon/Mail/SendImage_System
 
 ID=205
-
 You have been logged in for 2 hours and 30 minutes from the PC Room.\nWe have sent you a reward.
+[PC방] 접속 보상
+PC방에서 접속한지 2시간 30분이 되었네요.\n감사의 선물을 전달해 드립니다.
+Icon/Mail/SendImage_System
 
 ID=255
-
 [Item] Character pre-creation reward.
-
 We have sent you a reward for pre-creating a character.\nPlease check the attached items.
+캐릭터 사전 생성 보상입니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=118
-
 [Item] Level 60 achievement reward
-
 Congratulations on reaching level 60. We have sent you a reward.\nPlease check the attached items.
+60레벨 달성을 축하드립니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
 
 ID=110
-
 Explanation
-
 [Cheer event] World reward.
-
 We have sent you a reward for [Cheer event].\nPlease check the attached items.
+Icon/Mail/SendImage_System
 
 ID=130
-
 Login Reward
-
 You have been logged in for 1 hour.\nWe have sent you a reward.
+접속한지 1시간이 되었네요.\n감사의 선물을 전달해 드립니다.
+Icon/Mail/SendImage_System
 
 ID=206
-
 You have been logged in for 3 hours from the PC Room.\nWe have sent you a reward.
+[PC방] 접속 보상
+PC방에서 접속한지 3시간이 되었네요.\n감사의 선물을 전달해 드립니다.
+Icon/Mail/SendImage_System
 
 ID=111
-
 [Roulette] Even item has arrived!
-
 [Event] You won a prize on the roulette.\nPlease check the attached items.
+[이벤트] 룰렛 당첨 상품 입니다. 아이템을 수령해 주세요.
+Icon/Mail/SendImage_System
 
 ID=116
-
 [Mission] Primary mission completion reward.
-
+[미션] 일차별 완료 보상
 [Mission] The mission have been completed.\We've sent you a reward.\nPlease check the attached items.\n※Mission: Return dash, 7 day mission, festival.
+Icon/Mail/SendImage_System
 
 ID=117
-
 [Mission] All missions completion reward.
-
+[미션] 최종 완료 보상
 [Mission] All missions have been completed.\We've sent you a reward.\nPlease check the attached items.\n※Mission: Return dash, 7 day mission, festival.
+Icon/Mail/SendImage_System
 
 ID=140
-
 [Attendance] Consecutive attendance reward
-
 [Consecutive Attendance] We have sent you a reward for {0} consecutive days of attendance.\nPlease check the attached items. 
+[연속 출석] {0}일 연속 출석 보상을 보내 드립니다.\n보상 물품을 보내드리니 메시지의 첨부 물품을 꼭 확인해주세요.
+Icon/Mail/SendImage_System
 
 ID=141
-
 [Attendance] Attendance reward
-
 [Attendance] We have sent you a reward for {0} days of attendance.\nPlease check the attached items.
+[출석] {0}일자 출석을 달성 하였습니다.\n해당 출석일에 맞는 보상 물품을 보내드리니 메시지의 첨부 물품을 꼭 확인해주세요.
+Icon/Mail/SendImage_System
 
 ID=142
-
 [Attendance] Connection reward.
-
 [Attendance] We have sent you a reward for staying logged in for {0} minutes.\nPlease check the attached items.
+[접속유지] {0}분을 접속 유지하여 보상 획득 조건을 달성하였습니다.\n보상 물품을 보내드리니 메시지의 첨부 물품을 꼭 확인해주세요.
+Icon/Mail/SendImage_System
 
 ID=143
-
+클로이
+[출석] 연속 출석 체크 보상
 [Consecutive Attendance] We have sent you a reward for {0} consecutive days of attendance.\nPlease check the attached items. 
+Icon/Mail/SendImage_System
 
 ID=144
+클로이
+[출석] 출석 보상
+[출석] {0}일자 출석을 달성 하였습니다.\n해당 출석일에 맞는 보상 물품을 보내드리니 메시지의 첨부 물품을 꼭 확인해주세요.
+Icon/Mail/SendImage_System
 
 ID=145
+클로이
+[출석] 접속 유지 보상
+[접속유지] {0}분을 접속 유지하여 보상 획득 조건을 달성하였습니다.\n보상 물품을 보내드리니 메시지의 첨부 물품을 꼭 확인해주세요.
+Icon/Mail/SendImage_System
 
 ID=131
-
 [PC Room] Daily Cumulative Connection
-
+[PC방] 일간 누적 접속
 Receive {1} rewards by staying logged in for {0} minutes from the PC Room.
+Icon/Mail/SendImage_System
 
 ID=132
-
 [PC Room] Weekly Cumulative Connection
-
 Receive {1} rewards by staying logged in for a total of {0} minutes a week from the PC Room.
+PC방 주간 접속 시간 {0} 분 달성하셔서 {1}단계 보상을 드립니다.
+Icon/Mail/SendImage_System
 
 ID=133
-
 [PC Room] Monthly cumulative connection
-
 Receive {1} rewards by staying logged in for a total of {0} minutes per month from the PC Room.
+PC방 월간 접속 시간 {0} 분 달성하셔서 {1}단계 보상을 드립니다.
+Icon/Mail/SendImage_System
 
 ID=134
-
 PC Room connection reward.
-
+PC방 접속 횟수 보상
 Receive {1} rewards by connecting {0} times from the PC Room.
+Icon/Mail/SendImage_System
 
 ID=135
-
 PC Room dungeon clearance reward.
-
+PC방 메이즈 클리어 횟수 보상
 Receive {1} rewards by clearing {0} dungeons from the PC Room
+Icon/Mail/SendImage_System
 
 ID=136
-
 Reissue quest items
-
 The items were reissued by giving up the quest issued thought the items
+아이템을 통해 발급된 퀘스트를 포기하여 해당 아이템을 재지급하였습니다.
+Icon/Mail/SendImage_System
 
 ID=92
-
 Leona
-
 [VIP] Leona
-
 You have received useful items according to your affection event level.\nPlease use them.
-
 Icon/Mail/SendImage_Systemmail11
 
 ID=93
-
 Amanda
-
 [VIP] Amanda
-
+호감도 이벤트 등급에 따라 쓸모있는 아이템을 준비 했어요.\n요긴하게 쓰도록 하세요.
 Icon/Mail/SendImage_Systemmail36
 
 ID=94
-
 Sedurin
-
 [VIP] Sedurin
-
 You have received useful items according to your affection event level.\nPlease use them.
-
 Icon/Mail/SendImage_Systemmail21
+
+ID=178
+클로이
+[아이템] 시니어 D 계급 달성 보상
+[계급] 시니어 D 계급 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
+
+ID=179
+클로이
+[아이템] 시니어 C 계급 달성 보상
+[계급] 시니어 C 계급 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
+
+ID=180
+클로이
+[아이템] 시니어 B 계급 달성 보상
+[계급] 시니어 B 계급 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
+
+ID=181
+클로이
+[아이템] 시니어 A 계급 달성 보상
+[계급] 시니어 A 계급 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
+
+ID=182
+클로이
+[아이템] 베테랑 D 계급 달성 보상
+[계급] 베테랑 D 계급 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
+
+ID=183
+클로이
+[아이템] 베테랑 C 계급 달성 보상
+[계급] 베테랑 C 계급 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
+
+ID=184
+클로이
+[아이템] 베테랑 B 계급 달성 보상
+[계급] 베테랑 B 계급 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
+
+ID=185
+클로이
+[아이템] 베테랑 A 계급 달성 보상
+[계급] 베테랑 A 계급 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
+
+ID=186
+클로이
+[아이템] 마스터 D 계급 달성 보상
+[계급] 마스터 D 계급 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
+
+ID=187
+클로이
+[아이템] 마스터 C 계급 달성 보상
+[계급] 마스터 C 계급 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
+
+ID=188
+클로이
+[아이템] 마스터 B 계급 달성 보상
+[계급] 마스터 B 계급 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
+
+ID=189
+클로이
+[아이템] 마스터 A 계급 달성 보상
+[계급] 마스터 A 계급 달성을 축하합니다.\n감사의 뜻으로 보상을 보내드립니다. 첨부 물품을 확인해주시기 바랍니다.
+Icon/Mail/SendImage_System
+
+
