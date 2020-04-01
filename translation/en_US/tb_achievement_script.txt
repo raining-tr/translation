@@ -1,0 +1,2091 @@
+ID=4000101
+Well prepared
+Use 20 consumable items
+
+ID=4000102
+A good coping mechanism? 
+Use 50 consumable items
+
+ID=4000103
+Addicted to items!
+Use 100 consumable items
+
+ID=4000104
+Am I sane?
+Use 200 consumable items
+
+ID=4000105
+Oooh... wait, how do I dodge again?
+Use 400 consumable items
+
+ID=4000106
+They are like drugs!
+Use 800 consumable items
+
+ID=4000107
+I see rose elephants~
+Use 1600 consumable items
+
+ID=4000108
+Hey.. psst.. want to buy some?
+Use 3200 consumable items
+
+ID=4000109
+How often did I press this one button?
+Use 6400 consumable items
+
+ID=4000110
+All my items belong to me!
+Use 12800 consumable items
+
+ID=4000201
+Look at that!
+Buy 5 items at a store
+
+ID=4000202
+This looks good as well~
+Buy 30 items at a store
+
+ID=4000203
+It is so shiny!
+Buy 100 items at a store
+
+ID=4000204
+That looks good!
+Buy 300 items at a store
+
+ID=4000205
+My room is full of... things
+Buy 600 items at a store
+
+ID=4000206
+I need more storage
+Buy 1000 items at a store
+
+ID=4000207
+Collector
+Buy 2000 items at a store
+
+ID=4000208
+This store still has goods
+Buy 5000 items at a store
+
+ID=4000209
+The store is still not empty?
+Buy 8000 items at a store
+
+ID=4000210
+V-V-VIP
+Buy 10000 items at a store
+
+ID=4000301
+I need to fix it in advance
+Spend 30.000 Zenny on repairs
+
+ID=4000302
+Save it ~ Let's rewrite it!
+Spend 50.000 Zenny on repairs
+
+ID=4000303
+I'm afraid to break it
+Spend 70.000 Zenny on repairs
+
+ID=4000304
+Afraid to disappear
+Spend 90.000 Zenny on repairs
+
+ID=4000305
+I don't have money!
+Spend 110.000 Zenny on repairs
+
+ID=4000306
+I really don't have money!
+Spend 130.000 Zenny on repairs 
+
+ID=4000307
+I think it costs more to repair
+Spend 140.000 Zenny on repairs 
+
+ID=4000308
+The longer I use my shining weapon
+Spend 160.000 Zeanny on repairs 
+
+ID=4000309
+I think I can fix it myself
+Spend 180.000 Zeanny on repairs 
+
+ID=4000310
+Big wallet
+Spend 300.000 Zeanny on repairs 
+
+ID=4000401
+It's okay because there are items
+Died 3 times
+
+ID=4000402
+Everyone makes mistakes!
+Died 10 times
+
+ID=4000403
+It's not a mistake
+Died 50 times
+
+ID=4000404
+The floor is cold
+Died 100 times
+
+ID=4000405
+This is my bed
+Died 200 times
+
+ID=4000406
+I don't want to wake up
+Died 400 times
+
+ID=4000407
+Cover the news
+Died 800 times
+
+ID=4000408
+Burry me in a sunny place
+Died 1.200 times 
+
+ID=4000409
+It's just a trick
+Died 1.600 times
+
+ID=4000410
+Did you know, immortality
+Died 2.000 times
+
+ID=4000501
+Laying the Foundations
+Defeat 500 enemies
+
+ID=4000502
+Spectator view is over
+Defeat 1.000 enemies
+
+ID=4000503
+Enough Mr. Nice Guy
+Defeat 2.000 enemies
+
+ID=4000504
+I will wipe them all out
+Defeat 5.000 enemies
+
+ID=4000505
+I will wipe out everything
+Defeat 10.000 enemies
+
+ID=4000506
+I will wipe out everything!
+Defeat 20.000 enemies
+
+ID=4000507
+I will dry the seeds!
+Defeat 50.000 enemies
+
+ID=4000508
+Defeat 100000 enemies!
+Defeat 100.000 enemies
+
+ID=4000509
+Defeat 200000 enemies!
+Defeat 200.000 enemies
+
+ID=4000510
+I am a monster
+Defeat 500.000 enemies
+
+ID=4000601
+Learning the basics
+Defeat 130 small enemies
+
+ID=4000602
+You learn with battles
+Defeat 1.100 small enemies
+
+ID=4000603
+Learning the Combos
+Defeat 3.000 small enemies
+
+ID=4000604
+More fighting skills
+Defeat 5.600 small enemies
+
+ID=4000605
+I didn't mean it
+Defeat 9.100 small enemies
+
+ID=4000606
+Nothing against you
+Defeat 13.000 small enemies
+
+ID=4000607
+It's not just catching
+Defeat 18.000 small enemies
+
+ID=4000608
+They don't look weak
+Defeat 24.000 small enemies
+
+ID=4000609
+Torment the weak
+Defeat 32.000 small enemies
+
+ID=4000610
+Hunt the weaklings
+Defeat 41.000 small enemies
+
+ID=4000701
+I'm not afraid of you
+Defeat 80 normal enemies
+
+ID=4000702
+It looks ugly but it's not scary
+Defeat 700 normal enemies
+
+ID=4000703
+Even if it's big, it's not scary
+Defeat 1.800 normal enemies
+
+ID=4000704
+Even if your weapon is big, it's not scary
+Defeat 3.500 normal enemies
+
+ID=4000705
+Thinning the Hordes
+Defeat 5.700 normal enemies
+
+ID=4000706
+Even if the level is high, it's not scary
+Defeat 8.300 normal enemies
+
+ID=4000707
+Dare to look ordinary
+Defeat 11.600 normal enemies
+
+ID=4000708
+You seem familiar
+Defeat 15.400 normal enemies
+
+ID=4000709
+I'm addicted to this!
+Defeat 20.000 normal enemies
+
+ID=4000710
+A few more
+Defeat 25.700 normal enemies
+
+ID=4000801
+Your name looks strong
+Defeat 30 strong enemies
+
+ID=4000802
+It looks strong
+Defeat 280 strong enemies
+
+ID=4000803
+But not strong enough!
+Defeat 750 strong enemies
+
+ID=4000804
+I lost the count...
+Defeat 1400 strong enemies
+
+ID=4000805
+That must be a record? Right?
+Defeat 2200 strong enemies
+
+ID=4000806
+This is getting boring.
+Defeat 3000 strong enemies
+
+ID=4000807
+Weak, Weak, Weak!
+Defeat 5000 strong enemies
+
+ID=4000808
+Is it really a enemy or is it a punchingball?
+Defeat 6100 strong enemies
+
+ID=4000809
+Half wake and half asleep... zzz
+Defeat 8000 strong enemies
+
+ID=4000810
+Seems I reach soon the god state
+Defeat 10200 strong enemies
+
+ID=4000901
+You... are not the boss?
+Defeat 17 mini bosses
+
+ID=4000902
+And you are...? Out of my way!
+Defeat 140 mini bosses
+
+ID=4000903
+Well, well... my dear test subjects!
+Defeat 370 mini bosses
+
+ID=4000904
+Can you get out of my way?
+Defeat 700 mini bosses
+
+ID=4000905
+I am used to beat you
+Defeat 1100 mini bosses
+
+ID=4000906
+There is no shortcut... huh?
+Defeat 1600 mini bosses
+
+ID=4000907
+Perrrrrrrfect! Now I am quite ready for the real boss
+Defeat 2300 mini bosses
+
+ID=4000908
+You still want to fight?
+Defeat 3000 mini bosses
+
+ID=4000909
+I will defeat anything
+Defeat 4000 mini bosses
+
+ID=4000910
+Looks like out of order
+Defeat 5100 mini bosses
+
+ID=4001001
+Oh no! My Coffee spilled everywhere!
+Defeat 10 bosses
+
+ID=4001002
+Improvise
+Defeat 80 bosses
+
+ID=4001003
+Adapt
+Defeat 200 bosses
+
+ID=4001004
+Overcome
+Defeat 400 bosses
+
+ID=4001005
+Improve
+Defeat 600 bosses
+
+ID=4001006
+They still trying it
+Defeat 1000 bosses
+
+ID=4001007
+And again
+Defeat 1300 bosses
+
+ID=4001008
+Maybe I should collect trophys?
+Defeat 1800 bosses
+
+ID=4001009
+One trophy, two trophys...
+Defeat 2400 bosses
+
+ID=4001010
+Now I am tired
+Defeat 3000 bosses
+
+ID=4001101
+Different kind of boss...
+Defeat 10 raid bosses
+
+ID=4001102
+I did it!
+Defeat 80 raid bosses
+
+ID=4001103
+200 to go and many more will follow!
+Defeat 200 raid bosses
+
+ID=4001104
+400! A cat jump!
+Defeat 400 raid bosses
+
+ID=4001105
+600! I am still counting
+Defeat 600 raid bosses
+
+ID=4001106
+1000! Have you ever seen that?
+Defeat 1000 raid bosses
+
+ID=4001107
+1300! I need to buy a new notebook
+Defeat 1300 raid bosses
+
+ID=4001108
+1800 and a new notebook
+Defeat 1800 raid bosses
+
+ID=4001109
+I lost my pencil...
+Defeat 2400 raid bosses
+
+ID=4001110
+I lost the count... noooooo!
+Defeat 3000 raid bosses
+
+ID=4001201
+To the recycling bin
+Defeat 100 Soul Junks
+
+ID=4001202
+Garbage~
+Defeat 800 Soul Junks
+
+ID=4001203
+I will clean the entire country!
+Defeat 2000 Soul Junks
+
+ID=4001204
+Where are you?
+Defeat 4000 Soul Junks
+
+ID=4001205
+I wonder if it fits in a truck...
+Defeat 6000 Soul Junks
+
+ID=4001206
+Also can it be reused?
+Defeat 9000 Soul Junks
+
+ID=4001207
+Maybe I should burn it
+Defeat 13000 Soul Junks
+
+ID=4001208
+For a cleaner city!
+Defeat 18000 Soul Junks
+
+ID=4001209
+Maybe we can use it also as firewood?
+Defeat 23000 Soul Junks
+
+ID=4001210
+That is a... big mountain
+Defeat 30000 Soul Junks
+
+ID=4001301
+Puppets...
+Defeat 110 Puppets
+
+ID=4001302
+Do I need to?
+Defeat 900 Puppets
+
+ID=4001303
+I want to skip! Argh
+Defeat 2400 Puppets
+
+ID=4001304
+I can't see them anymore
+Defeat 4500 Puppets
+
+ID=4001305
+It moves from alone... creepy
+Defeat 7200 Puppets
+
+ID=4001306
+Cursed...
+Defeat 10800 Puppets
+
+ID=4001307
+Just missing some ghosts
+Defeat 15300 Puppets
+
+ID=4001308
+Kyaaaaaaa!
+Defeat 20200 Puppets
+
+ID=4001309
+Phew... that was my imagination
+Defeat 26500 Puppets
+
+ID=4001310
+King/Queen of Puppets
+Defeat 34200 Puppets
+
+ID=4001401
+They have balls
+Defeat 110 NEDs Soldier
+
+ID=4001402
+But I have medicine balls
+Defeat 450 NEDs Soldier
+
+ID=4001403
+Eye for an Eye
+Defeat 1200 NEDs Soldier
+
+ID=4001404
+Tooth for a tooth
+Defeat 2250 NEDs Soldier
+
+ID=4001405
+Unlimited circle
+Defeat 3600 NEDs Soldier
+
+ID=4001406
+Is there an end...?
+Defeat 5400 NEDs Soldier
+
+ID=4001407
+Hmmm. HMMMMMMMMMM?
+Defeat 7650 NEDs Soldier
+
+ID=4001408
+Army Slayer
+Defeat 10100 NEDs Soldier
+
+ID=4001409
+Betrayal... and here is your reward
+Defeat 13250 NEDs Soldier
+
+ID=4001410
+At the end of the hell
+Defeat 17100 NEDs Soldier
+
+ID=4001501
+Why is a firetruck not called watertruck?
+Defeat 110 Rapid Flames
+
+ID=4001502
+Should I...?
+Defeat 900 Rapid Flames
+
+ID=4001503
+There we go again
+Defeat 2400 Rapid Flames
+
+ID=4001504
+More power
+Defeat 4500 Rapid Flames
+
+ID=4001505
+Non-Stop
+Defeat 7200 Rapid Flames
+
+ID=4001506
+A lot and even more
+Defeat 10800 Rapid Flames
+
+ID=4001507
+I assume they know what they doing
+Defeat 15300 Rapid Flames
+
+ID=4001508
+Maybe... they can roast my steak?
+Defeat 20200 Rapid Flames
+
+ID=4001509
+Now I am hungry
+Defeat 26500 Rapid Flames
+
+ID=4001510
+Out of my way! I am hungry!
+Defeat 34200 Rapid Flames
+
+ID=4001601
+That's quite hard
+Defeat 110 Iron Forces
+
+ID=4001602
+I come trough
+Defeat 900 Iron Forces
+
+ID=4001603
+I... can do it
+Defeat 2400 Iron Forces
+
+ID=4001604
+I will smelt you
+Defeat 4500 Iron Forces
+
+ID=4001605
+Wait... what's that?
+Defeat 7200 Iron Forces
+
+ID=4001606
+Oooh! It was just an enemy
+Defeat 10800 Iron Forces
+
+ID=4001607
+Now they are easy
+Defeat 15300 Iron Forces
+
+ID=4001608
+And also tiring
+Defeat 20200 Iron Forces
+
+ID=4001609
+I can't stop yet!
+Defeat 26500 Iron Forces
+
+ID=4001610
+Until I reach my goal
+Defeat 34200 Iron Forces
+
+ID=4001701
+That is a fake... right?
+Defeat 10 
+
+ID=4001702
+Not the original
+Defeat 25 Blood SoulWorker
+
+ID=4001703
+Not good enough~
+Defeat 50 Blood SoulWorker
+
+ID=4001704
+I have hit them hard
+Defeat 100 Blood SoulWorker
+
+ID=4001705
+Fight until the end
+Defeat 150 Blood SoulWorker
+
+ID=4001706
+200 and more~
+Defeat 200 Blood SoulWorker
+
+ID=4001707
+Never have enough
+Defeat 250 Blood SoulWorker
+
+ID=4001708
+Getting easier
+Defeat 500 Blood SoulWorker
+
+ID=4001709
+Who are they?
+Defeat 750 Blood SoulWorker
+
+ID=4001710
+Easy peasy~ Where is my lemonade?
+Defeat 1000 Blood SoulWorker
+
+ID=4001801
+Break trough
+Broke trough 50 armors
+
+ID=4001802
+Like butter
+Broke trough 100 armors
+
+ID=4001803
+It's not fashion
+Broke trough 200 armors
+
+ID=4001804
+And it is heavy
+Broke trough 500 armors
+
+ID=4001805
+I want to destroy it
+Broke trough 1000 armors
+
+ID=4001806
+Now I know it!
+Broke trough 2000 armors
+
+ID=4001807
+That's easy to break!
+Broke trough 5000 armors
+
+ID=4001808
+Do I get paid for doing this?
+Broke trough 10000 armors
+
+ID=4001809
+Maybe I should teach?
+Broke trough 20000 armors
+
+ID=4001810
+I am a master at breaking things
+Broke trough 50000 armors
+
+ID=4001901
+C-c-combo!
+Reached 50 combos
+
+ID=4001902
+111 Combos!
+Reached 111 combos
+
+ID=4001903
+222 combos!
+Reached 222 combos
+
+ID=4001904
+333 Combos
+Reach 333 combos
+
+ID=4001905
+444 Combos
+Reach 444 combos
+
+ID=4001906
+555 Combos! Oh! Fantastic!
+Reach 555 combos
+
+ID=4001907
+The gate to hell has opened (666 Combos)
+Reach 666 combos
+
+ID=4001908
+777 combos, where is my prize?
+Reach 777 combos
+
+ID=4001909
+888 Combos, can it go higher?
+Reach 888 combos
+
+ID=4001910
+999 combos, the end of the line
+Reach 999 combos
+
+ID=4002001
+The blue quests, huh?
+Complete 1 Sub-Quest
+
+ID=4002002
+Blue Quests are everywhere
+Complete 50 Sub-Quests
+
+ID=4002003
+There we go
+Complete 100 Sub-Quests
+
+ID=4002004
+Why are there so many?!
+Complete 150 Sub-Quests
+
+ID=4002005
+I like it
+Complete 250 Sub-Quests
+
+ID=4002006
+Can't stop now
+Complete 400 Sub-Quests
+
+ID=4002007
+Never ever do the main quest
+Complete 550 Sub-Quests
+
+ID=4002008
+Thanks for the information!
+Complete 700 Sub-Quests
+
+ID=4002009
+When do I get a main quest?
+Complete 850 Sub-Quests
+
+ID=4002010
+1000? Hm. Is this the end content?
+Complete 1000 Sub-Quests
+
+ID=4002101
+Sightseeing
+Clear 1 Dungeon
+
+ID=4002102
+I am like Indiana Jones
+Clear 50 Dungeons
+
+ID=4002103
+Or Lara Croft?
+Clear 100 Dungeons
+
+ID=4002104
+I will show you around
+Clear 200 Dungeons
+
+ID=4002105
+A treasure chest! No wait... it's only a achievement
+Clear 400 Dungeons
+
+ID=4002106
+Feng-Shui~ this rock disturbs the flow
+Clear 600 Dungeons
+
+ID=4002107
+It is now my home
+Clear 1000 Dungeons
+
+ID=4002108
+I can name every rock by now
+Clear 1500 Dungeons
+
+ID=4002109
+Do you hear that? The dungeon is calling me
+Clear 2500 Dungeons
+
+ID=4002110
+My property!
+Clear 5000 Dungeons
+
+ID=4002201
+Fast
+Clear 1 Dungeon in lesser than 3 minutes
+
+ID=4002202
+Faster
+Clear 25 Dungeons in lesser than 3 minutes
+
+ID=4002203
+Faster or faster?
+Clear 50 Dungeons in lesser than 3 minutes
+
+ID=4002204
+Pfff, in under 3 minutes?
+Clear 100 Dungeons in lesser than 3 minutes
+
+ID=4002205
+Out of my way, I am a doct... SoulWorker!!!
+Clear 150 Dungeons in lesser than 3 minutes
+
+ID=4002206
+Am I faster as light?
+Clear 200 Dungeons in lesser than 3 minutes
+
+ID=4002207
+A bike would be nice
+Clear 250 Dungeons in lesser than 3 minutes
+
+ID=4002208
+Seems I have the talent
+Clear 500 Dungeons in lesser than 3 minutes
+
+ID=4002209
+Break? No way!
+Clear 750 Dungeons in lesser than 3 minutes
+
+ID=4002210
+You are a Speed Racer~!
+Clear 1000 Dungeons in lesser than 3 minutes
+
+ID=4002301
+Now we talking
+Clear 1 Dungeon with an SS rank
+
+ID=4002302
+Easy~
+Clear 25 Dungeons with an SS rank
+
+ID=4002303
+Let's go!
+Clear 50 Dungeons with an SS rank
+
+ID=4002304
+Where is my +?
+Clear 100 Dungeons with an SS rank
+
+ID=4002305
+150!
+Clear 150 Dungeons with an SS rank
+
+ID=4002306
+It will never end!
+Clear 200 Dungeons with an SS rank
+
+ID=4002307
+SS? Way to easy
+Clear 250 Dungeons with an SS rank
+
+ID=4002308
+500?! 
+Clear 500 Dungeons with an SS rank
+
+ID=4002309
+Now I am bored
+Clear 750 Dungeons with an SS rank
+
+ID=4002310
+But I still keep going
+Clear 1000 Dungeons with an SS rank
+
+ID=4002401
+Oh look, the floor!
+Clear 1 Dungeon with an F rank
+
+ID=4002402
+Is everyone sleeping?
+Clear 25 Dungeons with an F rank
+
+ID=4002403
+That is fun!
+Clear 50 Dungeons with an F rank
+
+ID=4002404
+F! F! F!
+Clear 100 Dungeons with an F rank
+
+ID=4002405
+Still AFK~
+Clear 150 Dungeons with an F rank
+
+ID=4002406
+Can I get more Fs?
+Clear 200 Dungeons with an F rank
+
+ID=4002407
+250... more!!
+Clear 250 Dungeons with an F rank
+
+ID=4002408
+Now we are talking
+Clear 500 Dungeons with an F rank
+
+ID=4002409
+Fs are life, Fs are the world
+Clear 750 Dungeons with an F rank
+
+ID=4002410
+No end in sight
+Clear 1000 Dungeons with an F rank
+
+ID=4002501
+It's shiny!
+Pick up 1,400 Zenny
+
+ID=4002502
+I am broke
+Pick up 17000 Zenny
+
+ID=4002503
+That is... a low amount
+Pick up 35000 Zenny
+
+ID=4002504
+Can I have more?
+Pick up 200000 Zenny
+
+ID=4002505
+More! More! More!
+Pick up 730000 Zenny
+
+ID=4002506
+Millonair!
+Pick up 1670000 Zenny
+
+ID=4002507
+I will buy an island
+Pick up 3340000 Zenny
+
+ID=4002508
+And a ship... a big ship!
+Pick up 5010000 Zenny
+
+ID=4002509
+Not enough!
+Pick up 7520000 Zenny
+
+ID=4002510
+ All that money... will probably drowned by an enchanter
+Pick up 11270000 Zenny
+
+ID=4002601
+What's this?
+Gather 350 Ether
+
+ID=4002602
+Need more
+Gather 4250 Ether
+
+ID=4002603
+I want to eat it
+Gather 8750 Ether
+
+ID=4002604
+Thats not enough...
+Gather 50000 Ether
+
+ID=4002605
+Without limits
+Gather 182500 Ether
+
+ID=4002606
+Tasty!
+Gather 417500 Ether
+
+ID=4002607
+Can I also cook it?
+Gather 835000 Ether
+
+ID=4002608
+That is quite enjoyable
+Gather 1252500 Ether
+
+ID=4002609
+My desire is high
+Gather 1880000 Ether
+
+ID=4002610
+Enchantment, here I come!
+Gather 2817500 Ether
+
+ID=4002801
+A new currency?
+Gather 100 BP
+
+ID=4002802
+I killed something or someone
+Gather 1000 BP
+
+ID=4002803
+Am I a murder?
+Gather 3000 BP
+
+ID=4002804
+Do I get used to it?
+Gather 5000 BP
+
+ID=4002805
+Victory!
+Gather 10000 BP
+
+ID=4002806
+My kingdom
+Gather 15000 BP
+
+ID=4002807
+I think i'm getting used to it.
+Gather 30000 BP
+
+ID=4002808
+Show me a weakness
+Gather 35000 BP
+
+ID=4002809
+For Glory!
+Gather 40000 BP
+
+ID=4002810
+I killed so many
+Gather 50000 BP
+
+ID=4002901
+Level 10
+Reach Level 10
+
+ID=4002902
+Level 20
+Reach Level 20
+
+ID=4002903
+Level 30
+Reach Level 30
+
+ID=4002904
+Level 40
+Reach Level 40
+
+ID=4002905
+Level 50
+Reach Level 50
+
+ID=4002907
+Level 70
+Reach Level 70
+
+ID=4002908
+Level 80
+Reach Level 80
+
+ID=4002909
+Level 90
+Reach Level 90
+
+ID=4002910
+Level 100
+Reach Level 100
+
+ID=4003001
+Time is ticking
+Play 5 hours
+
+ID=4003002
+There we go~~
+Play 10 hours
+
+ID=4003003
+Time flies
+Play 24 hours
+
+ID=4003004
+One more time, okay?
+Play 50 hours
+
+ID=4003005
+That is a good amount
+Play 100 hours
+
+ID=4003006
+I can go further
+Play 150 hours
+
+ID=4003007
+I doubled it!
+Play 300 hours
+
+ID=4003008
+I am not sleepy 
+Play 600 hours
+
+ID=4003009
+Time capsule
+Play 1200 hours
+
+ID=4003010
+Oops, what time is it?
+Play 2400 hours
+
+ID=4003101
+Enhance!
+Enhance 1 time
+
+ID=4003102
+It doesn't feel different
+Enhance 10 times
+
+ID=4003103
+Maybe... if I do this?
+Enhance 20 times
+
+ID=4003104
+That is now my hobby
+Enhance 30 times
+
+ID=4003105
+Look at that color!
+Enhance 50 times
+
+ID=4003106
+Can I shine more?
+Enhance 70 times
+
+ID=4003107
+Where is my ether?
+Enhance 100 times
+
+ID=4003108
+And where is my Zenny?
+Enhance 200 times
+
+ID=4003109
+Still on my way
+Enhance 300 times
+
+ID=4003110
+There we go~
+Enhance 500 times
+
+ID=4003201
+What?! Fooking Raining, BUFF RATES 
+Fail enhancing 1 time
+
+ID=4003202
+Let me try again
+Fail enhancing 10 times
+
+ID=4003203
+That is not true, is it?
+Fail enhancing 20 times
+
+ID=4003204
+How to lose Zenny I
+Fail enhancing 30 times
+
+ID=4003205
+How to lose Zenny II
+Fail enhancing 50 times
+
+ID=4003206
+Aaaaaaaaaaah!
+Fail enhancing 70 times
+
+ID=4003207
+Can I press Alt+F4?!
+Fail enhancing 100 times
+
+ID=4003208
+I am cursed
+Fail enhancing 150 times
+
+ID=4003209
+How to lose Ether and Zenny I
+Fail enhancing 200 times
+
+ID=4003210
+How to lose Ether and Zenny II
+Fail enhancing 300 times
+
+ID=4003301
+A blacksmith!
+Craft 1 time
+
+ID=4003302
+I like it, when it is done
+Craft 10 times
+
+ID=4003303
+I shouldn't stop here
+Craft 20 times
+
+ID=4003304
+All my life
+Craft 30 times
+
+ID=4003305
+I was born for this
+Craft 50 times
+
+ID=4003306
+Need more data
+Craft 70 times
+
+ID=4003307
+Should be good
+Craft 100 times
+
+ID=4003308
+Let him work to death
+Craft 200 times
+
+ID=4003309
+Master of the Blacksmiths
+Can craft mostly anything
+
+ID=4003310
+Master of the Blacksmiths
+Craft 500 times
+
+ID=4003401
+I broke it
+Dismantle 1 time
+
+ID=4003402
+Can I do it more then once?
+Dismantle 10 times
+
+ID=4003403
+What do I get?
+Dismantle 20 times
+
+ID=4003404
+There is no end
+Dismantle 50 times
+
+ID=4003405
+It is not only dismantling...
+Dismantle 70 times
+
+ID=4003406
+...it is also art
+Dismantle 100 times
+
+ID=4003407
+Addicted
+Dismantle 250 times
+
+ID=4003408
+Can't stop anymore
+Dismantle 500 times
+
+ID=4003409
+A lot of stuff
+Dismantle 750 times
+
+ID=4003410
+Everything broke and now?
+Dismantle 1000 times
+
+ID=4003501
+Market
+Buy 1 Item at the market
+
+ID=4003502
+Can I buy more?
+Buy 10 Items at the market
+
+ID=4003503
+I have a lot of money
+Buy 30 Items at the market
+
+ID=4003504
+That is my style
+Buy 50 Items at the market
+
+ID=4003505
+Bags are full
+Buy 70 Items at the market
+
+ID=4003506
+I still buy more
+Buy 100 Items at the market
+
+ID=4003507
+Second bag~
+Buy 300 Items at the market
+
+ID=4003508
+Can't have enough 
+Buy 500 Items at the market
+
+ID=4003509
+Not even at the end
+Buy 700 Items at the market
+
+ID=4003510
+Shopping Queen
+Buy 1000 Items at the market
+
+ID=4003601
+Guardian
+Recruit Supporter [Miriam]
+
+ID=4003701
+Commander of the Land
+Recruit Supporter [Ryu]
+
+ID=4003801
+Money gatherer
+Recruit Supporter [Ralph]
+
+ID=4003901
+High Tech
+Recruit Supporter [Haidinger]
+
+ID=4004001
+Best Friend
+Recruit [Good Boy]
+
+ID=4004101
+The Beast
+Recruit [Kainbarrel]
+
+ID=4004201
+Alchemist
+Recruit Supporter [Punisher: Zenith [Custom]]
+
+ID=4004301
+AI
+Recruit Supporter [Lucy]
+
+ID=4004401
+Gotcha!
+Defeat 1 Glutton
+
+ID=4004402
+Racoons....?
+Defeat 50 Gluttons
+
+ID=4004403
+They drop nice things
+Defeat 100 Gluttons
+
+ID=4004404
+Kill them all!
+Defeat 250 Gluttons
+
+ID=4004405
+Good treasure!
+Defeat 500 Gluttons
+
+ID=4004501
+Daily Mission
+Clear 1 Daily Mission
+
+ID=4004502
+Next 100 days
+Clear 100 Daily Missions
+
+ID=4004503
+Every Day
+Clear 500 Daily Missions
+
+ID=4004504
+Every day is a new day... or?
+Clear 1000 Daily Missions
+
+ID=4004505
+A lot of dailys
+Clear 1500 Daily Missions
+
+ID=4004601
+Hidden
+Clear 1 Hidden Event
+
+ID=4004602
+Hidden?! I found them
+Clear 100 Hidden Events
+
+ID=4004603
+There you are
+Clear 500 Hidden Events
+
+ID=4004604
+Somehow... it is not well hidden
+Clear 1000 Hidden Events
+
+ID=4004605
+Everywhere
+Clear 1500 Hidden Events
+
+ID=4004701
+Steel Grave
+Clear 1 time Steel Grave
+
+ID=4004702
+It's training?
+Clear 10 times Steel Grave
+
+ID=4004703
+Once again
+Clear 50 times Steel Grave
+
+ID=4004704
+Where do they all come from?
+Clear 100 times Steel Grave
+
+ID=4004705
+That hurts!
+Clear 200 times Steel Grave
+
+ID=4004801
+It can fly
+Use the helicopter 1 time
+
+ID=4004802
+H-h-h-helicopter
+Use the helicopter 10 times
+
+ID=4004803
+Do I can buy it?
+Use the helicopter 20 times
+
+ID=4004804
+I want to control the helicopter
+Use the helicopter 50 times
+
+ID=4004805
+My new apartment
+Use the helicopter 100 times
+
+ID=4004901
+Choose your ware
+Buy 1 time anything from Zaito
+
+ID=4004902
+Loyality
+Reach VIP 2
+
+ID=4004903
+Lovely
+Reach VIP 3
+
+ID=4004904
+Casual buyer
+Reach VIP 4
+
+ID=4004905
+Regular Customer
+Reach VIP 5
+
+ID=4005001
+Highest Quality
+Buy 1 time anything from Yomi
+
+ID=4005002
+Service, Service, Money
+Reach VIP 2
+
+ID=4005003
+Any wishes left?
+Reach VIP 3
+
+ID=4005004
+Thanks!
+Reach VIP 4
+
+ID=4005005
+Better items will be coming soon!
+Reach VIP 5
+
+ID=4005101
+I can craft anything
+Buy 1 time anything from Zenith
+
+ID=4005102
+Friends~
+Reach VIP 2
+
+ID=4005103
+Come again~
+Reach VIP 3
+
+ID=4005104
+Okay. Thanks.
+Reach VIP 4
+
+ID=4005105
+Your materials are always rare
+Reach VIP 5
+
+ID=4005201
+Enhancement
+Buy 1 time anything from Trisha
+
+ID=4005202
+Let's enhance again!
+Reach VIP 2
+
+ID=4005203
+Thanks~
+Reach VIP 3
+
+ID=4005204
+Friends? Best friends~
+Reach VIP 4
+
+ID=4005205
+Best service for you
+Reach VIP 5
+
+ID=4005301
+Flying Master
+Buy 1 time anything from Azin
+
+ID=4005302
+Want a boarding ticket?
+Reach VIP 2
+
+ID=4005303
+Thank you~
+Reach VIP 3
+
+ID=4005304
+You need something?
+Reach VIP 4
+
+ID=4005305
+Always a pleasure
+Reach VIP 5
+
+ID=4005401
+Raids are here
+Clear 1 Casual Raid
+
+ID=4005402
+Twisted World
+Clear 10 Casual Raids
+
+ID=4005403
+Just take it easy
+Clear 20 Casual Raids
+
+ID=4005404
+There we go again
+Clear 50 Casual Raids
+
+ID=4005405
+I know your moves
+Clear 100 Casual Raids
+
+ID=4005501
+Golden World
+Clear 1 time [Golden Citadel]
+
+ID=4005502
+Black is the new Gold
+Clear 10 times [Golden Citadel]
+
+ID=4005503
+I will sell you
+Clear 20 times [Golden Citadel]
+
+ID=4005504
+You can't stop me
+Clear 30 times [Golden Citadel]
+
+ID=4005505
+Enough of golden things~
+Clear 50 times [Golden Citadel]
+
+ID=4005601
+Destructive World
+Clear 1 time The Primal
+
+ID=4005602
+Knowing what to do
+Clear 10 times The Primal
+
+ID=4005603
+Primal-chan~~
+Clear 20 times The Primal
+
+ID=4005604
+Behaviour of the destructive world
+Clear 30 times The Primal
+
+ID=4005605
+Conqueror
+Clear 50 times The Primal
+
+ID=4005701
+Clown
+Defeat the boss of [Last Carnival] 100 times
+
+ID=4005801
+Purple Queen Spider
+Defeat the boss of [Junk Hive] 100 times
+
+ID=4005901
+Bandit Shadow
+Defeat the boss of [Bandit Highway] 100 times
+
+ID=4006001
+Mechas
+Defeat the boss of [Iron Castle] 100 times
+
+ID=4006101
+Golden Master
+Defeat the boss of [Golden Citadel] 100 times
+
+ID=4006201
+Wrong door!
+Visit a friends room once
+
+ID=4006202
+Your fridge is empty
+Visit a friends room 500 times
+
+ID=4006203
+Nice plants
+Visit a friends room 1000 times
+
+ID=4006204
+I like your apartment
+Visit a friends room 2000 times
+
+ID=4006205
+Your home is now my home
+Visit a friends room 5000 times
+
+ID=4006301
+Plants vs. Zombies... I think
+Plant 1 seed
+
+ID=4006302
+Grow big
+Plant 20 seeds
+
+ID=4006303
+A bit water~
+Plant 50 seeds
+
+ID=4006304
+Where is the shovel?
+Plant 100 seeds
+
+ID=4006305
+Green thumb
+Plant 200 seeds
+
+ID=4006306
+Does this plant brings me to the sky?
+Plant 400 seeds
+
+ID=4006307
+Every seed can be planted
+Plant 600 seeds
+
+ID=4006308
+Pssst... did you hear that?
+Plant 1000 seeds
+
+ID=4006309
+Botanist
+Plant 1500 seeds
+
+ID=4006310
+Plant Guru
+Plant 2000 seeds
+
+ID=4006401
+The Garden
+Harvest 1 plant
+
+ID=4006402
+Farming Simulator
+Harvest 20 plants
+
+ID=4006403
+Where is my traktor?
+Harvest 50 plants
+
+ID=4006404
+I also want chicken
+Harvest 100 plants
+
+ID=4006405
+I love it
+Harvest 200 plants
+
+ID=4006406
+All mine
+Harvest 400 plants
+
+ID=4006407
+Many plants
+Harvest 600 plants
+
+ID=4006408
+My bag is still not full
+Harvest 1000 plants
+
+ID=4006409
+Pretty rich
+Harvest 1500 plants
+
+ID=4006410
+Old farmer
+Harvest 2000 plants
+
+ID=4006501
+Oh noes!
+Harvest 1 wiltered plant
+
+ID=4006502
+No more...
+Harvest 50 wiltered plants
+
+ID=4006503
+One wrong step...
+Harvest 100 wiltered plants
+
+ID=4006504
+Close enough
+Harvest 200 wiltered plants
+
+ID=4006505
+Gardener
+Harvest 500 wiltered plants
+
+ID=4006601
+Amateur
+Harvest 1 rotten plant
+
+ID=4006602
+I forgot...
+Harvest 50 rotten plants
+
+ID=4006603
+They are dead
+Harvest 100 rotten plants
+
+ID=4006604
+Always check
+Harvest 200 rotten plants
+
+ID=4006605
+I always forgot
+Harvest 500 rotten plants
+
+ID=4006701
+Thanks for helping
+Take care of 1 plant
+
+ID=4006702
+Enjoy moving forward together
+Take care of 20 plants
+
+ID=4006703
+The feeling of not being alone
+Take care of 50 plants
+
+ID=4006704
+Importance of comrades
+Take care of 100 plants
+
+ID=4006705
+I also want to help
+Take care of 200 plants
+
+ID=4006706
+This sure was helpful!
+Take care of 400 plants
+
+ID=4006707
+I should stop
+Take care of 600 plants
+
+ID=4006708
+Water can't help now
+Take care of 1000 plants
+
+ID=4006709
+Are they still eat able?
+Take care of 1500 plants
+
+ID=4006710
+Baah! No way
+Take care of 2000 plants
+
+ID=4006801
+Obelisk
+Break 10 Void Obelisks
+
+ID=4006802
+More of them
+Break 50 Void Obelisks
+
+ID=4006803
+They coming in masses
+Break 100 Void Obelisks
+
+ID=4006804
+It won't stop
+Break 250 Void Obelisks
+
+ID=4006805
+Not again
+Break 500 Void Obelisks
+
+ID=4006901
+He is calling
+Defeat The Thing 50 times
+
+ID=4007001
+Primalrino
+Defeat The Primal 100 times
+
+ID=4000111
+This is necessary
+Use 25600 consumables
+
+ID=4000211
+Welcome back
+Buy 15000 items at a store
+
+ID=4000311
+Repair
+Spend 550000 Zenny on repairing
+
+ID=4000411
+Stunned, Feared... wait what?
+Incapacitated in battle - 2400 times
+
+ID=4000511
+Too weak
+Defeat 1000000 enemies
+
+ID=4000611
+Hmmm
+Defeat 53000 weak enemies
+
+ID=4000711
+I am back on the track
+Defeat 32000 normal enemies
+
+ID=4000811
+Not quite an enemy
+Defeat 13000 strong enemies
+
+ID=4000911
+Mini Bosses
+Defeat 6300 mini bosses
+
+ID=4001011
+Am I the boss?
+Defeat 3800 bosses
+
+ID=4001811
+God Breaker
+Use Armor Break 80000 times
+
+ID=4002111
+I know everything
+Clear 7500 Dungeons
+
+ID=4002211
+Sonic
+Clear 1500 Dungeons in lesser than 3 minutes
+
+ID=4002311
+SS-Master
+Clear 1250 Dungeons with an SS rank
+
+ID=4002411
+Was still AFK
+Clear 1250 Dungeons with an F rank
+
+ID=4002511
+Wealthy
+Pickup 16820000 Zenny
+
+ID=4002611
+Ether Millionaire
+Gather 4215000 Ether
+
+ID=4002811
+BP Collector
+Gather 60000 BP
+
+ID=4002906
+Level 60
+Reach Level 60
+
+ID=4003011
+Lord of time
+Play for 4800 hours
+
+ID=4003111
+That's how you do it
+Enhance 700 times
+
+ID=4003211
+Failed...
+Fail 400 times on enhancing
+
+ID=4003311
+Artisan
+Crafted 700 times
+
+ID=4003411
+My life, my dismantling
+Dismantled 1250 times
+
+ID=4003511
+God of shopping
+Buy 1500 times anything on the market
+
+ID=4004406
+Gluttons? Where?
+Defeat 750 Gluttons
+
+ID=4004506
+Every Day, Month, Year
+Clear 2000 daily missions
+
+ID=4004606
+Nope. I found ya
+Clear 2000 Hidden Events
+
+ID=4004706
+Expert
+Clear 300 times Steel Grave
+
+ID=4004806
+I still can't fly
+Use the helicopter 150 times
+
+ID=4008001
+Destroy the Void
+Clear Altar of the Void [Very Hard] once
+
+ID=4008002
+Don't give him pats
+Clear Altar of the Void [Very Hard] 10 times
+
+ID=4008003
+Slap him
+Clear Altar of the Void [Very Hard] 20 times
+
+ID=4008004
+Don't listen to him
+Clear Altar of the Void [Very Hard] 30 times
+
+ID=4008005
+Dodge, jump, die
+Clear Altar of the Void [Very Hard] 50 times
+
+ID=4008101
+Master of the Void
+Clear Altar of the Void [Expert] once
+
+ID=4008102
+Dangerous intend
+Clear Altar of the Void [Expert] 10 times
+
+ID=4008103
+Careful now
+Clear Altar of the Void [Expert] 20 times
+
+ID=4008104
+Getting used to it
+Clear Altar of the Void [Expert] 30 times
+
+ID=4008105
+Maybe we can be friends?
+Clear Altar of the Void [Expert] 50 times
+
+ID=4009001
+Rumble Summer Vacation Ⅰ
+Defeat [Stunning Noah] 50 times
+
+ID=4009002
+Rumble Summer Vacation Ⅱ
+Defeat [Overconfident Enoch] 50 times
+
+ID=4008201
+Raphakumba
+Clear Hidden Hideout once
+
+ID=4008202
+Jump, Jump!
+Clear Hidden Hideout 10 times
+
+ID=4008203
+Stop bully!!
+Clear Hidden Hideout 20 times
+
+ID=4008204
+Poor fish guy
+Clear Hidden Hideout 30 times
+
+ID=4008205
+No mercy, eh?
+Clear Hidden Hideout 50 times
+
+ID=4009003
+Rumble Summer Vacation Vol.2
+Defeat [Stunning Noah] 20 times
+
+ID=4009004
+Rumble Summer Vacation Vol.2 
+Defeat [Overconfident Enoch] 20 times
+
+ID=4008301
+Black moon
+Clear Lunar Fall 1 time
+
+ID=4008302
+Defeat the legion
+Clear Lunar Fall 10 times
+
+ID=4008303
+Take down the black moon
+Clear Lunar Fall 20 times
+
+ID=4008304
+Become a legion
+Clear Lunar Falls 30 times
+
+ID=4008305
+Destroy the black moon
+Clear Lunar Falls 50 times
