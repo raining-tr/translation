@@ -116,7 +116,7 @@ ID=18
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
 Loyalty Boost 2
 CreditRating_Grow_2
-Additional credit gain. \n Daily credit increase: 6
+Additional loyalty gain. \n Daily loyalty increase: 6
 Daily credits increase by 4 \n Total daily credit gain: 10\n \n Required Acquisition Funds: 10,500,000
 
 ID=19
