@@ -69,7 +69,7 @@ Number of additional warehouse slots: 48 \n Total slots: 144
 
 ID=11
 Icon/League/Skill/Icon_League_Skill_StorageOpen
-Guild Warehouse 3
+Guild Storage 3
 League_Storage_3
 Expand the Guild Warehouse. \n Total slots: 144
 
