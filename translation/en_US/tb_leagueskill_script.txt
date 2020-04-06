@@ -137,7 +137,7 @@ Icon/League/Skill/Icon_League_Skill_RepairDiscount
 Repair Discount 2
 Repair_Cost_Discount_2
 Save on repair costs. \n Repair discount: 6%
-Repair cost discount increase: 4% \n Total repair discount increase: 10%\n \n Acquisition required fund: 18,000,000
+Repair discount increases by 4% \n Total discount: 10%\n \n Required Acquisition Funds: 18,000,000
 
 ID=22
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
