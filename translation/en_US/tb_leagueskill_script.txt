@@ -103,7 +103,7 @@ ID=16
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
 Exp Boost 3
 Exp_Up_3
-Exp earned increase. \n Exp increased by 15%
+Additional experience gain. \n Exp increase: 15%
 
 ID=17
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
