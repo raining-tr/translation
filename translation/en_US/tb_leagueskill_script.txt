@@ -150,7 +150,7 @@ Icon/League/Skill/Icon_League_Skill_CommissionDiscount
 Market Thirst 1
 CommissionDiscount_1
 Save on sales you make in the market. \n Sale discount: 1%\n \nRequired funds: 1,950,000
-Exchange Sales Commission Discount Increase: 1% \n Total Exchange Sales Commission Discount Total Increase: 2%\n \nAcquisition Required Funds: 9,000,000
+Market sale discount increases by 1% \n Total sale discount: 2%\n \n Required funds: 9,000,000
 
 ID=24
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
