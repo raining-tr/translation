@@ -123,7 +123,7 @@ ID=19
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
 Loyalty Boost 3
 CreditRating_Grow_3
-Additional credit gain. \n Daily credit increase: 10
+Additional loyalty gain. \n Daily loyalty increase: 10
 
 ID=20
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
