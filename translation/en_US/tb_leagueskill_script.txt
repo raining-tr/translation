@@ -121,7 +121,7 @@ Daily loyalty increases by 4 \n Total daily loyalty gain: 10\n \n Required Acqui
 
 ID=19
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
-Credit Boost 3
+Loyalty Boost 3
 CreditRating_Grow_3
 Additional credit gain. \n Daily credit increase: 10
 
