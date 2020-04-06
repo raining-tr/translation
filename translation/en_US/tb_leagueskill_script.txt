@@ -81,7 +81,7 @@ Design the Guild Emblem.
 
 ID=13
 Icon/League/Skill/Icon_League_Skill_SafeHouseOpen
-Guild Hangouts
+Guild Hangout
 League_Agit
 Create a Guild Hangout.
 
