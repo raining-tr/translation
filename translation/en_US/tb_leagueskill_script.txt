@@ -114,7 +114,7 @@ Daily credits increase by 3 \n Total daily credit gain: 6\n \n Required Acquisit
 
 ID=18
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
-Increased Creditworthiness 2
+Credit Boost 2
 CreditRating_Grow_2
 Credit gains increase. \nMaximum number of credit-enabled credit gains per day: 6
 Maximum daily credit gain credit increase: 4 \n Daily maximum gain total credit worth: 10\n \n Acquisition required funds: 10,500,000
