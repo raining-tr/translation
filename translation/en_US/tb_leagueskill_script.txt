@@ -97,7 +97,7 @@ Icon/League/Skill/Icon_League_Skill_LeagueExpUp
 Exp Boost 2
 Exp_Up_2
 Additional experience gain. \n Exp increase: 10%
-Experience Increase: 5% \n Total Exp Increase: 15%\n \n Acquisition Required Funds: 7,500,000
+Experience gain increases by 5% \n Total increase: 15%\n \n Required Acquisition Funds: 7,500,000
 
 ID=16
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
