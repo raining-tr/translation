@@ -122,7 +122,7 @@ Maximum daily credit gain credit increase: 4 \n Daily maximum gain total credit 
 ID=19
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
 Increased Creditworthiness 3
-CraditRating_Grow_3
+CreditRating_Grow_3
 Credit gains increase. \nMaximum gain total credit increase per day: 10
 
 ID=20
