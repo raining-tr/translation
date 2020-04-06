@@ -7,7 +7,7 @@ Number of additional people: 5 \n Maximum number: 30
 
 ID=2
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-Guild One Expansion 2
+Guild Expansion 2
 League_Person_Extend_2
 Expand the maximum number of Guild Members. \n Maximum number: 30
 Number of additional people: 5 \n Maximum number: 35
