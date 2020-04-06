@@ -163,4 +163,4 @@ ID=25
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
 Market Thirst 3
 CommissionDiscount_3
-Discount exchange sales commission \n Exchange sales commission increase: 3%
+Save on sales you make in the market. \n Sale discount: 3%
