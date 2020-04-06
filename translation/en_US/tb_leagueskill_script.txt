@@ -87,7 +87,7 @@ Create a Guild Hangout.
 
 ID=14
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
-Increase EXP 1
+Exp Boost 1
 Exp_Up_1
 Additional experience gain. \n Exp increase: 5% \n Acquisition Funds: 350,000
 Experience gain increases by 5% \n Total increase: 10%\n \n Required Acquisition Funds: 2,700,000
