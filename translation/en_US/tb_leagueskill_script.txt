@@ -110,7 +110,7 @@ Icon/League/Skill/Icon_League_Skill_CredibilityUp
 Credit Boost 1
 CreditRating_Grow_1
 Additional credit gain. \n Daily credit increase: 3\n \n Acquisition Funds: 550,000
-Daily credit increase: 3 \n Maximum daily credit gain: 6\n \n Required Acquisition Funds: 3,000,000
+Daily credits increase by 3 \n Total daily credit gain: 6\n \n Required Acquisition Funds: 3,000,000
 
 ID=18
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
