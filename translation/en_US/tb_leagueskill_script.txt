@@ -83,7 +83,7 @@ ID=13
 Icon/League/Skill/Icon_League_Skill_SafeHouseOpen
 Guild Hangouts
 League_Agit
-You can create a Guild Hangout.
+Create a Guild Hangout.
 
 ID=14
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
