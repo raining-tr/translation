@@ -65,7 +65,7 @@ Icon/League/Skill/Icon_League_Skill_StorageOpen
 Guild Warehouse 2
 League_Storage_2
 Guild Warehouse available. \n Available slots: 96
-48 additional warehouse slots \n available warehouse slots: 144
+48 additional warehouse slots \n Available slots: 144
 
 ID=11
 Icon/League/Skill/Icon_League_Skill_StorageOpen
