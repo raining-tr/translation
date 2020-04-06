@@ -161,6 +161,6 @@ Exchange sales commission discount increase: 1% \n Exchange sales commission dis
 
 ID=25
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
-Exchange Sales Commission Discount 3
+Market Thirst 3
 CommissionDiscount_3
 Discount exchange sales commission \n Exchange sales commission increase: 3%
