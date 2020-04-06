@@ -143,7 +143,7 @@ ID=22
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
 Repair Discount 3
 Repair_Cost_Discount_3
-Save on repair costs. \nTotal repair discount increase: 10%
+Save on repair costs. \n Repair discount: 10%
 
 ID=23
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
