@@ -101,7 +101,7 @@ Experience Increase: 5% \n Total Exp Increase: 15%\n \n Acquisition Required Fun
 
 ID=16
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
-Increase EXP 3
+Exp Boost 3
 Exp_Up_3
 Exp earned increase. \n Exp increased by 15%
 
