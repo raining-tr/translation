@@ -20,7 +20,7 @@ Expand the maximum number of Guild Members. \n Maximum number: 35
 Number of additional people: 5 \n Maximum number: 40
 
 ID=4
-Guild One Expansion 4
+Guild Expansion 4
 League_Person_Extend_4
 Expand the maximum number of Guild Members. \n Maximum number: 40
 Number of additional people: 5 \n Maximum number: 45
