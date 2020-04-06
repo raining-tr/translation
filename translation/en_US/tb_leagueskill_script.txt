@@ -71,7 +71,7 @@ ID=11
 Icon/League/Skill/Icon_League_Skill_StorageOpen
 Guild Warehouse 3
 League_Storage_3
-Guild Warehouse available. \n Total slots: 144
+Expand the Guild Warehouse. \n Total slots: 144
 
 ID=12
 Icon/League/Skill/Icon_League_Skill_CreationEmblem
