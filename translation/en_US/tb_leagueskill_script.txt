@@ -147,7 +147,7 @@ Save on repair costs. \n Repair discount: 10%
 
 ID=23
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
-Exchange sales commission discount 1
+Market Thirst 1
 CommissionDiscount_1
 You can save on exchange sales fees. \n Exchange sales commission discount increase: 1%\n \nAcquisition required funds: 1,950,000
 Exchange Sales Commission Discount Increase: 1% \n Total Exchange Sales Commission Discount Total Increase: 2%\n \nAcquisition Required Funds: 9,000,000
