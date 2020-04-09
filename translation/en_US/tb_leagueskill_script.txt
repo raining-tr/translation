@@ -1,0 +1,166 @@
+ID=1
+Icon/League/Skill/Icon_League_Skill_MemberIncrease
+Guild Expansion 1
+League_Person_Extend_1
+Expand the maximum number of Guild Members. \n Maximum number: 25
+Number of additional people: 5 \n Maximum number: 30
+
+ID=2
+Icon/League/Skill/Icon_League_Skill_MemberIncrease
+Guild Expansion 2
+League_Person_Extend_2
+Expand the maximum number of Guild Members. \n Maximum number: 30
+Number of additional people: 5 \n Maximum number: 35
+
+ID=3
+Icon/League/Skill/Icon_League_Skill_MemberIncrease
+Guild Expansion 3
+League_Person_Extend_3
+Expand the maximum number of Guild Members. \n Maximum number: 35
+Number of additional people: 5 \n Maximum number: 40
+
+ID=4
+Guild Expansion 4
+League_Person_Extend_4
+Expand the maximum number of Guild Members. \n Maximum number: 40
+Number of additional people: 5 \n Maximum number: 45
+
+ID=5
+Icon/League/Skill/Icon_League_Skill_MemberIncrease
+Guild Expansion 5
+League_Person_Extend_5
+Expand the maximum number of Guild Members. \n Maximum number: 45
+Number of additional people: 5 \n Maximum number: 50
+
+ID=6
+Icon/League/Skill/Icon_League_Skill_MemberIncrease
+Guild Expansion 6
+League_Person_Extend_6
+Expand the maximum number of Guild Members. \n Maximum number: 50
+Number of additional people: 5 \n Maximum number: 55
+
+ID=7
+Icon/League/Skill/Icon_League_Skill_MemberIncrease
+Guild Expansion 7
+League_Person_Extend_7
+Expand the maximum number of Guild Members. \n Maximum number: 55
+Number of additional people: 5 \n Maximum number: 60
+
+ID=8
+Icon/League/Skill/Icon_League_Skill_MemberIncrease
+Guild Expansion 8
+League_Person_Extend_8
+Expand the maximum number of Guild Members. \n Maximum number: 60
+The maximum level.
+
+ID=9
+Icon/League/Skill/Icon_League_Skill_StorageOpen
+Guild Storage 1
+League_Storage_1
+Expand the Guild Storage. \n Total slots: 48
+Number of additional warehouse slots: 48 \n Total slots: 96
+
+ID=10
+Icon/League/Skill/Icon_League_Skill_StorageOpen
+Guild Storage 2
+League_Storage_2
+Expand the Guild Storage. \n Total slots: 96
+Number of additional warehouse slots: 48 \n Total slots: 144
+
+ID=11
+Icon/League/Skill/Icon_League_Skill_StorageOpen
+Guild Storage 3
+League_Storage_3
+Expand the Guild Storage. \n Total slots: 144
+
+ID=12
+Icon/League/Skill/Icon_League_Skill_CreationEmblem
+Guild Emblem
+League_Mark
+Design the Guild Emblem.
+
+ID=13
+Icon/League/Skill/Icon_League_Skill_SafeHouseOpen
+Guild Hangout
+League_Agit
+Create a Guild Hangout.
+
+ID=14
+Icon/League/Skill/Icon_League_Skill_LeagueExpUp
+Exp Boost 1
+Exp_Up_1
+Additional experience gain. \n Exp increase: 5% \n Required funds: 350,000
+Experience gain increases by 5% \n Total increase: 10%\n \n Required funds: 2,700,000
+
+ID=15
+Icon/League/Skill/Icon_League_Skill_LeagueExpUp
+Exp Boost 2
+Exp_Up_2
+Additional experience gain. \n Exp increase: 10%
+Experience gain increases by 5% \n Total increase: 15%\n \n Required funds: 7,500,000
+
+ID=16
+Icon/League/Skill/Icon_League_Skill_LeagueExpUp
+Exp Boost 3
+Exp_Up_3
+Additional experience gain. \n Exp increase: 15%
+
+ID=17
+Icon/League/Skill/Icon_League_Skill_CredibilityUp
+Loyalty Boost 1
+CreditRating_Grow_1
+Additional loyalty gain. \n Daily loyalty increase: 3\n \n Required funds: 550,000
+Daily loyalty increases by 3 \n Total daily loyalty gain: 6\n \n Required funds: 3,000,000
+
+ID=18
+Icon/League/Skill/Icon_League_Skill_CredibilityUp
+Loyalty Boost 2
+CreditRating_Grow_2
+Additional loyalty gain. \n Daily loyalty increase: 6
+Daily loyalty increases by 4 \n Total daily loyalty gain: 10\n \n Required funds: 10,500,000
+
+ID=19
+Icon/League/Skill/Icon_League_Skill_CredibilityUp
+Loyalty Boost 3
+CreditRating_Grow_3
+Additional loyalty gain. \n Daily loyalty increase: 10
+
+ID=20
+Icon/League/Skill/Icon_League_Skill_RepairDiscount
+Repair Discount 1
+Repair_Cost_Discount_1
+Save on repair costs. \n Repair discount: 3%\n \n Required funds: 1,950,000
+Repair discount increases by 3% \n Total discount: 6%\n \n Required funds: 6,500,000
+
+ID=21
+Icon/League/Skill/Icon_League_Skill_RepairDiscount
+Repair Discount 2
+Repair_Cost_Discount_2
+Save on repair costs. \n Repair discount: 6%
+Repair discount increases by 4% \n Total discount: 10%\n \n Required funds: 18,000,000
+
+ID=22
+Icon/League/Skill/Icon_League_Skill_RepairDiscount
+Repair Discount 3
+Repair_Cost_Discount_3
+Save on repair costs. \n Repair discount: 10%
+
+ID=23
+Icon/League/Skill/Icon_League_Skill_CommissionDiscount
+Market Thirst 1
+CommissionDiscount_1
+Save on sales you make in the market. \n Sale discount: 1%\n \n Required funds: 1,950,000
+Market sale discount increases by 1% \n Total sale discount: 2%\n \n Required funds: 9,000,000
+
+ID=24
+Icon/League/Skill/Icon_League_Skill_CommissionDiscount
+Market Thirst 2
+CommissionDiscount_2
+Save on sales you make in the market. \n Sale discount: 2%
+Market sale discount increases by 1% \n Total sale discount: 3%\n \n Required funds: 20,000,000
+
+ID=25
+Icon/League/Skill/Icon_League_Skill_CommissionDiscount
+Market Thirst 3
+CommissionDiscount_3
+Save on sales you make in the market. \n Sale discount: 3%
