@@ -64,7 +64,7 @@ Cloudream\F051_RUINFORTRESS\F051_RUINFORTRESS
 F051_RUINFORTRESS
 14483
 18689
-BGM/Town_Ruinfortress/Ruinfortress
+BGM/Town_RuinFortress/RuinFortress
 BG_Introduction/RUINFORTRESS
 GUI/World/Maps/F051_RUINFORTRESS
 
