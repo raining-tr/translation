@@ -4,9 +4,9 @@ Title given to players who participated in the World Premier Test.
 [Participated in World Premier]
 
 ID=20000
-SP인
-테스트를 참가한 자에게 주어지는 보상
-[테스트 참가]
+SP 
+Title given to players who participated in the World Premier Test.
+[Participated in World Premier]
 
 ID=10005
 Last Carnival
@@ -16,187 +16,187 @@ Event Rewards
 ID=10006
 Sated Madness
 Madness is often used in a negative sense, but sometimes it is used to express a passionate appearance like crazy. This title is given to those who have completed [Last Carnival] 5 times.
-이벤트 보상
+Event Rewards
 
 ID=10007
 Junk hive
 The Junk Hive is an anomaly that occurred in Candus City and is based on information from Candus City. The title is given to those who have completed [Junk Hive] 100 times.
-이벤트 보상
+Event Rewards
 
 ID=10008
 Violet
 Violet has both a sense of nobility and a sense of danger. This title is given to those who have cleared Junk Hive 5 times, which is as graceful and venomous as a nobleman.
-이벤트 보상
+Event Rewards
 
 ID=10009
 Bandit Highway
 The Bandit Highway is an anomaly in Grace City, built on information from Grace City. This title is given to those who have completed [Bandit Highway] 100 times.
-이벤트 보상
+Event Rewards
 
 ID=10010
 Abyss Awareness
 The Abyss is a deep swamp, which is often used to describe distant places where there is no end. This title is given to those who have completed [Bandit Highway] 5 times, a far-off road that never ends.
-이벤트 보상
+Event Rewards
 
 ID=10011
 Iron Castle
 The Iron Castle is an anomaly that occurred in Ruin Fortress and is based on information from Ruin Fortress. The title is given to those who have completed [Iron Castle] 100 times.
-이벤트 보상
+Event Rewards
 
 ID=10012
 Heavyweight
 Heavy weight means big weight, and is used to describe something heavy and huge. This title is given to those who have completed the Iron Castle 5 times, a mighty and massive Iron Castle.
-이벤트 보상
+Event Rewards
 
 ID=10013
 Burning
 Limited title to commemorate the 50,000-year-old soulwalker pre-registered
-이벤트 보상
+Event Rewards
 
 ID=10014
 Fifteen
 A prestigious title given to players who have reached chapter 15 of Steel Grave.
-이벤트 보상
+Event Rewards
 
 ID=10015
 Burning
 Title given to players who have created the new Soulworker, "Jin Seipatsu".
-이벤트 보상
+Event Rewards
 
 ID=10016
 Quick Fists
 Title given to the first 1,000 players who have created the new Soulworker, "Jin Seipatsu".
-이벤트 보상
+Event Rewards
 
 ID=10017
 Sparkle
 Title given to players who have participated in the Raid District.
-이벤트 보상
+Event Rewards
 
 ID=10018
 Light Speeds
 Title given to players who clear Raid Districts faster than anyone else
-이벤트 보상
+Event Rewards
 
 ID=10019
 Summer Takeover
 Title given to players who enjoyed summer the most.
-이벤트 보상
+Event Rewards
 
 ID=10020
 First Encounter
 Title given to players who participated in The Thing Event.
-이벤트 보상
+Event Rewards
 
 ID=10021
 New Hope
 Title given to players who achieved Level of 50 or higher during the Event period.\nThank you for supporting SoulWorker!
-이벤트 보상
+Event Rewards
 
 ID=10022
 Ocean Awareness
 Title given to players who achieved Level of 100 or higher during the event period.\nThank you for supporting SoulWorker!
-이벤트 보상
+Event Rewards
 
 ID=10023
 Well Aware of
 Title given to players who achieved Level of 150 or higher during the event period.\nThank you for supporting SoulWorker!
-이벤트 보상
+Event Rewards
 
 ID=10024
 Hunting God's Will
 Title given to players who participated in The Primal Event.
-이벤트 보상
+Event Rewards
 
 ID=10025
 GM's Friend
 Title given to players who participated in the GM Trainings Support Event.
-이벤트 보상
+Event Rewards
 
 ID=10026
 Against Destiny
 Title for the new Soulworker Iris Yuma Implementation Event.
-이벤트 보상
+Event Rewards
 
 ID=10027
 Fury 
-이리스 업데이트 관련 이벤트 칭호
-이벤트 보상
+Title for the new Soulworker Iris Yuma Implementation Event.
+Event Rewards
 
 ID=10028
 Quiz Novice
 Event title related to quiz Events.
-이벤트 보상
+Event Rewards
 
 ID=10029
 Quiz Lover
-퀴즈 이벤트 관련 이벤트 칭호
-이벤트 보상
+Event title related to quiz Events.
+Event Rewards
 
 ID=10030
 Quiz Maniac
-퀴즈 이벤트 관련 이벤트 칭호
-이벤트 보상
+Event title related to quiz Events.
+Event Rewards
 
 ID=10031
 Quiz King
-퀴즈 이벤트 관련 이벤트 칭호
-이벤트 보상
+Event title related to quiz Events.
+Event Rewards
 
 ID=10032
 I like to talk
 Event Title for Tag Event
-이벤트 보상
+Event Rewards
 
 ID=10033
 A Master of Tag
-술래잡기 이벤트 관련 이벤트 칭호
-이벤트 보상
+Event Title for Tag Event
+Event Rewards
 
 ID=10034
 Primal
 Title given to those who have started their journey at the same time as the doors of Cloudream opened.
-이벤트 보상
+Event Rewards
 
 ID=10038
 Melted
 Title given as reward for Valentine's event. Is it love or chocolate to melt?
-이벤트 보상
+Event Rewards
 
 ID=10039
 No more
 No more NAVER
-이벤트 보상
+Event Rewards
 
 ID=10040
 Sweet and sour
 Title give as reward for White Day's Event. Decorate it sweet and sour.
-이벤트 보상
+Event Rewards
 
 ID=10041
 Iris
 A title that shows off your affection for Iris.
-이벤트 보상
+Event Rewards
 
 ID=10042
 You already
 You already...
-이벤트 보상
+Event Rewards
 
 ID=10043
 Honor
 100 days special title given to SoulWorker's
-이벤트 보상
+Event Rewards
 
 ID=10044
 100 days
 100 days special title, given to active players in Cloudream
-이벤트 보상
+Event Rewards
 
 ID=10045
 Want to see
 A title that contains Setsuka's and Ryoko's affection for their parents.
-이벤트 보상
+Event Rewards
 
 ID=10049
 Gru Gru
@@ -205,138 +205,138 @@ Event sales
 
 ID=10050
 <font color='#FAED7D'>§</font>Chicken<font color='#FAED7D'>§</font>
-그루톤 월드 이벤트 기념으로 한정 판매되는 칭호. 
-이벤트 판매
+Limited title sold to those who participated in the Glutton World event.
+Event sales
 
 ID=10051
 <font color='#FF0000'>⊙</font>Santa<font color='#FF0000'>⊙</font>
-그루톤 월드 이벤트 기념으로 한정 판매되는 칭호. 
-이벤트 판매
+Limited title sold to those who participated in the Glutton World event.
+Event sales
 
 ID=10052
 <font color='#FFBB00'>★</font>Summer<font color='#FFBB00'>★</font
-그루톤 월드 이벤트 기념으로 한정 판매되는 칭호. 
-이벤트 판매
+Limited title sold to those who participated in the Glutton World event.
+Event sales
 
 ID=10053
 <font color='#F15F5F'>♥</font>Angel<font color='#F15F5F'>♥</font>
-그루톤 월드 이벤트 기념으로 한정 판매되는 칭호. 
-이벤트 판매
+Limited title sold to those who participated in the Glutton World event.
+Event sales
 
 ID=20001
 Pioneer
 Pioneering requires a lot of courage in moving to new territory. This title is given to those who bravely challenged and completed the [Last Carnival].
-이벤트 보상
+Event Rewards
 
 ID=20002
 First Experience
 My first experience was very scary and it was hard because I did something I haven't experienced before. This title is given to those who bravely challenged and completed the [Junk Hive].
-이벤트 보상
+Event Rewards
 
 ID=20003
 The role of lighting
 The lighter role is often used to take the lead and start work. This title is given to those who bravely challenged and completed the [Bandit Highway].
-이벤트 보상
+Event Rewards
 
 ID=20004
 Assault Captain
 Assault Captains are often used to refer to valiant longevers who are tasked to rush into enemy lines. This title is given to those who bravely challenged and completed the [Iron Castle].
-이벤트 보상
+Event Rewards
 
 ID=20005
 With this code
 This title is awarded to those who have achieved a combined level of 50 to 79 for all characters in their account during the April event. Thank you for being with SoulWorker.
-이벤트 보상
+Event Rewards
 
 ID=20006
 This is to protect
 이벤트 기간 동안 계정 내 모든 캐릭터의 통합 레벨을 80 이상 119 이하로 달성하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 진심으로 감사드립니다.
-이벤트 보상
+Event Rewards
 
 ID=20007
 이로하니 하호
 이벤트 기간 동안 계정 내 모든 캐릭터의 통합 레벨을 120 이상 149 이하로 달성하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 진심으로 감사드립니다.
-이벤트 보상
+Event Rewards
 
 ID=20008
 이로하니 니호
 이벤트 기간 동안 계정 내 모든 캐릭터의 통합 레벨을 150 이상 달성하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 진심으로 감사드립니다.
-이벤트 보상
+Event Rewards
 
 ID=20009
 푸들 팀
 2016년 5월에 실시한 팀 대항 이벤트 중 푸들 팀에 소속된 사람들에게 주어지는 칭호
-이벤트 보상
+Event Rewards
 
 ID=20010
 치와와 팀
 2016년 5월에 실시한 팀 대항 이벤트 중 치와와 팀에 소속된 사람들에게 주어지는 칭호
-이벤트 보상
+Event Rewards
 
 ID=20011
 닥스훈트 팀
 2016년 5월에 실시한 팀 대항 이벤트 중 닥스훈트 팀에 소속된 사람들에게 주어지는 칭호
-이벤트 보상
+Event Rewards
 
 ID=20012
 시바 팀
 2016년 5월에 실시한 팀 대항 이벤트 중 시바 팀에 소속된 사람들에게 주어지는 칭호
-이벤트 보상
+Event Rewards
 
 ID=20013
 퍼그 팀
 2016년 5월에 실시한 팀 대항 이벤트 중 퍼그 팀에 소속된 사람들에게 주어지는 칭호
-이벤트 보상
+Event Rewards
 
 ID=20014
 비글 팀
 2016년 5월에 실시한 팀 대항 이벤트 중 비글 팀에 소속된 사람들에게 주어지는 칭호
-이벤트 보상
+Event Rewards
 
 ID=20015
 아키타 팀
 2016년 5월에 실시한 팀 대항 이벤트 중 아키타 팀에 소속된 사람들에게 주어지는 칭호
-이벤트 보상
+Event Rewards
 
 ID=20016
 격투가
 새롭게 합류한 소울워커, 진 세이파츠를 생성한 유저가 2000명이 넘었을 때 주어진 칭호
-이벤트 보상
+Event Rewards
 
 ID=20017
 후광
-디스트릭트 레이드를 클리어한 유저들에게 주어지는 칭호
-이벤트 보상
+Title given to players who have participated in the Raid District.
+Event Rewards
 
 ID=20018
 슬레이어
-디스트릭트 레이드를 그 누구보다 빠르게 클리어한 유저들에게 주어지는 칭호
-이벤트 보상
+Title given to players who clear Raid Districts faster than anyone else
+Event Rewards
 
 ID=20019
 중2병
 이벤트 기간 동안 통합 레벨 200 이상에 도달하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 진심으로 감사드립니다.
-이벤트 보상
+Event Rewards
 
 ID=20020
 세컨드 스테어 거주
 이벤트 기간 동안 통합 레벨 250 이상에 도달하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 진심으로 감사드립니다.
-이벤트 보상
+Event Rewards
 
 ID=20021
 만랩 장인
 이벤트 기간 동안 통합 레벨 275 이상에 도달하신 분들께 해당 칭호를 선사합니다. 소울워커와 함께해 주셔서 진심으로 감사드립니다.
-이벤트 보상
+Event Rewards
 
 ID=20022
 도달한 자
-더 프라이멀 이벤트에 참가한 유저들에게 주어지는 칭호
-이벤트 보상
+Title given to players who participated in The Primal Event.
+Event Rewards
 
 ID=20023
 해피 할로윈
 할로윈 이벤트에 참가한 유저들에게 주어지는 칭호
-이벤트 보상
+Event Rewards
 
 ID=100010
 세계 최초의
@@ -351,27 +351,27 @@ EXCBT 1일차에 게임 접속
 ID=100030
 4Gamer
 소울워커의 시작을 4Gamer와 함께해 주셔서 감사합니다. 소중한 만남을 기념하기 위해 이 칭호를 선사합니다.
-이벤트 보상
+Event Rewards
 
 ID=100040
 전격 온라인
 소울워커의 시작을 전격 온라인과 함께해 주셔서 감사합니다. 소중한 만남을 기념하기 위해 이 칭호를 선사합니다.
-이벤트 보상
+Event Rewards
 
 ID=100050
 온라인 게이머
 소울워커의 시작을 온라인 게이머와 함께해 주셔서 감사합니다. 소중한 만남을 기념하기 위해 이 칭호를 선사합니다.
-이벤트 보상
+Event Rewards
 
 ID=100060
 패미통
 소울워커의 시작을 패미통과 함께해 주셔서 감사합니다. 소중한 만남을 기념하기 위해 이 칭호를 선사합니다.
-이벤트 보상
+Event Rewards
 
 ID=100070
 게임 워치
 소울워커의 시작을 게임 워치와 함께해 주셔서 감사합니다. 소중한 만남을 기념하기 위해 이 칭호를 선사합니다.
-이벤트 보상
+Event Rewards
 
 ID=100100
 태동의
@@ -874,7 +874,7 @@ ID=103010
 업적 [3분요리 좋아하시나요?] 획득보상
 
 ID=103020
-광속의
+Light Speeds
 광속이라는 건 지구의 적도원주를 1/7초 미만에 돌 수 있는 속도라고 합니다~
 업적 [달리기를 잘하시네요] 획득보상
 
@@ -2280,78 +2280,78 @@ ID=208040
 
 ID=20024
 철퇴
-술래잡기 이벤트 관련 이벤트 칭호
-이벤트 보상
+Event Title for Tag Event
+Event Rewards
 
 ID=20026
 구원자
 클라우드림 세계의 문이 열림과 동시에 선두에 서서 모두를 구원한 분들에게 부여하는 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20027
 CBT 러버
 모든 CBT 신청자 대상 보상 칭호
-이벤트 보상
+Event Rewards
 
 ID=20028
 CBT 마스터
 4일의 기적 미션 완료 대상 보상 칭호
-이벤트 보상
+Event Rewards
 
 ID=20032
 사랑
 발렌타인 이벤트의 보상으로 지급된 보상 칭호. 강렬한 마음을 드러내보자.
-이벤트 보상
+Event Rewards
 
 ID=20033
 NAVER
 절대 부정을 표현하는 영어 단어이다.
-이벤트 보상
+Event Rewards
 
 ID=20034
 추억
 화이트 데이 이벤트의 보상으로 지급된 보상 칭호. 추억으로 남는 것은 나쁜 것일까, 아니면 좋은 것일까.
-이벤트 보상
+Event Rewards
 
 ID=20035
 대상
 최고의 그림으로 선발된 대상 수상자를 위한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20036
 최우수상
 최우수상 팬아트 수상자를 위한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20037
 우수상
 우수상 팬아트 수상자를 위한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20038
 한게임
 와버린 이상 즐기다 가세요!
-이벤트 보상
+Event Rewards
 
 ID=20039
 전당
-100일을 함께한 워커님들께 지급되는 특별 칭호
-이벤트 보상
+100 days special title given to SoulWorker's
+Event Rewards
 
 ID=20040
 함께한
-100일의 순간, 클라우드림에서 가장 눈부신 활약을 위해 지급되는 칭호.
-이벤트 보상
+100 days special title, given to active players in Cloudream
+Event Rewards
 
 ID=20045
 부모님
- 부모님에 대한 세츠카와 료코의 간절한 애정이 담겨 있는 칭호.
-이벤트 보상
+A title that contains Setsuka's and Ryoko's affection for their parents.
+Event Rewards
 
 ID=20049
 그루톤
-그루톤 월드 이벤트 기념으로 한정 판매되는 칭호. 
-이벤트 판매
+Limited title sold to those who participated in the Glutton World event.
+Event sales
 
 ID=101350
 무시무시한
@@ -2666,27 +2666,27 @@ ID=208250
 ID=10068
 보조
 레시피 북 I을 이용해서 얻을 수 있는 기념 칭호. 제니스를 통해 제작할 수 있다.
-이벤트 보상
+Event Rewards
 
 ID=20068
 요리사
 레시피 북 II을 이용해서 얻을 수 있는 기념 칭호. 제니스를 통해 제작할 수 있다.
-이벤트 보상
+Event Rewards
 
 ID=10069
 마스터
 샐러드와 레시피 북 I을 이용해서 얻을 수 있는 기념 칭호. 제니스를 통해 제작할 수 있다.
-이벤트 보상
+Event Rewards
 
 ID=20069
 셰프
 토마토 파스타와 레시피 북 II을 이용해서 얻을 수 있는 기념 칭호. 제니스를 통해 제작할 수 있다.
-이벤트 보상
+Event Rewards
 
 ID=10070
 뻥쟁이
 판도라의 상자에서 얻을 수 있는 만우절 기념 칭호.
-이벤트 보상
+Event Rewards
 
 ID=109270
 <font color='#8904B1'>공허한</font>
@@ -2701,27 +2701,27 @@ ID=209270
 ID=20074
 대한민국
 워커들의 힘을 모아 달성한 월드 이벤트 보상 칭호
-이벤트 보상
+Event Rewards
 
 ID=10074
 <font color='#FF5A5A'>승리하라</font>
 워커들의 힘을 모아 달성한 월드 이벤트 보상 칭호
-이벤트 보상
+Event Rewards
 
 ID=20075
 <font color='#A566FF'>국가대표</font>
 이벤트 기간 동안 축구공을 모아 그루톤 코인샵에서 교환하여 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10075
 <font color='#7F00FF'>영혼의</font>
 2018 할로윈 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20076
 <font color='#7F00FF'>축제</font>
 2018 할로윈 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=10077
 <font color='#DB0000'>성</font><font color='#C90000'>숙</font><font color='#B70000'>한</font>
@@ -2786,12 +2786,12 @@ ID=20082
 ID=10076
 <font color='#FF69B4'>커플</font>
 2018 크리스마스 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20083
 <font color='#808080'>솔로</font>
 2018 크리스마스 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=208051
 <font color='#6C6C73'>학</font><font color='#5B5B61'>살</font><font color='#46464B'>자</font>
@@ -2801,32 +2801,32 @@ ID=208051
 ID=10090
 <font color='#00FFBF'>두</font><font color='#58FAD0'>번</font><font color='#81F7D8'>째</font>
 2주년 이벤트 제작 칭호
-이벤트 보상
+Event Rewards
 
 ID=20090
 <font color='#A9F5E1'>생</font><font color='#E0F8F1'>일</font>
 2주년 이벤트 제작 칭호
-이벤트 보상
+Event Rewards
 
 ID=10091
 <font color='#8A0886'>올</font><font color='#A901DB'>해</font><font color='#BF00FF'>에</font><font color='#CC2EFA'>도</font>
 2주년 이벤트 제작 칭호
-이벤트 보상
+Event Rewards
 
 ID=20091
 <font color='#D358F7'>함</font><font color='#DA81F5'>께</font>
 2주년 이벤트 제작 칭호
-이벤트 보상
+Event Rewards
 
 ID=10092
 <font color='#FF8000'>함</font><font color='#FFBF00'>께</font><font color='#FACC2E'>하</font><font color='#F7FE2E'>는</font>
 2주년 이벤트 제작 칭호
-이벤트 보상
+Event Rewards
 
 ID=20092
 <font color='#F4FA58'>2</font><font color='#D0FA58'>주</font><font color='#D8F781'>년</font>
 2주년 이벤트 제작 칭호
-이벤트 보상
+Event Rewards
 
 ID=208052
 <font color='#5F9EA0'>고</font><font color='#73B2BE'>고</font><font color='#87C6D2'>한 </font><font color='#FAB2B2'>이</font><font color='#FA9E9E'>상</font><font color='#F08080'>의</font>
@@ -2886,82 +2886,82 @@ ID=200107
 ID=10093
 그녀의
 2019 발렌타인 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=10094
 매력적인
 2019 발렌타인 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20093
 마음
 2019 발렌타인 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20094
 프로듀서
 2019 발렌타인 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20095
 <font color='#F6BB43'>캐서린</font>
 2019 발렌타인 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=10095
 신사의
 2019 화이트데이 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=10096
 스위트
 2019 화이트데이 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20096
 자격
 2019 화이트데이 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20097
 오빠
 2019 화이트데이 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20098
 <font color='#43f6bd'>굿보이</font>
 2019 화이트데이 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=10099
 줄리의
 가정의 달 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=10100
 아론의
 가정의 달 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=10101
 테네브리스의
 가정의 달 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20099
 후견인
 가정의 달 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20100
 혈육
 가정의 달 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=20101
 애제자
 가정의 달 이벤트를 통해 획득한 칭호.
-이벤트 보상
+Event Rewards
 
 ID=109280
 <font color='#FFE08C'>숨겨진</font>
@@ -2976,137 +2976,137 @@ ID=209280
 ID=10102
 언럭키
 2019 그루톤 마트료시카 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20102
 그루톤
 2019 그루톤 마트료시카 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10103
 <font color='#D1B2FF'>너무너무</font>
 스텔라 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20103
 <font color='#D1B2FF'>행복해</font color='#D1B2FF'>
 스텔라 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10104
 <font color='#D1B2FF'>A.K.A</font>
 스텔라 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20104
 <font color='#D1B2FF'>댕라</font color='#D1B2FF'>
 스텔라 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10105
 <font color='#D1B2FF'>스텔라와</font>
 스텔라 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20105
 <font color='#D1B2FF'>영감님</font color='#D1B2FF'>
 스텔라 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10106
 <font color='#FFFF6C'>진짜</font>
 진 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20106
 <font color='#FFFF6C'>멋진</font color='#FFFF6C'>
 진 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10107
 <font color='#FFFF6C'>호피입은</font>
 진 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20107
 <font color='#FFFF6C'>진시황제</font color='#FFFF6C'>
 진 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10108
 <font color='#FFFF6C'>괜찮아</font>
 진 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20108
 <font color='#FFFF6C'>잘될거야</font color='#FFFF6C'>
 진 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10109
 <font color='#F49255'>하루하루</font>
 하루 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20109
 <font color='#F49255'>하루룽</font color='#F49255'>
 하루 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10110
 <font color='#F49255'>바람</font>
 하루 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20110
 <font color='#F49255'>하나 둘 셋</font color='#F49255'>
 하루 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10111
 <font color='#F49255'>벌써</font>
 하루 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20111
 <font color='#F49255'>죽은거야</font color='#F49255'>
 하루 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10112
 <font color='#58CED2'>천</font><font color='#5FD1D1'>일</font><font color='#67D9D9'>밤</font><font color='#6ADFD6'>을</font> <font color='#6DE2D9'>지</font><font color='#84EED8'>샌</font>
 서비스 1000일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20112
 <font color='#A2F4E8'>노</font><font color='#A2FBE7'>련</font><font color='#B9FEE9'>한</font> <font color='#CDFEE8'>영</font><font color='#CEFFE9'>웅</font>
 서비스 1000일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10113
 <font color='#CEFFE9'>2</font><font color='#CDFEE8'>천</font><font color='#B9FEE9'>일</font> <font color='#A2FBE7'>까</font><font color='#A2F4E8'>지</font>
 서비스 1000일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20113
 <font color='#84EED8'>숨</font> <font color='#6DE2D9'>참</font><font color='#6ADFD6'>는</font><font color='#67D9D9'>다</font>
 서비스 1000일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10114
 <font color='#CC4400'>부커스의</font>
 2019 에텔 코어 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20114
 <font color='#CC4400'>의뢰인</font>
 2019 에텔 코어 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20115
 <font color='#EFDECD'>채굴왕</font>
 2019 에텔 코어 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=109380
 <font color='#FF8224'>집결한</font>
@@ -3121,32 +3121,32 @@ ID=209380
 ID=10116
 <font color='#90021C'>슈퍼스타</font>
 이리스 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10117
 <font color='#90021C'>더 이상</font>
 이리스 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10118
 <font color='#90021C'>외모도</font>
 이리스 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20116
 <font color='#90021C'>지민이</font>
 이리스 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20117
 <font color='#90021C'>참지 않겠어</font>
 이리스 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20118
 <font color='#90021C'>성능</font>
 이리스 생일 이벤트를 통해 획득한 칭호
-이벤트 보상
+Event Rewards
 
 ID=10119
 <font color='#c9265d'>점</font><font color='#d1547e'>유</font><font color='#d17594'>율</font>
@@ -3191,12 +3191,12 @@ ID=20122
 ID=10123
 <font color='#00d600'>HAPPY</font>
 크리스마스를 기념하기 위한 칭호
-이벤트 보상
+Event Rewards
 
 ID=20123
 <font color='#ff0000'>X-MAS</font>
 크리스마스를 기념하기 위한 칭호
-이벤트 보상
+Event Rewards
 
 ID=100408
 비탄 섞인 소녀의
@@ -3422,5 +3422,3 @@ ID=208291
 섬창
 한 차원 높은 힘이 느껴집니다.
 퀘스트 [격변하는 쇄신의 섬창] 완료 보상
-
-

@@ -195,8 +195,8 @@ Quest
 Open or close the quest window.\nYou can check the quests in progress or already finished quests.
 
 ID=20016
-캐릭터 정보
-캐릭터 정보창을 열거나 닫습니다.\n캐릭터의 능력치를 확인하고 칭호 및 프로필, 장비 및 코스튬을 설정할 수 있습니다.
+Character Information
+Open or close the character info window.\nYou can check character stats, titles, profile, equipment and costumes.
 
 ID=20023
 Community
@@ -443,9 +443,11 @@ Raid Achievement
 Raid Achievements Completion Rate: {0}%
 
 ID=21005
+Zenny
 Goods used in-game shops and exchanges.\nCan be obtained from monster and Clearance rewards.
 
 ID=21006
+Ether
 This item is used to enhance and refine items.\nYou can obtain this item from monster, clearance and dismantling.
 
 ID=21007
@@ -583,5 +585,3 @@ Take Nightmare Gestures.
 ID=21023
 마일리지 포인트
 캐시 아이템 구매 시, 제공되는 재화로 마일리지 샵에서 상품을 구매할 수 있습니다.\n누적된 마일리지는 매월 1일 초기화 되며, 매월 말일 23시 59분까지 사용 가능합니다.
-
-
