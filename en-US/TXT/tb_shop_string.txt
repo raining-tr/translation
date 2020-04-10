@@ -44,10 +44,10 @@ ID=32
 Other
 
 ID=51
-소울 웨폰
+Soul Weapon
 
 ID=52
-기어
+Gear
 
 ID=53
 Costume
@@ -59,28 +59,28 @@ ID=55
 Pet
 
 ID=71
-소울 웨폰
+Soul Weapon
 
 ID=72
-기어
+Gear
 
 ID=73
 Accessory
 
 ID=74
-소비
+Consumption
 
 ID=75
 Akashik
 
 ID=76
-기타
+Other
 
 ID=99
 Token
 
 ID=111
-소울 웨폰
+Soul Weapon
 
 ID=112
 Sub Weapon
@@ -125,7 +125,7 @@ ID=136
 Pen
 
 ID=137
-학생증
+Student ID
 
 ID=210
 Set
@@ -185,55 +185,55 @@ ID=324
 Admission Ticket
 
 ID=511
-소울 웨폰
+Soul Weapon
 
 ID=521
-헤드 기어
+Head Gear
 
 ID=522
-숄더 기어
+Shoulder Gear
 
 ID=523
-바디 기어
+Body Gear
 
 ID=524
-레그 기어
+Leg Gear
 
 ID=531
-머리장식
+Headdress
 
 ID=532
-헤어/모자
+Hair/Hat
 
 ID=533
-눈
+Eye
 
 ID=534
-입
+Mouth
 
 ID=535
-손
+Hands
 
 ID=536
-속옷
+Underwear
 
 ID=537
-의상
+Outfit
 
 ID=538
-등
+Back
 
 ID=539
-다리
+Legs
 
 ID=540
-발
+Feet
 
 ID=541
-패밀리어
+Family language
 
 ID=551
-펫
+Pet
 
 ID=601
 Akashic Records
@@ -242,25 +242,25 @@ ID=711
 All
 
 ID=721
-전체
+All
 
 ID=731
-전체
+All
 
 ID=741
-전체
+All
 
 ID=751
-전체
+All
 
 ID=761
-전체
+All
 
 ID=999
-기타
+Other
 
 ID=1000
-전체
+All
 
 ID=1001
 Event
@@ -281,19 +281,19 @@ ID=1006
 Convenience
 
 ID=1101
-전체
+All
 
 ID=1201
 Special
 
 ID=1202
-코스튬
+Costume
 
 ID=1203
 My Room
 
 ID=1204
-기타
+Other
 
 ID=1301
 Head shape
@@ -317,7 +317,7 @@ ID=1403
 Head
 
 ID=1404
-손
+Hands
 
 ID=1405
 Shoes
@@ -326,10 +326,10 @@ ID=1406
 Styling
 
 ID=1407
-속옷
+Underwear
 
 ID=1408
-소울 웨폰
+Soul Weapon
 
 ID=1501
 Furniture
@@ -347,7 +347,7 @@ ID=1505
 prop
 
 ID=1506
-기타
+Other
 
 ID=1601
 Functional
@@ -359,37 +359,37 @@ ID=1603
 Potion
 
 ID=2100
-가구
+Furniture
 
 ID=2200
-외부
+Out
 
 ID=2250
 Inside / outside
 
 ID=2300
-내부
+Inside
 
 ID=2400
-욕실
+Bathroom
 
 ID=2500
-기타
+Other
 
 ID=2600
-기타
+Other
 
 ID=2700
-기타
+Other
 
 ID=2800
-기타
+Other
 
 ID=2900
-소품
+prop
 
 ID=2101
-전체
+All
 
 ID=2201
 mat
@@ -452,43 +452,43 @@ ID=3200
 Blueprint
 
 ID=3201
-전체
+All
 
 ID=3202
-매트
+mat
 
 ID=3203
-침대
+bed
 
 ID=3204
-의자
+chair
 
 ID=3205
-테이블
+table
 
 ID=3206
-욕조
+tub
 
 ID=3207
-샤워부스
+Shower booth
 
 ID=3208
-창문
+window
 
 ID=3209
-문
+door
 
 ID=3210
-테라스 문
+Terrace door
 
 ID=3211
-벽지
+wallpaper
 
 ID=3212
-타일
+tile
 
 ID=3213
-소품
+prop
 
 ID=3300
 Cultivate
@@ -497,28 +497,28 @@ ID=3301
 seed
 
 ID=3302
-기타
+Other
 
 ID=763
-피부색
+Skin Color
 
 ID=764
 Tattoo
 
 ID=765
-속옷
+Underwear
 
 ID=771
-전체
+All
 
 ID=800
-이벤트
+Event
 
 ID=801
 Limited Title
 
 ID=4000
-소울 웨폰
+Soul Weapon
 
 ID=4001
 Sword
@@ -530,7 +530,7 @@ ID=4003
 Scythe
 
 ID=4004
-기타
+Other
 
 ID=4005
 Gauntlet
@@ -539,19 +539,19 @@ ID=4006
 Hammer
 
 ID=4100
-기어
+Gear
 
 ID=4101
-헤드 기어
+Head Gear
 
 ID=4102
-숄더 기어
+Shoulder Gear
 
 ID=4103
-바디 기어
+Body Gear
 
 ID=4104
-레그 기어
+Leg Gear
 
 ID=4110
 Material processing
@@ -572,49 +572,49 @@ ID=4115
 Quest Production
 
 ID=4116
-코스튬
+Costume
 
 ID=4150
-코스튬
+Costume
 
 ID=4151
-머리장식
+Headdress
 
 ID=4152
-눈
+Eye
 
 ID=4153
-입
+Mouth
 
 ID=4154
-의상
+Outfit
 
 ID=4155
-손
+Hands
 
 ID=4156
-발
+Feet
 
 ID=4157
 suit
 
 ID=4201
-검
+Sword
 
 ID=4202
-권총
+Pistol
 
 ID=4203
-낫
+Scythe
 
 ID=4204
-기타
+Other
 
 ID=4205
-권갑
+Gauntlet
 
 ID=4206
-해머
+Hammer
 
 ID=4211
 pendant
@@ -653,7 +653,7 @@ ID=4402
 Defense equipment
 
 ID=4500
-기타
+Other
 
 ID=4501
 Repair tools
@@ -701,13 +701,13 @@ ID=4806
 Fragment of Poison
 
 ID=5000
-소비
+Consumption
 
 ID=5001
 ticket
 
 ID=5003
-코스튬
+Costume
 
 ID=5004
 Akashik Records
@@ -722,28 +722,28 @@ ID=5101
 function
 
 ID=5102
-아카식레코드
+Akashik Records
 
 ID=5103
 Brooch
 
 ID=5104
-속옷
+Underwear
 
 ID=5105
-설계도
+Blueprint
 
 ID=5106
 Random box
 
 ID=5107
-상의
+Top
 
 ID=5108
-하의
+Bottom
 
 ID=5109
-신발
+Shoes
 
 ID=5110
 Parts
@@ -758,10 +758,10 @@ ID=6002
 Stamina
 
 ID=6003
-파츠
+Parts
 
 ID=3997
-회복
+Recovery
 
 ID=3998
 Health recovery
@@ -770,94 +770,94 @@ ID=3999
 SG Recovery
 
 ID=4601
-코스튬
+Costume
 
 ID=4602
-아카식 레코드
+Akashic Records
 
 ID=4603
-브로치
+Brooch
 
 ID=4604
-기능성
+Functional
 
 ID=5201
 Start
 
 ID=5202
-패키지
+Package
 
 ID=5203
-패션
+Fashion
 
 ID=5204
-외형
+Appearance
 
 ID=5205
-편의
+Convenience
 
 ID=5301
 -
 
 ID=5302
-이벤트
+Event
 
 ID=5303
-코스튬
+Costume
 
 ID=5304
-브로치
+Brooch
 
 ID=5305
-아카식
+Akashik
 
 ID=5306
 Upper and lower
 
 ID=5307
-상의
+Top
 
 ID=5308
-하의
+Bottom
 
 ID=5309
-손
+Hands
 
 ID=5310
-신발
+Shoes
 
 ID=5311
 Amount - say
 
 ID=5312
-모자
+Head
 
 ID=5313
 glasses
 
 ID=5314
-기타
+Other
 
 ID=5315
 Eye color
 
 ID=5316
-머리모양
+Head shape
 
 ID=5317
-머리색
+Hair color
 
 ID=5318
-피부색
+Skin Color
 
 ID=5319
-기능성
+Functional
 
 ID=5320
-브로치
+Brooch
 
 ID=5321
-아카식
+Akashik
 
 ID=5322
 Combat aid
@@ -872,28 +872,28 @@ ID=7002
 Tags Smelting
 
 ID=8001
-이벤트
+Event
 
 ID=8002
-패키지
+Package
 
 ID=8003
-외형
+Appearance
 
 ID=8004
-패션
+Fashion
 
 ID=8005
-인테리어
+Interior
 
 ID=8006
-편의
+Convenience
 
 ID=1010
-이벤트
+Event
 
 ID=1020
-코스튬
+Costume
 
 ID=1030
 telautograph
@@ -902,40 +902,40 @@ ID=1040
 Photo
 
 ID=1050
-편의
+Convenience
 
 ID=1060
 beauty
 
 ID=1070
-마이룸
+My Room
 
 ID=1011
-전체
+All
 
 ID=1021
-패키지
+Package
 
 ID=1022
-상하의
+Upper and lower
 
 ID=1023
-상의
+Top
 
 ID=1024
-하의
+Bottom
 
 ID=1025
-신발
+Shoes
 
 ID=1026
-속옷
+Underwear
 
 ID=1027
-기타
+Other
 
 ID=1031
-아카식
+Akashik
 
 ID=1032
 tag
@@ -953,49 +953,49 @@ ID=1036
 SIN
 
 ID=1037
-브로치
+Brooch
 
 ID=1041
-전체
+All
 
 ID=1051
-기능성
+Functional
 
 ID=1052
-소모품
+Expendables
 
 ID=1061
-머리모양
+Head shape
 
 ID=1062
-머리색
+Hair color
 
 ID=1063
-눈색
+Eye color
 
 ID=1064
-피부색
+Skin Color
 
 ID=1071
-패키지
+Package
 
 ID=1072
-가구
+Furniture
 
 ID=1073
-문
+door
 
 ID=1074
-창문
+window
 
 ID=1075
-벽지
+wallpaper
 
 ID=1076
 floor
 
 ID=1077
-기능성
+Functional
 
 ID=9000
 Quest
@@ -1004,7 +1004,7 @@ ID=9001
 General
 
 ID=9100
-패밀리어
+Family language
 
 ID=9101
 A type
@@ -1016,43 +1016,43 @@ ID=9103
 C type
 
 ID=9200
-기타
+Other
 
 ID=9201
-기타
+Other
 
 ID=10000
 Popular Costumes
 
 ID=10100
-상하의
+Upper and lower
 
 ID=10200
-상의
+Top
 
 ID=10300
-하의
+Bottom
 
 ID=10400
-손
+Hands
 
 ID=10500
-발
+Feet
 
 ID=10600
-기타
+Other
 
 ID=9400
-기능
+function
 
 ID=9401
-랜덤박스
+Random box
 
 ID=9402
 Material
 
 ID=8007
-태그
+tag
 
 ID=8008
 Offensive Tag
@@ -1061,13 +1061,13 @@ ID=8009
 Defensive Tag
 
 ID=5099
-입장권
+Admission Ticket
 
 ID=4007
 Degree
 
 ID=4207
-도
+Degree
 
 ID=4307
 Chii
@@ -1142,13 +1142,13 @@ ID=8027
 Exchange
 
 ID=9011
-아카식
+Akashik
 
 ID=9012
-브로치
+Brooch
 
 ID=9013
-태그
+tag
 
 ID=8028
 Lofty night
@@ -1163,24 +1163,22 @@ ID=8030
 Material exchange
 
 ID=4900
-가공
+Processing
 
 ID=4901
-가공
+Processing
 
 ID=4008
 Window
 
 ID=4208
-창
+Window
 
 ID=4308
 Ephnel
 
 ID=9014
-이벤트
+Event
 
 ID=9015
-구입
-
-
+Purchase
