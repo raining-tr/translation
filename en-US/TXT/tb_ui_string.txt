@@ -161,10 +161,10 @@ ID=102
 Fashion
 
 ID=103
-일반
+General
 
 ID=104
-패션
+Fashion
 
 ID=105
 Gear
@@ -254,10 +254,10 @@ ID=133
 Debuff
 
 ID=134
-제작
+Craft
 
 ID=135
-강화
+Enhance
 
 ID=136
 Repair
@@ -266,7 +266,7 @@ ID=137
 Buy back
 
 ID=138
-스킬
+Skill
 
 ID=139
 Akashik Records
@@ -311,10 +311,10 @@ ID=152
 Below Rare
 
 ID=171
-소울 웨폰
+Soul Weapon
 
 ID=172
-서브 웨폰
+Sub Weapon
 
 ID=173
 Personal Card
@@ -323,16 +323,16 @@ ID=174
 Soul Cartridge
 
 ID=175
-소울 팬던트
+Soul Pendant
 
 ID=176
-소울 기어
+Soul Gear
 
 ID=177
-소울 이어링
+Soul Earring
 
 ID=178
-소울 링
+Soul Ring
 
 ID=179
 Soul Charm
@@ -428,7 +428,7 @@ ID=311
 Select to repair an item.
 
 ID=312
-구입
+Purchase
 
 ID=313
 Enter the number of items you want to sell.
@@ -473,7 +473,7 @@ ID=334
 Purchased {0} for {1}.
 
 ID=335
-The selected item can not be equipped nor used by you. \nAre you sure you want to buy it?
+선택하신 아이템은 착용 및 사용 불가능한 아이템입니다. 구입하시겠습니까?
 
 ID=336
 Sold {0} for {1}.
@@ -506,7 +506,7 @@ ID=345
 You will earn {0} from selling the selected items.
 
 ID=346
-The selection contains at least one <font color='#A566FF'>highly-valued</font> item.\nYou will earn {0} from the sale.\nAre you sure you want to sell them?
+판매하려는 아이템 중  <font color='#A566FF'>높은 가치의 아이템</font>이  있습니다. 판매 시 {0}를 획득할 수 있습니다. 판매하시겠습니까?
 
 ID=351
 Junk
@@ -587,7 +587,7 @@ ID=380
 Clear
 
 ID=381
-슬롯 확장
+Slot Expansion
 
 ID=382
 Friend Point: 
@@ -650,10 +650,10 @@ ID=410
 Delete
 
 ID=411
-제작
+Craft
 
 ID=412
-강화
+Enhance
 
 ID=413
 Dismantle
@@ -662,7 +662,7 @@ ID=414
 Manage Sockets
 
 ID=415
-수리
+Repair
 
 ID=416
 Register Trade
@@ -674,7 +674,7 @@ ID=418
 Evolution
 
 ID=419
-브로치 관리
+Manage Brooches
 
 ID=420
 Equip (Visual)
@@ -704,7 +704,7 @@ ID=434
 Show items within 4 level difference
 
 ID=435
-착용 가능한 아이템만 보기
+Display usable items only
 
 ID=436
 Basic Material
@@ -824,7 +824,7 @@ ID=481
 Max. Combo
 
 ID=482
-Clearn\nReward
+완료보상
 
 ID=483
 Play Reward
@@ -935,16 +935,16 @@ ID=521
 Leave
 
 ID=522
-리더 위임
+Appoint as Leader
 
 ID=523
 Expel
 
 ID=524
-수락
+Accept
 
 ID=525
-거절
+Refuse
 
 ID=531
 OFFLINE
@@ -956,10 +956,10 @@ ID=537
 A
 
 ID=538
-일반
+General
 
 ID=539
-거래
+Trade
 
 ID=540
 Party
@@ -968,7 +968,7 @@ ID=541
 Guild
 
 ID=542
-귓속말
+Whisper
 
 ID=546
 [{0}] whispers: 
@@ -983,10 +983,10 @@ ID=549
 To
 
 ID=551
-You have been invited to a Party by {0}.\nDo you want to join the party?\n({1} seconds remaining)
+{0}님이 파티에 초대했습니다. 파티에 합류하시겠습니까?\n-남은 시간 {1}초-
 
 ID=552
-If you leave the Party, you will be transferred back to town.\nAre you sure you want to leave?
+파티를 탈퇴하면, 디스트릭트로 이동합니다. 탈퇴 하시겠습니까?
 
 ID=553
 You have left the Party, and will be transferred back to town.\n({0} seconds remaining)
@@ -1049,7 +1049,7 @@ ID=581
 Obtained Items
 
 ID=582
-사용
+Use
 
 ID=583
 Obtained {0}
@@ -1154,7 +1154,7 @@ ID=623
 Critical Hit
 
 ID=624
-마법 치명타 확률[%]
+Magical Critical Hit
 
 ID=625
 Critical Damage
@@ -1181,13 +1181,13 @@ ID=632
 Special Abnormal State Resistance
 
 ID=640
-정보 보기
+Show Info
 
 ID=641
-친구 등록
+Add as Friend
 
 ID=642
-귓속말
+Whisper
 
 ID=643
 Trade
@@ -1247,7 +1247,7 @@ ID=677
 Obtained: {0} EXP [ X {1} times]
 
 ID=678
-[{0}]의 공격으로 인해 힘이 다했습니다.
+You have been incapacitated by [{0}] attack.
 
 ID=679
 {1} have been killed by [{0}] attack.
@@ -1316,7 +1316,7 @@ ID=725
 Decline [Back]
 
 ID=726
-{0} 제니
+{0} Zenny
 
 ID=727
 {0} EXP
@@ -1496,7 +1496,7 @@ ID=787
 Move Cursor to aim
 
 ID=788
-충전 후 스킬 사용
+Charge after Skill use.
 
 ID=789
 Target Enemy
@@ -1568,7 +1568,7 @@ ID=812
 You can attach a Socket Item (Familiar/Soulstone).
 
 ID=813
-You do not have the funds or the required item for attaching the Socket.
+소켓 장착에 필요한\n아이템 또는 수수료가 부족합니다.
 
 ID=814
 Fee
@@ -1592,10 +1592,10 @@ ID=820
 Manage Socket Items
 
 ID=821
-You can either remove the attached Socket Item (Familiar/Soulstone), or add a new Socket.
+소켓에 장착중인 소켓 아이템(패밀리어/소울스톤)을 제거하거나, \n새로운 소켓을 추가할 수 있습니다.
 
 ID=822
-You do not have the required item nor funds for releasing item.
+아이템을 제거하는데 필요한 \n아이템 또는 수수료가 부족합니다.
 
 ID=823
 You do not have the required item, "Implant Slot", to add a new Socket.
@@ -1640,7 +1640,7 @@ ID=836
 Body
 
 ID=837
-다리
+Legs
 
 ID=838
 Neck
@@ -1652,7 +1652,7 @@ ID=840
 Finger
 
 ID=851
-파티원
+Party Members
 
 ID=852
 Guild
@@ -1673,25 +1673,25 @@ ID=861
 Entered CH {0}.
 
 ID=865
-무기
+Weapon
 
 ID=866
-머리
+Head
 
 ID=867
 Head
 
 ID=868
-눈
+Eyes
 
 ID=869
-입
+Mouth
 
 ID=870
 Top
 
 ID=871
-손
+Hands
 
 ID=872
 Bottom
@@ -1706,10 +1706,10 @@ ID=875
 Tights/Socks
 
 ID=876
-등
+Back
 
 ID=877
-속옷
+Underwear
 
 ID=878
 <font color='#FF0000'>Cannot be stored</font>
@@ -1727,7 +1727,7 @@ ID=884
 Are you sure that you want to dismantle the selected items?
 
 ID=885
-The selection contains at least one <font color='#A566FF'>high-grade item</font>.\nDismantled items cannot be recovered.\nAre you sure you want to dismantle them?
+분해 대상 아이템 중  <font color='#A566FF'>높은 가치의 아이템</font>이 있습니다.\n확인 버튼을 누르면 선택한 아이템들이 분해되며, 해당 아이템들은 되돌릴 수 없습니다. 분해하시겠습니까?
 
 ID=886
 You do not have enough {0}, therefore it cannot be dismantled.
@@ -1739,13 +1739,13 @@ ID=888
 MAX
 
 ID=891
-This item bounds on equip.\nAre you sure you want to equip the item?
+아이템을 착용 시 귀속됩니다. 착용하시겠습니까?
 
 ID=900
-캐릭터 정보
+Character Information
 
 ID=901
-캐릭터
+Character
 
 ID=902
 Lvl
@@ -1874,13 +1874,13 @@ ID=943
 Bounded Item
 
 ID=946
-<font color='#FF0000'>판매 불가</font>
+<font color='#FF0000'>Unsellable</font>
 
 ID=947
 <font color='#FF0000'>Indestructible</font>
 
 ID=951
-강화
+Enhance
 
 ID=952
 Exchange
@@ -1895,7 +1895,7 @@ ID=955
 Enhancement Level
 
 ID=956
-강화 재료
+Enhancement Material
 
 ID=957
 {1}/{2}
@@ -1928,7 +1928,7 @@ ID=966
 Can be used on +4 and above.
 
 ID=967
-강화
+Enhance
 
 ID=968
 Select an item to exchange.
@@ -1946,7 +1946,7 @@ ID=972
 Max
 
 ID=973
-교환
+Exchange
 
 ID=974
 Obtained: 
@@ -1970,7 +1970,7 @@ ID=980
 If the enhancement fails, there is a chance that the item will break.\nAre you sure you want to enhance the item?\nIf you use a Anti-Destruction the item won't be destroyed.
 
 ID=981
-진화
+Evolution
 
 ID=982
 The item is protected.
@@ -2000,7 +2000,7 @@ ID=990
 Upon successful evolution, the Enhancement Level is reset.
 
 ID=991
-진화
+Evolution
 
 ID=992
 The item that you are wearing can not be enhanced.
@@ -2054,10 +2054,10 @@ ID=1013
 Wild Long Hair
 
 ID=1014
-헤어 4
+Hair 4
 
 ID=1015
-헤어 5
+Hair 5
 
 ID=1021
 Twisted Twintail
@@ -2069,10 +2069,10 @@ ID=1023
 Natural Twintail
 
 ID=1024
-헤어 4
+Hair 4
 
 ID=1025
-헤어 5
+Hair 5
 
 ID=1031
 Slick Back
@@ -2084,10 +2084,10 @@ ID=1033
 Sports Hair
 
 ID=1034
-헤어 4
+Hair 4
 
 ID=1035
-헤어 5
+Hair 5
 
 ID=1041
 Bottom Bind
@@ -2099,10 +2099,10 @@ ID=1043
 Middle Bind
 
 ID=1044
-헤어 4
+Hair 4
 
 ID=1045
-헤어 5
+Hair 5
 
 ID=1051
 Wild Long
@@ -2111,13 +2111,13 @@ ID=1052
 Partially Long
 
 ID=1053
-세미펌 롱 헤어 
+Semi Long
 
 ID=1054
-헤어 4
+Hair 4
 
 ID=1055
-헤어 5
+Hair 5
 
 ID=1101
 Select Appearance
@@ -2132,10 +2132,10 @@ ID=1104
 Character Preview
 
 ID=1105
-의상
+Outfit
 
 ID=1106
-무기
+Weapon
 
 ID=1107
 Voice
@@ -2249,6 +2249,7 @@ ID=1316
 Exit
 
 ID=1317
+Clear
 
 ID=1318
 {0} Stage
@@ -2380,10 +2381,10 @@ ID=2102
 Add as Friend
 
 ID=2103
-파티
+Party
 
 ID=2104
-리그
+Guild
 
 ID=2105
 Blacklist
@@ -2395,7 +2396,7 @@ ID=2107
 Offline ({0})
 
 ID=2108
-캐릭터 이름
+Character Name
 
 ID=2109
 Search
@@ -2416,13 +2417,13 @@ ID=2114
 Add to friends
 
 ID=2115
-파티 초대
+Party Invite
 
 ID=2116
-파티 탈퇴
+Leave Party
 
 ID=2117
-귓속말
+Whisper
 
 ID=2118
 Remove friend
@@ -2431,25 +2432,25 @@ ID=2119
 Block Enrollment
 
 ID=2120
-차단
+Block
 
 ID=2121
-취소
+Cancel
 
 ID=2122
-LV.{0}
+Lv.{0}
 
 ID=2123
 CH.{0}
 
 ID=2124
-{0} has sent you a friend request.\nDo you want to accept?
+{0} 님이\n친구요청을 했습니다.\n수락하시겠습니까?
 
 ID=2125
 {0} is registered as a friend.
 
 ID=2126
-Are you sure you want to delete {0} from your friends list?
+{0} 님을\n친구목록에서 삭제 하시겠습니까?
 
 ID=2127
 {0} has been removed from your friends list.
@@ -2503,7 +2504,7 @@ ID=2212
 Mail Fee
 
 ID=2213
-제니
+Zenny
 
 ID=2214
 Untitled
@@ -2527,7 +2528,7 @@ ID=2220
 Received Time
 
 ID=2221
-{0}시간 {1}분
+{0} hours {1} minutes
 
 ID=2222
 Claim Zenny
@@ -2548,7 +2549,7 @@ ID=2227
 Remaining Storage Period
 
 ID=2228
-{0}-{1}-{2} {3}시 {4}분
+{0}-{1}-{2} {3} hours {4} minutes
 
 ID=2229
 Management Team
@@ -2557,13 +2558,13 @@ ID=2230
 [Reply]
 
 ID=2241
-초기화
+Reset
 
 ID=2242
 Send
 
 ID=2243
-취소
+Cancel
 
 ID=2244
 Claim 
@@ -2575,7 +2576,7 @@ ID=2246
 Open
 
 ID=2247
-삭제
+Delete
 
 ID=2248
 Reply
@@ -2662,7 +2663,7 @@ ID=2284
 Preview
 
 ID=2500
-커뮤니티
+Community
 
 ID=2501
 Online
@@ -2680,7 +2681,7 @@ ID=2505
 CH.{0}
 
 ID=2506
-LV.{0}
+Lv.{0}
 
 ID=2520
 Find Friends
@@ -2689,13 +2690,13 @@ ID=2521
 Post Recruitment
 
 ID=2522
-캐릭터
+Character
 
 ID=2523
-레벨
+Lvl
 
 ID=2524
-검색
+Search
 
 ID=2525
 Suggested friend of the day
@@ -2719,19 +2720,19 @@ ID=2544
 Offline ({0})
 
 ID=2545
-친구 찾기
+Find Friend
 
 ID=2546
-캐릭터 이름
+Character Name
 
 ID=2547
-친구 찾기
+Find Friend
 
 ID=2548
-친구 요청
+Friend Request
 
 ID=2560
-리그
+Guild
 
 ID=2561
 Guild Home
@@ -2740,19 +2741,19 @@ ID=2580
 Blacklist
 
 ID=2581
-차단 등록
+Block Enrollment
 
 ID=2582
-차단 등록
+Block Enrollment
 
 ID=2583
 Blocked User
 
 ID=2584
-차단
+Block
 
 ID=2585
-취소
+Cancel
 
 ID=3001
 [{0}] Items
@@ -2890,10 +2891,10 @@ ID=3060
 Register Product
 
 ID=3061
-등록 확인
+Confirm Registration
 
 ID=3062
-등록 취소
+Unregister
 
 ID=3063
 Are you sure you want to open a personal shop at your current location?
@@ -2953,7 +2954,7 @@ ID=3104
 Ranking Reward
 
 ID=3105
-아이템 획득
+Obtained Items
 
 ID=3106
 Completing {0} will award you the following rewards.
@@ -2977,7 +2978,7 @@ ID=3112
 EXP
 
 ID=3113
-제니
+Zenny
 
 ID=3114
 B.P
@@ -2986,7 +2987,7 @@ ID=3115
 Ether
 
 ID=3116
-칭호
+Title
 
 ID=3117
 Supporter
@@ -3022,7 +3023,7 @@ ID=4004
 Attribute Available
 
 ID=4005
-{0} Lv.{1} 습득가능
+Lv. {1} {0} Available
 
 ID=4006
 Break Skill Unlocked
@@ -3052,7 +3053,7 @@ ID=4014
 Obtain Memorial
 
 ID=4015
-{0} 획득
+Obtained {0}
 
 ID=4016
 Received Friend Request
@@ -3061,7 +3062,7 @@ ID=4017
 You received {0} friend requests.
 
 ID=4018
-점유율 달성
+Clearance Level Up
 
 ID=4019
 {0} Clearance: {1}%
@@ -3088,7 +3089,7 @@ ID=5002
 Cooldown: 
 
 ID=5003
-초
+s
 
 ID=5004
 COST : 
@@ -3148,12 +3149,10 @@ ID=5200
 Sign in for your account
 
 ID=5201
-
 ID
 
 ID=5202
-Please enter your 
-ID.
+Please enter your ID.
 
 ID=5203
 Password
@@ -3180,7 +3179,7 @@ ID=5302
 Server status
 
 ID=5303
-캐릭터
+Character
 
 ID=5304
 Server connection [ENTER]
@@ -3204,7 +3203,7 @@ ID=5310
 New character
 
 ID=5311
-캐릭터 삭제
+Delete characters
 
 ID=5312
 Deleted characters cannot be recovered.\n Do you really want to delete the character?
@@ -3264,7 +3263,7 @@ ID=5339
 Bible
 
 ID=5400
-캐릭터 선택
+Character Selection
 
 ID=5401
 Next step
@@ -3279,7 +3278,7 @@ ID=5404
 Class Data
 
 ID=5405
-캐릭터 정보
+Character Information
 
 ID=5406
 Difficulty
@@ -3297,7 +3296,7 @@ ID=5410
 Battle
 
 ID=5411
-스킬
+Skill
 
 ID=5440
 This weapon is a sword.\nStandard style with excellent stability.
@@ -3348,7 +3347,7 @@ ID=5483
 You can only select an empty slot.\nIf there is no empty slot on page 1\nplease delete a character and try again.
 
 ID=5484
-If there is an empty slot on page 1, you can click the Move button to move the\ncharacter and then access it.
+1페이지에 위치한 캐릭터만 접속 가능합니다.\n1페이지에 빈 슬롯이 있을 경우, 이동 버튼을 클릭하여\n캐릭터를 이동시킨 후, 접속할 수 있습니다.
 
 ID=5485
 Move characters
@@ -3363,7 +3362,7 @@ ID=5488
 Guide to character cleanup period
 
 ID=5500
-미리보기
+Preview
 
 ID=5501
 Costume Preview
@@ -3375,7 +3374,7 @@ ID=5503
 Listen to your voice
 
 ID=5504
-듣기
+Listen
 
 ID=5505
 Action Preview
@@ -3384,40 +3383,40 @@ ID=5506
 Play
 
 ID=5507
-외형 선택
+Select Appearance
 
 ID=5508
 Hair color
 
 ID=5509
-눈 색
+Eye Color
 
 ID=5510
-피부색
+Skin Color
 
 ID=5511
 Choose your default outfit
 
 ID=5512
-속옷
+Underwear
 
 ID=5513
-생성 완료
+Creation Complete
 
 ID=5514
-이전 단계
+The previous steps
 
 ID=5515
-캐릭터 이름
+Character Name
 
 ID=5516
 2-12 characters can be entered
 
 ID=5517
-초기화
+Reset
 
 ID=5518
-무작위
+Random
 
 ID=5519
 Character appearance settings
@@ -3609,34 +3608,34 @@ ID=5862
 <font color='#FFFFFF'><font size="30">TIP。 </font><font color='#00D8FF'>Hard, Maniac</font> modes have stronger enemies, and better rewards. 
 
 ID=5863
-<font color='#FFFFFF'><font size="30">TIP。</font>기본적인 장비 아이템은 각 디스트릭트의 <font color='#00ff9c'>자이트</font>에게서 구입 하실 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>Basic equipment for each District <font color='#00ff9c'>Zaito </font>Can be bought from.
 
 ID=5864
-<font color='#FFFFFF'><font size="30">TIP。</font>기본적인 소비 아이템은 각 디스트릭트의 <font color='#00ff9c'>요미</font>에게서 구입 하실 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>Basic consumables can be bought at <font color='#00ff9c'>Yomi</font> in each town.
 
 ID=5865
-<font color='#FFFFFF'><font size="30">TIP。</font>상점에서 무기의 내구도를 <font color='#00D8FF'>[수리]</font>하거나 아이템을 <font color='#00D8FF'>[분해]</font>할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>Various shops in towns can <font color='#00D8FF'>[Repair]</font>your equipment or <font color='#00D8FF'>[Dismantle]</font> them.
 
 ID=5866
-<font color='#FFFFFF'><font size="30">TIP。</font>기능성 NPC를 많이 이용할 수록 <font color='#00D8FF'>[고객 등급]</font>이 향상 됩니다. 고객 등급이 높아지면 NPC의 기능이 향상 됩니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>Using functional NPCs, will increase the <font color='#00D8FF'>[VIP Level]</font>This will improve Higher customer ratings and improve NPCs.
 
 ID=5867
-<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00ff9c'>[트리샤]</font>를 통해서 무기 또는 기어를 <font color='#00D8FF'>[강화] [교환]</font> 할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00ff9c'>[Trisha]</font>Weapons or Armor<font color='#00D8FF'>[Enchance] [Exchange]</font>You can.
 
 ID=5868
-<font color='#FFFFFF'><font size="30">TIP。</font>아이템 성능이 마음에 들지 않는다면 <font color='#00D8FF'>강화</font>를 통해 업그레이드를 하거나 <font color='#00D8FF'>분해</font>하여 강화 혹은 제작 아이템을 입수할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>If you don't like the performance of your item, you upgrade via<font color='#00D8FF'>Enhance</font>or<font color='#00D8FF'>Disassemble</font>to get Enhancement or Crafting Items.
 
 ID=5869
-<font color='#FFFFFF'><font size="30">TIP。</font><font color='#B2EBF4'>[제니스]</font>를 통해서 무기나 기어 또는 코스튬을 <font color='#00D8FF'>[제작]</font> 할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#B2EBF4'>[Zenith]</font>allows you to<font color='#00D8FF'>[create]</font> gear, weapons or costumes.
 
 ID=5870
-<font color='#FFFFFF'><font size="30">TIP。</font> <font color='#00ff9c'>H.E.M.S</font> 단말기를 통해 상대방에게 편지를 보낼 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font> <font color='#00ff9c'>H.E.M.S</font> You can send a letter to the other party via your device.
 
 ID=5871
-<font color='#FFFFFF'><font size="30">TIP。</font>각 디스트릭트의 <font color='#00ff9c'>오든</font>을 통해서 <font color='#00D8FF'>아이템</font>을 맡길 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>Each Town has<font color='#00ff9c'>Ordon</font>, you can store<font color='#00D8FF'>Items and Zenny</font>at his place.
 
 ID=5872
-<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00ff9c'>미니맵</font>을 통해서 자신의 위치와 <font color='#00D8FF'>NPC</font> 위치, 그리고 <font color='#00D8FF'>메이즈</font>의 위치를 확인할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00ff9c'>Minimap</font>is used to find your location,<font color='#00D8FF'>NPC</font>location, and<font color='#00D8FF'>Dungeon</font>location.
 
 ID=5873
 <font color='#FFFFFF'><font size="30">TIP。 </font>By pressing <font color='#00ff9c'>[L]</font> you can see your <font color='#00D8FF'>[Achievements][Clearance progress]</font>
@@ -3645,76 +3644,76 @@ ID=5874
 <font color='#FFFFFF'> <font size="30"> TIP。 </font> You can collect rewards depending on your <font color='#00D8FF'>Progress info [L]</font>
 
 ID=5876
-<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>아카식 레코드</font> 중에는 슬롯에 등록된 상태에서 자동으로 효과가 발생하는 것도 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>Akashik Records</font>, in some cases, the effect is automatically generated while registered in the slot.
 
 ID=5877
-<font color='#FFFFFF'><font size="30">TIP。</font>새로운 퀘스트가 발생했을 때 표시는 <font color='#fff94a'>[<font size="30">!</font>]</font> 완료 가능한 퀘스트는 <font color='#fff94a'>[<font size="30">?</font>]</font>로 표시 됩니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>When a new quest occurs, the display<font color='#fff94a'>[<font size="30">!</font>]</font>appears. Complete quests are displayed as<font color='#fff94a'>[<font size="30">?</font>]</font>.
 
 ID=5878
-<font color='#FFFFFF'><font size="30">TIP。</font>자신이 받은 퀘스트는 화면 우측 <font color='#00D8FF'>퀘스트 알림</font> 또는 단축키 <font color='#00ff9c'>[J]</font>로 퀘스트 정보를 연 후 확인이 가능합니다. 
+<font color='#FFFFFF'><font size="30">TIP。</font>The quest you received is on the right side of the screen<font color='#00D8FF'>Quest notifications</font>Or shortcuts<font color='#00ff9c'>[J]</font>you can check the quest information.
 
 ID=5879
-<font color='#FFFFFF'><font size="30">TIP。</font>게임의 전반적인 설정은 단축키<font color='#00ff9c'>[ESC]</font>를 입력하여, <font color='#00D8FF'>[환경 설정]</font> 탭에서 설정 변경이 가능합니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>The overall setting of the game is shortcuts<font color='#00ff9c'>[ESC]</font>by entering,<font color='#00D8FF'>[Preferences]</font>You can change settings on the tab.
 
 ID=5880
-<font color='#FFFFFF'><font size="30">TIP。</font>커뮤니티에서는 <font color='#00D8FF'>[친구]</font>와 관련된 기능을 사용 할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>In the community,<font color='#00D8FF'>[Friends]</font>you can use the features associated with it.
 
 ID=5881
 <font color='#FFFFFF'> <font size="30"> TIP。 </font> <font color='#00D8FF'>[Skill] [Akashik Record]</font> can be set as quick slots by pressing <font color='#00ff9c'>[K]</font>
 
 ID=5882
-<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>스킬덱</font>을 사용하면 전투에 도움이 되는 효과를 얻을 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>Skill Deck</font>can help you in battle.
 
 ID=5883
 <font color='#FFFFFF'><font size="30">TIP。</font>Increasing the level of your <font color='#00D8FF'>Passive skills</font> will help you in combat.
 
 ID=5884
-<font color='#FFFFFF'><font size="30">TIP。</font>좌측 하단의 <font color='#00D8FF'>통합 알림 창</font>을 통해 자신의 진행 상황을 확인할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>Bottom left<font color='#00D8FF'>Integrated notification window</font>to see your progress.
 
 ID=5885
-<font color='#FFFFFF'><font size="30">TIP。</font>자신에게 적용하거나 보여질 <font color='#00D8FF'>칭호</font>를 자유롭게 설정할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>You can set your<font color='#00D8FF'>Title</font>freely in the personal information.
 
 ID=5886
-<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>메이즈 점유율</font>이나 <font color='#00D8FF'>디스트릭트 점유율</font>에 따라 보상을 획득할 수 있습니다..
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>Dungeon result</font>or<font color='#00D8FF'>District result</font>you can earn rewards depending on..
 
 ID=5887
-<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>디스트릭트 점유율</font>은 소속된 메이즈의 점유율에 영향을 받습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>District Share</font>is affected by the share of the dungeon that belong to you.
 
 ID=5888
-<font color='#FFFFFF'><font size="30">TIP。</font>메이즈 입장 시 <font color='#00D8FF'>[자동파티매칭]</font>을 사용하시면, 자동으로 파티를 구성 할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>Entering The Dungeon<font color='#00D8FF'>[Automatic party matching]</font>You can organize your party automatically.
 
 ID=5889
-<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>캐릭터 정보</font> 창에서 자신의 프로필을 수정할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。 </font> you can modify your profile in the <font color='#00D8FF'>Character Information.</font>
 
 ID=5890
-<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00ff9c'>[Alt]</font>키를 입력하면 마우스 모드로 전환 됩니다.
+<font color='#FFFFFF'><font size="30">TIP。 </font> Press <font color='#00ff9c'>[Alt]</font> to switch to mouse mode.
 
 ID=5891
-<font color='#FFFFFF'><font size="30">TIP。</font>최종 레벨에 도달한 이후에는 </font> <font color='#00ff9c'>[계급]</font>이 적용 됩니다.
+<font color='#FFFFFF'><font size="30">TIP。 </font> After reaching level 55 </font><font color='#00ff9c'>[Rank]</font> will be applied.
 
 ID=5892
-<font color='#FFFFFF'><font size="30">TIP。</font>채널이 혼잡스럽다면 미니맵 상단의 <font color='#00D8FF'>채널 이동 기능</font>을 사용해 보세요.
+<font color='#FFFFFF'><font size="30">TIP。</font>If your channel is crowded, <font color='#00D8FF'>try </font>switching channel.
 
 ID=5893
-<font color='#FFFFFF'><font size="30">TIP。</font>부커스 포인트<font color='#00ff9c'>[B.P]</font>는 <font color='#00D8FF'>제 6구역</font> 혹은 <font color='#00D8FF'>스틸 그레이브</font>에서 획득할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>Booker Points<font color='#00ff9c'>[B.P]</font> is obtained from<font color='#00D8FF'>District 6</font> or <font color='#00D8FF'>Steel Grave</font>
 
 ID=5894
-<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>제 6구역</font>의 <font color='#00ff9c'>B.P 상점</font>에서는 특별한 아이템을 구입할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>District 6</font>of <font color='#00ff9c'>B.P shop</font>In you can buy special items.
 
 ID=5895
-<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>퀘스트 정보</font> 창에서 <font color='#00ff9c'>[데일리 미션]</font>을 확인할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>Quest Information</font> In the window <font color='#00ff9c'>[Daily mission]</font>You can check.
 
 ID=5896
-<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>데일리 미션</font> 에서 획득한 <font color='#00ff9c'>[그루톤 코인]</font>은 전용 상점에서 사용할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#00D8FF'>Daily mission</font> Obtained from <font color='#00ff9c'>[Glutton Coin]</font>Is available in dedicated stores.
 
 ID=5897
-<font color='#FFFFFF'><font size="30">TIP。</font>메이즈 내에서는 랜덤하게 </font><font color='#00D8FF'>[히든 미션]</font>이 발생합니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>Randomly in Dungeons </font><font color='#00D8FF'>[Hidden Mission]</font>appear.
 
 ID=5898
-<font color='#FFFFFF'><font size="30">TIP。</font>게임 진행 중 얻게되는 </font><font color='#00D8FF'>[서포터]</font>들을 메이즈에서 불러 보세요. 가끔은 엉뚱한 동료들을 만나게 됩니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>As you progress through the game, </font><font color='#00D8FF'>[Supporter]</font>you will be able to call them during Dungeons.
 
 ID=5899
-<font color='#FFFFFF'><font size="30">TIP。</font>친구가 자신의 서포터에게 사용할 수 있도록 <font color='#00ff9c'>이오</font>를 통해 </font><font color='#00D8FF'>오브</font>를 등록해 보세요.
+<font color='#FFFFFF'><font size="30">TIP。</font>Via <font color='#00ff9c'>Io</font>you can set supporters.</font> Try to registering a <font color='#00D8FF'>Orb</font>
 
 ID=5900
 <font color='#FFFFFF'> <font size="30"> TIP。</font> You can see your currently worn underwear by using a bathtub/shower booth!
@@ -3804,10 +3803,10 @@ ID=6012
 The summoning list is updated at midnight (24:00) daily.
 
 ID=6013
-레벨
+Lvl
 
 ID=6014
-등급
+Grade
 
 ID=6015
 [Friend]
@@ -3828,7 +3827,7 @@ ID=6020
 Do you want to discard\n{0} Akashik Record?
 
 ID=6021
-Are you sure you want to rent {0} {1} A.R Card?\nYou can rent them for {2} hours for {4} Zenny.\nYou currently have {3} Zenny.
+{0}님의 {1}\n아카식 레코드를 가져오시겠습니까?\n임대 기간: {2}시간   필요제니: {3}\n차감 후 보유제니: {4}
 
 ID=6022
 You have not selected your Akashik Record.
@@ -3933,7 +3932,7 @@ ID=6056
 Would you like to exchange {0} {1} for {2} {3}?
 
 ID=6057
-Register an Akashik Record card with the same star rating as the original card.
+각인 대상과 레어도가 같은\n아카식 레코드를 등록하세요.
 
 ID=6058
 Certain Akashik records are not available in your region.
@@ -3966,7 +3965,7 @@ ID=6904
 Apply later
 
 ID=6905
-프리 매치
+Pre Match
 
 ID=6906
 Searching for players
@@ -4308,7 +4307,7 @@ ID=8346
 31
 
 ID=8347
-일일 접속 보상
+Daily Login Reward
 
 ID=8348
 If you attend every day, you will be rewarded.
@@ -4341,7 +4340,7 @@ ID=9101
 Grass Cover Camp
 
 ID=9102
-마이룸
+My Room
 
 ID=9103
 Alice Breeze
@@ -4365,7 +4364,7 @@ ID=9109
 Special Dungeon
 
 ID=9110
-마이룸
+My Room
 
 ID=9201
 Test map
@@ -4380,7 +4379,7 @@ ID=9204
 District 6
 
 ID=9205
-캐주얼 레이드
+Casual Raid
 
 ID=9206
 Golden Citadel
@@ -4389,7 +4388,7 @@ ID=9207
 The Primal
 
 ID=9208
-프리 매치
+Pre Match
 
 ID=9209
 Battle coat
@@ -4398,7 +4397,7 @@ ID=9211
 Rocco Town
 
 ID=9212
-로코 타운
+Rocco Town
 
 ID=9221
 Steel Grave
@@ -4419,7 +4418,7 @@ ID=9301
 Candus City
 
 ID=9302
-캔더스 시티
+Candus City
 
 ID=9311
 N102 Shelter
@@ -4428,7 +4427,7 @@ ID=9321
 Front Line
 
 ID=9331
-네드 컴퍼니
+NED Company
 
 ID=9341
 Breakout
@@ -4437,7 +4436,7 @@ ID=9401
 Grace City
 
 ID=9402
-그레이스 시티
+Grace City
 
 ID=9411
 Cold Rain
@@ -4455,7 +4454,7 @@ ID=9501
 Ruin Fortress
 
 ID=9503
-루인 포트리스
+Ruin Fortress
 
 ID=9511
 Control Base
@@ -4533,7 +4532,7 @@ ID=9781
 Iron Castle
 
 ID=9782
-더 프라이멀
+The Primal
 
 ID=9783
 Last Carnival of Light
@@ -4617,7 +4616,7 @@ ID=9891
 Emergency location
 
 ID=9892
-디멘션 셔터
+Dimension Shutter
 
 ID=9981
 Shortcut to the Rocco Town Safe Area
@@ -4644,7 +4643,7 @@ ID=9988
 Golden Citadel Entrance
 
 ID=9989
-골든 시타델
+Golden Citadel
 
 ID=9990
 Omen coffin
@@ -4695,16 +4694,16 @@ ID=10025
 -
 
 ID=10031
-This is a basic strength training ground where you can test yourself to join the Star Forest League, where you can run light battle tests.
+별숲리그 가입을 위한 테스트가\n이루어지는 기초체력 훈련장으로\n가벼운 전투 테스트를 진행할 수\n있는 곳이다.
 
 ID=10032
-Construction site of Rocco Town, where construction is suspended.\n It's a public site where Ned Company tried to\n extract the soul buried underground.
+공사가 중단된 로코 타운의 건설 \n현장. 네드 컴퍼니가 지하에 매장\n된 소울을 추출하려 시도했던 공\n사 현장이다.
 
 ID=10033
 Abandoned Seventh Avenue Street in Rocco Town.\nYou must defend against the attack of Edgar's Combat Dolls,\nblock giant Suicide Dolls,\nand prevent city destruction.
 
 ID=10034
-The Maniac Edgar has created a own circus in the national Hospital and is threatening people.
+미치광이 베시 "피에로 에드가"가\n국립병원 안에서 자신만의 서커스\n단을 만든 뒤, 사람들을 위협하고\n있다.
 
 ID=10035
 -
@@ -4713,43 +4712,43 @@ ID=10036
 -
 
 ID=10041
-A top secret research facility where the Ned Company conducted secret research. The entire facility is now closed due to some accident.
+네드 컴퍼니가 비밀연구를 진행하\n던 극비 연구 시설. 현재 어떠한 사\n고로 인해 시설 전체가 폐쇄된 상\n태이다.
 
 ID=10042
-The highway near Candus City\n has been compromised and taken over by the Rapid Flame Fraction.\nThe Starry Forest League is currently recapturing the area.\nIn order to do so, we joined a operation with the NED company.
+베시 래피드플레임 세력이 점거해\n버린 캔더스 시티 인근의 고속도로.\n현재 별숲리그가 이 지역을 탈환하\n기 위해 네드 컴퍼니와 합동 작전을\n펼치려 하고 있다. 
 
 ID=10043
 NED Company West Branch Building\n was located in Candus City.\nRapid Flame forces\nand the Green Witch Poison\nare trying to take over this place.
 
 ID=10044
-A giant transport plane prepared by the Ned Company\naccording to Candus City's withdrawal plan.\nA huge water transport is preparing to take off from Candus City's underground secret containment.
+캔더스 시티의 철수 계획에 따라 네드\n컴퍼니가 마련한 거대 수송기. 거대 수\n송기는 캔더스 시티의 지하 비밀 격납\n고에서 이륙을 준비 중인 상태이다.
 
 ID=10051
-Small town outside of Grace City. Currently,\nthis place has been devastated by Rapid Flame's new weapons.\nStar Forest League is trying to identify the new weapon through force.
+그레이스 시티 외곽의 소형 타운. 현재\n이 곳은 래피드플레임의 신병기에 의\n해 초토화된 상태이다. 별숲리그는 정\n찰을 통해 신병기의 정체를 파악하려\n들고 있다.
 
 ID=10052
-The forefront of the battle between Star Forest League and Rapid Flame.\nThe Star Forest League, which is on the defensive,\nis trying to retake it and prepare a springboard for re-enhancement.
+별숲리그와 래피드플레임과의 전면전이\n펼쳐지고 있는 최전선 지역. 수세에 몰린\n별숲리그는 이 곳을 탈환하여 재도약의\n발판을 마련하려 들고 있다.
 
 ID=10053
-Underground drains installed inside Grace City.\nThe Star Forest League is in the process of raiding the base\nof Rapid's Flame through this place.
+그레이스 시티 내부에 설치되어 있는 지\n하 배수로. 별숲리그는 이 곳을 통해 래피\n드플레임의 거점을 기습하려는 작전을\n진행중이다.
 
 ID=10054
-Ned Company's secret military base./nThe Star Forest League,\nwhich uncovers the breach between Ned Company and Rapidflame,\nis now in operation to neutralize it.
+네드 컴퍼니의 비밀 군사기지. 네드 컴퍼\n니와 래피드플레임 사이의 밀약을 밝혀낸 \n별숲리그는 이 곳을 무력화시키는 작전을\n전개중이다.
 
 ID=10061
-The central control facility of the Ruin Fortress under the control of the high-performance A.I Lucy.\nStar Forest League is attempting to recapture this place and spur operations in the near Soul Worker search.
+고성능 A.I 루시가 제어하고 있는 루인 \n포트리스의 중앙 제어 시설. 별숲리그는\n이곳을 탈환해, 니어 소울워커 수색 \n작전에 박차를 가하려 하고 있다.
 
 ID=10062
-The location of the Buster Core,\nthe main power source of the Ruin Fortress.\nFor now, you need to restart the buster core that has stopped functioning and restore the power inside the lean port.
+루인 포트리스의 주 동력원인 버스터 \n코어가 위치한 장소. 지금은 기능을 정지\n한 버스터 코어를 재가동 시켜 루인 포트\n리스 내부의 전력을 되돌려 놓아야 한다.
 
 ID=10063
-Secret research facility located inside the Ruin Fortress.\nGiant Drilling Monster is trying to get something buried underground.\nStar Forest League executes Operation Digg Monster.
+루인 포트리스 내부에 위치한 비밀 연구\n시설. 거대 시추 기계 디그 몬스터가 지\n하에 매몰되어 있는 무엇인가를 꺼내려\n하고 있다. 별숲리그는 디그 몬스터 저지\n작전을 실행한다.
 
 ID=10064
-Outside the Ruin Fortress,\na large-scale secretly built ship and an Ark Ship fleeing Abel and Shion are launched.
+루인 포트리스 외곽에서 비밀리에 건조\n중이던 거대 함선, 아크 쉽으로 도주한 \n아벨과 시온을 추격하는 작전이 전개\n된다.
 
 ID=10065
-A portal in the corner of Grass Cover Camp led a human to a subway.\nThere's a voice that I don't want to hear deep down there.
+잔디이불 캠프 한 구석에 나타난 포탈은 인간을 어느 지하철로 이끌었다. 그 곳 깊은 곳에선 듣고 싶지 않은 목소리가 자꾸만 들려온다는데…
 
 ID=10066
 Investigate the whitespace that has finally started. Star Forest League discovers the land occupied by Rapid Flame and sets out to investigate.
@@ -4761,10 +4760,10 @@ ID=10068
 It is a factory that shines alone in the darkness where the moonlight does not soak. There was a groaning and crying moan.
 
 ID=10069
-골든 시타델 입구
+Golden Citadel Entrance
 
 ID=10081
-Edgar's battle of madness was still\nstill flying over Rocco Town.\nNBear R. Square in the total attack of Edgar's doll army!
+에드가가 뿌린 광기의 전운은 \n아직도 로코 타운의 상공에 \n도사리고 있었다.\n에드가의 인형 군대의 총공격에\n서 R. 스퀘어를 사수하라!
 
 ID=10082
 0
@@ -4788,16 +4787,16 @@ ID=10088
 0
 
 ID=10089
-Madman Edgar is preparing for the final parade of the Rocotown \nHowever, Edgar's brutal festival will end here.
+로코타운 습격의 대미를 장식할\n최후의 퍼레이드를 준비 중인\n매드맨 에드가. \n그러나, 에드가의 잔혹한 축제는\n여기서 막을 내릴 것이다.
 
 ID=10090
-The moment you press the button on the suicide device,\nN102 Lab's final escapeway opens\n. Kill the mighty enemy non-holders in front of you,\nlive and escape.
+자폭장치의 버튼을 누른 순간\nN102 연구소 최후의 탈출로가\n열린다.  눈 앞을 가로막는 \n강대한 적 비홀더를 처치하고\n살아서 탈출하라.
 
 ID=10091
-Ned Company's wrong ambitions led to forbidden experiments with living people.
+네드 컴퍼니의 그릇된 야망은\n살아있는 사람을 상대로 한\n금단의 실험으로 이어졌다.\n소울워커 양산계획을 저지하고,\n희생양들에겐 안식을 주자.
 
 ID=10092
-Strongest unmanned robots\nhave another path to Akeron's sleep awaiting completion.\nYou must break through unmanned robots that woke up\nand make the operation successful.
+최강의 무인로봇들이 완성을\n기다리며 잠들어 있던 아케론의\n또 다른 진입로.\n긴 잠에서 깬 무인 로봇을 돌파\n하고 작전을 성공시켜야 한다.
 
 ID=10093
 0
@@ -4812,7 +4811,7 @@ ID=10096
 0
 
 ID=10097
-The remaining SoulJunk Swarm and Edgar's puppet troops spread their monsters back to Rocco Town.
+남아있던 소울정크 무리와 \n에드가의 인형 부대가 또다시\n로코 타운에 마수를 뻗친다.\n짙은 안개와 화염에 휩싸인 로코\n타운을 끝까지 지켜내야 한다.
 
 ID=10098
 0
@@ -4923,7 +4922,7 @@ ID=10301
 Tutorial
 
 ID=10311
-각성
+Awakening
 
 ID=10312
 A beloved hero
@@ -5229,10 +5228,10 @@ ID=13005
 Authentication failed due to system check
 
 ID=13006
-Authentication failed for unknown reason./nPlease contact Support.\n[ErrorCode: {0}]
+알 수 없는 이유로 인증에 실패하였습니다.\n운영팀에 문의하시기 바랍니다.\n[ErrorCode : {0}]
 
 ID=14000
-스틸 그레이브
+Steel Grave
 
 ID=14001
 CHAPTER 1
@@ -5373,7 +5372,7 @@ ID=15005
 The clown's invitation points to an abandoned plaza.\nWhat presents are there waiting for you?
 
 ID=15006
-Puppets that filled the streets of the square.\nThe streets that once were full of people are now/nthe streets of dolls that have no mind.
+ 광장 거리를 가득 메운 인형들.\n한때 사람들의 활기로 가득했던 거리는 이제, \n마음을 가지지 못한 인형들의 거리가 되어버렸다.
 
 ID=15007
 To prevent the Big Puppet from advancing, you need a helicopter supported by Ned Company. The dolls must be stopped before they destroy the helicopter.
@@ -5382,7 +5381,7 @@ ID=15008
 Operation [The shield]. It's a dangerous operation to lure Big Puppets to self-destruct inside a barrier. This operation must be successful.
 
 ID=15009
-The power of the new dolls./nAnd the searchers who went to investigate them are still not coming back. I felt an ominous energy.
+ 새롭게 나타난 인형들의 세력.\n그리고 그들을 조사하러 간 수색대가 아직도 돌아오지 않고 있다. 불길한 기운이 느껴졌다.
 
 ID=15010
 People who have become dolls, ominous towers and busy dolls...\nWhy do dolls build towers?
@@ -5574,34 +5573,34 @@ ID=16400
 While I've been asleep for 15 years, the world has changed a lot.\nSurvival has turned into the most important world.\nBut I'm not really sure.\nFor me survival was always the most important thing.
 
 ID=16500
-When I opened my eyes, after I slept for 15 years./nIs it a hibernating bear?\nPeople say only hard words. I'm hungry, but I don't feed.\nWell… . I'm with everyone but I'm not lonely.
+눈을 떠보니까 내가 15년이나 잤대.\n나는 겨울잠 자는 곰이 된 건가?\n사람들은 어려운 말만 해대고. 배는 고픈데 밥은 안 주고….\n음…. 그래도 모두와 함께 있으니까 외롭지 않아.\n그거면 됐어.
 
 ID=16600
 There's no world I've known so\nIt's all new and uncomfortable, and I don't want to stay here for one minute and one second.\nBut I can't stand it.\nThis is my world, and I'll live.\nPlease bear with it, and endure it.
 
 ID=16550
-정크
+Junk
 
 ID=16551
-노멀
+Normal
 
 ID=16552
-매직
+Magic
 
 ID=16553
-레어
+Rare
 
 ID=16554
-유니크
+Unique
 
 ID=16555
-레전드
+Legend
 
 ID=16556
-히어로
+Heroic
 
 ID=16571
-노멀
+Normal
 
 ID=16572
 Special
@@ -5658,7 +5657,7 @@ ID=16806
 Item exchange
 
 ID=16807
-검색
+Search
 
 ID=16808
 Entry List
@@ -5670,7 +5669,7 @@ ID=16810
 Save
 
 ID=16811
-닫기
+Close
 
 ID=16812
 Keyword search
@@ -5679,19 +5678,19 @@ ID=16813
 Category Search
 
 ID=16814
-캐릭터
+Character
 
 ID=16815
-레벨
+Lvl
 
 ID=16816
-등급
+Grade
 
 ID=16817
-가격
+Price
 
 ID=16818
-강화 단계
+Enhancement Level
 
 ID=16819
 More than
@@ -5721,10 +5720,10 @@ ID=16827
 Dog
 
 ID=16828
-확인
+Confirm
 
 ID=16829
-취소
+Cancel
 
 ID=16830
 Exhibit
@@ -5745,7 +5744,7 @@ ID=16835
 State
 
 ID=16836
-시간
+h
 
 ID=16837
 collection
@@ -5754,32 +5753,31 @@ ID=16838
 {0}hours
 
 ID=16839
-{0}일
+{0} days
 
 ID=16840
 All characters
 
 ID=16841
-노멀
+Normal
 
 ID=16842
-스페셜
+Special
 
 ID=16843
-프리미엄
+Premium
 
 ID=16844
-비트
+Beat
 
 ID=16845
-메가
+Mega
 
 ID=16846
-기가
+Giga
 
 ID=16850
-{0}개
-
+{0}개\n
 
 ID=16851
 Federated search cannot set search options.
@@ -5812,7 +5810,7 @@ ID=16860
 You cannot buy items you sell.
 
 ID=16861
-전체
+All
 
 ID=16862
 Sales commission
@@ -5857,7 +5855,7 @@ ID=18008
 Destruction Equipment Recovery Device
 
 ID=18009
-복원
+Restore
 
 ID=18010
 You can proceed with the restoration.
@@ -5869,7 +5867,7 @@ ID=18012
 Brooch collage
 
 ID=18013
-합성
+Synthesis
 
 ID=18014
 Brooch Synthesis Complete
@@ -5917,13 +5915,13 @@ ID=18030
 Would you like to seal the item {0}?\nThe remaining number of seals is {1}.
 
 ID=18031
-봉인 가능 횟수
+Number of Seals available
 
 ID=18032
 Registration is not possible because the family level is higher than the equipment level.
 
 ID=18033
-봉인
+seal
 
 ID=18034
 Sealed
@@ -5935,7 +5933,7 @@ ID=18036
 There is an item registered in the function currently being used.\nIt cannot be sorted.
 
 ID=18037
-남은 시간
+Time Left
 
 ID=18038
 -
@@ -5956,10 +5954,10 @@ ID=18043
 {0}, {1} and {2} items will be entered. Do you want to proceed?
 
 ID=18044
-{0}일
+{0} days
 
 ID=18045
-{0}시간
+{0}hours
 
 ID=18046
 {0} minutes
@@ -6058,7 +6056,7 @@ ID=18080
 Unavailable because all casual raids have 0 entries.
 
 ID=18081
-The number of casual raids entered so far is as follows:\nThe Last Carnival: {0}/2\nJunk Hive: {1}/2\nBandit Highway: {2}/2\nIron Castle: {3 }/2\nWould you like to reduce the number of entries for all casual raids by 1?\n(If it is 0 times, it will not be reduced to 0 or below.)
+The number of casual raids entered so far is as follows:\nThe Last Carnival: {0}/2\nJunk Hive: {1}/2\nBandit Highway: {2}/2\nIron Castle: {3}/2\nWould you like to reduce the number of entries for all casual raids by 1?\n(If it is 0 times, it will not be reduced to 0 or below.)
 
 ID=18082
 All casual raid entries have been reduced by 1 each.
@@ -6187,7 +6185,7 @@ ID=18208
 Mounting
 
 ID=18209
-아이템 사용
+Item use
 
 ID=18210
 Zenny used
@@ -6304,7 +6302,7 @@ ID=18526
 Soul Launcher
 
 ID=18527
-브레이크 침식
+Break Erosion
 
 ID=18528
 Evil Slash
@@ -6346,7 +6344,7 @@ ID=18540
 Death Guillotine
 
 ID=18541
-브레이크 침식
+Break Erosion
 
 ID=18542
 Counter Attack
@@ -6388,7 +6386,7 @@ ID=18554
 Finalist
 
 ID=18555
-브레이크 침식
+Break Erosion
 
 ID=18556
 Whirlwind
@@ -6430,7 +6428,7 @@ ID=18568
 Base Attack
 
 ID=18569
-브레이크 침식
+Break Erosion
 
 ID=18570
 Hammer Crash
@@ -6472,7 +6470,7 @@ ID=18582
 Excited Driver
 
 ID=18583
-브레이크 침식
+Break Erosion
 
 ID=18600
 Damage: {0}%
@@ -6517,19 +6515,19 @@ ID=18700
 Unlimited
 
 ID=18701
-일반
+General
 
 ID=18702
-거래
+Trade
 
 ID=18703
-파티
+Party
 
 ID=18704
-리그
+Guild
 
 ID=18705
-귓속말
+Whisper
 
 ID=18706
 Server
@@ -6538,7 +6536,7 @@ ID=18707
 System
 
 ID=18708
-이벤트
+Event
 
 ID=18709
 Notice
@@ -6586,7 +6584,7 @@ ID=18760
 You have exceeded your account purchase limit.
 
 ID=18800
-쿠폰 입력
+Enter Coupon
 
 ID=18810
 Comic World
@@ -6793,7 +6791,7 @@ ID=19509
 Valentine
 
 ID=19510
-스파이럴 캣츠
+Spiral Cats
 
 ID=19511
 Candy Knight
@@ -6883,7 +6881,7 @@ ID=19721
 Relentless
 
 ID=19722
-강력한
+strong
 
 ID=19723
 Rare
@@ -6904,7 +6902,7 @@ ID=19728
 durable
 
 ID=19729
-튼튼한
+durable
 
 ID=19730
 Improved
@@ -6919,7 +6917,7 @@ ID=19733
 Usable
 
 ID=19734
-튼튼한
+durable
 
 ID=19735
 Excellent
@@ -6943,28 +6941,28 @@ ID=19741
 Jeweled
 
 ID=19742
-튼튼한
+durable
 
 ID=19743
-단단한
+Hard
 
 ID=19744
 Processed
 
 ID=19745
-두터운
+Thick
 
 ID=19746
 Good quality
 
 ID=19747
-개량된
+Improved
 
 ID=19748
-우수한
+Excellent
 
 ID=19749
-정밀한
+accurate
 
 ID=19750
 Expert
@@ -6973,25 +6971,25 @@ ID=19751
 Artisan
 
 ID=19752
-쓸만한
+Usable
 
 ID=19753
 Decent
 
 ID=19754
-튼튼한
+durable
 
 ID=19755
-단단한
+Hard
 
 ID=19756
-두터운
+Thick
 
 ID=19757
-양질의
+Good quality
 
 ID=19758
-강한
+strong
 
 ID=19759
 special
@@ -7006,7 +7004,7 @@ ID=19762
 Sharp
 
 ID=19763
-우수한
+Excellent
 
 ID=19764
 Angled
@@ -7198,7 +7196,7 @@ ID=20132
 {0} poses in a bunny pose.
 
 ID=20133
-크리스마스
+Christmas
 
 ID=20134
 Posing in Christmas outfit.
@@ -7216,7 +7214,7 @@ ID=20138
 {0} shows off their Yukata.
 
 ID=20139
-한복
+Hanbok
 
 ID=20140
 We are wearing Hanbok and we are celebrating New Year.
@@ -7249,7 +7247,7 @@ ID=20149
 Second bewitching pose!
 
 ID=20150
-{0}님이 스파이럴 캣츠 촬영 포즈를 취합니다.
+{0} takes a first bewitching pose.
 
 ID=20151
 White Day
@@ -7285,7 +7283,7 @@ ID=20161
 Sexy maid poses.
 
 ID=20162
-{0}님이 섹시메이드 포즈를 취합니다.
+{0} is in a sexy maid pose
 
 ID=20163
 Hot Summer
@@ -7303,7 +7301,7 @@ ID=20301
 The operation cannot be done due to insufficient space or an invalid area.
 
 ID=20302
-공간이 비좁거나 설치가 불가능한 지역입니다.
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=20303
 There is no enough space for the placement.
@@ -7363,7 +7361,7 @@ ID=21007
 - {0} x{1}
 
 ID=21008
-수리 비용이 {0}{1} 감소
+Repair cost reduced by {0} {1}
 
 ID=21009
 Production cost reduced by {0} {1}
@@ -7534,19 +7532,19 @@ ID=21505
 Close-Rang
 
 ID=21506
-근거리 범위형
+Close-Rang
 
 ID=21507
 Auxiliary/Buff
 
 ID=21508
-근거리 공격형
+Close Range Attack
 
 ID=21509
 Abnormal Status/Attack
 
 ID=21510
-근거리 공격형
+Close Range Attack
 
 ID=21511
 Summons
@@ -7561,7 +7559,7 @@ ID=21514
 Supporter Equipment
 
 ID=21515
-보상 받기
+Get rewarded
 
 ID=21516
 Aid Registration
@@ -7612,7 +7610,7 @@ ID=21531
 Select Friend Equipment
 
 ID=21532
-착용
+Equip
 
 ID=21533
 {0} ({1}) was canceled and has disappeared. You can equip another Aid.
@@ -7741,7 +7739,7 @@ ID=22018
 Reject all
 
 ID=22019
-변경
+Change
 
 ID=22020
 Please enter the hotkey.
@@ -7903,22 +7901,22 @@ ID=22224
 Receive Message
 
 ID=22225
-귓속말
+Whisper
 
 ID=22226
 Player Trading
 
 ID=22227
-파티 초대
+Party Invite
 
 ID=22228
-리그 초대
+Guild Invite
 
 ID=22229
-친구 등록
+Add as Friend
 
 ID=22230
-정보 보기
+Show Info
 
 ID=22231
 Reset screenshot and game settings
@@ -8131,13 +8129,13 @@ ID=22532
 Confirm Item Name
 
 ID=22533
-아카식 모드 전환
+Switch to Akashik Card Mode
 
 ID=22534
 Draw Weapon
 
 ID=22535
-카메라
+Camera
 
 ID=22536
 Zoom in Camera
@@ -8173,7 +8171,7 @@ ID=22546
 Equipment Information
 
 ID=22547
-인벤토리
+Inventory
 
 ID=22548
 Skills
@@ -8248,7 +8246,7 @@ ID=22571
 Megaphone Chat 6
 
 ID=22572
-초기화
+Reset
 
 ID=22573
 Reset key settings
@@ -8356,16 +8354,16 @@ ID=22629
 Guild
 
 ID=22630
-귓속말
+Whisper
 
 ID=22631
 Shout
 
 ID=22632
-시스템
+System
 
 ID=22633
-이벤트
+Event
 
 ID=22634
 Notice
@@ -8437,7 +8435,7 @@ ID=22656
 Transparency (Disabled)
 
 ID=22657
-초기화
+Reset
 
 ID=22658
 Reset chat settings
@@ -8470,7 +8468,7 @@ ID=22667
 Minimize Effects
 
 ID=22668
-적용
+Apply
 
 ID=22669
 Not applied
@@ -8542,55 +8540,55 @@ ID=24000
 Zenny
 
 ID=24001
-소울 웨폰
+Soul Weapon
 
 ID=24002
 Gear
 
 ID=24003
-액세서리
+Accessory
 
 ID=24004
-액세서리
+Accessory
 
 ID=24005
-액세서리
+Accessory
 
 ID=24006
 Select Equipment
 
 ID=24007
-소비
+Consumable
 
 ID=24008
-기능
+Function
 
 ID=24009
-외형
+Appearance
 
 ID=24010
-아카식 레코드
+Akashik Records
 
 ID=24011
 Furniture
 
 ID=24012
-코스튬
+Avatar
 
 ID=24013
-칭호
+Title
 
 ID=24014
-재료
+Material
 
 ID=24015
-서포터
+Supporter
 
 ID=24016
-아티펙트
+Artifact
 
 ID=24017
-퀘스트
+Quest
 
 ID=24018
 Blueprint
@@ -8605,19 +8603,19 @@ ID=24021
 Vehicle
 
 ID=24022
-판매
+Sell
 
 ID=24250
-제니
+Zenny
 
 ID=24251
-소울 베이퍼
+Soul Vapor
 
 ID=24252
 Booker's Point
 
 ID=24253
-에텔
+Ether
 
 ID=24254
 Cash
@@ -8626,22 +8624,22 @@ ID=24255
 Token
 
 ID=24256
-소울 웨폰
+Soul Weapon
 
 ID=24257
-서브 웨폰
+Sub Weapon
 
 ID=24258
-헤드 기어
+Head
 
 ID=24259
-숄더 기어
+Shoulder
 
 ID=24260
-바디 기어
+Body
 
 ID=24261
-레그 기어
+Leg
 
 ID=24262
 Pendant
@@ -8653,7 +8651,7 @@ ID=24264
 Ring
 
 ID=24265
-패밀리어
+Familiar
 
 ID=24266
 Brooch
@@ -8665,7 +8663,7 @@ ID=24268
 Fatigue Consumption
 
 ID=24269
-기능
+Function
 
 ID=24270
 Hairstyle
@@ -8674,13 +8672,13 @@ ID=24271
 Hair Color
 
 ID=24272
-눈 색
+Eye Color
 
 ID=24273
 Skin Color
 
 ID=24274
-아카식 레코드
+Akashik Records
 
 ID=24275
 Akashik Record Key
@@ -8692,13 +8690,13 @@ ID=24277
 Blank Card
 
 ID=24278
-가구
+Furniture
 
 ID=24279
-무기
+Weapon
 
 ID=24280
-머리
+Head
 
 ID=24281
 Head
@@ -8707,31 +8705,31 @@ ID=24282
 Eyes 1
 
 ID=24283
-입
+Mouth
 
 ID=24284
-상의
+Top
 
 ID=24285
-손
+Hands
 
 ID=24286
-하의
+Bottom
 
 ID=24287
 Tail
 
 ID=24288
-신발
+Shoes
 
 ID=24289
-스타킹 / 양말
+Tights/Socks
 
 ID=24290
-등
+Back
 
 ID=24291
-속옷
+Underwear
 
 ID=24292
 One piece Top + Bottom
@@ -8758,10 +8756,10 @@ ID=24299
 One piece Shoes + Stocking
 
 ID=24300
-접두
+Prefix
 
 ID=24301
-접미
+Suffix
 
 ID=24302
 Ores
@@ -8773,10 +8771,10 @@ ID=24304
 Fabric
 
 ID=24305
-진화
+Evolution
 
 ID=24306
-강화
+Enhance
 
 ID=24307
 Supporter-only Equipment 1
@@ -8800,7 +8798,7 @@ ID=24313
 Doll
 
 ID=24314
-카메라
+Camera
 
 ID=24315
 Cassette
@@ -8824,7 +8822,7 @@ ID=24321
 Key
 
 ID=24322
-퀘스트 아이템
+Quest Item
 
 ID=24323
 Equipment Blueprint
@@ -8857,64 +8855,64 @@ ID=24332
 Operation: Dimension Shutter Ticket
 
 ID=24499
-부커스 포인트
+Booker's Point
 
 ID=24500
-제니
+Zenny
 
 ID=24501
-소울 베이퍼
+Soul Vapor
 
 ID=24502
-부커스 포인트
+Booker's Point
 
 ID=24503
-에텔
+Ether
 
 ID=24504
-캐쉬
+Cash
 
 ID=24505
-토큰
+Token
 
 ID=24506
-소울 웨폰
+Soul Weapon
 
 ID=24507
-서브 웨폰
+Sub Weapon
 
 ID=24508
-헤드 기어
+Head
 
 ID=24509
-숄더 기어
+Shoulder
 
 ID=24510
-바디 기어
+Body
 
 ID=24511
-레그 기어
+Leg
 
 ID=24512
-팬던트
+Pendant
 
 ID=24513
-이어링
+Earring
 
 ID=24514
-링
+Ring
 
 ID=24515
-패밀리어
+Familiar
 
 ID=24516
-브로치
+Brooch
 
 ID=24517
-일반 소비
+General Consumption
 
 ID=24518
-행동력 소비
+Fatigue Consumption
 
 ID=24519
 Package
@@ -8959,7 +8957,7 @@ ID=24532
 Restore Broken Item
 
 ID=24533
-브로치 합성
+Brooch collage
 
 ID=24534
 Socket Item (Familiar/Soulstone) added
@@ -8998,28 +8996,28 @@ ID=24545
 Artifact Slot Expansion Ticket
 
 ID=24546
-머리 형태
+Hairstyle
 
 ID=24547
-머리 컬러
+Hair Color
 
 ID=24548
-눈 색
+Eye Color
 
 ID=24549
-피부 색
+Skin Color
 
 ID=24550
-아카식 레코드
+Akashik Records
 
 ID=24551
-아카식 레코드 키
+Akashik Record Key
 
 ID=24552
-아카식 레코드 박스
+Akashik Record Box
 
 ID=24553
-빈 카드
+Blank Card
 
 ID=24554
 Desk
@@ -9034,79 +9032,79 @@ ID=24557
 TV
 
 ID=24558
-기타
+Others
 
 ID=24559
-무기
+Weapon
 
 ID=24560
-머리
+Head
 
 ID=24561
-모자
+Head
 
 ID=24562
-눈
+Eyes
 
 ID=24563
-입
+Mouth
 
 ID=24564
-상의
+Top
 
 ID=24565
-손
+Hands
 
 ID=24566
-하의
+Bottom
 
 ID=24567
-꼬리
+Tail
 
 ID=24568
-신발
+Shoes
 
 ID=24569
-스타킹 / 양말
+Tights/Socks
 
 ID=24570
-등
+Back
 
 ID=24571
-속옷
+Underwear
 
 ID=24572
-상의+하의 일체형
+One piece Top + Bottom
 
 ID=24573
-눈+입 일체형
+One piece Eye + Mouth
 
 ID=24574
-머리+모자+눈 일체형
+One piece Hair + Head & Eyes 
 
 ID=24575
-상의+등 일체형
+One piece Top + Back
 
 ID=24576
-하의+신발 일체형
+One piece Bottom + Shoes
 
 ID=24577
-하의+꼬리 일체형
+One piece Bottom + Tail
 
 ID=24578
-등+꼬리 일체형
+One piece Back + Tail
 
 ID=24579
-신발+스타킹 일체형
+One piece Shoes + Stocking
 
 ID=24580
-접두
+Prefix
 
 ID=24581
-접미
+Suffix
 
 ID=24582
-광석
+Ores
 
 ID=24583
 Weapons Ore
@@ -9136,127 +9134,127 @@ ID=24591
 Acrylic
 
 ID=24592
-진화
+Evolution
 
 ID=24593
-강화
+Enhance
 
 ID=24594
-서포터 전용 장비 1
+Supporter-only Equipment 1
 
 ID=24595
-서포터 전용 장비 2
+Supporter-only Equipment 2
 
 ID=24596
-서포터 친구 등록 장비 1
+Supporter friend registration equipment 1
 
 ID=24597
-서포터 친구 등록 장비 2
+Supporter friend registration equipment 2
 
 ID=24598
-서포터 코스튬
+Supporter Costume
 
 ID=24599
-펜
+Pen
 
 ID=24600
-인형
+Doll
 
 ID=24601
-카메라
+Camera
 
 ID=24602
-카세트
+Cassette
 
 ID=24603
-헤드셋
+Headphone
 
 ID=24604
-배지
+Badge
 
 ID=24605
-동전
+Coin
 
 ID=24606
-핸드폰
+Cell Phone
 
 ID=24607
-게임기
+Console
 
 ID=24608
-열쇠
+Key
 
 ID=24609
-퀘스트 아이템
+Quest Item
 
 ID=24610
-소울 웨폰
+Soul Weapon
 
 ID=24611
-서브 웨폰
+Sub Weapon
 
 ID=24612
-헤드 기어
+Head
 
 ID=24613
-숄더 기어
+Shoulder
 
 ID=24614
-바디 기어
+Body
 
 ID=24615
-레그 기어
+Leg
 
 ID=24616
-팬던트
+Pendant
 
 ID=24617
-이어링
+Earring
 
 ID=24618
-링
+Ring
 
 ID=24619
-모자
+Head
 
 ID=24620
-머리
+Head
 
 ID=24621
-눈
+Eyes
 
 ID=24622
-입
+Mouth
 
 ID=24623
-손
+Hands
 
 ID=24624
-속옷
+Underwear
 
 ID=24625
-상의
+Top
 
 ID=24626
-하의
+Bottom
 
 ID=24627
 Top/Bottom Set
 
 ID=24628
-등
+Back
 
 ID=24629
-스타킹 / 양말
+Tights/Socks
 
 ID=24630
-신발
+Shoes
 
 ID=24631
-꼬리
+Tail
 
 ID=24632
-무기
+Weapon
 
 ID=24633
 Hanging Furniture/Posters
@@ -9265,7 +9263,7 @@ ID=24634
 Mat/Rug
 
 ID=24635
-침대
+Bed
 
 ID=24636
 Chair/Sofa
@@ -9292,13 +9290,13 @@ ID=24643
 Slime
 
 ID=24644
-섬유
+Fiber
 
 ID=24645
-아크릴
+Acrylic
 
 ID=24646
-고무
+Rubber
 
 ID=24647
 Steel Grave Ticket
@@ -9313,7 +9311,7 @@ ID=24650
 Seed
 
 ID=24651
-작물
+Crop
 
 ID=24652
 Withered Crops
@@ -9343,16 +9341,16 @@ ID=24660
 Upper and lower
 
 ID=24661
-상의
+Top
 
 ID=24662
-하의
+Bottom
 
 ID=24663
-손
+Hands
 
 ID=24664
-신발
+Shoes
 
 ID=24665
 Amount - say
@@ -9361,19 +9359,19 @@ ID=24666
 Glasses
 
 ID=24667
-모자
+Head
 
 ID=24668
-속옷
+Underwear
 
 ID=24669
-기타
+Others
 
 ID=24670
 Socket Item Extractor
 
 ID=24750
-일반
+General
 
 ID=24751
 Attack Brooch
@@ -9385,46 +9383,46 @@ ID=24753
 Utility Brooch
 
 ID=24754
-일반
+General
 
 ID=24755
 Costume Package
 
 ID=24756
-일반
+General
 
 ID=24757
 Personal
 
 ID=24758
-일반
+General
 
 ID=24759
-펜
+Pen
 
 ID=24760
-인형
+Doll
 
 ID=24761
-카메라
+Camera
 
 ID=24762
-카세트
+Cassette
 
 ID=24763
-헤드셋
+Headphone
 
 ID=24764
-배지
+Badge
 
 ID=24765
-동전
+Coin
 
 ID=24766
-공통
+Common
 
 ID=24767
-일반
+General
 
 ID=24768
 Attack
@@ -9433,97 +9431,97 @@ ID=24769
 Defense
 
 ID=24770
-일반
+General
 
 ID=24771
 Utility
 
 ID=24772
-제니
+Zenny
 
 ID=24773
-소울 베이퍼
+Soul Vapor
 
 ID=24774
-에텔
+Ether
 
 ID=24775
-캐쉬
+Cash
 
 ID=24776
-토큰
+Token
 
 ID=24777
-소울 웨폰
+Soul Weapon
 
 ID=24778
-서브 웨폰
+Sub Weapon
 
 ID=24779
-헤드 기어
+Head
 
 ID=24780
-숄더 기어
+Shoulder
 
 ID=24781
-바디 기어
+Body
 
 ID=24782
-레그 기어
+Leg
 
 ID=24783
-팬던트
+Pendant
 
 ID=24784
-이어링
+Earring
 
 ID=24785
-링
+Ring
 
 ID=24786
 Weapon Familiar
 
 ID=24787
-공격형 브로치
+Attack Brooch
 
 ID=24788
-방어형 브로치
+Defense Brooch
 
 ID=24789
-기능형 브로치
+Utility Brooch
 
 ID=24790
-소비
+Consumable
 
 ID=24791
-부활
+Revive
 
 ID=24792
-패키지
+Package
 
 ID=24793
-코스튬 패키지
+Costume Package
 
 ID=24794
-기능
+Function
 
 ID=24795
-외형
+Appearance
 
 ID=24796
-아카식 레코드
+Akashik Records
 
 ID=24797
-아카식 레코드 키
+Akashik Record Key
 
 ID=24798
 Akashik Record Card
 
 ID=24799
-가구
+Furniture
 
 ID=24800
-스타일링 코스튬
+Accessory Costume
 
 ID=24801
 Head Costume
@@ -9547,28 +9545,28 @@ ID=24807
 Full Costume
 
 ID=24808
-제작 재료
+Crafting Material
 
 ID=24809
 Evolution Material
 
 ID=24810
-강화 재료
+Enhancement Material
 
 ID=24811
-가구 재료
+Furniture Material
 
 ID=24812
 Supporter Weapon
 
 ID=24813
-서포터 코스튬
+Supporter Costume
 
 ID=24814
 Artifact
 
 ID=24815
-퀘스트 아이템
+Quest Item
 
 ID=24816
 Soul Weapon Blueprint
@@ -9598,10 +9596,10 @@ ID=24824
 Ring Blueprint
 
 ID=24825
-코스튬 설계도
+Costume Blueprint
 
 ID=24826
-가구 설계도
+Furniture Blueprint
 
 ID=24827
 Bathroom Blueprint
@@ -9616,7 +9614,7 @@ ID=24830
 Scythe
 
 ID=24831
-기타
+Others
 
 ID=24832
 Supporter Weapon
@@ -9631,7 +9629,7 @@ ID=24835
 Supporter Defense Orb
 
 ID=24836
-서포터 코스튬
+Supporter Costume
 
 ID=24837
 Miriam
@@ -9670,16 +9668,16 @@ ID=24848
 Cache Package
 
 ID=24881
-검
+Sword
 
 ID=24882
-권총
+Pistol
 
 ID=24883
-낫
+Scythe
 
 ID=24884
-기타
+Others
 
 ID=24885
 Gauntlet
@@ -9688,16 +9686,16 @@ ID=24886
 Canon
 
 ID=24887
-씨앗
+Seed
 
 ID=24888
-작물
+Crop
 
 ID=24889
 Event
 
 ID=24890
-바이크
+Bike
 
 ID=24891
 Parts
@@ -9736,7 +9734,7 @@ ID=25000
 Exit Tutorial
 
 ID=25001
-튜토리얼 나가기
+Exit Tutorial
 
 ID=25002
 Cancel the tutorial and leave the field.\n-Attention: You will not receive a reward for completing the tutorial-
@@ -9748,10 +9746,10 @@ ID=25100
 Move
 
 ID=25101
-점프
+Jump
 
 ID=25102
-기본 공격
+Basic Attack
 
 ID=25103
 Air Attack
@@ -9787,7 +9785,7 @@ ID=25220
 Object Interaction
 
 ID=25221
-You can open doors or activate objects by moving near them and holding the [F] key.
+오브젝트에 접근하여 F버튼을 누르고 계세요.\n닫혀있는 문을 열거나, 각종 장치등을 작동할 수 있습니다.
 
 ID=25222
 Hold down the mouse button until it has fully charged.
@@ -9808,7 +9806,7 @@ ID=25242
 You can activate special abilities through Right-Click.\nErwin's special ability is to install traps.\nEnemies that step on the traps are temporarily slowed.
 
 ID=25243
-You can activate special abilities through Right-Click.\nLily's special ability is to dash forward.\nEnemies that you touch will be slowed.\nHold the mouse button to charge the skill and increase the distance traveled.
+R-CLICK으로 특수 능력을 사용합니다.\n릴리의 특수 능력은 앞으로 빠르게 이동하며, 피격된 적을 둔화시킵니다.\n버튼을 누르고 있으면 차징되어 이동 거리가 증가합니다.
 
 ID=25244
 You can activate the special ability using right click.\nJin's special ability hits the ground and surrounding enemies.\nEnemies are stunned on impact.
@@ -9820,10 +9818,10 @@ ID=25246
 Right-Click to activate a special ability.\nIris' special abilities are SG recovery and sustained damage ability.
 
 ID=25270
-회피
+Dodge
 
 ID=25271
-Pressing the SHIFT while moving or pressing the movement key twice will allow you to dodge an incoming attack.
+SHIFT키와 방향키의 조합 또는 방향키 2번 연속 입력으로 상대의 공격을 회피할 수\n있습니다. 방향키 2번 연속 입력 방식은 옵션에서 선택 가능합니다.
 
 ID=25280
 Emergency
@@ -9865,13 +9863,13 @@ ID=25312
 Get Up and Dodge
 
 ID=25313
-스킬 사용 시 감소
+Get Up and Dodge
 
 ID=25314
 Chain Attacks and Skills
 
 ID=25315
-공격 성공 시 회복
+Attack Recovery
 
 ID=25316
 Going over 100% will activate the Madness mode
@@ -9922,25 +9920,25 @@ ID=25414
 Linking skills will provide an extra effect.
 
 ID=26001
-힘
+Strength
 
 ID=26002
 Power
 
 ID=26003
-민첩
+Agility
 
 ID=26004
 Agility[%]
 
 ID=26005
-지능
+Intelligence
 
 ID=26006
 Intelligence[%]
 
 ID=26007
-균형
+Balance
 
 ID=26008
 Balance[%]
@@ -9952,10 +9950,10 @@ ID=26010
 HP[%]
 
 ID=26011
-행운
+Luck
 
 ID=26012
-행운[%]
+Luck[%]
 
 ID=26013
 HP
@@ -9982,7 +9980,7 @@ ID=26020
 Max. SG[%]
 
 ID=26021
-스태미나
+Stamina
 
 ID=26022
 Stamina[%]
@@ -9994,13 +9992,13 @@ ID=26024
 Max. Stamina [%]
 
 ID=26025
-스태미나 회복
+Stamina Recovery
 
 ID=26026
 Stamina Recovery[%]
 
 ID=26027
-소울 베이퍼
+Soul Vapor
 
 ID=26028
 Soul Vapor[%]
@@ -10012,10 +10010,10 @@ ID=26030
 Max. Soul Viper [%]
 
 ID=26031
-이동 속도[%]
+Movement Speed
 
 ID=26032
-공격 속도[%]
+Attack Speed
 
 ID=26033
 Attack
@@ -10030,44 +10028,46 @@ ID=26036
 Magic Attack[%]
 
 ID=26037
-방어도
+Defense
 
 ID=26038
 Defense[%]
 
 ID=26039
+Magic Defense
 
 ID=26040
 Magic Resistance[%]
 
 ID=26041
+Accuracy
 
 ID=26042
 Magic Accuracy[%]
 
 ID=26043
-빗맞힘 시 피해[%]
+On Miss Damage
 
 ID=26044
-치명타[%]
+Critical Hit
 
 ID=26045
-마법 치명타 확률[%]
+Magical Critical Hit
 
 ID=26046
-치명타 저항[%]
+Critical Resistance
 
 ID=26047
-마법 치명타 저항[%]
+Magic Critical Resistance
 
 ID=26048
-치명타 확률[%]
+Critical Hit
 
 ID=26049
-마법 치명타 확률[%]
+Magical Critical Hit
 
 ID=26050
-치명타 피해
+Critical Damage
 
 ID=26051
 Critical Damage
@@ -10079,10 +10079,10 @@ ID=26053
 Magical Critical Damage
 
 ID=26054
-대미지 감소 확률[%]
+Damage Reduction Chance
 
 ID=26055
-피해 감소[%]
+Damage Reduction
 
 ID=26056
 Magic Damage Reduction
@@ -10967,7 +10967,7 @@ ID=28022
 Guild {0} has been created.
 
 ID=28023
-리그 창설 불가
+Establish Guild
 
 ID=28024
 Guild cannot be created.\nYou disbanded a Guild {0} days ago.
@@ -11036,7 +11036,7 @@ ID=28046
 You cannot transfer Guild Master again.\nThe Guild Master was recently transferred.
 
 ID=28047
-리그 위임
+Transfer Guild Master
 
 ID=28048
 Transfer Guild Master Confirmation
@@ -11189,7 +11189,7 @@ ID=28097
 Guild Applicant
 
 ID=28098
-Guild applicant no longer exists or is in a Guild already.
+가입 신청자가 존재하지 않거나 \n다른 리그에 가입된 상태입니다.
 
 ID=28099
 Cannot join Guild.
@@ -11252,7 +11252,7 @@ ID=28118
 Guild kick completed.
 
 ID=28119
-{0}님이 리그에서 추방되었습니다.
+{0} has been kicked from the Guild.                                                            
 
 ID=28120
 You have been kicked from {0}.
@@ -11261,7 +11261,7 @@ ID=28121
 You cannot kick this member; they have higher authority.
 
 ID=28122
-리그 추방 불가
+Failed to kick from Guild.
 
 ID=28123
 You have reached Guild Level {0}.
@@ -11282,10 +11282,10 @@ ID=28128
 Name
 
 ID=28129
-레벨
+Lvl
 
 ID=28130
-캐릭터
+Character
 
 ID=28131
 Rank
@@ -11294,16 +11294,16 @@ ID=28132
 Select
 
 ID=28133
-리그
+Guild
 
 ID=28134
 Guild Emblem
 
 ID=28135
-레벨
+Lvl
 
 ID=28136
-리그 마스터
+Guild Master
 
 ID=28137
 Member
@@ -11318,10 +11318,10 @@ ID=28140
 Guild Funds
 
 ID=28141
-탈퇴
+Leave
 
 ID=28142
-공지
+Notice
 
 ID=28143
 Create Notice
@@ -11372,7 +11372,7 @@ ID=28158
 Modify Rank
 
 ID=28159
-직위 해제
+Reset Rank
 
 ID=28160
 Permissions Control
@@ -11381,10 +11381,10 @@ ID=28161
 Guild Announcement
 
 ID=28162
-리그 초대
+Guild Invite
 
 ID=28163
-리그 추방
+Guild Kick
 
 ID=28164
 Guild Vending Machine
@@ -11399,7 +11399,7 @@ ID=28167
 Cannot withdraw; there is a limit per day.
 
 ID=28168
-권한 저장
+Bank permissions
 
 ID=28169
 Post Date:
@@ -11408,7 +11408,7 @@ ID=28170
 Writing
 
 ID=28171
-일반
+General
 
 ID=28172
 Ranking
@@ -11417,13 +11417,13 @@ ID=28173
 Guild Recruitment
 
 ID=28174
-리그명
+Guild Name
 
 ID=28175
 Master
 
 ID=28176
-검색
+Search
 
 ID=28177
 List of registered Guild applicants
@@ -11456,7 +11456,7 @@ ID=28186
 100,000 Zenny
 
 ID=28190
-리그원
+Guild
 
 ID=28191
 Executive
@@ -11465,13 +11465,13 @@ ID=28192
 Recruit
 
 ID=28193
-{0}일
+{0} days
 
 ID=28194
-{0}시간
+{0}hours
 
 ID=28195
-{0}분
+{0} minutes
 
 ID=28196
 Guild Details
@@ -11510,7 +11510,7 @@ ID=28207
 Verify
 
 ID=28208
-Because of the Guild disband penalty,\nyou are unable to establish a Guild for {0} hours.
+리그 해체 패널티 적용으로{0}시간 동안 창설이 불가능합니다.
 
 ID=28209
 <Only authorized members can modify.>
@@ -11519,6 +11519,7 @@ ID=28210
 Recruitment Notice
 
 ID=28211
+Writing
 
 ID=28212
 Guild Recruitment Advertisement posted.
@@ -11536,7 +11537,7 @@ ID=28216
 Guild Recruitment Notice
 
 ID=28217
-공개 설정
+Public Settings
 
 ID=28218
 ON
@@ -11554,7 +11555,7 @@ ID=28222
 Obtained when Guild Members consume Fatigue.\nUp to 200 consumed Fatigue per day.\nUp to {0} Guild experience per day.
 
 ID=28223
-레벨
+Lvl
 
 ID=28224
 {0} %
@@ -11569,7 +11570,7 @@ ID=28227
 Record
 
 ID=28228
-시간
+h
 
 ID=28229
 Obtained {0} Guild points.
@@ -11590,7 +11591,7 @@ ID=28234
 Decorate your Emblem
 
 ID=28235
-To change the Guild Emblem you need a Guild Emblem Change Ticket. Are you sure you want to use it?
+리그 마크 변경을 위해서는 리그 마크 변경권 아이템이 필요합니다.\n사용하시겠습니까?
 
 ID=28236
 You cannot change the Guild Emblem without a Guild Emblem Change Ticket.
@@ -11638,10 +11639,10 @@ ID=28250
 Are you sure you want to move {1} {0} in your inventory?
 
 ID=28251
-입고
+Store
 
 ID=28252
-출고
+Withdraw
 
 ID=28253
 Activation failed because the Guild Warehouse level is insufficient.
@@ -11695,16 +11696,16 @@ ID=28269
 Resurrection in {0} seconds
 
 ID=28270
-순위
+Ranking
 
 ID=28271
-캐릭터
+Character
 
 ID=28272
-레벨
+Lvl
 
 ID=28273
-이름
+Name
 
 ID=28274
 Item Score
@@ -11713,7 +11714,7 @@ ID=28275
 Result Ranking Information
 
 ID=29000
-마이룸
+My Room
 
 ID=29001
 Visit
@@ -11728,7 +11729,7 @@ ID=29004
 Kick from My Room.
 
 ID=29005
-나가기
+Exit
 
 ID=29006
 Manage Room Mode
@@ -11755,10 +11756,10 @@ ID=29014
 Room Name
 
 ID=29015
-검색
+Search
 
 ID=29016
-일반
+General
 
 ID=29017
 Star Rating
@@ -11776,7 +11777,7 @@ ID=29021
 Furniture editing
 
 ID=29022
-이동
+Move
 
 ID=29023
 Placement Complete
@@ -11893,6 +11894,7 @@ ID=29060
 Exit My Room
 
 ID=29061
+Use
 
 ID=29062
 {0} will be sent to your furniture inventory.
@@ -11910,19 +11912,19 @@ ID=29066
 Room Board
 
 ID=29067
-게시판
+Notice Board
 
 ID=29068
-랭킹
+Ranking
 
 ID=29069
 Previous Rank
 
 ID=29070
-찜
+Steamed
 
 ID=29071
-입장
+Enter
 
 ID=29072
 Representative Furniture
@@ -11955,13 +11957,13 @@ ID=29081
 Select representative furniture (up to 12)
 
 ID=29082
-작성 완료
+Completed
 
 ID=29083
 TOP 10
 
 ID=29084
-순위
+Ranking
 
 ID=29085
 Rank Information
@@ -11970,7 +11972,7 @@ ID=29086
 View Reward
 
 ID=29087
-보상 받기
+Get rewarded
 
 ID=29088
 Ranking and praise resets at 09:00 JST/00:00 UTC in the 1st day of every month. (Info is updated every day)
@@ -12015,7 +12017,7 @@ ID=30000
 Profile
 
 ID=30001
-상태
+State
 
 ID=30002
 Set Notice
@@ -12078,7 +12080,7 @@ ID=31011
 You cannot join the Party.
 
 ID=31012
-파티 최대 인원을 초과했습니다.
+You cannot invite any more members to the Party.
 
 ID=31013
 [{0}] declined the Party invitation.
@@ -12153,19 +12155,19 @@ ID=31036
 Cannot enter the dungeon because {0} {1} {2} are logged out, in a different town or area.
 
 ID=31037
-파티원 {0}님이 메이즈 입장을 거절했습니다.
+Member "{0}" refused to enter the dungeon.
 
 ID=31038
-파티 초대
+Party Invite
 
 ID=31039
 Leave Party
 
 ID=31040
-파티 탈퇴
+Leave Party
 
 ID=31041
-파티 탈퇴
+Leave Party
 
 ID=31042
 Party entry request
@@ -12177,7 +12179,7 @@ ID=31044
 Change Party Leader
 
 ID=31045
-파티 추방
+You have been kicked from the Party
 
 ID=31046
 Entry to dungeon denied
@@ -12264,7 +12266,7 @@ ID=31073
 Party Request
 
 ID=31074
-모집 등록
+Post Recruitment
 
 ID=31075
 Party/Squad Applicants
@@ -12279,19 +12281,19 @@ ID=31078
 Recruitment Time
 
 ID=31079
-{0}분
+{0} minutes
 
 ID=31080
 Apply
 
 ID=31081
-검색
+Search
 
 ID=31082
-모집 해제
+Recruitment
 
 ID=31083
-모집 등록
+Post Recruitment
 
 ID=31084
 Invite
@@ -12306,40 +12308,40 @@ ID=31087
 Cancel Search
 
 ID=31088
-거절
+Refuse
 
 ID=31089
-내용
+Content
 
 ID=31090
-메이즈
+Dungeon
 
 ID=31091
 Leader
 
 ID=31092
-인원
+Member
 
 ID=31093
 Remaining Time
 
 ID=31094
-이름
+Name
 
 ID=31095
-레벨
+Lvl
 
 ID=31096
-캐릭터
+Character
 
 ID=31097
 Location
 
 ID=31098
-시간
+h
 
 ID=31099
-이름
+Name
 
 ID=31100
 Recruiting Members
@@ -12354,7 +12356,7 @@ ID=31103
 Material Collection
 
 ID=31104
-퀘스트
+Quest
 
 ID=31105
 Free Choice
@@ -12444,16 +12446,16 @@ ID=31133
 Support Party/Squad Status
 
 ID=31134
-대기자 등록
+Waiting List registration
 
 ID=31135
 Cancel Search
 
 ID=31136
-등록
+Enrollment
 
 ID=31137
-해제
+Remove
 
 ID=31138
 The Party has been formed.
@@ -12576,7 +12578,7 @@ ID=31177
 Party recruitment level information is invalid.
 
 ID=32000
-조작
+Gameplay Controls
 
 ID=32001
 Growth
@@ -12588,70 +12590,70 @@ ID=32003
 Field Guide
 
 ID=32004
-스킬
+Skill
 
 ID=32005
 Combat
 
 ID=32006
-거래
+Trade
 
 ID=32007
-리그
+Guild
 
 ID=32008
-은행
+Bank
 
 ID=32009
 Pet
 
 ID=32010
-메이즈
+Dungeon
 
 ID=32011
 District
 
 ID=32012
-아이템
+Item
 
 ID=32013
-랭킹
+Ranking
 
 ID=32014
-파티
+Party
 
 ID=32015
-커뮤니티
+Community
 
 ID=32016
-채팅
+Chat
 
 ID=32017
-칭호
+Title
 
 ID=32018
-퀘스트
+Quest
 
 ID=32019
 Progress Info
 
 ID=32020
-메모리얼
+Memorial
 
 ID=32021
 Map
 
 ID=32022
-인벤토리
+Inventory
 
 ID=32023
-환경 설정
+Preferences
 
 ID=32024
 Master Key
 
 ID=32025
-공격
+Attack
 
 ID=32026
 Damage
@@ -12660,10 +12662,10 @@ ID=32027
 Knocked Down
 
 ID=32028
-사망
+Dead
 
 ID=32029
-레벨
+Lvl
 
 ID=32030
 EXP
@@ -12675,16 +12677,16 @@ ID=32032
 AI
 
 ID=32033
-도감
+Field Guide
 
 ID=32034
 Character Skills
 
 ID=32035
-아카식 레코드
+Akashik Records
 
 ID=32036
-브레이크 스킬
+Break Skill
 
 ID=32037
 Learn Skills
@@ -12705,7 +12707,7 @@ ID=32042
 Abnormal Status
 
 ID=32043
-소울 베이퍼
+Soul Vapor
 
 ID=32044
 Drop
@@ -12714,40 +12716,40 @@ ID=32045
 SG
 
 ID=32046
-버프
+Buff
 
 ID=32047
-거래
+Trade
 
 ID=32048
-상점
+Shop
 
 ID=32049
 Mail
 
 ID=32050
-리그
+Guild
 
 ID=32051
-리그 스킬
+Guild Skills
 
 ID=32052
 Guild Vote
 
 ID=32053
-리그 자판기
+Guild Vending Machine
 
 ID=32054
 Guild War
 
 ID=32055
-은행
+Bank
 
 ID=32056
 Guild Bank
 
 ID=32057
-펫
+Pet
 
 ID=32058
 Dungeon Portal
@@ -12759,10 +12761,10 @@ ID=32060
 Area Transfer
 
 ID=32061
-디스트릭트
+District
 
 ID=32062
-종류
+Type
 
 ID=32063
 Socket
@@ -12771,52 +12773,52 @@ ID=32064
 Tooltip
 
 ID=32065
-내구도
+Durability
 
 ID=32066
-강화
+Enhance
 
 ID=32067
 Equipment
 
 ID=32068
-패션
+Fashion
 
 ID=32069
-제작
+Craft
 
 ID=32070
-랭킹
+Ranking
 
 ID=32071
-파티
+Party
 
 ID=32072
-자동 파티 매칭
+Auto-Party-Matching
 
 ID=32073
 Party Search
 
 ID=32074
-친구
+Friend
 
 ID=32075
-제스처
+Gesture
 
 ID=32076
 Channel
 
 ID=32077
-채팅
+Chat
 
 ID=32078
 Command
 
 ID=32079
-칭호
+Title
 
 ID=32080
-퀘스트
+Quest
 
 ID=32081
 Achievement
@@ -12825,73 +12827,73 @@ ID=32082
 Clearance
 
 ID=32083
-메모리얼
+Memorial
 
 ID=32084
-월드맵
+World map
 
 ID=32085
 Minimap
 
 ID=32086
-인벤토리
+Inventory
 
 ID=32087
-큐브 인벤토리
+Furniture Inventory
 
 ID=32088
-조작 설정
+Camera
 
 ID=32089
-게임 설정
+Game Settings
 
 ID=32090
-그래픽 설정
+Graphics Settings
 
 ID=32091
-사운드 설정
+Sound Settings
 
 ID=32092
-키 설정
+Hotkey Settings
 
 ID=32093
-채팅 설정
+Chat Options
 
 ID=32094
 Looking for friends
 
 ID=32095
-리그
+Guild
 
 ID=32096
-차단 목록
+Blacklist
 
 ID=32097
-각인
+Engrave
 
 ID=32098
-해방
+Liberation
 
 ID=32099
-합성
+Synthesis
 
 ID=32100
-교환
+Exchange
 
 ID=32101
 Furniture Installation
 
 ID=32102
-재배
+Cultivate
 
 ID=32103
-리그 스킬
+Guild Skills
 
 ID=32104
 Coin Shop
 
 ID=32105
-거래소
+Market
 
 ID=32106
 Cash Shop
@@ -12906,22 +12908,22 @@ ID=32109
 2nd password
 
 ID=32110
-소울 웨폰
+Soul Weapon
 
 ID=32111
-기어
+Gear
 
 ID=32112
-액세서리
+Accessory
 
 ID=32113
-패밀리어
+Familiar
 
 ID=32114
-브로치
+Brooch
 
 ID=32115
-소비 아이템
+Consumable Items
 
 ID=32116
 Coin
@@ -12933,13 +12935,13 @@ ID=32118
 BP Shop
 
 ID=32119
-오퍼레이션
+operation
 
 ID=32120
-디멘션 셔터
+Dimension Shutter
 
 ID=32121
-이동
+Move
 
 ID=32122
 Emergency Evasion
@@ -12951,25 +12953,25 @@ ID=32124
 Super Armor
 
 ID=32125
-로코 타운
+Rocco Town
 
 ID=32126
-캔더스 시티
+Candus City
 
 ID=32127
-그레이스 시티
+Grace City
 
 ID=32128
-루인 포트리스
+Ruin Fortress
 
 ID=32129
-잔디이불 캠프
+Grass Cover Camp
 
 ID=32130
 VIP Rating
 
 ID=32131
-제 6구역
+District 6
 
 ID=32132
 Combination
@@ -12978,7 +12980,7 @@ ID=32133
 Hidden synthesis
 
 ID=32134
-도감
+Field Guide
 
 ID=32135
 Mounting
@@ -12987,19 +12989,19 @@ ID=32136
 Dyeing
 
 ID=32137
-염색
+Dyeing
 
 ID=33000
-Hello,\nEdgar, a humble clown searching for the best show in a scrambled world.\nI think you are surprised by sending this letter suddenly. I wanted to express it.\nYour power is the most beautiful and impressive I saw in my short life.\nIt was simple with simplicity, ugly with beauty,\nwas calm and destructive.\nI thought a lot about how I would express my feelings.\nI decided to send you a small gift.\nI am honoring you for your strength, so please do not refuse.\nYou can find it at a place that you humans call a shopping street. I hope you like it.\n-Posted by a Clown 
+안녕하십니까?\n뒤섞여버린 세상에서 최고의 쇼를 찾아 헤매는 미천한 광대, 에드가라 합니다.\n갑작스럽게 이런 편지를 보내 많이 놀랐을 것이라 생각합니다.\n하지만 당신의 그 힘에 감탄을 금치 못한 이 마음을 꼭 표현하고 싶었습니다.\n당신의 그 힘은 짧은 제 인생에서 가장 아름다웠고 인상적이었습니다.\n화려함과 동시에 수수했고, 아름다움과 동시에 추했으며,\n평온함과 동시에 파괴적이었습니다.\n이 터질 것 같은 심정을 어떻게 표현할까 많은 고민을 하다 결론을 내렸습니다.\n당신에게 작은 선물을 보내기로.\n당신의 힘에 대한 경의를 표하는 의미니, 부디 거절하지 말아주시길 바랍니다.\n선물은 당신들 인간이 부르길 쇼핑가라 부르는 장소에서 확인하실 수 있습니다.\n바라건대… 마음에 드셨으면 합니다.\n-광대 에드가 올림-
 
 ID=33001
 It feels like you're getting closer to me.\nI don't believe we'll be able to meet any time soon,\nThe longer you wait, the greater the chance of meeting.\nPrepare a small game for dramatic situations.\nYou can't pass the room in front of my room right now.\nBut if you have a token from my men,\nyou can make it pass through the forest at dawn.\nPlease hurry up.\nBefore this heart that awaits you is turned into hatred.\n-The Clown Ed
 
 ID=33002
--Report: Amaryllis-\n\n1. Added Soul Energy Immunity to SJ-DS-01. The state is very unstable.\N\n2. SJ-DS-01 has been found to be parasitic to humans, a host of soul energy.\nPeople who are parasitic are constantly deprived of soul energy, and their skin becomes hard like gypsum\nSn-DS-01 It works.\n\n3. Named the SJ-DS-01 as a signature snatcher. It turns out that there is a total amount of Soul Energy stored inside the DIGITAL Snatcher. However, ordinary humans do not have enough Soul Energy to fill the entire amount. Current total amount is not measurable.
+-리포트 : 아마릴리스-\n\n1. SJ-DS-01에 소울 에너지 내성 기능을 추가. 상태는 매우 불안정.\n\n2. SJ-DS-01은 소울 에너지의 숙주인 인간에게 기생 가능한 사실이 발견.\n기생 대상이 된 인간은 소울 에너지를 지속적으로 빼앗기며, 피부가 석고처럼 굳고\nSJ-DS-01의 식량으로만 운용된다.\n\n3. SJ-DS-01을 디그니티 스내쳐로 명명. 디그니티 스내쳐의 내부에 저장되는\n소울 에너지의 총량이 존재하는 것이 밝혀짐. 단, 평범한 인간은 해당 총량을 모두 채울 정도의 소울 에너지를 가지고 있지 않다. 현재의 총량은 측정 불가.
 
 ID=33003
-Report: Tempest-\n1. The body is composed of precise machines. Based on the skill of the Rapid Flame, we concluded that\nRapid Flame itself could not be produced. I think there was external help.\n\n2. The gun is a gun that fires dense desert energy.\n\n3. Special wires and claws with a 700kg grip are attached with special armor. Special wires are constructed of special materials that allow the storage and transport of soul energy.
+-리포트 : 템페스트-\n1. 정밀한 기계로 몸체가 구성. 래피드 플레임의 기술 수준에 근거해 결론을 내린 결과,\n래피드 플레임 자체적으로는 제작 불가능한 수준. 외부의 도움이 있었을 것으로 판단.\n\n2. 무장은 고밀도의 데자이어 에너지를 발사하는 주포.\n\n3. 특수 와이어와 악력 700kg의 크로가 특수 무장으로 부착되어 있음.\n단, 무장으로서의 성능은 기대할 수 없는 수준.\n\n4. 특수 와이어는 소울 에너지의 보관 및 이동을 가능하게 해주는 특수 재질로 구성.
 
 ID=33004
 One cloudy day.\nThe child's runaway was expected. Rather, they could not understand those who saw the phenomenon and called it a disaster. We have sinned and the time has come to pay for it. It was just a punishment for all the other children. Even if it has the name of revenge, I will accept it as an atonement.\n\nOne snowy day.\nThe child has fallen asleep again by foolish humans. They were sobered with the idea that everything would end when the child fell asleep. We are angry at the folly of thinking that Ned Company will save us. They will bury and kill all who know the truth. As if nothing had happened.\n\nA sunny day.\nThe closure of this place was decided, and the rest of the people were left in this hell. Perhaps not long afterwards all die. okay. This death is suitable for us who have sinned. But strangely, I am not afraid of the coming death.
@@ -13233,7 +13235,7 @@ ID=34005
 Flowerpot 6
 
 ID=34006
-In order to use {0}, {1} is required. Are you sure you want to get a flowerpot?
+{0} 을 사용하기 위해서는 {1} 이 필요합니다.\n화분을 소유 하시겠습니까?
 
 ID=34007
 {0} is now available.
@@ -13242,19 +13244,19 @@ ID=34008
 Cannot access {1} because you do not have {0}.
 
 ID=34009
-재배
+Cultivate
 
 ID=34010
 Help
 
 ID=34011
-{0}일
+{0} days
 
 ID=34012
-{0}시간 {1}분
+{0} hours {1} minutes
 
 ID=34013
-{0}분
+{0} minutes
 
 ID=34014
 {0} %
@@ -13263,7 +13265,7 @@ ID=34015
 Planting waiting
 
 ID=34016
-재배
+Cultivate
 
 ID=34017
 Harvestable
@@ -13275,7 +13277,7 @@ ID=34019
 Corrupted
 
 ID=34020
-사용
+Use
 
 ID=34021
 In Use
@@ -13305,7 +13307,7 @@ ID=34029
 Are you sure that you want to stop cultivating {0}?\n(invested materials will not be returned)
 
 ID=34030
-Successfully harvested {0}.
+재배완료\n{0}개의 재배 완료된 작물이 있습니다.
 
 ID=34031
 Harvest Successful
@@ -13317,6 +13319,7 @@ ID=34033
 Obtained {0}
 
 ID=34034
+Confirm
 
 ID=34035
 Failed to harvest because there is no free inventory space.
@@ -13334,25 +13337,25 @@ ID=34039
 {0} helped people\nCultivation time -{1}%
 
 ID=35000
-일반
+General
 
 ID=35001
-파티
+Party
 
 ID=35002
-리그
+Guild
 
 ID=35003
-귓속말
+Whisper
 
 ID=35004
-외치기
+Shout
 
 ID=35005
-시스템
+System
 
 ID=35006
-NPC 대사
+NPC Messages
 
 ID=35007
 Attack Information
@@ -13370,7 +13373,7 @@ ID=35011
 EXP
 
 ID=35012
-아이템 획득
+Obtained Items
 
 ID=35013
 Other Information
@@ -13379,10 +13382,10 @@ ID=35100
 Help
 
 ID=35101
-차단 목록
+Blacklist
 
 ID=35102
-채팅 설정
+Chat Options
 
 ID=35103
 Oh, no!
@@ -13439,22 +13442,22 @@ ID=35202
 Obtained {0} BP.
 
 ID=35203
-{0} 아이템을 {1}에 구입했습니다.
+Purchased {0} for {1}.
 
 ID=36000
-선택
+Selection
 
 ID=36001
-확인
+Confirm
 
 ID=36002
-닫기
+Close
 
 ID=36003
 Group Chat
 
 ID=36004
-취소
+Cancel
 
 ID=36005
 Register Quick Skill
@@ -13466,7 +13469,7 @@ ID=36007
 For the first time
 
 ID=36008
-사용
+Use
 
 ID=36009
 Accept Entry
@@ -13478,7 +13481,7 @@ ID=36011
 Mobile Device
 
 ID=36012
-이동
+Move
 
 ID=37001
 Emergency! A Void Fissure has appeared in District 6! Requesting support!
@@ -13505,7 +13508,7 @@ ID=37008
 The Vacuum Cube has disappeared, unable to obtain any items.
 
 ID=37009
-The power surrounding the The Primal is weakened, you can get closer now.\n({0} minutes remaining)
+더 프라이멀을 둘러 싸고 있는 기운이 약해져 접근이 가능합니다.\n\n남은 시간 : {0}분
 
 ID=37010
 Monday
@@ -13547,7 +13550,7 @@ ID=37025
 The Thing has been defeated in this channel.\n\nTime until emergency ends: {0} minutes
 
 ID=37026
-Code name [The Thing] has appeared in the Emergency Area.\nPlease defeat it within the time limit!\nAvailable for Lv40 and above.\nClick the button to join!\n\nTime until emergency ends: {0} minutes
+긴급상황 발생지의 [코드네임: 더 씽]을 저지해주세요!\n주어진 시간내에 토벌해야 하며 레벨 40부터 지원 가능합니다.\n버튼을 눌러 지원 해 주세요!\n\n긴급상황 종료까지 남은 시간 : {0}분
 
 ID=37500
 Soul Hunter Progress
@@ -13613,10 +13616,10 @@ ID=37522
 View Rank
 
 ID=37523
-순위
+Ranking
 
 ID=37524
-캐릭터 이름
+Character Name
 
 ID=37525
 Accumulated Soul Points
@@ -13643,10 +13646,10 @@ ID=37537
 Obtained Soul
 
 ID=37538
-개인
+Personal
 
 ID=37539
-리그
+Guild
 
 ID=37540
 Basic Reward
@@ -13661,7 +13664,7 @@ ID=37543
 Progress Method
 
 ID=37544
-보상내역
+Reward Contents
 
 ID=37545
 High Level Soul Points
@@ -13781,7 +13784,7 @@ ID=38020
 Hidden event appearance fixed {0}%
 
 ID=38021
-PC방 전용 행동력 200 증가
+Netcafe exclusive +200 fatigue
 
 ID=38022
 Exchange Sale Fee Exempt
@@ -13802,7 +13805,7 @@ ID=38027
 Increases BP Chance to Earn by {0}%
 
 ID=38500
-계급
+Classes
 
 ID=38501
 Novice D
@@ -13889,40 +13892,40 @@ ID=38528
 Acquired the Title of Walking the Path of Fighting
 
 ID=38529
-EXP 획득량 40% 증가
+EXP Gain Increased by 40%
 
 ID=38530
-EXP 획득량 40% 증가
+EXP Gain Increased by 40%
 
 ID=38531
-EXP 획득량 40% 증가
+EXP Gain Increased by 40%
 
 ID=38532
-EXP 획득량 40% 증가
+EXP Gain Increased by 40%
 
 ID=38533
-EXP 획득량 40% 증가
+EXP Gain Increased by 40%
 
 ID=38534
-EXP 획득량 40% 증가
+EXP Gain Increased by 40%
 
 ID=38535
-EXP 획득량 40% 증가
+EXP Gain Increased by 40%
 
 ID=38536
-EXP 획득량 40% 증가
+EXP Gain Increased by 40%
 
 ID=38537
-EXP 획득량 40% 증가
+EXP Gain Increased by 40%
 
 ID=38538
-EXP 획득량 40% 증가
+EXP Gain Increased by 40%
 
 ID=38539
-EXP 획득량 40% 증가
+EXP Gain Increased by 40%
 
 ID=38540
-EXP 획득량 40% 증가
+EXP Gain Increased by 40%
 
 ID=39950
 <font color='#C6C5B6'>{0}</font>
@@ -13937,37 +13940,37 @@ ID=40001
 Please open the bag and take out the operation device.
 
 ID=40002
-이동
+Move
 
 ID=40003
-점프
+Jump
 
 ID=40004
-기본 공격
+Basic Attack
 
 ID=40005
 Melee Attack
 
 ID=40006
-회피
+Dodge
 
 ID=40010
-이동
+Move
 
 ID=40011
-기본 공격
+Basic Attack
 
 ID=40012
-점프
+Jump
 
 ID=40013
-특수 공격
+Special Attack
 
 ID=40014
 Use Skill
 
 ID=40015
-회피
+Dodge
 
 ID=40016
 Or
@@ -14348,7 +14351,7 @@ ID=40228
 New enemies will be summoned soon.\nPlease be careful.
 
 ID=40229
-Incoming shuttle.\nPlease avoid.
+셔틀이 곧 출몰합니다. 안전한 곳을 찾아 전투를 진행하세요.
 
 ID=40230
 Elevator intruder alarm has been activated.\nDefeat all enemies, or stop the alarm system by turning off the switch.
@@ -14357,13 +14360,13 @@ ID=40231
 Undefined
 
 ID=40232
-미정
+Undefined
 
 ID=40233
-미정
+Undefined
 
 ID=40234
-미정
+Undefined
 
 ID=40235
 The enemy is restoring HP to the cocoon.\nPlease neutralize them quickly.
@@ -14477,7 +14480,7 @@ ID=40271
 When the 2 controllers are activated, a web will appear and drastically reduce Warlike's defense.
 
 ID=40272
-When the controller is activated, support fire from the Gatling gun is possible. It can only be used once.
+시뮬레이션 컨트롤러를 조작하면 터렛의 지원사격을 받을 수 있습니다.\n터렛은 1회 사용 후 파괴됩니다.
 
 ID=40273
 30 seconds after activating the controller, a powerful laser cannon will be fired.\nThe laser canon will attack everything and deals 90% of Maximum HP as damage.
@@ -14549,7 +14552,7 @@ ID=40295
 The obstacles near the door have been removed.
 
 ID=40296
-Al Lucy is operating a defensive device.\nStop the device and kill all enemies to proceed.\nWith time, additional defenses will be added.
+A.I 루시에 의하여 방어 장치가 가동 중입니다.\n시간이 경과 될수록 방어 레벨이 증가하여 자기장이 추가적으로 발생됩니다.
 
 ID=40297
 Al Lucy is operating a defensive device.\nHit the switch, so you can stop the magnetic fields.
@@ -14564,7 +14567,7 @@ ID=40300
 Steel Grave is composed of 5 stages, you are able to challenge it 5 times a day.
 
 ID=40301
-시뮬레이션 컨트롤러를 조작하면 적들이 등장합니다.
+When the controller is activated, enemies will appear.
 
 ID=40302
 Use the supporter summoning equipment to summon a Supporter that will help you in battle.
@@ -14588,13 +14591,13 @@ ID=40308
 Use the controller on the floating area to summon the enemy.
 
 ID=40309
-크리스탈 큐브가 소환되었습니다. 파괴 시 공격력 증가 효과를 얻을 수 있습니다.
+Cube has been summoned. Attack will increase upon its destruction.
 
 ID=40310
-크리스탈 큐브가 소환되었습니다. 파괴 시 방어도 증가 효과를 얻을 수 있습니다.
+Cube has been summoned. Defense will increase upon its destruction.
 
 ID=40311
-크리스탈 큐브가 소환되었습니다. 파괴 시 HP가 모두 회복됩니다.
+Cube has been summoned. Destroy it to fully restore HP.
 
 ID=40312
 Disable the floor trap by activating the controller on the floating area.
@@ -14627,7 +14630,7 @@ ID=40321
 Some of the floating areas are not visible but you can stand on them.
 
 ID=40401
-More enemies will be summoned soon. Please be careful.
+트랩을 피하면서 적과 맞서세요.\n잠시 후 적이 소환됩니다. 주의하세요.
 
 ID=40402
 Fire traps on the floor will periodically occur.\nDodge the traps and dodge the dolls.
@@ -14636,7 +14639,7 @@ ID=40403
 Flame traps generate flames every time and can't be avoided by dodge.\nTake flame traps at timing.
 
 ID=40404
-To damage the red central temptation stone, please defeat all the enemies summoned by the blue/green temptation stone.
+중앙의 붉은 템프테이션 스톤에 피해를 입히려면 푸른 템프테이션 스톤과 \n소환된 적들을 모두 섬멸해야 합니다.
 
 ID=40405
 Please defeat Edgar, or more enemies will appear one after another.
@@ -14648,7 +14651,7 @@ ID=40407
 The next enemy will appear after all current enemies are defeated.
 
 ID=40408
-The traps will be activated soon.
+트랩을 피하면서 적과 맞서세요.\n잠시 후 트랩이 발동됩니다.
 
 ID=40409
 Destroying the central red temptation stone will allow you to proceed to the next area.\nThe blue/green temptation stone has been successfully destroyed. You may attack the red temptation stone in 15 seconds.
@@ -14774,7 +14777,7 @@ ID=40472
 Land Bison's durability has been reduced to 50%. Its performance has been reduced.
 
 ID=40473
-Land Bison's durability has been reduced to 20%. The mission will fail if Land Bison is destroyed.
+랜드 바이슨의 내구도가 20% 남았습니다.\n랜드 바이슨 파괴 시 작전은 실패 하게 됩니다.
 
 ID=40474
 The Land Bison has been destroyed. It is not possible to proceed.\nThe mission has been failed.
@@ -14846,7 +14849,7 @@ ID=40496
 The Main Core detects danger!\nThe system's defense level rises. Enemy reinforcements have arrived.
 
 ID=40497
-콘덴서를 파괴하면, 콘덴서의 전력으로 가동하는 방어 기능을 종료할 수 있습니다.
+Upon neutralizing the condenser, you can prevent it from defensive functions.
 
 ID=40498
 The Main Core detects danger; it has raised the system's defense level.
@@ -14975,7 +14978,7 @@ ID=40623
 Defeating all summoned guardians will grant temporary immunity to The Primal's interior unstable gas.
 
 ID=40624
-The powerful core's guardian will be summoned soon.\nThe guardian won't disappear until the core is defeated.
+잠시 후 강력한 핵의 수호자가 소환됩니다. 이 핵의 수호자는 핵을 처치하기 전에는 사라지지 않습니다.
 
 ID=40625
 Star Forest League Purifiers give you vitality and periodically heal you.
@@ -15014,7 +15017,7 @@ ID=40637
 Trivial bugs!\nThere is no place for you to stand!
 
 ID=40638
-There will be no pieces of meat left in front of the overwhelming force!
+압도적인 힘 앞에 \n고깃덩이 한 조각도 남지 않을 것이다!
 
 ID=40639
 The power is gathering.
@@ -15065,13 +15068,13 @@ ID=40811
 [Item drop rate 20%] increase depending on the number of people currently connected in the PC room.
 
 ID=40812
-현재 PC방에서 접속해 주신 인원에 따라 [아이템 드랍률 20%] 상승 효과가 적용 되었습니다.
+[Item drop rate 20%] increase depending on the number of people currently connected in the PC room.
 
 ID=40813
-현재 PC방에서 접속해 주신 인원에 따라 [아이템 드랍률 20%] 상승 효과가 적용 되었습니다.
+[Item drop rate 20%] increase depending on the number of people currently connected in the PC room.
 
 ID=40814
-현재 PC방에서 접속해 주신 인원에 따라 [아이템 드랍률 20%] 상승 효과가 적용 되었습니다.
+[Item drop rate 20%] increase depending on the number of people currently connected in the PC room.
 
 ID=41000
 Day {0}
@@ -15356,7 +15359,7 @@ ID=41313
 Soul Worker Start Dash!!
 
 ID=41314
-보상받기
+Claim reward
 
 ID=41315
 Receive final reward
@@ -15869,13 +15872,13 @@ ID=42159
 Lucky Miraculous White Coat
 
 ID=42160
-의무부대 포츈
+Lucky Medical Corps
 
 ID=42161
-백의의 천사 포츈
+Lucky Nurse
 
 ID=42162
-기적을 행하는 이들 포츈
+Lucky Miraculous White Coat
 
 ID=42163
 Strike Force
@@ -15887,13 +15890,13 @@ ID=42165
 The One True Strike Force
 
 ID=42166
-포스 스트라이크
+Strike Force
 
 ID=42167
-공격부대 포스 스트라이크
+Offensive Strike Force
 
 ID=42168
-일기당천 포스 스트라이크
+The One True Strike Force
 
 ID=42169
 ST Lab Research Department
@@ -15905,13 +15908,13 @@ ID=42171
 ST Lab's Brilliant Hall of Knowledge
 
 ID=42172
-연구부서 ST-Lab
+ST Lab Research Department
 
 ID=42173
-지식의 탐구자 ST-Lab
+ST Lab Knowledge Researcher
 
 ID=42174
-찬란한 지식의 관 ST-Lab
+ST Lab's Brilliant Hall of Knowledge
 
 ID=42175
 Heavy Gears
@@ -15923,13 +15926,13 @@ ID=42177
 Strongest Heavy Gears
 
 ID=42178
-운용부대 헤비 기어스
+Heavy Gears
 
 ID=42179
-임전무퇴 헤비 기어스
+Inflexible Heavy Gears
 
 ID=42180
-최강화력 헤비 기어스
+Strongest Heavy Gears
 
 ID=42181
 Sean
@@ -15941,145 +15944,145 @@ ID=42183
 Desperate Miser Sean
 
 ID=42184
-션
+Sean
 
 ID=42185
-수전노 션
+Miser Sean
 
 ID=42186
-필사적인 수전노 션
+Desperate Miser Sean
 
 ID=42187
-와일드 스톤
+Wild Stone
 
 ID=42188
-단단한 와일드 스톤
+Adamant Wild Stone
 
 ID=42189
 Little Rock Spirit, Wild Stone
 
 ID=42190
-와일드 스톤
+Wild Stone
 
 ID=42191
-단단한 와일드 스톤
+Adamant Wild Stone
 
 ID=42192
-암석의 소악마 와일드 스톤
+Little Rock Spirit, Wild Stone
 
 ID=42193
-브록
+Brock
 
 ID=42194
-작전병 브록
+Tactician Brock
 
 ID=42195
 Commanding Tactician Brock
 
 ID=42196
-브록
+Brock
 
 ID=42197
-작전병 브록
+Tactician Brock
 
 ID=42198
-전두지휘의 작전병 브록
+Commanding Tactician Brock
 
 ID=42199
-워라이크
+Warlike
 
 ID=42200
-단단한 워라이크
+Strong Warlike
 
 ID=42201
 Militant Warlike Rock
 
 ID=42202
-워라이크
+Warlike
 
 ID=42203
-단단한 워라이크
+Strong Warlike
 
 ID=42204
-호전의 암석 워라이크
+Militant Warlike Rock
 
 ID=42205
-시워 랫
+Sewer Rat
 
 ID=42206
-시궁쥐 시워 랫
+Sewage Lord Sewer Rat
 
 ID=42207
 Dark Sewage Lord Sewer Rat
 
 ID=42208
-시워 랫
+Sewer Rat
 
 ID=42209
-시궁쥐 시워 랫
+Sewage Lord Sewer Rat
 
 ID=42210
-어둠의 시궁쥐 시워 랫
+Dark Sewage Lord Sewer Rat
 
 ID=42211
-베놈 뮤커스
+Venomous Mucus
 
 ID=42212
-검은 거인 베놈 뮤커스
+Black Giant's Venomous Mucus
 
 ID=42213
 Deadly Giant Venomous Mucus
 
 ID=42214
-베놈 뮤커스
+Venomous Mucus
 
 ID=42215
-검은 거인 베놈 뮤커스
+Black Giant's Venomous Mucus
 
 ID=42216
-맹독의 거인 베놈 뮤커스
+Deadly Giant Venomous Mucus
 
 ID=42217
-다크 엘리게이터
+Dark Alligator
 
 ID=42218
-약탈자 다크 엘리게이터
+Dark Alligator Pillager
 
 ID=42219
 Violet Dark Alligator Beast
 
 ID=42220
-다크 엘리게이터
+Dark Alligator
 
 ID=42221
-약탈자 다크 엘리게이터
+Dark Alligator Pillager
 
 ID=42222
-자색 악어 다크 엘리게이터
+Violet Dark Alligator Beast
 
 ID=42223
-셀
+Cell
 
 ID=42224
-개량된 셀
+Improved Cell
 
 ID=42225
 Crawling Earth Dark Cell
 
 ID=42226
-셀
+Cell
 
 ID=42227
-개량된 셀
+Improved Cell
 
 ID=42228
-땅을 기는 어둠 셀
+Crawling Earth Dark Cell
 
 ID=42229
 S-01
 
 ID=42230
-개량된 S-01
+Improved S-01
 
 ID=42231
 Menacing Threatful S-01
@@ -16088,100 +16091,100 @@ ID=42232
 S-01
 
 ID=42233
-개량된 S-01
+Improved S-01
 
 ID=42234
-솟아오르는 위협 S-01
+Menacing Threatful S-01
 
 ID=42235
-빅터
+Victor
 
 ID=42236
-연구원 빅터
+Researcher Victor
 
 ID=42237
 Restless Researcher Victor
 
 ID=42238
-빅터
+Victor
 
 ID=42239
-연구원 빅터
+Researcher Victor
 
 ID=42240
-불철주야의 연구원 빅터
+Restless Researcher Victor
 
 ID=42241
-갈루스
+Gallus
 
 ID=42242
-창공의 갈루스
+Blue Sky Gallus
 
 ID=42243
 Menace of the Blue Skies Gallus
 
 ID=42244
-갈루스
+Gallus
 
 ID=42245
-창공의 갈루스
+Blue Sky Gallus
 
 ID=42246
-창공의 위협 갈루스
+Menace of the Blue Skies Gallus
 
 ID=42247
-본 크래셔
+Bonecrusher
 
 ID=42248
-파쇄의 본 크래셔
+Crushing Bonecrusher
 
 ID=42249
 Evil Crushing Bonecrusher
 
 ID=42250
-본 크래셔
+Bonecrusher
 
 ID=42251
-파쇄의 본 크래셔
+Crushing Bonecrusher
 
 ID=42252
-파쇄의 악마 본 크래셔
+Evil Crushing Bonecrusher
 
 ID=42253
-블랙 건틀릿
+Black Gauntlet
 
 ID=42254
-흑권 블랙 건틀릿
+Black Fist Black Gauntlet
 
 ID=42255
 Blasting Fist Black Gauntlet
 
 ID=42256
-블랙 건틀릿
+Black Gauntlet
 
 ID=42257
-흑권 블랙 건틀릿
+Black Fist Black Gauntlet
 
 ID=42258
-폭쇄의 흑권 블랙 건틀릿
+Blasting Fist Black Gauntlet
 
 ID=42259
-헬 인포서
+Hell Infuser
 
 ID=42260
-새기는 자 헬 인포서
+Engraved Hell Infuser
 
 ID=42261
 Red Arm Hell Infuser
 
 ID=42262
-헬 인포서
+Hell Infuser
 
 ID=42263
-새기는 자 헬 인포서
+Engraved Hell Infuser
 
 ID=42264
-눌러 새기는 자 헬 인포서
+Red Arm Hell Infuser
 
 ID=42265
 Kain
@@ -16193,13 +16196,13 @@ ID=42267
 Lightning Speed Fanged Wolf Kain
 
 ID=42268
-카인
+Kain
 
 ID=42269
-백암랑 카인
+Fanged Wolf Kain
 
 ID=42270
-질풍신뢰의 백암랑 카인
+Lightning Speed Fanged Wolf Kain
 
 ID=42271
 Big Puppet
@@ -16211,13 +16214,13 @@ ID=42273
 Self Destructing Big Puppet of Destruction
 
 ID=42274
-빅 퍼펫
+Big Puppet
 
 ID=42275
-재앙의 거인 빅 퍼펫
+The Disastrous Giant, Big Puppet
 
 ID=42276
-멸절의 자폭병기 빅 퍼펫
+Self Destructing Big Puppet of Destruction
 
 ID=42277
 Giant Asphalt Golem
@@ -16229,7 +16232,7 @@ ID=42279
 Howling Giant Rock Asphalt Golem
 
 ID=42280
-거신 아스팔트 골렘
+Giant Asphalt Golem
 
 ID=42281
 Gray Rock Asphalt Golem μ
@@ -16247,16 +16250,16 @@ ID=42285
 Triple Colored Demon Eyed Mad Beholder
 
 ID=42286
-마안 매드 비홀더
+Demon Eyed Mad Beholder
 
 ID=42287
-삼색안 매드 비홀더
+Triple Colored Eyed Mad Beholder
 
 ID=42288
-삼색 마안 매드 비홀더
+Triple Colored Demon Eyed Mad Beholder
 
 ID=42289
-래피드 플레임
+Rapid Flame
 
 ID=42290
 Godly Fast Rapid Flame
@@ -16265,19 +16268,19 @@ ID=42291
 Flame of Swiftness Rapid Flame
 
 ID=42292
-래피드 플레임
+Rapid Flame
 
 ID=42293
-신속의 래피드 플레임
+Godly Fast Rapid Flame
 
 ID=42294
-신속의 불꽃 래피드 플레임
+Flame of Swiftness Rapid Flame
 
 ID=42295
 Glutton
 
 ID=42296
-그루톤
+Glutton
 
 ID=42297
 Shining Glutton
@@ -16295,85 +16298,85 @@ ID=42301
 Overly Gluttonous Glutton Army
 
 ID=42302
-그루톤 군단
+Glutton Army
 
 ID=42303
-폭식의 그루톤 군단
+Gluttonous Glutton Army
 
 ID=42304
-폭식의 재앙 그루톤 군단
+Overly Gluttonous Glutton Army
 
 ID=42305
-체이서
+Chaser
 
 ID=42306
-기습부대 체이서
+Raid Force Chaser
 
 ID=42307
 Blood Absorption's Edge Chaser
 
 ID=42308
-체이서
+Chaser
 
 ID=42309
-기습부대 체이서
+Raid Force Chaser
 
 ID=42310
-피를 부르는 칼날 체이서
+Blood Absorption's Edge Chaser
 
 ID=42311
-인텐션 가루라
+Intentful Garura
 
 ID=42312
-강습의 인텐션 가루라
+Violent Intentful Garura
 
 ID=42313
 Violent Monster Bird Intention Carla
 
 ID=42314
-인텐션 가루라
+Intentful Garura
 
 ID=42315
-강습의 인텐션 가루라
+Violent Intentful Garura
 
 ID=42316
-강습괴조 인텐션 가루라
+Violent Monster Bird Intention Carla
 
 ID=42317
-퀸 가루라
+Queen Garura
 
 ID=42318
-괴조 퀸 가루라
+Monster Bird Queen Garura
 
 ID=42319
 Ruler of the Blue Sky Queen Garura
 
 ID=42320
-퀸 가루라
+Queen Garura
 
 ID=42321
-괴조 퀸 가루라
+Monster Bird Queen Garura
 
 ID=42322
-창공의 패자 퀸 가루라
+Ruler of the Blue Sky Queen Garura
 
 ID=42323
-세듀린
+Sedurin
 
 ID=42324
-수석박사 세듀린
+Head Dr. Sedurin
 
 ID=42325
 Sendurin, the inorganic scholar of Saatirist
 
 ID=42326
-세듀린
+Sedurin
 
 ID=42327
-수석박사 세듀린
+Head Dr. Sedurin
 
 ID=42328
-나태의 무기학자 세듀린
+Sendurin, the inorganic scholar of Saatirist
 
 ID=42329
 Setsuka & Ryoko
@@ -16394,40 +16397,40 @@ ID=42334
 Unrivaled Sisters Setsuka & Ryoko μ
 
 ID=42335
-플레임 템페스트
+Flame Tempest
 
 ID=42336
-살육의 플레임 템페스트
+Murderous Flame Tempest
 
 ID=42337
 Flames of Corruption Tempest
 
 ID=42338
-플레임 템페스트
+Flame Tempest
 
 ID=42339
-살육의 플레임 템페스트
+Murderous Flame Tempest
 
 ID=42340
-배덕의 플레임 템페스트
+Flames of Corruption Tempest
 
 ID=42341
-머러우더
+Marauder
 
 ID=42342
-암살자 머러우더
+Assassin Marauder
 
 ID=42343
 Stealthy Assassin Marauder
 
 ID=42344
-머러우더
+Marauder
 
 ID=42345
-암살자 머러우더
+Assassin Marauder
 
 ID=42346
-은신의 암살자 머러우더
+Stealthy Assassin Marauder
 
 ID=42347
 Rita
@@ -16439,34 +16442,34 @@ ID=42349
 Best Gold Miss Rita
 
 ID=42350
-리타
+Rita
 
 ID=42351
-골드미스 리타
+Gold Miss Rita
 
 ID=42352
-굴지의 골드미스 리타
+Best Gold Miss Rita
 
 ID=42353
-댄싱 섀도우
+Dancing Shadow
 
 ID=42354
-암살자 댄싱 섀도우
+Assassin Dancing Shadow
 
 ID=42355
 Running Dancing Shadow
 
 ID=42356
-댄싱 섀도우
+Dancing Shadow
 
 ID=42357
-암살자 댄싱 섀도우
+Assassin Dancing Shadow
 
 ID=42358
-달리는 그림자 댄싱 섀도우
+Running Dancing Shadow
 
 ID=42359
-로드 버스터
+Road Buster
 
 ID=42360
 War Road Buster
@@ -16475,16 +16478,16 @@ ID=42361
 Extermination Road Buster
 
 ID=42362
-로드 버스터
+Road Buster
 
 ID=42363
-전투머신 로드 버스터
+War Road Buster
 
 ID=42364
-섬멸사양 로드 버스터
+Extermination Road Buster
 
 ID=42365
-세듀린
+Sedurin
 
 ID=42366
 Machine-obsessed Sedurin
@@ -16493,13 +16496,13 @@ ID=42367
 Pitifully Confused Sedurin
 
 ID=42368
-세듀린
+Sedurin
 
 ID=42369
-머신 홀릭 세듀린
+Machine-obsessed Sedurin
 
 ID=42370
-블랙홀 머신 세듀린
+Pitifully Confused Sedurin
 
 ID=42371
 Megiddo Maker MK-2
@@ -16511,16 +16514,16 @@ ID=42373
 Purifying Megiddo Maker MK-2
 
 ID=42374
-매기도 메이커 MKII
+Megiddo Maker MK-2
 
 ID=42375
-강화형 매기도 메이커 MKII
+Augmented Megiddo Maker MK-2
 
 ID=42376
-연옥의 매기도 메이커 MKII
+Purifying Megiddo Maker MK-2
 
 ID=42377
-세니아
+Xenia
 
 ID=42378
 Tactics Officer Xenia
@@ -16529,13 +16532,13 @@ ID=42379
 Thorough Witch Xenia
 
 ID=42380
-세니아
+Xenia
 
 ID=42381
-작전 장교 세니아
+Tactics Officer Xenia
 
 ID=42382
-철두철미한 마녀 세니아
+Thorough Witch Xenia
 
 ID=42383
 Cynthia & Hugh
@@ -16547,13 +16550,13 @@ ID=42385
 Scoop Killers Cynthia & Hugh
 
 ID=42386
-신시아&휴
+Cynthia & Hugh
 
 ID=42387
-환상 궁합 신시아&휴
+Fantasy Couple Cynthia & Hugh
 
 ID=42388
-특종 킬러 신시아&휴
+Scoop Killers Cynthia & Hugh
 
 ID=42389
 Ran
@@ -16565,31 +16568,31 @@ ID=42391
 Fortune Master Ran μ
 
 ID=42392
-란
+Ran
 
 ID=42393
-실수투성이 란
+Goofy Girl Ran
 
 ID=42394
-의도하지 않은 행운 란
+Fortune Master Ran μ
 
 ID=42395
-센트리 커맨더
+Sentry Commander
 
 ID=42396
-3배 빠른 센트리 커맨더
+Triple Speed Sentry Commander
 
 ID=42397
 Red Meteor Sentry Commander
 
 ID=42398
-센트리 커맨더
+Sentry Commander
 
 ID=42399
-3배 빠른 센트리 커맨더
+Triple Speed Sentry Commander
 
 ID=42400
-붉은 유성 센트리 커맨더
+Red Meteor Sentry Commander
 
 ID=42401
 Heavy Earthquaker
@@ -16601,13 +16604,13 @@ ID=42403
 Million Horsepower Heavy Earthquaker
 
 ID=42404
-헤비 어스 퀘이커
+Heavy Earthquaker
 
 ID=42405
-철인 헤비 어스퀘이커
+Iron Man Heavy Earthquaker
 
 ID=42406
-풀파워 헤비 어스퀘이커
+Million Horsepower Heavy Earthquaker
 
 ID=42407
 Noah
@@ -16619,13 +16622,13 @@ ID=42409
 Guardian of Storms, Noah
 
 ID=42410
-노아
+Noah
 
 ID=42411
-바람의 친구 노아
+Messenger of Wind, Noah
 
 ID=42412
- 폭풍의 수호자 노아
+Guardian of Storms, Noah
 
 ID=42413
 Enoch
@@ -16637,13 +16640,13 @@ ID=42415
 Queen of Disks, Enoch
 
 ID=42416
-에녹
+Enoch
 
 ID=42417
-원반의 요정 에녹
+Fairy of Disks, Enoch
 
 ID=42418
-원반의 여왕 에녹
+Queen of Disks, Enoch
 
 ID=42419
 Shion
@@ -16655,22 +16658,22 @@ ID=42421
 Queen of Blades, Shion
 
 ID=42422
-시온
+Shion
 
 ID=42423
-비트의 주인 시온
+Master of Bits, Shion
 
 ID=42424
-칼날 여왕 시온
+Queen of Blades, Shion
 
 ID=42425
-빛나는 그루톤
+Shining Glutton
 
 ID=42426
-빛나는 그루톤
+Shining Glutton
 
 ID=42427
-루시
+Lucy
 
 ID=42428
 Whole Brain Girl Lucy
@@ -16679,16 +16682,16 @@ ID=42429
 Tomb Keeper Lucy
 
 ID=42430
-루시
+Lucy
 
 ID=42431
-전뇌소녀 루시
+Whole Brain Girl Lucy
 
 ID=42432
-기계무덤의 파수꾼 루시
+Tomb Keeper Lucy
 
 ID=42433
-세니아
+Xenia
 
 ID=42434
 Coercive Adviser Xenia
@@ -16697,16 +16700,16 @@ ID=42435
 Military Xenia of the Revolutionary War
 
 ID=42436
-세니아
+Xenia
 
 ID=42437
-강압적인 보좌관 세니아
+Coercive Adviser Xenia
 
 ID=42438
-역전혁명의 군사 세니아
+Military Xenia of the Revolutionary War
 
 ID=42439
-세듀린
+Sedurin
 
 ID=42440
 Tired Engineering Girl Sedurin
@@ -16715,28 +16718,28 @@ ID=42441
 Endurance Engineer Sedurin
 
 ID=42442
-세듀린
+Sedurin
 
 ID=42443
-피곤한 공학소녀 세듀린
+Tired Engineering Girl Sedurin
 
 ID=42444
-말살지향 공학도 세듀린
+Endurance Engineer Sedurin
 
 ID=42445
 Hungry Glutton
 
 ID=42446
-배고픈 그루톤
+Hungry Glutton
 
 ID=42447
-배고픈 그루톤
+Hungry Glutton
 
 ID=42448
-배고픈 그루톤
+Hungry Glutton
 
 ID=42449
-배고픈 그루톤
+Hungry Glutton
 
 ID=42450
 Yomi μ
@@ -16748,13 +16751,13 @@ ID=42452
 Ultra-Reliable Yomi μ
 
 ID=42453
-요미
+Yomi μ
 
 ID=42454
-상인연합 요미
+Merchant League Yomi μ
 
 ID=42455
-까칠한 요미
+Ultra-Reliable Yomi μ
 
 ID=42456
 Catherine 
@@ -16766,13 +16769,13 @@ ID=42458
 Messy Girl Catherine
 
 ID=42459
-캐서린
+Catherine 
 
 ID=42460
-순진무구 캐서린
+Innocent Catherine
 
 ID=42461
-천방지축 캐서린
+Messy Girl Catherine
 
 ID=42462
 Warrant Officer Amanda μ
@@ -16784,262 +16787,262 @@ ID=42464
 Emergency Communications Amanda μ
 
 ID=42465
-준위 아만다
+Warrant Officer Amanda μ
 
 ID=42466
-통신장교 아만다
+Communications Officer Amanda μ
 
 ID=42467
-긴급통신 아만다
+Emergency Communications Amanda μ
 
 ID=43139
-디그니티 스내쳐
+Dignity Snatcher
 
 ID=43143
-F ARIA
+F-ARIA
 
 ID=43146
-유혹의 조각
+Fragment of Temptation
 
 ID=43000
-잭 더 킹
+Jack the King
 
 ID=43003
-댄싱 돌즈
+Dancing Dolls
 
 ID=43019
-정크 나이트
+Junk Knight
 
 ID=43028
-신시아
+Cynthia
 
 ID=43031
-아라크니스
+Arachnis
 
 ID=43057
-스네이크
+Snake
 
 ID=43071
-스카
+Scar
 
 ID=43076
-화이트 팽
+White Fang
 
 ID=43099
-스콜
+Squall
 
 ID=43110
-트래커
+Tracker
 
 ID=43115
-데우스 엑스 마키나
+Deus Ex Machina
 
 ID=43006
-와일드 스톤
+Wild Stone
 
 ID=43008
-브록
+Brock
 
 ID=43010
-워라이크
+Warlike
 
 ID=43012
-아스팔트 골렘
+Asphalt Golem
 
 ID=43013
-시워 랫
+Sewer Rat
 
 ID=43015
-베놈 뮤커스
+Venomous Mucus
 
 ID=43017
-다크 엘리게이터
+Dark Alligator
 
 ID=43022
-바큠 베인
+Vacuum Vein
 
 ID=43025
-맹그로브 셀
+Mangrove Cell
 
 ID=43034
-셀
+Cell
 
 ID=43036
 S-01
 
 ID=43038
-빅터
+Victor
 
 ID=43040
-비홀더
+Beholder
 
 ID=43041
-호크마
+Hawkma
 
 ID=43042
-갈루스
+Gallus
 
 ID=43044
-본 크래셔
+Bonecrusher
 
 ID=43046
-아론
+Aaron
 
 ID=43047
-블랙 건틀릿
+Black Gauntlet
 
 ID=43049
-아머 스틸
+Steel Armor
 
 ID=43050
-헬 인포서
+Hell Infuser
 
 ID=43052
-토오루
+Thor
 
 ID=43053
-체이서
+Chaser
 
 ID=43055
-카챠
+Katja
 
 ID=43056
-베닌
+Venin
 
 ID=43060
-인텐션 가루라
+Intentful Garura
 
 ID=43062
-레드 메인
+Red Mane
 
 ID=43063
-퀸 가루라
+Queen Garura
 
 ID=43065
-세듀린
+Sedurin
 
 ID=43067
-싱글 레그
+Single Leg
 
 ID=43068
-소라
+Sora
 
 ID=43069
-플레임 템페스트
+Flame Tempest
 
 ID=43074
-머러우더
+Marauder
 
 ID=43079
-헬 콜렉터
+Hell Collector
 
 ID=43080
-댄싱 섀도우
+Dancing Shadow
 
 ID=43082
-로드 버스터
+Road Buster
 
 ID=43084
-메기도 메이커 MK.II
+Megiddo Maker MK-2
 
 ID=43086
-민우&줄리
+Ted & Julie
 
 ID=43087
-세니아
+Xenia
 
 ID=43089
-센트리 커맨더
+Sentry Commander
 
 ID=43091
-헤비 어스퀘이커
+Heavy Earthquaker
 
 ID=43093
-아만다
+Amanda
 
 ID=43095
-지크 프로토
+Sieg Prototype
 
 ID=43097
-블레이드 울프
+Blade Wolf
 
 ID=43102
-도미니어 제로
+Domineer Zero
 
 ID=43103
-사라
+Sarah
 
 ID=43104
-컷스로트
+Cutthroat
 
 ID=43105
-어설트 스파이더
+Assault Spider
 
 ID=43106
-헤비 아이언 웜
+Heavy Iron Worm
 
 ID=43108
-샌슨
+Sensun
 
 ID=43113
-클리니
+Cleany
 
 ID=43114
-강철의 로봇 형제
+Steel Robot Brother
 
 ID=43118
-어설트 고스트
+Assault Ghost
 
 ID=43119
-베티
+Betty
 
 ID=43120
-그래스퍼
+Grasper
 
 ID=43121
-퀸 오브 플라워
+Queen of Flowers
 
 ID=43123
-해머 헤드
+Hammerhead
 
 ID=43124
-제노사이더 엑스
+Genocider X
 
 ID=43125
-디그 몬스터
+Dig Monster
 
 ID=43127
-넘버리스 림
+Numberless Rims
 
 ID=43129
-제시
+Jessie
 
 ID=43131
-이안
+Ian
 
 ID=43133
-풀 아머 지크 프로토
+Full Armor Sieg Prototype
 
 ID=43135
-마틴
+Martin
 
 ID=43137
-트레이닝 더미
+Trainings Dummy
 
 ID=43142
-드레인 크로
+Drain Claw
 
 ID=43149
-부커 T.V
+Booker TV
 
 ID=43151
-아진
+Azin
 
 ID=43153
-에릭
+Erik
 
 ID=43155
-써니
+Sonny
 
 ID=43265
 [S] Kain
@@ -17258,10 +17261,10 @@ ID=43320
 [SH] Road Buster
 
 ID=43321
-[S]세듀린
+[S] Sedurin
 
 ID=43322
-[SH]세듀린
+[SH] Sedurin
 
 ID=43323
 [S] Megiddo Maker MK-2
@@ -17330,16 +17333,16 @@ ID=43344
 [SH] Lucy
 
 ID=43345
-[S]세니아
+[S] Xenia
 
 ID=43346
-[SH]세니아
+[SH] Xenia
 
 ID=43347
-[S]세듀린
+[S] Sedurin
 
 ID=43348
-[SH]세듀린
+[SH] Sedurin
 
 ID=43349
 [S] Hungry Glutton
@@ -17366,25 +17369,25 @@ ID=45000
 Item Mall
 
 ID=45001
-코스튬
+Avatar
 
 ID=45002
 Display
 
 ID=45003
-숨김
+Hide
 
 ID=45004
 Wardrobe
 
 ID=45005
-열기
+Open
 
 ID=45006
-저장
+Save
 
 ID=45007
-초기화
+Reset
 
 ID=45008
 Gift All
@@ -17399,10 +17402,10 @@ ID=45011
 Buy All
 
 ID=45012
-이벤트
+Event
 
 ID=45013
-구매
+Purchase
 
 ID=45014
 Remove
@@ -17438,25 +17441,25 @@ ID=45024
 Balance Left:
 
 ID=45025
-구매
+Purchase
 
 ID=45026
-취소
+Cancel
 
 ID=45027
 Use Duration
 
 ID=45028
-일
+d
 
 ID=45029
 Quantity
 
 ID=45030
-개
+Dog
 
 ID=45031
-무제한
+Unlimited
 
 ID=45032
 Save Set
@@ -17471,10 +17474,10 @@ ID=45035
 Set Name
 
 ID=45036
-저장
+Save
 
 ID=45037
-취소
+Cancel
 
 ID=45038
 Please enter a set name.
@@ -17486,16 +17489,16 @@ ID=45040
 Wardrobe Sets
 
 ID=45041
-적용
+Apply
 
 ID=45042
-삭제
+Delete
 
 ID=45043
-캐시 충전
+Charge RC
 
 ID=45044
-구매
+Purchase
 
 ID=45045
 Gift Item
@@ -17519,13 +17522,13 @@ ID=45051
 Sale Time: {0}
 
 ID=45052
-일
+d
 
 ID=45053
-시간
+h
 
 ID=45054
-분
+m
 
 ID=45055
 Items cannot be added to the gift box.
@@ -17588,7 +17591,7 @@ ID=45116
 {0}
 
 ID=45117
-{0} The transactions have been completed; some purchases could not be enacted.
+{0} 아이템 구매가 완료 되었습니다.\n일부 아이템은 구매에 실패하였습니다.
 
 ID=45118
 The inventory tab is full.\nNew items will be sent to the mail.\nAre you sure you want to make the purchase?
@@ -17597,10 +17600,10 @@ ID=45119
 There is no more room in your Furniture Inventory.\nYou will receive the items by mail.\nAre you sure you want to purchase the items?
 
 ID=45120
-The purchases have been made; they have been delivered to your room.
+아이템 구입이 완료되었습니다.\n해당 아이템은 마이룸 아이템으로 자신의 마이룸에서 확인 가능합니다.
 
 ID=45121
-미리보기
+Preview
 
 ID=45122
 Clear Cart
@@ -17621,7 +17624,7 @@ ID=45127
 Updating RC
 
 ID=45128
-캐시 충전
+Charge RC
 
 ID=45129
 Please press the refresh button\nto check the amount of money you have left after the Cash is charged.
@@ -17654,7 +17657,7 @@ ID=45207
 Change Guild Name
 
 ID=45208
-확성기
+Megaphone
 
 ID=45209
 Send
@@ -17723,7 +17726,7 @@ ID=45314
 Use 1
 
 ID=45315
-닫기
+Close
 
 ID=45316
 Number of tickets
@@ -17738,7 +17741,7 @@ ID=45319
 Open Avatar Transmitter
 
 ID=46000
-스틸 그레이브
+Steel Grave
 
 ID=46001
 Chapter Selection
@@ -17747,7 +17750,7 @@ ID=46002
 Enemy Information
 
 ID=46003
-보상 정보
+Compensation Information
 
 ID=46004
 {0} > {1}
@@ -17771,13 +17774,13 @@ ID=46104
 Press confirm to proceed to the next stage.
 
 ID=46105
-확인
+Confirm
 
 ID=46106
 The chapter has been cleared. You can proceed to town now.
 
 ID=46107
-나가기
+Exit
 
 ID=46108
 Enter\n[SPACE]
@@ -17801,28 +17804,28 @@ ID=46203
 Press the OK button to go to town.
 
 ID=46204
-확인
+Confirm
 
 ID=46300
 Steel Grave has been successfully cleared.
 
 ID=46301
-Congratulations!\nYou have successfully cleared Steel Grave {0}.\nPlease return tomorrow.
+축하합니다!\n스틸 그레이브 {0} 도전에 성공 하셨습니다.
 
 ID=46302
 Steel Grave challenge failed.
 
 ID=46303
-Could not enter Steel Grave {0}.\nTry again tomorrow.
+스틸 그레이브 {0} 도전에 실패 하셨습니다.
 
 ID=46304
-클리어 시간
+Clear Time
 
 ID=47000
 Vehicle
 
 ID=47001
-정보
+Information
 
 ID=47002
 Speed
@@ -17831,13 +17834,13 @@ ID=47003
 Booster
 
 ID=47004
-파츠
+Parts
 
 ID=47005
 Vehicle List
 
 ID=47006
-장착
+Mounting
 
 ID=47007
 Attach
@@ -17897,7 +17900,7 @@ ID=48004
 Add Socket
 
 ID=48005
-장착
+Mounting
 
 ID=48006
 Please attach a Socket Item
@@ -17954,22 +17957,22 @@ ID=48203
 Are you sure you want to extract {0}?\n{1} items consumed {2}
 
 ID=48300
-광휘
+Light
 
 ID=48301
-악념
+Darkness
 
 ID=48302
-냉정
+Water
 
 ID=48303
-증오
+Fire
 
 ID=48304
-치유
+Healing
 
 ID=48305
-고통
+Poison
 
 ID=48330
 _[#FFFF00{0}]_
@@ -17990,7 +17993,7 @@ ID=48335
 _[#00FF00{0}]_
 
 ID=48400
-입장 시간
+Entrance Time
 
 ID=48401
 Affinity
@@ -18014,7 +18017,7 @@ ID=48407
 W
 
 ID=48408
-스테이지 변경
+Change Stage
 
 ID=48409
 Reward
@@ -18044,7 +18047,7 @@ ID=48417
 Altar of the Void Difficulty. All monsters have high stats and additional appear in different patterns.
 
 ID=48420
-성장
+Growth
 
 ID=48421
 Fragment Extraction
@@ -18053,28 +18056,28 @@ ID=48422
 Fragment Exchange
 
 ID=48423
-요구 제니
+Cost
 
 ID=48424
 Fragment List
 
 ID=48425
-파편 교환
+Fragment Exchange
 
 ID=48426
-소모량
+Used:
 
 ID=48427
-수량
+Quantity
 
 ID=48428
 MAX
 
 ID=48429
-교환
+Exchange
 
 ID=48430
-교환할 아이템을 선택해 주세요.
+Select an item to exchange.
 
 ID=48431
 Please choose the exchangeable item.
@@ -18089,7 +18092,7 @@ ID=48440
 Growth Material
 
 ID=48441
-성장
+Growth
 
 ID=48442
 Register your item.
@@ -18098,13 +18101,13 @@ ID=48443
 Not enough growth material items.
 
 ID=48444
-제니가 부족합니다.
+Not enough Zenny.
 
 ID=48445
 You can't grow anymore.
 
 ID=48446
-파편 추출
+Fragment Extraction
 
 ID=48447
 Advanced Dismantle
@@ -18116,7 +18119,7 @@ ID=48449
 Use advanced dismantle.
 
 ID=48450
-파편 추출
+Fragment Extraction
 
 ID=48451
 Extract Fragments from {0}.\nSoulstone disappears and you can acquire a certain amount of Fragments.\nDo you want to proceed with extraction?\n[Advanced Dismantle Enabling Effect]\n<font color='#FFFF00'>※The effect of advanced dismantle increases the efficiency of Fragments extraction.</font>\n<font color='#FFFF00'>※You can obtain Hidden Soulstone with a low chance.</font>
@@ -18140,7 +18143,7 @@ ID=49002
 Forfeit
 
 ID=49003
-기본 보상
+Basic Reward
 
 ID=49004
 Select Reward
@@ -18152,19 +18155,19 @@ ID=49006
 ({0}/{1})
 
 ID=49100
-보상 받기
+Get rewarded
 
 ID=49101
-메모리얼
+Memorial
 
 ID=49102
-메모리얼
+Memorial
 
 ID=49103
 Collection List
 
 ID=49104
-완료
+Complete
 
 ID=49105
 Missing
@@ -18176,10 +18179,10 @@ ID=49107
 Ongoing
 
 ID=49108
-보상 받기
+Get rewarded
 
 ID=49109
-완료
+Complete
 
 ID=49110
 Obtained a Memorial item.
@@ -18191,19 +18194,19 @@ ID=49200
 System
 
 ID=49201
-환경 설정
+Preferences
 
 ID=49202
-캐릭터 선택
+Character Selection
 
 ID=49203
-서버 선택
+Selecting server
 
 ID=49204
 Log out
 
 ID=49205
-게임 종료
+Exit Game
 
 ID=49206
 Return to game
@@ -18224,7 +18227,7 @@ ID=49211
 Close Game
 
 ID=49212
-취소
+Cancel
 
 ID=49213
 Exit Game
@@ -18233,7 +18236,7 @@ ID=49214
 Are you sure you want to quit the game?
 
 ID=49215
-종료
+Close
 
 ID=49216
 Logout failed
@@ -18248,16 +18251,16 @@ ID=49219
 Exit Dungeon
 
 ID=49220
-메이즈 퇴장
+Exit Dungeon
 
 ID=49221
 Are you sure you want to abandon current dungeon?\nLeaving at this moment will decrease your Fatigue meter.
 
 ID=49222
-나가기
+Exit
 
 ID=49223
-디스트릭트로 이동
+Go to Town
 
 ID=49224
 Logging out in {0} seconds.
@@ -18275,7 +18278,7 @@ ID=49228
 Unstuck
 
 ID=49229
-튜토리얼 나가기
+Exit Tutorial
 
 ID=49230
 Confirm leaving My Room
@@ -18293,37 +18296,37 @@ ID=49234
 Are you sure you want to abandon the current dungeon?\nWhen abandoning, the following penalties will occur:\n- Cannot be interrupted\n- Decrease of fatigue (excluding areas that take 0 fatigue)
 
 ID=49235
-Are you sure you want to abandon Steel Grave?\nLeaving at this moment won't let you re-enter.
+스틸 그레이브를 포기하고 나가시겠습니까? 
 
 ID=49236
 Leave Steel Grave
 
 ID=49237
-공지사항
+Notice
 
 ID=49300
-게임 진행 정보
+Progress Info
 
 ID=49301
-업적
+Achievement
 
 ID=49302
 Achievement Type
 
 ID=49303
-전체
+All
 
 ID=49304
-아이템
+Item
 
 ID=49305
-메이즈
+Dungeon
 
 ID=49306
-전투
+Combat
 
 ID=49307
-퀘스트
+Quest
 
 ID=49308
 Play
@@ -18332,22 +18335,22 @@ ID=49309
 Achievement List
 
 ID=49310
-업적
+Achievement
 
 ID=49311
-보상
+Reward
 
 ID=49312
 Progress
 
 ID=49313
-진행 중
+Ongoing
 
 ID=49314
-완료
+Complete
 
 ID=49315
-점유율
+Clearance
 
 ID=49316
 Location List
@@ -18356,28 +18359,28 @@ ID=49317
 Confirm your compensation
 
 ID=49318
-단계
+step
 
 ID=49319
-점유율
+Clearance
 
 ID=49320
-보상 받기
+Get rewarded
 
 ID=49321
-진행 상태
+Progress
 
 ID=49322
 Season. {0}
 
 ID=49323
-보상 받기
+Get rewarded
 
 ID=49324
-진행 중
+Ongoing
 
 ID=49325
-완료
+Complete
 
 ID=49326
 Item Achievement
@@ -18434,40 +18437,40 @@ ID=49346
 The language you set up will be applied when you restart the game again.
 
 ID=49400
-캐릭터 정보
+Character Information
 
 ID=49401
-인벤토리
+Inventory
 
 ID=49402
-장비
+Equipment
 
 ID=49403
-스킬
+Skill
 
 ID=49404
-퀘스트
+Quest
 
 ID=49405
-커뮤니티
+Community
 
 ID=49406
-리그
+Guild
 
 ID=49407
-시스템 메뉴
+System
 
 ID=49408
-게임 진행 정보
+Progress Info
 
 ID=49409
-메모리얼
+Memorial
 
 ID=49410
-데일리 미션
+Daily Mission
 
 ID=49411
-출석 체크
+Attendance check
 
 ID=49450
 Official Website
@@ -18512,7 +18515,7 @@ ID=49500
 Click here for tips and help.
 
 ID=49501
-도움말
+Help
 
 ID=49600
 Warning
@@ -18533,7 +18536,7 @@ ID=49605
 This game resolution is not supported.
 
 ID=49606
-사용
+Use
 
 ID=49607
 Do not use
@@ -18608,10 +18611,10 @@ ID=49630
 Details
 
 ID=49631
-공격형
+Attack
 
 ID=49632
-방어형
+Defense
 
 ID=49633
 Utility
@@ -18662,7 +18665,7 @@ ID=49727
 Your account has been locked because you have incorrectly entered your secondary password 10 times.\nYou can reset your secondary password after the verification process by contacting us.
 
 ID=49728
-유효하지 않은 비밀번호
+Invalid password
 
 ID=49729
 The trading password must consist of four non-identical numbers.
@@ -18710,10 +18713,10 @@ ID=49791
 Mobile Authentication
 
 ID=49912
-- Mission Failed -\nLeaving dungeon.\n({0} second remaining)
+-임무 실패-\n메이즈 밖으로 이동합니다. -남은 시간: {0}초-
 
 ID=49913
-Cannot join the Party because the mission failed.
+메이즈 내 파티가 임무 실패 상태이기 때문에 \n난입할 수 없습니다.
 
 ID=49914
 Secret Mission Rewards
@@ -18734,22 +18737,22 @@ ID=49919
 Failed
 
 ID=49920
-이벤트
+Event
 
 ID=49921
-수락
+Accept
 
 ID=49922
-진행 중
+Ongoing
 
 ID=49923
-완료
+Complete
 
 ID=49924
-실패
+Failed
 
 ID=49925
-데일리 미션
+Daily Mission
 
 ID=49926
 {0} / {1}
@@ -18821,7 +18824,7 @@ ID=49948
 [{0}] Broke {1} Times
 
 ID=49949
-기본 공격
+Basic Attack
 
 ID=49950
 Counter Attack
@@ -18836,7 +18839,7 @@ ID=49953
 Critical Attack
 
 ID=49954
-다운
+Knocked Down
 
 ID=49955
 Knockback
@@ -18932,7 +18935,7 @@ ID=49985
 Cannot abandon Quest.
 
 ID=49986
-[완료]
+[Completed]
 
 ID=49987
 Main
@@ -18941,7 +18944,7 @@ ID=49988
 Side
 
 ID=49989
-퀘스트
+Quest
 
 ID=49990
 Register for notifications
@@ -18962,10 +18965,10 @@ ID=49995
 Mission Rewards
 
 ID=49996
-임무 보상
+Mission Rewards
 
 ID=49997
-선택 보상
+Select Reward
 
 ID=49998
 Mission Complete
@@ -19013,7 +19016,7 @@ ID=50015
 Hello?! It's me Erwin! Breaking is a must to be a hard child like me!\nYour Workers adventure is about to end in 10 minutes!
 
 ID=50016
-안녕하세요. 스텔라에요. 청소년 워커님들의 모험이 종료되었어요.\n내일도 저를 다시 만나러 와 주실거죠? 너무 졸려~ 자러가야지(멍...)
+Hello. This is Stella. Youth Workers adventure is over.\nWill you come again to see me tomorrow? I'm so sleepy ~ I have to go to bed.
 
 ID=50017
 It's been an hour since you started your adventure at Cloudream.\nPlease relax with a simple stretch.
@@ -19040,12 +19043,10 @@ ID=50051
 Please re-install the client.
 
 ID=50101
-The 
-ID you entered does not exist.
+The ID you entered does not exist.
 
 ID=50102
-The 
-ID you entered is not valid.\n[4 or more characters, 12 or less characters]
+The ID you entered is not valid.\n[4 or more characters, 12 or less characters]
 
 ID=50103
 The password you entered is not valid.\n[4 to 12 character are required]
@@ -19054,12 +19055,10 @@ ID=50104
 Login failed.
 
 ID=50105
-The 
-ID and password entered do not match.
+The ID and password entered do not match.
 
 ID=50106
-The 
-ID you entered is already connected to the server.
+The ID you entered is already connected to the server.
 
 ID=50107
 Failed to connect to channel.
@@ -19086,7 +19085,7 @@ ID=51001
 Character information not found
 
 ID=51002
-Your character name does not meet the requirements of 2 to 10 characters.
+캐릭터명은 지정된 범위내에서 설정할 수 있습니다.\n[2자 이상, 10자 이하]
 
 ID=51003
 You cannot create any more characters.
@@ -19146,7 +19145,7 @@ ID=52009
 The selected item cannot be attached because it requires a different character.
 
 ID=52010
-인벤토리에 보관 가능한 슬롯이 부족합니다.
+There is not enough space in the inventory.
 
 ID=52011
 The item information is invalid.
@@ -19383,7 +19382,7 @@ ID=52220
 Insufficient BP.
 
 ID=52221
-인벤토리에 공간이 부족합니다.
+There is not enough space in the inventory.
 
 ID=52222
 Not enough inventory space.
@@ -19422,7 +19421,7 @@ ID=52255
 This item is in use.
 
 ID=52256
-인벤토리에 공간이 부족합니다.
+There is not enough space in the inventory.
 
 ID=52257
 Could not craft the item.
@@ -19446,7 +19445,7 @@ ID=52265
 The exchange failed.
 
 ID=52270
-아이템 분해에 실패했습니다.
+Item dismantling failed.
 
 ID=52271
 You cannot dismantle items from this inventory using inventory dismantling items.
@@ -19470,7 +19469,7 @@ ID=52283
 The Socket is not active.
 
 ID=52284
-제니가 부족합니다.
+Not enough Zenny.
 
 ID=52285
 There are not enough required items.
@@ -19506,13 +19505,13 @@ ID=52295
 You do not have the necessary items to remove the Socket.
 
 ID=52297
-[Unable to attach Soulstone]/nSoulstones with opposing attributes cannot be attatched.
+[소울스톤 장착 불가]\n상성 관계의 소울스톤은 같이 장착할 수 없습니다.
 
 ID=52298
-[Unable to attach Soulstone]/nOnly 2 Soulstones with the same attributes can be attached.
+[소울스톤 장착 불가]\n동일한 속성의 소울스톤은 2개 이하만 장착할 수 있습니다.
 
 ID=52299
-[Unable to attach Soulstone]/nUp to 3 Soulstones can be attached.
+[소울스톤 장착 불가]\n소울스톤은 최대 3개까지 장착이 가능합니다.
 
 ID=52301
 Insufficient Zenny. You cannot purchase the item.
@@ -19551,7 +19550,7 @@ ID=52312
 You cannot sell this item.
 
 ID=52313
-해당 유저가 존재하지 않습니다.
+The user does not exist.
 
 ID=52314
 There was a problem in sending the gifts.\nPlease try again.
@@ -19596,7 +19595,7 @@ ID=52331
 Socket exchange failed (NPC)
 
 ID=52332
-제니가 부족합니다.
+Not enough Zenny.
 
 ID=52333
 Due to the lack of materials, the exchange failed.\n Please check the number of materials you have.
@@ -19608,10 +19607,10 @@ ID=52335
 The exchange failed.\n Check the exchange settings (materials, numbers, etc.) and please try again.
 
 ID=52340
-교환에 실패했습니다.\n교환 설정(재료, 개수 등)에 대한 확인을 하시고 다시 시도해주시기 바랍니다.
+The exchange failed.\n Check the exchange settings (materials, numbers, etc.) and please try again.
 
 ID=52341
-교환에 실패했습니다.\n교환 설정(재료, 개수 등)에 대한 확인을 하시고 다시 시도해주시기 바랍니다.
+The exchange failed.\n Check the exchange settings (materials, numbers, etc.) and please try again.
 
 ID=52342
 Growth failed due to lack of Zenny.\nPlease check your existing Zenny and try again.
@@ -19713,7 +19712,7 @@ ID=52440
 You cannot open any more personal shops on this channel.
 
 ID=52441
-아이템 구매 실패 : 인벤토리 공간 없음
+Failed to purchase item: Inventory full
 
 ID=52442
 Other players are currently using the Personal Shop.
@@ -19728,7 +19727,7 @@ ID=52452
 This item is already at maximum durability.
 
 ID=52453
-제니가 부족합니다.
+Not enough Zenny.
 
 ID=52454
 This NPC cannot repair items.
@@ -19857,7 +19856,7 @@ ID=53012
 An unexpected error occurred during the Party.
 
 ID=53013
-차단 대상에 포함되어 초대가 불가능합니다.
+The target cannot be invited; they blocked all Party requests.
 
 ID=53014
 You cannot make a Party with that player.
@@ -19866,7 +19865,7 @@ ID=53015
 You have already requested a party invitation
 
 ID=53016
-해당 파티에 가입할 수 없습니다.
+You cannot join the Party.
 
 ID=53017
 You cannot send Party invitations while there are still members in a dungeon.
@@ -19881,13 +19880,13 @@ ID=53024
 You can register after the time limit has passed.
 
 ID=53025
-파티 구성원이 정원 초과 상태이기 때문에 등록이 불가능 합니다.
+Cannot apply because the Party is full.
 
 ID=53027
 The Party cannot be entered because there are too many members.
 
 ID=53028
-{0}님은 현재 다른 요청 진행 중입니다.
+{0} currently cannot accept requests due to already pending requests.
 
 ID=53029
 Cannot leave the Party while in a boss battle.
@@ -19896,7 +19895,7 @@ ID=53030
 You cannot join a Party from a lawless zone.
 
 ID=53031
-상대방이 무법지대에 있어서 파티 요청이 되지 않습니다.
+Cannot apply to join the Party because the other Party is in a lawless zone.
 
 ID=53032
 Cannot expel members in dungeon.
@@ -20007,13 +20006,13 @@ ID=53133
 You cannot request to join a squad from a lawless zone.
 
 ID=53134
-자기 자신을 선택했습니다. 
+You have selected yourself.
 
 ID=53135
 Cannot enter because a party member does not meet the level requirement for this dungeon.
 
 ID=53136
-소울 웨폰을 착용하지 않은 파티원이 있어, 입장할 수 없습니다.
+Cannot enter because a Party member does not have a Soul Weapon equipped.
 
 ID=53137
 Cannot enter the dungeon because not all squad members are in the same town.
@@ -20184,10 +20183,10 @@ ID=55002
 Failed to enter dungeon.
 
 ID=55003
-월드 이동에 실패했습니다.
+Failed to enter the world.
 
 ID=55004
-파티 중 메이즈 입장은 파티 리더만 신청할 수 있습니다.
+Only the Party leader can apply to enter a dungeon.
 
 ID=55005
 Cannot search the world from the Check Sector Box.
@@ -20214,25 +20213,25 @@ ID=55012
 Cannot enter because you do not meet the level requirement for this dungeon.
 
 ID=55013
-메이즈 입장 레벨을 만족하지 않는 파티원이 있어 입장할 수 없습니다.
+Cannot enter because a party member does not meet the level requirement for this dungeon.
 
 ID=55014
 The portal is inactive.
 
 ID=55015
-다음 지역으로 이동하는데 필요한 파티원이 부족합니다.
+Not enough Party members to proceed to the next area.
 
 ID=55016
 Cannot enter because you do not have a Soul Weapon equipped.
 
 ID=55017
-소울 웨폰을 착용하지 않은 파티원이 있어, 입장할 수 없습니다.
+Cannot enter because a Party member does not have a Soul Weapon equipped.
 
 ID=55018
 You cannot remove your Soul Weapon here.
 
 ID=55019
-파티 리더가 입장한 메이즈와 동일한 메이즈에만 입장할 수 있습니다.
+You can only enter the same dungeon as the Party Leader.
 
 ID=55020
 A Party member is logged out. Dungeon entry is not possible.
@@ -20241,13 +20240,13 @@ ID=55021
 The Party is in another town; you may not join the dungeon.
 
 ID=55022
-메이즈에 난입할 수 없습니다. 존재하지 않는 메이즈입니다.
+Cannot enter the dungeon. The dungeon does not exist.
 
 ID=55023
-현재 파티원들이 입장 중인 메이즈에만 난입할 수 있습니다.
+Cannot enter a different dungeon than your Party members.
 
 ID=55024
-파티원들의 메이즈 입장 시점에 동일한 디스트릭트에 위치한 경우에만 난입할 수 있습니다.
+Only Party members in the same town may enter a dungeon together.
 
 ID=55031
 if your level is {0} or higher, you can enter.
@@ -20295,7 +20294,7 @@ ID=55047
 Cannot enter the dungeon because a party member is not in the same channel.
 
 ID=55048
-해당 메이즈에 입장을 할 수 없는 맴버가 있기 때문에 메이즈에 입장 할 수 없습니다.
+Cannot enter the dungeon because a party member does not meet the dungeon requirements.
 
 ID=55049
 Enemies have been weakened due to the decrease in party members.
@@ -20313,13 +20312,13 @@ ID=55053
 Cannot enter because you have exceeded the entry limit.
 
 ID=55055
-파티원이 입장 퀘스트를 만족하지 않아 입장 할 수 없습니다.
+Cannot enter because there are members that don't meet the entrance quest requirements.
 
 ID=55056
 A member cannot enter due to not having the item {0}.
 
 ID=55057
-파티원이 일일 입장 제한 횟수를 모두 소진해 입장하실 수 없습니다.
+Cannot enter because there are members that reached the entry limit for today.
 
 ID=55058
 Cannot unstuck because you're in combat.
@@ -20388,7 +20387,7 @@ ID=55101
 You have already befriended this person.
 
 ID=55102
-This player is in a dungeon. They cannot accept friend requests.
+해당 플레이어는 메이즈 진행 중입니다.\n메이즈에 있는 플레이어는 친구요청이 제한됩니다.
 
 ID=55103
 No more friends can be added.\nYou can add up to 100 friends.
@@ -20409,7 +20408,7 @@ ID=55108
 {0} has been removed from your friends list.
 
 ID=55109
-서버 내에 존재하지 않는 캐릭터 입니다.
+Character not found on this server.
 
 ID=55110
 You cannot invite {0} because they reject Party invitations.
@@ -20433,8 +20432,7 @@ ID=55116
 You cannot whisper to someone you have blocked. {0}
 
 ID=55201
-An 
-ID with the same name exists.
+An ID with the same name exists.
 
 ID=55202
 Username is available.
@@ -20548,7 +20546,7 @@ ID=56531
 Unity Dungeon for all members must be open. 
 
 ID=57000
-{0}님은 현재 접속 중이 아닙니다.
+{0} is currently not logged in.
 
 ID=57001
 Guild Name: {0}is already in use.
@@ -20584,7 +20582,7 @@ ID=57011
 Failed to create Guild.
 
 ID=57012
-레벨이 부족하여 리그 창설이 불가능합니다.\n리그 창설 가능 레벨 : 20
+Insufficient level to create a Guild.\nThe minimum level requirement is 20.
 
 ID=57013
 Insufficient funds to create a Guild.\n100,000 Zenny is required.
@@ -20614,7 +20612,7 @@ ID=57021
 This user is not in the same town and cannot be invited.
 
 ID=57022
-{0}분 이후에 게시판 작성이 가능합니다.
+You can create another notice in {0} minutes.
 
 ID=57023
 The applicant list is full. 
@@ -20668,7 +20666,7 @@ ID=57039
 The Guild recruitment letter has too many characters. Unable to post.
 
 ID=57040
-작성 완료 시간이 얼마 되지 않아 {0}분 후에 작성이 가능합니다.
+Another Advertisement can be created after {0} minutes.
 
 ID=57041
 Mismatch NPC selection. No Guild operations can be done.
@@ -20695,7 +20693,7 @@ ID=57048
 Insufficient Guild SP to learn the selected Guild skills.
 
 ID=57049
-리그 기금이 부족합니다.
+Insufficient Guild funds.
 
 ID=57050
 Cannot increase the Guild Skill any further.
@@ -20746,7 +20744,7 @@ ID=58104
 The stage is still in progress.
 
 ID=58105
-You do not meet the requirements for entry; you have not explored the town yet.
+입장에 필요한 조건을 만족하지 못했습니다.\n아직 방문하지 않은 마을을 확인해보세요.
 
 ID=59100
 Failed to use draw item.
@@ -20821,7 +20819,7 @@ ID=58222
 Failed to harvest.
 
 ID=58223
-인벤토리 공간이 부족합니다.
+There is not enough inventory space.
 
 ID=58224
 You're not the room's owner.
@@ -20944,16 +20942,16 @@ ID=59202
 {0} has turned of friend requests.
 
 ID=59300
-해당 채널은 너무 혼잡하여 설치할 수 없습니다. 다른 채널을 이용해주세요.
+Cannot join channel due to overload . Please try another channel.
 
 ID=59301
-공간이 비좁거나 설치가 불가능한 지역입니다.
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=59302
-공간이 비좁거나 설치가 불가능한 지역입니다.
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=59304
-빈 자리가 없습니다.
+There is no enough space for the placement.
 
 ID=59305
 This action is only available while in town.
@@ -20962,7 +20960,7 @@ ID=59306
 This item is not available.
 
 ID=59307
-설치된 아이템을 해제할 권한이 없습니다.
+You have no dismantling permission for the selected item.
 
 ID=59308
 Item information not found.
@@ -21016,7 +21014,7 @@ ID=59507
 Only the top six characters will be retained as the starting point for {0}.\n6.
 
 ID=60001
-Are you sure you want to attach [{0}] in the selected socket?
+해당 위치에 [{0}]를 장착하시겠습니까? \n브로치 장착 후에는 해제 할 수 없습니다.
 
 ID=60002
 [{0}] has been successfully attached to [{1}].
@@ -21058,34 +21056,34 @@ ID=60103
 Weekly Rankings are reset every week.
 
 ID=60104
-랭킹
+Ranking
 
 ID=60105
-레이드
+Raid
 
 ID=60106
-스틸 그레이브
+Steel Grave
 
 ID=60107
-제 6구역
+District 6
 
 ID=60108
 Top 100
 
 ID=60109
-보상 보기
+View Reward
 
 ID=60110
-순위
+Ranking
 
 ID=60111
-캐릭터
+Character
 
 ID=60112
-레벨
+Lvl
 
 ID=60113
-캐릭터 이름
+Character Name
 
 ID=60114
 Completion Time
@@ -21097,7 +21095,7 @@ ID=60116
 Equipment Info
 
 ID=60117
-나의 순위 정보
+Rank Information
 
 ID=60118
 Current Ranking
@@ -21106,7 +21104,7 @@ ID=60119
 Points
 
 ID=60120
-랭킹 보상 목록
+Ranking Reward List
 
 ID=60121
 Casual Raid Reward
@@ -21151,7 +21149,7 @@ ID=60134
 Stage Progress
 
 ID=60135
-단계
+step
 
 ID=60136
 My Record
@@ -21166,7 +21164,7 @@ ID=60139
 Cleared with Friend
 
 ID=60140
-진행 중
+Ongoing
 
 ID=60141
 Incomplete
@@ -21184,13 +21182,13 @@ ID=60201
 FORCE Ranking
 
 ID=60202
-포스
+Squad
 
 ID=60203
 {0} has invited you to a Squad. Are you sure you want to join the Squad?\n({1} seconds remaining)
 
 ID=60204
-If you leave the Squad, you will be returned to town.\nAre you sure you want to leave?
+포스를 탈퇴하면, 디스트릭트로 이동합니다. 탈퇴 하시겠습니까?
 
 ID=60205
 You have left the Squad, moving to town.\n({0} seconds remaining)
@@ -21214,13 +21212,13 @@ ID=60211
 Squad Members
 
 ID=60212
-포스원
+Squad Members
 
 ID=60213
-포스
+Squad
 
 ID=60214
-포스 초대
+Squad Invitation
 
 ID=60215
 Leave Squad
@@ -21229,7 +21227,7 @@ ID=60216
 Only the Squad leader can invite to the Squad.
 
 ID=60217
-파티 최대 인원을 초과했습니다.
+You cannot invite any more members to the Party.
 
 ID=60218
 [{0}] is in another Squad.
@@ -21247,7 +21245,7 @@ ID=60222
 Cannot join the Squad because it is already in a dungeon.
 
 ID=60223
-해당 포스에 가입할 수 없습니다.
+You cannot join the squad.
 
 ID=60224
 Squad member limit was exceeded.
@@ -21292,7 +21290,7 @@ ID=60237
 There are not enough required Squad members to proceed to the next area.
 
 ID=60238
-포스원들의 메이즈 입장 시점에 동일한 디스트릭트에 위치한 경우에만 난입할 수 있습니다.
+All squad members must be in the same town to be able to enter the dungeon.
 
 ID=60239
 Cannot enter because a member of your Squad does not have a Soul Weapon equipped.
@@ -21313,16 +21311,16 @@ ID=60244
 Squad member {0} refused to enter the dungeon.
 
 ID=60245
-포스 초대
+Squad Invitation
 
 ID=60246
 Leave Squad Consent
 
 ID=60247
-포스 탈퇴
+Leave Squad
 
 ID=60248
-포스 탈퇴
+Leave Squad
 
 ID=60249
 Pass Squad Leader
@@ -21385,13 +21383,13 @@ ID=60271
 Force Match Cancel
 
 ID=60272
-The Squad is currently in battle.\nAre you sure you want to enter?\n- Remaining: {0} seconds -
+포스가 전투 진행 중입니다. 지금 난입하시겠습니까?\n-남은 시간: {0}초-
 
 ID=60273
 The enemies are weaker because of the Squad members leaving.
 
 ID=60274
-상대방이 무법지대에 있어서 포스 요청이 되지 않습니다.
+You cannot make a squad request because the target is in a lawless zone. 
 
 ID=60275
 Cannot join a Squad in the lawless zone.
@@ -21418,10 +21416,10 @@ ID=60282
 {0}/{1} people
 
 ID=60283
-{0}님은 현재 다른 요청 진행 중입니다.
+{0} currently cannot accept requests due to already pending requests.
 
 ID=60284
-매칭 중인 인원이 취소하여 매칭이 취소 되었습니다.
+Members have cancelled the matching.
 
 ID=60285
 All Squad members will enter the dungeon when all members agree.\nYou cannot enter if a Squad member is in another town or is not logged in.
@@ -21430,7 +21428,7 @@ ID=60286
 The Squad leader is requesting dungeon entry. Are you sure you want to enter?\nEntry position: [{0}]\nEpisode: [{1}]\nDifficulty: [{2}]\n({3} seconds remaining)
 
 ID=60287
-포스원 {0}님이 메이즈 입장을 거절했습니다.
+Squad member {0} refused to enter the dungeon.
 
 ID=60288
 The Squad leader, {0}, cancelled the request to join the dungeon.
@@ -21451,7 +21449,7 @@ ID=60293
 Match Retrying {0}/{1}
 
 ID=60294
-If you stop Squad Auto-Matching, all the applying members will be cancelled.\nAre you sure you want to cancel?
+포스 오토 매칭을 취소하면 신청한 구성원들 모두 취소가 됩니다. 취소하시겠습니까?
 
 ID=60295
 Emergency!! Requesting support!
@@ -21598,13 +21596,13 @@ ID=60546
 Loading is currently in progress.\nOnce the loading is complete, you can proceed with the operation.
 
 ID=60547
-오퍼레이션
+operation
 
 ID=60548
 Ranking information
 
 ID=60549
-참가 횟수
+Number of entries
 
 ID=60550
 ※ Update: Every hour on time\n※ Reset: 1 AM on the first day of every month
@@ -21655,10 +21653,10 @@ ID=7019
 EX Skill
 
 ID=9502
-잔디이불 캠프
+Grass Cover Camp
 
 ID=9893
-잔디이불 캠프
+Grass Cover Camp
 
 ID=9998
 Dreadful Echo
@@ -21763,7 +21761,7 @@ ID=60568
 Main reward
 
 ID=60569
-추가 보상
+Bonus Reward
 
 ID=55622
 The other person cannot receive mails.
@@ -21772,7 +21770,7 @@ ID=18900
 Items for sale
 
 ID=18901
-아이템 구매
+Purchase Items
 
 ID=18902
 How many items would you like to purchase?
@@ -21793,7 +21791,7 @@ ID=18907
 Sale Price
 
 ID=18908
-개
+Dog
 
 ID=18909
 Would you like to buy the items below?
@@ -21874,7 +21872,7 @@ ID=27916
 On dash use, 10% chance of +{0} Defense for 5s
 
 ID=27917
-처치 효과 :  5초간 공격력 {0} 증가
+On kill Effect: +{0} Attack for 5 seconds.
 
 ID=27918
 On kill Effect: +{0} Defense for 5s
@@ -21919,19 +21917,19 @@ ID=27940
 When you are not in a party or squad, gain +{0} critical damage when hit.
 
 ID=19050
-<font color='#47C83E'>치명타 1% </font>
+<font color='#47C83E'>Critical Hit 1% </font>
 
 ID=19051
-<font color='#4374D9'>치명타 2% </font>
+<font color='#4374D9'>Critical Hit 2% </font>
 
 ID=19052
-<font color='#E0B94F'>치명타 3% </font>
+<font color='#E0B94F'>Critical Hit 3% </font>
 
 ID=19053
-<font color='#F15F5F'>치명타 4% </font>
+<font color='#F15F5F'>Critical Hit 4% </font>
 
 ID=19054
-<font color='#8041D9'>치명타 5% </font>
+<font color='#8041D9'>Critical Hit 5% </font>
 
 ID=19055
 <font color='#47C83E'>+40 Evasion</font>
@@ -22291,7 +22289,7 @@ ID=60579
 No entry
 
 ID=60600
-이벤트
+Event
 
 ID=60601
 Registration item
@@ -22312,7 +22310,7 @@ ID=60606
 %
 
 ID=60607
-개
+Dog
 
 ID=60609
 World Rewards (world-wide)
@@ -22321,13 +22319,13 @@ ID=60610
 Registration count
 
 ID=60611
-보상 아이템
+Reward items
 
 ID=60612
 Registration Basic Rewards
 
 ID=60620
-보상 받기
+Get rewarded
 
 ID=60621
 Compensation completed
@@ -22336,7 +22334,7 @@ ID=60622
 In effect
 
 ID=60623
-미적용
+Not applied
 
 ID=60624
 Expired
@@ -22378,7 +22376,7 @@ ID=60713
 Soul Worker is celebrating it's first anniversary.\nDuring the event, please collect the "1st Anniversary Candle" from Dungeons.
 
 ID=45140
-나가기
+Exit
 
 ID=45141
 Originally
@@ -22390,7 +22388,7 @@ ID=45144
 View only wearable equipment
 
 ID=45145
-검색
+Search
 
 ID=45146
 Shopping Basket
@@ -22399,13 +22397,13 @@ ID=45147
 Total amount of items
 
 ID=45148
-보유
+In possession
 
 ID=45149
-충전
+Charge
 
 ID=45150
-구입
+Purchase
 
 ID=45151
 My List
@@ -22414,10 +22412,10 @@ ID=45152
 Change Color
 
 ID=45153
-머리
+Head
 
 ID=45154
-의상
+Outfit
 
 ID=45155
 Option
@@ -22426,10 +22424,10 @@ ID=45156
 Hair style
 
 ID=45157
-모자
+Head
 
 ID=45158
-안경
+Glasses
 
 ID=45159
 Mask
@@ -22438,37 +22436,37 @@ ID=45160
 Headband
 
 ID=45161
-상의
+Top
 
 ID=45162
-하의
+Bottom
 
 ID=45163
-속옷
+Underwear
 
 ID=45164
-신발
+Shoes
 
 ID=45165
 Gloves
 
 ID=45166
-양말
+Amount - say
 
 ID=45167
-꼬리
+Tail
 
 ID=45168
 Back
 
 ID=45169
-무기
+Weapon
 
 ID=45170
 Hair color
 
 ID=45171
-피부색
+Skin Color
 
 ID=45172
 Eye color
@@ -22480,7 +22478,7 @@ ID=45174
 Please choose whether you want to use it.
 
 ID=45175
-제거
+Remove
 
 ID=45176
 Use it directly
@@ -22549,10 +22547,10 @@ ID=20169
 Hanbok 2
 
 ID=20170
-한복을 입고 새해를 맞이 합니다.
+We are wearing Hanbok and we are celebrating New Year.
 
 ID=20171
-{0}님이 새해를 반깁니다.
+{0} is welcoming you to the New Year.
 
 ID=22689
 The key cannot be assigned as a shortcut. \n Please specify a different key.
@@ -22561,7 +22559,7 @@ ID=19520
 Figure Skating
 
 ID=20172
-피겨스케이팅
+Figure Skating
 
 ID=20173
 Show off your skating skills.
@@ -22579,7 +22577,7 @@ ID=20175
 Ying & Yang
 
 ID=20176
-음양사
+Ying & Yang
 
 ID=20177
 Memorize the spells of Yin and Yang Oh.
@@ -22591,13 +22589,13 @@ ID=20179
 Yukata B
 
 ID=20180
-유카타B
+Yukata B
 
 ID=20181
-유카타 복장을 입고 축제를 즐깁니다.
+Dress in Yukata and enjoy the festival.
 
 ID=20182
-{0}님이 축제를 즐깁니다.
+{0} shows off their Yukata.
 
 ID=20183
 Glutton Glutton
@@ -22609,7 +22607,7 @@ ID=20185
 {0}You memorize the Glutton Glutton Spell.
 
 ID=20186
-그루그루 그루톤
+Glutton Glutton
 
 ID=22113
 Invert camera vertical
@@ -22648,7 +22646,7 @@ ID=20187
 Agent Suit
 
 ID=20188
-인텔리블랙 정장
+Agent Suit
 
 ID=20189
 Target capture! Perform the mission.
@@ -22819,10 +22817,10 @@ ID=18217
 Summer Festival II
 
 ID=18218
-썸머 페스티벌 I
+Summer Festival I
 
 ID=18219
-썸머 페스티벌 II
+Summer Festival II
 
 ID=55079
 Failed to enter dungeon.
@@ -22861,7 +22859,7 @@ ID=5928
 <font color='#FFFFFF'><font size="30">TIP。</font>Monsters of Innocent Daydream are more powerful than normal monsters. <br /> therefore, you can get more rewards.
 
 ID=10017
-이노센트 데이드림
+Innocent Day Dream
 
 ID=10018
 Even in a deserted cloud forest, an innocent girl plays a fun game with many things in her dreams. What did the girl dream?
@@ -22900,7 +22898,7 @@ ID=40731
 There was also a strange masked brother, and she was happy to shake her hand because Setsuka shook her hand.
 
 ID=40732
-I've seen my brother, who has four arms, and if he has four arms, is it easy to shake hands with the alien?
+팔이 4개인 오빠도 봤는데 팔이 4개면 \n아까 그 외계인이랑 악수하기 쉬울까?
 
 ID=40733
 There was an uncle who looked like our next door, and i'll say hello the next time I see him again.
@@ -22954,7 +22952,7 @@ ID=38030
 {0}% discount on exchange sales fees
 
 ID=24671
-재료
+Material
 
 ID=24897
 Converter Materials
@@ -22972,25 +22970,25 @@ ID=62001
 Costume rental
 
 ID=62002
-장바구니
+Shopping Basket
 
 ID=62003
-받기
+Receive
 
 ID=62004
 This item can only be used in the PC room.\nPC items are automatically collected when connected from a location other than the PC room.
 
 ID=62005
-카메라 회전
+Camera rotation
 
 ID=62006
-카메라 줌
+Camera Zoom
 
 ID=62007
-캐릭터 이동
+Move characters
 
 ID=62008
-검색
+Search
 
 ID=63000
 This feature is not available within a Dungeon.
@@ -23008,7 +23006,7 @@ ID=59102
 Exclusive items will be deleted outside the PC room.
 
 ID=20201
-히어로
+Heroic
 
 ID=20202
 Guardians of Justice! Back★
@@ -23041,7 +23039,7 @@ ID=20211
 Pose in a lovely Christmas outfit.
 
 ID=20212
-{0}님이 성탄을 만끽합니다.
+{0} enjoys Christmas.
 
 ID=20213
 Blooming Noir
@@ -23119,13 +23117,13 @@ ID=8407
 {0} Days
 
 ID=49343
-접속유지보상이 도착 하였습니다. H.E.M.S를 확인해 주세요.
+A Reward for staying connected has arrived. Please check your H.E.M.S.
 
 ID=49344
-접속유지보상이 도착 하였습니다. H.E.M.S를 확인해 주세요.
+A Reward for staying connected has arrived. Please check your H.E.M.S.
 
 ID=49345
-접속유지보상이 도착 하였습니다. H.E.M.S를 확인해 주세요.
+A Reward for staying connected has arrived. Please check your H.E.M.S.
 
 ID=719
 SKIP [R]
@@ -23170,10 +23168,10 @@ ID=28187
 Guild Warehouse
 
 ID=28189
-리그 해체
+Guild Disbanded
 
 ID=28188
-리그 위임
+Transfer Guild Master
 
 ID=723
 Soulstone Management
@@ -23365,16 +23363,16 @@ ID=11028
 Refined
 
 ID=11029
-거짓의
+False
 
 ID=11030
-오만한
+Arrogant
 
 ID=11031
-괴상한
+Weird
 
 ID=11032
-기괴한
+Bizarre
 
 ID=11033
 Reckless
@@ -23389,13 +23387,13 @@ ID=11036
 Basic
 
 ID=11037
-자비의
+Mercy
 
 ID=11038
-속죄의
+Atonement
 
 ID=11039
-급류의
+Torrent
 
 ID=11040
 Tenacity
@@ -23416,157 +23414,157 @@ ID=11045
 Of the sea
 
 ID=11046
-천둥의
+Thunder
 
 ID=11047
-새벽의
+Dawn
 
 ID=11048
-도전자의
+Challenger
 
 ID=11049
-괴상한
+Weird
 
 ID=11050
-기괴한
+Bizarre
 
 ID=11051
-녹슨
+Rusty
 
 ID=11052
-덧댄
+Added
 
 ID=11053
-조잡한
+Crude
 
 ID=11054
-난폭한
+Rowdy
 
 ID=11055
-잃어버린
+Lost
 
 ID=11056
-절규하는
+Screaming
 
 ID=11057
-방치된
+Neglected
 
 ID=11058
-자비의
+Mercy
 
 ID=11059
-속죄의
+Atonement
 
 ID=11060
-급류의
+Torrent
 
 ID=11061
-지친자의
+Weary
 
 ID=11062
-거짓의
+False
 
 ID=11063
-오만한
+Arrogant
 
 ID=11064
-강직한
+Upright
 
 ID=11065
-강철의
+Steel
 
 ID=11066
-나선의
+Spiral
 
 ID=11201
-화산의
+Volcanic
 
 ID=11202
-작열하는
+Burning
 
 ID=11203
-눈부신
+Dazzling
 
 ID=11204
-천둥의
+Thunder
 
 ID=11205
-새벽의
+Dawn
 
 ID=11206
-도전자의
+Challenger
 
 ID=11207
-집념의
+Sticking
 
 ID=11208
-구름의
+Of the clouds
 
 ID=11209
-태풍의
+Typhoon
 
 ID=11210
-세련된
+Refined
 
 ID=11211
-거짓의
+False
 
 ID=11212
-오만한
+Arrogant
 
 ID=11213
-괴상한
+Weird
 
 ID=11214
-기괴한
+Bizarre
 
 ID=11215
-무모한
+Reckless
 
 ID=11216
-저주받은
+Cursed
 
 ID=11217
-불꽃의
+Flame
 
 ID=11218
-탐색하는
+Explore
 
 ID=11219
-기초의
+Basic
 
 ID=11220
-안개의
+Fog
 
 ID=11221
 Comfortable
 
 ID=11222
-자비의
+Mercy
 
 ID=11223
-지친자의
+Weary
 
 ID=11224
-끈기의
+Tenacity
 
 ID=11225
-철옹성의
+Iron
 
 ID=11226
-빛무리의
+Halo
 
 ID=11227
 Instinct
 
 ID=11228
-혼돈의
+Chaotic
 
 ID=11229
-완벽한
+Perfect
 
 ID=11230
-바다의
+Of the sea
 
 ID=11231
 Incompetent
@@ -23575,112 +23573,112 @@ ID=11232
 Wild
 
 ID=11233
-새벽의
+Dawn
 
 ID=11234
-도전자의
+Challenger
 
 ID=11235
-괴상한
+Weird
 
 ID=11236
-기괴한
+Bizarre
 
 ID=11237
-녹슨
+Rusty
 
 ID=11238
-덧댄
+Added
 
 ID=11239
-조잡한
+Crude
 
 ID=11240
-난폭한
+Rowdy
 
 ID=11241
-잃어버린
+Lost
 
 ID=11242
-절규하는
+Screaming
 
 ID=11243
-방치된
+Neglected
 
 ID=11244
-자비의
+Mercy
 
 ID=11245
-속죄의
+Atonement
 
 ID=11246
-급류의
+Torrent
 
 ID=11247
-지친자의
+Weary
 
 ID=11248
-거짓의
+False
 
 ID=11249
-오만한
+Arrogant
 
 ID=11250
-강직한
+Upright
 
 ID=11251
-강철의
+Steel
 
 ID=11252
-나선의
+Spiral
 
 ID=11253
-화산의
+Volcanic
 
 ID=11254
-작열하는
+Burning
 
 ID=11255
-눈부신
+Dazzling
 
 ID=11256
-천둥의
+Thunder
 
 ID=11257
-새벽의
+Dawn
 
 ID=11258
-도전자의
+Challenger
 
 ID=11259
-집념의
+Sticking
 
 ID=11260
-구름의
+Of the clouds
 
 ID=11261
-태풍의
+Typhoon
 
 ID=11262
-세련된
+Refined
 
 ID=11263
-거짓의
+False
 
 ID=11264
-오만한
+Arrogant
 
 ID=11265
-괴상한
+Weird
 
 ID=11266
-기괴한
+Bizarre
 
 ID=11301
-무모한
+Reckless
 
 ID=11302
-저주받은
+Cursed
 
 ID=11303
 Unknown
@@ -23689,22 +23687,22 @@ ID=11304
 Scream
 
 ID=11305
-불꽃의
+Flame
 
 ID=11306
-탐색하는
+Explore
 
 ID=11307
-기초의
+Basic
 
 ID=11308
 Quiet
 
 ID=11309
-안개의
+Fog
 
 ID=11310
-편안한
+Comfortable
 
 ID=11311
 Deluxe
@@ -23716,16 +23714,16 @@ ID=11313
 Extraordinary
 
 ID=11314
-끈기의
+Tenacity
 
 ID=11315
-철옹성의
+Iron
 
 ID=11316
-빛무리의
+Halo
 
 ID=11317
-본능의
+Instinct
 
 ID=11318
 Fortitude
@@ -23734,22 +23732,22 @@ ID=11319
 Guardian
 
 ID=11320
-혼돈의
+Chaotic
 
 ID=11321
-완벽한
+Perfect
 
 ID=11322
-바다의
+Of the sea
 
 ID=11323
 Flashy
 
 ID=11324
-이능력자의
+Incompetent
 
 ID=11325
-야생의
+Wild
 
 ID=11326
 Rustic
@@ -23761,544 +23759,544 @@ ID=11328
 Fighting
 
 ID=11329
-괴상한
+Weird
 
 ID=11330
-기괴한
+Bizarre
 
 ID=11331
-녹슨
+Rusty
 
 ID=11332
-덧댄
+Added
 
 ID=11333
-조잡한
+Crude
 
 ID=11334
-난폭한
+Rowdy
 
 ID=11335
-잃어버린
+Lost
 
 ID=11336
-절규하는
+Screaming
 
 ID=11337
-방치된
+Neglected
 
 ID=11338
-자비의
+Mercy
 
 ID=11339
-속죄의
+Atonement
 
 ID=11340
-급류의
+Torrent
 
 ID=11341
-지친자의
+Weary
 
 ID=11342
-거짓의
+False
 
 ID=11343
-오만한
+Arrogant
 
 ID=11344
-강직한
+Upright
 
 ID=11345
-강철의
+Steel
 
 ID=11346
-나선의
+Spiral
 
 ID=11347
-화산의
+Volcanic
 
 ID=11348
-작열하는
+Burning
 
 ID=11349
-눈부신
+Dazzling
 
 ID=11350
-천둥의
+Thunder
 
 ID=11351
-새벽의
+Dawn
 
 ID=11352
-도전자의
+Challenger
 
 ID=11353
-집념의
+Sticking
 
 ID=11354
-구름의
+Of the clouds
 
 ID=11355
-태풍의
+Typhoon
 
 ID=11356
-세련된
+Refined
 
 ID=11357
-거짓의
+False
 
 ID=11358
-오만한
+Arrogant
 
 ID=11359
-괴상한
+Weird
 
 ID=11360
-기괴한
+Bizarre
 
 ID=11361
-무모한
+Reckless
 
 ID=11362
-저주받은
+Cursed
 
 ID=11363
-미명의
+Unknown
 
 ID=11364
-비명의
+Scream
 
 ID=11365
-불꽃의
+Flame
 
 ID=11366
-탐색하는
+Explore
 
 ID=11401
-기초의
+Basic
 
 ID=11402
-과묵한
+Quiet
 
 ID=11403
-안개의
+Fog
 
 ID=11404
-편안한
+Comfortable
 
 ID=11405
-호화로운
+Deluxe
 
 ID=11406
-훌륭한
+Excellent
 
 ID=11407
-비범한
+Extraordinary
 
 ID=11408
-끈기의
+Tenacity
 
 ID=11409
-철옹성의
+Iron
 
 ID=11410
-빛무리의
+Halo
 
 ID=11411
-본능의
+Instinct
 
 ID=11412
-불굴의
+Fortitude
 
 ID=11413
-수호의
+Guardian
 
 ID=11414
-혼돈의
+Chaotic
 
 ID=11415
-완벽한
+Perfect
 
 ID=11416
-바다의
+Of the sea
 
 ID=11417
-섬광의
+Flashy
 
 ID=11418
-이능력자의
+Incompetent
 
 ID=11419
-야생의
+Wild
 
 ID=11420
-소박한
+Rustic
 
 ID=11421
-여행자의
+Traveler's
 
 ID=11422
-투지의
+Fighting
 
 ID=11423
-괴상한
+Weird
 
 ID=11424
-기괴한
+Bizarre
 
 ID=11425
-녹슨
+Rusty
 
 ID=11426
-덧댄
+Added
 
 ID=11427
-조잡한
+Crude
 
 ID=11428
-난폭한
+Rowdy
 
 ID=11429
-잃어버린
+Lost
 
 ID=11430
-절규하는
+Screaming
 
 ID=11431
-방치된
+Neglected
 
 ID=11432
-자비의
+Mercy
 
 ID=11433
-속죄의
+Atonement
 
 ID=11434
-급류의
+Torrent
 
 ID=11435
-지친자의
+Weary
 
 ID=11436
-거짓의
+False
 
 ID=11437
-오만한
+Arrogant
 
 ID=11438
-강직한
+Upright
 
 ID=11439
-강철의
+Steel
 
 ID=11440
-나선의
+Spiral
 
 ID=11441
-화산의
+Volcanic
 
 ID=11442
-작열하는
+Burning
 
 ID=11443
-눈부신
+Dazzling
 
 ID=11444
-천둥의
+Thunder
 
 ID=11445
-새벽의
+Dawn
 
 ID=11446
-도전자의
+Challenger
 
 ID=11447
-집념의
+Sticking
 
 ID=11448
-구름의
+Of the clouds
 
 ID=11449
-태풍의
+Typhoon
 
 ID=11450
-세련된
+Refined
 
 ID=11451
-거짓의
+False
 
 ID=11452
-오만한
+Arrogant
 
 ID=11453
-괴상한
+Weird
 
 ID=11454
-기괴한
+Bizarre
 
 ID=11455
-무모한
+Reckless
 
 ID=11456
-저주받은
+Cursed
 
 ID=11457
-미명의
+Unknown
 
 ID=11458
-비명의
+Scream
 
 ID=11459
-불꽃의
+Flame
 
 ID=11460
-탐색하는
+Explore
 
 ID=11461
-기초의
+Basic
 
 ID=11462
-과묵한
+Quiet
 
 ID=11463
-안개의
+Fog
 
 ID=11464
-편안한
+Comfortable
 
 ID=11465
-호화로운
+Deluxe
 
 ID=11466
-훌륭한
+Excellent
 
 ID=11501
-비범한
+Extraordinary
 
 ID=11502
-끈기의
+Tenacity
 
 ID=11503
-철옹성의
+Iron
 
 ID=11504
-빛무리의
+Halo
 
 ID=11505
-본능의
+Instinct
 
 ID=11506
-불굴의
+Fortitude
 
 ID=11507
-수호의
+Guardian
 
 ID=11508
-혼돈의
+Chaotic
 
 ID=11509
-완벽한
+Perfect
 
 ID=11510
-바다의
+Of the sea
 
 ID=11511
-섬광의
+Flashy
 
 ID=11512
-이능력자의
+Incompetent
 
 ID=11513
-야생의
+Wild
 
 ID=11514
-소박한
+Rustic
 
 ID=11515
-여행자의
+Traveler's
 
 ID=11516
-투지의
+Fighting
 
 ID=11517
-괴상한
+Weird
 
 ID=11518
-기괴한
+Bizarre
 
 ID=11519
-녹슨
+Rusty
 
 ID=11520
-덧댄
+Added
 
 ID=11521
-조잡한
+Crude
 
 ID=11522
-난폭한
+Rowdy
 
 ID=11523
-잃어버린
+Lost
 
 ID=11524
-절규하는
+Screaming
 
 ID=11525
-방치된
+Neglected
 
 ID=11526
-자비의
+Mercy
 
 ID=11527
-속죄의
+Atonement
 
 ID=11528
-급류의
+Torrent
 
 ID=11529
-지친자의
+Weary
 
 ID=11530
-거짓의
+False
 
 ID=11531
-오만한
+Arrogant
 
 ID=11532
-강직한
+Upright
 
 ID=11533
-강철의
+Steel
 
 ID=11534
-나선의
+Spiral
 
 ID=11535
-화산의
+Volcanic
 
 ID=11536
-작열하는
+Burning
 
 ID=11537
-눈부신
+Dazzling
 
 ID=11538
-천둥의
+Thunder
 
 ID=11539
-새벽의
+Dawn
 
 ID=11540
-도전자의
+Challenger
 
 ID=11541
-집념의
+Sticking
 
 ID=11542
-구름의
+Of the clouds
 
 ID=11543
-태풍의
+Typhoon
 
 ID=11544
-세련된
+Refined
 
 ID=11545
-거짓의
+False
 
 ID=11546
-오만한
+Arrogant
 
 ID=11547
-괴상한
+Weird
 
 ID=11548
-기괴한
+Bizarre
 
 ID=11549
-무모한
+Reckless
 
 ID=11550
-저주받은
+Cursed
 
 ID=11551
-미명의
+Unknown
 
 ID=11552
-비명의
+Scream
 
 ID=11553
-불꽃의
+Flame
 
 ID=11554
-탐색하는
+Explore
 
 ID=11555
-기초의
+Basic
 
 ID=11556
-과묵한
+Quiet
 
 ID=11557
-안개의
+Fog
 
 ID=11558
-편안한
+Comfortable
 
 ID=11559
-호화로운
+Deluxe
 
 ID=11560
-훌륭한
+Excellent
 
 ID=11561
-비범한
+Extraordinary
 
 ID=11562
-끈기의
+Tenacity
 
 ID=11563
-철옹성의
+Iron
 
 ID=11564
-빛무리의
+Halo
 
 ID=11565
-본능의
+Instinct
 
 ID=11566
-불굴의
+Fortitude
 
 ID=11601
-수호의
+Guardian
 
 ID=11602
-혼돈의
+Chaotic
 
 ID=11603
-완벽한
+Perfect
 
 ID=11604
-바다의
+Of the sea
 
 ID=11605
-섬광의
+Flashy
 
 ID=11606
-이능력자의
+Incompetent
 
 ID=11607
-야생의
+Wild
 
 ID=11608
-소박한
+Rustic
 
 ID=11609
-여행자의
+Traveler's
 
 ID=11610
-투지의
+Fighting
 
 ID=64002
 <font color='#0099FF'>Tag smelting possible</font>
@@ -24334,10 +24332,10 @@ ID=64011
 Tag Smelting
 
 ID=64012
-성공
+Success
 
 ID=64013
-실패
+Failed
 
 ID=64014
 Please register the tag smelting material.
@@ -24355,13 +24353,13 @@ ID=24334
 Armor Tag Chip
 
 ID=24672
-태그 제련칩
+Tag smelting chip
 
 ID=24898
-무기 태그 제련칩
+Weapon Tag Chip
 
 ID=24899
-기어 태그 제련칩
+Armor Tag Chip
 
 ID=65015
 Tag smelting equipment is tagged. If tag refining fails, the assigned tag can be removed. Would you like to continue?
@@ -24385,16 +24383,16 @@ ID=24673
 Tag production materials
 
 ID=24335
-태그 제작 재료
+Tag production materials
 
 ID=24950
-태그 제작 재료
+Tag production materials
 
 ID=41409
 Return Dash
 
 ID=41410
-리턴 대시
+Return Dash
 
 ID=41411
 Clear 1 Dungeon
@@ -24406,13 +24404,13 @@ ID=41413
 Enchant 2 items.
 
 ID=41414
-아이템 분해 누적 3회
+Dismantle 3 items.
 
 ID=41415
 Craft 1 item.
 
 ID=41416
-그루톤 코인 샵 누적 이용횟수 1회
+Use Glutton Shop 1 time.
 
 ID=41417
 Clear 5 Dungeons
@@ -24421,10 +24419,10 @@ ID=41418
 Level up a Skill 3 times
 
 ID=41419
-아이템 강화 누적 4회 도전
+Enchant 4 items.
 
 ID=41420
-아이템 분해 누적 6회
+Dismantle 6 items.
 
 ID=41421
 Clear 10 Dungeons
@@ -24433,13 +24431,13 @@ ID=41422
 Level up a Skill 5 times
 
 ID=41423
-아이템 강화 누적 6회 도전
+Enchant 6 items.
 
 ID=41424
-아이템 분해 누적 9회
+Dismantle 9 items.
 
 ID=41425
-아이템 제작 누적 3회
+Craft 3 items.
 
 ID=41426
 Dungeon Clear 15 times
@@ -24448,13 +24446,13 @@ ID=41427
 Level up a Skill 7 times
 
 ID=41428
-아이템 강화 누적 8회 도전
+Enchant 8 items.
 
 ID=41429
-아이템 분해 누적 12회
+Dismantle 12 items.
 
 ID=41430
-그루톤 코인 샵 누적 이용횟수 2회
+Use Glutton Shop 2 times.
 
 ID=41431
 Clear 20 Dungeons
@@ -24463,13 +24461,13 @@ ID=41432
 Level up a Skill 9 times
 
 ID=41433
-아이템 강화 누적 10회 도전
+Enchant 10 items.
 
 ID=41434
-아이템 분해 누적 15회
+Dismantle 15 items.
 
 ID=41435
-아이템 제작 누적 5회
+Craft 5 items.
 
 ID=41436
 Clear 25 Dungeon
@@ -24478,31 +24476,31 @@ ID=41437
 Level up Skill 10 time
 
 ID=41438
-아이템 강화 누적 12회 도전
+Enchant 12 items.
 
 ID=41439
-아이템 분해 누적 18회
+Dismantle 18 items.
 
 ID=41440
-그루톤 코인 샵 누적 이용횟수 3회
+Use Glutton Shop 3 times.
 
 ID=41441
 Dungeon Clear 30 times
 
 ID=41442
-스킬 누적 강화 10회
+Level up Skill 10 time
 
 ID=41443
-아이템 강화 누적 16회 도전
+Enchant 16 items.
 
 ID=41444
-아이템 분해 누적 21회
+Dismantle 21 items.
 
 ID=41445
-아이템 제작 누적 7회
+Craft 7 items.
 
 ID=41446
-그루톤 코인 샵 누적 이용횟수 4회
+Use Glutton Shop 4 times.
 
 ID=11701
 Frenzy
@@ -24514,7 +24512,7 @@ ID=11703
 Burning
 
 ID=11704
-강철의
+Steel
 
 ID=11705
 Of brilliance
@@ -24544,7 +24542,7 @@ ID=11713
 lonesome
 
 ID=42510
-미리엄
+Miriam
 
 ID=42511
 Warm Touch Miriam
@@ -24553,13 +24551,13 @@ ID=42512
 Saint Miriam Wraps Up The Light
 
 ID=42513
-미리엄
+Miriam
 
 ID=42514
-따스한 손길 미리엄
+Warm Touch Miriam
 
 ID=42515
-빛을 감싸는 성녀 미리엄
+Saint Miriam Wraps Up The Light
 
 ID=42564
 Eternity
@@ -24571,16 +24569,16 @@ ID=42566
 A fierce tyranny Eternity
 
 ID=42567
-이터니티
+Eternity
 
 ID=42568
-불꽃의 이터니티
+Eternity of the Flame
 
 ID=42569
-작렬하는 폭음 이터니티
+A fierce tyranny Eternity
 
 ID=42570
-아포칼립스
+Apocalypse
 
 ID=42571
 Apocalypse of Snow
@@ -24589,13 +24587,13 @@ ID=42572
 Tranquil Glacier Apocalypse
 
 ID=42573
-아포칼립스
+Apocalypse
 
 ID=42574
-설원의 아포칼립스
+Apocalypse of Snow
 
 ID=42575
-고요한 빙하 아포칼립스
+Tranquil Glacier Apocalypse
 
 ID=42576
 Juggernaut
@@ -24607,13 +24605,13 @@ ID=42578
 Destroying Lightning Juggernaut
 
 ID=42579
-저거너트
+Juggernaut
 
 ID=42580
-벼락의 저거너트
+Thunderbolt's Juggernaut
 
 ID=42581
-멸하는 낙뢰 저거너트
+Destroying Lightning Juggernaut
 
 ID=42582
 Pandemonia
@@ -24625,13 +24623,13 @@ ID=42584
 Stormy Pandemonia
 
 ID=42585
-판데모니아
+Pandemonia
 
 ID=42586
-폭풍의 판데모니아
+Pandemonia of the Storm
 
 ID=42587
-몰아치는 질풍 판데모니아
+Stormy Pandemonia
 
 ID=42588
 Ultimatum
@@ -24643,13 +24641,13 @@ ID=42590
 Light Ultimatum
 
 ID=42591
-얼티메이텀
+Ultimatum
 
 ID=42592
-빛의 얼티메이텀
+Ultimatum of the Light
 
 ID=42593
-경외로운 광명 얼티메이텀
+Light Ultimatum
 
 ID=43366
 [S] Miriam
@@ -24688,7 +24686,7 @@ ID=43393
 [SH] Equilibrium Ultimatum
 
 ID=65037
-결합
+Combination
 
 ID=65038
 Registering Material Akashik Records
@@ -24703,16 +24701,16 @@ ID=65041
 Combined Probability:
 
 ID=65042
-결합
+Combination
 
 ID=65043
 Join failure:
 
 ID=100020
-각인
+Engrave
 
 ID=100021
-각인
+Engrave
 
 ID=100028
 If you use a card of the same rarity as the target Akashik Record as the material for the number of slots below, it will be "imprinted" with the next tier.
@@ -24721,7 +24719,7 @@ ID=5812
 <font color='#FFFFFF'><font size="30">TIP。</font>Collect Akashik Record Material <font color='#00ff9c'>Io</font>If you take it to <font color='#00D8FF'>Akashik Records</font>You can composite / stamp / combine.
 
 ID=5875
-<font color='#FFFFFF'><font size="30">TIP。</font>아카식 레코드 재료를 모아 <font color='#00ff9c'>이오</font>에게 가져가면 <font color='#00D8FF'>아카식 레코드</font>를 합성 / 각인 / 결합을 할 수 있습니다.
+<font color='#FFFFFF'><font size="30">TIP。</font>Collect Akashik Record Material <font color='#00ff9c'>Io</font>If you take it to <font color='#00D8FF'>Akashik Records</font>You can composite / stamp / combine.
 
 ID=6065
 Proceed with the engraving of the Akashik Record. The Akashik Records used as material disappear and cannot be recovered. Do you want to proceed?
@@ -24733,10 +24731,10 @@ ID=6067
 Proceed with hidden synthesis of Akashik Records. Akashik Records used as material disappear and cannot be recovered. Do you want to continue?
 
 ID=100031
-히든 합성
+Hidden synthesis
 
 ID=100030
-히든 합성
+Hidden synthesis
 
 ID=6043
 Composite / Stamping [{0}]
@@ -24754,274 +24752,274 @@ ID=42480
 [ACTIVE] Good Boy
 
 ID=42481
-[캐쉬/액티브] 굿보이
+[ACTIVE] Good Boy
 
 ID=42482
-[캐쉬/액티브] 굿보이
+[ACTIVE] Good Boy
 
 ID=42483
 [ACTIVE] Good Boy μ
 
 ID=42484
-[캐쉬/액티브] 굿보이 (히든)
+[ACTIVE] Good Boy μ
 
 ID=42485
-[캐쉬/액티브] 굿보이 (히든)
+[ACTIVE] Good Boy μ
 
 ID=42486
 [ACTIVE] Catherine
 
 ID=42487
-[캐쉬/액티브] 캐서린
+[ACTIVE] Catherine
 
 ID=42488
-[캐쉬/액티브] 캐서린
+[ACTIVE] Catherine
 
 ID=42489
 [ACTIVE] Catherine μ
 
 ID=42490
-[캐쉬/액티브] 캐서린 (히든)
+[ACTIVE] Catherine μ
 
 ID=42491
-[캐쉬/액티브] 캐서린 (히든)
+[ACTIVE] Catherine μ
 
 ID=42492
 [ACTIVE] Ryu
 
 ID=42493
-[캐쉬/액티브] 류
+[ACTIVE] Ryu
 
 ID=42494
-[캐쉬/액티브] 류
+[ACTIVE] Ryu
 
 ID=42495
 [ACTIVE] Ryu μ
 
 ID=42496
-[캐쉬/액티브] 류 (히든)
+[ACTIVE] Ryu μ
 
 ID=42497
-[캐쉬/액티브] 류 (히든)
+[ACTIVE] Ryu μ
 
 ID=42498
 [ACTIVE] Kainbarrel
 
 ID=42499
-[캐쉬/액티브] 케인바렐
+[ACTIVE] Kainbarrel
 
 ID=42500
-[캐쉬/액티브] 케인바렐
+[ACTIVE] Kainbarrel
 
 ID=42501
 [ACTIVE] Kainbarrel μ
 
 ID=42502
-[캐쉬/액티브] 케인바렐 (히든)
+[ACTIVE] Kainbarrel μ
 
 ID=42503
-[캐쉬/액티브] 케인바렐 (히든)
+[ACTIVE] Kainbarrel μ
 
 ID=42504
 [ACTIVE] Haidinger
 
 ID=42505
-[캐쉬/액티브] 하이딩거
+[ACTIVE] Haidinger
 
 ID=42506
-[캐쉬/액티브] 하이딩거
+[ACTIVE] Haidinger
 
 ID=42507
 [ACTIVE] Haidinger μ
 
 ID=42508
-[캐쉬/액티브] 하이딩거 (히든)
+[ACTIVE] Haidinger μ
 
 ID=42509
-[캐쉬/액티브] 하이딩거 (히든)
+[ACTIVE] Haidinger μ
 
 ID=42516
 [ACTIVE] Ralph
 
 ID=42517
-[캐쉬/액티브] 랄프
+[ACTIVE] Ralph
 
 ID=42518
-[캐쉬/액티브] 랄프
+[ACTIVE] Ralph
 
 ID=42519
 [ACTIVE] Ralph μ
 
 ID=42520
-[캐쉬/액티브] 랄프 (히든)
+[ACTIVE] Ralph μ
 
 ID=42521
-[캐쉬/액티브] 랄프 (히든)
+[ACTIVE] Ralph μ
 
 ID=42522
 [ACTIVE] Lucy
 
 ID=42523
-[캐쉬/액티브] 루시
+[ACTIVE] Lucy
 
 ID=42524
-[캐쉬/액티브] 루시
+[ACTIVE] Lucy
 
 ID=42525
 [ACTIVE] Lucy μ
 
 ID=42526
-[캐쉬/액티브] 루시 (히든)
+[ACTIVE] Lucy μ
 
 ID=42527
-[캐쉬/액티브] 루시 (히든)
+[ACTIVE] Lucy μ
 
 ID=42528
 [ACTIVE] Punisher
 
 ID=42529
-[캐쉬/액티브] 퍼니셔
+[ACTIVE] Punisher
 
 ID=42530
-[캐쉬/액티브] 퍼니셔
+[ACTIVE] Punisher
 
 ID=42531
 [ACTIVE] Punisher μ
 
 ID=42532
-[캐쉬/액티브] 퍼니셔 (히든)
+[ACTIVE] Punisher μ
 
 ID=42533
-[캐쉬/액티브] 퍼니셔 (히든)
+[ACTIVE] Punisher μ
 
 ID=42534
 [ACTIVE] Laban
 
 ID=42535
-[캐쉬/액티브] 라반
+[ACTIVE] Laban
 
 ID=42536
-[캐쉬/액티브] 라반
+[ACTIVE] Laban
 
 ID=42537
 [ACTIVE] Laban μ
 
 ID=42538
-[캐쉬/액티브] 라반 (히든)
+[ACTIVE] Laban μ
 
 ID=42539
-[캐쉬/액티브] 라반 (히든)
+[ACTIVE] Laban μ
 
 ID=42540
 [ACTIVE] Genocider X
 
 ID=42541
-[캐쉬/액티브] 제노사이더X
+[ACTIVE] Genocider X
 
 ID=42542
-[캐쉬/액티브] 제노사이더X
+[ACTIVE] Genocider X
 
 ID=42543
 [ACTIVE] Genocider X μ
 
 ID=42544
-[캐쉬/액티브] 제노사이더X (히든)
+[ACTIVE] Genocider X μ
 
 ID=42545
-[캐쉬/액티브] 제노사이더X (히든)
+[ACTIVE] Genocider X μ
 
 ID=42546
 [ACTIVE] Imp Puppet
 
 ID=42547
-[캐쉬/액티브] 임프 퍼펫
+[ACTIVE] Imp Puppet
 
 ID=42548
-[캐쉬/액티브] 임프 퍼펫
+[ACTIVE] Imp Puppet
 
 ID=42549
 [ACTIVE] Imp Puppet μ
 
 ID=42550
-[캐쉬/액티브] 임프 퍼펫 (히든)
+[ACTIVE] Imp Puppet μ
 
 ID=42551
-[캐쉬/액티브] 임프 퍼펫 (히든)
+[ACTIVE] Imp Puppet μ
 
 ID=42552
 [ACTIVE] Little Puppet
 
 ID=42553
-[캐쉬/액티브] 리틀 퍼펫
+[ACTIVE] Little Puppet
 
 ID=42554
-[캐쉬/액티브] 리틀 퍼펫
+[ACTIVE] Little Puppet
 
 ID=42555
 [ACTIVE] Little Puppet μ
 
 ID=42556
-[캐쉬/액티브] 리틀 퍼펫 (히든)
+[ACTIVE] Little Puppet μ
 
 ID=42557
-[캐쉬/액티브] 리틀 퍼펫 (히든)
+[ACTIVE] Little Puppet μ
 
 ID=42558
 [ACTIVE] Amaryllis
 
 ID=42559
-[캐쉬/액티브] 아마릴리스
+[ACTIVE] Amaryllis
 
 ID=42560
-[캐쉬/액티브] 아마릴리스
+[ACTIVE] Amaryllis
 
 ID=42561
 [ACTIVE] Amaryllis μ
 
 ID=42562
-[캐쉬/액티브] 아마릴리스 (히든)
+[ACTIVE] Amaryllis μ
 
 ID=42563
-[캐쉬/액티브] 아마릴리스 (히든)
+[ACTIVE] Amaryllis μ
 
 ID=42594
 [ACTIVE] Poison
 
 ID=42595
-[캐쉬/액티브] 포이즌
+[ACTIVE] Poison
 
 ID=42596
-[캐쉬/액티브] 포이즌
+[ACTIVE] Poison
 
 ID=42597
 [ACTIVE] Poison μ
 
 ID=42598
-[캐쉬/액티브] 포이즌 (히든)
+[ACTIVE] Poison μ
 
 ID=42599
-[캐쉬/액티브] 포이즌 (히든)
+[ACTIVE] Poison μ
 
 ID=42600
 [ACTIVE] Falcon & Garuda
 
 ID=42601
-[캐쉬/액티브] 팔콘&가루라
+[ACTIVE] Falcon & Garuda
 
 ID=42602
-[캐쉬/액티브] 팔콘&가루라
+[ACTIVE] Falcon & Garuda
 
 ID=42603
 [ACTIVE] Falcon & Garuda μ
 
 ID=42604
-[캐쉬/액티브] 팔콘&가루라 (히든)
+[ACTIVE] Falcon & Garuda μ
 
 ID=42605
-[캐쉬/액티브] 팔콘&가루라 (히든)
+[ACTIVE] Falcon & Garuda μ
 
 ID=42606
-하루
+Haru
 
 ID=42607
 Soulum Sword of Revenge, Haru
@@ -25030,16 +25028,16 @@ ID=42608
 Soulum Sword of Fighting Spirit, Haru
 
 ID=42609
-하루
+Haru
 
 ID=42610
-복수의 소울럼소드 하루
+Soulum Sword of Revenge, Haru
 
 ID=42611
-투지의 소울럼소드 하루
+Soulum Sword of Fighting Spirit, Haru
 
 ID=42612
-어윈
+Erwin
 
 ID=42613
 Pleasure Gunjazz Erwin
@@ -25048,16 +25046,16 @@ ID=42614
 Oath Build Erwin
 
 ID=42615
-어윈
+Erwin
 
 ID=42616
-쾌락의 건재즈 어윈
+Pleasure Gunjazz Erwin
 
 ID=42617
-맹세의 건재즈 어윈
+Oath Build Erwin
 
 ID=42618
-릴리
+Lily 
 
 ID=42619
 Mistside Lily of Madness
@@ -25066,16 +25064,16 @@ ID=42620
 Mistside Lily of the Lodge
 
 ID=42621
-릴리
+Lily 
 
 ID=42622
-광기의 미스트사이드 릴리
+Mistside Lily of Madness
 
 ID=42623
-결사의 미스트사이드 릴리
+Mistside Lily of the Lodge
 
 ID=42624
-진
+Jin
 
 ID=42625
 Spirit Arms Jin of Passion
@@ -25084,16 +25082,16 @@ ID=42626
 Spiritarms Jin of Unity
 
 ID=42627
-진
+Jin
 
 ID=42628
-열정의 스피릿암즈 진
+Spirit Arms Jin of Passion
 
 ID=42629
-단결의 스피릿암즈 진
+Spiritarms Jin of Unity
 
 ID=42630
-스텔라
+Stella
 
 ID=42631
 Howling Guitar Stella of Sorrows
@@ -25102,16 +25100,16 @@ ID=42632
 Howling Guitar Stella of Hope
 
 ID=42633
-스텔라
+Stella
 
 ID=42634
-슬픔의 하울링기타 스텔라
+Howling Guitar Stella of Sorrows
 
 ID=42635
-희망의 하울링기타 스텔라
+Howling Guitar Stella of Hope
 
 ID=42636
-이리스
+Iris
 
 ID=42637
 Fury Hammerstall Iris
@@ -25120,16 +25118,16 @@ ID=42638
 Hammerstall Iris of Valor
 
 ID=42639
-이리스
+Iris
 
 ID=42640
-분노의 해머스톨 이리스
+Fury Hammerstall Iris
 
 ID=42641
-용맹의 해머스톨 이리스
+Hammerstall Iris of Valor
 
 ID=42642
-테네브리스
+Tenebris
 
 ID=42643
 Grasscover Leader, Tenebris
@@ -25138,13 +25136,13 @@ ID=42644
 The tragedy of the night sky Tenebris
 
 ID=42645
-테네브리스
+Tenebris
 
 ID=42646
-잔디의 리더 테네브리스
+Grasscover Leader, Tenebris
 
 ID=42647
-밤하늘의 비극 테네브리스
+The tragedy of the night sky Tenebris
 
 ID=42648
 Henry
@@ -25156,13 +25154,13 @@ ID=42650
 Henry of Forbidden Science
 
 ID=42651
-헨리
+Henry
 
 ID=42652
-네드 과학자 헨리
+Ned Scientist Henry
 
 ID=42653
-금기과학의 집행자 헨리
+Henry of Forbidden Science
 
 ID=42654
 Zenith
@@ -25174,13 +25172,13 @@ ID=42656
 Outlaw Creator Zenith
 
 ID=42657
-제니스
+Zenith
 
 ID=42658
-화이트해커 제니스
+White Hacker, Zenith
 
 ID=42659
-무법의 창작자 제니스
+Outlaw Creator Zenith
 
 ID=42660
 Io
@@ -25192,13 +25190,13 @@ ID=42662
 Bystander Io
 
 ID=42663
-이오
+Io
 
 ID=42664
-관찰자 이오
+Observer Io
 
 ID=42665
-신역사의 방관자 이오
+Bystander Io
 
 ID=43356
 [S] Good Boy
@@ -25288,13 +25286,13 @@ ID=16564
 Galaxy
 
 ID=16847
-각인등급 0
+Star
 
 ID=16848
-각인등급 1
+Nebula
 
 ID=16849
-각인등급 2
+Galaxy
 
 ID=100038
 Please register the same type of Akashik Record as the main Akashik Record.
@@ -25306,7 +25304,7 @@ ID=100010
 EXP Synthesis
 
 ID=100011
-경험치 합성
+EXP Synthesis
 
 ID=100015
 The material Akashik Records used to synthesize experience will disappear.\nThink carefully when using Akashik Records as a material.
@@ -25318,7 +25316,7 @@ ID=100026
 Next rating
 
 ID=100027
-추가 재료
+Additional Materials
 
 ID=100035
 Main Akashik Record
@@ -25327,7 +25325,7 @@ ID=100036
 Akashik Records of the same kind
 
 ID=101000
-아카식 레코드
+Akashik Records
 
 ID=101001
 Akashik Record Equipment
@@ -25336,19 +25334,19 @@ ID=101002
 Akashik Record Book
 
 ID=101003
-일반
+General
 
 ID=101004
 μ A.R 
 
 ID=101005
-장착
+Mounting
 
 ID=101006
-도감
+Field Guide
 
 ID=101007
-해방
+Liberation
 
 ID=101008
 Right click on the Akashik Record in the mounting window and choose Unlock.
@@ -25396,13 +25394,13 @@ ID=65018
 Portrait Album
 
 ID=65019
-적용
+Apply
 
 ID=65020
-취소
+Cancel
 
 ID=65021
-적용중
+In effect
 
 ID=65025
 The Portrait has been extended.
@@ -25411,13 +25409,13 @@ ID=65027
 The Portrait is registered.
 
 ID=65028
-{0}일
+{0} days
 
 ID=65030
-{0}시간
+{0}hours
 
 ID=65031
-{0}분
+{0} minutes
 
 ID=58010
 You do not have this Portrait.
@@ -25450,7 +25448,7 @@ ID=65036
 This is a portrait that is already in effect.
 
 ID=70000
-아이돌
+Idol
 
 ID=711001
 Soulum Sword of Revenge
@@ -25462,13 +25460,13 @@ ID=710001
 Everyday Clothes
 
 ID=710002
-바다내음 수영복
+Sea Swimsuit
 
 ID=710003
-그루그루 그루톤
+Glutton Glutton
 
 ID=710004
-아이돌 오브 드림
+Idol of Dream
 
 ID=710005
 Twinkle Bunny Girl
@@ -25483,22 +25481,22 @@ ID=722001
 Artillery of Eternal Vow
 
 ID=720001
-일상복
+Everyday Clothes
 
 ID=720002
-바다내음 수영복
+Sea Swimsuit
 
 ID=720003
-그루그루 그루톤
+Glutton Glutton
 
 ID=720004
-아이돌 오브 드림
+Idol of Dream
 
 ID=720005
 Twinkle Bunny Boy
 
 ID=720006
-성스러운 심판
+Sacred Judgment
 
 ID=731001
 Mist Scythe of Madness
@@ -25507,22 +25505,22 @@ ID=732001
 Chains of Piercing Resolve
 
 ID=730001
-일상복
+Everyday Clothes
 
 ID=730002
-바다내음 수영복
+Sea Swimsuit
 
 ID=730003
-그루그루 그루톤
+Glutton Glutton
 
 ID=730004
-아이돌 오브 드림
+Idol of Dream
 
 ID=730005
-트윙클 바니걸
+Twinkle Bunny Girl
 
 ID=730006
-성스러운 심판
+Sacred Judgment
 
 ID=741001
 Spirit Arms of Passion
@@ -25531,22 +25529,22 @@ ID=742001
 Shield of Blazing Conviction
 
 ID=740001
-일상복
+Everyday Clothes
 
 ID=740002
-바다내음 수영복
+Sea Swimsuit
 
 ID=740003
-그루그루 그루톤
+Glutton Glutton
 
 ID=740004
-아이돌 오브 드림
+Idol of Dream
 
 ID=740005
-트윙클 바니보이
+Twinkle Bunny Boy
 
 ID=740006
-성스러운 심판
+Sacred Judgment
 
 ID=751001
 Howling Guitar of Sorrow
@@ -25555,22 +25553,22 @@ ID=752001
 Soul of Soaring Aspiration
 
 ID=750001
-일상복
+Everyday Clothes
 
 ID=750002
-바다내음 수영복
+Sea Swimsuit
 
 ID=750003
-그루그루 그루톤
+Glutton Glutton
 
 ID=750004
-아이돌 오브 드림
+Idol of Dream
 
 ID=750005
-트윙클 바니걸
+Twinkle Bunny Girl
 
 ID=750006
-성스러운 심판
+Sacred Judgment
 
 ID=761001
 Hammer Stol of Rage
@@ -25579,22 +25577,22 @@ ID=762001
 Shooting Star of Outstanding Valor
 
 ID=760001
-일상복
+Everyday Clothes
 
 ID=760002
-바다내음 수영복
+Sea Swimsuit
 
 ID=760003
-그루그루 그루톤
+Glutton Glutton
 
 ID=760004
-아이돌 오브 드림
+Idol of Dream
 
 ID=760005
-트윙클 바니걸
+Twinkle Bunny Girl
 
 ID=760006
-성스러운 심판
+Sacred Judgment
 
 ID=24336
 Portrait Item
@@ -25603,7 +25601,7 @@ ID=24337
 Period portrait items
 
 ID=65044
-{0}초
+{0} seconds
 
 ID=65045
 The registered {0} portrait has expired.
@@ -25612,22 +25610,22 @@ ID=38031
 Quest Clear Experience Increased by {0}%
 
 ID=710007
-러블리 크리스마스
+Lovely Christmas
 
 ID=720007
-러블리 크리스마스
+Lovely Christmas
 
 ID=730007
-러블리 크리스마스
+Lovely Christmas
 
 ID=740007
-러블리 크리스마스
+Lovely Christmas
 
 ID=750007
-러블리 크리스마스
+Lovely Christmas
 
 ID=760007
-러블리 크리스마스
+Lovely Christmas
 
 ID=9895
 The Primal Hero
@@ -25657,10 +25655,10 @@ ID=67002
 - The ranking closes at 00 o'clock every Monday, and the next season begins with two hours of compensation.\n - No play history will be counted in the rankings for two hours after the ranking close.\n - Play history is counted every 30 minutes and reflected in the rankings.
 
 ID=67003
-보상 보기
+View Reward
 
 ID=67004
-보상 받기
+Get rewarded
 
 ID=67006
 Earn previous season rewards.
@@ -25690,10 +25688,10 @@ ID=67014
 View current rankings
 
 ID=67015
-보상 확인
+Confirm your compensation
 
 ID=67016
-확인
+Confirm
 
 ID=67101
 Point total ranking
@@ -25720,7 +25718,7 @@ ID=67108
 {0} days {1}: {2} left
 
 ID=67201
-오퍼레이션
+operation
 
 ID=68001
 Solo Dungeon Ranking
@@ -25813,19 +25811,19 @@ ID=66006
 Dye with any of the colors listed above.\nBut it can be dyed the same as the previous color.
 
 ID=66007
-염색
+Dyeing
 
 ID=66008
 Bleaching
 
 ID=66009
-카메라 회전
+Camera rotation
 
 ID=66010
-카메라 이동
+Move Camera
 
 ID=66011
-카메라 줌
+Camera Zoom
 
 ID=1454
 Change color [{0}]
@@ -25852,7 +25850,7 @@ ID=24338
 Dyeing materials
 
 ID=24674
-염색 재료
+Dyeing materials
 
 ID=24906
 Pipette
@@ -25975,13 +25973,13 @@ ID=16872
 Seller
 
 ID=30203
-공격력
+Attack
 
 ID=30204
 Critical Hit
 
 ID=30205
-일반
+General
 
 ID=30206
 Fashion Effect
@@ -26002,13 +26000,13 @@ ID=42668
 Atonement Laufer of Friends
 
 ID=42669
-라우퍼
+Laufer
 
 ID=42670
-네드출신 비서 라우퍼
+Ned's Secretary Laufer
 
 ID=42671
-친우에의 속죄 라우퍼
+Atonement Laufer of Friends
 
 ID=42672
 Leona
@@ -26020,13 +26018,13 @@ ID=42674
 Manager Leona of the Black Capital
 
 ID=42675
-레오나
+Leona
 
 ID=42676
-네드의 비서 레오나
+Ned's Secretary Leona
 
 ID=42677
-검은 자본의 관리자 레오나
+Manager Leona of the Black Capital
 
 ID=42678
 Beneris
@@ -26038,13 +26036,13 @@ ID=42680
 Joker card Beneris of negotiations
 
 ID=42681
-베네리스
+Beneris
 
 ID=42682
-오르카 베네리스
+Orca Beneris
 
 ID=42683
-협상의 조커카드 베네리스
+Joker card Beneris of negotiations
 
 ID=42684
 Arua
@@ -26056,13 +26054,13 @@ ID=42686
 Blooming Battlefield Flower Arua
 
 ID=42687
-아루아
+Arua
 
 ID=42688
-십인대장 아루아
+Captain Arua
 
 ID=42689
-푸른전장에 피는 꽃 아루아
+Blooming Battlefield Flower Arua
 
 ID=42690
 Perry
@@ -26074,13 +26072,13 @@ ID=42692
 Premonition Perry of Scoop Acquisition
 
 ID=42693
-페리
+Perry
 
 ID=42694
-부커스TV 페리
+Booker TV, Perry
 
 ID=42695
-특종확보의 예감 페리
+Premonition Perry of Scoop Acquisition
 
 ID=42696
 Jeremy
@@ -26092,13 +26090,13 @@ ID=42698
 Dark Jeremy in Mind
 
 ID=42699
-제레미
+Jeremy
 
 ID=42700
-별숲리그 제레미
+Star Forest League Jeremy
 
 ID=42701
-마음에 담은 어둠 제레미
+Dark Jeremy in Mind
 
 ID=42702
 Hicks
@@ -26110,13 +26108,13 @@ ID=42704
 Replica Project, Hicks
 
 ID=42705
-힉스
+Hicks
 
 ID=42706
-속죄하는 과학자 힉스
+Atonement Scientist Hicks
 
 ID=42707
-레플리카 프로젝트 힉스
+Replica Project, Hicks
 
 ID=42708
 Robert
@@ -26128,13 +26126,13 @@ ID=42710
 Robert's Urban Reconstruction
 
 ID=42711
-로버트
+Robert
 
 ID=42712
-시장의 아들 로버트
+Mayor's Son Robert
 
 ID=42713
-도시재건의 한걸음 로버트
+Robert's Urban Reconstruction
 
 ID=42714
 Warren
@@ -26146,13 +26144,13 @@ ID=42716
 Last Guardian Warren
 
 ID=42717
-워렌
+Warren
 
 ID=42718
-민간의사 워렌
+Private Doctor Warren
 
 ID=42719
-최후방의 수호자 워렌
+Last Guardian Warren
 
 ID=42720
 Emilito
@@ -26164,13 +26162,13 @@ ID=42722
 Faithful Friend Emilito
 
 ID=42723
-상엽
+Emilito
 
 ID=42724
-별숲의 병사 상엽
+Star Forest Soldier Emilito
 
 ID=42725
-친우와의 믿음 상엽
+Faithful Friend Emilito
 
 ID=42726
 Allen
@@ -26182,16 +26180,16 @@ ID=42728
 Allen, Patron of the Orphanage
 
 ID=42729
-상훈
+Allen
 
 ID=42730
-재벌가의 자손 상훈
+Allen, The Descendant of a Conglomerate
 
 ID=42731
-고아원의 후원자 상훈
+Allen, Patron of the Orphanage
 
 ID=42732
-랄프
+Ralph
 
 ID=42733
 Ned Mercenary Ralph
@@ -26200,31 +26198,31 @@ ID=42734
 Field Charge Assault Ralph
 
 ID=42735
-랄프
+Ralph
 
 ID=42736
-네드용병 랄프
+Ned Mercenary Ralph
 
 ID=42737
-현장투입 돌격병 랄프
+Field Charge Assault Ralph
 
 ID=42738
 Foil Card Cover
 
 ID=42739
-포일 카드 커버
+Foil Card Cover
 
 ID=42740
-포일 카드 커버
+Foil Card Cover
 
 ID=42741
-포일 카드 커버
+Foil Card Cover
 
 ID=42742
-포일 카드 커버
+Foil Card Cover
 
 ID=42743
-포일 카드 커버
+Foil Card Cover
 
 ID=55623
 The attached amount exceeds the limit and mailing failed.
@@ -26356,10 +26354,10 @@ ID=43435
 [SH] Allen
 
 ID=43436
-[S] 랄프
+[S] Ralph
 
 ID=43437
-[SH] 랄프
+[SH] Ralph
 
 ID=43438
 [S] Foil Card
@@ -26368,7 +26366,7 @@ ID=33006
 My dear daughter Catherine.\nPlease look at me from the sky above.
 
 ID=3118
-캐쉬
+Cash
 
 ID=59600
 Roulette is not available.
@@ -26401,7 +26399,7 @@ ID=61002
 Roulette counts are reset every day at 9 AM.
 
 ID=61003
-아이템 획득
+Obtained Items
 
 ID=61004
 Click to return
@@ -26446,7 +26444,7 @@ ID=20222
 {0} appoints Soul Worker Honorary Knight
 
 ID=20223
-은빛 기사단
+Silver Knights
 
 ID=20224
 You will be awarded the Honor Knight Title.
@@ -26578,7 +26576,7 @@ ID=18596
 Predator's Deceleration.
 
 ID=18597
-브레이크 침식
+Break Erosion
 
 ID=771001
 Desperate of Eager
@@ -26596,16 +26594,16 @@ ID=42746
 Queen of Swords Arua
 
 ID=42747
-베시 아루아
+Betsy Arua
 
 ID=42748
-당당한 자태 아루아
+Commander Arua
 
 ID=42749
-여왕을 지키는 검 아루아
+Queen of Swords Arua
 
 ID=42750
-오르카 베네리스
+Orca Beneris
 
 ID=42751
 Beneris of the Invasion
@@ -26614,13 +26612,13 @@ ID=42752
 Beneris of the Mysterious Glow
 
 ID=42753
-오르카 베네리스
+Orca Beneris
 
 ID=42754
-암습의 베네리스
+Beneris of the Invasion
 
 ID=42755
-수상한 기색의 베네리스
+Beneris of the Mysterious Glow
 
 ID=43439
 [S] Betsy Arua
@@ -26641,7 +26639,7 @@ ID=80001
 <font color='#F29661'> {0} </font> Special dyeing available
 
 ID=80002
-By using the dyeing points, you can use special dye colors. Dye points are reset when special dyeing.
+염색 포인트를 소진하여 확정적으로 스페셜 색상으로 염색 할 수 있습니다. 스페셜 염색 시 \n염색 포인트는 초기화됩니다.
 
 ID=80003
 Special Dyeing
@@ -26707,10 +26705,10 @@ ID=710018
 Cat Chii
 
 ID=31178
-파티
+Party
 
 ID=31179
-포스
+Squad
 
 ID=31180
 Recruitment List
@@ -26719,7 +26717,7 @@ ID=31181
 Filter
 
 ID=31182
-전체
+All
 
 ID=31183
 Party recruitment registration
@@ -26734,16 +26732,16 @@ ID=31186
 Squad recruitment disabled
 
 ID=31187
-파티 모집 등록
+Party recruitment registration
 
 ID=31188
-디스트릭트
+District
 
 ID=31189
-포스 모집 등록
+Squad recruitment registration
 
 ID=31190
-선택
+Selection
 
 ID=31191
 Squad support
@@ -26881,28 +26879,19 @@ ID=80108
 It is not possible to check the ranking because the representative character is not set.
 
 ID=59630
-The representative character is not set.
-\nYou might have a disadvantage for not setting,\na representative character.
+대표 캐릭터가 설정되어 있지 않습니다.\n\n대표 캐릭터 비 설정 시 보상 등에서\n불이익이 생길 수 있습니다.\n
 
 ID=59631
-Set the selected character as the representative character.
-\nRepresentative characters can participate in the rankings,\nUsed for photos representing the account.
-\n<font color='#FF0000'>Representative characters cannot be registered\nAnother character was registered less than 1 day ago.</font>\n\nDo you want to continue?
+선택된 캐릭터를 대표 캐릭터로 설정 합니다.\n\n대표캐릭터는 랭킹에 참여 가능하며,\n계정을 대표 하는 사진 등에 활용 합니다.\n\n<font color='#FF0000'>대표캐릭터는 등록 시 1일 동안 다른 캐릭터로는\n등록이 불가능 합니다.</font>\n\n계속 진행 하시겠습니까?
 
 ID=59632
-If a representative character has been changed,\nThe record that is currently being counted for the representative character
-\nwill all be deleted and\nReplacement of the representative character will take count after 1 day.
-\n
-Do you want to continue?
+대표 캐릭터가 변경된 경우\n현재 대표 캐릭터로 집계 중이던 기록이\n\n모두 삭제 되고 1일 동안\n대표 캐릭터 교체가 불가능 합니다.\n\n\n계속 진행 하시겠습니까?
 
 ID=59633
-There is still a\nranking reward that has not yet been received for the main character.
-\nIf you do not receive your rewards\nYou cannot change the representative character.
+현재 대표 캐릭터에 아직 수령하지 않은\n랭킹 보상이 남아 있습니다.\n\n보상 수령이 되지 않았을 경우\n대표 캐릭터 변경은 불가능 합니다.
 
 ID=59634
-Ranking aggregation is currently in progress.
-\nCompensation-related content cannot be changed.
-\nPlease change it after the aggregation is completed.
+현재 랭킹 집계가 진행 중 입니다.\n\n보상 관련 내용으로 인해 변경이 불가능 하니\n\n집계 완료 후 변경 부탁 드립니다.
 
 ID=59635
 Characters designated as representative characters cannot be deleted.
@@ -26995,13 +26984,13 @@ ID=1062
 Unbalanced Shaggy Hair
 
 ID=1063
-와일드 샤기 헤어
+Wild Long Hair
 
 ID=5067
 <Desperate of Resolve>has been promoted to.
 
 ID=20229
-서번트 인 카페
+Servant Inn Cafe
 
 ID=20230
 Greetings with courtesy.
@@ -27019,7 +27008,7 @@ ID=24339
 Emotion
 
 ID=24340
-이모션
+Emotion
 
 ID=55117
 You cannot block characters on your account.
@@ -27106,7 +27095,7 @@ ID=66024
 Can only be earned<font color='#00CED1'> 1 time during a period</font>\nWhen the number of clear times is achieved, automatic payment by mail.
 
 ID=66025
-{0}분
+{0} minutes
 
 ID=66026
 {0} times
@@ -27133,7 +27122,7 @@ ID=66033
 Start
 
 ID=66034
-종료
+Close
 
 ID=10119
 Account restrictions
@@ -27220,28 +27209,28 @@ ID=20004
 Equalizer Name
 
 ID=20005
-적용
+Apply
 
 ID=20006
 Equalizer [{0}] Active
 
 ID=20007
-없음
+None
 
 ID=23201
-데자이어 워커
+Desire Worker
 
 ID=20008
-취소
+Cancel
 
 ID=23301
-It derives the strength and emotions of the Desire Worker and blends it with the present.\nThere is no fear of being contaminated with Desire because it is only a representation.\nOnly inside It seems that it can only be used to experience one's own self.
+데자이어 워커 시절의 힘과 그때의 감정을 이끌어내어 현재의 자신과 융화한다.\n어디까지나 재현에 불과하기 때문에 데자이어에 오염될 걱정은 없지만 전투 능력에 별다른 변화는 나타나지 않는다.\n오직 내면에 존재하는 또 다른 자신을 경험하는 용도로만 활용할 수 있는 듯하다.\n\n※ 이퀄라이저 착용 시 데자이어 워커의 이펙트 및 보이스 적용.
 
 ID=30201
 Costume-only Gesture Available
 
 ID=16873
-미리보기
+Preview
 
 ID=16874
 Search for these products
@@ -27295,6 +27284,7 @@ ID=5091
 The following skills will be changed to burning skills.
 
 ID=20235
+Desire Worker
 
 ID=20236
 You will win more, if you are more powerful.
@@ -27303,10 +27293,10 @@ ID=20237
 {0} wins with more power.
 
 ID=710021
-데자이어 워커
+Desire Worker
 
 ID=20238
-데자이어 각성
+Desire Awakening
 
 ID=20239
 Desire Workers energy is overwhelming.
@@ -27381,7 +27371,7 @@ ID=20243
 {0} is disguised as an enemy and shows off their abilities.
 
 ID=710022
-에너미 페스타
+Enemy Festa
 
 ID=5934
 <font color='#FFFFFF'><font size="30">TIP。</font>Defeating a named monster with a certain difficulty or higher, the time attack end time will be increased.
@@ -27468,10 +27458,10 @@ ID=18239
 <font color='#0048BA'>The changed option has been applied.</font>\nYou can select the restore option to revert to an existing option.\nRestore option consumes BP.\n<font color='#FF0000'>Once you leave the current state, you can no longer restore.</font>
 
 ID=18240
-확인
+Confirm
 
 ID=18241
-복원
+Restore
 
 ID=18243
 Holding points
@@ -27522,13 +27512,13 @@ ID=65611
 Top 61% ~ 100% Place Rewards
 
 ID=65701
-1위 보상
+1st place reward
 
 ID=65702
-2위 보상
+2nd place reward
 
 ID=65703
-3위 보상
+3rd place reward
 
 ID=65704
 4th Place Rewards
@@ -27564,31 +27554,31 @@ ID=65714
 81st ~ 100th Place Reward
 
 ID=65715
-101위 ~ 상위 10% 보상
+101st ~10% Place Rewards
 
 ID=65716
-상위 11% ~ 상위 30% 보상
+Top 11% ~ 30% Place Rewards
 
 ID=65717
-상위 31% ~ 상위 60% 보상
+Top 31% ~ 60% Place Rewards
 
 ID=65718
-상위 61% ~ 상위 100% 보상
+Top 61% ~ 100% Place Rewards
 
 ID=65401
-1위 보상
+1st place reward
 
 ID=65402
-2위 보상
+2nd place reward
 
 ID=65403
-3위 보상
+3rd place reward
 
 ID=65404
-4위 보상
+4th Place Rewards
 
 ID=65405
-5위 보상
+5th Place Rewards
 
 ID=65406
 6th Place Rewards
@@ -27606,10 +27596,10 @@ ID=65410
 14th ~ 18th Place Rewards
 
 ID=65411
-19위 ~ 25위 보상
+19th ~ 25th Place Reward
 
 ID=65412
-26위 ~ 35위 보상
+26th ~ 35th Place Reward
 
 ID=65413
 36th ~ 45th Place Rewards
@@ -27621,7 +27611,7 @@ ID=65415
 56th ~ 70th Place Rewards
 
 ID=65416
-71위 ~ 100위 보상
+71st ~ 100th Place Rewards
 
 ID=65417
 101st ~ Top 5% Rewards
@@ -27630,13 +27620,13 @@ ID=65418
 Top 6% ~ Top 30% Rewards
 
 ID=65419
-상위 31% ~ 상위 60% 보상
+Top 31% ~ 60% Place Rewards
 
 ID=65420
 Top 61% ~ Top 100% Rewards
 
 ID=67113
-포인트 합계 랭킹
+Point total ranking
 
 ID=65801
 1st ~ 8th Place Rewards
@@ -27660,7 +27650,7 @@ ID=65807
 73th ~ 100th Place Rewards
 
 ID=65808
-101위 ~ 상위 5% 보상
+101st ~ Top 5% Rewards
 
 ID=65809
 Top 6% ~ Top 10% Rewards
@@ -27696,13 +27686,13 @@ ID=65904
 37th ~ 48th Place Reward
 
 ID=65905
-49위 ~ 72위 보상
+49th ~ 72nd Place Rewards
 
 ID=65906
-73위 ~ 100위 보상
+73th ~ 100th Place Rewards
 
 ID=65907
-101위 ~ 상위 5% 보상
+101st ~ Top 5% Rewards
 
 ID=65908
 Top 6% ~ Top 20% Rewards
@@ -27714,40 +27704,40 @@ ID=65910
 Top 41% ~ Top 70% Rewards
 
 ID=65911
-상위 71% ~ 상위 100% 보상
+Top 71% ~ Top 100% Rewards
 
 ID=66101
-1위 ~ 12위 보상
+1st ~ 12th Place Rewards
 
 ID=66102
-13위 ~ 24위 보상
+13th ~ 24th Place Reward
 
 ID=66103
-25위 ~ 36위 보상
+25th ~ 36th Place Reward
 
 ID=66104
-37위 ~ 48위 보상
+37th ~ 48th Place Reward
 
 ID=66105
-49위 ~ 72위 보상
+49th ~ 72nd Place Rewards
 
 ID=66106
-73위 ~ 100위 보상
+73th ~ 100th Place Rewards
 
 ID=66107
-101위 ~ 상위 5% 보상
+101st ~ Top 5% Rewards
 
 ID=66108
-상위 6% ~ 상위 20% 보상
+Top 6% ~ Top 20% Rewards
 
 ID=66109
-상위 21% ~ 상위 40% 보상
+Top 21% ~ Top 40% Rewards
 
 ID=66110
-상위 41% ~ 상위 70% 보상
+Top 41% ~ Top 70% Rewards
 
 ID=66111
-상위 71% ~ 상위 100% 보상
+Top 71% ~ Top 100% Rewards
 
 ID=66201
 1st ~ 3rd Place Rewards
@@ -27756,37 +27746,37 @@ ID=66202
 4th-10th Place Rewards
 
 ID=66203
-11위 ~ 20위 보상
+11th ~ 20th Place Rewards
 
 ID=66204
-21위 ~ 30위 보상
+21st ~ 30th Place Rewards
 
 ID=66205
 31st ~ 70th Place Reward
 
 ID=66206
-71위 ~ 100위 보상
+71st ~ 100th Place Rewards
 
 ID=66207
-101위 ~ 상위 10% 보상
+101st ~10% Place Rewards
 
 ID=66208
-상위 11% ~ 상위 20% 보상
+Top 11% ~ Top 20% Rewards
 
 ID=66209
-상위 21% ~ 상위 30% 보상
+Top 21% ~ Top 30% Rewards
 
 ID=66210
-상위 31% ~ 상위 40% 보상
+Top 31% ~  Top 40% Rewards
 
 ID=66211
-상위 41% ~ 상위 50% 보상
+Top 41% ~ Top 50% Rewards
 
 ID=66212
-상위 51% ~ 상위 70% 보상
+Top 51% ~ Top 70% Rewards
 
 ID=66213
-상위 71% ~ 상위 100% 보상
+Top 71% ~ Top 100% Rewards
 
 ID=42756
 Lerfenne
@@ -27798,13 +27788,13 @@ ID=42758
 Love Lerfenne in Blood
 
 ID=42759
-레르펜느
+Lerfenne
 
 ID=42760
-집착의 레르펜느
+Obsessed Lerfenne
 
 ID=42761
-선혈로 물든 사랑 레르펜느
+Love Lerfenne in Blood
 
 ID=43443
 [S] Lerfenne
@@ -27813,7 +27803,7 @@ ID=43444
 [SH] Lerfenne
 
 ID=42762
-치이
+Chii
 
 ID=42763
 Desperated Chii of Eager
@@ -27822,13 +27812,13 @@ ID=42764
 Desperated Chii of Resolve
 
 ID=42765
-치이
+Chii
 
 ID=42766
-열망의 데스퍼로어 치이
+Desperated Chii of Eager
 
 ID=42767
-결의의 데스퍼로어 치이
+Desperated Chii of Resolve
 
 ID=43445
 [S] Chii
@@ -27837,22 +27827,22 @@ ID=43446
 [SH] Chii
 
 ID=21201
-일반
+General
 
 ID=21202
-패션
+Fashion
 
 ID=21203
-캐시
+Premium
 
 ID=21204
-등급
+Grade
 
 ID=21205
-종류
+Type
 
 ID=20244
-빅 캣
+Big Cat
 
 ID=20245
 Enjoy a peaceful daytime freedom.
@@ -27861,7 +27851,7 @@ ID=20246
 {0} enjoys daytime peaceful freedom.
 
 ID=710023
-빅 캣
+Big Cat
 
 ID=18766
 Characters daily purchase limit
@@ -27948,6 +27938,7 @@ ID=20249
 {0} sits back and looks at you
 
 ID=710024
+Nightmare
 
 ID=33007
 Summary: An Investigation on Danas\n\nThe former general captain of the Nihil Kingdom Lunar Fall forces.\nIf you are qualified to raise a natural army from Seongrok, Gnox, You can raise a soldier anywhere to protect you.\nDipluce port city's investigation reveals his traces.\n\nYou need Soul Worker's help to conduct a detailed investigation to see if he's really missing Lunar Fall..\n\n※To complete the main quest, you need to clear the quest Acceptable Subquest [Spy Orca I ~ III] from Beneris.
@@ -28118,6 +28109,7 @@ ID=24909
 window
 
 ID=97
+Ephnel
 
 ID=5447
 The weapon used is a spear.\nThe spear and his brilliant paw skills pierce enemies.
@@ -28180,7 +28172,7 @@ ID=782001
 Indomitable bombing sphere Upgrade
 
 ID=42768
-로스카
+Rosca
 
 ID=42769
 Observer Roska
@@ -28189,13 +28181,13 @@ ID=42770
 Watcher Roska
 
 ID=42771
-로스카
+Rosca
 
 ID=42772
-관찰자 로스카
+Observer Roska
 
 ID=42773
-무미무취의 주시자 로스카
+Watcher Roska
 
 ID=43447
 [S] Roska
@@ -28210,7 +28202,7 @@ ID=23102
 [EV]Small Serum Pack I x1\n[EV]Medium Serum Pack x1\n[EV]Large Serum Pack
 
 ID=23103
-[LIMITED TIME] Specialised refiner x1\n [EV] 30000 Ether Box x1\ n [Limited Time] Anti-destruction  box x1
+[기간한정] 강화 제련석 구입 가능\n[EV] 30000 에텔 상자 구입 가능\n[기간한정] 등급 하락 보호 장치 구입 가능
 
 ID=23104
 [EV] Small Serum x1\n[EV] Medium Serum x1\n[EV]Large Serum x1
@@ -28291,7 +28283,7 @@ ID=18785
 [O/X Quiz]\nQ. Were Stella and Sedurin classmates?
 
 ID=38032
-공격력 {0}% 증가
+Increase Attack by {0}%
 
 ID=38033
 Increased Defense by {0}%
@@ -28324,7 +28316,7 @@ ID=710030
 3rd Grade
 
 ID=24341
-부스터
+Booster
 
 ID=710028
 여신 헤스티아
@@ -28613,5 +28605,3 @@ ID=7310
 
 ID=5068
 <쇄신의 바밍스피어>로 승급되었습니다.
-
-
