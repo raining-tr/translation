@@ -20,6 +20,7 @@ Expand the maximum number of Guild Members. \n Maximum number: 35
 Number of additional people: 5 \n Maximum number: 40
 
 ID=4
+Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 4
 League_Person_Extend_4
 Expand the maximum number of Guild Members. \n Maximum number: 40
@@ -72,18 +73,21 @@ Icon/League/Skill/Icon_League_Skill_StorageOpen
 Guild Storage 3
 League_Storage_3
 Expand the Guild Storage. \n Total slots: 144
+The maximum level.
 
 ID=12
 Icon/League/Skill/Icon_League_Skill_CreationEmblem
 Guild Emblem
 League_Mark
 Design the Guild Emblem.
+The maximum level.
 
 ID=13
 Icon/League/Skill/Icon_League_Skill_SafeHouseOpen
 Guild Hangout
 League_Agit
 Create a Guild Hangout.
+The maximum level.
 
 ID=14
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
@@ -104,6 +108,7 @@ Icon/League/Skill/Icon_League_Skill_LeagueExpUp
 Exp Boost 3
 Exp_Up_3
 Additional experience gain. \n Exp increase: 15%
+The maximum level.
 
 ID=17
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
@@ -124,6 +129,7 @@ Icon/League/Skill/Icon_League_Skill_CredibilityUp
 Loyalty Boost 3
 CreditRating_Grow_3
 Additional loyalty gain. \n Daily loyalty increase: 10
+The maximum level.
 
 ID=20
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
@@ -144,6 +150,7 @@ Icon/League/Skill/Icon_League_Skill_RepairDiscount
 Repair Discount 3
 Repair_Cost_Discount_3
 Save on repair costs. \n Repair discount: 10%
+The maximum level.
 
 ID=23
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
@@ -164,3 +171,4 @@ Icon/League/Skill/Icon_League_Skill_CommissionDiscount
 Market Thirst 3
 CommissionDiscount_3
 Save on sales you make in the market. \n Sale discount: 3%
+The maximum level.
