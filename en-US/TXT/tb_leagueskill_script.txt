@@ -7,19 +7,20 @@ Number of additional people: 5 \n Maximum number: 30
 
 ID=2
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-리그원 확장 2
+Guild One Expansion 2
 League_Person_Extend_2
 Expand the maximum number of Guild Members. \n Maximum number: 30
 Number of additional people: 5 \n Maximum number: 35
 
 ID=3
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-리그원 확장 3
+Guild One Expansion 3
 League_Person_Extend_3
 Expand the maximum number of Guild Members. \n Maximum number: 35
 Number of additional people: 5 \n Maximum number: 40
 
 ID=4
+Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild One Expansion 4
 League_Person_Extend_4
 Expand the maximum number of Guild Members. \n Maximum number: 40
@@ -27,28 +28,28 @@ Number of additional people: 5 \n Maximum number: 45
 
 ID=5
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-리그원 확장 5
+Guild One Expansion 5
 League_Person_Extend_5
 Expand the maximum number of Guild Members.\nMaximum number: 45
 Number of additional people: 5 \n Maximum number of people: 50
 
 ID=6
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-리그원 확장 6
+Guild One Expansion 6
 League_Person_Extend_6
 Expand the maximum number of Guild Members. \n Maximum number: 50
 Number of additional people: 5 \n Maximum number: 55
 
 ID=7
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-리그원 확장 7
+Guild One Expansion 7
 League_Person_Extend_7
 Expand the maximum number of Guild Members. \n Maximum number: 55
 Number of additional people: 5 \n Maximum number: 60
 
 ID=8
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-리그원 확장 8
+Guild One Expansion 8
 League_Person_Extend_8
 Expand the maximum number of Guild Members. \n Maximum number: 60
 The maximum level.
@@ -62,28 +63,31 @@ Guild  Warehouse available. \n Available Warehouse Slots: 48 slots
 
 ID=10
 Icon/League/Skill/Icon_League_Skill_StorageOpen
-리그 창고 2
+Guild Warehouse 2
 League_Storage_2
 Warehouse available. \n Available Warehouse Slots: 96
 48 additional warehouse slots \n available warehouse slots: 144
 
 ID=11
 Icon/League/Skill/Icon_League_Skill_StorageOpen
-리그 창고 3
+Guild Warehouse 3
 League_Storage_3
 Guild Warehouse available. \n Available Warehouse Slots: 144
+The maximum level.
 
 ID=12
 Icon/League/Skill/Icon_League_Skill_CreationEmblem
 Guild Emblem
 League_Mark
 You can specify the Guild Emblem.
+The maximum level.
 
 ID=13
 Icon/League/Skill/Icon_League_Skill_SafeHouseOpen
 Guild Hangouts
 League_Agit
 You can create a Guild Hangout.
+The maximum level.
 
 ID=14
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
@@ -94,16 +98,17 @@ Experience Increase: 5%\n Total Exp Increase: 10%\n \n Acquisition Required Fund
 
 ID=15
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
-경험치 증가 2
+Exp Increase 2
 Exp_Up_2
 Exp earned increase. \n Exp increased by 10%
 Experience Increase: 5% \n Total Exp Increase: 15%\n \n Acquisition Required Funds: 7,500,000
 
 ID=16
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
-경험치 증가 3
+Increased experience 3
 Exp_Up_3
 Exp earned increase. \n Exp increased by 15%
+The maximum level.
 
 ID=17
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
@@ -114,16 +119,17 @@ Maximum daily credit gain credit increase: 3 \n Daily maximum gain total credit 
 
 ID=18
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
-신용도 증가 2
+Increasing credit worthiness 2
 CraditRating_Grow_2
 Credit gains increase. \nMaximum number of credit-enabled credit gains per day: 6
 Maximum daily credit gain credit increase: 4 \n Daily maximum gain total credit worth: 10\n \n Acquisition required funds: 10,500,000
 
 ID=19
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
-신용도 증가 3
+Increase in credit worthiness 3
 CraditRating_Grow_3
 Credit gains increase. \nMaximum gain total credit increase per day: 10
+The maximum level.
 
 ID=20
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
@@ -134,16 +140,17 @@ Repair cost discount increase: 3% \n Total repair discount increase: 6%\n \n Acq
 
 ID=21
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
-수리비 할인 2
+Repair price discount 2
 Repair_Cost_Discount_2
 Save on repair costs. \n Repair discount: 6%
 Repair cost discount increase: 4% \n Total repair discount increase: 10%\n \n Acquisition required fund: 18,000,000
 
 ID=22
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
-수리비 할인 3
+Repair price discount 3
 Repair_Cost_Discount_3
 Save on repair costs. \nTotal repair discount increase: 10%
+The maximum level.
 
 ID=23
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
@@ -154,13 +161,14 @@ Exchange Sales Commission Discount Increase: 1% \n Total Exchange Sales Commissi
 
 ID=24
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
-거래소 판매 수수료 할인 2
+Exchange Sales Commission Discount 2
 CommissionDiscount_2
 Discount exchange fees. \n Exchange sales fee discount increase: 2%
 Exchange sales commission discount increase: 1% \n Exchange sales commission discount Total increase: 3%\n \n Acquisition required funds: 20,000,000
 
 ID=25
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
-거래소 판매 수수료 할인 3
+Exchange Sales Commission Discount 3
 CommissionDiscount_3
 Discount exchange sales commission \n Exchange sales commission increase: 3%
+The maximum level.

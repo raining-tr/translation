@@ -83,6 +83,7 @@ ID=100401
 Three months have passed since an unidentified natural disaster occurred.
 
 ID=100402
+Most major cities have been destroyed by The Great Void, along with millions of people either killed or missing.
 
 ID=100403
 Are we all really safe here?
@@ -172,8 +173,10 @@ ID=100610
 I don't need a family. I want you all to just disappear!
 
 ID=100611
+Warning! Warning! Evacuate to the shelter immediately!
 
 ID=100612
+I repeat! Evacuate to the shelter immediately!
 
 ID=100613
 Wh- What's that?
@@ -392,6 +395,7 @@ ID=203306
 알았어. 영원의 맹세는, 지금 이곳에서.
 
 ID=203307
+아아아아아!!
 
 ID=203401
 저 소녀를 구하고 싶습니까?
@@ -412,6 +416,7 @@ ID=203406
 당신의 염원을 담아, 맹세는 성립되었습니다.
 
 ID=203407
+으아아아아!!
 
 ID=203501
 내가 말했던 대로지? 슬플 거라고.
@@ -459,6 +464,7 @@ ID=203608
 이제… 당신의 마음대로 싸워주세요…
 
 ID=203609
+으아아아아!!
 
 ID=203001
 고마워요…
