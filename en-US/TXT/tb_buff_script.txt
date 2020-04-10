@@ -11,10 +11,10 @@ Icon/Buff/Icon_Common_Buff_Immun
 invincibility
 
 ID=3
-가호
-피해를 받지 않습니다
+Bless you
+No Damage
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=15
 Customer Priority
@@ -35,7 +35,7 @@ Icon/Buff/Icon_Common_Buff_SABreak
 0
 
 ID=101
-재생
+play
 HP 5% will recover immediately
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 0
@@ -92,13 +92,13 @@ ID=201
 Fever
 No damage for 3 seconds
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=202
 Fever
 Movement speed and attack increased by 5% for 10 seconds
 Icon/Buff/Icon_Common_Buff_Reg
-강화
+Enhance
 
 ID=203
 Fever
@@ -113,25 +113,25 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 Cooltime reduce 
 
 ID=301
-가호
+Bless you
 HP 10% recover per second
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=302
 Put up the guard!
-10초간 공격력이 10% 증가합니다
+Attack increased by 10% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Increased
 
 ID=303
-방어 모드
-10초간 방어도가 10% 증가합니다
+Defensive mode
+10% more armour for 10 seconds
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=304
-재빠른 손놀림
+quick_dexterity
 Attack speed increased by 10% for 10 seconds
 Icon/Buff/Icon_Common_Buff_ASR
 Increased attack speed
@@ -152,7 +152,7 @@ ID=600
 Self Recovery
 Immediately recovers the damage you got
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=1001
 Burning Pain Lv 1
@@ -163,134 +163,236 @@ Burn
 ID=1002
 Burning pain Lv 2
 HP reduced by 2%
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
 
 ID=1003
 Burning pain Lv 3
 HP reduced by 3%
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
 
 ID=1004
 Burning pain Lv 4
 HP reduced by 4%
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
 
 ID=1005
 Burning pain Lv 5
 HP reduced by 5%
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
 
 ID=1006
 Burning pain Lv 6
 HP reduced by 6%
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
 
 ID=1007
 Burning pain Lv 7
 HP reduced by 7%
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
 
 ID=1008
 Burning pain Lv 8
 HP reduced by 8%
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
 
 ID=1009
 Burning Pain Lv 9
 HP reduced by 9%
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
 
 ID=1010
 Burning Pain Lv 10
 HP reduced by 10%
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
 
 ID=1101
 Addiction Lv 1
+HP is reduced by 1%.
 Icon/Buff/Icon_Common_Debuff_Poison
 Addiction
 
 ID=1102
 Addiction Lv 2
+HP reduced by 2%
+Icon/Buff/Icon_Common_Debuff_Poison
+Addiction
 
 ID=1103
 Addiction Lv 3
+HP reduced by 3%
+Icon/Buff/Icon_Common_Debuff_Poison
+Addiction
 
 ID=1104
 Addiction Lv 4
+HP reduced by 4%
+Icon/Buff/Icon_Common_Debuff_Poison
+Addiction
 
 ID=1105
 Addiction Lv 5
+HP reduced by 5%
+Icon/Buff/Icon_Common_Debuff_Poison
+Addiction
 
 ID=1106
 Addiction Lv 6
+HP reduced by 6%
+Icon/Buff/Icon_Common_Debuff_Poison
+Addiction
 
 ID=1107
 Addiction Lv 7
+HP reduced by 7%
+Icon/Buff/Icon_Common_Debuff_Poison
+Addiction
 
 ID=1108
 Addiction Lv 8
+HP reduced by 8%
+Icon/Buff/Icon_Common_Debuff_Poison
+Addiction
 
 ID=1109
 Addiction Lv 9
+HP reduced by 9%
+Icon/Buff/Icon_Common_Debuff_Poison
+Addiction
 
 ID=1110
 Addiction Lv 10
+HP reduced by 10%
+Icon/Buff/Icon_Common_Debuff_Poison
+Addiction
 
 ID=1201
 Shock Lv 1
+HP is reduced by 1%.
 Icon/Buff/Icon_Common_Debuff_Shock
 Electric shock
 
 ID=1202
 Shock Lv 2
+HP reduced by 2%
+Icon/Buff/Icon_Common_Debuff_Shock
+Electric shock
 
 ID=1203
 Shock Lv 3
+HP reduced by 3%
+Icon/Buff/Icon_Common_Debuff_Shock
+Electric shock
 
 ID=1204
 Shock Lv 4
+HP reduced by 4%
+Icon/Buff/Icon_Common_Debuff_Shock
+Electric shock
 
 ID=1205
 Shock Lv 5
+HP reduced by 5%
+Icon/Buff/Icon_Common_Debuff_Shock
+Electric shock
 
 ID=1206
 Shock Lv 6
+HP reduced by 6%
+Icon/Buff/Icon_Common_Debuff_Shock
+Electric shock
 
 ID=1207
 Shock Lv 7
+HP reduced by 7%
+Icon/Buff/Icon_Common_Debuff_Shock
+Electric shock
 
 ID=1208
 Shock Lv 8
+HP reduced by 8%
+Icon/Buff/Icon_Common_Debuff_Shock
+Electric shock
 
 ID=1209
 Shock Lv 9
+HP reduced by 9%
+Icon/Buff/Icon_Common_Debuff_Shock
+Electric shock
 
 ID=1210
 Shock Lv 10
+HP reduced by 10%
+Icon/Buff/Icon_Common_Debuff_Shock
+Electric shock
 
 ID=1301
 Bleeding Lv 1
+HP is reduced by 1%.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleeding
 
 ID=1302
 Bleeding Lv 2
+HP reduced by 2%
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
 
 ID=1303
 Bleeding Lv 3
+HP reduced by 3%
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
 
 ID=1304
 Bleeding Lv 4
+HP reduced by 4%
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
 
 ID=1305
 Bleeding Lv 5
+HP reduced by 5%
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
 
 ID=1306
 Bleeding Lv 6
+HP reduced by 6%
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
 
 ID=1307
 Bleeding Lv 7
+HP reduced by 7%
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
 
 ID=1308
 Bleeding Lv 8
+HP reduced by 8%
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
 
 ID=1309
 Bleeding Lv 9
+HP reduced by 9%
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
 
 ID=1310
 Bleeding Lv 10
+HP reduced by 10%
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
 
 ID=1401
 Stunned Lv 1
@@ -301,81 +403,122 @@ Faint
 ID=1402
 Faint Lv 2
 Knock out effect for a second
+Icon/Buff/Icon_Common_Debuff_Stun
+Faint
 
 ID=1403
 Faint Lv 3
 Knock out effect for 1.5 second
+Icon/Buff/Icon_Common_Debuff_Stun
+Faint
 
 ID=1404
 Faint Lv 4
 Knock out effect for 2 second
+Icon/Buff/Icon_Common_Debuff_Stun
+Faint
 
 ID=1405
 Faint Lv 5
 Knock out effect for 2.5 second
+Icon/Buff/Icon_Common_Debuff_Stun
+Faint
 
 ID=1406
 Faint Lv 6
 Knock out effect for 3 second
+Icon/Buff/Icon_Common_Debuff_Stun
+Faint
 
 ID=1407
 Faint Lv 7
 Knock out effect for 3.5 second
+Icon/Buff/Icon_Common_Debuff_Stun
+Faint
 
 ID=1408
 Faint Lv 8
 Knock out effect for 4 second
+Icon/Buff/Icon_Common_Debuff_Stun
+Faint
 
 ID=1409
 Faint Lv 9
 Knock out effect for 4.5 second
+Icon/Buff/Icon_Common_Debuff_Stun
+Faint
 
 ID=1410
 Faint Lv 10
 Knock out effect for 5 second
+Icon/Buff/Icon_Common_Debuff_Stun
+Faint
 
 ID=1501
 Paralysis Lv 1
 Can't move for half a second
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Attack
 
 ID=1502
 Paralysis Lv 2
 Can't move for a second
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Attack
 
 ID=1503
 Paralysis Lv 3
 Can't move for 1.5 second
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Attack
 
 ID=1504
 Paralysis Lv 4
 Can't move for 2 second
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Attack
 
 ID=1505
 Paralysis Lv 5
 Can't move for 2.5 second
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Attack
 
 ID=1506
 Paralysis Lv 6
 Can't move for 3 second
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Attack
 
 ID=1507
 Paralysis Lv 7
 Can't move for 3.5 second
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Attack
 
 ID=1508
 Paralysis Lv 8
 Can't move for 4 second
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Attack
 
 ID=1509
 Paralysis Lv 9
 Can't move for 4.5 second
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Attack
 
 ID=1510
 Paralysis Lv 10
 Can't move for 5 second
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Attack
 
 ID=1511
+Attack
 Can't move for 10 second
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Attack
 
 ID=1601
 Sleep Lv 1
@@ -386,108 +529,116 @@ Sleep
 ID=1602
 Sleep Lv 2
 Character will be asleep for 1 seconds, and the status or status will be cleared at the time of the hit
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
 
 ID=1603
 Sleep Lv 3
 Character will be asleep for 1.5 seconds, and the status or status will be cleared at the time of the hit
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
 
 ID=1604
 Sleep Lv 4
 Character will be asleep for 2 seconds, and the status or status will be cleared at the time of the hit
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
 
 ID=1605
 Sleep Lv 5
 Character will be asleep for 2.5 seconds, and the status or status will be cleared at the time of the hit
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
 
 ID=1606
-수면 Lv 6
+Sleep Lv 6
 3초 동안 캐릭터가 수면 상태가 되며, 피격 시 상태이상이 해제됩니다
 Icon/Buff/Icon_Common_Debuff_Sleep
-수면
+Sleep
 
 ID=1607
 수면 Lv 7
 3.5초 동안 캐릭터가 수면 상태가 되며, 피격 시 상태이상이 해제됩니다
 Icon/Buff/Icon_Common_Debuff_Sleep
-수면
+Sleep
 
 ID=1608
 수면 Lv 8
 4초 동안 캐릭터가 수면 상태가 되며, 피격 시 상태이상이 해제됩니다
 Icon/Buff/Icon_Common_Debuff_Sleep
-수면
+Sleep
 
 ID=1609
 수면 Lv 9
 4.5초 동안 캐릭터가 수면 상태가 되며, 피격 시 상태이상이 해제됩니다
 Icon/Buff/Icon_Common_Debuff_Sleep
-수면
+Sleep
 
 ID=1610
 수면 Lv 10
 5초 동안 캐릭터가 수면 상태가 되며, 피격 시 상태이상이 해제됩니다
 Icon/Buff/Icon_Common_Debuff_Sleep
-수면
+Sleep
 
 ID=1701
 매혹 Lv 1
 0.5초 동안 매혹 상태가 되어 대상을 따라다닙니다
 Icon/Buff/Icon_Common_Debuff_Charm
-매혹
+Fascinating
 
 ID=1702
 매혹 Lv 2
 1초 동안 매혹 상태가 되어 대상을 따라다닙니다
 Icon/Buff/Icon_Common_Debuff_Charm
-매혹
+Fascinating
 
 ID=1703
 매혹 Lv 3
 1.5초 동안 매혹 상태가 되어 대상을 따라다닙니다
 Icon/Buff/Icon_Common_Debuff_Charm
-매혹
+Fascinating
 
 ID=1704
 매혹 Lv 4
 2초 동안 매혹 상태가 되어 대상을 따라다닙니다
 Icon/Buff/Icon_Common_Debuff_Charm
-매혹
+Fascinating
 
 ID=1705
 매혹 Lv 5
 2.5초 동안 매혹 상태가 되어 대상을 따라다닙니다
 Icon/Buff/Icon_Common_Debuff_Charm
-매혹
+Fascinating
 
 ID=1706
 매혹 Lv 6
 3초 동안 매혹 상태가 되어 대상을 따라다닙니다
 Icon/Buff/Icon_Common_Debuff_Charm
-매혹
+Fascinating
 
 ID=1707
 매혹 Lv 7
 3.5초 동안 매혹 상태가 되어 대상을 따라다닙니다
 Icon/Buff/Icon_Common_Debuff_Charm
-매혹
+Fascinating
 
 ID=1708
 매혹 Lv 8
-4초 동안 매혹 상태가 되어 대상을 따라다닙니다
+Fascinated for 4 seconds and follow the target
 Icon/Buff/Icon_Common_Debuff_Charm
-매혹
+Fascinating
 
 ID=1709
 매혹 Lv 9
 4.5초 동안 매혹 상태가 되어 대상을 따라다닙니다
 Icon/Buff/Icon_Common_Debuff_Charm
-매혹
+Fascinating
 
 ID=1710
 매혹 Lv 10
 5초 동안 매혹 상태가 되어 대상을 따라다닙니다
 Icon/Buff/Icon_Common_Debuff_Charm
-매혹
+Fascinating
 
 ID=1801
 혼란 Lv 1
@@ -667,31 +818,31 @@ ID=5031
 아레나 러쉬 I (파티)
 공격력이 7% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=5032
 아레나 러쉬 II (파티)
 공격력이 9% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=5033
 아레나 러쉬 III (파티)
 공격력이 12% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=5034
 아레나 러쉬 IV (파티)
 공격력이 15% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=5035
 아레나 러쉬 V (파티)
 공격력이 20% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=5041
 블로우 업 I
@@ -767,19 +918,19 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=5501
 Passive
-SG 회복
+SG recovery
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=5502
 Passive
-SG 회복
+SG recovery
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=5503
 Passive
-SG 회복
+SG recovery
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
@@ -817,85 +968,85 @@ ID=5516
 슬라이딩 스탭 특성B I
 중독 상태가 되어 중첩 수에 따라 HP가 1%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Poison
-중독
+Addiction
 
 ID=5517
 슬라이딩 스탭 특성B II
 중독 상태가 되어 중첩 수에 따라 HP가 2%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Poison
-중독
+Addiction
 
 ID=5518
 슬라이딩 스탭 특성B III
 중독 상태가 되어 중첩 수에 따라 HP가 5%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Poison
-중독
+Addiction
 
 ID=5521
 네이밤 팜 I
 화상 상태가 되어 HP가 1%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Burn
-화상
+Burn
 
 ID=5522
 네이밤 팜 II
 화상 상태가 되어 HP가 1%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Burn
-화상
+Burn
 
 ID=5523
 네이밤 팜 III
 화상 상태가 되어 HP가 1%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Burn
-화상
+Burn
 
 ID=5524
 네이밤 팜 IV
 화상 상태가 되어 HP가 1%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Burn
-화상
+Burn
 
 ID=5525
 네이밤 팜 V
 화상 상태가 되어 HP가 1%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Burn
-화상
+Burn
 
 ID=5531
 가이디드 샷 특성A I
 출혈 상태가 되어 HP가 2%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Bleed
-출혈
+Bleeding
 
 ID=5532
 가이디드 샷 특성A II
 출혈 상태가 되어 HP가 3%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Bleed
-출혈
+Bleeding
 
 ID=5533
 가이디드 샷 특성A III
 출혈 상태가 되어 HP가 4%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Bleed
-출혈
+Bleeding
 
 ID=5536
 가이디드 샷 특성B I
 4초간 방어도가 10% 감소합니다
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=5537
 가이디드 샷 특성B II
 6초간 방어도가 10% 감소합니다
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=5538
 가이디드 샷 특성B III
 8초간 방어도가 10% 감소합니다
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=5541
 스플린터 I
@@ -931,19 +1082,19 @@ ID=5551
 스플린터 특성A I
 매 초당 SG를 2%씩 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=5552
 스플린터 특성A II
 매 초당 SG를 3%씩 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=5553
 스플린터 특성A III
 매 초당 SG를 5%씩 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=5561
 테이크 에임 I
@@ -979,31 +1130,31 @@ ID=5571
 하이드 앤 식 I
 피해를 받지 않습니다.
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=5572
 하이드 앤 식 II
 피해를 받지 않습니다.
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=5573
 하이드 앤 식 III
 피해를 받지 않습니다.
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=5574
 하이드 앤 식 IV
 피해를 받지 않습니다.
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=5575
 하이드 앤 식 V
 피해를 받지 않습니다.
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=5576
 하이드 앤 식 I
@@ -1045,7 +1196,7 @@ ID=5998
 쾌락의 탄환
 3중첩이 되면 SG를 3 만큼 회복합니다.
 Icon/Buff/Icon_Common_Buff_ASR
-SG 회복
+SG recovery
 
 ID=6000
 각성
@@ -1055,19 +1206,19 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=6001
 Passive
-SG 회복
+SG recovery
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=6002
 Passive
-SG 회복
+SG recovery
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=6003
 Passive
-SG 회복
+SG recovery
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
@@ -1165,31 +1316,31 @@ ID=6046
 포스 리전 I
 공격속도가 3% 증가합니다
 Icon/Buff/Icon_Common_Buff_ASR
-공격속도 증가
+Increased attack speed
 
 ID=6047
 포스 리전 II
 공격속도가 6% 증가합니다
 Icon/Buff/Icon_Common_Buff_ASR
-공격속도 증가
+Increased attack speed
 
 ID=6048
 포스 리전 III
 공격속도가 9% 증가합니다
 Icon/Buff/Icon_Common_Buff_ASR
-공격속도 증가
+Increased attack speed
 
 ID=6049
 포스 리전 IV
 공격속도가 12% 증가합니다
 Icon/Buff/Icon_Common_Buff_ASR
-공격속도 증가
+Increased attack speed
 
 ID=6050
 포스 리전 V
 공격속도가 15% 증가합니다
 Icon/Buff/Icon_Common_Buff_ASR
-공격속도 증가
+Increased attack speed
 
 ID=6051
 특수 공격
@@ -1229,19 +1380,19 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=6501
 Passive
-SG 회복
+SG recovery
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=6502
 Passive
-SG 회복
+SG recovery
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=6503
 Passive
-SG 회복
+SG recovery
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
@@ -1249,91 +1400,91 @@ ID=6511
 트러블 패스 I
 방어도가 10%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=6512
 트러블 패스 II
 방어도가 15%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=6513
 트러블 패스 III
 방어도가 20%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=6514
 트러블 패스 IV
 방어도가 25%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=6515
 트러블 패스 V
 방어도가 30%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=6516
 트러블 패스 I
 HP 4%를 회복합니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=6517
 트러블 패스 II
 HP 4%를 회복합니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=6518
 트러블 패스 III
 HP 4%를 회복합니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=6519
 트러블 패스 IV
 HP 4%를 회복합니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=6520
 트러블 패스 V
 HP 4%를 회복합니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=6521
 데케이드 펄스
-1초 동안 캐릭터가 움직일 수 없습니다
+Can't move for a second
 Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
+Attack
 
 ID=6522
 데케이드 펄스 II
 방어도가 30%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=6523
 데케이드 펄스 III
 방어도가 45%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=6524
 데케이드 펄스 IV
 방어도가 60%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=6525
 데케이드 펄스 V
 방어도가 80%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=6526
 데케이드 펄스
@@ -1399,31 +1550,31 @@ ID=6536
 비즈 플레이 I
 HP 25%를 회복합니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=6537
 비즈 플레이 II
 HP 25%를 회복합니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=6538
 비즈 플레이 III
 HP 25%를 회복합니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=6539
 비즈 플레이 IV
 HP 25%를 회복합니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=6540
 비즈 플레이 V
 HP 25%를 회복합니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=6541
 베스트 템포 I
@@ -1495,7 +1646,7 @@ ID=6561
 트러블 패스
 받는 피해량이 10%만큼 감소합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=6562
 트러블 패스 I
@@ -1519,25 +1670,25 @@ ID=6566
 비즈 플레이 I
 공격력이 50만큼 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=6567
 비즈 플레이 II
 공격력이 150만큼 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=6568
 비즈 플레이 III
 공격력이 250만큼 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=6569
 비즈 플레이 IV
 공격력이 500만큼 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=6570
 비즈 플레이 I
@@ -1603,49 +1754,49 @@ ID=6635
 베스트 템포 I
 SG가 1초당 5% 씩 회복됩니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=6636
 베스트 템포 II
 SG가 1초당 6% 씩 회복됩니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=6637
 베스트 템포 III
 SG가 1초당 8% 씩 회복됩니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=6638
 베스트 템포 IV
 SG가 1초당 10% 씩 회복됩니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=6639
 베스트 템포 V
 SG가 1초당 15% 씩 회복됩니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=6994
 슬픔의 악상 I
 2초당 SG를 1%씩 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=6995
 슬픔의 악상 II
 2초당 SG를 2%씩 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=6996
 슬픔의 악상 III
 2초당 SG를 3%씩 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=6999
 슬픔의 악상
@@ -1681,31 +1832,31 @@ ID=7026
 스피릿 서지 I
 일정 시간 동안 방어도가 25%만큼 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=7027
 스피릿 서지 II
 일정 시간 동안 방어도가 30%만큼 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=7028
 스피릿 서지 III
 일정 시간 동안 방어도가 40%만큼 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=7029
 스피릿 서지 IV
 일정 시간 동안 방어도가 50%만큼 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=7030
 스피릿 서지 V
 일정 시간 동안 방어도가 70%만큼 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=7031
 스피릿 서지 특성A I
@@ -1729,79 +1880,79 @@ ID=7041
 퓨전 아머 I
 일정 시간 동안 무적 상태가 됩니다.
 Icon/Buff/Icon_Common_Buff_SArmor
-무적
+invincibility
 
 ID=7042
 퓨전 아머 II
 일정 시간 동안 무적 상태가 됩니다.
 Icon/Buff/Icon_Common_Buff_SArmor
-무적
+invincibility
 
 ID=7043
 퓨전 아머 III
 일정 시간 동안 무적 상태가 됩니다.
 Icon/Buff/Icon_Common_Buff_SArmor
-무적
+invincibility
 
 ID=7044
 퓨전 아머 IV
 일정 시간 동안 무적 상태가 됩니다.
 Icon/Buff/Icon_Common_Buff_SArmor
-무적
+invincibility
 
 ID=7045
 퓨전 아머 V
 일정 시간 동안 무적 상태가 됩니다.
 Icon/Buff/Icon_Common_Buff_SArmor
-무적
+invincibility
 
 ID=7046
 퓨전 아머 I
-일정 시간 동안 피해량이 2%만큼 증가합니다
-Icon/Buff/Icon_Common_Buff_ATK
-피해량 증가
+일정 시간 동안 방어도가 10%만큼 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+Increased armour
 
 ID=7047
 퓨전 아머 II
-일정 시간 동안 피해량이 4%만큼 증가합니다
-Icon/Buff/Icon_Common_Buff_ATK
-피해량 증가
+일정 시간 동안 방어도가 14%만큼 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+Increased armour
 
 ID=7048
 퓨전 아머 III
-일정 시간 동안 피해량이 6%만큼 증가합니다
-Icon/Buff/Icon_Common_Buff_ATK
-피해량 증가
+일정 시간 동안 방어도가 16%만큼 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+Increased armour
 
 ID=7049
 퓨전 아머 IV
-일정 시간 동안 피해량이 8%만큼 증가합니다
-Icon/Buff/Icon_Common_Buff_ATK
-피해량 증가
+일정 시간 동안 방어도가 20%만큼 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+Increased armour
 
 ID=7050
 퓨전 아머 V
-일정 시간 동안 피해량이 10%만큼 증가합니다
-Icon/Buff/Icon_Common_Buff_ATK
-피해량 증가
+일정 시간 동안 방어도가 30%만큼 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+Increased armour
 
 ID=7060
 헤비 드랍
 방어도가 20%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=7061
 헤비 드랍
 방어도가 30%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=7062
 헤비 드랍
 방어도가 30%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=7071
 카운터 어택
@@ -1861,19 +2012,19 @@ ID=7121
 스피릿 슈터
 방어도가 5%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=7122
 스피릿 슈터
 방어도가 10%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=7123
 스피릿 슈터
-방어도가 20%만큼 감소합니다.
+방어도가 15%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=7500
 각성
@@ -1933,25 +2084,25 @@ ID=7511
 SG 회복 I
 SG 가 즉시 회복 됩니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=7512
 SG 회복 II
 SG 가 즉시 회복 됩니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=7513
 SG 회복 III
 SG 가 즉시 회복 됩니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=7516
-기절
+Faint
 일정 시간 동안 기절 효과를 받습니다
 Icon/Buff/Icon_Common_Debuff_Stun
-기절
+Faint
 
 ID=7521
 리미트 브레이크 I
@@ -2044,154 +2195,154 @@ Icon/Buff/Icon_Common_Buff_ASR
 0
 
 ID=10000
-재생
+play
 지속 적으로 HP과 SG가 회복됩니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 회복
 
 ID=20001
-HP 회복
+HP Recovery
 HP 500을 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20002
-HP 회복
+HP Recovery
 HP 1500을 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20003
-HP 회복
+HP Recovery
 HP 3000을 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20004
-HP 회복
+HP Recovery
 HP 5000을 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20005
-HP 회복
+HP Recovery
 HP 7000을 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20006
-HP 회복
+HP Recovery
 HP 10000을 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20051
-HP 회복
+HP Recovery
 24초에 걸쳐 HP를 7200 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20052
-HP 회복
+HP Recovery
 24초에 걸쳐 HP를 14400 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20053
-HP 회복
+HP Recovery
 24초에 걸쳐 HP를 21600 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20054
-HP 회복
+HP Recovery
 24초에 걸쳐 HP를 28800 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20055
-HP 회복
+HP Recovery
 24초에 걸쳐 HP를 36000 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20056
-HP 회복
+HP Recovery
 24초에 걸쳐 HP를 48000 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20101
-SG 회복
+SG recovery
 SG 10%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20102
-SG 회복
+SG recovery
 SG 15%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20103
-SG 회복
+SG recovery
 SG 20%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20104
-SG 회복
+SG recovery
 SG 25%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20105
-SG 회복
+SG recovery
 SG 30%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20106
-SG 회복
+SG recovery
 SG 35%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20151
-SG 회복
+SG recovery
 5초에 걸쳐 SG를 15% 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20152
-SG 회복
+SG recovery
 5초에 걸쳐 SG를 20% 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20153
-SG 회복
+SG recovery
 5초에 걸쳐 SG를 25% 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20154
-SG 회복
+SG recovery
 5초에 걸쳐 SG를 30% 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20155
-SG 회복
+SG recovery
 5초에 걸쳐 SG를 35% 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20156
-SG 회복
+SG recovery
 5초에 걸쳐 SG를 40% 회복합니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20201
 스태미나 회복
@@ -2236,154 +2387,154 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP&SG 회복
 
 ID=20301
-HP 회복
+HP Recovery
 HP 10%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20302
-HP 회복
+HP Recovery
 HP 15%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20303
-HP 회복
+HP Recovery
 HP 20%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20304
-HP 회복
+HP Recovery
 HP 25%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20401
-HP 회복
+HP Recovery
 12초에 걸쳐 HP 20%를 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20402
-HP 회복
+HP Recovery
 15초에 걸쳐 HP 25%를 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20403
-HP 회복
+HP Recovery
 18초에 걸쳐 HP 30%를 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20404
-HP 회복
+HP Recovery
 21초에 걸쳐 HP 35%를 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20501
-SG 회복
+SG recovery
 SG 50%를 즉시 회복합니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20502
-SG 회복
+SG recovery
 SG 100%를 즉시 회복합니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20503
-SG 회복
+SG recovery
 30초에 걸쳐 SG를 50% 회복합니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20504
-SG 회복
+SG recovery
 15초에 걸쳐 SG를 50% 회복합니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20505
-SG 회복
+SG recovery
 30초에 걸쳐 SG를 100% 회복합니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=20506
-SG 회복
+SG recovery
 15초에 걸쳐 SG를 100% 회복합니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=21001
 노도
 5분 동안 공격력이 5% 증가합니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=21002
 노도
 5분 동안 공격력이 7% 증가합니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=21003
 노도
 5분 동안 공격력이 10% 증가합니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=21004
 노도
 3분 동안 공격력이 5% 증가합니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=21011
 강인함
 5분 동안 방어도가 20% 증가합니다
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=21012
 강인함
 5분 동안 방어도가 30% 증가합니다
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=21013
 강인함
 5분 동안 방어도가 40% 증가합니다
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=21014
 강인함
 3분 동안 방어도가 20% 증가합니다
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=21021
 질풍
 5분 동안 공격 속도가 2% 증가합니다
 Icon/Buff/Icon_Common_Buff_ASR
-공격속도 증가
+Increased attack speed
 
 ID=21022
 질풍
 5분 동안 공격 속도가 4% 증가합니다
 Icon/Buff/Icon_Common_Buff_ASR
-공격속도 증가
+Increased attack speed
 
 ID=21023
 질풍
 5분 동안 공격 속도가 6% 증가합니다
 Icon/Buff/Icon_Common_Buff_ASR
-공격속도 증가
+Increased attack speed
 
 ID=21031
 신속
@@ -2437,25 +2588,25 @@ ID=21253
 금강
 3초 동안 무적 상태가 됩니다.
 Icon/Buff/Icon_Common_Buff_SArmor
-무적
+invincibility
 
 ID=22001
 노도
 5분 동안 공격력이 12% 증가합니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=22002
 강인함
 5분 동안 방어도가 50% 증가합니다
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=22003
 질풍
 5분 동안 공격 속도가 10% 증가합니다
 Icon/Buff/Icon_Common_Buff_ASR
-공격속도 증가
+Increased attack speed
 
 ID=22004
 광기
@@ -2467,31 +2618,31 @@ ID=22005
 노도/강인함
 5분 동안 공격력 15%, 방어도 100% 증가합니다
 Icon/Buff/Icon_Common_Buff_Reg
-강화
+Enhance
 
 ID=22006
 질풍/광기
 5분 동안 공격속도 8%, 치명타 확률 12% 증가합니다
 Icon/Buff/Icon_Common_Buff_Reg
-강화
+Enhance
 
 ID=22007
 집중/바람
 5분 동안 적중도 300, 회피 300 증가합니다
 Icon/Buff/Icon_Common_Buff_Reg
-강화
+Enhance
 
 ID=22008
-HP 회복
+HP Recovery
 HP 50%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=22009
-HP 회복
+HP Recovery
 HP 100%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=22010
 HP, SG 회복
@@ -2533,19 +2684,19 @@ ID=22016
 노도
 30분 동안 공격력이 12% 증가합니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=22017
 강인함
 30분 동안 방어도가 50% 증가합니다
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=22018
 질풍
 30분 동안 공격 속도가 10% 증가합니다
 Icon/Buff/Icon_Common_Buff_ASR
-공격속도 증가
+Increased attack speed
 
 ID=22019
 광기
@@ -2557,13 +2708,13 @@ ID=25001
 노도
 1분간 공격력이 5% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=25002
 강인함
 1분간 방어도가 30% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=25003
 신속
@@ -2572,10 +2723,10 @@ Icon/Buff/Icon_Common_Buff_MSR
 이동속도 증가
 
 ID=25004
-HP 회복
+HP Recovery
 HP 10%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=30001
 살상 명령
@@ -2584,16 +2735,16 @@ Icon/Buff/Icon_Common_Buff_ATK
 공격 증가
 
 ID=30002
-중독
+Addiction
 3초간 HP가 2%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Poison
-중독
+Addiction
 
 ID=30003
-중독
+Addiction
 5초간 HP가 2%씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Poison
-중독
+Addiction
 
 ID=30004
 둔화
@@ -2617,55 +2768,55 @@ ID=30007
 헤롱헤롱
 6초 동안 기절 상태가 됩니다
 Icon/Buff/Icon_Common_Debuff_Stun
-기절
+Faint
 
 ID=30008
 헤롱헤롱
 5초 동안 기절 상태가 됩니다
 Icon/Buff/Icon_Common_Debuff_Stun
-기절
+Faint
 
 ID=30009
 피의 분노
 1분 동안 공격력이 100% 상승합니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=30010
 복수의 그림자
 30초 동안 방어도가 100% 상승합니다
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=30011
 잭 더 킹
 모든 효과에 면역 상태가 됩니다
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=30012
 빛과 어둠
 주변에 있는 아군의 HP를 매 초당 5% 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=30013
 빛과 어둠
 주변에 있는 아군의 HP를 매 초당 10% 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=30014
 빛과 어둠
 주변에 있는 아군의 HP를 매 초당 15% 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=30015
 Doomsday
 15초 동안 모든 효과에 대해 면역 상태가 됩니다
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=30018
 질긴 가죽
@@ -2677,7 +2828,7 @@ ID=30020
 빛과 어둠
 주변에 있는 아군의 HP를 매 초당 1% 회복시키며, 중첩이 가능합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=30024
 -
@@ -2737,7 +2888,7 @@ ID=30041
 판도라의 상자
 주변에 있는 아군의 공격력을 30% 증가시킵니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=30042
 끈적이는 점액질
@@ -2869,7 +3020,7 @@ ID=30063
 노도/강인함
 공격력과 방어도가 각각 10% 증가합니다
 Icon/Buff/Icon_Common_Buff_Reg
-강화
+Enhance
 
 ID=30065
 HP 감소
@@ -2893,7 +3044,7 @@ ID=30068
 PC 마비
 마비가 되어 움직일 수 없습니다.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
+Attack
 
 ID=30069
 HP 감소
@@ -2908,16 +3059,16 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 -
 
 ID=30110
-화상
+Burn
 초당 HP가 3500씩 감소합니다
 Icon/Buff/Icon_Common_Debuff_Burn
-화상
+Burn
 
 ID=30114
 방어력 감소
 10초간 방여력 50% 감소
 Icon/Buff/Icon_Common_Debuff_Shock
-방어도 감소
+Reduced Defense
 
 ID=30120
 주변 감전
@@ -2926,16 +3077,16 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 주변 감전
 
 ID=30121
-찌릿찌릿 Lv 2
-HP가 2%씩 감소합니다
+Shock Lv 2
+HP reduced by 2%
 Icon/Buff/Icon_Common_Debuff_Shock
-감전
+Electric shock
 
 ID=30122
 감전 치료
 감전 효과가 삭제됩니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=30130
 동상
@@ -2968,7 +3119,7 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 냉기
 
 ID=30140
-출혈
+Bleeding
 초당 HP가 3% 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Bleed
 감염
@@ -3022,7 +3173,7 @@ Icon/Buff/Icon_Common_Debuff_Weakness
 초맹독
 
 ID=30157
-출혈
+Bleeding
 초당 체력의 2%가 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Bleed
 초맹독
@@ -3040,7 +3191,7 @@ Icon/Buff/Icon_Common_Buff_Def
 초맹독
 
 ID=30160
-출혈
+Bleeding
 공격속도 100%증가 버프
 Icon/Buff/Icon_Common_Buff_ASR
 초맹독
@@ -3052,10 +3203,10 @@ Icon/Buff/Icon_Common_Debuff_Poison
 오염
 
 ID=30204
-활력
+Vitality
 신체가 활성화되어 체력이 매 초당 15% 회복합니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-활력
+Vitality
 
 ID=30205
 부식
@@ -3151,7 +3302,7 @@ ID=63201
 아큘러스 강화
 주는 피해량 증가 50%, 받는 피해량 감소 50%
 Icon/Buff/Icon_Common_Buff_ATK
-강화
+Enhance
 
 ID=63202
 아큘러스 회복
@@ -3232,10 +3383,10 @@ Icon/Buff/Icon_Common_Debuff_Hell_fier
 파멸
 
 ID=30404
-화상
+Burn
 초당 3000의 화상 데미지를 입습니다.
 Icon/Buff/Icon_Common_Debuff_Burn
-화상
+Burn
 
 ID=30470
 HP 감소
@@ -3247,7 +3398,7 @@ ID=30471
 PC 감전
 3초간 감전 상태가 됩니다.
 Icon/Buff/Icon_Common_Debuff_Shock
-감전
+Electric shock
 
 ID=30472
 HP 감소
@@ -3256,10 +3407,10 @@ HP 감소
 HP 감소
 
 ID=30473
-공격력 증가
+Attack Increased
 60초간 공격력이 10% 증가합니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=30474
 이동속도 증가
@@ -3274,16 +3425,16 @@ Icon/Buff/Icon_Common_Buff_Immun
 -
 
 ID=32001
-HP 회복
+HP Recovery
 지속적으로 HP가 회복됩니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=32002
-SG 회복
+SG recovery
 지속적으로 SG가 회복됩니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=35000
 HP 감소
@@ -3304,10 +3455,10 @@ HP 감소
 HP 감소
 
 ID=35003
-무적
+invincibility
 영역 내 6초간 무적
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=35004
 소울 에너지 증폭
@@ -3316,28 +3467,28 @@ Icon/Buff/Icon_Common_Buff_ATK
 공격력 대폭 증가
 
 ID=35005
-강화
+Enhance
 공격력/방어도 20%증가
 Icon/Buff/Icon_Common_Buff_Reg
-강화
+Enhance
 
 ID=35006
-강화
+Enhance
 공격력/방어도 1000%증가
 Icon/Buff/Icon_Common_Buff_Reg
-강화
+Enhance
 
 ID=35007
-무적
+invincibility
 무적 60분 지속
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=35008
 행동 불가
 연출용_마비_3초
 Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
+Attack
 
 ID=35009
 HP 감소
@@ -3352,10 +3503,10 @@ HP 감소
 HP 감소
 
 ID=35011
-HP 회복
+HP Recovery
 1초마다 HP 10% 회복 2초간 유지
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=35012
 HP 감소
@@ -3424,10 +3575,10 @@ HP 감소
 HP 감소
 
 ID=35202
-기절
+Faint
 10초간 기절상태가 됩니다.
 Icon/Buff/Icon_Common_Debuff_Stun
-기절
+Faint
 
 ID=35203
 HP 감소
@@ -3442,10 +3593,10 @@ HP 감소
 HP 감소
 
 ID=35205
-무적
+invincibility
 아무런 피해도 받지 않는 상태입니다.
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=35206
 HP 감소
@@ -3472,7 +3623,7 @@ Icon/Buff/Icon_Common_Debuff_Weakness
 쇠약
 
 ID=35303
-방어도 감소
+Reduced Defense
 방어도가 15초간 하락 하였습니다.
 Icon/Buff/Icon_Common_Debuff_Def
 장갑 융해
@@ -3484,16 +3635,16 @@ HP 감소
 HP 감소
 
 ID=35305
-무적
+invincibility
 아무런 피해도 받지 않는 상태입니다.
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=35306
-화상
+Burn
 매초 마다 HP의 피해를 입습니다.
 Icon/Buff/Icon_Common_Debuff_Burn
-화상
+Burn
 
 ID=35310
 HP 감소
@@ -3568,22 +3719,22 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 -
 
 ID=39004
-중독
+Addiction
 중독 효과를 받아 HP가 감소합니다
 Icon/Buff/Icon_Common_Debuff_Poison
-중독
+Addiction
 
 ID=39005
 과부화
 잠시동안 템페스트의 모든 기능이 마비됩니다
 Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
+Attack
 
 ID=39006
 과부화
 잠시동안 템페스트의 모든 기능이 마비됩니다
 Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
+Attack
 
 ID=39007
 흡혈귀
@@ -3607,13 +3758,13 @@ ID=39010
 급습
 10초 동안 공격력이 상승합니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=39011
-마비
+Attack
 2초 동안 마비 상태가 됩니다
 Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
+Attack
 
 ID=39012
 둔화
@@ -3628,40 +3779,40 @@ Icon/Buff/Icon_Common_DeBuff_ATK
 공격력 감소
 
 ID=39014
-중독
+Addiction
 10초 동안 중독 효과를 받습니다
 Icon/Buff/Icon_Common_Debuff_Poison
-중독
+Addiction
 
 ID=39015
-마비
+Attack
 30초 캐릭터가 움직일 수 없습니다
 Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
+Attack
 
 ID=39016
-중독
+Addiction
 30초 동안 중독 효과를 받습니다
 Icon/Buff/Icon_Common_Debuff_Poison
-중독
+Addiction
 
 ID=39021
-빈틈 발견
+Gap discovery
 5초 동안 방어도가 50% 감소합니다
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=39022
-중독
+Addiction
 10초간 중독 효과를 받습니다
 Icon/Buff/Icon_Common_Debuff_Poison
-중독
+Addiction
 
 ID=39023
-마비
+Attack
 잠시 동안 마비 상태가 되어 움직일 수 없습니다
 Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
+Attack
 
 ID=39024
 둔화
@@ -3673,61 +3824,61 @@ ID=39025
 기습
 공격력이 상승합니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=39026
 철벽
 방어도가 상승합니다
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=39027
 회복
 지속적으로 회복 효과를 받습니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=40001
-가호
+Bless you
 20분안에 사망 시 부활이 가능합니다
 Icon/Buff/Icon_Common_Buff_Revive
-가호
+Bless you
 
 ID=40002
-가호
+Bless you
 30분안에 사망 시 부활이 가능합니다
 Icon/Buff/Icon_Common_Buff_Revive
-가호
+Bless you
 
 ID=40003
-가호
+Bless you
 60분안에 사망 시 부활이 가능합니다
 Icon/Buff/Icon_Common_Buff_Revive
-가호
+Bless you
 
 ID=50001
 기계를 다루는 법
 장착 시 5초마다 HP가 500씩 회복됩니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=50002
 기계를 다루는 법
 장착 시 5초마다 HP가 600씩 회복됩니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=50003
 기계를 다루는 법
 장착 시 5초마다 HP가 700씩 회복됩니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=50021
 와일드 프레스 LV. 01
 피격 시 5%의 확률로 1초 동안 방어도가 50% 상승합니다
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=50031
 명치는 이렇게 치는거야! LV. 01
@@ -3739,13 +3890,13 @@ ID=50041
 호전의 증명 LV. 01
 피격 시 5%의 확률로 2초 동안 공격력이 10% 상승한다 쿨타임 10초
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=50051
 펀치다! 로보! LV. 01
 적중 시 일반 혹은 엘리트 몬스터에게 1%의 확률로 1초 동안 적에게 스턴을 겁니다
 Icon/Buff/Icon_Common_Debuff_Stun
-기절
+Faint
 
 ID=50061
 찍찍찍찍! LV. 01
@@ -3757,31 +3908,31 @@ ID=50071
 심안 LV. 01
 적중 시 1%의 확률로 적중도가 10% 하락하며, 공격력이 20% 상승합니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=50081
 일광욕 LV. 01
 장착 시 일정 시간 마다 3%의 확률로 3초 동안 HP가 초당 10% 회복됩니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=50101
 스며들어 파먹다 LV. 01
 치명타 성공 시 10%의 확률로 HP가 2% 회복됩니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=50111
 통통통! LV. 01
 점프를 사용할 때 마다 1% 확률로 SG가 5% 회복됩니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=50121
 신시아 타임 LV. 01
 신시아가 춤을 추며 주변에 위치한 PC의 HP를 회복 시킵니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=50141
 자가 회복력 LV. 01
@@ -3793,7 +3944,7 @@ ID=50151
 급속 칼슘 보충 LV. 01
 피격 시 5%의 확률로 2초 동안 SG가 초당 15% 회복됩니다
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+SG recovery
 
 ID=50161
 이동 루트 예측 LV. 01
@@ -3805,7 +3956,7 @@ ID=50171
 비홀더의 마안 LV. 01
 피격 시 5%의 확률로 1초 동안 무적상태가 됩니다
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=50181
 하늘을 달리다 LV. 01
@@ -3817,7 +3968,7 @@ ID=50191
 흐물흐물 LV. 01
 피격 시 5%의 확률로 2초 동안 공격력이 10% 상승합니다
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=50201
 굳건한 근육 LV. 01
@@ -3835,19 +3986,19 @@ ID=50521
 탑승 시간입니다 LV. 01
 장착 시  일정 시간 마다 HP를 500 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=50541
 웃음을 잃지 말기를 LV. 01
 장착 시  3초 동안 초당 HP를 200 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=51003
 회복
 매 초당 HP를 5%씩 회복합니다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=52394
 기회 포착
@@ -3961,13 +4112,13 @@ ID=53021
 수비 전환
 피격 시 5% 확률로 1초 동안 방어도가 50% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53022
 수비 전환
 피격 시 10% 확률로 1초 동안 방어도가 50% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53023
 급소 공격
@@ -3985,13 +4136,13 @@ ID=53032
 호전의 증명
 피격 시 5% 확률로 2초 동안 공격력이 8% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53033
 호전의 증명
 피격 시 10% 확률로 3초 동안 공격력이 8% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53041
 불굴의 의지
@@ -4015,61 +4166,61 @@ ID=53051
 생존 본능
 적중 시 4% 확률로 HP가 5% 회복됩니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53052
 생존 본능
 적중 시 5% 확률로 HP가 5% 회복됩니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53053
 기습 공격
 점프 시 3% 확률로 2초 동안 공격력이 10% 증가합니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53061
 기습 공격
 점프 시 5% 확률로 2초 동안 공격력이 10% 증가합니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53072
 전투 회복
 치명타 적중 시 3% 확률로 HP가 2% 회복됩니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53073
 전투 회복
 치명타 적중 시 6% 확률로 HP가 3% 회복됩니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53081
 전투 회복
 치명타 적중 시 9% 확률로 HP가 4% 회복됩니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53082
 야수의 육감
 점프 시 10% 확률로 SG가 5% 회복됩니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53083
 야수의 육감
 점프 시 10% 확률로 SG가 10% 회복됩니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53091
 야수의 육감
 점프 시 10% 확률로 SG가 20% 회복됩니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53112
 전투 호흡
@@ -4087,13 +4238,13 @@ ID=53121
 맹수의 반격
 피격 시 5% 확률로 SG가 10% 회복됩니다. (재사용 시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53122
 맹수의 반격
 피격 시 10% 확률로 SG가 10% 회복됩니다. (재사용 시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53123
 예지
@@ -4111,7 +4262,7 @@ ID=53132
 불패의 의지
 피격 시 5% 확률로 1초 동안 무적 상태가 됩니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-무적
+invincibility
 
 ID=53133
 질주 회복
@@ -4135,13 +4286,13 @@ ID=53143
 임전태세
 피격 시 5% 확률로 3초 동안 공격력이 6% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53151
 임전태세
 피격 시 5% 확률로 3초 동안 공격력이 12% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53152
 파괴 본능
@@ -4153,19 +4304,19 @@ ID=53153
 연속공격
 적중 시 10% 확률로 3초 동안 공격속도가 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53161
 연속공격
 적중 시 10% 확률로 5초 동안 공격속도가 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53162
 수비수
 장착 시 매 초마다 30% 확률로 10초 동안 공격력이 20% 감소, 방어도가 100% 증가합니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53163
 붉은 낙인
@@ -4183,43 +4334,43 @@ ID=53172
 위기 극복
 회피 기술 사용 시, 20% 확률로 HP의 5% 가 회복됩니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53173
 사냥꾼
 치명타 공격 시 5% 확률로 SG가 10% 회복됩니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53181
 사냥꾼
 치명타 공격 시 10% 확률로 SG가 20% 회복됩니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53182
 돌진
 대시 사용 시 5% 확률로 5초 동안 공격력이 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53183
 독기와 광기
 상태이상에 걸릴 시 50% 확률로 10초 동안 공격력이 10% 증가합니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53201
 강습
 공중 공격 적중 시 50% 확률로 HP가 3% 회복됩니다. (발동 대기시간 40초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53202
 강습
 공중 공격 적중 시 50% 확률로 HP가 6% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53203
 침착
@@ -4231,67 +4382,67 @@ ID=53211
 분위기 반전
 적중 시 15% 확률로 3초 동안 방어도가 50% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53212
 분위기 반전
 적중 시 20% 확률로 5초 동안 방어도가 50% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53213
 물질변환
 아이템 습득 시 20% 확률로 5초 동안 공격력이 10% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53221
 물질변환
 아이템 습득 시 30% 확률로 5초 동안 공격력이 10% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53222
 일점 집중
 피격 시 5% 확률로 2초 동안 공격력이 10% 감소, 공격속도가 15% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53223
 의무병
 피격 시 10% 확률로 HP가 5% 회복됩니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53231
 영혼 포식자
 적중 시 4% 확률로 SG가 10% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53232
 영혼 포식자
 적중 시 5% 확률로 SG가 10% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53243
 육참골단
 피격 시 10% 확률로 5초 동안 공격력이 5% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53251
 육참골단
 피격 시 20% 확률로 5초 동안 공격력이 5% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53273
 해독제 처방
 상태이상에 걸릴 시 HP가 10% 회복됩니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53281
 도주 준비
@@ -4309,13 +4460,13 @@ ID=53283
 웅크리기
 피격 시 2초 동안 방어도가 100% 증가, 공격력이 70% 감소합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53291
 웅크리기
 피격 시 4초 동안 방어도가 100% 증가, 공격력이 50% 감소합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53292
 안정적 호흡
@@ -4333,31 +4484,31 @@ ID=53301
 공수 교대
 적중 시 5초 동안 방어도가 50% 감소, 공격력이 15% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53302
 명상
 장착 시 60초마다 SG가 20% 회복됩니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53303
 명상
 장착 시 60초마다 SG가 30% 회복됩니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53311
 속전속결
 치명타 적중 시 10% 확률로 4초 동안 공격 속도가 10% 증가합니다. (발동 대기시간 40초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53312
 속전속결
 치명타 적중 시 10% 확률로 6초 동안 공격 속도가 10% 증가합니다. (발동 대기시간 40초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53313
 필중의 일념
@@ -4375,37 +4526,37 @@ ID=53322
 반격 대비
 치명타 적중 시 5% 확률로 3초 동안 방어도가 100% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53323
 반격 대비
 치명타 적중 시 10% 확률로 3초 동안 방어도가 100% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53331
 공격준비
 치명타 적중 시 50% 확률로 2초 동안 공격력이 3% 증가합니다. (발동 대기시간 1초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53332
 공격준비
 치명타 적중 시 50% 확률로 2초 동안 공격력이 4% 증가합니다. (발동 대기시간 1초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53333
 접근전
 대시 사용 시 10% 확률로 SG가 10% 회복됩니다. (발동 대기시간 5초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53341
 접근전
 대시 사용 시 20% 확률로 SG가 10% 회복됩니다. (발동 대기시간 5초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53352
 충격반동
@@ -4417,7 +4568,7 @@ ID=53353
 흡수
 몬스터 처치 시 10% 확률로 SG가 10% 회복됩니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53361
 조준 사격
@@ -4429,43 +4580,43 @@ ID=53362
 응급 치료
 피격 시 10% 확률로 HP가 3% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53363
 죽음의 속도
 몬스터 처치 시 10% 확률로 3초 동안 공격속도가 5% 증가합니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53371
 죽음의 속도
 몬스터 처치 시 10% 확률로 5초 동안 공격속도가 5% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53372
 응수
 치명타 피격 시 2초 동안 공격력이 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53373
 응수
 치명타 피격 시 2초 동안 공격력이 10% 증가합니다. (발동 대기시간 5초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53391
 재물복
 아이템 습득 시 10% 확률로 2초 동안 무적 상태가 됩니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-무적
+invincibility
 
 ID=53392
 강철의 의지
 치명타 적중 시 5% 확률로 5초 동안 공격력이 10% 증가, 이동속도가 50% 감소합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53403
 바람의 회복
@@ -4477,7 +4628,7 @@ ID=53411
 신속
 장착 시 60초마다 10초 동안 공격속도가 5% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53412
 바람의 흐름
@@ -4489,19 +4640,19 @@ ID=53413
 집념의 칼춤
 장착 시 슈퍼아머 브레이크가 발생하면 5초 동안 공격력이 10% 증가합니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53421
 집념의 칼춤
 장착 시 슈퍼아머 브레이크가 발생하면 10초 동안 공격력이 15% 증가합니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53422
 과민 반응
 치명타 공격에 피격 시 20% 확률로 3초 동안 공격력이 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53423
 실수 만회
@@ -4513,25 +4664,25 @@ ID=53431
 선수 교대
 아군이 스킬 사용 시 40% 확률로 5초 동안 방어도가 20% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53432
 선수 교대
 아군이 스킬 사용 시 40% 확률로 5초 동안 방어도가 30% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53433
 기민함
 적중 시 10% 확률로 3초 동안 공격속도가 5% 증가, 이동속도가 5% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53441
 기민함
 적중 시 10% 확률로 5초 동안 공격속도가 5% 증가, 이동속도가 5% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53442
 기회의 판단
@@ -4549,67 +4700,67 @@ ID=53451
 나비효과
 치명타 적중 시 3초 동안 공격력이 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53452
 나비효과
 치명타 적중 시 3초 동안 공격력이 15% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53453
 복수혈전
 아군이 사망 시 50% 확률로 10초 동안 공격력이 30% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53461
 복수혈전
 아군이 사망 시 60% 확률로 10초 동안 공격력이 40% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53462
 고통 만회
 피격 시 5% 확률로 2초마다 초당 HP와 SG가 3% 회복됩니다. (발동 대기시간 45초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53463
 고통 만회
 피격 시 5% 확률로 3초마다 초당 HP와 SG가 4% 회복됩니다. (발동 대기시간 45초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53471
 분노
 피격 시 50% 확률로 60초 동안 공격력이 1% 증가합니다. (발동 대기시간 1초 / 최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53472
 분노
 피격 시 100% 확률로 60초 동안 공격력이 1% 증가합니다. (발동 대기시간 1초 / 최대 5중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53483
 영혼 거두기
 몬스터 처치 시 SG가 10% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53511
 위력 경쟁
 제 6구역 일 경우 10초마다 3초 동안 공격력이 3% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53512
 위력 경쟁
 제 6구역 일 경우 10초마다 5초 동안 공격력이 5% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53513
 속도 경쟁
@@ -4627,25 +4778,25 @@ ID=53522
 지속적 관리
 장착 시 60초마다 HP가 1% 회복됩니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53523
 지속적 관리
 장착 시 60초마다 HP가 2% 회복됩니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53531
 기합
 장착 시 60초마다 SG가 1% 회복됩니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53532
 기합
 장착 시 60초마다 SG가 2% 회복됩니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53533
 생존 전문가
@@ -4723,73 +4874,73 @@ ID=53545
 난타
 장착 시 콤보 100hit 마다(최대 300hit) 15초 동안 공격력이 3% 씩 증가합니다. (최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53546
 난타
 장착 시 콤보 100hit 마다(최대 300hit) 15초 동안 공격력이 4% 씩 증가합니다. (최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53547
 난타
 장착 시 콤보 100hit 마다(최대 300hit) 15초 동안 공격력이 5% 씩 증가합니다. (최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53548
 난타
 장착 시 콤보 100hit 마다(최대 300hit) 15초 동안 공격력이 4% 씩 증가합니다. (최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53549
 난타
 장착 시 콤보 100hit 마다(최대 300hit) 15초 동안 공격력이 5% 씩 증가합니다. (최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53550
 난타
 장착 시 콤보 100hit 마다(최대 300hit) 15초 동안 공격력이 6% 씩 증가합니다. (최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53551
 위기의 방패
 HP가 20% 이하가 될 시 20초 동안 방어도가 40% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53552
 위기의 방패
 HP가 20% 이하가 될 시 20초 동안 방어도가 60% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53553
 위기의 방패
 HP가 20% 이하가 될 시 20초 동안 방어도가 80% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53554
 위기의 방패
 HP가 20% 이하가 될 시 20초 동안 방어도가 60% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53555
 위기의 방패
 HP가 20% 이하가 될 시 20초 동안 방어도가 80% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53556
 위기의 방패
 HP가 20% 이하가 될 시 20초 동안 방어도가 100% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53557
 황금의 손
@@ -4831,37 +4982,37 @@ ID=53563
 수비 전환
 피격 시 5% 확률로 5초 동안 방어도가 50% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53564
 수비 전환
 피격 시 10% 확률로 5초 동안 방어도가 50% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53565
 수비 전환
 피격 시 15% 확률로 5초 동안 방어도가 50% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53566
 수비 전환
 피격 시 10% 확률로 5초 동안 방어도가 50% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53567
 수비 전환
 피격 시 15% 확률로 5초 동안 방어도가 50% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53568
 수비 전환
 피격 시 20% 확률로 5초 동안 방어도가 50% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=53569
 급소 공격
@@ -4903,37 +5054,37 @@ ID=53575
 호전의 증명
 피격 시 5% 확률로 2.5초 동안 공격력이 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53576
 호전의 증명
 피격 시 10% 확률로 3.5초 동안 공격력이 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53577
 호전의 증명
 피격 시 15% 확률로 4.5초 동안 공격력이 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53578
 호전의 증명
 피격 시 10% 확률로 2.5초 동안 공격력이 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53579
 호전의 증명
 피격 시 15% 확률로 3.5초 동안 공격력이 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53580
 호전의 증명
 피격 시 20% 확률로 4.5초 동안 공격력이 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53581
 전광석화
@@ -4975,73 +5126,73 @@ ID=53587
 생존 본능
 적중 시 7% 확률로 즉시 HP가 10% 회복됩니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53588
 생존 본능
 적중 시 12% 확률로 즉시 HP가 10% 회복됩니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53589
 생존 본능
 적중 시 17% 확률로 즉시 HP가 10% 회복됩니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53590
 생존 본능
 적중 시 9% 확률로 즉시 HP가 10% 회복됩니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53591
 생존 본능
 적중 시 14% 확률로 즉시 HP가 10% 회복됩니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53592
 생존 본능
 적중 시 19% 확률로 즉시 HP가 10% 회복됩니다. (발동 대기시간 60초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53593
 기습 공격
 점프 시 15% 확률로 4초 동안 공격력이 10% 증가합니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53594
 기습 공격
 점프 시 20% 확률로 4초 동안 공격력이 10% 증가합니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53595
 기습 공격
 점프 시 25% 확률로 4초 동안 공격력이 10% 증가합니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53596
 기습 공격
 점프 시 20% 확률로 4초 동안 공격력이 10% 증가합니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53597
 기습 공격
 점프 시 25% 확률로 4초 동안 공격력이 10% 증가합니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53598
 기습 공격
 점프 시 30% 확률로 4초 동안 공격력이 10% 증가합니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53599
 전투 호흡
@@ -5083,37 +5234,37 @@ ID=53605
 맹수의 반격
 피격 시 7% 확률로 SG가 15% 회복됩니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53606
 맹수의 반격
 피격 시 12% 확률로 SG가 15% 회복됩니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53607
 맹수의 반격
 피격 시 17% 확률로 SG가 15% 회복됩니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53608
 맹수의 반격
 피격 시 9% 확률로 SG가 15% 회복됩니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53609
 맹수의 반격
 피격 시 14% 확률로 SG가 15% 회복됩니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53610
 맹수의 반격
 피격 시 19% 확률로 SG가 15% 회복됩니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53611
 예지
@@ -5191,73 +5342,73 @@ ID=53623
 임전태세
 피격 시 7% 확률로 2초 동안 공격력이 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53624
 임전태세
 피격 시 7% 확률로 2.5초 동안 공격력이 15% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53625
 임전태세
 피격 시 7% 확률로 3초 동안 공격력이 20% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53626
 임전태세
 피격 시 9% 확률로 3.5초 동안 공격력이 10% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53627
 임전태세
 피격 시 9% 확률로 4초 동안 공격력이 15% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53628
 임전태세
 피격 시 9% 확률로 4.5초 동안 공격력이 20% 증가합니다. (발동 대기시간 10초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53629
 연속공격
 적중 시 15% 확률로 2.5초 동안 공격속도가 3% 증가합니다. (최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53630
 연속공격
 적중 시 15% 확률로 3초 동안 공격속도가 3% 증가합니다. (최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53631
 연속공격
 적중 시 15% 확률로 3.5초 동안 공격속도가 3% 증가합니다. (최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53632
 연속공격
 적중 시 15% 확률로 2.5초 동안 공격속도가 5% 증가합니다. (최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53633
 연속공격
 적중 시 15% 확률로 3.5초 동안 공격속도가 5% 증가합니다. (최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53634
 연속공격
 적중 시 15% 확률로 4.5초 동안 공격속도가 5% 증가합니다. (최대 3중첩)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53635
 붉은 낙인
@@ -5329,73 +5480,73 @@ ID=53652
 사냥꾼
 치명타 적중 시 20% 확률로 SG가 10% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53653
 사냥꾼
 치명타 적중 시 20% 확률로 SG가 13% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53654
 사냥꾼
 치명타 적중 시 20% 확률로 SG가 16% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53655
 사냥꾼
 치명타 적중 시 20% 확률로 SG가 12% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53656
 사냥꾼
 치명타 적중 시 20% 확률로 SG가 15% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53657
 사냥꾼
 치명타 적중 시 20% 확률로 SG가 18% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53658
 강습
 공중 공격 적중 시 60% 확률로 HP가 5% 회복됩니다. (발동 대기시간 40초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53659
 강습
 공중 공격 적중 시 70% 확률로 HP가 7% 회복됩니다. (발동 대기시간 35초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53660
 강습
 공중 공격 적중 시 80% 확률로 HP가 9% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53661
 강습
 공중 공격 적중 시 70% 확률로 HP가 6% 회복됩니다. (발동 대기시간 40초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53662
 강습
 공중 공격 적중 시 80% 확률로 HP가 8% 회복됩니다. (발동 대기시간 35초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53663
 강습
 공중 공격 적중 시 90% 확률로 HP가 10% 회복됩니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=53664
 연계 공격
@@ -5437,145 +5588,145 @@ ID=53670
 물질변환
 아이템 습득 시 4초 동안 공격력이 20% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53671
 물질변환
 아이템 습득 시 7초 동안 공격력이 20% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53672
 물질변환
 아이템 습득 시 11초 동안 공격력이 20% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53673
 물질변환
 아이템 습득 시 4초 동안 공격력이 25% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53674
 물질변환
 아이템 습득 시 7초 동안 공격력이 25% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53675
 물질변환
 아이템 습득 시 11초 동안 공격력이 25% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53676
 영혼 포식자
 적중 시 10% 확률로 SG가 10% 회복됩니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53677
 영혼 포식자
 적중 시 10% 확률로 SG가 15% 회복됩니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53678
 영혼 포식자
 적중 시 15% 확률로 SG가 20% 회복됩니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53679
 영혼 포식자
 적중 시 15% 확률로 SG가 15% 회복됩니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53680
 영혼 포식자
 적중 시 15% 확률로 SG가 20% 회복됩니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53681
 영혼 포식자
 적중 시 20% 확률로 SG가 25% 회복됩니다. (발동 대기시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53682
 육참골단
 피격 시 2% 확률로 4초 동안 공격력이 20% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53683
 육참골단
 피격 시 4% 확률로 5초 동안 공격력이 20% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53684
 육참골단
 피격 시 7% 확률로 6초 동안 공격력이 20% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53685
 육참골단
 피격 시 3% 확률로 5초 동안 공격력이 25% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53686
 육참골단
 피격 시 6% 확률로 6초 동안 공격력이 25% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53687
 육참골단
 피격 시 10% 확률로 7초 동안 공격력이 25% 증가합니다. (발동 대기시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53688
 칼부림
 장착 시 공격력이 5% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53689
 칼부림
 장착 시 공격력이 7% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53690
 칼부림
 장착 시 공격력이 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53691
 칼부림
 장착 시 공격력이 6% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53692
 칼부림
 장착 시 공격력이 9% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53693
 칼부림
 장착 시 공격력이 13% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=53694
 준비 만전
@@ -5653,73 +5804,73 @@ ID=53706
 명상
 장착 시 60초마다 SG가 50% 회복됩니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53707
 명상
 장착 시 60초마다 SG가 55% 회복됩니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53708
 명상
 장착 시 60초마다 SG가 60% 회복됩니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53709
 명상
 장착 시 60초마다 SG가 55% 회복됩니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53710
 명상
 장착 시 60초마다 SG가 65% 회복됩니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53711
 명상
 장착 시 60초마다 SG가 75% 회복됩니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=53712
 속전속결
 치명타 적중 시 10% 확률로 6초 동안 공격 속도가 12% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53713
 속전속결
 치명타 적중 시 10% 확률로 6초 동안 공격 속도가 13% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53714
 속전속결
 치명타 적중 시 10% 확률로 6초 동안 공격 속도가 14% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53715
 속전속결
 치명타 적중 시 15% 확률로 6초 동안 공격 속도가 13% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53716
 속전속결
 치명타 적중 시 15% 확률로 6초 동안 공격 속도가 14% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53717
 속전속결
 치명타 적중 시 15% 확률로 6초 동안 공격 속도가 15% 증가합니다. (발동 대기시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=53718
 필중의 일념
@@ -5869,37 +6020,37 @@ ID=55002
 깜짝 놀라게 해 줄게 III
 30초간 방어도가 50% 감소합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 감소
+Reduced Defense
 
 ID=55005
 스네이크 쇼크
 30초간 방어도가 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=55006
 스네이크 쇼크
 30초간 방어도가 30% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=55010
 멍멍멍
 7초간 공격력이 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=55011
 왈왈왈
 7초간 방어도가 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=55012
 컹컹컹
 7초간 공격속도가 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ASR
-공격속도 증가
+Increased attack speed
 
 ID=55088
 유전 폭발! I
@@ -5938,16 +6089,16 @@ Icon/Buff/Icon_Common_Debuff_MSR
 이동속도 감소
 
 ID=55101
-공격력 증가
+Attack Increased
 7초 동안 공격력이 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=55102
-공격속도 증가
+Increased attack speed
 7초 동안 공격속도가 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=55103
 스킬 쿨타임 삭제
@@ -5974,16 +6125,16 @@ Icon/Buff/Icon_Common_Buff_Akashic
 HP 감소
 
 ID=55107
-공격력 증가
+Attack Increased
 5초 동안 공격력이 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=55108
-공격속도 증가
+Increased attack speed
 5초 동안 공격속도가 5% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=55109
 흡혈
@@ -5995,13 +6146,13 @@ ID=55110
 회전
 5초간 공격력이 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=55111
 백조
 5초간 공격 속도가 5% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=55112
 어지러워
@@ -6025,19 +6176,19 @@ ID=55115
 장풍
 5초간 방어도가 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-방어도 증가
+Increased armour
 
 ID=55116
 여기 있어
 10초간 매 초당 HP를 2% 회복합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=55117
 저기 있어
 즉시 HP를 20% 회복합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP 회복
+HP Recovery
 
 ID=55118
 최고야
@@ -6046,22 +6197,22 @@ Icon/Buff/Icon_Common_Buff_Akashic
 스태미나 회복
 
 ID=55119
-공격력 증가
+Attack Increased
 20초 동안 공격력이 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=55120
-공격력 증가
+Attack Increased
 10초 동안 공격력이 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=55121
-공격속도 증가
+Increased attack speed
 10초 동안 공격속도가 5% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=55122
 흡혈
@@ -6073,7 +6224,7 @@ ID=60000
 휴식 시간
 10초 동안 모든 HP를 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=60001
 0
@@ -6133,7 +6284,7 @@ ID=63002
 행동 불가
 3초간 마비 효과
 Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
+Attack
 
 ID=63003
 HP 감소
@@ -6148,10 +6299,10 @@ HP 감소
 HP 감소
 
 ID=63005
-강화
+Enhance
 10초 동안 공격력 30% 방어도 30% 상승
 Icon/Buff/Icon_Common_Buff_Reg
-강화
+Enhance
 
 ID=63006
 이동속도 감소
@@ -6181,49 +6332,49 @@ ID=63010
 행동 불가
 10초간 기절 효과
 Icon/Buff/Icon_Common_Debuff_Stun
-기절
+Faint
 
 ID=63011
-강화
+Enhance
 10초 동안 공격력 30% 방어도 30% 상승
 Icon/Buff/Icon_Common_Buff_Reg
-강화
+Enhance
 
 ID=63012
 공격 증가
 10분 동안 공격력 30% 상승
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=63013
 방어 증가
 10분 동안 방어도 30% 상승
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=63014
-HP 회복
+HP Recovery
 HP 50% 회복
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=63015
 공격 증가
 10분 동안 공격력 30% 상승
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=63016
 방어 증가
 10분 동안 방어도 30% 상승
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=63017
-HP 회복
+HP Recovery
 HP 50% 회복
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=63018
 HP 감소
@@ -6235,19 +6386,19 @@ ID=63019
 공격 증가
 10분 동안 공격력 30% 상승
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=63020
 방어 증가
 10분 동안 방어도 30% 상승
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=63021
-HP 회복
+HP Recovery
 HP 50% 회복
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=63022
 HP 감소
@@ -6259,7 +6410,7 @@ ID=63023
 방어 감소
 10분 동안 방어도 200% 감소
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+Reduced Defense
 
 ID=63024
 HP 감소
@@ -6283,7 +6434,7 @@ ID=63027
 공격 증가
 15초 동안 공격력 500% 상승
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=63028
 HP 감소
@@ -6292,10 +6443,10 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 HP 감소
 
 ID=63029
-HP 회복
+HP Recovery
 HP 10% 회복
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=63030
 HP 감소
@@ -6313,19 +6464,19 @@ ID=63032
 공격 증가
 10분 동안 공격력 30% 상승
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=63033
 방어 증가
 10분 동안 방어도 30% 상승
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=63034
-HP 회복
+HP Recovery
 HP 100% 회복
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=63035
 HP 감소
@@ -6337,19 +6488,19 @@ ID=63036
 공격 증가
 5분 동안 공격력 30% 증가
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=63037
 방어 증가
 5분 동안 방어도 30% 증가
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=63038
-HP 회복
+HP Recovery
 HP 100% 회복
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=63039
 HP 감소
@@ -6373,7 +6524,7 @@ ID=63042
 행동 불가
 10초 동안 감전효과 발생
 Icon/Buff/Icon_Common_Debuff_Shock
-감전
+Electric shock
 
 ID=63043
 HP 감소
@@ -6415,31 +6566,31 @@ ID=5081
 계속되는 투쟁 I
 공격력이 150만큼 증가합니다.(최대 5중첩)
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=5082
 계속되는 투쟁 II
 공격력이 300만큼 증가합니다.(최대 5중첩)
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=5083
 계속되는 투쟁 III
 공격력이 500만큼 증가합니다.(최대 5중첩)
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=20305
-HP 회복
+HP Recovery
 HP 30%를 즉시 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=20405
-HP 회복
+HP Recovery
 24초에 걸쳐 HP 40%를 회복합니다
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+HP Recovery
 
 ID=18000
  투혼 I
@@ -6550,10 +6701,10 @@ Icon/Buff/Icon_Common_Debuff_MSR
 공격속도 감소
 
 ID=30613
-마비
+Attack
 일정 시간 동안 캐릭터가 움직일 수 없습니다
 Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
+Attack
 
 ID=5614
 쟁취하는 행운
@@ -6689,57 +6840,57 @@ Icon/Buff/Icon_Common_Buff_Def
 
 ID=5096
 출혈 
-HP가 2%씩 감소합니다
+HP reduced by 2%
 Icon/Buff/Icon_Common_Debuff_Bleed
-출혈
+Bleeding
 
 ID=5097
 출혈 
-HP가 3%씩 감소합니다
+HP reduced by 3%
 Icon/Buff/Icon_Common_Debuff_Bleed
-출혈
+Bleeding
 
 ID=5098
 출혈 
-HP가 4%씩 감소합니다
+HP reduced by 4%
 Icon/Buff/Icon_Common_Debuff_Bleed
-출혈
+Bleeding
 
 ID=5101
 기절 
 1.8초 동안 기절 효과를 받습니다
 Icon/Buff/Icon_Common_Debuff_Stun
-기절
+Faint
 
 ID=5102
 기절 
 2.4초 동안 기절 효과를 받습니다
 Icon/Buff/Icon_Common_Debuff_Stun
-기절
+Faint
 
 ID=5103
 기절 
 3.2초 동안 기절 효과를 받습니다
 Icon/Buff/Icon_Common_Debuff_Stun
-기절
+Faint
 
 ID=6620
-쿨타임 감소
+Cooltime reduce 
 5초간 쿨타임이 7% 감소합니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-쿨타임 감소
+Cooltime reduce 
 
 ID=6621
-쿨타임 감소
+Cooltime reduce 
 5초간 쿨타임이 11% 감소합니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-쿨타임 감소
+Cooltime reduce 
 
 ID=6622
-쿨타임 감소
+Cooltime reduce 
 5초간 쿨타임이 15% 감소합니다.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-쿨타임 감소
+Cooltime reduce 
 
 ID=6640
 응원
@@ -6802,40 +6953,40 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP 증가
 
 ID=6650
-SG 회복
+SG recovery
 SG를 1초당 4% 만큼 회복합니다. (5초간 지속)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=6651
-SG 회복
+SG recovery
 SG를 1초당 6% 만큼 회복합니다. (5초간 지속)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=6652
-SG 회복
+SG recovery
 SG를 1초당 10% 만큼 회복합니다. (5초간 지속)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=6655
-감전
+Electric shock
 HP가 1%씩 감소합니다. (4초간 지속)
 Icon/Buff/Icon_Common_Debuff_Shock
-감전
+Electric shock
 
 ID=6656
-감전
+Electric shock
 HP가 1%씩 감소합니다. (6초간 지속)
 Icon/Buff/Icon_Common_Debuff_Shock
-감전
+Electric shock
 
 ID=6657
-감전
+Electric shock
 HP가 1%씩 감소합니다. (8초간 지속)
 Icon/Buff/Icon_Common_Debuff_Shock
-감전
+Electric shock
 
 ID=9000
 빙결
@@ -6844,10 +6995,10 @@ Icon/Buff/Icon_Common_Debuff_Freezing
 빙결
 
 ID=9001
-수면
+Sleep
 10초 동안 캐릭터가 수면 상태가 되며, 피격 또는 10초가 지나면 체력이 30% 회복됩니다.
 Icon/Buff/Icon_Common_Debuff_Sleep
-수면
+Sleep
 
 ID=9002
 HP 감소
@@ -6862,28 +7013,28 @@ Icon/Buff/Icon_Common_Buff_Akashic
 흡혈
 
 ID=9004
-화상
-HP가 3%씩 감소합니다
+Burn
+HP reduced by 3%
 Icon/Buff/Icon_Common_Debuff_Burn
-화상
+Burn
 
 ID=21005
 투지
 8분 동안 공격력이 8% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=21015
 의지
 8분 동안 방어도가 30% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=21024
 용기
 8분 동안 공격 속도가 5% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ASR
-공격속도 증가
+Increased attack speed
 
 ID=21034
 도전
@@ -7105,73 +7256,73 @@ ID=54311
 회광반조
 상태 이상에 걸릴 시 50% 확률로 3초 동안 무적 상태가 됩니다. (발동 대기시간 45초)
 Icon/Buff/Icon_Common_Buff_Akashic
-무적
+invincibility
 
 ID=54312
 회광반조
 상태 이상에 걸릴 시 70% 확률로 3초 동안 무적 상태가 됩니다. (발동 대기시간 45초)
 Icon/Buff/Icon_Common_Buff_Akashic
-무적
+invincibility
 
 ID=54313
 회광반조
 상태 이상에 걸릴 시 90% 확률로 3초 동안 무적 상태가 됩니다. (발동 대기시간 45초)
 Icon/Buff/Icon_Common_Buff_Akashic
-무적
+invincibility
 
 ID=54321
 회광반조
 상태 이상에 걸릴 시 60% 확률로 3초 동안 무적 상태가 됩니다. (발동 대기시간 35초)
 Icon/Buff/Icon_Common_Buff_Akashic
-무적
+invincibility
 
 ID=54322
 회광반조
 상태 이상에 걸릴 시 80% 확률로 3초 동안 무적 상태가 됩니다. (발동 대기시간 35초)
 Icon/Buff/Icon_Common_Buff_Akashic
-무적
+invincibility
 
 ID=54323
 회광반조
 상태 이상에 걸릴 시 100% 확률로 3초 동안 무적 상태가 됩니다. (발동 대기시간 35초)
 Icon/Buff/Icon_Common_Buff_Akashic
-무적
+invincibility
 
 ID=54411
 종횡무진
 장착 시 이동속도가 7% 증가, 공격속도가 1% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=54412
 종횡무진
 장착 시 이동속도가 8% 증가, 공격속도가 2% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=54413
 종횡무진
 장착 시 이동속도가 9% 증가, 공격속도가 3% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=54421
 종횡무진
 장착 시 이동속도가 10% 증가, 공격속도가 3% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=54422
 종횡무진
 장착 시 이동속도가 12% 증가, 공격속도가 4% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=54423
 종횡무진
 장착 시 이동속도가 14% 증가, 공격속도가 5% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격속도 증가
+Increased attack speed
 
 ID=54511
 격류
@@ -7213,37 +7364,37 @@ ID=54611
 사형 선고
 스킬 사용 시 3초 동안 공격력이 700 증가합니다. (발동 시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=54612
 사형 선고
 스킬 사용 시 3초 동안 공격력이 900 증가합니다. (발동 시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=54613
 사형 선고
 스킬 사용 시 3초 동안 공격력이 1200 증가합니다. (발동 시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=54621
 사형 선고
 스킬 사용 시 5초 동안 공격력이 900 증가합니다. (발동 시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=54622
 사형 선고
 스킬 사용 시 5초 동안 공격력이 1200 증가합니다. (발동 시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=54623
 사형 선고
 스킬 사용 시 5초 동안 공격력이 1600 증가합니다. (발동 시간 30초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=54711
 철벽 수비
@@ -7285,37 +7436,37 @@ ID=54811
 포식의 본능
 적중 시 30% 확률로 SG 10% 회복됩니다. (발동 시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=54812
 포식의 본능
 적중 시 30% 확률로 SG 15% 회복됩니다. (발동 시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=54813
 포식의 본능
 적중 시 30% 확률로 SG 20% 회복됩니다. (발동 시간 20초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=54821
 포식의 본능
 적중 시 30% 확률로 SG 20% 회복됩니다. (발동 시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=54822
 포식의 본능
 적중 시 30% 확률로 SG 25% 회복됩니다. (발동 시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=54823
 포식의 본능
 적중 시 30% 확률로 SG 30% 회복됩니다. (발동 시간 15초)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
+SG recovery
 
 ID=54911
 냉철한 판단
@@ -7441,13 +7592,13 @@ ID=25006
 노도
 1분간 공격력이 50% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=25007
 강인함
 1분간 방어도가 50% 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+Increased armour
 
 ID=25008
 신속
@@ -7639,37 +7790,37 @@ ID=60157
 복수의 분노
 아군 사망 시 60초 동안 공격력이 150 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=60158
 복수의 분노
 아군 사망 시 60초 동안 공격력이 250 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=60159
 복수의 분노
 아군 사망 시 60초 동안 공격력이 400 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=60160
 복수의 분노
 아군 사망 시 60초 동안 공격력이 275 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=60161
 복수의 분노
 아군 사망 시 60초 동안 공격력이 425 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=60162
 복수의 분노
 아군 사망 시 60초 동안 공격력이 625 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=60163
 동력 차단
@@ -7783,37 +7934,37 @@ ID=60181
 동기부여
 플레이어 사망 시 60초 동안 공격력 300 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=60182
 동기부여
 플레이어 사망 시 60초 동안 공격력 500 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=60183
 동기부여
 플레이어 사망 시 60초 동안 공격력 800 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=60184
 동기부여
 플레이어 사망 시 60초 동안 공격력 550 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=60185
 동기부여
 플레이어 사망 시 60초 동안 공격력 850 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=60186
 동기부여
 플레이어 사망 시 60초 동안 공격력 1250 증가합니다.
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Attack Increased
 
 ID=60187
 황금의 손
@@ -8026,7 +8177,7 @@ Icon/Buff/Icon_Common_Buff_Penetration
 방어력 관통 증가
 
 ID=8561
-재빠른 손놀림
+quick_dexterity
 15초간 공격 속도가 5% 증가합니다.(최대 3중첩)
 Icon/Buff/Icon_Common_Buff_ASR
 0
@@ -8057,27 +8208,27 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=8591
 출혈 
-HP가 2%씩 감소합니다
+HP reduced by 2%
 Icon/Buff/Icon_Common_Debuff_Bleed
-출혈
+Bleeding
 
 ID=8592
 출혈 
-HP가 3%씩 감소합니다
+HP reduced by 3%
 Icon/Buff/Icon_Common_Debuff_Bleed
-출혈
+Bleeding
 
 ID=8593
 출혈 
-HP가 4%씩 감소합니다
+HP reduced by 4%
 Icon/Buff/Icon_Common_Debuff_Bleed
-출혈
+Bleeding
 
 ID=8601
-마비
+Attack
 일정 시간 동안 캐릭터가 움직일 수 없습니다
 Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
+Attack
 
 ID=411
 데자이어 각성
@@ -8087,9 +8238,9 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=412
 데자이어 각성 무적
-피해를 받지 않습니다
+No Damage
 Icon/Buff/Icon_Common_Buff_Immun
-무적
+invincibility
 
 ID=60205
 안정적 호흡
@@ -8219,19 +8370,19 @@ Icon/Buff/Icon_Common_Buff_ASR
 
 ID=9016
 신체 강화 I
-신체가 강화되어 8초간 피해량이 5% 증가합니다.
+신체가 강화되어 8초간 피해량이 10% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
 피해량 증가
 
 ID=9017
 신체 강화 II
-신체가 강화되어 9초간 피해량이 7% 증가합니다.
+신체가 강화되어 9초간 피해량이 12% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
 피해량 증가
 
 ID=9018
 신체 강화 III
-신체가 강화되어 10초간 피해량이 10% 증가합니다.
+신체가 강화되어 10초간 피해량이 15% 증가합니다.
 Icon/Buff/Icon_Common_Buff_ATK
 피해량 증가
 
@@ -8303,7 +8454,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=9032
 각성
-주는 피해량이 15% 만큼 증가합니다.\n슈퍼아머 파괴량이 30% 만큼 증가합니다.\n이동 속도가 20% 만큼 증가합니다.\n슈퍼아머 상태가 됩니다.
+주는 피해량이 15% 만큼 증가합니다.\n슈퍼아머 파괴력이 30% 만큼 증가합니다.\n이동 속도가 20% 만큼 증가합니다.\n슈퍼아머 상태가 됩니다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -8311,7 +8462,7 @@ ID=601
 테스트용 공격 버프
 30분 동안 공격력이 1만큼 증가합니다. (최대 10중첩, 테스트용)
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack Increased
 
 ID=602
 테스트용 방어 버프
