@@ -2,57 +2,57 @@ ID=1
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 1
 League_Person_Extend_1
-Expand the maximum number of Guild Members. \n Maximum number: 25
-Number of additional people: 5 \n Maximum number: 30
+Extends the maximum number of guild members. \n Maximum number: 25
+Additional members: 5 \n Maximum number: 30
 
 ID=2
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 2
 League_Person_Extend_2
-Expand the maximum number of Guild Members. \n Maximum number: 30
-Number of additional people: 5 \n Maximum number: 35
+Extends the maximum number of guild members. \n Maximum number: 30
+Additional members: 5 \n Maximum number: 35
 
 ID=3
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 3
 League_Person_Extend_3
-Expand the maximum number of Guild Members. \n Maximum number: 35
-Number of additional people: 5 \n Maximum number: 40
+Extends the maximum number of guild members. \n Maximum number: 35
+Additional members: 5 \n Maximum number: 40
 
 ID=4
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 4
 League_Person_Extend_4
-Expand the maximum number of Guild Members. \n Maximum number: 40
-Number of additional people: 5 \n Maximum number: 45
+Extends the maximum number of guild members. \n Maximum number: 40
+Additional members: 5 \n Maximum number: 45
 
 ID=5
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 5
 League_Person_Extend_5
-Expand the maximum number of Guild Members. \n Maximum number: 45
-Number of additional people: 5 \n Maximum number: 50
+Extends the maximum number of guild members. \n Maximum number: 45
+Additional members: 5 \n Maximum number: 50
 
 ID=6
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 6
 League_Person_Extend_6
-Expand the maximum number of Guild Members. \n Maximum number: 50
-Number of additional people: 5 \n Maximum number: 55
+Extends the maximum number of guild members. \n Maximum number: 50
+Additional members: 5 \n Maximum number: 55
 
 ID=7
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 7
 League_Person_Extend_7
-Expand the maximum number of Guild Members. \n Maximum number: 55
-Number of additional people: 5 \n Maximum number: 60
+Extends the maximum number of guild members. \n Maximum number: 55
+Additional members: 5 \n Maximum number: 60
 
 ID=8
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 8
 League_Person_Extend_8
-Expand the maximum number of Guild Members. \n Maximum number: 60
-The maximum level.
+Extends the maximum number of guild members. \n Maximum number: 60
+LvMax
 
 ID=9
 Icon/League/Skill/Icon_League_Skill_StorageOpen
@@ -73,21 +73,21 @@ Icon/League/Skill/Icon_League_Skill_StorageOpen
 Guild Storage 3
 League_Storage_3
 Expand the Guild Storage. \n Total slots: 144
-The maximum level.
+LvMax
 
 ID=12
 Icon/League/Skill/Icon_League_Skill_CreationEmblem
 Guild Emblem
 League_Mark
 Design the Guild Emblem.
-The maximum level.
+LvMax
 
 ID=13
 Icon/League/Skill/Icon_League_Skill_SafeHouseOpen
 Guild Hangout
 League_Agit
 Create a Guild Hangout.
-The maximum level.
+LvMax
 
 ID=14
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
@@ -108,28 +108,28 @@ Icon/League/Skill/Icon_League_Skill_LeagueExpUp
 Exp Boost 3
 Exp_Up_3
 Additional experience gain. \n Exp increase: 15%
-The maximum level.
+LvMax
 
 ID=17
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
-Loyalty Boost 1
+VIP Boost 1
 CreditRating_Grow_1
-Additional loyalty gain. \n Daily loyalty increase: 3\n \n Required funds: 550,000
-Daily loyalty increases by 3 \n Total daily loyalty gain: 6\n \n Required funds: 3,000,000
+Additional VIP gain. \n Daily VIP increase: 3\n \n Required funds: 550,000
+Daily VIP increases by 3 \n Total daily VIP gain: 6\n \n Required funds: 3,000,000
 
 ID=18
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
-Loyalty Boost 2
+VIP Boost 2
 CreditRating_Grow_2
-Additional loyalty gain. \n Daily loyalty increase: 6
-Daily loyalty increases by 4 \n Total daily loyalty gain: 10\n \n Required funds: 10,500,000
+Additional VIP gain. \n Daily VIP increase: 6
+Daily VIP increases by 4 \n Total daily VIP gain: 10\n \n Required funds: 10,500,000
 
 ID=19
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
-Loyalty Boost 3
+VIP Boost 3
 CreditRating_Grow_3
-Additional loyalty gain. \n Daily loyalty increase: 10
-The maximum level.
+Additional VIP gain. \n Daily VIP increase: 10
+LvMax
 
 ID=20
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
@@ -150,7 +150,7 @@ Icon/League/Skill/Icon_League_Skill_RepairDiscount
 Repair Discount 3
 Repair_Cost_Discount_3
 Save on repair costs. \n Repair discount: 10%
-The maximum level.
+LvMax
 
 ID=23
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
@@ -171,4 +171,4 @@ Icon/League/Skill/Icon_League_Skill_CommissionDiscount
 Market Thirst 3
 CommissionDiscount_3
 Save on sales you make in the market. \n Sale discount: 3%
-The maximum level.
+LvMax
