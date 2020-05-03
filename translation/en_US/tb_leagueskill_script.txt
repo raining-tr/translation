@@ -107,7 +107,7 @@ ID=16
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
 Exp Boost 3
 Exp_Up_3
-Additional experience gain. \n Exp increase: 15%
+Additional experience gain.\nExp increase: 15%
 LvMax
 
 ID=17
