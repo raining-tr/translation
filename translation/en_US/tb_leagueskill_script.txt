@@ -128,7 +128,7 @@ ID=19
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
 VIP Boost 3
 CreditRating_Grow_3
-Additional VIP gain. \n Daily VIP increase: 10
+Additional VIP gain.\nDaily VIP increase: 10
 LvMax
 
 ID=20
