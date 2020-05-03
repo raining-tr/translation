@@ -149,7 +149,7 @@ ID=22
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
 Repair Discount 3
 Repair_Cost_Discount_3
-Save on repair costs. \n Repair discount: 10%
+Save on repair costs.\nRepair discount: 10%
 LvMax
 
 ID=23
