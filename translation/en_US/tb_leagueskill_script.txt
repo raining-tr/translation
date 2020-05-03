@@ -51,7 +51,7 @@ ID=8
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 8
 League_Person_Extend_8
-Extends the maximum number of guild members. \n Maximum number: 60
+Extends the maximum number of guild members.\nMaximum number: 60
 LvMax
 
 ID=9
