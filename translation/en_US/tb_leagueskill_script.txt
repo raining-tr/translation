@@ -93,7 +93,7 @@ ID=14
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
 EXP Boost 1
 Exp_Up_1
-Additional experience gain.\n EXP increase: 5%\n Required funds: 350,000
+Additional experience gain.\nEXP increase: 5%\nRequired funds: 350,000
 Experience gain increases by 5% \n Total increase: 10%\n \n Required funds: 2,700,000
 
 ID=15
