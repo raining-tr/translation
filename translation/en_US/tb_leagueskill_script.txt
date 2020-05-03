@@ -122,7 +122,7 @@ Icon/League/Skill/Icon_League_Skill_CredibilityUp
 VIP Boost 2
 CreditRating_Grow_2
 Additional VIP gain.\nDaily VIP increase: 6
-Daily VIP increases by 4 \n Total daily VIP gain: 10\n \n Required funds: 10,500,000
+Daily VIP increases by 4\nTotal daily VIP gain: 10\n\nRequired funds: 10,500,000
 
 ID=19
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
