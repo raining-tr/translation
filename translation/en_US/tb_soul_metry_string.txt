@@ -1,0 +1,605 @@
+ID=1032
+Wait a minute
+
+ID=1033
+Millionaire Dream
+
+ID=1035
+The strength of facing difficulties
+
+ID=1034
+Let's go to the Zoo together
+
+ID=1041
+This Moment
+
+ID=1042
+Favorite Town
+
+ID=1043
+I will never forget
+
+ID=1044
+Bitter Choice
+
+ID=1045
+Take Care
+
+ID=1051
+You have to put it down and throw it away
+
+ID=1052
+It was unnecessary
+
+ID=1053
+Romance?!
+
+ID=1054
+You shine brighter than the Stars
+
+ID=1055
+Reality is not a movie
+
+ID=1056
+Bitter taste of choice
+
+ID=1057
+If only I could meet you
+
+ID=1058
+If it is with you
+
+ID=1059
+I'm worried for some reason
+
+ID=1060
+I kinda feel bad
+
+ID=1061
+weight of sin
+
+ID=1062
+Someday I'm gonna get out of here
+
+ID=1063
+A ship of dreams
+
+ID=2032
+He ran harder than anyone else, but the world gave him no seat. Disappointment and despondency were enough to bring a man to his knees, and he no longer had the energy or thought to get up.\nA woman who had been with a man for a long time couldn't just watch him collapse.\n\nThis story is about a man who is disappointed in the world, and a woman who saves that man.
+
+ID=2033
+A young man dreams of being rich. When his friends studied for college, the young man went around looking for lucrative jobs, and when his friends went out to play, the young man tried to save money to do business.\nThe only goal was to become rich.\nSome criticized him for being blinded by money at a young age, but he didn't care.\nEven if he had to risk his life, he wouldn't hesitate.\nIf I could be a rich only!\n\nThis is the story of a young man heading towards the goal of getting rich
+
+ID=2035
+There are many kinds of jobs in the world.\nSome people are more comfortable using their heads, others like to use their body. A man knew how to use his body more effectively than anyone else.\non top of that, he was a person who could take anything positively.\nIt will help him overcome any difficulties he will encounter in his life.\n\nThis story is about a positive man living his life
+
+ID=2034
+Life is not fair. One is born with a destiny that one can expect tomorrow, but one is born with a destiny to fear tomorrow.\nThe girl was born to be afraid of tomorrow. Since she was born in this world, she was born to be a residetent in the hospital where she could not be guaranteed a single hour of her life outside the hospital.\nAnd one nurse has been taking care of her for years. The two had more than a family ties, but both know. The time of parting will come someday..\n\nThis story is about a girl who doesn't have a hope for tomorrow and a nurse who is preparing for farewell every day.
+
+ID=2041
+Since her parents died in an accident, she had only one younger brother with a big age gap.\nSo she had to make a living for her family at a young age, and while she went to work, her brother had to keep the house alone.\nShe felt bad about him. So whenever she had time, she took her brother to the beach in her hometown.\nThe next day, she had to leave for work. Her younger brother alone again, so she tried to take care of him when she was with him.\nYounger brother is not coming back at this moment\n\nThis story is about my sister's apologies for not being with me
+
+ID=2042
+A man likes this city. He likes it because it's his hometown and because it's the place where he will live.\nThe man loves this city, and the people of this city.\nSo I'd like to travel all over the city and experience the things that protect this city.\nTo make sure I can help when the city in danger someday!\n\nThe story of a man who loves his hometown
+
+ID=2043
+The boy missing the lady. The boy, who was the butler of the Great Lakes, liked the girl who seemed to live in a different world than him. It was only a long time before the yearning turned to affection.\nThe lady liked the boy. I liked the boy who seemed to live in a different world than me. Longings soon turned to affection.\nThe boy and the lady knew each other's feelings. But they couldn't reveal it. The difference between their social status was too high for them to jump over.\nWe just exchanged affection for each other quietly with our eyes and hearts.\n\nThe story is about a man and women who missed and loved each other but couldn't be together.
+
+ID=2044
+There was a man burning with ambition. The man, who hated his hometown, clung to his studies to get out of it somehow.\n Poor family, uncertain future, unguaranteed environment. I focused on my studies thinking that the only way out of all this was to study. And the hard work paid off, and the job was decided to be in a big city.\nThere was a problem with the family. My parents got sick in bed. No one can take care of my parents if I left my hometown. The man had to make a choice.\n\nThe story of a man burning with ambition making a choice.
+
+ID=2045
+There is a couple who love each other. \nThey love each other but they can't be together every day.\nBecause my husband has a job where he travels far away. \nSince the husband often goes a long way, his wife packs his things herself every time. I hope that he will return safely from the long journey.\nPut a sticker talisman and hand it over to her husband, \nshe delivers a greeting with love.\n"Have a safe trip".\n\nThis story is about a wife waiting for her husband to come back after a long trip.
+
+ID=2051
+Being the head of a family is hard work. \nIt's because a lot is on his shoulders. \nIn order to raise children and protect his family, he has to put down his life for a while.\nYou have to throw away all your dreams.\nEven if it's tough, you can't avoid it, and you have to face it even if you want to run away.\nThat's the only way to protect it.\nIn the future, he may have to give up on a lot for his family. Still, he will continue to protect his family.\n\nThe story of the head of a family
+
+ID=2052
+His boss was passionate. When he just joined the company, his boss took care of him as if he were treating his own brother. \nHe came to follow his boss like his own brother.\nHis boss was the one who took the initiative in everything.\nHe was passionate, sincere.\nBut the only thing that came back to his passionate boss was an order to resign.\nHe who was angry because he couldn't understand his boss resignation, his boss said with a bitter smile. I just didn't need it.\n\nThe story is about a man who feels empty with the retirement of his respected boss
+
+ID=2053
+She is his [first love]. He liked her without hesitation in helping someone, and with affection when she was dealing with people\nHe knows she only sees herself as [disciple], but when she comes to her workplace, she always gets excited.\nHe is her [first TA]. She is the first person who made me feel the joy of teaching people.\nSo she stumbles around his workplace to see what he has decided and help him with his work.\nShe is kinda confused with her feelings.\n\nThe is about a man and a woman looking at each other but crossing each other
+
+ID=2054
+The boy liked his father better than anyone else in the world. For a boy, his father was a good father, friend and hero.\nIt was no exaggeration to say that he was the boy's everything until his father was attacked by a robber.\nThe boy's father was the one who lit the dark night on the ground. \nHis sign lit the dark streets colorful.\nFor the boy, his father's sign was shining more than the stars in the night sky.\n\nThe story is about a boy who misses his father who shines more than anyone else in the world
+
+ID=2055
+A boy likes movies.\nHe likes too the hero who flies in the sky and saves the Earth.\nThe boy says [it's only a movie!] and knows it's impossible in real life, but he thinks he wants to be [hero] at least once.\nI challenged myself to an extreme part time job in the young mind that pushing myself to the extremes that I might awaken the hero's power, but the reality was also not the same as in the movie.\nThe boy was just an ordinary man.\nBut the boy thought.\n Even if you are an ordinary person now, someday, there will be a day when hidden power will wake up!\n\nThe story is about an ordinary boy dreaming of becoming a hero
+
+ID=2056
+There are some things you have to give up to live as a member of a secret organization.\nYou can't tell others which job you're in, you have to move and adapt to the company's decision.\nThere are times when you have to climb up the terrain embedded in mountains to get to work and inherit things that are not mine.\nHowever, to remain a member, you have to adapt and give up.The price of not giving up will be more valuable than giving up....\n\nThe story is about a secret member of an organization
+
+ID=2057
+For that man, the joy of life was to look at her. \nWatch her webtoon, collect her character merchandise, talking to people who like her. \n That made him live in this nightmare reality.\nHe thought.\nI will meet her in real life someday.\nI'll Make sure to use all the knowledge I know \nI'll lead her out into the real world!\n\nThis story is about a real man living to meet her in a fantasy
+
+ID=2058
+There was a robot. The robot was born with a difference.\nThe robot quickly became a target of disposal because it was different.\nI lost my life by not giving up on the difference, but the robot wanted to live.\nThere was a man there. \nPeople refused to change to live and gave up.\nAnd I got despair. wanted to find a lost difference.\nWhen the Robot and the man met, the robot saw despair in the man.\nAt the moment when they were not sure whether they were meant to be or not, the two found life from each other and decided to be together.Until the end of life...\n\nThe story of robots and humans who found life in each other.
+
+ID=2059
+She looked at him with sweat at that time. He spent his time doing dangerous things in dangerous places, and she always had to look at him from behind. He used to take on dangerous tasks, saying, If he didn't do it, someone else have to do it, so he'll just take the risk instead.\nShe always disapproved it.\nSo she would take away his work items and fix them if they were broken.\nI don't know why, but I was so worried that I couldn't stay still.\nShe herself did not know why she was worried.\nNo, I pretended not to know.\n\nThe story is about a woman who doesn't know why she worries.
+
+ID=2060
+The woman he looked at was always with the robot. Robots were everting in her life, and they were a part of her life.\nbut he didn't like her being obsessed with robots.\nHe didn't want her to be obsessed with robots.\nSo he became a robot pilot to find out why she liked robots.\nbut even though he became a robot manipulator, he felt worse when he found out that robots were still number 1 for her.\n he did not know why he felt bad.\nNo, I pretended not to know.\n\nThe story is about a robot pilot getting jealous of a robot
+
+ID=2061
+The sin was always on his chest and tightened his breathing.\nHe could not turn away from what he had done, even if the word [because the company had ordered] was attached to the name of sin.\nSo all he chose was to ask forgiveness every night.\nIt was a prayer to his God that he couldn't hear but keep on living by doing so.\nBut he knew. No matter how much he asks for forgiveness, one day the price of sin will come to his neck...\n\nThis story is about a man who has sinned, asking for forgiveness because he cannot overcome the weight of sin
+
+ID=2062
+The only people who could enter the lab were those who had been screened and passed through a really long period of time. The people who were screened divided into three categories. \nBecause of their talents, they were chosen, or they were caught because of their weaknesses. \nTo volunteer for a large [hall-out]. \nThe man was caught because of many weaknesses. Debt, whether he wanted it or not, always caught his life. The world wielded it as his weakness, and this was one of them. \nHe really hated this job, but he pledged that he would endure and survive someday and get out to live ordinary. \nI believe that day would come. \n\nThis is the story of a man in debt who struggles to get out of debt
+
+ID=2063
+The girl is a child born of love in a limited place. On the day the girl was born, the girl's father lost his only love. \nOne day, people in white robes came to him. \nAsked if he hated her, and asked if he would join them to work for the world. \nHe refused the offer because he couldn't lose the last gift left by his love, and in return the girl lived with limited rules in a confined space. \nHe was sorry for the appearance of such a girl, but that was the only way a girl could live. \nThe only remaining dream for him now is to complete the [Dream Boat] they are making and get out the girl from here. That was all. \n\nThis story is about a girl and her father living like a prisoners, but not in a prison
+
+ID=8111
+A safety helmet
+
+ID=8121
+Wreath
+
+ID=8131
+Brick Set
+
+ID=8141
+Patient bed
+
+ID=8211
+Straw hat
+
+ID=8221
+Pipe
+
+ID=8231
+Antique mirror
+
+ID=8241
+Cabinet
+
+ID=8251
+Carrier
+
+ID=8311
+Road Roller
+
+ID=8321
+Humidifier
+
+ID=8331
+Lubricator
+
+ID=8341
+Neon sign
+
+ID=8351
+window wipers
+
+ID=8361
+Monitor
+
+ID=8112
+Jack hammer
+
+ID=8122
+Air Doll
+
+ID=8132
+shovel
+
+ID=8142
+Wheelchair
+
+ID=8212
+Ice box
+
+ID=8222
+Flashlight
+
+ID=8232
+Antique chair
+
+ID=8242
+Office Desk
+
+ID=8252
+Ventilator
+
+ID=8312
+Construction Sign
+
+ID=8322
+Big Box
+
+ID=8332
+Fire extinguisher
+
+ID=8342
+Ladder
+
+ID=8352
+lifeline
+
+ID=8362
+Cutting Machine
+
+ID=8113
+Tool box
+
+ID=8123
+Menu
+
+ID=8133
+Cement sack
+
+ID=8143
+ Big teddy bear
+
+ID=8213
+Tube
+
+ID=8223
+Plunger
+
+ID=8233
+Antique lantern
+
+ID=8243
+Aluminum trash cans
+
+ID=8253
+Life Vest
+
+ID=8313
+Cone
+
+ID=8323
+Bookshelf
+
+ID=8333
+oil cask
+
+ID=8343
+Cable
+
+ID=8353
+Window cleaning chair
+
+ID=8363
+1 Single desk
+
+ID=8314
+Hammer
+
+ID=8324
+Stove
+
+ID=8334
+Plastic broom
+
+ID=8344
+Helmet
+
+ID=8354
+Detergent
+
+ID=8364
+Cushion
+
+ID=8411
+Lucy Figures
+
+ID=8412
+Lucy Bromide
+
+ID=8413
+Lucy Takimakura
+
+ID=8414
+Lucy's signboard
+
+ID=8421
+Mop
+
+ID=8422
+Duster
+
+ID=8423
+Vacuum Cleaner
+
+ID=8424
+Sprayer
+
+ID=8431
+Pickax
+
+ID=8432
+Dynamite
+
+ID=8433
+Lantern Helmet
+
+ID=8434
+Coal mine cart
+
+ID=8441
+Sentry model
+
+ID=8442
+Welding machine
+
+ID=8443
+Welding mask
+
+ID=8444
+Welding gloves
+
+ID=8451
+Mini fridge
+
+ID=8452
+Hard reader
+
+ID=8453
+laptop
+
+ID=8454
+Stand
+
+ID=8461
+Radio
+
+ID=8462
+ Riot rod
+
+ID=8463
+Iron shield
+
+ID=8464
+Shotgun
+
+ID=8471
+Top
+
+ID=8472
+Bundle of trees
+
+ID=8473
+Rubber boat
+
+ID=8474
+Arcship model ship
+
+ID=5111
+The design is a poor safety helmet. But I'm not afraid of anything when I'm wearing this.\nYear, I'm not afraid of the storm in this world.
+
+ID=5121
+When I just started the store, I got a lot of help from the people around me. \nBecause I was a young man, I had a lot of good points, but I also had bad points, and one of them was lack of experience. \nIt seems like I know everything but in fact I'm not? In that case, the merchants around me helped me a lot. \nOne of them was the wreaths that decorated the opening ceremony.
+
+ID=5131
+I'm good at selling, but I'm also good at stacking.\nStacking bricks uniformly gives you the feeling of pride when you're done.\nThe construction guys told me that you seem to have a vocation here but, \nIt feels weird that it's good and bad.
+
+ID=5141
+It's a bed where a kid spent more than half a day.\nOn the little kid's bed, a sticker of a cartoon character that kid likes.\nIt looks kind of messy, but it's stuck together....\nThe kid said he likes it.
+
+ID=5211
+It's a straw hat that my brother wore every time he went out to the beach.\nThe beach in the summer is hot, so I put a straw hat on my brother to protect his face from UV rays.\nWhen my brother wore a straw hat, [Rubber] he used to bend his fist, I'm not sure what he's doing....\nI have no idea what children are talking about at all.
+
+ID=5221
+It is a pipe that delivers water to many parts of the village.\nIt's very difficult to connect, but after I've connected them all, I used to feel like I've done something great.\nWhen a metal object hits a pipe while working, a clear sound resonates underground,\nThe sound seemed to clear my mind strangely.
+
+ID=5231
+The most thing I've seen was the lady back reflection in the mirror.\nI was sitting in the chair looking in the mirror without saying anything.\nWith no courage, I used to take a peek at the lady's face in the mirror from behind.\nThen I was busy running away when I made an eye contact.
+
+ID=5241
+Having my own space was unimaginable in my hometown.\nEverything was common.\nIt's only a small cabinet, but what it means to have my own space....\nI don't think most people know.
+
+ID=5251
+When he traveled away, I would always carry his luggage with my hands in my carrier.\nI just want you to come back safely.\nIf two daughters put stickers on their father's bag to decorate it, the preparations are complete.\nWhen I told him to take care and gave him the bag, he just smiled looking at his daughters' stickers.
+
+ID=5311
+Isn't this the modern version of slavery. \nThe enormous mass of road rollers killed a lot. \nThe heat filled with the heat of the sun and the ground has been combined with the distinctive smell of asphalt to keep me from breathing. \nIf it weren't for the children waiting for me at home, I'd probably run out of this road.
+
+ID=5321
+I've always sit in the office that has dry air.\nI had to turn on the humidifier all the time, whether it was because of the dry weather or the atmosphere that was not relaxed.\nHe used to turn on the humidifier habitually when he came to work.\nMaybe he tried to overcome the dry air.
+
+ID=5331
+The teacher would pick up a gas pump and smile like a girl.\nI tried to take it away, saying that the teacher's hands were not suitable for this kind of work, but she was just stubborn to replace it.
+
+ID=5341
+The neon signboard that lights up the entrance to the village was the pride of our town.\nBecause, my dad made it!\nThe sun is brighter during the day, so you can't see the beauty, but it definitely shines at night! \nMore than the stars in the sky!
+
+ID=5351
+Window cleaning in the air requires a high degree of concentration.\nIf I got nervous and wipe my face without high concentration, any mistake might lead to a big accident.\nAfter focusing and wiping up, all kinds of muscle soreness strike me.... ugh\nIt looks really hard.
+
+ID=5361
+Newly assigned buildings, newly assigned tasks, newly assigned .... monitor?\nWhen I got a new monitor that I don't know when it was made \nI doubt what I saw.
+
+ID=5112
+No matter how advanced the machine is, there are things that people have to do.\nThat's why a guy like me can work.\nNow all I have to do is use this, shaving my body, to bring her happiness.
+
+ID=5122
+It's an air doll that dances in the air when you fill it with air.\nThe lower part of the machine controls the air, creating a dance like movement.\nThe doctor in the opposite clinic said he'd show this movement if he didn't have a [joint].\nIt's a doll in the first place, but it's closer to [people]! He was a really unusual person.
+
+ID=5132
+As expected, I think digging is great thing.\nA man has to be good at shoveling to be best one of the men!\nI don't think this job is as painful and hard as other might think. \nI think it was better that I could concentrate on my work without thinking about anything. 
+
+ID=5142
+If he wanted to get some fresh air somehow\nHis parents would bring this wheelchair with an awkward face.\nIt's a small, expensive thing\nBut it's probably the only way to get to the outside world for a kid.
+
+ID=5212
+Iceboxes are the only thing that cooling us on the beach in the summer.\nMy younger brother always took the icebox with him leaving everything else behind.\nIt's full of ice cream he likes.\nAnother fun thing was me eating some of those ice creams while he was busy playing in the water.
+
+ID=5222
+This flashlight was the only guide in the darkness of the underground.\nI only participated temporarily, so my eyes could not get used to the basement \nSo I felt this flashlight was more useful.
+
+ID=5232
+A chair that was always placed towards the window.\nOn rainy days, The lady always sat in her chair with her little toes folded and stared blankly out of the window.\nI thought she might need a companion, so when I approached her, she looked at me once and smiled.\nAnd looked out the window again without a word.
+
+ID=5242
+Sitting on a cold floor, I will never forget the study I did on a rattling desk\nwhere one of my leg might break. Of course, in a bad way.\nOn this shiny desk, I feel like everything will work out.
+
+ID=5252
+People with jobs like him always wear oxygen mask when they get on an airplane.\nIt will provide him with oxygen to breathe even when he goes up high in the sky.\nI don't even bother to ask him to check the oxygen mask first when he gets on the plane as he already always check it.
+
+ID=5312
+It's a yellow sign that protects us from the flood of passing cars.\nIt also marked our territory in the vast highway.\nOther people can't get inside the sign, but we can't get out of the sign either\nSo it feels like a prison sometimes.
+
+ID=5322
+His figure disappeared with a large box.\nHis loyalty and enthusiasm for the company were all lost in this big box.\nWas it because of the lack of passion?\nI don't know. The only thing that is clear is that he was not needed by the company.
+
+ID=5332
+The teacher was the first to examine the fire extinguisher when he came to our place.\nShe used to teach me how to use the fire extinguisher step by step.\nHer fire extinguisher lecture went from me to all the staff without stopping.\nAs expected, she seems to be a natural teacher.
+
+ID=5342
+My dad got on the ladder even though he was tall.\nMy dad used to get taller enough to reach the sky when he got on the ladder.\nWhen he was on the ladder, I used to follow him up.\nEvery time my dad smiled, but my mom used to yell saying It's dangerous.
+
+ID=5352
+Whenever the lifeline that supported me trembled, my heart seemed to shudder, too.\nIn movies, heroes always fly in the sky, but how can they resist this fear....\nWell, that's a movie, not a real one, right?
+
+ID=5362
+Before we came in, the company was equipped with a large, fine cutting machine, whether it was a paper maker or a printing company. I don't know what the company used to be....\nMaybe it was a more secretive organization than we know.
+
+ID=5113
+It's a toolbox she bought with the money she saved to celebrate her first day at work.\nIt must have been expensive because it was made by a famous maker...\nThere is a small note inside the box.\nWritten [Cheer up] but my eyes is blurry and I can't read it properly.
+
+ID=5123
+As expected, the most encouraging part of young business operators is fresh business items!\nIt's this menu that expresses it to your heart.\nIt's a masterpiece of my remorse that I spent the last few nights stretching, sorting out, and agonizing over it.\nI thought about giving it to a professional businessman, but I did it by myself because I didn't want to waste money.
+
+ID=5133
+I don't think I liked this cement bag as much as I did when I was positive about the construction work.\nIt's really heavy.\nAfter moving this, my whole body loses strength and I'm desperately looking for food.
+
+ID=5143
+It's a big teddy bear that little boy never leave it behind.\nI used to say that someday my dream was to go to the zoo and touch a big~bear.\nI don't have to say that a big bear's jab has 1 ton of power.
+
+ID=5213
+My brother couldn't swim so he had to go into the water with a tube on.\nTubes always had to have his favorite cartoon characters on it.\nIt looked childish for a grown-up to use, but it looked good on a child.\nI'm sure there's an age group that matches those things well.
+
+ID=5223
+If you use a plunger, the stagnant things in it start to flow back \nWhich was as enormous as the time when the smell was blocked. \nWhen I smell it, I really think I don't want to work here anymore \nbut I couldn't show it to the elderly who have been feeling this for decades.
+
+ID=5233
+The lady liked to go for a walk at night.\nOn a bright moon day, she walked along a dark forest path.\nOn a dark day when there was no moonlight, she quietly came up and gave me a lantern,\nI was so happy that I walked behind her.
+
+ID=5243
+There was nothing I could call trash. I used anything again.\nPaper, towels, plastic bags... There was nothing I could throw away.\Bbut this place is different. Everything that has been used once thrown into this trash can.\nWith no little room to spare.
+
+ID=5253
+One day, he brought a life jacket to give to his two daughters.\nIt seemed the youngest daughter wanted to wear the same clothes as the father.\nAt first, I thought it was fake, so I didn't care, but when the youngest played with it and the parachute exploded \nI remember being stunned to find out that it was a real life vest.
+
+ID=5313
+It was a device that guided the route of cars passing by the construction site to another\nIt was made with bright colors that made me wonder if I could really use such a strong color.\nBut novice or drowsy, sometimes there were cars rushing into us through the route\nMaking us feel uneasy.
+
+ID=5323
+He had a lot of work as he was sincere and passionate.\nI'd always look at his bookshelf with tired eyes.\nWhenever I did, he looked back and said [Do you want a cigarette?]\nHis eyes seemed to be on the back of his head.
+
+ID=5333
+Whenever she came to work, she would always bring an oil can in one hand.\nIt contains oil used for indoor heating.\nWhen I asked her, Who's she was using the oil for, she just smiled without saying a word.
+
+ID=5343
+Whenever my dad was working, I would always follow him and play with this cable.\nI used to put the yellow side on the floor as a chair, \nGrab the black wire~and run around.\nThen when my dad called me I ran to him and became a wireman!
+
+ID=5353
+I started riding this chair when I was told I could make a lot of money quickly \nBut when my legs were floating in the air, I was really full of doubts about why I was sitting here. \nMoreover, I often forget things and leave them behind, \nSo I often go up and down and I hated my clumsy personality. too much!
+
+ID=5363
+Can someone really work in a place like this?\nWhen I saw this single desk, which seemed too hard to sit on, I had so many doubts.\nMoreover, I started to worry that I had to work at this desk.\nThey're not really asking me to work at this desk, right?
+
+ID=5314
+Holding a heavy hammer and hitting it, it started to hurt my wrist as if it would break.\nPeople said I didn't have the trick yet, and if I got the trick, my arm wouldn't hurt,\n but it seemed to me that the pain in their wrists was only dull like calluses.
+
+ID=5324
+His meticulousness can be found throughout the company.\nSwitches, electronics... electrical equipment all over the company.\nHe was always the first to come and turn them on, the last to go and turn them off.\nThis electric stove is one of them. His consideration always warmed us up.
+
+ID=5334
+When I let her sit, telling her not to interrupt her part-time job, \nshe picked up a plastic broom in the corner of the room and began cleaning.\nWhen I asked if she could just rest and do nothing, she rather blamed me for staying still.
+
+ID=5344
+I liked to follow my dad to his workshop, but he made sure I was wearing this helmet.\nMy dad's workshop is dangerous, and I'm a little kid there could be a big accident.\nSafety first! Something like this.\nWell, I know safety is the most important thing more than anyone now....
+
+ID=5354
+If you were cleaning with this detergent and slipped in the wrong way, are you gonna die?\nWhen I first got the detergent container, I thought like this... and the boss kicked my butt saying something weird! I was really worried... \nEveryone was laughing at me saying I was cute, but I was so frustrated.
+
+ID=5364
+It's a cushion that we don't know who made it. It is full of life memory that I don't know whose it is.\nMust be someone work.\nI don't really know what the owner was doing....
+
+ID=5411
+My Light My Love My Destiny, This is a limited edition figure of my Lucian.\nDo you know how hard I tried to get this?\nIt was such an epic story that you couldn't hear without tears! \nOf course, it was worth it.
+
+ID=5412
+This is a DVD limited edition of the [Neco Princess Lucy-Christal Adventure]!\nYou're jealous  aren't you? You'll be jealous, I'm sure!\nIt's a limited edition with only 500 copies!\nhum hahaha! The fresh, beautiful, and elegant figure of Lucy! It's in there! Ah, Lucy...
+
+ID=5413
+This is a special item that takes care of my sleep.\nWith this, my deep sleep is guaranteed.\nIf you sleep with this in your arms, you can meet Lucy in your dreams!
+
+ID=5414
+If Lucy actually exists, she's about this tall and this big, right?\nI really want to meet her and talk to her someday.\nThe way she actually look will be much cuter, sexier and more beautiful than I can imagine!
+
+ID=5421
+It is called a harness mop. Under a long wooden stick, long, knotted fabrics are suspended.\nThe key to using this tool is force control. \nOnce I pushed it forward with too much force, and the tool didn't move, but I was the only one who moved and fell. \nThere was a risk of damage to my leg joints, but I was glad that the Master smiled brightly at the phenomenon.
+
+ID=5422
+This is called a dusty tool. It is used to shake off dust.\n4 types of strong colors are impressive. I felt good because it was like the color of [emotions] that I could only see.\nFor a moment, I was just watching this cleaning tool, and my Master got angry telling me to clean up quickly.\nI think I'll have to go and clean up soon.
+
+ID=5423
+This is a tool called a vacuum cleaner.\nWhen I turn it on a loud noises rang out, and my master scolded me.\nIt was very impressive it can suck up the garbage when you put a stick on the ground where there was dust or trash.\nBut I felt a little uncomfortable in that I couldn't distinguish what it was sucking.
+
+ID=5424
+It's a tool called a sprayer. When the handle is pressed, water is sprayed through the hole in the.\nMy master told me to spray it where it needs to be cleaned.I can't believe I have to use two tools at a time...!\n It was a very unique item that the difficulty of cleaning went up the moment I used it.
+
+ID=5431
+If you hit this pickaxe incorrectly with a hard floor, your hand will be smashed.\nThe shock that comes up from the tip of my hand is to get away with the electric shock.\nWell, if it's that dangerous, I'll be careful at work. I don't know who's in such a hurry to work this fast!.\nI'm worried about people.
+
+ID=5432
+Dynamite is one of the most accident-prone items.\nA very dangerous item that can kill everyone as well as yourself if you misused it.\nI've always been heartbroken when he said he was tasked with using it.\nI wish you wouldn't have to do that....
+
+ID=5433
+He says he's on a mission to go through a dark hole every day.\nPlease don't get lost in the dark, so I've always assembled a lantern helmet and handed it over.\nOf course,it's not mine so I'll be punished by my superiors if you misused.\nBut I'm more relieved than putting it in other people's hands. I can't help it.
+
+ID=5434
+He says the weight of the wagon he pulls is over 500 kg.\nYou may think it doesn't make any sense but if you don't pull it like that, the person behind you will suffer.\nAnyway, I have a good personality. I just have to think about myself and work...like an idiot man.
+
+ID=5441
+I was surprised when I found out he was developing his own plastic model into a real robot.\nDo I have to call this a successful otaku?\nYou're not an otaku, you're a mania, that's what I'm saying!\nAnyways his love of robots. Amazing Amazing!
+
+ID=5442
+When I asked him why he liked the cans so much, he threatened me with the welder he was holding.\nOmg, how dangerous it is to threaten people with it!\nHe's usually a purebred, but he's a natural fighter!\nWhat's so good about that...!
+
+ID=5443
+The sight of him working with a welding mask made him look like a technician.\nWhen you were wearing it, you told me that it was the coolest thing, but that kinda made me feel bad.\nWhat the hell did I do wrong?
+
+ID=5444
+It's a glove that protects his hand. It has a special coating on the surface so it can be used safely when using high-temperature, high-voltage objects such as welders.\nWhen he wears gloves, he's got a small body and a big hand, and I said, [You look like a robot!].\nI didn't mean it in a good way.... What are the criteria for likes and dislikes?
+
+ID=5451
+A mini refrigerator full of sodas that moisten your throat.\nIf it weren't for this, I'd probably just be holding my neck because of the pressure and tension of work.\nIt was the most affordable and most satisfying item I received from company.
+
+ID=5452
+One of the things I got from the company.\nSince I couldn't use items that weren't from the company here \nEven if I had it, I had to use the items I paid for.
+
+ID=5453
+This is the laptop I received from the company. \nIt was used to manage the people involved in the experiment. \nAll the written content was stored directly on the company's main computer, so I couldn't erase the feeling that I was being watched all the time.
+
+ID=5454
+If you turn on individual stents with the laboratory light on, \nYou will have a good environment to think alone.\nEvery night I fell into contemplation, playing only one stende in the lab.\nAnd I prayed for forgiveness for all the sins I had committed during the day.
+
+ID=5461
+They said that radios must be fitted when patrolling buildings.\nIt's because you can ask anyone for help when something happens.\nI don't know what kind of risk there is to ask for help....\nThe suspicion only grew.
+
+ID=5462
+A riot stick is a weapon that can give a person quite a strong force.\nBut what if the intruder is a psychic? Maybe they'll die before they even looks at it.\nIt was a point where we could see how well they got to know that we [don't] care about death.
+
+ID=5463
+It was good to hold a shield because it seemed a little stable.\nIt was because it was the only tool that protected me at this secret base that never knew what the threat would be.\nThis shield doesn't help that much, but it raised expectations that it would still give me time to run away.
+
+ID=5464
+The senior, who handed me this gun, told me to shoot whoever was the target, if anyone was suspicious.\nWhat's going on here, so who's suspicious?\nAnd what [secret] do they want to hide? Curiosity should stop at this.\nBut unless you know this secret, you won't get out of [here]. I had that feeling.
+
+ID=5471
+The prick on the surface looked like the pink scissors I had.\nI asked my dad if he could touch the saw blade thorn once, and he took it away in surprise!\nI can touch it well without getting hurt, but my dad was really scared!
+
+ID=5472
+It's a long stick that's cut into squares.\nIt's really fun to hang out with a stick and walk side-by-side \nOr play with both arms open as if walking on the edge.\nWell... if my dad finds out, I'll be in a real trouble. I had to play it in secret.
+
+ID=5473
+When I asked my dad to give me a ride on the rubber boat, he told me, [My baby shouldn't be on a boat.\nI made a promise to not let you ride a boat to be able to live here] he said.\nI didn't bother to cry because I thought my dad was about to cry, \nBut I couldn't get it why I shouldn't be on the boat.
+
+ID=5474
+It's a model of a ship that my dad and uncles are making.\nIt looks really, really cool! right!\nWhen it's done, wouldn't you give me a ride on the boat?\nThen we can go to the land across the ocean that we've only seen in books....
