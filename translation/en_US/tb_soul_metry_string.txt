@@ -5,7 +5,7 @@ ID=1033
 Millionaire's Dream
 
 ID=1035
-The strength of facing difficulties
+The strength to face difficulties
 
 ID=1034
 Let's go to the Zoo together
