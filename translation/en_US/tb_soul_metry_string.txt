@@ -2,7 +2,7 @@ ID=1032
 Wait a minute
 
 ID=1033
-Millionaire Dream
+Millionaire's Dream
 
 ID=1035
 The strength of facing difficulties
