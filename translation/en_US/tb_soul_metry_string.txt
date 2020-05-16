@@ -182,7 +182,7 @@ ID=8122
 Air Doll
 
 ID=8132
-shovel
+Shovel
 
 ID=8142
 Wheelchair
