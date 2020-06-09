@@ -2,77 +2,77 @@ ID=1
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 1
 League_Person_Extend_1
-Extends the maximum number of guild members. \n Maximum number: 25
-Additional members: 5 \n Maximum number: 30
+Extends the maximum number of guild members.\nMaximum number: 25
+Additional members: 5\nMaximum number: 30
 
 ID=2
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 2
 League_Person_Extend_2
-Extends the maximum number of guild members. \n Maximum number: 30
-Additional members: 5 \n Maximum number: 35
+Extends the maximum number of guild members.\nMaximum number: 30
+Additional members: 5\nMaximum number: 35
 
 ID=3
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 3
 League_Person_Extend_3
-Extends the maximum number of guild members. \n Maximum number: 35
-Additional members: 5 \n Maximum number: 40
+Extends the maximum number of guild members.\nMaximum number: 35
+Additional members: 5\nMaximum number: 40
 
 ID=4
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 4
 League_Person_Extend_4
-Extends the maximum number of guild members. \n Maximum number: 40
-Additional members: 5 \n Maximum number: 45
+Extends the maximum number of guild members.\nMaximum number: 40
+Additional members: 5\nMaximum number: 45
 
 ID=5
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 5
 League_Person_Extend_5
-Extends the maximum number of guild members. \n Maximum number: 45
-Additional members: 5 \n Maximum number: 50
+Extends the maximum number of guild members.\nMaximum number: 45
+Additional members: 5\nMaximum number: 50
 
 ID=6
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 6
 League_Person_Extend_6
-Extends the maximum number of guild members. \n Maximum number: 50
-Additional members: 5 \n Maximum number: 55
+Extends the maximum number of guild members.\nMaximum number: 50
+Additional members: 5\nMaximum number: 55
 
 ID=7
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 7
 League_Person_Extend_7
-Extends the maximum number of guild members. \n Maximum number: 55
-Additional members: 5 \n Maximum number: 60
+Extends the maximum number of guild members.\nMaximum number: 55
+Additional members: 5\nMaximum number: 60
 
 ID=8
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Guild Expansion 8
 League_Person_Extend_8
-Extends the maximum number of guild members. \n Maximum number: 60
+Extends the maximum number of guild members.\nMaximum number: 60
 LvMax
 
 ID=9
 Icon/League/Skill/Icon_League_Skill_StorageOpen
 Guild Storage 1
 League_Storage_1
-Expand the Guild Storage. \n Total slots: 48
-Number of additional storage slots: 48 \n Total slots: 96
+Expand the Guild Storage.\nTotal slots: 48
+Number of additional storage slots: 48\nTotal slots: 96
 
 ID=10
 Icon/League/Skill/Icon_League_Skill_StorageOpen
 Guild Storage 2
 League_Storage_2
-Expand the Guild Storage. \n Total slots: 96
-Number of additional storage slots: 48 \n Total slots: 144
+Expand the Guild Storage.\nTotal slots: 96
+Number of additional storage slots: 48\nTotal slots: 144
 
 ID=11
 Icon/League/Skill/Icon_League_Skill_StorageOpen
 Guild Storage 3
 League_Storage_3
-Expand the Guild Storage. \n Total slots: 144
+Expand the Guild Storage.\nTotal slots: 144
 LvMax
 
 ID=12
@@ -91,84 +91,84 @@ LvMax
 
 ID=14
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
-Exp Boost 1
+EXP Boost 1
 Exp_Up_1
-Additional experience gain. \n Exp increase: 5% \n Required funds: 350,000
-Experience gain increases by 5% \n Total increase: 10%\n \n Required funds: 2,700,000
+Additional experience gain.\nEXP increase: 5%\nRequired funds: 350,000
+Experience gain increases by 5% \nTotal increase: 10%\n\nRequired funds: 2,700,000
 
 ID=15
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
 Exp Boost 2
 Exp_Up_2
-Additional experience gain. \n Exp increase: 10%
-Experience gain increases by 5% \n Total increase: 15%\n \n Required funds: 7,500,000
+Additional experience gain.\nExp increase: 10%
+Experience gain increases by 5%\nTotal increase: 15%\n\nRequired funds: 7,500,000
 
 ID=16
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
 Exp Boost 3
 Exp_Up_3
-Additional experience gain. \n Exp increase: 15%
+Additional experience gain.\nExp increase: 15%
 LvMax
 
 ID=17
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
 VIP Boost 1
 CreditRating_Grow_1
-Additional VIP gain. \n Daily VIP increase: 3\n \n Required funds: 550,000
-Daily VIP increases by 3 \n Total daily VIP gain: 6\n \n Required funds: 3,000,000
+Additional VIP gain.\nDaily VIP increase: 3\n\nRequired funds: 550,000
+Daily VIP increases by 3\nTotal daily VIP gain: 6\n\nRequired funds: 3,000,000
 
 ID=18
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
 VIP Boost 2
 CreditRating_Grow_2
-Additional VIP gain. \n Daily VIP increase: 6
-Daily VIP increases by 4 \n Total daily VIP gain: 10\n \n Required funds: 10,500,000
+Additional VIP gain.\nDaily VIP increase: 6
+Daily VIP increases by 4\nTotal daily VIP gain: 10\n\nRequired funds: 10,500,000
 
 ID=19
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
 VIP Boost 3
 CreditRating_Grow_3
-Additional VIP gain. \n Daily VIP increase: 10
+Additional VIP gain.\nDaily VIP increase: 10
 LvMax
 
 ID=20
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
 Repair Discount 1
 Repair_Cost_Discount_1
-Save on repair costs. \n Repair discount: 3%\n \n Required funds: 1,950,000
-Repair discount increases by 3% \n Total discount: 6%\n \n Required funds: 6,500,000
+Save on repair costs.\nRepair discount: 3%\n\nRequired funds: 1,950,000
+Repair discount increases by 3%\nTotal discount: 6%\n\nRequired funds: 6,500,000
 
 ID=21
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
 Repair Discount 2
 Repair_Cost_Discount_2
-Save on repair costs. \n Repair discount: 6%
-Repair discount increases by 4% \n Total discount: 10%\n \n Required funds: 18,000,000
+Save on repair costs.\nRepair discount: 6%
+Repair discount increases by 4%\nTotal discount: 10%\n\nRequired funds: 18,000,000
 
 ID=22
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
 Repair Discount 3
 Repair_Cost_Discount_3
-Save on repair costs. \n Repair discount: 10%
+Save on repair costs.\nRepair discount: 10%
 LvMax
 
 ID=23
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
 Market Thirst 1
 CommissionDiscount_1
-Save on sales you make in the market. \n Sale discount: 1%\n \n Required funds: 1,950,000
-Market sale discount increases by 1% \n Total sale discount: 2%\n \n Required funds: 9,000,000
+Save on sales you make in the market.\nSale discount: 1%\n\nRequired funds: 1,950,000
+Market sale discount increases by 1%\nTotal sale discount: 2%\n\nRequired funds: 9,000,000
 
 ID=24
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
 Market Thirst 2
 CommissionDiscount_2
-Save on sales you make in the market. \n Sale discount: 2%
-Market sale discount increases by 1% \n Total sale discount: 3%\n \n Required funds: 20,000,000
+Save on sales you make in the market.\nSale discount: 2%
+Market sale discount increases by 1%\nTotal sale discount: 3%\n\nRequired funds: 20,000,000
 
 ID=25
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
 Market Thirst 3
 CommissionDiscount_3
-Save on sales you make in the market. \n Sale discount: 3%
+Save on sales you make in the market.\nSale discount: 3%
 LvMax
