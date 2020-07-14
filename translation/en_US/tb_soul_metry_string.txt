@@ -14,7 +14,7 @@ ID=1041
 This Moment
 
 ID=1042
-Favorite Town
+Favourite Town
 
 ID=1043
 I will never forget
@@ -140,7 +140,7 @@ ID=8131
 Brick Set
 
 ID=8141
-Patient bed
+Patient's bed
 
 ID=8211
 Straw hat
@@ -308,7 +308,7 @@ ID=8424
 Sprayer
 
 ID=8431
-Pickax
+Pickaxe
 
 ID=8432
 Dynamite
