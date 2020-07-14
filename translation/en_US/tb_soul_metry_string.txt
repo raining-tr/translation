@@ -338,7 +338,7 @@ ID=8452
 Hard reader
 
 ID=8453
-laptop
+Laptop
 
 ID=8454
 Stand
@@ -365,7 +365,7 @@ ID=8473
 Rubber boat
 
 ID=8474
-Arcship model ship
+Arkship model ship
 
 ID=5111
 The design is a poor safety helmet. But I'm not afraid of anything when I'm wearing this.\nYear, I'm not afraid of the storm in this world.
