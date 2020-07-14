@@ -365,7 +365,7 @@ ID=8473
 Rubber boat
 
 ID=8474
-Arkship model ship
+Ark ship model
 
 ID=5111
 The design is a poor safety helmet. But I'm not afraid of anything when I'm wearing this.\nYear, I'm not afraid of the storm in this world.
