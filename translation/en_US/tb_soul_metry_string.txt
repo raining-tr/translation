@@ -170,7 +170,7 @@ ID=8341
 Neon sign
 
 ID=8351
-window wipers
+Window wipers
 
 ID=8361
 Monitor
@@ -215,7 +215,7 @@ ID=8342
 Ladder
 
 ID=8352
-lifeline
+Lifeline
 
 ID=8362
 Cutting Machine
@@ -254,7 +254,7 @@ ID=8323
 Bookshelf
 
 ID=8333
-oil cask
+Oil cask
 
 ID=8343
 Cable
