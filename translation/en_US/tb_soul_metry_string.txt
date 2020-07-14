@@ -53,10 +53,10 @@ ID=1059
 I'm worried for some reason
 
 ID=1060
-I kinda feel bad
+I kind of feel bad
 
 ID=1061
-weight of sin
+Weight of sin
 
 ID=1062
 Someday I'm gonna get out of here
