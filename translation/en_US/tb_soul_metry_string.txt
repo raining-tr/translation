@@ -260,7 +260,7 @@ ID=8343
 Cable
 
 ID=8353
-Window cleaning chair
+Window-cleaning chair
 
 ID=8363
 1 Single desk
@@ -302,7 +302,7 @@ ID=8422
 Duster
 
 ID=8423
-Vacuum Cleaner
+Vacuum cleaner
 
 ID=8424
 Sprayer
