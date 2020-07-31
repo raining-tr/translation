@@ -14,7 +14,7 @@ ID=1041
 This Moment
 
 ID=1042
-Favorite Town
+Favourite Town
 
 ID=1043
 I will never forget
@@ -53,10 +53,10 @@ ID=1059
 I'm worried for some reason
 
 ID=1060
-I kinda feel bad
+I kind of feel bad
 
 ID=1061
-weight of sin
+Weight of sin
 
 ID=1062
 Someday I'm gonna get out of here
@@ -140,7 +140,7 @@ ID=8131
 Brick Set
 
 ID=8141
-Patient bed
+Patient's bed
 
 ID=8211
 Straw hat
@@ -170,7 +170,7 @@ ID=8341
 Neon sign
 
 ID=8351
-window wipers
+Window wipers
 
 ID=8361
 Monitor
@@ -215,7 +215,7 @@ ID=8342
 Ladder
 
 ID=8352
-lifeline
+Lifeline
 
 ID=8362
 Cutting Machine
@@ -254,13 +254,13 @@ ID=8323
 Bookshelf
 
 ID=8333
-oil cask
+Oil cask
 
 ID=8343
 Cable
 
 ID=8353
-Window cleaning chair
+Window-cleaning chair
 
 ID=8363
 1 Single desk
@@ -302,13 +302,13 @@ ID=8422
 Duster
 
 ID=8423
-Vacuum Cleaner
+Vacuum cleaner
 
 ID=8424
 Sprayer
 
 ID=8431
-Pickax
+Pickaxe
 
 ID=8432
 Dynamite
@@ -338,7 +338,7 @@ ID=8452
 Hard reader
 
 ID=8453
-laptop
+Laptop
 
 ID=8454
 Stand
@@ -365,7 +365,7 @@ ID=8473
 Rubber boat
 
 ID=8474
-Arcship model ship
+Ark ship model
 
 ID=5111
 The design is a poor safety helmet. But I'm not afraid of anything when I'm wearing this.\nYear, I'm not afraid of the storm in this world.
@@ -452,7 +452,7 @@ ID=5342
 My dad got on the ladder even though he was tall.\nMy dad used to get taller enough to reach the sky when he got on the ladder.\nWhen he was on the ladder, I used to follow him up.\nEvery time my dad smiled, but my mom used to yell saying It's dangerous.
 
 ID=5352
-Whenever the lifeline that supported me trembled, my heart seemed to shudder, too.\nIn movies, heroes always fly in the sky, but how can they resist this fear....\nWell, that's a movie, not a real one, right?
+Whenever the lifeline that supported me trembled, my heart seemed to shudder, too.\nIn movies, heroes always flew in the sky, but how could they resist this fear....\nWell, that's in movie, not real life, right?
 
 ID=5362
 Before we came in, the company was equipped with a large, fine cutting machine, whether it was a paper maker or a printing company. I don't know what the company used to be....\nMaybe it was a more secretive organization than we know.
@@ -602,4 +602,4 @@ ID=5473
 When I asked my dad to give me a ride on the rubber boat, he told me, [My baby shouldn't be on a boat.\nI made a promise to not let you ride a boat to be able to live here] he said.\nI didn't bother to cry because I thought my dad was about to cry, \nBut I couldn't get it why I shouldn't be on the boat.
 
 ID=5474
-It's a model of a ship that my dad and uncles are making.\nIt looks really, really cool! right!\nWhen it's done, wouldn't you give me a ride on the boat?\nThen we can go to the land across the ocean that we've only seen in books....
+It's a model of a ship that my dad and uncles are making.\nIt looks really, really cool, right?!\nWhen it's done, won't you give me a ride on the boat?\nThen we can go to the land across the ocean that we've seen only in books....
