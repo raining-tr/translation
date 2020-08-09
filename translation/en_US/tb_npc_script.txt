@@ -551,7 +551,7 @@ ID=101220
 Mysterious Child
 
 ID=101183
-Pure Soul
+Soul Spirit
 
 ID=101184
 Cheeky Cat
@@ -590,7 +590,7 @@ ID=201004
 Banker
 
 ID=201005
-General Merchant
+Trader
 
 ID=201006
 Fashion Reporter
@@ -671,7 +671,7 @@ ID=201030
 NED Employee
 
 ID=201031
-General Merchant
+Trader
 
 ID=201032
 Blacksmith
@@ -731,7 +731,7 @@ ID=201050
 Capsule Device
 
 ID=201051
-General Merchant
+Trader
 
 ID=201052
 Blacksmith
@@ -815,7 +815,7 @@ ID=201078
 Dave Town Resident
 
 ID=201079
-General Merchant
+Trader
 
 ID=201080
 Blacksmith
