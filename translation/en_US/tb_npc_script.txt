@@ -1316,7 +1316,7 @@ ID=201405
 Force Strike Commander
 
 ID=201406
-Squad Tactician
+Force Strike Tactician
 
 ID=201407
 War Hero
