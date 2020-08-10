@@ -53,7 +53,7 @@ ID=101015
 Captain Andy
 
 ID=101016
-Walden
+Waldon
 
 ID=101019
 Clark
@@ -137,7 +137,7 @@ ID=101047
 Leona
 
 ID=101048
-Starry Forest League Soldier
+SFL Soldier
 
 ID=101049
 Surviving Researcher
@@ -218,7 +218,7 @@ ID=101074
 Emilito's Area
 
 ID=101075
-Nova Worker
+Eroded SoulWorker
 
 ID=101076
 Central Control Computer
@@ -269,7 +269,7 @@ ID=101091
 Warren
 
 ID=101092
-Lonely Soldier
+Abandoned Soldier
 
 ID=101093
 NED Employee
@@ -308,7 +308,7 @@ ID=101104
 Hugh
 
 ID=101105
-Starry Forest League Soldier
+SFL Soldier
 
 ID=101106
 Treasurer
@@ -551,7 +551,7 @@ ID=101220
 Mysterious Child
 
 ID=101183
-Pure Soul
+Soul Spirit
 
 ID=101184
 Cheeky Cat
@@ -581,7 +581,7 @@ ID=201001
 Medical Officer
 
 ID=201002
-Deputy
+West Interim Captain
 
 ID=201003
 Blacksmith
@@ -590,7 +590,7 @@ ID=201004
 Banker
 
 ID=201005
-General Merchant
+Trader
 
 ID=201006
 Fashion Reporter
@@ -626,7 +626,7 @@ ID=201013
 Second Lieutenant Carly
 
 ID=201014
-21st Attack Squad Commander
+21st Attack Squad Major
 
 ID=201015
 Captain Andy
@@ -638,13 +638,13 @@ ID=201019
 Clark
 
 ID=201020
-Logistician
+Operations Officer
 
 ID=201021
 Medical Officer
 
 ID=201022
-Medical Corps Major
+Medical Captain
 
 ID=201023
 Medical Officer
@@ -671,7 +671,7 @@ ID=201030
 NED Employee
 
 ID=201031
-General Merchant
+Trader
 
 ID=201032
 Blacksmith
@@ -695,16 +695,16 @@ ID=201038
 Tactician
 
 ID=201039
-Volunteer Corps
+SFL Militia
 
 ID=201040
-Volunteer Corps
+SFL Militia
 
 ID=201041
-NED Director
+NED Manager
 
 ID=201042
-NED Director
+NED Manager
 
 ID=201043
 NED Mercenary
@@ -722,7 +722,7 @@ ID=201047
 Henry's Secretary
 
 ID=201048
-Starry Forest League Soldier
+SFL Soldier
 
 ID=201049
 NED Researcher
@@ -731,7 +731,7 @@ ID=201050
 Capsule Device
 
 ID=201051
-General Merchant
+Trader
 
 ID=201052
 Blacksmith
@@ -743,10 +743,10 @@ ID=201054
 High Efficiency Mail System
 
 ID=201055
-Deputy
+West Interim Captain
 
 ID=201056
-Western Squad Lieutenant
+Western Squad Captain
 
 ID=201057
 Western Squad Officer
@@ -764,10 +764,10 @@ ID=201061
 Prime Lab Tech
 
 ID=201062
-Mobile Tank Operations Soldier
+Tank Operator
 
 ID=201063
-Mobile Tank Operations Soldier
+Tank Operator
 
 ID=201064
 NED Secretary
@@ -779,7 +779,7 @@ ID=201066
 NED Secretary
 
 ID=201067
-NED Director
+NED Manager
 
 ID=201068
 Western Squad Officer
@@ -788,10 +788,10 @@ ID=201069
 Western Squad Officer
 
 ID=201070
-Maintenance SQD
+Maintenance Chief
 
 ID=201071
-Maintenance SQD
+Maintenance Chief
 
 ID=201072
 Support Operations Soldier
@@ -806,16 +806,16 @@ ID=201075
 Unknown Entity
 
 ID=201076
-Control PC
+Central Control Computer
 
 ID=201077
-Dave Town Resident
+Resident
 
 ID=201078
-Dave Town Resident
+Resident
 
 ID=201079
-General Merchant
+Trader
 
 ID=201080
 Blacksmith
@@ -833,7 +833,7 @@ ID=201084
 Grieving Widow
 
 ID=201085
-Artist
+First-Rate Artist
 
 ID=201086
 Lion PD
@@ -851,16 +851,16 @@ ID=201090
 Tuning Expert
 
 ID=201091
-Cyclist
+Motorcycle Technician
 
 ID=201092
 Craftsman
 
 ID=201093
-Honest Young Man
+Honorable Young Man
 
 ID=201094
-Home Visitor
+A Visiting Woman
 
 ID=201095
 Recluse
@@ -875,25 +875,25 @@ ID=201098
 Tuning Expert
 
 ID=201099
-Cyclist
+Motorcycle Technician
 
 ID=201100
 Craftsman
 
 ID=201101
-Western Squad Officer
+Western Squad Captain
 
 ID=201102
 Helicopter Pilot
 
 ID=201103
-Matron
+Nursing Director
 
 ID=201104
-Affluent Man
+Intrusive Young Lad
 
 ID=201105
-Snooty Brat
+A Precocious Girl
 
 ID=201106
 Defense Facilities Personnel
@@ -902,34 +902,34 @@ ID=201107
 Golden Retriever
 
 ID=201108
-Combatant
+Attack Squad Officer
 
 ID=201109
-Combatant
+Attack Squad Officer
 
 ID=201110
-Combatant
+Attack Squad Officer
 
 ID=201111
-Combatant
+Attack Squad Officer
 
 ID=201112
-Scout Leader
+Reconnaissance Captain
 
 ID=201113
 Combat Veteran
 
 ID=201114
-Communications Officer
+Communications Captain
 
 ID=201115
-Ex-NED Staff
+Former NED Infrastructure Staff
 
 ID=201116
-Maintenance Operations Officer
+Maintenance Officer
 
 ID=201117
-Repenter
+A Guilty Man
 
 ID=201118
 Blood SoulWorker
@@ -938,7 +938,7 @@ ID=201119
 Demigod
 
 ID=201120
-Vice Lab Tech
+ST Vice Lab Tech
 
 ID=201121
 Communications Officer
@@ -950,7 +950,7 @@ ID=201123
 High-Performance AI
 
 ID=201124
-Akasha
+Soul Manipulator
 
 ID=201125
 Guild Manager
@@ -959,7 +959,7 @@ ID=201126
 NBRF
 
 ID=201127
-Control Base
+Semi-Autonomous AI
 
 ID=201128
 Battlefield Administrator
@@ -977,7 +977,7 @@ ID=201132
 Quest NPC
 
 ID=201133
-HEMS
+Mail Device
 
 ID=201134
 Lonely Child
@@ -995,16 +995,16 @@ ID=201142
 Aaron's Daughter
 
 ID=201143
-Wax Figure
+Wax Model
 
 ID=201144
-Wax Figure
+Wax Model
 
 ID=201145
-Wax Figure
+Wax Model
 
 ID=201146
-Wax Figure
+Wax Model
 
 ID=201147
 Nave
@@ -1019,7 +1019,7 @@ ID=201150
 Billy
 
 ID=201151
-Potentate
+Mysterious Millionaire
 
 ID=201152
 Mysterious Child
@@ -1028,7 +1028,7 @@ ID=201153
 Booker TV's Bandit
 
 ID=201154
-Starry Forest League Pilot
+SFL Pilot
 
 ID=201155
 Akasha Engineer
@@ -1061,7 +1061,7 @@ ID=101241
 Mixmaster Ver. B
 
 ID=201240
-Manufacturing
+Processing Machine
 
 ID=101249
 Shion
@@ -1079,7 +1079,7 @@ ID=101311
 Room Keeper
 
 ID=201251
-Room Manager
+Room Management
 
 ID=201252
 Mysterious Child
@@ -1118,28 +1118,28 @@ ID=101256
 Ralph
 
 ID=101258
-Shadow Walker
+Shadow
 
 ID=101259
-Shadow Walker
+Shadow
 
 ID=101260
-Shadow Walker
+Shadow
 
 ID=101261
-Shadow Walker
+Shadow
 
 ID=101262
-Shadow Walker
+Shadow
 
 ID=101263
-Shadow Walker
+Shadow
 
 ID=201256
 Legendary SoulWorker
 
 ID=201257
-Void Captain
+Void Commander
 
 ID=201258
 Void Squad Leader
@@ -1181,13 +1181,13 @@ ID=101312
 Sedurin
 
 ID=101313
-ESP Unit
+ESP Trooper
 
 ID=101314
-ESP Unit
+ESP Trooper
 
 ID=101315
-ESP Unit
+ESP Trooper
 
 ID=101316
 Sora
@@ -1196,7 +1196,7 @@ ID=101317
 Sensun
 
 ID=101318
-Ladi
+Road
 
 ID=101319
 Kainbarrel
@@ -1217,13 +1217,13 @@ ID=201274
 Deranged
 
 ID=201275
-Luckforce
+Void Support Team
 
 ID=201276
 Combat Veteran
 
 ID=201277
-DesireWorker
+Collapsed DesireWorker
 
 ID=101330
 Aqua Glutton
@@ -1235,7 +1235,7 @@ ID=100000
 ???
 
 ID=201158
-Maintenance SQD
+Maintenance Chief
 
 ID=101338
 Tenebris' Phantom
@@ -1283,19 +1283,19 @@ ID=101350
 Lerfenne
 
 ID=101351
-Young Catherine
+Catherine
 
 ID=201278
 Panic Stricken
 
 ID=201279
-Tactician facing a crisis
+Tactician Facing A Crisis
 
 ID=201280
 SoulJunk Slaughterer
 
 ID=201281
-Prisoner of War
+Captured Veshi Girl
 
 ID=101242
 Shion
@@ -1313,10 +1313,10 @@ ID=201393
 Fallen
 
 ID=201405
-Squad Commander
+Force Strike Commander
 
 ID=201406
-Squad Tactician
+Force Strike Tactician
 
 ID=201407
 War Hero
@@ -1328,13 +1328,13 @@ ID=201409
 Dispatched Clergyman
 
 ID=201410
-Doctor
+Civilian Supporters
 
 ID=201411
-Ex-NED Secretary
+Former NED Secretary
 
 ID=101404
-Trader Support
+Merchant Support Device
 
 ID=201404
 Trade/Tasks
@@ -1370,16 +1370,16 @@ ID=101402
 Nihil Kingdom Soldier
 
 ID=101403
-Shadow Walker
+Shadow
 
 ID=201420
-Person Who Took the Shape of Arua
+Chii Morph
 
 ID=101431
-Blue Tome
+Old Blue Book
 
 ID=101432
-Yellow Tome
+Old Yellow Book
 
 ID=101444
 Yorhaka
@@ -1391,10 +1391,10 @@ ID=101447
 Barber
 
 ID=101448
-Shadow Walker
+Shadow
 
 ID=101471
-Franma
+Flamma
 
 ID=101472
 Rosca
@@ -1412,22 +1412,22 @@ ID=201462
 Someone of Justice
 
 ID=201463
-A dispirited observer
+Aloof Observer
 
 ID=201464
-Fortune Corps War Support Team
+Fortune Corps Support Team
 
 ID=201465
-General Commander of the Force Strike
+Force Strike Commander
 
 ID=201466
-Chief of War Research
+War Investigation Squad Leader
 
 ID=201467
-Hard Working Bashai Girl
+Stubborn Veshi Girl
 
 ID=201468
-A targeted scientist
+Targeted Scientist
 
 ID=101478
 Smith
@@ -1445,7 +1445,7 @@ ID=101484
 Robert
 
 ID=101485
-Trader Support
+Merchant Support Device
 
 ID=201478
 A lazy-looking soldier
@@ -1457,7 +1457,7 @@ ID=201482
 New Air Force Soldier
 
 ID=201483
-Honest Young Man
+Honorable Young Man
 
 ID=201484
 A disappointed young man
