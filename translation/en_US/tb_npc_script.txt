@@ -527,13 +527,13 @@ ID=101177
 SFL Scout
 
 ID=101178
-Director Miriam
+Miriam
 
 ID=101179
 Ryu
 
 ID=101180
-Director Miriam
+Miriam
 
 ID=101181
 Access NPC
