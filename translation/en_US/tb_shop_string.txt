@@ -56,7 +56,7 @@ ID=54
 Familiar
 
 ID=55
-Pets
+Pet
 
 ID=71
 SoulWeapon
@@ -104,7 +104,7 @@ ID=124
 Leg Guards
 
 ID=130
-Earrings
+Earring
 
 ID=131
 Necklace
@@ -131,7 +131,7 @@ ID=210
 Set
 
 ID=211
-Head Decoration
+Head
 
 ID=212
 Hairstyle
@@ -200,7 +200,7 @@ ID=524
 Leg Guards
 
 ID=531
-Head Decoration
+Head
 
 ID=532
 Hairstyle
@@ -233,7 +233,7 @@ ID=541
 Familiar
 
 ID=551
-Pets
+Pet
 
 ID=601
 Akasha
@@ -578,7 +578,7 @@ ID=4150
 Fashion
 
 ID=4151
-Head Decoration
+Head
 
 ID=4152
 Eyes
