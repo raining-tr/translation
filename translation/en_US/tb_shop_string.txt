@@ -101,7 +101,7 @@ ID=123
 Chest
 
 ID=124
-Leg Guards
+Legs
 
 ID=130
 Earrings
@@ -197,7 +197,7 @@ ID=523
 Chest
 
 ID=524
-Leg Guards
+Legs
 
 ID=531
 Head
@@ -551,7 +551,7 @@ ID=4103
 Chest
 
 ID=4104
-Leg Guards
+Legs
 
 ID=4110
 Material Processing
