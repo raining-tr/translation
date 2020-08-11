@@ -98,7 +98,7 @@ ID=122
 Shoulderguards
 
 ID=123
-Chest
+Chest Guard
 
 ID=124
 Leg Guards
@@ -194,7 +194,7 @@ ID=522
 Shoulderguards
 
 ID=523
-Chest
+Chest Guard
 
 ID=524
 Leg Guards
@@ -548,7 +548,7 @@ ID=4102
 Shoulderguards
 
 ID=4103
-Chest
+Chest Guard
 
 ID=4104
 Leg Guards
