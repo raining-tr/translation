@@ -56,7 +56,7 @@ ID=54
 Familiar
 
 ID=55
-Pets
+Pet
 
 ID=71
 SoulWeapon
@@ -95,7 +95,7 @@ ID=121
 Helmet
 
 ID=122
-Shoulder Guards
+Shoulderguards
 
 ID=123
 Chest Guard
@@ -131,7 +131,7 @@ ID=210
 Set
 
 ID=211
-Head Decoration
+Head
 
 ID=212
 Hairstyle
@@ -191,7 +191,7 @@ ID=521
 Helmet
 
 ID=522
-Shoulder Guards
+Shoulderguards
 
 ID=523
 Chest Guard
@@ -200,7 +200,7 @@ ID=524
 Leg Guards
 
 ID=531
-Head Decoration
+Head
 
 ID=532
 Hairstyle
@@ -233,7 +233,7 @@ ID=541
 Familiar
 
 ID=551
-Pets
+Pet
 
 ID=601
 Akasha
@@ -269,13 +269,13 @@ ID=1002
 Package
 
 ID=1003
-Fashion (Appearance)
+Appearance
 
 ID=1004
 Fashion
 
 ID=1005
-Interior Furniture
+Interior
 
 ID=1006
 Comfort
@@ -323,7 +323,7 @@ ID=1405
 Shoes
 
 ID=1406
-Look
+Style
 
 ID=1407
 Underwear
@@ -416,7 +416,7 @@ ID=2208
 Door
 
 ID=2209
-Patio Door
+Terrace Door
 
 ID=2210
 Wallpaper
@@ -428,7 +428,7 @@ ID=2212
 Ceiling
 
 ID=3100
-Manufacturing
+Processing
 
 ID=3101
 Ingot
@@ -479,7 +479,7 @@ ID=3209
 Door
 
 ID=3210
-Patio Door
+Terrace Door
 
 ID=3211
 Wallpaper
@@ -494,7 +494,7 @@ ID=3300
 Gardening
 
 ID=3301
-Plants
+Seeds
 
 ID=3302
 Other
@@ -545,7 +545,7 @@ ID=4101
 Helmet
 
 ID=4102
-Shoulder Guards
+Shoulderguards
 
 ID=4103
 Chest Guard
@@ -554,10 +554,10 @@ ID=4104
 Leg Guards
 
 ID=4110
-Material Processing
+Materials
 
 ID=4111
-Mineral
+Minerals
 
 ID=4112
 Armor Core
@@ -578,7 +578,7 @@ ID=4150
 Fashion
 
 ID=4151
-Head Decoration
+Head
 
 ID=4152
 Eyes
@@ -596,7 +596,7 @@ ID=4156
 Feet
 
 ID=4157
-Hammer Stol
+Suit
 
 ID=4201
 Soulum
@@ -647,10 +647,10 @@ ID=4400
 Ally Equipment
 
 ID=4401
-Weaponry
+Offensive Equip.
 
 ID=4402
-Defensive Items
+Defensive Equip.
 
 ID=4500
 Other
@@ -710,7 +710,7 @@ ID=5003
 Fashion
 
 ID=5004
-AR Card
+Akasha
 
 ID=5005
 Vehicle
@@ -722,7 +722,7 @@ ID=5101
 Functional
 
 ID=5102
-AR Card
+Akasha
 
 ID=5103
 Brooch
@@ -791,7 +791,7 @@ ID=5203
 Fashion
 
 ID=5204
-Fashion (Appearance)
+Appearance
 
 ID=5205
 Comfort
@@ -878,13 +878,13 @@ ID=8002
 Package
 
 ID=8003
-Fashion (Appearance)
+Appearance
 
 ID=8004
 Fashion
 
 ID=8005
-Interior Furniture
+Interior
 
 ID=8006
 Comfort
@@ -1163,10 +1163,10 @@ ID=8030
 Material Exchange
 
 ID=4900
-Manufacturing
+Processing
 
 ID=4901
-Manufacturing
+Processing
 
 ID=4008
 Window
