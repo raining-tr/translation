@@ -1,0 +1,587 @@
+ID=15
+Stamina Recovery
+The amount of stamina you recover each second.
+
+ID=18
+Movement Speed
+The speed at which you move.
+
+ID=19
+Attack Speed
+The speed at which you attack.
+
+ID=21
+Attack Damage
+The min. and max. damage that you can inflict on enemies.
+
+ID=24
+Defense
+Reduces incoming damage from enemy attacks.\nDefense rating: reduces by {0}% with an identical level.\nDefense rating adjusts with level differences.
+
+ID=26
+Accuracy
+Reduces the chance of only landing a partial hit.
+
+ID=28
+Partial Damage
+The damage rate that applies when you make a partial hit.
+
+ID=29
+Critical Hit
+The chance of landing a critical hit and the amount of damage it adds. (Based on max. damage)
+
+ID=31
+Critical Resistance
+Reduces the chance of suffering a critical hit.
+
+ID=35
+Critical Damage
+Additional damage that you inflict with a critical hit.
+
+ID=38
+Damage Reduction
+Reduces the damage taken from enemy attacks.
+
+ID=43
+Evasion
+Increases the chance of enemy attacks missing.
+
+ID=47
+Penetration
+Ignores the enemy’s defense by the corresponding value.
+
+ID=49
+Burn Resistance
+Reduces the chance of receiving burns.
+
+ID=50
+Poison Resistance
+Reduces the chance of being poisoned.
+
+ID=51
+Shock Resistance
+Reduces the chance of suffering electrocution.
+
+ID=52
+Bleed Resistance
+Reduces the chance of bleeding.
+
+ID=53
+Stun Resistance
+Reduces the chance of being stunned.
+
+ID=54
+Paralysis Resistance
+Reduces the chance of becoming paralyzed.
+
+ID=11000
+Greet
+You wave joyfully.
+
+ID=11001
+Laugh
+You laugh heartily.
+
+ID=11002
+Sad
+You weep uncontrollably.
+
+ID=11003
+Cheer
+You encourage everyone.
+
+ID=11004
+Sit
+You sit down and relax.
+
+ID=11005
+Dancing
+You dance wildly.
+
+ID=11006
+Provoke
+You threaten with intent.
+
+ID=11007
+Boast
+You pose with pride.
+
+ID=11008
+Idol
+You pose like an idol.
+
+ID=11009
+Maid
+You act like a servant.
+
+ID=11010
+Butler
+You act like a servant.
+
+ID=11011
+Supermodel
+You pose like a supermodel.
+
+ID=11012
+Sunbathing
+You relax in the sun.
+
+ID=11013
+School Swimsuit
+You enact swimming movements.
+
+ID=11014
+Bunny
+You act like a clueless little bunny.
+
+ID=11015
+Happy Holidays
+You wish a very happy holidays to everyone!
+
+ID=11016
+Yukata
+You celebrate grandly.
+
+ID=11017
+Hanbok
+You pose in traditional Korean attire.
+
+ID=11018
+Patissier
+You show off your best pastry chef skills.
+
+ID=11019
+Spiral Cats 1
+You show off your Spiral Cats skills 1.
+
+ID=11020
+Spiral Cats 2
+You show off your Spiral Cats skills 2.
+
+ID=11021
+White Day
+You celebrate White Day.
+
+ID=11022
+Steampunk
+You show off your advanced technology.
+
+ID=11023
+Sweetie-Pie 1
+As a maid you're a real sweetie-pie 1.
+
+ID=11024
+Sweetie-Pie 2
+As a maid you're a real sweetie-pie 2.
+
+ID=11025
+Sun Kiss
+You tan yourself in the sun.
+
+ID=20000
+Inventory
+Opens/closes the inventory. \nLook through items in your possession and use them as you wish.
+
+ID=20001
+Profile
+Opens/closes the profile.\nCheck your current equipment, stats, titles, and costumes.
+
+ID=20003
+Skills
+Opens/closes the skill menu.\nAdd skills, Akasha skills and gestures to your quick slots.
+
+ID=20008
+Quests
+Opens/closes the quest window.\nCheck on quests in progress and ones you have completed.
+
+ID=20016
+Profile
+Opens/closes the profile.\nCheck your current equipment, stats, titles, and costumes.
+
+ID=20023
+Community
+Opens/closes the community window.\nCheck information on friends, guild members and blocked players.
+
+ID=20034
+SoulSequence
+Opens/closes the SoulSequence window.\nCheck details on SoulSequences in your possession and view the SoulSequences that you have collected.
+
+ID=20036
+System
+Opens the system menu.
+
+ID=20038
+Progress
+Opens/closes the game progress window.\nCheck details on your achievements, progress and collect bonus rewards.
+
+ID=20045
+Team Search
+Opens/closes team search window.\nYou can search for teams or players searching for a team to group up.
+
+ID=20053
+Allies
+Opens/closes the Allies window.\nApply gear to your allies and summon or dismiss them.
+
+ID=20055
+Guild
+Opens/closes the guild page.
+
+ID=20064
+Market
+Opens/closes the market.
+
+ID=20065
+Rankings
+Opens/closes the rankings window.
+
+ID=20080
+Mount
+Opens/closes the mount window.
+
+ID=20100
+My Room
+Enter your room.
+
+ID=21000
+Experience Points (EXP)
+You receive {0} EXP.
+
+ID=21001
+Zenny
+You receive {0} ZN.
+
+ID=21002
+Battle Points
+You receive {0} BP
+
+ID=21003
+Ether
+You receive {0} Ether.
+
+ID=21004
+Title
+You received the title {0} {1}.
+
+ID=30000
+Consumable Quick Slot
+You can add and use some consumables in the provided quick slot.
+
+ID=30001
+Use Mini-map/Map
+Use the mini-map and zone map to be able to see important info at all times such as quests, NPC names, etc.
+
+ID=30002
+Quest UI
+The quest log provides you with an overview of individual quests.
+
+ID=30003
+UI Mode
+Press [ALT] to switch the UI mode and to set the mouse to cursor mode.
+
+ID=30004
+Gathering Ether
+You gather Ether by defeating monsters. You will need it as a material for upgrading and evolution.
+
+ID=30005
+Gathering SoulNova
+SoulNova (SN) is obtained by defeating monsters and attacking objects. It is required as a material for the Nova skill. (Can be used after completing the correspondent quest.)
+
+ID=30006
+Combos
+Execute combos directly after one another to generate additional positive effects.
+
+ID=30007
+Gathering Items
+Qubes are containers that come in both common and also rare forms. There are items to be found in every qube.
+
+ID=30008
+Nova Skill
+Fill your SN bar to be able to use your Nova skill.
+
+ID=30009
+Teamplay
+Form a team and enter a district together. You’ll then benefit from team advantages and progress through battles more quickly.
+
+ID=30010
+Using Skill Points
+Use your skill points (SP) to improve your skills or to learn their SoulPlus.
+
+ID=30011
+Shop Actions
+You can buy or sell items in the shop.
+
+ID=30012
+HEMS
+Send your friends messages and even attach items.
+
+ID=30013
+Bank
+Use the bank to safely store your items and zenny.
+
+ID=30014
+Crafting
+Gather blueprints and materials to craft usable items.
+
+ID=30015
+Upgrading
+Use upgrade materials and Ether to improve your equipment.
+
+ID=30016
+Dismantling
+Dismantle unwanted items for useful materials.
+
+ID=30017
+Special Quests (SQ)
+In daily quests, which appear once per day, you can earn Glutton Coins, which can then be used in the Glutton Bazaar.
+
+ID=30018
+Hidden Quests (HQ)
+Sometimes hidden quests appear in certain corners of districts. If you complete their objective, you will receive additional rewards at the end of the district.
+
+ID=30019
+Achievements
+Collect rewards for achievements in the progress menu.
+
+ID=30020
+SoulSequence
+You will be able to find SoulSequences in some of the districts that you have already completed. If you complete a SoulSequence, you can claim a reward in the progress menu.
+
+ID=30021
+Progression
+Every district completion increases your progress. The progress of all districts within a city zone decide the subordinate zone progress.
+
+ID=30022
+Title
+Gather different titles and decide which ones best represent your style.
+
+ID=30023
+Energy
+With increasing level and depending on the type of district you enter, you consume energy points (EP). If you do not have enough EP, you will not be able to enter any districts.
+
+ID=30024
+Help
+Click on the help symbol to receive helpful information on the related game action.
+
+ID=30025
+VIP Level
+NPCs that you visit to carry out functions repay you with a VIP status, which improves the more you visit them. The higher your VIP level, the more advantages you receive.
+
+ID=30026
+Allies
+Meet unusual companions on your quests. These allies will then help you in different ways during combat.
+
+ID=30027
+My Room
+As a SoulWorker you have your very own room. This closed-off area allows you to let your hair down between district runs and relax with friends.
+
+ID=30028
+Guild
+A guild can be used to extend contact, share info and increase the game experience.
+
+ID=30029
+Durability
+If the durability of an item sinks too low, it will no longer be of any use to you.
+
+ID=30030
+Sub-Weapon
+Equip a sub-weapon to increase your stats and add bonuses.
+
+ID=30031
+Artifact
+By collecting and equipping various artifacts, you can improve your character's attributes.
+
+ID=30032
+Familiar
+You can find sockets on special SoulWeapons and armor. Socket on a familiar to improve the stats of the equipment.
+
+ID=30033
+Akasha Fuse/Development
+You can use Akasha cards in 3 ways: fuse them to increase your AXP; add them to increase your AK rank; merge them to increase their AK rarity.
+
+ID=30034
+Gathering Akasha
+You can equip or unequip any Akasha cards you've received via the Akasha Record menu.
+
+ID=30035
+Setting/Using Akasha
+You can access your active and passive Akasha skills during battle once you've registered them in the Akasha Record and individually equipped each of them.
+
+ID=30036
+Endgame
+Endgame content
+
+ID=30037
+Item Achievements
+Item Progress: {0}%
+
+ID=30038
+District Achievements
+District Progress: {0}%
+
+ID=30039
+Combat Achievements
+Combat Progress: {0}%
+
+ID=30040
+Quest Achievements
+Quest Progress: {0}%
+
+ID=30041
+Game Achievements
+Total Game Progress: {0}%
+
+ID=30042
+Community Achievements
+Community Progress: {0}%
+
+ID=30043
+Summon Allies
+Allies can be summoned by pressing [F3] in a district or by opening the Ally window using [Y].
+
+ID=30044
+Raid Achievements
+Raid Progress: {0}%
+
+ID=21005
+Zenny
+This is the currency used in shops and the market.\nIt can be earned by killing monsters or via various rewards.
+
+ID=21006
+Ether
+This is the currency used for upgrading and tuning.\nIt can be earned by killing monsters or dismantling.
+
+ID=21007
+BP
+This is the currency used in certain special shops.\nIt can be earned by killing powerful monsters or via various rewards.
+
+ID=21008
+Raining Coins
+This is the currency used to purchase items in the Item Mall.\nIt can be purchased via our website.
+
+ID=11026
+Reindeer Transformation
+Turn into a reindeer.
+
+ID=11027
+Hanbok B
+Hanbok B accentuates your figure.
+
+ID=11028
+Figure Skating
+Glide over the ice in an elegant routine.
+
+ID=11029
+Yin & Yang
+Pose in the symbol of Yin & Yang.
+
+ID=11030
+Yukata B
+Take a Yukata B gesture
+
+ID=11031
+Glutton Greeting
+Greet like a glutton would.
+
+ID=11032
+Agent
+Show off your skills.
+
+ID=11033
+Sea Breeze 1
+Enjoying the summer days 1.
+
+ID=11034
+Sea Breeze 2
+Enjoying the summer days 2.
+
+ID=11035
+Marching Band
+Take part in the marching band.
+
+ID=11036
+Holy Seat
+Bless those around you with a prayer.
+
+ID=11037
+Blooming Dress
+You blossom like a beautiful flower.
+
+ID=11038
+Holy Knight
+Take the Holy Knight gesture
+
+ID=11039
+Blooming Dress
+You blossom like a beautiful flower.
+
+ID=11040
+Silver Knight
+Take the Silver Knight gesture
+
+ID=11041
+Animal Pajamas
+Celebrate in your favorite animal look.
+
+ID=11042
+Servant
+Serve coffee like a pro.
+
+ID=11043
+Sailor
+Act like a sailor.
+
+ID=1000
+Level EXP
+{0} / {1} ({2}%)
+
+ID=1001
+Rank EXP
+{0}\n{1} / {2} ({3}%)
+
+ID=1002
+Rank
+{0}
+
+ID=10
+HP
+The player's hit points (HP). The player will be incapacitated when HP reaches 0.
+
+ID=14
+Stamina
+Consumed when the player evades or uses skills.
+
+ID=103
+Extra Damage: Basic
+Extra damage against standard monsters increases by this rate.
+
+ID=104
+Extra Damage: Boss/Named
+Extra damage against bosses and named monsters increases by this rate.
+
+ID=100
+Shorter Cooldown
+The cooldown time of skills reduces by this rate.
+
+ID=11044
+Desire Worker
+You do a Desire Worker gesture.
+
+ID=11045
+Desire Awakening
+You do a Desire Awakening gesture.
+
+ID=11046
+Bad Blood Ball
+You're showing your best bad side.
+
+ID=11047
+Soul Kitty
+Here, kitty, kitty!
+
+ID=11048
+Into the Dreamworld
+The world is melting.. what is the dream, and what is reality?
+
+ID=21023
+Mileage Points
+When purchasing cash items, you can purchase products at the mileage shop with the provided goods.\nThe accumulated mileage is reset on the 1st of each month and can be used until 23:59 on the last day of each month.
