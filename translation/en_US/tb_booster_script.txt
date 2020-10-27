@@ -4,29 +4,43 @@ Provided at party creation
 Icon/Booster/Icon_Booster_Party_Member2_NotFriend
 
 ID=2
+Party Bonus (2-Player)
+Provided at party creation
 Icon/Booster/Icon_Booster_Party_Member2_Friend1
 
 ID=3
 Party Bonus (3-Man)
+Provided at party creation
 Icon/Booster/Icon_Booster_Party_Member3_NotFriend
 
 ID=4
+Party Bonus (3-Man)
+Provided at party creation
 Icon/Booster/Icon_Booster_Party_Member3_Friend1
 
 ID=5
+Party Bonus (3-Man)
+Provided at party creation
 Icon/Booster/Icon_Booster_Party_Member3_Friend2
 
 ID=6
 Party Bonus (4-Man)
+Provided at party creation
 Icon/Booster/Icon_Booster_Party_Member4_NotFriend
 
 ID=7
+Party Bonus (4-Man)
+Provided at party creation
 Icon/Booster/Icon_Booster_Party_Member4_Friend1
 
 ID=8
+Party Bonus (4-Man)
+Provided at party creation
 Icon/Booster/Icon_Booster_Party_Member4_Friend2
 
 ID=9
+Party Bonus (4-Man)
+Provided at party creation
 Icon/Booster/Icon_Booster_Party_Member4_Friend3
 
 ID=10
@@ -42,63 +56,97 @@ Icon/Booster/Icon_Booster_Echelon
 ID=12
 Beginner C Rank Bonus
 Provided for Beginner C Rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=13
 Beginner B Rank Bonus
 Provided for Beginner B Rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=14
 Beginner A Rank Bonus
 Provided for Beginner A Rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=15
 Rank 5 Level Bonus
 Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=16
 Rank 6 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=17
 Rank 7 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=18
 Rank 8 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=19
 Rank 9 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=20
 Rank 10 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=21
 Rank 11 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=22
 Rank 12 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=23
 Rank 13 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=24
 Rank 14 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=25
 Rank 15 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=26
 Rank 16 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=27
 Rank 17 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=28
 Rank 18 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=29
 Rank 19 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=30
 Rank 20 Level Bonus
+Provided when earning a rank
+Icon/Booster/Icon_Booster_Echelon
 
 ID=101
 Internet-Cafe Bonus I
@@ -107,14 +155,17 @@ Icon/Booster/Icon_Booster_PC_Member1
 
 ID=102
 Internet-Cafe Bonus II
+The Drop rate is increased by 20%.
 Icon/Booster/Icon_Booster_PC_Member2
 
 ID=103
 Internet-Cafe Bonus III
+The Drop rate is increased by 20%.
 Icon/Booster/Icon_Booster_PC_Member3
 
 ID=104
 Internet-Cafe Bonus IV
+The Drop rate is increased by 20%.
 Icon/Booster/Icon_Booster_PC_Member4
 
 ID=620
@@ -124,48 +175,108 @@ Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=630
 Difficulty Bonus (Maniac)
+The bonus effect increases as the difficulty increases.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1001
 Raining Event (Go! Go! Go!)
 Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1002
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1003
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1004
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1005
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1006
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1007
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1008
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1009
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1010
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1011
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1012
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1013
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1014
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1015
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1016
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1017
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1018
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1019
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1020
+Raining Event (Go! Go! Go!)
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1101
 Raining Event (lucky day!)
@@ -173,62 +284,149 @@ Item drop rate increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1102
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1103
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1104
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1105
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1106
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1107
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1108
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1109
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1110
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1111
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1112
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1113
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1114
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1115
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1116
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1117
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1118
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1119
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1120
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1121
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1122
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1123
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1124
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1125
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1126
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1127
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1128
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1129
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1130
+Raining Event (lucky day!)
+Item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1201
 Burning event (how to get rich!)
@@ -236,42 +434,99 @@ Increases the chance of getting Zenny.
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1202
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1203
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1204
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1205
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1206
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1207
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1208
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1209
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1210
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1211
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1212
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1213
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1214
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1215
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1216
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1217
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1218
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1219
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1220
+Burning event (how to get rich!)
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1301
 Burning Event Bonus! Hot Time!
@@ -279,865 +534,2749 @@ Experience and Zenny are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1302
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1303
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1304
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1305
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1306
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1307
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1308
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1309
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1310
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1311
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1312
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1313
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1314
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1315
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1316
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1317
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1318
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1319
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1320
+Burning Event Bonus! Hot Time!
+Experience and Zenny are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1401
+Burning Event Bonus! Hot Time!
 EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1402
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1403
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1404
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1405
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1406
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1407
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1408
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1409
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1410
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1411
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1412
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1413
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1414
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1415
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1416
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1417
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1418
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1419
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1420
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1421
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1422
+Burning Event Bonus! Hot Time!
+EXP gain and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1501
+Burning Event Bonus! Hot Time!
 Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1502
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1503
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1504
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1505
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1506
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1507
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1508
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1509
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1510
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1511
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1512
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1513
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1514
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1515
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1516
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1517
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1518
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1519
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1520
+Burning Event Bonus! Hot Time!
+Increases your chances of getting Zenny and dropping items.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1601
+Burning Event Bonus! Hot Time!
 Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1602
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1603
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1604
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1605
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1606
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1607
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1608
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1609
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1610
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1611
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1612
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1613
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1614
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1615
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1616
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1617
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1618
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1619
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1620
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1700
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1701
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1702
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1703
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1704
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1705
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1706
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1707
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1708
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1709
+Burning Event Bonus! Hot Time!
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1710
+Burning Event Bonus! Hot Time!
 Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1711
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1712
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1713
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1714
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1715
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1716
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1717
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1718
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1719
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1800
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1801
+Burning Event Bonus! Hot Time!
 Experience and item Zenny chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1802
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1803
+Burning Event Bonus! Hot Time!
+Experience and item Zenny chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1810
 Class Burning Event Bonus! Hot Time!
 Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1811
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1812
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1813
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1814
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1815
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1816
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1817
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1818
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1819
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1820
+Class Burning Event Bonus! Hot Time!
 Experience, Zenny, and Item Drop chances for the target class increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1821
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny, and Item Drop chances for the target class increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1822
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny, and Item Drop chances for the target class increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1823
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny, and Item Drop chances for the target class increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1824
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny, and Item Drop chances for the target class increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1825
+Class Burning Event Bonus! Hot Time!
 Experience / Zenny gain rate increased for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1826
+Class Burning Event Bonus! Hot Time!
+Experience / Zenny gain rate increased for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1827
+Class Burning Event Bonus! Hot Time!
+Experience / Zenny gain rate increased for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1828
+Class Burning Event Bonus! Hot Time!
+Experience / Zenny gain rate increased for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1829
+Class Burning Event Bonus! Hot Time!
+Experience / Zenny gain rate increased for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1830
+Class Burning Event Bonus! Hot Time!
 Experience / Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1831
+Class Burning Event Bonus! Hot Time!
+Experience / Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1832
+Class Burning Event Bonus! Hot Time!
+Experience / Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1833
+Class Burning Event Bonus! Hot Time!
+Experience / Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1834
+Class Burning Event Bonus! Hot Time!
+Experience / Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1835
+Class Burning Event Bonus! Hot Time!
 Increases the chance of getting Zenny / item drop for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1836
+Class Burning Event Bonus! Hot Time!
+Increases the chance of getting Zenny / item drop for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1837
+Class Burning Event Bonus! Hot Time!
+Increases the chance of getting Zenny / item drop for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1838
+Class Burning Event Bonus! Hot Time!
+Increases the chance of getting Zenny / item drop for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1839
+Class Burning Event Bonus! Hot Time!
+Increases the chance of getting Zenny / item drop for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1840
+Class Burning Event Bonus! Hot Time!
 The chance to gain experience for the target class of the event is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1841
+Class Burning Event Bonus! Hot Time!
+The chance to gain experience for the target class of the event is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1842
+Class Burning Event Bonus! Hot Time!
+The chance to gain experience for the target class of the event is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1843
+Class Burning Event Bonus! Hot Time!
+The chance to gain experience for the target class of the event is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1844
+Class Burning Event Bonus! Hot Time!
+The chance to gain experience for the target class of the event is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1845
+Class Burning Event Bonus! Hot Time!
 Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1846
+Class Burning Event Bonus! Hot Time!
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1847
+Class Burning Event Bonus! Hot Time!
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1848
+Class Burning Event Bonus! Hot Time!
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1849
+Class Burning Event Bonus! Hot Time!
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1850
+Class Burning Event Bonus! Hot Time!
 Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1851
+Class Burning Event Bonus! Hot Time!
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1852
+Class Burning Event Bonus! Hot Time!
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1853
+Class Burning Event Bonus! Hot Time!
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1854
+Burning Event Bonus! Hot Time!
+Increases the drop rate of items for the targeted class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1855
+Burning Event Bonus! Hot Time!
+Increases the experience value/Zenny acquisition amount/item drop rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1856
+Burning Event Bonus! Hot Time!
+Increases the experience value/Zenny acquisition amount/item drop rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1857
+Burning Event Bonus! Hot Time!
+Increases the experience value/Zenny acquisition amount/item drop rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1858
+Burning Event Bonus! Hot Time!
+Increases the experience value/Zenny acquisition amount/item drop rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1859
+Burning Event Bonus! Hot Time!
+Increases the experience value/Zenny acquisition amount/item drop rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1860
+Burning Event Bonus! Hot Time!
+The amount of EXP/Zenny gained for the target class of the event increases
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1861
+Burning Event Bonus! Hot Time!
+The amount of EXP/Zenny gained for the target class of the event increases
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1862
+Burning Event Bonus! Hot Time!
+The amount of EXP/Zenny gained for the target class of the event increases
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1863
+Burning Event Bonus! Hot Time!
+The amount of EXP/Zenny gained for the target class of the event increases
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1864
+Burning Event Bonus! Hot Time!
+The amount of EXP/Zenny gained for the target class of the event increases
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1865
+Burning Event Bonus! Hot Time!
+The experience point/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1866
+Burning Event Bonus! Hot Time!
+The experience point/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1867
+Burning Event Bonus! Hot Time!
+The experience point/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1868
+Burning Event Bonus! Hot Time!
+The experience point/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1869
+Burning Event Bonus! Hot Time!
+The experience point/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1870
+Burning Event Bonus! Hot Time!
+The amount of Zenny gained/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1871
+Burning Event Bonus! Hot Time!
+The amount of Zenny gained/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1872
+Burning Event Bonus! Hot Time!
+The amount of Zenny gained/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1873
+Burning Event Bonus! Hot Time!
+The amount of Zenny gained/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1874
+Burning Event Bonus! Hot Time!
+The amount of Zenny gained/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1875
+Burning Event Bonus! Hot Time!
+The probability of acquiring experience points for the target class of the event increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1876
+Burning Event Bonus! Hot Time!
+The probability of acquiring experience points for the target class of the event increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1877
+Burning Event Bonus! Hot Time!
+The probability of acquiring experience points for the target class of the event increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1878
+Burning Event Bonus! Hot Time!
+The probability of acquiring experience points for the target class of the event increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1879
+Burning Event Bonus! Hot Time!
+The probability of acquiring experience points for the target class of the event increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1880
+Burning Event Bonus! Hot Time!
+The amount of Zenny obtained for the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1881
+Burning Event Bonus! Hot Time!
+The amount of Zenny obtained for the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1882
+Burning Event Bonus! Hot Time!
+The amount of Zenny obtained for the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1883
+Burning Event Bonus! Hot Time!
+The amount of Zenny obtained for the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1884
+Burning Event Bonus! Hot Time!
+The amount of Zenny obtained for the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1885
+Burning Event Bonus! Hot Time!
+Increases the drop rate of items for the targeted class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1886
+Burning Event Bonus! Hot Time!
+Increases the drop rate of items for the targeted class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1887
+Burning Event Bonus! Hot Time!
+Increases the drop rate of items for the targeted class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1888
+Burning Event Bonus! Hot Time!
+Increases the drop rate of items for the targeted class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1889
+Burning Event Bonus! Hot Time!
+Increases the drop rate of items for the targeted class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1910
+Burning Event Bonus! Hot Time!
+The reinforcement success rate of the reinforcing item increases by 5%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=1911
+Burning Event Bonus! Hot Time!
+Enhancement success rate of items to be strengthened increases by 10%
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=1912
+Burning Event Bonus! Hot Time!
+The reinforcement success rate of items to be reinforced increases by 15%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=1913
+Burning Event Bonus! Hot Time!
+The reinforcement success rate of the item being reinforced increases by 20%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=1914
+Burning Event Bonus! Hot Time!
+Enhancement success rate of items to be strengthened increases by 25%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=1915
+Burning Event Bonus! Hot Time!
+Enhancement success rate of reinforcing items increases by 30%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=1916
+Burning Event Bonus! Hot Time!
+Enhancement success rate of reinforcing items increases by 35%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=1917
+Burning Event Bonus! Hot Time!
+The reinforcement success rate of the reinforcing item increases by 40%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=1918
+Burning Event Bonus! Hot Time!
+Enhancement success rate of items to be strengthened increases by 45%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=1919
+Burning Event Bonus! Hot Time!
+The reinforcement success rate of the reinforcing item increases by 50%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=1920
+Burning Event Bonus! Hot Time!
+Increases the success rate of experience/Item reinforcement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1921
+Burning Event Bonus! Hot Time!
+Increases the success rate of experience/Item reinforcement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1922
+Burning Event Bonus! Hot Time!
+Increases the success rate of experience/Item reinforcement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1923
+Burning Event Bonus! Hot Time!
+Increases the success rate of experience/Item reinforcement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1924
+Burning Event Bonus! Hot Time!
+Increases the success rate of experience/Item reinforcement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1925
+Burning Event Bonus! Hot Time!
+Increases the success rate of EXP/Uenny acquisition/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1926
+Burning Event Bonus! Hot Time!
+Increases the success rate of EXP/Uenny acquisition/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1927
+Burning Event Bonus! Hot Time!
+Increases the success rate of EXP/Uenny acquisition/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1928
+Burning Event Bonus! Hot Time!
+Increases the success rate of EXP/Uenny acquisition/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1929
+Burning Event Bonus! Hot Time!
+Increases the success rate of EXP/Uenny acquisition/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1930
+Burning Event Bonus! Hot Time!
+Increases the probability of success of experience value/Zenny acquisition/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1931
+Burning Event Bonus! Hot Time!
+Increases the probability of success of experience value/Zenny acquisition/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1932
+Burning Event Bonus! Hot Time!
+Increases the probability of success of experience value/Zenny acquisition/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1933
+Burning Event Bonus! Hot Time!
+Increases the probability of success of experience value/Zenny acquisition/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1934
+Burning Event Bonus! Hot Time!
+Increases the probability of success of experience value/Zenny acquisition/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1935
+Burning Event Bonus! Hot Time!
+Increases the success rate of experience/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1936
+Burning Event Bonus! Hot Time!
+Increases the success rate of experience/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1937
+Burning Event Bonus! Hot Time!
+Increases the success rate of experience/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1938
+Burning Event Bonus! Hot Time!
+Increases the success rate of experience/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1939
+Burning Event Bonus! Hot Time!
+Increases the success rate of experience/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1940
+Burning Event Bonus! Hot Time!
+Increases the success rate of Zenny acquisition/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1941
+Burning Event Bonus! Hot Time!
+Increases the success rate of Zenny acquisition/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1942
+Burning Event Bonus! Hot Time!
+Increases the success rate of Zenny acquisition/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1943
+Burning Event Bonus! Hot Time!
+Increases the success rate of Zenny acquisition/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1944
+Burning Event Bonus! Hot Time!
+Increases the success rate of Zenny acquisition/item drop/item enhancement.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=2001
 Booster! [Be strong!]
+Experience gain is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2002
+Booster! [Be strong!]
+Experience gain is increased.
+Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2003
+Booster! [Be strong!]
+Experience gain is increased.
+Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2004
+Booster! [Be strong!]
+Experience gain is increased.
+Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2005
+Booster! [Be strong!]
+Experience gain is increased.
+Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2006
+Booster! [Be strong!]
+Experience gain is increased.
+Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2009
+Booster! [Be strong!]
+Experience gain is increased.
+Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2051
 Booster! [How to get rich!]
+Increases the chance of getting Zenny.
 Icon/Booster/Icon_Booster_item_Gold1
 
 ID=2052
+Booster! [How to get rich!]
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_item_Gold1
 
 ID=2053
+Booster! [How to get rich!]
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_item_Gold1
 
 ID=2054
+Booster! [How to get rich!]
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_item_Gold1
 
 ID=2055
+Booster! [How to get rich!]
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_item_Gold1
 
 ID=2056
+Booster! [How to get rich!]
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_item_Gold1
 
 ID=2101
 Booster! [Good luck day!]
+Item drop rate increased.
 Icon/Booster/Icon_Booster_item_Item1
 
 ID=2102
+Booster! [Good luck day!]
+Item drop rate increased.
+Icon/Booster/Icon_Booster_item_Item1
 
 ID=2103
+Booster! [Good luck day!]
+Item drop rate increased.
+Icon/Booster/Icon_Booster_item_Item1
 
 ID=2104
+Booster! [Good luck day!]
+Item drop rate increased.
+Icon/Booster/Icon_Booster_item_Item1
 
 ID=2105
+Booster! [Good luck day!]
+Item drop rate increased.
+Icon/Booster/Icon_Booster_item_Item1
 
 ID=2106
+Booster! [Good luck day!]
+Item drop rate increased.
+Icon/Booster/Icon_Booster_item_Item1
 
 ID=2107
+Booster! [Good luck day!]
+Item drop rate increased.
+Icon/Booster/Icon_Booster_item_Item1
 
 ID=2109
+Booster! [Good luck day!]
+Item drop rate increased.
+Icon/Booster/Icon_Booster_item_Item1
 
 ID=2110
+Booster! [Good luck day!]
+Item drop rate increased.
+Icon/Booster/Icon_Booster_item_Item1
 
 ID=2111
+Booster! [Good luck day!]
+Item drop rate increased.
+Icon/Booster/Icon_Booster_item_Item1
 
 ID=2112
+Booster! [Lucky day!]
+Item drop rate increases.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2201
+Booster! [Additional Item Drop]
+Item drop rate increases.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2202
+Booster! [Lucky day!]
+Item drop rate increases.
+Icon/Booster/Icon_Booster_item_Item1
 
 ID=2151
 Booster! [Beam]
+Experience, Zenny gain and item drop chance increased.
 Icon/Booster/Icon_Booster_Item_Burning1
 
 ID=2152
+Booster! [Beam]
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Item_Burning1
 
 ID=2153
+Booster! [Beam]
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Item_Burning1
 
 ID=2154
+Booster! [Beam]
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Item_Burning1
 
 ID=2155
+Booster! [Beam]
+Experience, Zenny gain and item drop chance increased.
+Icon/Booster/Icon_Booster_Item_Burning1
 
 ID=2156
+Booster! [Light speed!]
+Experience, Zenny acquisition, and item drop rate increase.
+Icon/Booster/Icon_Booster_Item_Burning1
+
+ID=2157
+Booster! [Light speed!]
+The probability of acquiring EXP through hunting increases.
+Icon/Booster/Icon_Booster_Item_Burning1
 
 ID=3001
 More Thing Church! Bonus
+EXP gain and item drop rate increased.
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=5111
 Day of week booster [Experience gain]
+Experience gain is increased.
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5121
 Day Booster [Increase Item Drop]
+Item drop rate increased.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5131
 Day Booster [Zenny Drop Increase]
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5141
 Day of week booster [Attack Attack]
 Attack power is increased.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5151
 Day Booster [Increase Defense]
 Armor increased.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5161
 Day Booster [Maximum Stamina Increase]
 Maximum health is increased.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5171
 Day Booster [Maximum Soul Increase]
 The maximum soul increases.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5211
+Day of week booster [Experience gain]
+Experience gain is increased.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5221
+Day Booster [Increase Item Drop]
+Item drop rate increased.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5231
+Day Booster [Zenny Drop Increase]
+Increases the chance of getting Zenny.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5241
+Day of week booster [Attack Attack]
+Attack power is increased.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5251
+Day Booster [Increase Defense]
+Armor increased.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5261
+Day Booster [Maximum Stamina Increase]
+Maximum health is increased.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5271
+Day Booster [Maximum Soul Increase]
+The maximum soul increases.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5281
 Day of week booster [reduces power consumption]
 Your power consumption is reduced.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5282
+Day of week booster [reduces power consumption]
+Your power consumption is reduced.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5283
+Day of week booster [reduces power consumption]
+Your power consumption is reduced.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5284
+Day of week booster [reduces power consumption]
+Your power consumption is reduced.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5291
 Day of week booster [hidden event confirmed appearance]
 Hidden event comes up with confirmation.
+Icon/Booster/Icon_Booster_DailyEvent
 
 ID=6001
 Class Burning Event (Go! Go! Go!)
 The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6002
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6003
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6004
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6005
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6006
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6007
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6008
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6009
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6010
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6011
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6012
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6013
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6014
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6015
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6016
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6017
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6018
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6019
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6020
+Class Burning Event (Go! Go! Go!)
+The acquisition experience of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6101
 Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6102
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6103
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6104
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6105
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6106
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6107
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6108
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6109
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6110
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6111
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6112
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6113
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6114
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6115
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6116
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6117
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6118
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6119
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6120
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6121
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6122
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6123
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6124
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6125
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6126
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6127
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6128
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6129
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6130
+Class Burning Event (Good Day to Transport!)
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6201
 Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6202
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6203
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6204
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6205
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6206
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6207
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6208
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6209
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6210
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6211
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6212
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6213
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6214
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6215
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6216
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6217
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6218
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6219
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6220
+Class Burning Event (How To Get Rich!)
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6301
 Class Burning Event Bonus! Hot Time!
 Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6302
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6303
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6304
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6305
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6306
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6307
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6308
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6309
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6310
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6311
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6312
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6313
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6314
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6315
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6316
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6317
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6318
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6319
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6320
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny's chance to increase the class of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6401
+Class Burning Event Bonus! Hot Time!
 Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6402
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6403
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6404
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6405
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6406
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6407
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6408
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6409
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6410
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6411
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6412
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6413
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6414
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6415
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6416
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6417
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6418
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6419
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6420
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6421
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6422
+Class Burning Event Bonus! Hot Time!
+Experience gained and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6501
+Class Burning Event Bonus! Hot Time!
 Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6502
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6503
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6504
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6505
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6506
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6507
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6508
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6509
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6510
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6511
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6512
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6513
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6514
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6515
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6516
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6517
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6518
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6519
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6520
+Class Burning Event Bonus! Hot Time!
+Increases the chance of obtaining Zenny and dropping items from the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6601
+Class Burning Event Bonus! Hot Time!
 Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6602
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6603
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6604
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6605
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6606
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6607
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6608
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6609
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6610
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6611
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6612
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6613
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6614
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6615
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6616
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6617
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6618
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6619
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6620
+Class Burning Event Bonus! Hot Time!
+Experience, class and chance of dropping items will increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6800
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6801
+Burning Event Bonus! Hot Time!
+Experience and item Zenny chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6802
+Burning Event Bonus! Hot Time!
+Experience and item drop rate increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6803
+Burning Event Bonus! Hot Time!
+Experience and item Zenny chance increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6804
+[Attack Speed] Enhancement Booster
+Attack Speed increases
+Icon/Booster/Icon_Booster_FlashPerfume
+
+ID=6805
+[Critical Chance] Enhancement Booster
+Critical Chance increased.
+Icon/Booster/Icon_Booster_LightingPerfume
 
 ID=6810
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6811
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6812
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6813
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6814
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6815
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6816
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6817
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6818
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6819
+Class Burning Event Bonus! Hot Time!
+Experience gained from Killing Monsters / Dungeon Clear / Quest Clear is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6820
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny, and Item Drop chances for the target class increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6821
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny, and Item Drop chances for the target class increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6822
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny, and Item Drop chances for the target class increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6823
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny, and Item Drop chances for the target class increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6824
+Class Burning Event Bonus! Hot Time!
+Experience, Zenny, and Item Drop chances for the target class increase.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6825
+Class Burning Event Bonus! Hot Time!
+Experience / Zenny gain rate increased for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6826
+Class Burning Event Bonus! Hot Time!
+Experience / Zenny gain rate increased for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6827
+Class Burning Event Bonus! Hot Time!
+Experience / Zenny gain rate increased for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6828
+Class Burning Event Bonus! Hot Time!
+Experience / Zenny gain rate increased for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6829
+Class Burning Event Bonus! Hot Time!
+Experience / Zenny gain rate increased for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6830
+Class Burning Event Bonus! Hot Time!
+Experience / Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6831
+Class Burning Event Bonus! Hot Time!
+Experience / Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6832
+Class Burning Event Bonus! Hot Time!
+Experience / Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6833
+Class Burning Event Bonus! Hot Time!
+Experience / Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6834
+Class Burning Event Bonus! Hot Time!
+Experience / Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6835
+Class Burning Event Bonus! Hot Time!
 Increases the chance of earning Zenny or dropping items for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6836
+Class Burning Event Bonus! Hot Time!
+Increases the chance of earning Zenny or dropping items for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6837
+Class Burning Event Bonus! Hot Time!
+Increases the chance of earning Zenny or dropping items for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6838
+Class Burning Event Bonus! Hot Time!
+Increases the chance of earning Zenny or dropping items for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6839
+Class Burning Event Bonus! Hot Time!
+Increases the chance of earning Zenny or dropping items for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6840
+Class Burning Event Bonus! Hot Time!
+The chance to gain experience for the target class of the event is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6841
+Class Burning Event Bonus! Hot Time!
+The chance to gain experience for the target class of the event is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6842
+Class Burning Event Bonus! Hot Time!
+The chance to gain experience for the target class of the event is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6843
+Class Burning Event Bonus! Hot Time!
+The chance to gain experience for the target class of the event is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6844
+Class Burning Event Bonus! Hot Time!
+The chance to gain experience for the target class of the event is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6845
+Class Burning Event Bonus! Hot Time!
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6846
+Class Burning Event Bonus! Hot Time!
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6847
+Class Burning Event Bonus! Hot Time!
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6848
+Class Burning Event Bonus! Hot Time!
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6849
+Class Burning Event Bonus! Hot Time!
+Increases the chance of Zenny gaining the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6850
+Class Burning Event Bonus! Hot Time!
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6851
+Class Burning Event Bonus! Hot Time!
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6852
+Class Burning Event Bonus! Hot Time!
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6853
+Class Burning Event Bonus! Hot Time!
+Increased item drop rate for event target classes.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6854
+Class Burning Event Bonus! Hot Time!
+Increases the drop rate of items for the targeted class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6855
+Class Burning Event Bonus! Hot Time!
+Increases the experience value/Zenny acquisition amount/item drop rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6856
+Class Burning Event Bonus! Hot Time!
+Increases the experience value/Zenny acquisition amount/item drop rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6857
+Class Burning Event Bonus! Hot Time!
+Increases the experience value/Zenny acquisition amount/item drop rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6858
+Class Burning Event Bonus! Hot Time!
+Increases the experience value/Zenny acquisition amount/item drop rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6859
+Class Burning Event Bonus! Hot Time!
+Increases the experience value/Zenny acquisition amount/item drop rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6860
+Class Burning Event Bonus! Hot Time!
+The amount of EXP/Zenny gained for the target class of the event increases
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6861
+Class Burning Event Bonus! Hot Time!
+The amount of EXP/Zenny gained for the target class of the event increases
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6862
+Class Burning Event Bonus! Hot Time!
+The amount of EXP/Zenny gained for the target class of the event increases
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6863
+Class Burning Event Bonus! Hot Time!
+The amount of EXP/Zenny gained for the target class of the event increases
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6864
+Class Burning Event Bonus! Hot Time!
+The amount of EXP/Zenny gained for the target class of the event increases
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6865
+Class Burning Event Bonus! Hot Time!
+The experience point/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6866
+Class Burning Event Bonus! Hot Time!
+The experience point/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6867
+Class Burning Event Bonus! Hot Time!
+The experience point/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6868
+Class Burning Event Bonus! Hot Time!
+The experience point/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6869
+Class Burning Event Bonus! Hot Time!
+The experience point/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6870
+Class Burning Event Bonus! Hot Time!
+The amount of Zenny gained/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6871
+Class Burning Event Bonus! Hot Time!
+The amount of Zenny gained/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6872
+Class Burning Event Bonus! Hot Time!
+The amount of Zenny gained/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6873
+Class Burning Event Bonus! Hot Time!
+The amount of Zenny gained/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6874
+Class Burning Event Bonus! Hot Time!
+The amount of Zenny gained/Item drop rate of the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6875
+Class Burning Event Bonus! Hot Time!
+The probability of acquiring experience points for the target class of the event increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6876
+Class Burning Event Bonus! Hot Time!
+The probability of acquiring experience points for the target class of the event increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6877
+Class Burning Event Bonus! Hot Time!
+The probability of acquiring experience points for the target class of the event increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6878
+Class Burning Event Bonus! Hot Time!
+The probability of acquiring experience points for the target class of the event increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6879
+Class Burning Event Bonus! Hot Time!
+The probability of acquiring experience points for the target class of the event increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6880
+Class Burning Event Bonus! Hot Time!
+The amount of Zenny obtained for the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6881
+Class Burning Event Bonus! Hot Time!
+The amount of Zenny obtained for the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6882
+Class Burning Event Bonus! Hot Time!
+The amount of Zenny obtained for the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6883
+Class Burning Event Bonus! Hot Time!
+The amount of Zenny obtained for the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6884
+Class Burning Event Bonus! Hot Time!
+The amount of Zenny obtained for the event target class is increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6885
+Class Burning Event Bonus! Hot Time!
+Increases the drop rate of items for the targeted class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6886
+Class Burning Event Bonus! Hot Time!
+Increases the drop rate of items for the targeted class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6887
+Class Burning Event Bonus! Hot Time!
+Increases the drop rate of items for the targeted class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6888
+Class Burning Event Bonus! Hot Time!
+Increases the drop rate of items for the targeted class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6889
+Class Burning Event Bonus! Hot Time!
+Increases the drop rate of items for the targeted class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6910
+Class Burning Event Bonus! Hot Time!
+The reinforcement success rate of items reinforced by the event target class increases by 5%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=6911
+Class Burning Event Bonus! Hot Time!
+The reinforcement success rate of items reinforced by the event target class increases by 10%. 
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=6912
+Class Burning Event Bonus! Hot Time!
+The reinforcement success rate of items reinforced by the event target class increases by 15%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=6913
+Class Burning Event Bonus! Hot Time!
+The reinforcement success rate of items reinforced by the event target class increases by 20%. 
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=6914
+Class Burning Event Bonus! Hot Time!
+The reinforcement success rate of items reinforced by the event target class increases by 25%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=6915
+Class Burning Event Bonus! Hot Time!
+The reinforcement success rate of items reinforced by the event target class increases by 30%. 
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=6916
+Class Burning Event Bonus! Hot Time!
+The reinforcement success rate of items reinforced by the event target class increases by 35%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=6917
+Class Burning Event Bonus! Hot Time!
+The reinforcement success rate of items reinforced by the event target class increases by 40%. 
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=6918
+Class Burning Event Bonus! Hot Time!
+The reinforcement success rate of items reinforced by the event target class increases by 45%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=6919
+Class Burning Event Bonus! Hot Time!
+The reinforcement success rate of items reinforced by the event target class increases by 50%.
+Icon/Booster/Icon_Booster_Reinforce1
+
+ID=6920
+Class Burning Event Bonus! Hot Time!
+The probability of success of reinforcing experience points/items of the event target class increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6921
+Class Burning Event Bonus! Hot Time!
+The probability of success of reinforcing experience points/items of the event target class increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6922
+Class Burning Event Bonus! Hot Time!
+The probability of success of reinforcing experience points/items of the event target class increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6923
+Class Burning Event Bonus! Hot Time!
+The probability of success of reinforcing experience points/items of the event target class increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6924
+Class Burning Event Bonus! Hot Time!
+The probability of success of reinforcing experience points/items of the event target class increases.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6925
+Class Burning Event Bonus! Hot Time!
+Increases the probability of success of experience value/Zenny acquisition/item drop/item reinforcement of the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6926
+Class Burning Event Bonus! Hot Time!
+Increases the probability of success of experience value/Zenny acquisition/item drop/item reinforcement of the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6927
+Class Burning Event Bonus! Hot Time!
+Increases the probability of success of experience value/Zenny acquisition/item drop/item reinforcement of the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6928
+Class Burning Event Bonus! Hot Time!
+Increases the probability of success of experience value/Zenny acquisition/item drop/item reinforcement of the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6929
+Class Burning Event Bonus! Hot Time!
+Increases the probability of success of experience value/Zenny acquisition/item drop/item reinforcement of the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6930
+Class Burning Event Bonus! Hot Time!
+Increases the probability of success of reinforcing the experience value/Zenny amount/item enhancement of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6931
+Class Burning Event Bonus! Hot Time!
+Increases the probability of success of reinforcing the experience value/Zenny amount/item enhancement of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6932
+Class Burning Event Bonus! Hot Time!
+Increases the probability of success of reinforcing the experience value/Zenny amount/item enhancement of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6933
+Class Burning Event Bonus! Hot Time!
+Increases the probability of success of reinforcing the experience value/Zenny amount/item enhancement of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6934
+Class Burning Event Bonus! Hot Time!
+Increases the probability of success of reinforcing the experience value/Zenny amount/item enhancement of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6935
+Class Burning Event Bonus! Hot Time!
+Increases the success rate of experience/item drop/item enhancement for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6936
+Class Burning Event Bonus! Hot Time!
+Increases the success rate of experience/item drop/item enhancement for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6937
+Class Burning Event Bonus! Hot Time!
+Increases the success rate of experience/item drop/item enhancement for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6938
+Class Burning Event Bonus! Hot Time!
+Increases the success rate of experience/item drop/item enhancement for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6939
+Class Burning Event Bonus! Hot Time!
+Increases the success rate of experience/item drop/item enhancement for the target class of the event.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6940
+Class Burning Event Bonus! Hot Time!
+Increases the amount of Zenny acquisition/item drop/item enhancement success rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6941
+Class Burning Event Bonus! Hot Time!
+Increases the amount of Zenny acquisition/item drop/item enhancement success rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6942
+Class Burning Event Bonus! Hot Time!
+Increases the amount of Zenny acquisition/item drop/item enhancement success rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6943
+Class Burning Event Bonus! Hot Time!
+Increases the amount of Zenny acquisition/item drop/item enhancement success rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6944
+Class Burning Event Bonus! Hot Time!
+Increases the amount of Zenny acquisition/item drop/item enhancement success rate of the event target class.
+Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=7000
 Cheering Event Booster!
 Chance to increase Zenny and Stamina
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=7001
+Cheering Event Booster!
 Chance to increase Zenny, Stamina, Attack and Defense
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=9001
+Booster! [Be strong!]
+Experience gain is increased.
+Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=2022
 [Attack] Booster
@@ -1155,6 +3294,106 @@ Attack speed is increased.
 Icon/Booster/Icon_Booster_FlashPerfume
 
 ID=2025
-[Critrate] Booster
-Crit chance increased.
+[Critical Chance] Enhancement Booster
+Critical Chance increased.
+Icon/Booster/Icon_Booster_LightingPerfume
+
+ID=3010
+Kill The Thing! Bonus
+Item drop rate increases by 20%
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3011
+Kill The Thing! Bonus
+Item drop rate increases by 21%
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3012
+Kill The Thing! Bonus
+Item drop rate 22%, kill experience 5% increase
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3013
+Kill The Thing! Bonus
+Item drop rate increases by 23% and kill experience by 7%
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3014
+Kill The Thing! Bonus
+Item drop rate 24%, kill experience 10% increase
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3015
+Kill The Thing! Bonus
+Item drop rate 25%, kill experience 15% increase
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3020
+Kill the Doom! Bonus
+Item drop rate 20%
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3021
+Kill the Doom! Bonus
+Item drop rate increases by 21% and kill experience by 5%
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3022
+Kill the Doom! Bonus
+Item drop rate 22%, kill experience 10% increase
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3023
+Kill the Doom! Bonus
+Item drop rate 23%, kill experience 10%, drop Zenny 5% increase
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3024
+Kill the Doom! Bonus
+Item drop rate 24%, kill experience 15%, drop Zenny 10% increase
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3025
+Kill the Doom! Bonus
+Item drop rate 25%, kill experience 15%, drop Zenny 10%, clear experience 10% increase
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=2114
+Booster! [Lucky day!]
+Item drop rate increases.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=901
+Booster [Experience Increase]
+Earned experience increases.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=902
+Booster [Experience Increase]
+Clear experience increases.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=2115
+Booster! [Lucky day!]
+Item drop rate increases.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2047
+[Attack Power] Enhancement Booster
+Attack Power increases.
+Icon/Booster/Icon_Booster_BloodPerfume
+
+ID=2048
+[Armor] Enhancement Booster
+Armor is increased
+Icon/Booster/Icon_Booster_IronPerfume
+
+ID=2049
+[Attack Speed] Enhancement Booster
+Attack Speed increases
+Icon/Booster/Icon_Booster_FlashPerfume
+
+ID=2050
+[Critical Chance] Enhancement Booster
+Critical Chance increased.
 Icon/Booster/Icon_Booster_LightingPerfume
