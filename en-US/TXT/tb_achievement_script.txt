@@ -2089,3 +2089,15 @@ Clear Lunar Falls 30 times
 ID=4008305
 Destroy the black moon
 Clear Lunar Falls 50 times
+
+ID=4008401
+래피드 플레임의 수장을 만나다
+바이올런트 선 1회 클리어
+
+ID=4008402
+래피드 플레임의 숙적이 되다
+바이올런트 선 50회 클리어
+
+ID=4008403
+이 전쟁을 마무리하러 왔다
+바이올런트 선 300회 클리어

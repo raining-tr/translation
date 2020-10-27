@@ -1060,6 +1060,9 @@ Offensive Tag
 ID=8009
 Defensive Tag
 
+ID=8011
+액세서리 태그
+
 ID=5099
 Admission Ticket
 
@@ -1182,3 +1185,15 @@ Event
 
 ID=9015
 Purchase
+
+ID=6100
+리그레이드
+
+ID=6101
+보상 제작
+
+ID=6110
+업그레이드
+
+ID=6111
+제련석
