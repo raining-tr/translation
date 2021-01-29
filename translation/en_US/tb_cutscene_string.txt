@@ -1,0 +1,584 @@
+ID=100101
+Huh? Why did I want to become a doctor?
+
+ID=100102
+Because... I wanted to help people, obviously! Hehe!
+
+ID=100103
+Mom! Mom! I did it! I even got top marks!
+
+ID=100104
+Warning! Warning! Evacuate to the shelter immediately!
+
+ID=100105
+I repeat! Evacuate to the shelter immediately!
+
+ID=100106
+Mom.. please hold on! I'll get you out of there.
+
+ID=100107
+I'll save you, mom... no! Please! NOOO!!!
+
+ID=100201
+At the age of just 18, you won the Game of the Year award. How do you feel?
+
+ID=100202
+That must've happened while I wasn't paying attention. I can catch a big fish in my sleep!
+
+ID=100203
+This amazing game, written by a regular high school student, has been ranked #1 for 20 consecutive weeks!
+
+ID=100204
+With him being one of the 100 most influential people on the planet, he refused every interview until this very day.
+
+ID=100205
+Oh man. Oh god, this world is such a bore.
+
+ID=100206
+Most major cities have been destroyed by The Great Void, along with millions of people either killed or missing.
+
+ID=100207
+Great Void.. well that is something new. I should take a closer look at that.
+
+ID=100208
+How dreadfully... exciting! What are you exactly? Tell me!
+
+ID=100209
+Come on, out with it already!
+
+ID=100210
+Alright, fine! Swallow me up then. I'll find out myself!
+
+ID=100301
+Do you mean that thing which appeared nearby?
+
+ID=100302
+I'm not sure what that is exactly.
+
+ID=100303
+Anyways, I have something else to tell you! I went shopping today and...
+
+ID=100304
+Err.. what's going on?
+
+ID=100305
+Why is it so loud in the middle of the night?
+
+ID=100306
+Huh?! No... Aaaaah!
+
+ID=100307
+What... what are you?!
+
+ID=100308
+Spit him out! Give me back my brother!
+
+ID=100309
+*sob* Ah... aaah... aaaaaaah...!!
+
+ID=100310
+Ha.. ha.. hahaha! Ahahahahahaha!
+
+ID=100401
+Three months have passed since the Great Void appeared.
+
+ID=100402
+Most major cities have been destroyed by The Great Void, along with millions of people either killed or missing.
+
+ID=100403
+Are we all really safe here?
+
+ID=100404
+Yes, this is a safe zone. I promise!
+
+ID=100405
+Alright.. I trust you.
+
+ID=100406
+Well then! I've been a member of the rescue team for 2 months and have nothing but accolades to my name! Hahaha!
+
+ID=100407
+The Great Void! The Great Void! It has appeared... in our safe haven!
+
+ID=100408
+You said we'd be safe here! Wh-wh-why...?
+
+ID=100409
+It's all... because of me... It's all my fault!
+
+ID=100410
+I... I have to save them. I have to!
+
+ID=100411
+Don't do it! You'll die!
+
+ID=100412
+Ahhhhhh!!
+
+ID=100501
+Why did you come to this town?!
+
+ID=100502
+They all died because of you, all because of your curse!
+
+ID=100503
+N.. no, it's not... my fault.
+
+ID=100504
+Why are you doing this to us?
+
+ID=100505
+Is it really all my fault? Should I not be in this world?
+
+ID=100506
+I am so sorry. Now I'm all alone again.
+
+ID=100507
+Old man, will we be alone there as well?
+
+ID=100508
+After all, there's no one there to hate me.
+
+ID=100509
+I don't want to be sad anymore.
+
+ID=100601
+Iris! Don't even think about going out to play!
+
+ID=100602
+But my friends are waiting for me...
+
+ID=100603
+I'm about to lose my cool!
+
+ID=100604
+Alright, fine, I understand.
+
+ID=100605
+Where did you learn that nasty stuff?
+
+ID=100606
+But he was messing with my friend, Marie!
+
+ID=100607
+Why can't you be more like your sisters?!
+
+ID=100608
+Why must you always go dragging the name of the Yuma clan through the mud?
+
+ID=100609
+But... I don't want to be like them!
+
+ID=100610
+I don't need a family. I wish you'd all just disappear!
+
+ID=100611
+Warning! Warning! Evacuate to the shelter immediately!
+
+ID=100612
+I repeat! Evacuate to the shelter immediately!
+
+ID=100613
+Wh-what's that?
+
+ID=100614
+Noooo! Mommy! Daddy! Sisters!
+
+ID=100615
+Aaaaahh!
+
+ID=100616
+I didn't really mean it!
+
+ID=100617
+Why did you make them all disappear?!
+
+ID=100618
+You evil bastard!
+
+ID=101001
+You'll open your eyes to another world.
+
+ID=101002
+The ordinary and daily life you knew no longer exists.
+
+ID=101003
+You have the power to change this world.
+
+ID=101004
+Bring judgment to all those who threaten this world!
+
+ID=201001
+Hurry, please! We're being pursued by a Malevil.
+
+ID=201101
+You are me, and I am you…
+
+ID=201102
+I have swore an oath to protect you.
+
+ID=201103
+Remember this. You are me, and I am you.
+
+ID=201104
+Promise me one thing. Promise that you will find me.
+
+ID=201201
+We are one and two. Two and one.
+
+ID=201202
+As a proof of my holy oath... I'll protect you.
+
+ID=201203
+Don't forget. Me and my brother are one.
+
+ID=201204
+So... try to find me a little faster. It's a promise.
+
+ID=201301
+You and I are one, a mutually existential relationship.
+
+ID=201302
+I have no choice but to protect you, as I've already promised to do so.
+
+ID=201303
+Don't forget, that me and you are one.
+
+ID=201304
+Find me quickly, I won't forgive you if you are late.
+
+ID=201401
+You are me. I am you. We are one.
+
+ID=201402
+I will protect you as a proof of my holy oath.
+
+ID=201403
+Don't forget. That we have to be together. 
+
+ID=201404
+So don't forget to find me. Got it?
+
+ID=201501
+We were born as one and became two, but we exist as one.
+
+ID=201502
+As proof of the holy oath, I'll protect you.
+
+ID=201503
+Please don't forget. We are one.
+
+ID=201504
+So promise me. To make sure you'll find me.
+
+ID=201601
+You and me used to be one.
+
+ID=201602
+As proof of my promise, I'll protect you.
+
+ID=201603
+Don't forget. That we were one.
+
+ID=201604
+So please. Make sure...  you find me again.
+
+ID=201002
+What is this...!!
+
+ID=201003
+Wake up, you can't fall down here!
+
+ID=202001
+What are you doing.
+
+ID=202002
+Edgar, you're here!
+
+ID=202003
+Fill this world with dolls, to make you the king of this world!
+
+ID=202004
+No need for that.
+
+ID=202005
+What?
+
+ID=202006
+I'm not interested in being a king. 
+
+ID=202007
+I'm just a clown who is satisfied by making her smile.
+
+ID=202008
+Edgar... what are you talking about?
+
+ID=202009
+I guess it was a mistake to give you this role.
+
+ID=202010
+and your way is too ugly. Useless items should be discarded.
+
+ID=202011
+Edgar... Edgar!!!
+
+ID=203101
+You want to save her?
+
+ID=203102
+But... She is only allowed to rest for now.
+
+ID=203103
+If you promise to be with me forever... I'll give you the power.
+
+ID=203104
+The strength to rest.
+
+ID=203105
+I promise! Give me the power... 
+
+ID=203106
+I don't... want to do this anymore...!
+
+ID=203107
+I swear... It's done here now.
+
+ID=203108
+Ahhhh!!
+
+ID=203201
+Hey bro. you look in trouble, need a help?
+
+ID=203202
+I have good news. I got the strength to give that child rest.
+
+ID=203203
+But it's not free like everything.
+
+ID=203204
+I'll give you the strength if you promise to be with me.
+
+ID=203205
+A great power.
+
+ID=203206
+What do you think? Do you have any ideas?
+
+ID=203207
+Even if the devil comes out, I swear!
+
+ID=203208
+Give it to me. Give me the power!
+
+ID=203209
+I knew it would. The oath is established!
+
+ID=203210
+Ughahhh!!
+
+ID=203301
+He's not dead, that child. You want to get it done completely, right?
+
+ID=203302
+But what am I supposed to do? You wouldn't be able to do it now with your ability~
+
+ID=203303
+Swear to me that you want power.
+
+ID=203304
+Then I'll give you the power to completely end that child.
+
+ID=203305
+I'll... accept the deal. Give me... strength.
+
+ID=203306
+I got it. Forever here and now, I promise.
+
+ID=203307
+Ahhhh!!
+
+ID=203401
+Do you want to save that girl?
+
+ID=203402
+But you already know.
+
+ID=203403
+The only way to save that girl is, to give her rest.
+
+ID=203404
+So if you promise me, I'll give you the power.
+
+ID=203405
+I promise! And I will... bear the guilt!
+
+ID=203406
+With your wishes, the oath has been established.
+
+ID=203407
+Ughahhh!!
+
+ID=203501
+Just like I said, right? You'll be sad.
+
+ID=203502
+If she stays still like this, the child will continue suffering. You don't want that, right?
+
+ID=203503
+Promise me. If you promise, you'll gain power.
+
+ID=203504
+The power to save that child from sadness!
+
+ID=203505
+I'll do it, I'll do it... I'll do everything!
+
+ID=203506
+I don't want to do it anymore!
+
+ID=203507
+Alright. Forever here and now... I promise!
+
+ID=203601
+That child can't come back anymore...
+
+ID=203602
+All we can do for you, is to let you sleep quietly like this.
+
+ID=203603
+If you truly want to end this tragedy, swear an oath to me.
+
+ID=203604
+Tell me you want more strength...
+
+ID=203605
+Give it to me... ! I swear, give it to me... !
+
+ID=203606
+Give out all your strength or whatever!
+
+ID=203607
+Yes, the contract has been established…
+
+ID=203608
+Now… Fight as you please…
+
+ID=203609
+Ughahhh!!
+
+ID=203001
+Thank you…
+
+ID=204001
+Shion… We finally met.
+
+ID=205001
+No, Shion. Wake up! Wake up... Shion!
+
+ID=205002
+Shion!!!
+
+ID=206001
+Stop, another fate.
+
+ID=206002
+It's not time for you to be here.
+
+ID=206003
+Go back to the air.
+
+ID=206004
+It'll be here soon, a time of true awakening.
+
+ID=206005
+Oh... no!
+
+ID=206006
+The time has come for the two cogs to mesh, and the axis of the world will turn.
+
+ID=206007
+May you not fail.
+
+ID=401001
+The pride of Nihil Kingdom is the loyalty to the royal family!\nThe loyalty of Nihil Kingdom is the pride of me!
+
+ID=401002
+Blue-eyed warriors, though many of you may not remember your sacrifice./n Be a proud member of the children's hymn and story to be the history of the eternal royal family!
+
+ID=401003
+My name is Arua! The Ten Commandments of the Proud Country of Niheal Kingdom!
+
+ID=401004
+We punish those who interfere with the noble march of our Blue Knights!\nWe came to satisfy your thirst for revenge with your red blood!
+
+ID=401005
+Give up and let go of that throat! Hyaahahahahahah!
+
+ID=401006
+Ah!
+
+ID=402001
+I will be buried quietly in this barren land...I will curse you till the end for the royal family\n...
+
+ID=700001
+Dad… Dad…
+
+ID=700002
+Catherine? Are you okay?
+
+ID=700003
+Dad… Where are you?
+
+ID=700004
+Yes, this is Catherine! Come this way!
+
+ID=700005
+C... Catherine… ! Catherine!!!
+
+ID=302001
+For people.\nIf you have learned something, you are inadvertently relying on that knowledge in a hurry.
+
+ID=302002
+If your arm falls off your body, you will burn yourself. If you learn this proposition repeatedly.
+
+ID=302003
+The premise that the arm has fallen from the body leads to the conclusion that it is an alter ego without any doubt.
+
+ID=302004
+So, did you ask me to cut off my arm just because I wanted to trick people?
+
+ID=302005
+Really… I'm not sane.
+
+ID=302006
+Haha, nothing is as boring as being sane!
+
+ID=302007
+How about you too? Wouldn't it be more fun to live like this?
+
+ID=302008
+No, it's enough for me to be bored.
+
+ID=302009
+That's not funny.
+
+ID=301001
+Mr. Erwin... Mr. Erwin?
+
+ID=301002
+Well, I finally found out.\nWhy I felt bad, what I was mistaking... I get it all!
+
+ID=301003
+These people... these people in this space... It's all blank...\nIt wasn't human, it was part of the void!
+
+ID=301004
+I had to kill them all! All of them!
+
+ID=301005
+Aha... Aha ha ha ha...
+
+ID=301006
+As expected, I wasn't wrong.
+
+ID=301007
+I told you, that smile on your face suits you well...
