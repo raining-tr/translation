@@ -2089,3 +2089,15 @@ Clear Lunar Falls 30 times
 ID=4008305
 Destroy the black moon
 Clear Lunar Falls 50 times
+
+ID=4008401
+Meet the leader of Rapid Flame
+Clear Violent Sun 1 time
+
+ID=4008402
+Becomes the enemy of Rapid Flame
+Clear Violent Sun 50 times
+
+ID=4008403
+Came to end this war
+Clear Violent Sun 300 times
