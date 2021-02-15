@@ -585,3 +585,27 @@ The world is melting.. what is the dream, and what is reality?
 ID=21023
 Mileage Points
 When purchasing cash items, you can purchase products at the mileage shop with the provided goods.\nThe accumulated mileage is reset on the 1st of each month and can be used until 23:59 on the last day of each month.
+
+ID=21024
+Mileage Points
+When purchasing cash items, you can purchase products at the mileage shop with the provided goods.\nThe accumulated mileage is reset on the 1st of each month and can be used until 23:59 on the last day of each month.
+
+ID=21025
+Mileage Points
+When purchasing cash items, you can purchase products at the mileage shop with the provided goods.\nThe accumulated mileage is reset on the 1st of each month and can be used until 23:59 on the last day of each month.
+
+ID=11049
+Brushing Teeth
+Make a brushing gesture.
+
+ID=11050
+Shadow Whisper
+Makes a shadow whisper gesture.
+
+ID=11051
+White Sand
+Makes a gesture of the white sand beach.
+
+ID=11052
+Romance and Blossom
+Makes a romance and blossom gesture.
