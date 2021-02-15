@@ -1494,3 +1494,69 @@ Shadow
 
 ID=201489
 Ephnel Morph
+
+ID=101494
+Glutton Vending Machine
+
+ID=201494
+Glutton-Shaped Vending Machine
+
+ID=101497
+Scale
+
+ID=201497
+Maze Move Support
+
+ID=201499
+President of NED Company
+
+ID=201500
+Betsy Ready for Revenge
+
+ID=201501
+S.T Labs Scientist
+
+ID=201505
+A Dangerous Soldier
+
+ID=201506
+Operational Support Soldier
+
+ID=101507
+Pilot
+
+ID=101510
+Near Soul Worker Marie
+
+ID=101495
+Ephnel
+
+ID=101511
+Ian
+
+ID=201511
+Lieutenant of Haifu
+
+ID=101517
+Smith
+
+ID=201517
+A soldier who missed the war while sleeping
+
+ID=101518
+Jane
+
+ID=201518
+A fallen engineer squad soldier
+
+ID=201520
+Rocco Town refugees
+
+ID=101530
+Wedding Glutton Shops
+
+ID=201530
+Sales of wedding hall supplies
+
+ID=100004
+Stranger
