@@ -1060,6 +1060,9 @@ Offensive Tag
 ID=8009
 Defensive Tag
 
+ID=8011
+Accessory Tag
+
 ID=5099
 Admission Ticket
 
@@ -1182,3 +1185,15 @@ Event
 
 ID=9015
 Purchase
+
+ID=6100
+League Raid
+
+ID=6101
+Reward Production
+
+ID=6110
+Upgrade
+
+ID=6111
+Smelting Stone
