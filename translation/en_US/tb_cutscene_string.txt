@@ -122,7 +122,7 @@ ID=100502
 They all died because of you, all because of your curse!
 
 ID=100503
-N.. no, it's not... my fault.
+N-no, it's not... my fault.
 
 ID=100504
 Why are you doing this to us?
