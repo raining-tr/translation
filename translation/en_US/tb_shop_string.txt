@@ -1067,10 +1067,10 @@ ID=5099
 Admission Ticket
 
 ID=4007
-Katana
+Roaring Blade
 
 ID=4207
-Katana
+Roaring Blade
 
 ID=4307
 Chii
